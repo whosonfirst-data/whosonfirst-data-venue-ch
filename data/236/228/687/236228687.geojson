@@ -2,13 +2,14 @@
   "id": 236228687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.195092,46.232536,6.195092,46.232536",
     "geom:latitude":46.232536,
     "geom:longitude":6.195092,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Pr\u00e9v\u00f4t\u00e9 9 1223 Cologny Case Postale",
     "sg:city":"Cologny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236228687,
-    "wof:lastmodified":1449002522,
+    "wof:lastmodified":1466211125,
     "wof:name":"Nema Productions Sa Product. De Concerts, De Repr\u00e9s. Th\u00e9\u00e2trales Et D'\u00e9missions Radiophon. Ou T\u00e9l\u00e9vis\u00e9es, Etc.",
     "wof:parent_id":85799915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.195092,46.232536,6.195092,46.232536],
+  "bbox": [
+    6.195092,
+    46.232536,
+    6.195092,
+    46.232536
+],
   "geometry": {"coordinates":[6.195092,46.232536],"type":"Point"}
 }

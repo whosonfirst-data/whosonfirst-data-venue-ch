@@ -2,13 +2,14 @@
   "id": 186615505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.936996,47.514133,8.936996,47.514133",
     "geom:latitude":47.514133,
     "geom:longitude":8.936996,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstrasse 198",
     "sg:city":"Matzingen",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186615505,
-    "wof:lastmodified":1449051233,
+    "wof:lastmodified":1466212033,
     "wof:name":"F. Sonderegger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbour"
     ]
 },
-  "bbox": [8.936996,47.514133,8.936996,47.514133],
+  "bbox": [
+    8.936996,
+    47.514133,
+    8.936996,
+    47.514133
+],
   "geometry": {"coordinates":[8.936996,47.514133],"type":"Point"}
 }

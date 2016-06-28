@@ -2,13 +2,14 @@
   "id": 236856437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.987196,45.853962,8.987196,45.853962",
     "geom:latitude":45.853962,
     "geom:longitude":8.987196,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mola 12",
     "sg:city":"Coldrerio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236856437,
-    "wof:lastmodified":1449002405,
+    "wof:lastmodified":1466212939,
     "wof:name":"Banca Raiffeisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.987196,45.853962,8.987196,45.853962],
+  "bbox": [
+    8.987196,
+    45.853962,
+    8.987196,
+    45.853962
+],
   "geometry": {"coordinates":[8.987196,45.853962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220151425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.404093,47.332253,9.404093,47.332253",
     "geom:latitude":47.332253,
     "geom:longitude":9.404093,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandgrube 2a",
     "sg:city":"Appenzell",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220151425,
-    "wof:lastmodified":1449074070,
+    "wof:lastmodified":1466210175,
     "wof:name":"Thomas F\u00e4ssler Innenausbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.404093,47.332253,9.404093,47.332253],
+  "bbox": [
+    9.404093,
+    47.332253,
+    9.404093,
+    47.332253
+],
   "geometry": {"coordinates":[9.404093,47.332253],"type":"Point"}
 }

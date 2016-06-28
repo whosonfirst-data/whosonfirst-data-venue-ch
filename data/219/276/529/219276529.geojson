@@ -2,13 +2,14 @@
   "id": 219276529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.264985,47.049595,8.264985,47.049595",
     "geom:latitude":47.049595,
     "geom:longitude":8.264985,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luzernerstrasse 135",
     "sg:city":"Littau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219276529,
-    "wof:lastmodified":1449070498,
+    "wof:lastmodified":1466209030,
     "wof:name":"Garage Fritz Jakober Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.264985,47.049595,8.264985,47.049595],
+  "bbox": [
+    8.264985,
+    47.049595,
+    8.264985,
+    47.049595
+],
   "geometry": {"coordinates":[8.264985,47.049595],"type":"Point"}
 }

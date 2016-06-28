@@ -2,13 +2,14 @@
   "id": 236301789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.125059,46.232517,6.125059,46.232517",
     "geom:latitude":46.232517,
     "geom:longitude":6.125059,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenb\u00fchlstrasse 37",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236301789,
-    "wof:lastmodified":1449002312,
+    "wof:lastmodified":1466211724,
     "wof:name":"Hubert Pannatier Taxis",
     "wof:parent_id":85862451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.125059,46.232517,6.125059,46.232517],
+  "bbox": [
+    6.125059,
+    46.232517,
+    6.125059,
+    46.232517
+],
   "geometry": {"coordinates":[6.125059,46.232517],"type":"Point"}
 }

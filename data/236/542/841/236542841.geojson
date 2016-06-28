@@ -2,13 +2,14 @@
   "id": 236542841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.43698,47.354092,8.43698,47.354092",
     "geom:latitude":47.354092,
     "geom:longitude":8.43698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 9",
     "sg:city":"Birmensdorf",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236542841,
-    "wof:lastmodified":1449004357,
+    "wof:lastmodified":1466212584,
     "wof:name":"Simplex Hydraulik Schweiz Ag",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book-keeping"
     ]
 },
-  "bbox": [8.43698,47.354092,8.43698,47.354092],
+  "bbox": [
+    8.43698,
+    47.354092,
+    8.43698,
+    47.354092
+],
   "geometry": {"coordinates":[8.43698,47.354092],"type":"Point"}
 }

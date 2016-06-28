@@ -2,13 +2,14 @@
   "id": 202811147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.60259,45.985413,5.60259,45.985413",
     "geom:latitude":45.985413,
     "geom:longitude":5.60259,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Tivoli 2 1007 Lausanne Case Postale 2232",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202811147,
-    "wof:lastmodified":1449061355,
+    "wof:lastmodified":1466211620,
     "wof:name":"Bureau D'architecture, Collaud Eric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.60259,45.985413,5.60259,45.985413],
+  "bbox": [
+    5.60259,
+    45.985413,
+    5.60259,
+    45.985413
+],
   "geometry": {"coordinates":[5.60259,45.985413],"type":"Point"}
 }

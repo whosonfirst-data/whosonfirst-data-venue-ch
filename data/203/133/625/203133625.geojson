@@ -2,13 +2,14 @@
   "id": 203133625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.928267,46.005703,8.928267,46.005703",
     "geom:latitude":46.005703,
     "geom:longitude":8.928267,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Avv. B Leoni 8",
     "sg:city":"Breganzona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203133625,
-    "wof:lastmodified":1449026516,
+    "wof:lastmodified":1466211464,
     "wof:name":"Dott.med. Raffaella Verzasconi Specialista Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.928267,46.005703,8.928267,46.005703],
+  "bbox": [
+    8.928267,
+    46.005703,
+    8.928267,
+    46.005703
+],
   "geometry": {"coordinates":[8.928267,46.005703],"type":"Point"}
 }

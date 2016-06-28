@@ -2,13 +2,14 @@
   "id": 236415245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.15779,46.633709,7.15779,46.633709",
     "geom:latitude":46.633709,
     "geom:longitude":7.15779,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De L'imp\u00e9ratrice 1 1292 Chamb\u00e9sy. Postfach",
     "sg:city":"Chamb\u00e9sy",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236415245,
-    "wof:lastmodified":1449004141,
+    "wof:lastmodified":1466212301,
     "wof:name":"Biblioth\u00e8que Du Couvent De La Chartreuse De La Valsainte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [7.15779,46.633709,7.15779,46.633709],
+  "bbox": [
+    7.15779,
+    46.633709,
+    7.15779,
+    46.633709
+],
   "geometry": {"coordinates":[7.15779,46.633709],"type":"Point"}
 }

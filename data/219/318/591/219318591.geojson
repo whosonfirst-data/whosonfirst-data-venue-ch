@@ -2,13 +2,14 @@
   "id": 219318591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.688457,47.487907,8.688457,47.487907",
     "geom:latitude":47.487907,
     "geom:longitude":8.688457,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4ttnauerstrasse 22",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219318591,
-    "wof:lastmodified":1449071179,
+    "wof:lastmodified":1466209423,
     "wof:name":"Walter Friedrich Garage Blumenau",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.688457,47.487907,8.688457,47.487907],
+  "bbox": [
+    8.688457,
+    47.487907,
+    8.688457,
+    47.487907
+],
   "geometry": {"coordinates":[8.688457,47.487907],"type":"Point"}
 }

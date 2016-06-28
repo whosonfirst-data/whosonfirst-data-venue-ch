@@ -2,13 +2,14 @@
   "id": 203192931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.015108,46.250328,7.015108,46.250328",
     "geom:latitude":46.250328,
     "geom:longitude":7.015108,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Cropt 11",
     "sg:city":"Bex",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203192931,
-    "wof:lastmodified":1449026311,
+    "wof:lastmodified":1466209392,
     "wof:name":"Dr M\u00e9d. Jean-luc Favre M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.015108,46.250328,7.015108,46.250328],
+  "bbox": [
+    7.015108,
+    46.250328,
+    7.015108,
+    46.250328
+],
   "geometry": {"coordinates":[7.015108,46.250328],"type":"Point"}
 }

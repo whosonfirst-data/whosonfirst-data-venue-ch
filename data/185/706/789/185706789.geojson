@@ -2,13 +2,14 @@
   "id": 185706789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534376,47.372139,8.534376,47.372139",
     "geom:latitude":47.372139,
     "geom:longitude":8.534376,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talstrasse 82",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185706789,
-    "wof:lastmodified":1449006717,
+    "wof:lastmodified":1466211163,
     "wof:name":"Frick & Frick",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534376,47.372139,8.534376,47.372139],
+  "bbox": [
+    8.534376,
+    47.372139,
+    8.534376,
+    47.372139
+],
   "geometry": {"coordinates":[8.534376,47.372139],"type":"Point"}
 }

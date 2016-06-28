@@ -2,13 +2,14 @@
   "id": 236578261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564903,47.361336,8.564903,47.361336",
     "geom:latitude":47.361336,
     "geom:longitude":8.564903,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofackerstrasse 40 8032 Z\u00fcrich. Postfach",
     "sg:city":"H\u00e4gendorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236578261,
-    "wof:lastmodified":1449002302,
+    "wof:lastmodified":1466212648,
     "wof:name":"Books On Demand (schweiz) Gmbh B\u00fccher; Produktion, Herstellung, Vertrieb",
     "wof:parent_id":85800057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564903,47.361336,8.564903,47.361336],
+  "bbox": [
+    8.564903,
+    47.361336,
+    8.564903,
+    47.361336
+],
   "geometry": {"coordinates":[8.564903,47.361336],"type":"Point"}
 }

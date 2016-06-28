@@ -2,13 +2,14 @@
   "id": 219337519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.676254,47.431904,8.676254,47.431904",
     "geom:latitude":47.431904,
     "geom:longitude":8.676254,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Huebstrasse 35 8317 Tagelswangen. Postfach",
     "sg:city":"Lindau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219337519,
-    "wof:lastmodified":1449072049,
+    "wof:lastmodified":1466209590,
     "wof:name":"Garage Markwalder Ag Neu, Gebrauchtfahrzeuge, Bes. Personenwagen; Handel. Fahrzeug-reparaturwerkstatt",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.676254,47.431904,8.676254,47.431904],
+  "bbox": [
+    8.676254,
+    47.431904,
+    8.676254,
+    47.431904
+],
   "geometry": {"coordinates":[8.676254,47.431904],"type":"Point"}
 }

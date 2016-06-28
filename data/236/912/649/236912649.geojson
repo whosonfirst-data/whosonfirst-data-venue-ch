@@ -2,13 +2,14 @@
   "id": 236912649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52281,47.389606,8.52281,47.389606",
     "geom:latitude":47.389606,
     "geom:longitude":8.52281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilhelmstrasse 10 8005 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236912649,
-    "wof:lastmodified":1449003245,
+    "wof:lastmodified":1466213021,
     "wof:name":"Organisation & Informatik Oiz Der Stadt Z\u00fcrich",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52281,47.389606,8.52281,47.389606],
+  "bbox": [
+    8.52281,
+    47.389606,
+    8.52281,
+    47.389606
+],
   "geometry": {"coordinates":[8.52281,47.389606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202742183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.550451,47.414375,8.550451,47.414375",
     "geom:latitude":47.414375,
     "geom:longitude":8.550451,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Binzm\u00fchlestrasse 14 8000 Z\u00fcrich. Postfach 8050 Z\u00fcrich",
     "sg:city":"Zust",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202742183,
-    "wof:lastmodified":1449060277,
+    "wof:lastmodified":1466210985,
     "wof:name":"Tk3 Ag, Zweigniederlassung Z\u00fcrich",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.550451,47.414375,8.550451,47.414375],
+  "bbox": [
+    8.550451,
+    47.414375,
+    8.550451,
+    47.414375
+],
   "geometry": {"coordinates":[8.550451,47.414375],"type":"Point"}
 }

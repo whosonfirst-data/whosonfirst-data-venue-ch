@@ -2,13 +2,14 @@
   "id": 185730725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.161012,46.20105,6.161012,46.20105",
     "geom:latitude":46.20105,
     "geom:longitude":6.161012,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 99 9494 Schaan. Postfach 532",
     "sg:city":"Schaan",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185730725,
-    "wof:lastmodified":1449007976,
+    "wof:lastmodified":1466211330,
     "wof:name":"Oswald Bregy Etude D'avocat",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.161012,46.20105,6.161012,46.20105],
+  "bbox": [
+    6.161012,
+    46.20105,
+    6.161012,
+    46.20105
+],
   "geometry": {"coordinates":[6.161012,46.20105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219972881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525104,47.314945,8.525104,47.314945",
     "geom:latitude":47.314945,
     "geom:longitude":8.525104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werdstrasse 9",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219972881,
-    "wof:lastmodified":1449072152,
+    "wof:lastmodified":1466212755,
     "wof:name":"Richard H. Jucker Planung & Beratung",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525104,47.314945,8.525104,47.314945],
+  "bbox": [
+    8.525104,
+    47.314945,
+    8.525104,
+    47.314945
+],
   "geometry": {"coordinates":[8.525104,47.314945],"type":"Point"}
 }

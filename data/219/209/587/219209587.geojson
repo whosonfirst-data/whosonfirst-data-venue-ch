@@ -2,13 +2,14 @@
   "id": 219209587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.441432,47.272354,8.441432,47.272354",
     "geom:latitude":47.272354,
     "geom:longitude":8.441432,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weihermattstrasse 86",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219209587,
-    "wof:lastmodified":1449073544,
+    "wof:lastmodified":1466211031,
     "wof:name":"Lca Automation Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "automotive"
     ]
 },
-  "bbox": [8.441432,47.272354,8.441432,47.272354],
+  "bbox": [
+    8.441432,
+    47.272354,
+    8.441432,
+    47.272354
+],
   "geometry": {"coordinates":[8.441432,47.272354],"type":"Point"}
 }

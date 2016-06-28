@@ -2,13 +2,14 @@
   "id": 203421615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.391208,46.944572,7.391208,46.944572",
     "geom:latitude":46.944572,
     "geom:longitude":7.391208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcmplizstrasse 84b/204",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203421615,
-    "wof:lastmodified":1449026177,
+    "wof:lastmodified":1466211688,
     "wof:name":"Dr.med.ulrich Heusser Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.391208,46.944572,7.391208,46.944572],
+  "bbox": [
+    7.391208,
+    46.944572,
+    7.391208,
+    46.944572
+],
   "geometry": {"coordinates":[7.391208,46.944572],"type":"Point"}
 }

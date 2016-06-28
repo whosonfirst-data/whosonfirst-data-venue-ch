@@ -2,13 +2,14 @@
   "id": 219872141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.502647,47.01812,7.502647,47.01812",
     "geom:latitude":47.01812,
     "geom:longitude":7.502647,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3322 Sch\u00f6nb\u00fchl-urtenen. Postfach",
     "sg:city":"Sch\u00f6nb\u00fchl-urtenen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219872141,
-    "wof:lastmodified":1449070705,
+    "wof:lastmodified":1466212596,
     "wof:name":"Baugen.des Migros-personals",
     "wof:parent_id":85800023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.502647,47.01812,7.502647,47.01812],
+  "bbox": [
+    7.502647,
+    47.01812,
+    7.502647,
+    47.01812
+],
   "geometry": {"coordinates":[7.502647,47.01812],"type":"Point"}
 }

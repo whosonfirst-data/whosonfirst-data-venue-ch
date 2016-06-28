@@ -2,13 +2,14 @@
   "id": 202705089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.629345,46.515247,6.629345,46.515247",
     "geom:latitude":46.515247,
     "geom:longitude":6.629345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De Grancy 19a",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202705089,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466210636,
     "wof:name":"Schopfer Et Niggli Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.629345,46.515247,6.629345,46.515247],
+  "bbox": [
+    6.629345,
+    46.515247,
+    6.629345,
+    46.515247
+],
   "geometry": {"coordinates":[6.629345,46.515247],"type":"Point"}
 }

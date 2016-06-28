@@ -2,13 +2,14 @@
   "id": 186396789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.5288,47.386162,8.5288,47.386162",
     "geom:latitude":47.386162,
     "geom:longitude":8.5288,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quellenstrasse 8005 Z\u00fcrich. Postfach 1416",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186396789,
-    "wof:lastmodified":1449052127,
+    "wof:lastmodified":1466210570,
     "wof:name":"Muff Josef Ag, Z\u00fcrich Rohrleitungsbau",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.5288,47.386162,8.5288,47.386162],
+  "bbox": [
+    8.5288,
+    47.386162,
+    8.5288,
+    47.386162
+],
   "geometry": {"coordinates":[8.5288,47.386162],"type":"Point"}
 }

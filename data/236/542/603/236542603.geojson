@@ -2,13 +2,14 @@
   "id": 236542603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.433004,47.45026,8.433004,47.45026",
     "geom:latitude":47.45026,
     "geom:longitude":8.433004,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Furtbachstrasse 20",
     "sg:city":"Buchs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236542603,
-    "wof:lastmodified":1449004360,
+    "wof:lastmodified":1466212582,
     "wof:name":"Waser Druck Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [8.433004,47.45026,8.433004,47.45026],
+  "bbox": [
+    8.433004,
+    47.45026,
+    8.433004,
+    47.45026
+],
   "geometry": {"coordinates":[8.433004,47.45026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236728059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.558516,47.366741,8.558516,47.366741",
     "geom:latitude":47.366741,
     "geom:longitude":8.558516,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiestrasse 96",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236728059,
-    "wof:lastmodified":1449002258,
+    "wof:lastmodified":1466212774,
     "wof:name":"Klosbach Textilreinigung",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.558516,47.366741,8.558516,47.366741],
+  "bbox": [
+    8.558516,
+    47.366741,
+    8.558516,
+    47.366741
+],
   "geometry": {"coordinates":[8.558516,47.366741],"type":"Point"}
 }

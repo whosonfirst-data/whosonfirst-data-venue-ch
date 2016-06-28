@@ -2,13 +2,14 @@
   "id": 236868803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.342422,47.082386,8.342422,47.082386",
     "geom:latitude":47.082386,
     "geom:longitude":8.342422,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentralstrasse 28",
     "sg:city":"Ebikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236868803,
-    "wof:lastmodified":1449001793,
+    "wof:lastmodified":1466212829,
     "wof:name":"Raiffeisenbank Luzern",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.342422,47.082386,8.342422,47.082386],
+  "bbox": [
+    8.342422,
+    47.082386,
+    8.342422,
+    47.082386
+],
   "geometry": {"coordinates":[8.342422,47.082386],"type":"Point"}
 }

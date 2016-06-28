@@ -2,13 +2,14 @@
   "id": 202645733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.303492,47.474537,8.303492,47.474537",
     "geom:latitude":47.474537,
     "geom:longitude":8.303492,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctistrasse 24",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202645733,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466210086,
     "wof:name":"Norbert Gerne Inter-projekt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.303492,47.474537,8.303492,47.474537],
+  "bbox": [
+    8.303492,
+    47.474537,
+    8.303492,
+    47.474537
+],
   "geometry": {"coordinates":[8.303492,47.474537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219213443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.910155,47.343109,7.910155,47.343109",
     "geom:latitude":47.343109,
     "geom:longitude":7.910155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Paul Brand-strasse 18",
     "sg:city":"Olten",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219213443,
-    "wof:lastmodified":1449070416,
+    "wof:lastmodified":1466211109,
     "wof:name":"Tonex Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [7.910155,47.343109,7.910155,47.343109],
+  "bbox": [
+    7.910155,
+    47.343109,
+    7.910155,
+    47.343109
+],
   "geometry": {"coordinates":[7.910155,47.343109],"type":"Point"}
 }

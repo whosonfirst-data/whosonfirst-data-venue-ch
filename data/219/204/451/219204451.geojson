@@ -2,13 +2,14 @@
   "id": 219204451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.519987,47.363823,8.519987,47.363823",
     "geom:latitude":47.363823,
     "geom:longitude":8.519987,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Uetlibergstrasse 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219204451,
-    "wof:lastmodified":1449074035,
+    "wof:lastmodified":1466211002,
     "wof:name":"Delphin Montage",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contract"
     ]
 },
-  "bbox": [8.519987,47.363823,8.519987,47.363823],
+  "bbox": [
+    8.519987,
+    47.363823,
+    8.519987,
+    47.363823
+],
   "geometry": {"coordinates":[8.519987,47.363823],"type":"Point"}
 }

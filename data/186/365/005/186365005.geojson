@@ -2,13 +2,14 @@
   "id": 186365005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.87334,47.583881,8.87334,47.583881",
     "geom:latitude":47.583881,
     "geom:longitude":8.87334,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8532",
     "sg:city":"Warth",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186365005,
-    "wof:lastmodified":1449050844,
+    "wof:lastmodified":1466210320,
     "wof:name":"Hasler Leo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.87334,47.583881,8.87334,47.583881],
+  "bbox": [
+    8.87334,
+    47.583881,
+    8.87334,
+    47.583881
+],
   "geometry": {"coordinates":[8.87334,47.583881],"type":"Point"}
 }

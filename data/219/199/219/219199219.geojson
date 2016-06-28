@@ -2,13 +2,14 @@
   "id": 219199219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606376,47.473064,7.606376,47.473064",
     "geom:latitude":47.473064,
     "geom:longitude":7.606376,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 111",
     "sg:city":"Aesch",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219199219,
-    "wof:lastmodified":1449070753,
+    "wof:lastmodified":1466210928,
     "wof:name":"Freelight Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.606376,47.473064,7.606376,47.473064],
+  "bbox": [
+    7.606376,
+    47.473064,
+    7.606376,
+    47.473064
+],
   "geometry": {"coordinates":[7.606376,47.473064],"type":"Point"}
 }

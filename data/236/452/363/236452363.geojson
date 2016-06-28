@@ -2,13 +2,14 @@
   "id": 236452363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451433,46.946423,7.451433,46.946423",
     "geom:latitude":46.946423,
     "geom:longitude":7.451433,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnsterplattform 9",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236452363,
-    "wof:lastmodified":1449002264,
+    "wof:lastmodified":1466212508,
     "wof:name":"Regionalbibliothek Bern",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.451433,46.946423,7.451433,46.946423],
+  "bbox": [
+    7.451433,
+    46.946423,
+    7.451433,
+    46.946423
+],
   "geometry": {"coordinates":[7.451433,46.946423],"type":"Point"}
 }

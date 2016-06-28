@@ -2,13 +2,14 @@
   "id": 186104103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.053303,47.471142,9.053303,47.471142",
     "geom:latitude":47.471142,
     "geom:longitude":9.053303,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6henweg 30 8222 Beringen. Postfach",
     "sg:city":"Beringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186104103,
-    "wof:lastmodified":1449051483,
+    "wof:lastmodified":1466210924,
     "wof:name":"Huber Urs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.053303,47.471142,9.053303,47.471142],
+  "bbox": [
+    9.053303,
+    47.471142,
+    9.053303,
+    47.471142
+],
   "geometry": {"coordinates":[9.053303,47.471142],"type":"Point"}
 }

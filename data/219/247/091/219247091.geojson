@@ -2,13 +2,14 @@
   "id": 219247091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435799,47.029976,7.435799,47.029976",
     "geom:latitude":47.029976,
     "geom:longitude":7.435799,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosrainweg 12 3053 M\u00fcnchenbuchsee. Postfach Postfach 642",
     "sg:city":"M\u00fcnchenbuchsee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219247091,
-    "wof:lastmodified":1449072451,
+    "wof:lastmodified":1466211508,
     "wof:name":"Volvo Trucks (schweiz) Ag, Zweigniederlassung M\u00fcnchenbuchsee Filiale M\u00fcnchenbuchsee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435799,47.029976,7.435799,47.029976],
+  "bbox": [
+    7.435799,
+    47.029976,
+    7.435799,
+    47.029976
+],
   "geometry": {"coordinates":[7.435799,47.029976],"type":"Point"}
 }

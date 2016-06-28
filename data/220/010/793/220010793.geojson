@@ -2,13 +2,14 @@
   "id": 220010793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.393576,47.403061,8.393576,47.403061",
     "geom:latitude":47.403061,
     "geom:longitude":8.393576,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weststrasse 16",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220010793,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466208973,
     "wof:name":"Fridolin St\u00e4bler Schreinerei",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.393576,47.403061,8.393576,47.403061],
+  "bbox": [
+    8.393576,
+    47.403061,
+    8.393576,
+    47.403061
+],
   "geometry": {"coordinates":[8.393576,47.403061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186127667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.506018,47.419418,8.506018,47.419418",
     "geom:latitude":47.419418,
     "geom:longitude":8.506018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 546",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186127667,
-    "wof:lastmodified":1449052808,
+    "wof:lastmodified":1466211160,
     "wof:name":"Kur-baugesch\u00e4ft, Brunner Ren\u00e9 Baugewerbe, Bes. Maurer, Umbau, Renovations, Sanierungsarbeiten",
     "wof:parent_id":85800355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.506018,47.419418,8.506018,47.419418],
+  "bbox": [
+    8.506018,
+    47.419418,
+    8.506018,
+    47.419418
+],
   "geometry": {"coordinates":[8.506018,47.419418],"type":"Point"}
 }

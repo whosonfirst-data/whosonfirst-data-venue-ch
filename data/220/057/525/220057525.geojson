@@ -2,13 +2,14 @@
   "id": 220057525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.770218,47.423363,7.770218,47.423363",
     "geom:latitude":47.423363,
     "geom:longitude":7.770218,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bennwilerstrasse 6 4434 H\u00f6lstein. Postfach",
     "sg:city":"H\u00f6lstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220057525,
-    "wof:lastmodified":1449074428,
+    "wof:lastmodified":1466209371,
     "wof:name":"Fankhauser Modellbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.770218,47.423363,7.770218,47.423363],
+  "bbox": [
+    7.770218,
+    47.423363,
+    7.770218,
+    47.423363
+],
   "geometry": {"coordinates":[7.770218,47.423363],"type":"Point"}
 }

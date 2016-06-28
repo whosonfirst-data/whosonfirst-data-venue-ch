@@ -2,13 +2,14 @@
   "id": 186511035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.15831,46.17659,6.15831,46.17659",
     "geom:latitude":46.17659,
     "geom:longitude":6.15831,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Veyrier 85",
     "sg:city":"Vessy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186511035,
-    "wof:lastmodified":1449051611,
+    "wof:lastmodified":1466211529,
     "wof:name":"Maison De Retraite De Vessy",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [6.15831,46.17659,6.15831,46.17659],
+  "bbox": [
+    6.15831,
+    46.17659,
+    6.15831,
+    46.17659
+],
   "geometry": {"coordinates":[6.15831,46.17659],"type":"Point"}
 }

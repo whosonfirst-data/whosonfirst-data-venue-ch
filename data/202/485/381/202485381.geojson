@@ -2,13 +2,14 @@
   "id": 202485381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.910497,46.431149,6.910497,46.431149",
     "geom:latitude":46.431149,
     "geom:longitude":6.910497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Quai 2",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202485381,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466211252,
     "wof:name":"Erb Ing\u00e9nieur Conseil",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.910497,46.431149,6.910497,46.431149],
+  "bbox": [
+    6.910497,
+    46.431149,
+    6.910497,
+    46.431149
+],
   "geometry": {"coordinates":[6.910497,46.431149],"type":"Point"}
 }

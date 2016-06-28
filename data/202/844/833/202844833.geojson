@@ -2,13 +2,14 @@
   "id": 202844833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.552929,47.493011,8.552929,47.493011",
     "geom:latitude":47.493011,
     "geom:longitude":8.552929,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 1",
     "sg:city":"Winkel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202844833,
-    "wof:lastmodified":1449061193,
+    "wof:lastmodified":1466211755,
     "wof:name":"Meier Max Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.552929,47.493011,8.552929,47.493011],
+  "bbox": [
+    8.552929,
+    47.493011,
+    8.552929,
+    47.493011
+],
   "geometry": {"coordinates":[8.552929,47.493011],"type":"Point"}
 }

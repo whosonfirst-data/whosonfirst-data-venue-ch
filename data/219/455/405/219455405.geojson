@@ -2,13 +2,14 @@
   "id": 219455405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.79084,46.167889,8.79084,46.167889",
     "geom:latitude":46.167889,
     "geom:longitude":8.79084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6600",
     "sg:city":"Locarno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219455405,
-    "wof:lastmodified":1449073350,
+    "wof:lastmodified":1466210689,
     "wof:name":"Bsi Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.79084,46.167889,8.79084,46.167889],
+  "bbox": [
+    8.79084,
+    46.167889,
+    8.79084,
+    46.167889
+],
   "geometry": {"coordinates":[8.79084,46.167889],"type":"Point"}
 }

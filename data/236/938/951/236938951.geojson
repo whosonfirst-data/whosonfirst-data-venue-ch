@@ -2,13 +2,14 @@
   "id": 236938951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.31354,47.05492,8.31354,47.05492",
     "geom:latitude":47.05492,
     "geom:longitude":8.31354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenstrasse 7 6006 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236938951,
-    "wof:lastmodified":1449004231,
+    "wof:lastmodified":1466213032,
     "wof:name":"Cpc Computerpraxis Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.31354,47.05492,8.31354,47.05492],
+  "bbox": [
+    8.31354,
+    47.05492,
+    8.31354,
+    47.05492
+],
   "geometry": {"coordinates":[8.31354,47.05492],"type":"Point"}
 }

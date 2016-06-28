@@ -2,13 +2,14 @@
   "id": 186063235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453719,46.268608,7.453719,46.268608",
     "geom:latitude":46.268608,
     "geom:longitude":7.453719,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Tsarretton 3978 Flanthey. Postfach",
     "sg:city":"Flanthey",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186063235,
-    "wof:lastmodified":1449050479,
+    "wof:lastmodified":1466210283,
     "wof:name":"Entreprise Domingues Terrassements, Am\u00e9nagements Ext\u00e9rieurs, Excavations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453719,46.268608,7.453719,46.268608],
+  "bbox": [
+    7.453719,
+    46.268608,
+    7.453719,
+    46.268608
+],
   "geometry": {"coordinates":[7.453719,46.268608],"type":"Point"}
 }

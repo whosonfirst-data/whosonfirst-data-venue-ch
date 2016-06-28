@@ -2,13 +2,14 @@
   "id": 203053701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.077649,47.373348,8.077649,47.373348",
     "geom:latitude":47.373348,
     "geom:longitude":8.077649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Postweg 4 5034 Suhr. Postfach 298",
     "sg:city":"Suhr",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203053701,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466210217,
     "wof:name":"Paolo Rezzonico Merlot Del Ticino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.077649,47.373348,8.077649,47.373348],
+  "bbox": [
+    8.077649,
+    47.373348,
+    8.077649,
+    47.373348
+],
   "geometry": {"coordinates":[8.077649,47.373348],"type":"Point"}
 }

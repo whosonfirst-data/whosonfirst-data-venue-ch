@@ -2,13 +2,14 @@
   "id": 236899591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.609191,47.536259,7.609191,47.536259",
     "geom:latitude":47.536259,
     "geom:longitude":7.609191,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnchensteinerstrasse 274a 4053 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236899591,
-    "wof:lastmodified":1449005051,
+    "wof:lastmodified":1466212971,
     "wof:name":"Cronat Informatik-zentrum",
     "wof:parent_id":85799987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.609191,47.536259,7.609191,47.536259],
+  "bbox": [
+    7.609191,
+    47.536259,
+    7.609191,
+    47.536259
+],
   "geometry": {"coordinates":[7.609191,47.536259],"type":"Point"}
 }

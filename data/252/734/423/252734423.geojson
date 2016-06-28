@@ -2,13 +2,14 @@
   "id": 252734423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.441864,47.206425,9.441864,47.206425",
     "geom:latitude":47.206425,
     "geom:longitude":9.441864,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6fli",
     "sg:city":"Gams",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252734423,
-    "wof:lastmodified":1449006380,
+    "wof:lastmodified":1466209175,
     "wof:name":"Josef Bamert Brennerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.441864,47.206425,9.441864,47.206425],
+  "bbox": [
+    9.441864,
+    47.206425,
+    9.441864,
+    47.206425
+],
   "geometry": {"coordinates":[9.441864,47.206425],"type":"Point"}
 }

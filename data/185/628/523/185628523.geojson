@@ -2,13 +2,14 @@
   "id": 185628523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.163071,46.343082,6.163071,46.343082",
     "geom:latitude":46.343082,
     "geom:longitude":6.163071,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Poste 14",
     "sg:city":"Chavannes-de-bogis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185628523,
-    "wof:lastmodified":1449007920,
+    "wof:lastmodified":1466209874,
     "wof:name":"Multimail S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [6.163071,46.343082,6.163071,46.343082],
+  "bbox": [
+    6.163071,
+    46.343082,
+    6.163071,
+    46.343082
+],
   "geometry": {"coordinates":[6.163071,46.343082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236606929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580888,47.320309,8.580888,47.320309",
     "geom:latitude":47.320309,
     "geom:longitude":8.580888,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstrasse 148",
     "sg:city":"K\u00fcsnacht",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236606929,
-    "wof:lastmodified":1449002058,
+    "wof:lastmodified":1466212784,
     "wof:name":"H. Fr\u00f6hlich Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "locating"
     ]
 },
-  "bbox": [8.580888,47.320309,8.580888,47.320309],
+  "bbox": [
+    8.580888,
+    47.320309,
+    8.580888,
+    47.320309
+],
   "geometry": {"coordinates":[8.580888,47.320309],"type":"Point"}
 }

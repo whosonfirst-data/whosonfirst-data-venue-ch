@@ -2,13 +2,14 @@
   "id": 202994511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.916945,45.982895,8.916945,45.982895",
     "geom:latitude":45.982895,
     "geom:longitude":8.916945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Collina D'oro 53",
     "sg:city":"Montagnola",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202994511,
-    "wof:lastmodified":1449060225,
+    "wof:lastmodified":1466212445,
     "wof:name":"Giorgio Petrini Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.916945,45.982895,8.916945,45.982895],
+  "bbox": [
+    8.916945,
+    45.982895,
+    8.916945,
+    45.982895
+],
   "geometry": {"coordinates":[8.916945,45.982895],"type":"Point"}
 }

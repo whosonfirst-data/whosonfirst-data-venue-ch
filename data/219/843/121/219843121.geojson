@@ -2,13 +2,14 @@
   "id": 219843121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.402291,47.486671,9.402291,47.486671",
     "geom:latitude":47.486671,
     "geom:longitude":9.402291,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstrasse 12",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219843121,
-    "wof:lastmodified":1449070703,
+    "wof:lastmodified":1466212541,
     "wof:name":"Hip Hop Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [9.402291,47.486671,9.402291,47.486671],
+  "bbox": [
+    9.402291,
+    47.486671,
+    9.402291,
+    47.486671
+],
   "geometry": {"coordinates":[9.402291,47.486671],"type":"Point"}
 }

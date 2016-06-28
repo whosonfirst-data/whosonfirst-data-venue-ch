@@ -2,13 +2,14 @@
   "id": 203259009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.271122,46.902641,8.271122,46.902641",
     "geom:latitude":46.902641,
     "geom:longitude":8.271122,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hobielstrasse 24",
     "sg:city":"Kerns",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203259009,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466210119,
     "wof:name":"Dr.med. Rolf Kempf Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.271122,46.902641,8.271122,46.902641],
+  "bbox": [
+    8.271122,
+    46.902641,
+    8.271122,
+    46.902641
+],
   "geometry": {"coordinates":[8.271122,46.902641],"type":"Point"}
 }

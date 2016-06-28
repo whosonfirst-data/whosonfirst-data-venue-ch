@@ -2,13 +2,14 @@
   "id": 185855389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.541656,47.204464,7.541656,47.204464",
     "geom:latitude":47.204464,
     "geom:longitude":7.541656,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptbahnhofstrasse 12 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185855389,
-    "wof:lastmodified":1449007784,
+    "wof:lastmodified":1466209526,
     "wof:name":"Ge Capital Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.541656,47.204464,7.541656,47.204464],
+  "bbox": [
+    7.541656,
+    47.204464,
+    7.541656,
+    47.204464
+],
   "geometry": {"coordinates":[7.541656,47.204464],"type":"Point"}
 }

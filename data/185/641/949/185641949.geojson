@@ -2,13 +2,14 @@
   "id": 185641949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.594822,47.316078,8.594822,47.316078",
     "geom:latitude":47.316078,
     "geom:longitude":8.594822,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 61",
     "sg:city":"K\u00fcsnacht",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185641949,
-    "wof:lastmodified":1449007843,
+    "wof:lastmodified":1466210104,
     "wof:name":"Cooper Communication Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [8.594822,47.316078,8.594822,47.316078],
+  "bbox": [
+    8.594822,
+    47.316078,
+    8.594822,
+    47.316078
+],
   "geometry": {"coordinates":[8.594822,47.316078],"type":"Point"}
 }

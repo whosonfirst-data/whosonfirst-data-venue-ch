@@ -2,13 +2,14 @@
   "id": 236273957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.78213,47.504791,8.78213,47.504791",
     "geom:latitude":47.504791,
     "geom:longitude":8.78213,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcmikerstrasse 56 8352 R\u00e4terschen. Postfach",
     "sg:city":"R\u00e4terschen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236273957,
-    "wof:lastmodified":1449003347,
+    "wof:lastmodified":1466211591,
     "wof:name":"Tennisarena, Waldenberger B. + H. Tenniscenter",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.78213,47.504791,8.78213,47.504791],
+  "bbox": [
+    8.78213,
+    47.504791,
+    8.78213,
+    47.504791
+],
   "geometry": {"coordinates":[8.78213,47.504791],"type":"Point"}
 }

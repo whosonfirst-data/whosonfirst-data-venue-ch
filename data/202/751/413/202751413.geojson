@@ -2,13 +2,14 @@
   "id": 202751413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.929386,46.990898,6.929386,46.990898",
     "geom:latitude":46.990898,
     "geom:longitude":6.929386,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Montchoisi Avenue De 21 1006 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202751413,
-    "wof:lastmodified":1449060243,
+    "wof:lastmodified":1466211068,
     "wof:name":"Urbaplan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.929386,46.990898,6.929386,46.990898],
+  "bbox": [
+    6.929386,
+    46.990898,
+    6.929386,
+    46.990898
+],
   "geometry": {"coordinates":[6.929386,46.990898],"type":"Point"}
 }

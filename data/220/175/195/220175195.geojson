@@ -2,13 +2,14 @@
   "id": 220175195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.982205,45.842686,8.982205,45.842686",
     "geom:latitude":45.842686,
     "geom:longitude":8.982205,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza C.fontana",
     "sg:city":"Novazzano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220175195,
-    "wof:lastmodified":1449074612,
+    "wof:lastmodified":1466210376,
     "wof:name":"Ermenegildo Bernasconi Serramenti & Mobili",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.982205,45.842686,8.982205,45.842686],
+  "bbox": [
+    8.982205,
+    45.842686,
+    8.982205,
+    45.842686
+],
   "geometry": {"coordinates":[8.982205,45.842686],"type":"Point"}
 }

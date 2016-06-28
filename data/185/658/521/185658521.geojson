@@ -2,13 +2,14 @@
   "id": 185658521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.521241,47.359665,8.521241,47.359665",
     "geom:latitude":47.359665,
     "geom:longitude":8.521241,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lerchenstrasse 16",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185658521,
-    "wof:lastmodified":1449006568,
+    "wof:lastmodified":1466210504,
     "wof:name":"Unique Events & Incentives Gmbh",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [8.521241,47.359665,8.521241,47.359665],
+  "bbox": [
+    8.521241,
+    47.359665,
+    8.521241,
+    47.359665
+],
   "geometry": {"coordinates":[8.521241,47.359665],"type":"Point"}
 }

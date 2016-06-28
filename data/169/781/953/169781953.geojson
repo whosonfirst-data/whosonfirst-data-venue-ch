@@ -2,13 +2,14 @@
   "id": 169781953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54412,47.416763,8.54412,47.416763",
     "geom:latitude":47.416763,
     "geom:longitude":8.54412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jungholzstrasse",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169781953,
-    "wof:lastmodified":1449033310,
+    "wof:lastmodified":1466208930,
     "wof:name":"Schweiz Tourismus",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54412,47.416763,8.54412,47.416763],
+  "bbox": [
+    8.54412,
+    47.416763,
+    8.54412,
+    47.416763
+],
   "geometry": {"coordinates":[8.54412,47.416763],"type":"Point"}
 }

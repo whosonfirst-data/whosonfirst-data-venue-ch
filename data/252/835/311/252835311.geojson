@@ -2,13 +2,14 @@
   "id": 252835311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.245978,46.896366,8.245978,46.896366",
     "geom:latitude":46.896366,
     "geom:longitude":8.245978,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Milchstrasse 2",
     "sg:city":"Sarnen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252835311,
-    "wof:lastmodified":1449005561,
+    "wof:lastmodified":1466210294,
     "wof:name":"Heidemeyer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.245978,46.896366,8.245978,46.896366],
+  "bbox": [
+    8.245978,
+    46.896366,
+    8.245978,
+    46.896366
+],
   "geometry": {"coordinates":[8.245978,46.896366],"type":"Point"}
 }

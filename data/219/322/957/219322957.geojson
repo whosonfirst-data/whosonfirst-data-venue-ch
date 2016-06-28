@@ -2,13 +2,14 @@
   "id": 219322957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.519843,47.119827,9.519843,47.119827",
     "geom:latitude":47.119827,
     "geom:longitude":9.519843,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Messinastrasse 1",
     "sg:city":"Triesen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219322957,
-    "wof:lastmodified":1449070343,
+    "wof:lastmodified":1466209461,
     "wof:name":"Max Heidegger Ag Garage & Autospritzwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.519843,47.119827,9.519843,47.119827],
+  "bbox": [
+    9.519843,
+    47.119827,
+    9.519843,
+    47.119827
+],
   "geometry": {"coordinates":[9.519843,47.119827],"type":"Point"}
 }

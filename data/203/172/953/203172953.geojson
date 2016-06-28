@@ -2,13 +2,14 @@
   "id": 203172953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.069456,47.413876,7.069456,47.413876",
     "geom:latitude":47.413876,
     "geom:longitude":7.069456,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Achille-merguin 44",
     "sg:city":"Porrentruy",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203172953,
-    "wof:lastmodified":1449025683,
+    "wof:lastmodified":1466209172,
     "wof:name":"Dr M\u00e9d. Florian Froehlich M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.069456,47.413876,7.069456,47.413876],
+  "bbox": [
+    7.069456,
+    47.413876,
+    7.069456,
+    47.413876
+],
   "geometry": {"coordinates":[7.069456,47.413876],"type":"Point"}
 }

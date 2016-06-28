@@ -2,13 +2,14 @@
   "id": 185791139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.027537,45.835232,9.027537,45.835232",
     "geom:latitude":45.835232,
     "geom:longitude":9.027537,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Cost. Bernasconi 5",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185791139,
-    "wof:lastmodified":1449007862,
+    "wof:lastmodified":1466209050,
     "wof:name":"Pagani & Frigerio Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.027537,45.835232,9.027537,45.835232],
+  "bbox": [
+    9.027537,
+    45.835232,
+    9.027537,
+    45.835232
+],
   "geometry": {"coordinates":[9.027537,45.835232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236002625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.464345,47.669582,8.464345,47.669582",
     "geom:latitude":47.669582,
     "geom:longitude":8.464345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tiefenweg 294",
     "sg:city":"Wilchingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236002625,
-    "wof:lastmodified":1449004528,
+    "wof:lastmodified":1466208916,
     "wof:name":"Thomi Holzbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.464345,47.669582,8.464345,47.669582],
+  "bbox": [
+    8.464345,
+    47.669582,
+    8.464345,
+    47.669582
+],
   "geometry": {"coordinates":[8.464345,47.669582],"type":"Point"}
 }

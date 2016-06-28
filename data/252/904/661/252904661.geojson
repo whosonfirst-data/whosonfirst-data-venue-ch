@@ -2,13 +2,14 @@
   "id": 252904661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.949565,46.004871,8.949565,46.004871",
     "geom:latitude":46.004871,
     "geom:longitude":8.949565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cattedrale 6",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252904661,
-    "wof:lastmodified":1449006546,
+    "wof:lastmodified":1466211043,
     "wof:name":"Boutique Scrupoli Maria Pia Bajetta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.949565,46.004871,8.949565,46.004871],
+  "bbox": [
+    8.949565,
+    46.004871,
+    8.949565,
+    46.004871
+],
   "geometry": {"coordinates":[8.949565,46.004871],"type":"Point"}
 }

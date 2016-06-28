@@ -2,13 +2,14 @@
   "id": 202589241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.48432,46.939602,7.48432,46.939602",
     "geom:latitude":46.939602,
     "geom:longitude":7.48432,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jupiterstrasse 57/832",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202589241,
-    "wof:lastmodified":1449061469,
+    "wof:lastmodified":1466209562,
     "wof:name":"Kalmar Engineering Consulting",
     "wof:parent_id":85800661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.48432,46.939602,7.48432,46.939602],
+  "bbox": [
+    7.48432,
+    46.939602,
+    7.48432,
+    46.939602
+],
   "geometry": {"coordinates":[7.48432,46.939602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253235209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54568,47.404175,8.54568,47.404175",
     "geom:latitude":47.404175,
     "geom:longitude":8.54568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Berninastrasse 58",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253235209,
-    "wof:lastmodified":1449063326,
+    "wof:lastmodified":1466211343,
     "wof:name":"Peter Zimmermann B\u00e4ckerei-konditorei",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54568,47.404175,8.54568,47.404175],
+  "bbox": [
+    8.54568,
+    47.404175,
+    8.54568,
+    47.404175
+],
   "geometry": {"coordinates":[8.54568,47.404175],"type":"Point"}
 }

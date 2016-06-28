@@ -2,13 +2,14 @@
   "id": 203020987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.531707,46.292572,7.531707,46.292572",
     "geom:latitude":46.292572,
     "geom:longitude":7.531707,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du G\u00e9n\u00e9ral Guisan 5 3960 Sierre Case Postale 88",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203020987,
-    "wof:lastmodified":1449025798,
+    "wof:lastmodified":1466209614,
     "wof:name":"Jean-michel Bonvin Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.531707,46.292572,7.531707,46.292572],
+  "bbox": [
+    7.531707,
+    46.292572,
+    7.531707,
+    46.292572
+],
   "geometry": {"coordinates":[7.531707,46.292572],"type":"Point"}
 }

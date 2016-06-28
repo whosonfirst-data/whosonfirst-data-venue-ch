@@ -2,13 +2,14 @@
   "id": 253080019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.89113,46.442825,6.89113,46.442825",
     "geom:latitude":46.442825,
     "geom:longitude":6.89113,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Vaudr\u00e8s 3",
     "sg:city":"Clarens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253080019,
-    "wof:lastmodified":1449065721,
+    "wof:lastmodified":1466209717,
     "wof:name":"Lehmann-stein Sa Combustibles Et Transports",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.89113,46.442825,6.89113,46.442825],
+  "bbox": [
+    6.89113,
+    46.442825,
+    6.89113,
+    46.442825
+],
   "geometry": {"coordinates":[6.89113,46.442825],"type":"Point"}
 }

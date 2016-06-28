@@ -2,13 +2,14 @@
   "id": 185960551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.385218,47.043056,7.385218,47.043056",
     "geom:latitude":47.043056,
     "geom:longitude":7.385218,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4rchenweg 6",
     "sg:city":"Sch\u00fcpfen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185960551,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466210400,
     "wof:name":"K\u00fcnzel Manfred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.385218,47.043056,7.385218,47.043056],
+  "bbox": [
+    7.385218,
+    47.043056,
+    7.385218,
+    47.043056
+],
   "geometry": {"coordinates":[7.385218,47.043056],"type":"Point"}
 }

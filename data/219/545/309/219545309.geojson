@@ -2,13 +2,14 @@
   "id": 219545309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.209249,47.17746,8.209249,47.17746",
     "geom:latitude":47.17746,
     "geom:longitude":8.209249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinderfeld",
     "sg:city":"Neudorf",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219545309,
-    "wof:lastmodified":1449071245,
+    "wof:lastmodified":1466211553,
     "wof:name":"Emmentalische Mobiliar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.209249,47.17746,8.209249,47.17746],
+  "bbox": [
+    8.209249,
+    47.17746,
+    8.209249,
+    47.17746
+],
   "geometry": {"coordinates":[8.209249,47.17746],"type":"Point"}
 }

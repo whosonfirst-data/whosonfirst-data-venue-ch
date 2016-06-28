@@ -2,13 +2,14 @@
   "id": 220151423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619846,47.476398,7.619846,47.476398",
     "geom:latitude":47.476398,
     "geom:longitude":7.619846,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gempenstrasse 23",
     "sg:city":"Dornach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220151423,
-    "wof:lastmodified":1449074070,
+    "wof:lastmodified":1466210175,
     "wof:name":"Tiziani Enrico.",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.619846,47.476398,7.619846,47.476398],
+  "bbox": [
+    7.619846,
+    47.476398,
+    7.619846,
+    47.476398
+],
   "geometry": {"coordinates":[7.619846,47.476398],"type":"Point"}
 }

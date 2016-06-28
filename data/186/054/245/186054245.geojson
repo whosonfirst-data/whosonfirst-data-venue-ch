@@ -2,13 +2,14 @@
   "id": 186054245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.645858,47.529533,7.645858,47.529533",
     "geom:latitude":47.529533,
     "geom:longitude":7.645858,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 15",
     "sg:city":"Muttenz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186054245,
-    "wof:lastmodified":1449051650,
+    "wof:lastmodified":1466210126,
     "wof:name":"Dsb Dreispitz Bau Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.645858,47.529533,7.645858,47.529533],
+  "bbox": [
+    7.645858,
+    47.529533,
+    7.645858,
+    47.529533
+],
   "geometry": {"coordinates":[7.645858,47.529533],"type":"Point"}
 }

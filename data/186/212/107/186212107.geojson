@@ -2,13 +2,14 @@
   "id": 186212107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.503005,46.598969,8.503005,46.598969",
     "geom:latitude":46.598969,
     "geom:longitude":8.503005,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorf",
     "sg:city":"Realp",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186212107,
-    "wof:lastmodified":1449052110,
+    "wof:lastmodified":1466209178,
     "wof:name":"Simmen & Cie, Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.503005,46.598969,8.503005,46.598969],
+  "bbox": [
+    8.503005,
+    46.598969,
+    8.503005,
+    46.598969
+],
   "geometry": {"coordinates":[8.503005,46.598969],"type":"Point"}
 }

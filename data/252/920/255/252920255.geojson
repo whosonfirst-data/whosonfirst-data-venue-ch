@@ -2,13 +2,14 @@
   "id": 252920255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.944512,46.013737,8.944512,46.013737",
     "geom:latitude":46.013737,
     "geom:longitude":8.944512,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Praccio 1",
     "sg:city":"Massagno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252920255,
-    "wof:lastmodified":1449006261,
+    "wof:lastmodified":1466211225,
     "wof:name":"Miscione Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.944512,46.013737,8.944512,46.013737],
+  "bbox": [
+    8.944512,
+    46.013737,
+    8.944512,
+    46.013737
+],
   "geometry": {"coordinates":[8.944512,46.013737],"type":"Point"}
 }

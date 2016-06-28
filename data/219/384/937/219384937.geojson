@@ -2,13 +2,14 @@
   "id": 219384937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.13646,46.145401,6.13646,46.145401",
     "geom:latitude":46.145401,
     "geom:longitude":6.13646,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"A\u00e9roport 1215 Gen\u00e8ve Case Postale 1061 1215 Gen\u00e8ve",
     "sg:city":"D\u00e9p\u00f4t",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219384937,
-    "wof:lastmodified":1449070833,
+    "wof:lastmodified":1466210033,
     "wof:name":"Ritschard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.13646,46.145401,6.13646,46.145401],
+  "bbox": [
+    6.13646,
+    46.145401,
+    6.13646,
+    46.145401
+],
   "geometry": {"coordinates":[6.13646,46.145401],"type":"Point"}
 }

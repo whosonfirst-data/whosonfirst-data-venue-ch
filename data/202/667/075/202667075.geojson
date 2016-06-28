@@ -2,13 +2,14 @@
   "id": 202667075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.570311,47.554127,7.570311,47.554127",
     "geom:latitude":47.554127,
     "geom:longitude":7.570311,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sennheimerstrasse 40",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202667075,
-    "wof:lastmodified":1449061741,
+    "wof:lastmodified":1466210285,
     "wof:name":"Planwerkstatt Huggel Jost",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.570311,47.554127,7.570311,47.554127],
+  "bbox": [
+    7.570311,
+    47.554127,
+    7.570311,
+    47.554127
+],
   "geometry": {"coordinates":[7.570311,47.554127],"type":"Point"}
 }

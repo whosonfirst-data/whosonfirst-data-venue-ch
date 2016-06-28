@@ -2,13 +2,14 @@
   "id": 236169561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.000836,46.312351,8.000836,46.312351",
     "geom:latitude":46.312351,
     "geom:longitude":8.000836,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemannenweg 12",
     "sg:city":"Brig",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236169561,
-    "wof:lastmodified":1449003731,
+    "wof:lastmodified":1466210473,
     "wof:name":"Volkshochschule Oberwallis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.000836,46.312351,8.000836,46.312351],
+  "bbox": [
+    8.000836,
+    46.312351,
+    8.000836,
+    46.312351
+],
   "geometry": {"coordinates":[8.000836,46.312351],"type":"Point"}
 }

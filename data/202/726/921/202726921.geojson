@@ -2,13 +2,14 @@
   "id": 202726921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.952812,46.015259,8.952812,46.015259",
     "geom:latitude":46.015259,
     "geom:longitude":8.952812,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Castausio 20 6900 Lugano. Postfach",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202726921,
-    "wof:lastmodified":1449061826,
+    "wof:lastmodified":1466210836,
     "wof:name":"Studio D'ingegneria Zocchetti Diego",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.952812,46.015259,8.952812,46.015259],
+  "bbox": [
+    8.952812,
+    46.015259,
+    8.952812,
+    46.015259
+],
   "geometry": {"coordinates":[8.952812,46.015259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236885921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.375849,47.36602,8.375849,47.36602",
     "geom:latitude":47.36602,
     "geom:longitude":8.375849,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hansbrunnen 2",
     "sg:city":"Rudolfstetten",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236885921,
-    "wof:lastmodified":1449003398,
+    "wof:lastmodified":1466212962,
     "wof:name":"R & S Development Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "database"
     ]
 },
-  "bbox": [8.375849,47.36602,8.375849,47.36602],
+  "bbox": [
+    8.375849,
+    47.36602,
+    8.375849,
+    47.36602
+],
   "geometry": {"coordinates":[8.375849,47.36602],"type":"Point"}
 }

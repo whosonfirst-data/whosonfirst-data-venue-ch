@@ -2,13 +2,14 @@
   "id": 203006111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.479603,46.95977,7.479603,46.95977",
     "geom:latitude":46.95977,
     "geom:longitude":7.479603,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schermenweg 154",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203006111,
-    "wof:lastmodified":1449026466,
+    "wof:lastmodified":1466209184,
     "wof:name":"Hans-ulrich W\u00fcrgler Architekturb\u00fcro",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.479603,46.95977,7.479603,46.95977],
+  "bbox": [
+    7.479603,
+    46.95977,
+    7.479603,
+    46.95977
+],
   "geometry": {"coordinates":[7.479603,46.95977],"type":"Point"}
 }

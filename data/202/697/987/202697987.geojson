@@ -2,13 +2,14 @@
   "id": 202697987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.724369,47.510769,8.724369,47.510769",
     "geom:latitude":47.510769,
     "geom:longitude":8.724369,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosentalstrasse 86",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202697987,
-    "wof:lastmodified":1449061696,
+    "wof:lastmodified":1466210570,
     "wof:name":"Sc + P Sieber, Cassina + Partner Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.724369,47.510769,8.724369,47.510769],
+  "bbox": [
+    8.724369,
+    47.510769,
+    8.724369,
+    47.510769
+],
   "geometry": {"coordinates":[8.724369,47.510769],"type":"Point"}
 }

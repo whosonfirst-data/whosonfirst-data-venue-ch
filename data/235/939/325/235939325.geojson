@@ -2,13 +2,14 @@
   "id": 235939325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.923375,47.293468,7.923375,47.293468",
     "geom:latitude":47.293468,
     "geom:longitude":7.923375,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4getstrasse 120",
     "sg:city":"Strengelbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235939325,
-    "wof:lastmodified":1449008352,
+    "wof:lastmodified":1466208974,
     "wof:name":"Richard Hasch & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.923375,47.293468,7.923375,47.293468],
+  "bbox": [
+    7.923375,
+    47.293468,
+    7.923375,
+    47.293468
+],
   "geometry": {"coordinates":[7.923375,47.293468],"type":"Point"}
 }

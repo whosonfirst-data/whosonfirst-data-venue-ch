@@ -2,13 +2,14 @@
   "id": 236932719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606839,47.545444,7.606839,47.545444",
     "geom:latitude":47.545444,
     "geom:longitude":7.606839,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Singerstrasse 8 4052 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236932719,
-    "wof:lastmodified":1449002763,
+    "wof:lastmodified":1466213027,
     "wof:name":"Act 3x Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.606839,47.545444,7.606839,47.545444],
+  "bbox": [
+    7.606839,
+    47.545444,
+    7.606839,
+    47.545444
+],
   "geometry": {"coordinates":[7.606839,47.545444],"type":"Point"}
 }

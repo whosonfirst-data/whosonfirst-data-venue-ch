@@ -2,13 +2,14 @@
   "id": 186440719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.508769,47.068741,9.508769,47.068741",
     "geom:latitude":47.068741,
     "geom:longitude":9.508769,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiligwies 33 9496 Balzers. Postfach 21",
     "sg:city":"Balzers",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186440719,
-    "wof:lastmodified":1449051341,
+    "wof:lastmodified":1466210934,
     "wof:name":"A. B\u00fcchel Baugesch\u00e4ft Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.508769,47.068741,9.508769,47.068741],
+  "bbox": [
+    9.508769,
+    47.068741,
+    9.508769,
+    47.068741
+],
   "geometry": {"coordinates":[9.508769,47.068741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219436431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.657197,47.379726,9.657197,47.379726",
     "geom:latitude":47.379726,
     "geom:longitude":9.657197,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumenstrasse 24",
     "sg:city":"Diepoldsau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219436431,
-    "wof:lastmodified":1449073576,
+    "wof:lastmodified":1466210517,
     "wof:name":"J. Kuster-schweizer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.657197,47.379726,9.657197,47.379726],
+  "bbox": [
+    9.657197,
+    47.379726,
+    9.657197,
+    47.379726
+],
   "geometry": {"coordinates":[9.657197,47.379726],"type":"Point"}
 }

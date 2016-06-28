@@ -2,13 +2,14 @@
   "id": 219648529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.834831,39.036205,-94.834831,39.036205",
     "geom:latitude":39.036205,
     "geom:longitude":-94.834831,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mund",
     "sg:city":"Mund",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219648529,
-    "wof:lastmodified":1449071368,
+    "wof:lastmodified":1466212023,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.834831,39.036205,-94.834831,39.036205],
-  "geometry": {"coordinates":[-94.834831,39.036205],"type":"Point"}
+  "bbox": [
+    -94.834831,
+    39.036205,
+    -94.834831,
+    39.036205
+],
+  "geometry": {"coordinates":[-94.83483099999999,39.036205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185906419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.236417,46.384209,6.236417,46.384209",
     "geom:latitude":46.384209,
     "geom:longitude":6.236417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place De La Gare 9",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185906419,
-    "wof:lastmodified":1449007219,
+    "wof:lastmodified":1466209894,
     "wof:name":"Bautec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.236417,46.384209,6.236417,46.384209],
+  "bbox": [
+    6.236417,
+    46.384209,
+    6.236417,
+    46.384209
+],
   "geometry": {"coordinates":[6.236417,46.384209],"type":"Point"}
 }

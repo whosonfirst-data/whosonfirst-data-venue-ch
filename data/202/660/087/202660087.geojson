@@ -2,13 +2,14 @@
   "id": 202660087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.510914,47.395248,8.510914,47.395248",
     "geom:latitude":47.395248,
     "geom:longitude":8.510914,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Am Wasser 24 8049 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202660087,
-    "wof:lastmodified":1449062383,
+    "wof:lastmodified":1466210222,
     "wof:name":"Peter Lorenz, Dipl. Arch. Eth/sia Architekturb\u00fcro. Neu Und Umbauten; Planung, Ausf\u00fchrung",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.510914,47.395248,8.510914,47.395248],
+  "bbox": [
+    8.510914,
+    47.395248,
+    8.510914,
+    47.395248
+],
   "geometry": {"coordinates":[8.510914,47.395248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203097531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.175279,47.651138,9.175279,47.651138",
     "geom:latitude":47.651138,
     "geom:longitude":9.175279,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bodanstrasse 7a",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203097531,
-    "wof:lastmodified":1449025658,
+    "wof:lastmodified":1466211077,
     "wof:name":"Walter Metzger Architekturplanungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.175279,47.651138,9.175279,47.651138],
+  "bbox": [
+    9.175279,
+    47.651138,
+    9.175279,
+    47.651138
+],
   "geometry": {"coordinates":[9.175279,47.651138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219950535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.437085,46.957905,7.437085,46.957905",
     "geom:latitude":46.957905,
     "geom:longitude":7.437085,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marienstrasse 33 B",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219950535,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466212715,
     "wof:name":"Baumann Immobilien & Bau Ag",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.437085,46.957905,7.437085,46.957905],
+  "bbox": [
+    7.437085,
+    46.957905,
+    7.437085,
+    46.957905
+],
   "geometry": {"coordinates":[7.437085,46.957905],"type":"Point"}
 }

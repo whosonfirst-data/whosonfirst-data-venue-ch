@@ -2,13 +2,14 @@
   "id": 219935741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.916605,47.568573,8.916605,47.568573",
     "geom:latitude":47.568573,
     "geom:longitude":8.916605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 353 8500 Frauenfeld. Postfach 174",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219935741,
-    "wof:lastmodified":1449073288,
+    "wof:lastmodified":1466212698,
     "wof:name":"Cellere Ag Frauenfeld, Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.916605,47.568573,8.916605,47.568573],
+  "bbox": [
+    8.916605,
+    47.568573,
+    8.916605,
+    47.568573
+],
   "geometry": {"coordinates":[8.916605,47.568573],"type":"Point"}
 }

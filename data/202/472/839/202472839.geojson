@@ -2,13 +2,14 @@
   "id": 202472839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.625893,46.512341,6.625893,46.512341",
     "geom:latitude":46.512341,
     "geom:longitude":6.625893,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Harpe 17 A 1000 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202472839,
-    "wof:lastmodified":1449060309,
+    "wof:lastmodified":1466211052,
     "wof:name":"D\u00e9coration Et Architecture D'int\u00e9rieur, Duran Natalija",
     "wof:parent_id":85862335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.625893,46.512341,6.625893,46.512341],
+  "bbox": [
+    6.625893,
+    46.512341,
+    6.625893,
+    46.512341
+],
   "geometry": {"coordinates":[6.625893,46.512341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220106937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.391001,47.107536,7.391001,47.107536",
     "geom:latitude":47.107536,
     "geom:longitude":7.391001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 35",
     "sg:city":"Schnottwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220106937,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466209800,
     "wof:name":"Jenni Martin.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.391001,47.107536,7.391001,47.107536],
+  "bbox": [
+    7.391001,
+    47.107536,
+    7.391001,
+    47.107536
+],
   "geometry": {"coordinates":[7.391001,47.107536],"type":"Point"}
 }

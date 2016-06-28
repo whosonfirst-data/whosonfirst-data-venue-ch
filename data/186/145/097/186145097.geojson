@@ -2,13 +2,14 @@
   "id": 186145097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.478346,46.984268,7.478346,46.984268",
     "geom:latitude":46.984268,
     "geom:longitude":7.478346,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ngfeldstrasse 26",
     "sg:city":"Ittigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186145097,
-    "wof:lastmodified":1449051192,
+    "wof:lastmodified":1466211408,
     "wof:name":"Maurer Theodor, Baugesch\u00e4ft",
     "wof:parent_id":85800083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.478346,46.984268,7.478346,46.984268],
+  "bbox": [
+    7.478346,
+    46.984268,
+    7.478346,
+    46.984268
+],
   "geometry": {"coordinates":[7.478346,46.984268],"type":"Point"}
 }

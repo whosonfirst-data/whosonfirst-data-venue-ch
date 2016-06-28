@@ -2,13 +2,14 @@
   "id": 253145513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.595221,47.57019,7.595221,47.57019",
     "geom:latitude":47.57019,
     "geom:longitude":7.595221,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstrasse 196",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253145513,
-    "wof:lastmodified":1449063717,
+    "wof:lastmodified":1466210457,
     "wof:name":"Bruno Bachmann B\u00e4ckerei-konditorei",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.595221,47.57019,7.595221,47.57019],
+  "bbox": [
+    7.595221,
+    47.57019,
+    7.595221,
+    47.57019
+],
   "geometry": {"coordinates":[7.595221,47.57019],"type":"Point"}
 }

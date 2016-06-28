@@ -2,13 +2,14 @@
   "id": 169719321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.336854,47.169823,7.336854,47.169823",
     "geom:latitude":47.169823,
     "geom:longitude":7.336854,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcttenbergweg 13",
     "sg:city":"Pieterlen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169719321,
-    "wof:lastmodified":1449033107,
+    "wof:lastmodified":1466211125,
     "wof:name":"F. Wyssbrod Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "road"
     ]
 },
-  "bbox": [7.336854,47.169823,7.336854,47.169823],
+  "bbox": [
+    7.336854,
+    47.169823,
+    7.336854,
+    47.169823
+],
   "geometry": {"coordinates":[7.336854,47.169823],"type":"Point"}
 }

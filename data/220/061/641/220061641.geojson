@@ -2,13 +2,14 @@
   "id": 220061641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.56208,47.314926,9.56208,47.314926",
     "geom:latitude":47.314926,
     "geom:longitude":9.56208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Affolternstrasse 103",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220061641,
-    "wof:lastmodified":1449074631,
+    "wof:lastmodified":1466209415,
     "wof:name":"Peter Z\u00e4ch Schreinerei & Glaserei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.56208,47.314926,9.56208,47.314926],
+  "bbox": [
+    9.56208,
+    47.314926,
+    9.56208,
+    47.314926
+],
   "geometry": {"coordinates":[9.56208,47.314926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252757119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455955,46.948544,7.455955,46.948544",
     "geom:latitude":46.948544,
     "geom:longitude":7.455955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nydeggasse 17 3011 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252757119,
-    "wof:lastmodified":1449006026,
+    "wof:lastmodified":1466209392,
     "wof:name":"Antiquit\u00e4tengalerie Zum B\u00e4rengraben, Straub Ursula Antiquit\u00e4ten, Stilm\u00f6bel; Handel",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455955,46.948544,7.455955,46.948544],
+  "bbox": [
+    7.455955,
+    46.948544,
+    7.455955,
+    46.948544
+],
   "geometry": {"coordinates":[7.455955,46.948544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202705043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.602734,47.412659,8.602734,47.412659",
     "geom:latitude":47.412659,
     "geom:longitude":8.602734,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6slistrasse 3",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202705043,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466210636,
     "wof:name":"Schoettl Engineering",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.602734,47.412659,8.602734,47.412659],
+  "bbox": [
+    8.602734,
+    47.412659,
+    8.602734,
+    47.412659
+],
   "geometry": {"coordinates":[8.602734,47.412659],"type":"Point"}
 }

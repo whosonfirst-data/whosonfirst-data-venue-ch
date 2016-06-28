@@ -2,13 +2,14 @@
   "id": 169691423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.168867,47.150284,8.168867,47.150284",
     "geom:latitude":47.150284,
     "geom:longitude":8.168867,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 6205 Eich. Postfach 69",
     "sg:city":"Eich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169691423,
-    "wof:lastmodified":1449032948,
+    "wof:lastmodified":1466210778,
     "wof:name":"Delta Motor Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.168867,47.150284,8.168867,47.150284],
+  "bbox": [
+    8.168867,
+    47.150284,
+    8.168867,
+    47.150284
+],
   "geometry": {"coordinates":[8.168867,47.150284],"type":"Point"}
 }

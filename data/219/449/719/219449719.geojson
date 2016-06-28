@@ -2,13 +2,14 @@
   "id": 219449719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.574879,47.343674,8.574879,47.343674",
     "geom:latitude":47.343674,
     "geom:longitude":8.574879,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rautistrasse 58",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219449719,
-    "wof:lastmodified":1449073649,
+    "wof:lastmodified":1466210632,
     "wof:name":"Vapor Ag",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "valve"
     ]
 },
-  "bbox": [8.574879,47.343674,8.574879,47.343674],
+  "bbox": [
+    8.574879,
+    47.343674,
+    8.574879,
+    47.343674
+],
   "geometry": {"coordinates":[8.574879,47.343674],"type":"Point"}
 }

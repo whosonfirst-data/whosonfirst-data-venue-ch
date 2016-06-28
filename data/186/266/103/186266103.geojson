@@ -2,13 +2,14 @@
   "id": 186266103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.887706,46.290279,7.887706,46.290279",
     "geom:latitude":46.290279,
     "geom:longitude":7.887706,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weingartenweg 20",
     "sg:city":"Visp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186266103,
-    "wof:lastmodified":1449050352,
+    "wof:lastmodified":1466209592,
     "wof:name":"Bau Ag Visp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.887706,46.290279,7.887706,46.290279],
+  "bbox": [
+    7.887706,
+    46.290279,
+    7.887706,
+    46.290279
+],
   "geometry": {"coordinates":[7.887706,46.290279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203395325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.437093,46.953892,7.437093,46.953892",
     "geom:latitude":46.953892,
     "geom:longitude":7.437093,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00e4hringerstrasse 4",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203395325,
-    "wof:lastmodified":1449026570,
+    "wof:lastmodified":1466211484,
     "wof:name":"Dr.med.renata B\u00fcsser Spezial\u00e4rztin Fmh",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.437093,46.953892,7.437093,46.953892],
+  "bbox": [
+    7.437093,
+    46.953892,
+    7.437093,
+    46.953892
+],
   "geometry": {"coordinates":[7.437093,46.953892],"type":"Point"}
 }

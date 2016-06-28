@@ -2,13 +2,14 @@
   "id": 236525285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60096,47.134949,7.60096,47.134949",
     "geom:latitude":47.134949,
     "geom:longitude":7.60096,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofweg 6",
     "sg:city":"Koppigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236525285,
-    "wof:lastmodified":1449004419,
+    "wof:lastmodified":1466212498,
     "wof:name":"Viktor Baumberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60096,47.134949,7.60096,47.134949],
+  "bbox": [
+    7.60096,
+    47.134949,
+    7.60096,
+    47.134949
+],
   "geometry": {"coordinates":[7.60096,47.134949],"type":"Point"}
 }

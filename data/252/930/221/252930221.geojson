@@ -2,13 +2,14 @@
   "id": 252930221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.610199,47.570595,7.610199,47.570595",
     "geom:latitude":47.570595,
     "geom:longitude":7.610199,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schorenweg 15",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252930221,
-    "wof:lastmodified":1449005753,
+    "wof:lastmodified":1466211323,
     "wof:name":"Cony's Dance Design, Jegerlehner C.",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.610199,47.570595,7.610199,47.570595],
+  "bbox": [
+    7.610199,
+    47.570595,
+    7.610199,
+    47.570595
+],
   "geometry": {"coordinates":[7.610199,47.570595],"type":"Point"}
 }

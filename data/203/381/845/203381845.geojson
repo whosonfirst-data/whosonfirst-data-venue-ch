@@ -2,13 +2,14 @@
   "id": 203381845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.579421,47.355869,8.579421,47.355869",
     "geom:latitude":47.355869,
     "geom:longitude":8.579421,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehrenbachhalde 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203381845,
-    "wof:lastmodified":1449025085,
+    "wof:lastmodified":1466211343,
     "wof:name":"Dr.med.pavla Laciga Dr.med. Fmh Augen\u00e4rztin",
     "wof:parent_id":85800647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.579421,47.355869,8.579421,47.355869],
+  "bbox": [
+    8.579421,
+    47.355869,
+    8.579421,
+    47.355869
+],
   "geometry": {"coordinates":[8.579421,47.355869],"type":"Point"}
 }

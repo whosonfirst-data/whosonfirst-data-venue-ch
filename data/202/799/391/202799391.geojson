@@ -2,13 +2,14 @@
   "id": 202799391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.55948,46.514271,6.55948,46.514271",
     "geom:latitude":46.514271,
     "geom:longitude":6.55948,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Bourg 10 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202799391,
-    "wof:lastmodified":1449062658,
+    "wof:lastmodified":1466211513,
     "wof:name":"Atelier D'architecture Et D'am\u00e9nagement A Carr\u00e9 Sa",
     "wof:parent_id":85800161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.55948,46.514271,6.55948,46.514271],
+  "bbox": [
+    6.55948,
+    46.514271,
+    6.55948,
+    46.514271
+],
   "geometry": {"coordinates":[6.55948,46.514271],"type":"Point"}
 }

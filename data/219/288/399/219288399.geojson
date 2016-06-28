@@ -2,13 +2,14 @@
   "id": 219288399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.900251,46.854748,7.900251,46.854748",
     "geom:latitude":46.854748,
     "geom:longitude":7.900251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hausmatt 1",
     "sg:city":"Seftigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219288399,
-    "wof:lastmodified":1449070758,
+    "wof:lastmodified":1466209137,
     "wof:name":"Heinz Ab\u00e4cherli Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.900251,46.854748,7.900251,46.854748],
+  "bbox": [
+    7.900251,
+    46.854748,
+    7.900251,
+    46.854748
+],
   "geometry": {"coordinates":[7.900251,46.854748],"type":"Point"}
 }

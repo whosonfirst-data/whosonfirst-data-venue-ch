@@ -2,13 +2,14 @@
   "id": 186121677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.253278,47.535583,8.253278,47.535583",
     "geom:latitude":47.535583,
     "geom:longitude":8.253278,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachstrasse 19",
     "sg:city":"W\u00fcrenlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186121677,
-    "wof:lastmodified":1449052411,
+    "wof:lastmodified":1466211096,
     "wof:name":"Kaspar Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.253278,47.535583,8.253278,47.535583],
+  "bbox": [
+    8.253278,
+    47.535583,
+    8.253278,
+    47.535583
+],
   "geometry": {"coordinates":[8.253278,47.535583],"type":"Point"}
 }

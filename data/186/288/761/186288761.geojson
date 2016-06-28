@@ -2,13 +2,14 @@
   "id": 186288761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.930963,47.522163,8.930963,47.522163",
     "geom:latitude":47.522163,
     "geom:longitude":8.930963,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Juchstrasse 5",
     "sg:city":"Matzingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186288761,
-    "wof:lastmodified":1449050528,
+    "wof:lastmodified":1466209754,
     "wof:name":"Hofmann J. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.930963,47.522163,8.930963,47.522163],
+  "bbox": [
+    8.930963,
+    47.522163,
+    8.930963,
+    47.522163
+],
   "geometry": {"coordinates":[8.930963,47.522163],"type":"Point"}
 }

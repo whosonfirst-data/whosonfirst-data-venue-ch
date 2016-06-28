@@ -2,13 +2,14 @@
   "id": 236700053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598725,47.488815,7.598725,47.488815",
     "geom:latitude":47.488815,
     "geom:longitude":7.598725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Christoph Merian-ring 11",
     "sg:city":"Reinach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236700053,
-    "wof:lastmodified":1449004903,
+    "wof:lastmodified":1466212818,
     "wof:name":"Aprikus Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "perfume"
     ]
 },
-  "bbox": [7.598725,47.488815,7.598725,47.488815],
+  "bbox": [
+    7.598725,
+    47.488815,
+    7.598725,
+    47.488815
+],
   "geometry": {"coordinates":[7.598725,47.488815],"type":"Point"}
 }

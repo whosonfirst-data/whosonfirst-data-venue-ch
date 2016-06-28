@@ -2,13 +2,14 @@
   "id": 202736191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.726327,47.498989,8.726327,47.498989",
     "geom:latitude":47.498989,
     "geom:longitude":8.726327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neumarkt 15 8401 Winterthur. Postfach 905",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202736191,
-    "wof:lastmodified":1449062604,
+    "wof:lastmodified":1466210925,
     "wof:name":"Technopark Winterthur Ag Technopark Zur F\u00f6rderung Von Gr\u00fcndungen U. Des Aufbaus Von Unternehmungen Im Technologiesektor Usw",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.726327,47.498989,8.726327,47.498989],
+  "bbox": [
+    8.726327,
+    47.498989,
+    8.726327,
+    47.498989
+],
   "geometry": {"coordinates":[8.726327,47.498989],"type":"Point"}
 }

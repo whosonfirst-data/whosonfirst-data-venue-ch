@@ -2,13 +2,14 @@
   "id": 220110839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.259915,47.417015,9.259915,47.417015",
     "geom:latitude":47.417015,
     "geom:longitude":9.259915,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 19",
     "sg:city":"Wichtrach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220110839,
-    "wof:lastmodified":1449074283,
+    "wof:lastmodified":1466209831,
     "wof:name":"Kostezer Edy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.259915,47.417015,9.259915,47.417015],
+  "bbox": [
+    9.259915,
+    47.417015,
+    9.259915,
+    47.417015
+],
   "geometry": {"coordinates":[9.259915,47.417015],"type":"Point"}
 }

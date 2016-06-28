@@ -2,13 +2,14 @@
   "id": 220005125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.4352,46.862492,10.4352,46.862492",
     "geom:latitude":46.862492,
     "geom:longitude":10.4352,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7558",
     "sg:city":"Strada",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220005125,
-    "wof:lastmodified":1449074818,
+    "wof:lastmodified":1466208923,
     "wof:name":"Curdin M\u00fcller Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.4352,46.862492,10.4352,46.862492],
+  "bbox": [
+    10.4352,
+    46.862492,
+    10.4352,
+    46.862492
+],
   "geometry": {"coordinates":[10.4352,46.862492],"type":"Point"}
 }

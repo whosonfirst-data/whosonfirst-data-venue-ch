@@ -2,13 +2,14 @@
   "id": 236416935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.969927,46.317619,6.969927,46.317619",
     "geom:latitude":46.317619,
     "geom:longitude":6.969927,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Du March\u00e9 2",
     "sg:city":"Aigle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236416935,
-    "wof:lastmodified":1449003076,
+    "wof:lastmodified":1466212307,
     "wof:name":"Biblioth\u00e8que Municipale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [6.969927,46.317619,6.969927,46.317619],
+  "bbox": [
+    6.969927,
+    46.317619,
+    6.969927,
+    46.317619
+],
   "geometry": {"coordinates":[6.969927,46.317619],"type":"Point"}
 }

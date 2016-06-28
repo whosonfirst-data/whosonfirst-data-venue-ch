@@ -2,13 +2,14 @@
   "id": 219279991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.459602,47.444485,8.459602,47.444485",
     "geom:latitude":47.444485,
     "geom:longitude":8.459602,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pumpwerkstrasse 25",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219279991,
-    "wof:lastmodified":1449072018,
+    "wof:lastmodified":1466209061,
     "wof:name":"Garage Ueli F\u00e4h Garage",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.459602,47.444485,8.459602,47.444485],
+  "bbox": [
+    8.459602,
+    47.444485,
+    8.459602,
+    47.444485
+],
   "geometry": {"coordinates":[8.459602,47.444485],"type":"Point"}
 }

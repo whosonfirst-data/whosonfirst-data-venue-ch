@@ -2,13 +2,14 @@
   "id": 220191941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54112,47.371414,8.54112,47.371414",
     "geom:latitude":47.371414,
     "geom:longitude":8.54112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weggengasse 3",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220191941,
-    "wof:lastmodified":1449074523,
+    "wof:lastmodified":1466210525,
     "wof:name":"Markus Sturzenegger Restauration Antiker M\u00f6bel",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54112,47.371414,8.54112,47.371414],
+  "bbox": [
+    8.54112,
+    47.371414,
+    8.54112,
+    47.371414
+],
   "geometry": {"coordinates":[8.54112,47.371414],"type":"Point"}
 }

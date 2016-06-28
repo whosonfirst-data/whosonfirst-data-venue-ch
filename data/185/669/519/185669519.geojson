@@ -2,13 +2,14 @@
   "id": 185669519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.527287,47.201141,7.527287,47.201141",
     "geom:latitude":47.201141,
     "geom:longitude":7.527287,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans-huber-strasse 38",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185669519,
-    "wof:lastmodified":1449006790,
+    "wof:lastmodified":1466210757,
     "wof:name":"Scheller Werbetechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.527287,47.201141,7.527287,47.201141],
+  "bbox": [
+    7.527287,
+    47.201141,
+    7.527287,
+    47.201141
+],
   "geometry": {"coordinates":[7.527287,47.201141],"type":"Point"}
 }

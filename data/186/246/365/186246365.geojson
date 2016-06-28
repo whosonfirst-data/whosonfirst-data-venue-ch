@@ -2,13 +2,14 @@
   "id": 186246365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.2455,47.099751,7.2455,47.099751",
     "geom:latitude":47.099751,
     "geom:longitude":7.2455,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6cklerengasse",
     "sg:city":"Bellmund",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186246365,
-    "wof:lastmodified":1449050434,
+    "wof:lastmodified":1466209443,
     "wof:name":"Wedekind Heinz.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.2455,47.099751,7.2455,47.099751],
+  "bbox": [
+    7.2455,
+    47.099751,
+    7.2455,
+    47.099751
+],
   "geometry": {"coordinates":[7.2455,47.099751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185712043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.808319,47.331757,8.808319,47.331757",
     "geom:latitude":47.331757,
     "geom:longitude":8.808319,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freienhofgasse 3 3600 Thun. Postfach 1377",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185712043,
-    "wof:lastmodified":1449007299,
+    "wof:lastmodified":1466211228,
     "wof:name":"Hans Peter Wahl Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.808319,47.331757,8.808319,47.331757],
+  "bbox": [
+    8.808319,
+    47.331757,
+    8.808319,
+    47.331757
+],
   "geometry": {"coordinates":[8.808319,47.331757],"type":"Point"}
 }

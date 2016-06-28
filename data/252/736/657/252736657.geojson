@@ -2,13 +2,14 @@
   "id": 252736657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154526,47.09354,7.154526,47.09354",
     "geom:latitude":47.09354,
     "geom:longitude":7.154526,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleintwann 22-24 2513 Twann. Postfach",
     "sg:city":"Twann",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252736657,
-    "wof:lastmodified":1449006488,
+    "wof:lastmodified":1466209193,
     "wof:name":"Engel Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154526,47.09354,7.154526,47.09354],
+  "bbox": [
+    7.154526,
+    47.09354,
+    7.154526,
+    47.09354
+],
   "geometry": {"coordinates":[7.154526,47.09354],"type":"Point"}
 }

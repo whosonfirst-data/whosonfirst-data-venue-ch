@@ -2,13 +2,14 @@
   "id": 202855651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.626159,46.515076,6.626159,46.515076",
     "geom:latitude":46.515076,
     "geom:longitude":6.626159,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Dapples 54 1006 Lausanne Case Postale 1286",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202855651,
-    "wof:lastmodified":1449061968,
+    "wof:lastmodified":1466211816,
     "wof:name":"Richter & Dahl-rocha Bureau D'architectes Sa",
     "wof:parent_id":85862335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.626159,46.515076,6.626159,46.515076],
+  "bbox": [
+    6.626159,
+    46.515076,
+    6.626159,
+    46.515076
+],
   "geometry": {"coordinates":[6.626159,46.515076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186627763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.66005,46.518589,6.66005,46.518589",
     "geom:latitude":46.518589,
     "geom:longitude":6.66005,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Oisillons 19",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186627763,
-    "wof:lastmodified":1449053081,
+    "wof:lastmodified":1466212217,
     "wof:name":"Alexandre Vraca Bureau D'ing\u00e9nieur",
     "wof:parent_id":85800127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.66005,46.518589,6.66005,46.518589],
+  "bbox": [
+    6.66005,
+    46.518589,
+    6.66005,
+    46.518589
+],
   "geometry": {"coordinates":[6.66005,46.518589],"type":"Point"}
 }

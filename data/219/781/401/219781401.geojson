@@ -2,13 +2,14 @@
   "id": 219781401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304932,47.477451,8.304932,47.477451",
     "geom:latitude":47.477451,
     "geom:longitude":8.304932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haselstrasse 29",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219781401,
-    "wof:lastmodified":1449071057,
+    "wof:lastmodified":1466212420,
     "wof:name":"Bar Lounge Rossini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304932,47.477451,8.304932,47.477451],
+  "bbox": [
+    8.304932,
+    47.477451,
+    8.304932,
+    47.477451
+],
   "geometry": {"coordinates":[8.304932,47.477451],"type":"Point"}
 }

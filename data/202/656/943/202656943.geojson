@@ -2,13 +2,14 @@
   "id": 202656943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.580035,47.556961,7.580035,47.556961",
     "geom:latitude":47.556961,
     "geom:longitude":7.580035,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spalentorweg 18",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202656943,
-    "wof:lastmodified":1449061738,
+    "wof:lastmodified":1466210190,
     "wof:name":"Pelkofer",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.580035,47.556961,7.580035,47.556961],
+  "bbox": [
+    7.580035,
+    47.556961,
+    7.580035,
+    47.556961
+],
   "geometry": {"coordinates":[7.580035,47.556961],"type":"Point"}
 }

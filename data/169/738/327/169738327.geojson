@@ -2,13 +2,14 @@
   "id": 169738327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.552043,47.363323,8.552043,47.363323",
     "geom:latitude":47.363323,
     "geom:longitude":8.552043,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlebachstrasse 54",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169738327,
-    "wof:lastmodified":1449035096,
+    "wof:lastmodified":1466211220,
     "wof:name":"Ansbacher (schweiz) Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "insurance"
     ]
 },
-  "bbox": [8.552043,47.363323,8.552043,47.363323],
+  "bbox": [
+    8.552043,
+    47.363323,
+    8.552043,
+    47.363323
+],
   "geometry": {"coordinates":[8.552043,47.363323],"type":"Point"}
 }

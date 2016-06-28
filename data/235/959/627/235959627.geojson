@@ -2,13 +2,14 @@
   "id": 235959627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.78109,47.455811,8.78109,47.455811",
     "geom:latitude":47.455811,
     "geom:longitude":8.78109,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 27 8483 Kollbrunn. Postfach",
     "sg:city":"Kollbrunn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235959627,
-    "wof:lastmodified":1449008581,
+    "wof:lastmodified":1466209149,
     "wof:name":"Hofmann & Mohr Schreinerei & Innenausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.78109,47.455811,8.78109,47.455811],
+  "bbox": [
+    8.78109,
+    47.455811,
+    8.78109,
+    47.455811
+],
   "geometry": {"coordinates":[8.78109,47.455811],"type":"Point"}
 }

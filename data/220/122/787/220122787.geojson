@@ -2,13 +2,14 @@
   "id": 220122787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.732,46.999382,6.732,46.999382",
     "geom:latitude":46.999382,
     "geom:longitude":6.732,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grande-rue 17",
     "sg:city":"Ponts-de-martel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220122787,
-    "wof:lastmodified":1449074506,
+    "wof:lastmodified":1466209934,
     "wof:name":"Monard Yvan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.732,46.999382,6.732,46.999382],
+  "bbox": [
+    6.732,
+    46.999382,
+    6.732,
+    46.999382
+],
   "geometry": {"coordinates":[6.732,46.999382],"type":"Point"}
 }

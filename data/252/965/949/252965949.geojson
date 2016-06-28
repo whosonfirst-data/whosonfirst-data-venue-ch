@@ -2,13 +2,14 @@
   "id": 252965949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.454284,46.960049,7.454284,46.960049",
     "geom:latitude":46.960049,
     "geom:longitude":7.454284,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lehengasse 22",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252965949,
-    "wof:lastmodified":1449006158,
+    "wof:lastmodified":1466211654,
     "wof:name":"Eilinger Ag",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.454284,46.960049,7.454284,46.960049],
+  "bbox": [
+    7.454284,
+    46.960049,
+    7.454284,
+    46.960049
+],
   "geometry": {"coordinates":[7.454284,46.960049],"type":"Point"}
 }

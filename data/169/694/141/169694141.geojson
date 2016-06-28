@@ -2,13 +2,14 @@
   "id": 169694141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.87739,47.563335,8.87739,47.563335",
     "geom:latitude":47.563335,
     "geom:longitude":8.87739,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstr. 242",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169694141,
-    "wof:lastmodified":1449033610,
+    "wof:lastmodified":1466210878,
     "wof:name":"Liechti Ag Erzenholz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.87739,47.563335,8.87739,47.563335],
+  "bbox": [
+    8.87739,
+    47.563335,
+    8.87739,
+    47.563335
+],
   "geometry": {"coordinates":[8.87739,47.563335],"type":"Point"}
 }

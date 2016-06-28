@@ -2,13 +2,14 @@
   "id": 186193163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.006961,46.163502,9.006961,46.163502",
     "geom:latitude":46.163502,
     "geom:longitude":9.006961,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6528 Camorino. Postfach",
     "sg:city":"Camorino",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186193163,
-    "wof:lastmodified":1449050848,
+    "wof:lastmodified":1466209032,
     "wof:name":"Rossi Fratelli Luigi & Giuseppe.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.006961,46.163502,9.006961,46.163502],
+  "bbox": [
+    9.006961,
+    46.163502,
+    9.006961,
+    46.163502
+],
   "geometry": {"coordinates":[9.006961,46.163502],"type":"Point"}
 }

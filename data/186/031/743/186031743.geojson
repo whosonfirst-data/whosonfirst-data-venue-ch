@@ -2,13 +2,14 @@
   "id": 186031743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.622926,47.483414,7.622926,47.483414",
     "geom:latitude":47.483414,
     "geom:longitude":7.622926,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorneckstrasse 99",
     "sg:city":"Dornach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186031743,
-    "wof:lastmodified":1449051377,
+    "wof:lastmodified":1466209735,
     "wof:name":"Bte Bautechnik Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.622926,47.483414,7.622926,47.483414],
+  "bbox": [
+    7.622926,
+    47.483414,
+    7.622926,
+    47.483414
+],
   "geometry": {"coordinates":[7.622926,47.483414],"type":"Point"}
 }

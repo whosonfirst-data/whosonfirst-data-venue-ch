@@ -2,13 +2,14 @@
   "id": 253363721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.970419,46.308723,7.970419,46.308723",
     "geom:latitude":46.308723,
     "geom:longitude":7.970419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantonsstrasse 52",
     "sg:city":"Glis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253363721,
-    "wof:lastmodified":1449065418,
+    "wof:lastmodified":1466212145,
     "wof:name":"Vino Kiosk & Weine Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.970419,46.308723,7.970419,46.308723],
+  "bbox": [
+    7.970419,
+    46.308723,
+    7.970419,
+    46.308723
+],
   "geometry": {"coordinates":[7.970419,46.308723],"type":"Point"}
 }

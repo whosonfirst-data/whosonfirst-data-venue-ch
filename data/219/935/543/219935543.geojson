@@ -2,13 +2,14 @@
   "id": 219935543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.856832,46.457832,6.856832,46.457832",
     "geom:latitude":46.457832,
     "geom:longitude":6.856832,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langelenstrasse 10a",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219935543,
-    "wof:lastmodified":1449073289,
+    "wof:lastmodified":1466212697,
     "wof:name":"Chatelan Et Cie Sa",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.856832,46.457832,6.856832,46.457832],
+  "bbox": [
+    6.856832,
+    46.457832,
+    6.856832,
+    46.457832
+],
   "geometry": {"coordinates":[6.856832,46.457832],"type":"Point"}
 }

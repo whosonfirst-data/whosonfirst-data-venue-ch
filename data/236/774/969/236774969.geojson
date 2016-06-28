@@ -2,13 +2,14 @@
   "id": 236774969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655729,47.230949,7.655729,47.230949",
     "geom:latitude":47.230949,
     "geom:longitude":7.655729,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindauerstrasse 25",
     "sg:city":"Tagelswangen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236774969,
-    "wof:lastmodified":1449002835,
+    "wof:lastmodified":1466212885,
     "wof:name":"W. Eberhard Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "milling"
     ]
 },
-  "bbox": [7.655729,47.230949,7.655729,47.230949],
+  "bbox": [
+    7.655729,
+    47.230949,
+    7.655729,
+    47.230949
+],
   "geometry": {"coordinates":[7.655729,47.230949],"type":"Point"}
 }

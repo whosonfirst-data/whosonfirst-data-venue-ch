@@ -2,13 +2,14 @@
   "id": 219445843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.980841,47.222157,8.980841,47.222157",
     "geom:latitude":47.222157,
     "geom:longitude":8.980841,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelhofstrasse 2",
     "sg:city":"Uznach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219445843,
-    "wof:lastmodified":1449070867,
+    "wof:lastmodified":1466210597,
     "wof:name":"Karl Bochsler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "balcony"
     ]
 },
-  "bbox": [8.980841,47.222157,8.980841,47.222157],
+  "bbox": [
+    8.980841,
+    47.222157,
+    8.980841,
+    47.222157
+],
   "geometry": {"coordinates":[8.980841,47.222157],"type":"Point"}
 }

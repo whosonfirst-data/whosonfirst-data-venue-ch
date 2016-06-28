@@ -2,13 +2,14 @@
   "id": 185703685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.589834,47.555569,7.589834,47.555569",
     "geom:latitude":47.555569,
     "geom:longitude":7.589834,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weisse Gasse 15 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185703685,
-    "wof:lastmodified":1449007097,
+    "wof:lastmodified":1466211105,
     "wof:name":"Elisabeth St\u00e4rkle Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.589834,47.555569,7.589834,47.555569],
+  "bbox": [
+    7.589834,
+    47.555569,
+    7.589834,
+    47.555569
+],
   "geometry": {"coordinates":[7.589834,47.555569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236892449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.493184,47.370098,8.493184,47.370098",
     "geom:latitude":47.370098,
     "geom:longitude":8.493184,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wyd\u00e4ckerring 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236892449,
-    "wof:lastmodified":1449002042,
+    "wof:lastmodified":1466212964,
     "wof:name":"Sieber Consulting",
     "wof:parent_id":85800579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.493184,47.370098,8.493184,47.370098],
+  "bbox": [
+    8.493184,
+    47.370098,
+    8.493184,
+    47.370098
+],
   "geometry": {"coordinates":[8.493184,47.370098],"type":"Point"}
 }

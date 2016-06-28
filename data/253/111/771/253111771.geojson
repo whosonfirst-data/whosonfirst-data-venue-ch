@@ -2,13 +2,14 @@
   "id": 253111771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.502532,46.822815,6.502532,46.822815",
     "geom:latitude":46.822815,
     "geom:longitude":6.502532,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Centrale 15",
     "sg:city":"Ste-croix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253111771,
-    "wof:lastmodified":1449065895,
+    "wof:lastmodified":1466210056,
     "wof:name":"Jean-h. Gouffon Optique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.502532,46.822815,6.502532,46.822815],
+  "bbox": [
+    6.502532,
+    46.822815,
+    6.502532,
+    46.822815
+],
   "geometry": {"coordinates":[6.502532,46.822815],"type":"Point"}
 }

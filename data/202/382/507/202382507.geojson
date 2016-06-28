@@ -2,13 +2,14 @@
   "id": 202382507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.13121,46.207352,6.13121,46.207352",
     "geom:latitude":46.207352,
     "geom:longitude":6.13121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Fr\u00e9d\u00e9ric-soret 19",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202382507,
-    "wof:lastmodified":1449060795,
+    "wof:lastmodified":1466209312,
     "wof:name":"Arthur Harmann Ing\u00e9nieur Cantonal",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.13121,46.207352,6.13121,46.207352],
+  "bbox": [
+    6.13121,
+    46.207352,
+    6.13121,
+    46.207352
+],
   "geometry": {"coordinates":[6.13121,46.207352],"type":"Point"}
 }

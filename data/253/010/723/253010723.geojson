@@ -2,13 +2,14 @@
   "id": 253010723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.558512,47.42791,8.558512,47.42791",
     "geom:latitude":47.42791,
     "geom:longitude":8.558512,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohenstieglen 14",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253010723,
-    "wof:lastmodified":1449064657,
+    "wof:lastmodified":1466209054,
     "wof:name":"Blumen Oase",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.558512,47.42791,8.558512,47.42791],
+  "bbox": [
+    8.558512,
+    47.42791,
+    8.558512,
+    47.42791
+],
   "geometry": {"coordinates":[8.558512,47.42791],"type":"Point"}
 }

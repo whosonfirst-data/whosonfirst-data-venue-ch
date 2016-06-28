@@ -2,13 +2,14 @@
   "id": 202872451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55452,47.314823,8.55452,47.314823",
     "geom:latitude":47.314823,
     "geom:longitude":8.55452,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotfarbweg 2",
     "sg:city":"R\u00fcschlikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202872451,
-    "wof:lastmodified":1449060339,
+    "wof:lastmodified":1466211904,
     "wof:name":"Wethli Architekten, Kommanditgesellschaft",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55452,47.314823,8.55452,47.314823],
+  "bbox": [
+    8.55452,
+    47.314823,
+    8.55452,
+    47.314823
+],
   "geometry": {"coordinates":[8.55452,47.314823],"type":"Point"}
 }

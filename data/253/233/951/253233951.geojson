@@ -2,13 +2,14 @@
   "id": 253233951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.636625,46.753933,7.636625,46.753933",
     "geom:latitude":46.753933,
     "geom:longitude":7.636625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstettenstrasse 39",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253233951,
-    "wof:lastmodified":1449065847,
+    "wof:lastmodified":1466211332,
     "wof:name":"Peter Hirsbrunner B\u00e4ckerei-konditorei",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.636625,46.753933,7.636625,46.753933],
+  "bbox": [
+    7.636625,
+    46.753933,
+    7.636625,
+    46.753933
+],
   "geometry": {"coordinates":[7.636625,46.753933],"type":"Point"}
 }

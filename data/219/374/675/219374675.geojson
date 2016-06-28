@@ -2,13 +2,14 @@
   "id": 219374675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.405577,46.942299,7.405577,46.942299",
     "geom:latitude":46.942299,
     "geom:longitude":7.405577,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 171",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219374675,
-    "wof:lastmodified":1449071925,
+    "wof:lastmodified":1466209922,
     "wof:name":"D'alessandro Ag",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [7.405577,46.942299,7.405577,46.942299],
+  "bbox": [
+    7.405577,
+    46.942299,
+    7.405577,
+    46.942299
+],
   "geometry": {"coordinates":[7.405577,46.942299],"type":"Point"}
 }

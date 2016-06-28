@@ -2,13 +2,14 @@
   "id": 203164863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.770595,46.593719,6.770595,46.593719",
     "geom:latitude":46.593719,
     "geom:longitude":6.770595,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Mon-repos 5c 1700 Fribourg. Postfach",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203164863,
-    "wof:lastmodified":1449025170,
+    "wof:lastmodified":1466209083,
     "wof:name":"Dr M\u00e9d. Christopher Krayenb\u00fchl M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.770595,46.593719,6.770595,46.593719],
+  "bbox": [
+    6.770595,
+    46.593719,
+    6.770595,
+    46.593719
+],
   "geometry": {"coordinates":[6.770595,46.593719],"type":"Point"}
 }

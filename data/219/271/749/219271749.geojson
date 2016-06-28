@@ -2,13 +2,14 @@
   "id": 219271749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.02792,47.467236,9.02792,47.467236",
     "geom:latitude":47.467236,
     "geom:longitude":9.02792,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse",
     "sg:city":"Bronschhofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219271749,
-    "wof:lastmodified":1449072230,
+    "wof:lastmodified":1466208987,
     "wof:name":"Fritz Heiniger Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.02792,47.467236,9.02792,47.467236],
+  "bbox": [
+    9.02792,
+    47.467236,
+    9.02792,
+    47.467236
+],
   "geometry": {"coordinates":[9.02792,47.467236],"type":"Point"}
 }

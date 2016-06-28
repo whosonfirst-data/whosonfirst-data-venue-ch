@@ -2,13 +2,14 @@
   "id": 219273851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.653563,46.78019,6.653563,46.78019",
     "geom:latitude":46.78019,
     "geom:longitude":6.653563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Des Sports 13 1400 Yverdon-les-bains. Postfach",
     "sg:city":"Yverdon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219273851,
-    "wof:lastmodified":1449072213,
+    "wof:lastmodified":1466209005,
     "wof:name":"Garage Bel-air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.653563,46.78019,6.653563,46.78019],
+  "bbox": [
+    6.653563,
+    46.78019,
+    6.653563,
+    46.78019
+],
   "geometry": {"coordinates":[6.653563,46.78019],"type":"Point"}
 }

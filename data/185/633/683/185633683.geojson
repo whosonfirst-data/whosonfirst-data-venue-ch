@@ -2,13 +2,14 @@
   "id": 185633683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.007754,47.390503,8.007754,47.390503",
     "geom:latitude":47.390503,
     "geom:longitude":8.007754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6sgerstrasse 81",
     "sg:city":"Niedererlinsbach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185633683,
-    "wof:lastmodified":1449008186,
+    "wof:lastmodified":1466209964,
     "wof:name":"Henkel & Cie Ag Division Laesser Klebstoffe",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adhesive"
     ]
 },
-  "bbox": [8.007754,47.390503,8.007754,47.390503],
+  "bbox": [
+    8.007754,
+    47.390503,
+    8.007754,
+    47.390503
+],
   "geometry": {"coordinates":[8.007754,47.390503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219495191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.414782,46.729305,6.414782,46.729305",
     "geom:latitude":46.729305,
     "geom:longitude":6.414782,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 36",
     "sg:city":"Ballaigues",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219495191,
-    "wof:lastmodified":1449071948,
+    "wof:lastmodified":1466211088,
     "wof:name":"Banque Cr\u00e9dit Foncier Vaudois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.414782,46.729305,6.414782,46.729305],
+  "bbox": [
+    6.414782,
+    46.729305,
+    6.414782,
+    46.729305
+],
   "geometry": {"coordinates":[6.414782,46.729305],"type":"Point"}
 }

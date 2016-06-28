@@ -2,13 +2,14 @@
   "id": 186293417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.178456,47.262669,8.178456,47.262669",
     "geom:latitude":47.262669,
     "geom:longitude":8.178456,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4chholderstrasse 46",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186293417,
-    "wof:lastmodified":1449050936,
+    "wof:lastmodified":1466209786,
     "wof:name":"Kurt Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.178456,47.262669,8.178456,47.262669],
+  "bbox": [
+    8.178456,
+    47.262669,
+    8.178456,
+    47.262669
+],
   "geometry": {"coordinates":[8.178456,47.262669],"type":"Point"}
 }

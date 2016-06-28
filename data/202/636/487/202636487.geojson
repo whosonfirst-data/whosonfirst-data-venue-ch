@@ -2,13 +2,14 @@
   "id": 202636487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.241933,47.145672,7.241933,47.145672",
     "geom:latitude":47.145672,
     "geom:longitude":7.241933,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lueg 6 2500 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202636487,
-    "wof:lastmodified":1449061125,
+    "wof:lastmodified":1466210002,
     "wof:name":"Moser Heinz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.241933,47.145672,7.241933,47.145672],
+  "bbox": [
+    7.241933,
+    47.145672,
+    7.241933,
+    47.145672
+],
   "geometry": {"coordinates":[7.241933,47.145672],"type":"Point"}
 }

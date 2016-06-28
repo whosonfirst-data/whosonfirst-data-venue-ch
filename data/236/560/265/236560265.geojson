@@ -2,13 +2,14 @@
   "id": 236560265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.41907,46.933296,7.41907,46.933296",
     "geom:latitude":46.933296,
     "geom:longitude":7.41907,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldeggstrasse 38",
     "sg:city":"Liebefeld",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236560265,
-    "wof:lastmodified":1449004303,
+    "wof:lastmodified":1466212522,
     "wof:name":"Carbamed",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [7.41907,46.933296,7.41907,46.933296],
+  "bbox": [
+    7.41907,
+    46.933296,
+    7.41907,
+    46.933296
+],
   "geometry": {"coordinates":[7.41907,46.933296],"type":"Point"}
 }

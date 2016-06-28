@@ -2,13 +2,14 @@
   "id": 186227755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.425281,47.391541,8.425281,47.391541",
     "geom:latitude":47.391541,
     "geom:longitude":8.425281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlierenstrasse 14",
     "sg:city":"Urdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186227755,
-    "wof:lastmodified":1449050981,
+    "wof:lastmodified":1466209301,
     "wof:name":"Thommen Consulting Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.425281,47.391541,8.425281,47.391541],
+  "bbox": [
+    8.425281,
+    47.391541,
+    8.425281,
+    47.391541
+],
   "geometry": {"coordinates":[8.425281,47.391541],"type":"Point"}
 }

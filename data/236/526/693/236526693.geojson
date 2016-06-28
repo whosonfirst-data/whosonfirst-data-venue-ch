@@ -2,13 +2,14 @@
   "id": 236526693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.81402,47.33371,8.81402,47.33371",
     "geom:latitude":47.33371,
     "geom:longitude":8.81402,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stationsstrasse 32",
     "sg:city":"H\u00fcnibach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236526693,
-    "wof:lastmodified":1449002497,
+    "wof:lastmodified":1466212566,
     "wof:name":"W\u00fcthrich & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.81402,47.33371,8.81402,47.33371],
+  "bbox": [
+    8.81402,
+    47.33371,
+    8.81402,
+    47.33371
+],
   "geometry": {"coordinates":[8.81402,47.33371],"type":"Point"}
 }

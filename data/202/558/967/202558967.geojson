@@ -2,13 +2,14 @@
   "id": 202558967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.839749,47.560234,7.839749,47.560234",
     "geom:latitude":47.560234,
     "geom:longitude":7.839749,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 36 4313 M\u00f6hlin. Postfach 71",
     "sg:city":"M\u00f6hlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202558967,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466209285,
     "wof:name":"Ingenieurbureau Aegerter A. & Bosshardt Dr. O. Ag Zweigniederlassung M\u00f6hlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.839749,47.560234,7.839749,47.560234],
+  "bbox": [
+    7.839749,
+    47.560234,
+    7.839749,
+    47.560234
+],
   "geometry": {"coordinates":[7.839749,47.560234],"type":"Point"}
 }

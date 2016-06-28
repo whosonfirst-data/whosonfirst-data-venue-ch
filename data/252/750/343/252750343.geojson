@@ -2,13 +2,14 @@
   "id": 252750343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.768485,47.335884,8.768485,47.335884",
     "geom:latitude":47.335884,
     "geom:longitude":8.768485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstrasse 193",
     "sg:city":"Aathal-seegr\u00e4ben",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252750343,
-    "wof:lastmodified":1449006092,
+    "wof:lastmodified":1466209332,
     "wof:name":"Mad Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "designing"
     ]
 },
-  "bbox": [8.768485,47.335884,8.768485,47.335884],
+  "bbox": [
+    8.768485,
+    47.335884,
+    8.768485,
+    47.335884
+],
   "geometry": {"coordinates":[8.768485,47.335884],"type":"Point"}
 }

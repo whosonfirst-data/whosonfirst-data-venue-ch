@@ -2,13 +2,14 @@
   "id": 202929419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.898654,47.349201,7.898654,47.349201",
     "geom:latitude":47.349201,
     "geom:longitude":7.898654,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fcrmattweg 28",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202929419,
-    "wof:lastmodified":1449061090,
+    "wof:lastmodified":1466212137,
     "wof:name":"Zeller Beratungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.898654,47.349201,7.898654,47.349201],
+  "bbox": [
+    7.898654,
+    47.349201,
+    7.898654,
+    47.349201
+],
   "geometry": {"coordinates":[7.898654,47.349201],"type":"Point"}
 }

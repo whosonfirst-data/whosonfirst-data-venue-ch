@@ -2,13 +2,14 @@
   "id": 219829195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.631954,46.519516,6.631954,46.519516",
     "geom:latitude":46.519516,
     "geom:longitude":6.631954,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Grand-ch\u00eane 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219829195,
-    "wof:lastmodified":1449073674,
+    "wof:lastmodified":1466212511,
     "wof:name":"Terraz Anne-chantal",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.631954,46.519516,6.631954,46.519516],
+  "bbox": [
+    6.631954,
+    46.519516,
+    6.631954,
+    46.519516
+],
   "geometry": {"coordinates":[6.631954,46.519516],"type":"Point"}
 }

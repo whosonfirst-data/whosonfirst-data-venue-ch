@@ -2,13 +2,14 @@
   "id": 202699599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.626752,47.454235,9.626752,47.454235",
     "geom:latitude":47.454235,
     "geom:longitude":9.626752,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenfelderstrasse 47b 8266 Steckborn. Postfach 36",
     "sg:city":"Steckborn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202699599,
-    "wof:lastmodified":1449060454,
+    "wof:lastmodified":1466210585,
     "wof:name":"Scheibner U.g. Ugs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.626752,47.454235,9.626752,47.454235],
+  "bbox": [
+    9.626752,
+    47.454235,
+    9.626752,
+    47.454235
+],
   "geometry": {"coordinates":[9.626752,47.454235],"type":"Point"}
 }

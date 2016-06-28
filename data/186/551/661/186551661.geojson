@@ -2,13 +2,14 @@
   "id": 186551661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.04318,47.461094,9.04318,47.461094",
     "geom:latitude":47.461094,
     "geom:longitude":9.04318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hubstrasse 11",
     "sg:city":"Wil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186551661,
-    "wof:lastmodified":1449050945,
+    "wof:lastmodified":1466211987,
     "wof:name":"B\u00fcchi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sheet"
     ]
 },
-  "bbox": [9.04318,47.461094,9.04318,47.461094],
+  "bbox": [
+    9.04318,
+    47.461094,
+    9.04318,
+    47.461094
+],
   "geometry": {"coordinates":[9.04318,47.461094],"type":"Point"}
 }

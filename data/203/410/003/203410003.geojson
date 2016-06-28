@@ -2,13 +2,14 @@
   "id": 203410003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55564,47.36245,8.55564,47.36245",
     "geom:latitude":47.36245,
     "geom:longitude":8.55564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollikerstrasse 37",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203410003,
-    "wof:lastmodified":1449024970,
+    "wof:lastmodified":1466211633,
     "wof:name":"Dr.med.sebastian Schnyder Spezialarzt Fmh",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55564,47.36245,8.55564,47.36245],
+  "bbox": [
+    8.55564,
+    47.36245,
+    8.55564,
+    47.36245
+],
   "geometry": {"coordinates":[8.55564,47.36245],"type":"Point"}
 }

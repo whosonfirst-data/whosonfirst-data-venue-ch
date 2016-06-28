@@ -2,13 +2,14 @@
   "id": 253324955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.565424,47.556999,7.565424,47.556999",
     "geom:latitude":47.556999,
     "geom:longitude":7.565424,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allschwilerstrasse 123",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253324955,
-    "wof:lastmodified":1449064542,
+    "wof:lastmodified":1466211873,
     "wof:name":"Kiosk Morgartenring Sahin",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.565424,47.556999,7.565424,47.556999],
+  "bbox": [
+    7.565424,
+    47.556999,
+    7.565424,
+    47.556999
+],
   "geometry": {"coordinates":[7.565424,47.556999],"type":"Point"}
 }

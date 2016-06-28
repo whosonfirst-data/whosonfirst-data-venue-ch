@@ -2,13 +2,14 @@
   "id": 186103549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.436379,47.353134,8.436379,47.353134",
     "geom:latitude":47.353134,
     "geom:longitude":8.436379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6henweg 30 8222 Beringen. Postfach",
     "sg:city":"Beringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186103549,
-    "wof:lastmodified":1449052042,
+    "wof:lastmodified":1466210900,
     "wof:name":"Hufschmid Peter Ag",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.436379,47.353134,8.436379,47.353134],
+  "bbox": [
+    8.436379,
+    47.353134,
+    8.436379,
+    47.353134
+],
   "geometry": {"coordinates":[8.436379,47.353134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219791317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.229298,46.095882,7.229298,46.095882",
     "geom:latitude":46.095882,
     "geom:longitude":7.229298,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fabrikstrasse 45",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219791317,
-    "wof:lastmodified":1449073112,
+    "wof:lastmodified":1466212425,
     "wof:name":"Big-ben Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.229298,46.095882,7.229298,46.095882],
+  "bbox": [
+    7.229298,
+    46.095882,
+    7.229298,
+    46.095882
+],
   "geometry": {"coordinates":[7.229298,46.095882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186258417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.846966,46.797684,9.846966,46.797684",
     "geom:latitude":46.797684,
     "geom:longitude":9.846966,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchlstrasse 43 8055 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186258417,
-    "wof:lastmodified":1449052457,
+    "wof:lastmodified":1466209538,
     "wof:name":"Zschokke Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.846966,46.797684,9.846966,46.797684],
+  "bbox": [
+    9.846966,
+    46.797684,
+    9.846966,
+    46.797684
+],
   "geometry": {"coordinates":[9.846966,46.797684],"type":"Point"}
 }

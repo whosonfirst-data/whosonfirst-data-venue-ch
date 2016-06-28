@@ -2,13 +2,14 @@
   "id": 253135465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.793541,47.634857,8.793541,47.634857",
     "geom:latitude":47.634857,
     "geom:longitude":8.793541,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 19 8476 Unterstammheim. Postfach 55",
     "sg:city":"Oberstammheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253135465,
-    "wof:lastmodified":1449063970,
+    "wof:lastmodified":1466210331,
     "wof:name":"Bakothek Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.793541,47.634857,8.793541,47.634857],
+  "bbox": [
+    8.793541,
+    47.634857,
+    8.793541,
+    47.634857
+],
   "geometry": {"coordinates":[8.793541,47.634857],"type":"Point"}
 }

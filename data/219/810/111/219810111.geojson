@@ -2,13 +2,14 @@
   "id": 219810111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.964225,46.00922,8.964225,46.00922",
     "geom:latitude":46.00922,
     "geom:longitude":8.964225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Molinazzi 2",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219810111,
-    "wof:lastmodified":1449071433,
+    "wof:lastmodified":1466212394,
     "wof:name":"Leoni Evelina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.964225,46.00922,8.964225,46.00922],
+  "bbox": [
+    8.964225,
+    46.00922,
+    8.964225,
+    46.00922
+],
   "geometry": {"coordinates":[8.964225,46.00922],"type":"Point"}
 }

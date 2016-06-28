@@ -2,13 +2,14 @@
   "id": 202859305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.626625,46.732059,7.626625,46.732059",
     "geom:latitude":46.732059,
     "geom:longitude":7.626625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6schenzstrasse 49 4242 Laufen. Postfach",
     "sg:city":"Laufen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202859305,
-    "wof:lastmodified":1449061910,
+    "wof:lastmodified":1466211835,
     "wof:name":"Scheidegger Und Moser Architekten Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.626625,46.732059,7.626625,46.732059],
+  "bbox": [
+    7.626625,
+    46.732059,
+    7.626625,
+    46.732059
+],
   "geometry": {"coordinates":[7.626625,46.732059],"type":"Point"}
 }

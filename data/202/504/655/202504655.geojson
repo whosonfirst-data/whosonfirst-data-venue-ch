@@ -2,13 +2,14 @@
   "id": 202504655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.266574,47.152454,7.266574,47.152454",
     "geom:latitude":47.152454,
     "geom:longitude":7.266574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6zingenstrasse 177",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202504655,
-    "wof:lastmodified":1449060545,
+    "wof:lastmodified":1466211486,
     "wof:name":"Fritz Maeder Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.266574,47.152454,7.266574,47.152454],
+  "bbox": [
+    7.266574,
+    47.152454,
+    7.266574,
+    47.152454
+],
   "geometry": {"coordinates":[7.266574,47.152454],"type":"Point"}
 }

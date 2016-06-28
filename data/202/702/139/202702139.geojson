@@ -2,13 +2,14 @@
   "id": 202702139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.624224,46.752357,7.624224,46.752357",
     "geom:latitude":46.752357,
     "geom:longitude":7.624224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jungfraustrasse 15",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202702139,
-    "wof:lastmodified":1449061383,
+    "wof:lastmodified":1466210608,
     "wof:name":"Schluchter Engineering Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.624224,46.752357,7.624224,46.752357],
+  "bbox": [
+    7.624224,
+    46.752357,
+    7.624224,
+    46.752357
+],
   "geometry": {"coordinates":[7.624224,46.752357],"type":"Point"}
 }

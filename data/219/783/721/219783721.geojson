@@ -2,13 +2,14 @@
   "id": 219783721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.168472,47.655163,9.168472,47.655163",
     "geom:latitude":47.655163,
     "geom:longitude":9.168472,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Konstanzerstrasse 10",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219783721,
-    "wof:lastmodified":1449070486,
+    "wof:lastmodified":1466212502,
     "wof:name":"Bar Passage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.168472,47.655163,9.168472,47.655163],
+  "bbox": [
+    9.168472,
+    47.655163,
+    9.168472,
+    47.655163
+],
   "geometry": {"coordinates":[9.168472,47.655163],"type":"Point"}
 }

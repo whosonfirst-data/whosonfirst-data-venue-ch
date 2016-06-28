@@ -2,13 +2,14 @@
   "id": 236671591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.937712,47.282375,7.937712,47.282375",
     "geom:latitude":47.282375,
     "geom:longitude":7.937712,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Napfweg 3",
     "sg:city":"Zofingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236671591,
-    "wof:lastmodified":1449002252,
+    "wof:lastmodified":1466212776,
     "wof:name":"Ott + Wyss Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.937712,47.282375,7.937712,47.282375],
+  "bbox": [
+    7.937712,
+    47.282375,
+    7.937712,
+    47.282375
+],
   "geometry": {"coordinates":[7.937712,47.282375],"type":"Point"}
 }

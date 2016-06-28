@@ -2,13 +2,14 @@
   "id": 253218121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.198135,46.239574,6.198135,46.239574",
     "geom:latitude":46.239574,
     "geom:longitude":6.198135,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Thonon 54",
     "sg:city":"V\u00e9senaz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253218121,
-    "wof:lastmodified":1449064702,
+    "wof:lastmodified":1466211190,
     "wof:name":"Mario Ardizzone",
     "wof:parent_id":85799915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.198135,46.239574,6.198135,46.239574],
+  "bbox": [
+    6.198135,
+    46.239574,
+    6.198135,
+    46.239574
+],
   "geometry": {"coordinates":[6.198135,46.239574],"type":"Point"}
 }

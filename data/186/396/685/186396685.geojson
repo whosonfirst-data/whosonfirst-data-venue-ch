@@ -2,13 +2,14 @@
   "id": 186396685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.56357,46.561096,6.56357,46.561096",
     "geom:latitude":46.561096,
     "geom:longitude":6.56357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Pierreire 1029 Villars-ste-croix Case Postale 85",
     "sg:city":"Villars-ste-croix",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186396685,
-    "wof:lastmodified":1449052128,
+    "wof:lastmodified":1466210569,
     "wof:name":"Mto-sa",
     "wof:parent_id":85800443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.56357,46.561096,6.56357,46.561096],
+  "bbox": [
+    6.56357,
+    46.561096,
+    6.56357,
+    46.561096
+],
   "geometry": {"coordinates":[6.56357,46.561096],"type":"Point"}
 }

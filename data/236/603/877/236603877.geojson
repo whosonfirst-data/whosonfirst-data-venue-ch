@@ -2,13 +2,14 @@
   "id": 236603877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.415807,46.932896,7.415807,46.932896",
     "geom:latitude":46.932896,
     "geom:longitude":7.415807,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nizstrasse 199",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236603877,
-    "wof:lastmodified":1449004634,
+    "wof:lastmodified":1466212782,
     "wof:name":"Tea-room Blaser",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.415807,46.932896,7.415807,46.932896],
+  "bbox": [
+    7.415807,
+    46.932896,
+    7.415807,
+    46.932896
+],
   "geometry": {"coordinates":[7.415807,46.932896],"type":"Point"}
 }

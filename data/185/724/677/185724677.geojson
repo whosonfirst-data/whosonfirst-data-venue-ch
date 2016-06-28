@@ -2,13 +2,14 @@
   "id": 185724677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.912845,46.430462,6.912845,46.430462",
     "geom:latitude":46.430462,
     "geom:longitude":6.912845,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Nestl\u00e9 8",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185724677,
-    "wof:lastmodified":1449008153,
+    "wof:lastmodified":1466211304,
     "wof:name":"Marcel Heider Etude D'avocat",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.912845,46.430462,6.912845,46.430462],
+  "bbox": [
+    6.912845,
+    46.430462,
+    6.912845,
+    46.430462
+],
   "geometry": {"coordinates":[6.912845,46.430462],"type":"Point"}
 }

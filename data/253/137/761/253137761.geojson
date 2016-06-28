@@ -2,13 +2,14 @@
   "id": 253137761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.459513,46.479591,6.459513,46.479591",
     "geom:latitude":46.479591,
     "geom:longitude":6.459513,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 3",
     "sg:city":"St-prex",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253137761,
-    "wof:lastmodified":1449065367,
+    "wof:lastmodified":1466210360,
     "wof:name":"Beetz F\u00e9lix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.459513,46.479591,6.459513,46.479591],
+  "bbox": [
+    6.459513,
+    46.479591,
+    6.459513,
+    46.479591
+],
   "geometry": {"coordinates":[6.459513,46.479591],"type":"Point"}
 }

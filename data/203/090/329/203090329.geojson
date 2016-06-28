@@ -2,13 +2,14 @@
   "id": 203090329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.558871,47.515564,7.558871,47.515564",
     "geom:latitude":47.515564,
     "geom:longitude":7.558871,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittlerestrasse 27",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203090329,
-    "wof:lastmodified":1449026443,
+    "wof:lastmodified":1466210979,
     "wof:name":"Ulrich Hoerni Architekturb\u00fcro",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.558871,47.515564,7.558871,47.515564],
+  "bbox": [
+    7.558871,
+    47.515564,
+    7.558871,
+    47.515564
+],
   "geometry": {"coordinates":[7.558871,47.515564],"type":"Point"}
 }

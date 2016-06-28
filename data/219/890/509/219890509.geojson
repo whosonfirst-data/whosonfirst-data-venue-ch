@@ -2,13 +2,14 @@
   "id": 219890509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.364813,47.414562,8.364813,47.414562",
     "geom:latitude":47.414562,
     "geom:longitude":8.364813,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenstrasse 40",
     "sg:city":"Spreitenbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219890509,
-    "wof:lastmodified":1449071169,
+    "wof:lastmodified":1466212618,
     "wof:name":"Verein F\u00fcr Alterswohnheime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.364813,47.414562,8.364813,47.414562],
+  "bbox": [
+    8.364813,
+    47.414562,
+    8.364813,
+    47.414562
+],
   "geometry": {"coordinates":[8.364813,47.414562],"type":"Point"}
 }

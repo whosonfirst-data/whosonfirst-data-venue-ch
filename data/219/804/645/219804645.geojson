@@ -2,13 +2,14 @@
   "id": 219804645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54754,47.363728,8.54754,47.363728",
     "geom:latitude":47.363728,
     "geom:longitude":8.54754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dufourstrasse 24 8008 Z\u00fcrich Case Postale 24",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219804645,
-    "wof:lastmodified":1449072848,
+    "wof:lastmodified":1466212473,
     "wof:name":"Harry's Bar Sa",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54754,47.363728,8.54754,47.363728],
+  "bbox": [
+    8.54754,
+    47.363728,
+    8.54754,
+    47.363728
+],
   "geometry": {"coordinates":[8.54754,47.363728],"type":"Point"}
 }

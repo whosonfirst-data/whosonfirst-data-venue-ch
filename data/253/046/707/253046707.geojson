@@ -2,13 +2,14 @@
   "id": 253046707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.297751,47.057583,8.297751,47.057583",
     "geom:latitude":47.057583,
     "geom:longitude":8.297751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalstrasse 53",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253046707,
-    "wof:lastmodified":1449064466,
+    "wof:lastmodified":1466209392,
     "wof:name":"Blumen Ley",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.297751,47.057583,8.297751,47.057583],
+  "bbox": [
+    8.297751,
+    47.057583,
+    8.297751,
+    47.057583
+],
   "geometry": {"coordinates":[8.297751,47.057583],"type":"Point"}
 }

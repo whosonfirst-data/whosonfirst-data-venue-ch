@@ -2,13 +2,14 @@
   "id": 203379925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.693626,47.520489,7.693626,47.520489",
     "geom:latitude":47.520489,
     "geom:longitude":7.693626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burggartenstrasse 19",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203379925,
-    "wof:lastmodified":1449026042,
+    "wof:lastmodified":1466211326,
     "wof:name":"Dr.med.martin Hausmann Spezialarzt Fmh",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.693626,47.520489,7.693626,47.520489],
+  "bbox": [
+    7.693626,
+    47.520489,
+    7.693626,
+    47.520489
+],
   "geometry": {"coordinates":[7.693626,47.520489],"type":"Point"}
 }

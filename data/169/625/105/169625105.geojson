@@ -2,13 +2,14 @@
   "id": 169625105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.040536,46.626835,7.040536,46.626835",
     "geom:latitude":46.626835,
     "geom:longitude":7.040536,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L'industrie 2",
     "sg:city":"Bulle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169625105,
-    "wof:lastmodified":1449036023,
+    "wof:lastmodified":1466209698,
     "wof:name":"Ts Tanksystem S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.040536,46.626835,7.040536,46.626835],
+  "bbox": [
+    7.040536,
+    46.626835,
+    7.040536,
+    46.626835
+],
   "geometry": {"coordinates":[7.040536,46.626835],"type":"Point"}
 }

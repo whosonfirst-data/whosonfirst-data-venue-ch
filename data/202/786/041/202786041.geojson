@@ -2,13 +2,14 @@
   "id": 202786041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544099,47.378445,8.544099,47.378445",
     "geom:latitude":47.378445,
     "geom:longitude":8.544099,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinbergstrasse 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202786041,
-    "wof:lastmodified":1449060435,
+    "wof:lastmodified":1466211395,
     "wof:name":"Architektur & Organisation, H\u00e4uschen",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544099,47.378445,8.544099,47.378445],
+  "bbox": [
+    8.544099,
+    47.378445,
+    8.544099,
+    47.378445
+],
   "geometry": {"coordinates":[8.544099,47.378445],"type":"Point"}
 }

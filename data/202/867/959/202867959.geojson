@@ -2,13 +2,14 @@
   "id": 202867959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.626561,47.05809,7.626561,47.05809",
     "geom:latitude":47.05809,
     "geom:longitude":7.626561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kornhausgasse 11",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202867959,
-    "wof:lastmodified":1449061215,
+    "wof:lastmodified":1466211884,
     "wof:name":"Team K Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.626561,47.05809,7.626561,47.05809],
+  "bbox": [
+    7.626561,
+    47.05809,
+    7.626561,
+    47.05809
+],
   "geometry": {"coordinates":[7.626561,47.05809],"type":"Point"}
 }

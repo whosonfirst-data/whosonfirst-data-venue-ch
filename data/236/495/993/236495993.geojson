@@ -2,13 +2,14 @@
   "id": 236495993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.69068,47.676243,8.69068,47.676243",
     "geom:latitude":47.676243,
     "geom:longitude":8.69068,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenfelderstrasse 11",
     "sg:city":"Schlatt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236495993,
-    "wof:lastmodified":1449003045,
+    "wof:lastmodified":1466212447,
     "wof:name":"Wemabag Schlatt Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.69068,47.676243,8.69068,47.676243],
+  "bbox": [
+    8.69068,
+    47.676243,
+    8.69068,
+    47.676243
+],
   "geometry": {"coordinates":[8.69068,47.676243],"type":"Point"}
 }

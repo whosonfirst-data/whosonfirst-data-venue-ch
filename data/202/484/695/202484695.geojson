@@ -2,13 +2,14 @@
   "id": 202484695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.589956,47.527412,7.589956,47.527412",
     "geom:latitude":47.527412,
     "geom:longitude":7.589956,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Predigerhofstrasse 25",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202484695,
-    "wof:lastmodified":1449062500,
+    "wof:lastmodified":1466211253,
     "wof:name":"Eol Eberhard",
     "wof:parent_id":85800335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.589956,47.527412,7.589956,47.527412],
+  "bbox": [
+    7.589956,
+    47.527412,
+    7.589956,
+    47.527412
+],
   "geometry": {"coordinates":[7.589956,47.527412],"type":"Point"}
 }

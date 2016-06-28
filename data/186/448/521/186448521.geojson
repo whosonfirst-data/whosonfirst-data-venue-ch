@@ -2,13 +2,14 @@
   "id": 186448521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390373,46.934155,8.390373,46.934155",
     "geom:latitude":46.934155,
     "geom:longitude":8.390373,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4dtlistrasse 29 6383 Dallenwil. Postfach 110",
     "sg:city":"Dallenwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186448521,
-    "wof:lastmodified":1449052913,
+    "wof:lastmodified":1466210995,
     "wof:name":"Gebr. Niederberger Ag Hoch-& Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.390373,46.934155,8.390373,46.934155],
+  "bbox": [
+    8.390373,
+    46.934155,
+    8.390373,
+    46.934155
+],
   "geometry": {"coordinates":[8.390373,46.934155],"type":"Point"}
 }

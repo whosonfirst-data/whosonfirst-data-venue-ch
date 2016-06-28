@@ -2,13 +2,14 @@
   "id": 203302877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.633969,47.696526,8.633969,47.696526",
     "geom:latitude":47.696526,
     "geom:longitude":8.633969,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vordergasse 80-84",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203302877,
-    "wof:lastmodified":1449025553,
+    "wof:lastmodified":1466210567,
     "wof:name":"Dr.med.davorin Rajcic Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.633969,47.696526,8.633969,47.696526],
+  "bbox": [
+    8.633969,
+    47.696526,
+    8.633969,
+    47.696526
+],
   "geometry": {"coordinates":[8.633969,47.696526],"type":"Point"}
 }

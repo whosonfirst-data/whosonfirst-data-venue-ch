@@ -2,13 +2,14 @@
   "id": 186219007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.117098,47.297482,8.117098,47.297482",
     "geom:latitude":47.297482,
     "geom:longitude":8.117098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wuhrmattstrasse 130",
     "sg:city":"Oberkulm",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186219007,
-    "wof:lastmodified":1449052928,
+    "wof:lastmodified":1466209233,
     "wof:name":"Steiner R.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.117098,47.297482,8.117098,47.297482],
+  "bbox": [
+    8.117098,
+    47.297482,
+    8.117098,
+    47.297482
+],
   "geometry": {"coordinates":[8.117098,47.297482],"type":"Point"}
 }

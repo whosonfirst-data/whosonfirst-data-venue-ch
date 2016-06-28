@@ -2,13 +2,14 @@
   "id": 186019127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.404103,47.402153,8.404103,47.402153",
     "geom:latitude":47.402153,
     "geom:longitude":8.404103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 27 8953 Dietikon. Postfach 80",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186019127,
-    "wof:lastmodified":1449051924,
+    "wof:lastmodified":1466209571,
     "wof:name":"Bauunternehmung Wiederkehr Josef Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.404103,47.402153,8.404103,47.402153],
+  "bbox": [
+    8.404103,
+    47.402153,
+    8.404103,
+    47.402153
+],
   "geometry": {"coordinates":[8.404103,47.402153],"type":"Point"}
 }

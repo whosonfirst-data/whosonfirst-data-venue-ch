@@ -2,13 +2,14 @@
   "id": 202472069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.954404,46.007347,8.954404,46.007347",
     "geom:latitude":46.007347,
     "geom:longitude":8.954404,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giovan Battist Pioda 12",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202472069,
-    "wof:lastmodified":1449060310,
+    "wof:lastmodified":1466211045,
     "wof:name":"Duckling International Ltd, Dublino, Succursale Di Lugano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.954404,46.007347,8.954404,46.007347],
+  "bbox": [
+    8.954404,
+    46.007347,
+    8.954404,
+    46.007347
+],
   "geometry": {"coordinates":[8.954404,46.007347],"type":"Point"}
 }

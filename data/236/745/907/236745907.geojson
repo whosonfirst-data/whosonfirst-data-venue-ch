@@ -2,13 +2,14 @@
   "id": 236745907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.486558,47.015942,7.486558,47.015942",
     "geom:latitude":47.015942,
     "geom:longitude":7.486558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosb\u00fchlstrasse 37",
     "sg:city":"Moosseedorf",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236745907,
-    "wof:lastmodified":1449005073,
+    "wof:lastmodified":1466212859,
     "wof:name":"Christ Trading Ag",
     "wof:parent_id":85800023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "machinery"
     ]
 },
-  "bbox": [7.486558,47.015942,7.486558,47.015942],
+  "bbox": [
+    7.486558,
+    47.015942,
+    7.486558,
+    47.015942
+],
   "geometry": {"coordinates":[7.486558,47.015942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236890491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.981708,47.171516,8.981708,47.171516",
     "geom:latitude":47.171516,
     "geom:longitude":8.981708,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landhofstrasse 4",
     "sg:city":"Reichenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236890491,
-    "wof:lastmodified":1449002217,
+    "wof:lastmodified":1466212965,
     "wof:name":"Josef Steiner Repatech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.981708,47.171516,8.981708,47.171516],
+  "bbox": [
+    8.981708,
+    47.171516,
+    8.981708,
+    47.171516
+],
   "geometry": {"coordinates":[8.981708,47.171516],"type":"Point"}
 }

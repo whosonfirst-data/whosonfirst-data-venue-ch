@@ -2,13 +2,14 @@
   "id": 220048571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.452522,46.962402,7.452522,46.962402",
     "geom:latitude":46.962402,
     "geom:longitude":7.452522,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheibenstrasse 38",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220048571,
-    "wof:lastmodified":1449074299,
+    "wof:lastmodified":1466209295,
     "wof:name":"Daniel Schmidt",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.452522,46.962402,7.452522,46.962402],
+  "bbox": [
+    7.452522,
+    46.962402,
+    7.452522,
+    46.962402
+],
   "geometry": {"coordinates":[7.452522,46.962402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203351591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.749882,47.125179,8.749882,47.125179",
     "geom:latitude":47.125179,
     "geom:longitude":8.749882,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ilgenweidstrasse 3",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203351591,
-    "wof:lastmodified":1449026563,
+    "wof:lastmodified":1466211049,
     "wof:name":"Dr.med.johannes Schmidt Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.749882,47.125179,8.749882,47.125179],
+  "bbox": [
+    8.749882,
+    47.125179,
+    8.749882,
+    47.125179
+],
   "geometry": {"coordinates":[8.749882,47.125179],"type":"Point"}
 }

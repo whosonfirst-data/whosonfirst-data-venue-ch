@@ -2,13 +2,14 @@
   "id": 236761075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53955,47.37706,8.53955,47.37706",
     "geom:latitude":47.37706,
     "geom:longitude":8.53955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstr. 44-46 Pf 1772",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236761075,
-    "wof:lastmodified":1449004301,
+    "wof:lastmodified":1466212869,
     "wof:name":"Krause-senn Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clothes"
     ]
 },
-  "bbox": [8.53955,47.37706,8.53955,47.37706],
+  "bbox": [
+    8.53955,
+    47.37706,
+    8.53955,
+    47.37706
+],
   "geometry": {"coordinates":[8.53955,47.37706],"type":"Point"}
 }

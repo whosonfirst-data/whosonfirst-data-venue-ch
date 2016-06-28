@@ -2,13 +2,14 @@
   "id": 185955375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.747596,47.187298,8.747596,47.187298",
     "geom:latitude":47.187298,
     "geom:longitude":8.747596,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4mpferstrasse 10 Schindellegi 8835 Feusisberg. Postfach",
     "sg:city":"Schindellegi",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185955375,
-    "wof:lastmodified":1449007703,
+    "wof:lastmodified":1466210338,
     "wof:name":"Bildungsreich Hunziker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.747596,47.187298,8.747596,47.187298],
+  "bbox": [
+    8.747596,
+    47.187298,
+    8.747596,
+    47.187298
+],
   "geometry": {"coordinates":[8.747596,47.187298],"type":"Point"}
 }

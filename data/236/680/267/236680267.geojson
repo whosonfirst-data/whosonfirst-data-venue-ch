@@ -2,13 +2,14 @@
   "id": 236680267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.473249,46.945717,7.473249,46.945717",
     "geom:latitude":46.945717,
     "geom:longitude":7.473249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Giacomettistrasse 20",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236680267,
-    "wof:lastmodified":1449004064,
+    "wof:lastmodified":1466212791,
     "wof:name":"Ulrich Althaus",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "processing"
     ]
 },
-  "bbox": [7.473249,46.945717,7.473249,46.945717],
+  "bbox": [
+    7.473249,
+    46.945717,
+    7.473249,
+    46.945717
+],
   "geometry": {"coordinates":[7.473249,46.945717],"type":"Point"}
 }

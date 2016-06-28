@@ -2,13 +2,14 @@
   "id": 185703683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.663392,46.509224,6.663392,46.509224",
     "geom:latitude":46.509224,
     "geom:longitude":6.663392,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Vignes 1 1009 Pully. Postfach",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185703683,
-    "wof:lastmodified":1449007095,
+    "wof:lastmodified":1466211105,
     "wof:name":"Elisabeth Santschi Etude D'avocat",
     "wof:parent_id":85800439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.663392,46.509224,6.663392,46.509224],
+  "bbox": [
+    6.663392,
+    46.509224,
+    6.663392,
+    46.509224
+],
   "geometry": {"coordinates":[6.663392,46.509224],"type":"Point"}
 }

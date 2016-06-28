@@ -2,13 +2,14 @@
   "id": 236877405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591615,47.493237,7.591615,47.493237",
     "geom:latitude":47.493237,
     "geom:longitude":7.591615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 62",
     "sg:city":"Degersheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236877405,
-    "wof:lastmodified":1449004073,
+    "wof:lastmodified":1466212952,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.591615,47.493237,7.591615,47.493237],
+  "bbox": [
+    7.591615,
+    47.493237,
+    7.591615,
+    47.493237
+],
   "geometry": {"coordinates":[7.591615,47.493237],"type":"Point"}
 }

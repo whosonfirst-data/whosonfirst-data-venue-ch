@@ -2,13 +2,14 @@
   "id": 202514323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.384705,47.426361,9.384705,47.426361",
     "geom:latitude":47.426361,
     "geom:longitude":9.384705,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Konkordiastrasse 23",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202514323,
-    "wof:lastmodified":1449061396,
+    "wof:lastmodified":1466211571,
     "wof:name":"Gerevini Ingenieurb\u00fcro Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.384705,47.426361,9.384705,47.426361],
+  "bbox": [
+    9.384705,
+    47.426361,
+    9.384705,
+    47.426361
+],
   "geometry": {"coordinates":[9.384705,47.426361],"type":"Point"}
 }

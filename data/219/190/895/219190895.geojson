@@ -2,13 +2,14 @@
   "id": 219190895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.576998,47.350529,8.576998,47.350529",
     "geom:latitude":47.350529,
     "geom:longitude":8.576998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Witellikerstrasse 49",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219190895,
-    "wof:lastmodified":1449073685,
+    "wof:lastmodified":1466210848,
     "wof:name":"Prof.dr.med.adam Schreiber Spezialarzt Fmh",
     "wof:parent_id":85800647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.576998,47.350529,8.576998,47.350529],
+  "bbox": [
+    8.576998,
+    47.350529,
+    8.576998,
+    47.350529
+],
   "geometry": {"coordinates":[8.576998,47.350529],"type":"Point"}
 }

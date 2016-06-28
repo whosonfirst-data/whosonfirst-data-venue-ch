@@ -2,13 +2,14 @@
   "id": 236902255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.444825,47.359364,8.444825,47.359364",
     "geom:latitude":47.359364,
     "geom:longitude":8.444825,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4chtoldstrasse 4",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236902255,
-    "wof:lastmodified":1449004211,
+    "wof:lastmodified":1466212968,
     "wof:name":"Ernst Brand Edv-beratung",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.444825,47.359364,8.444825,47.359364],
+  "bbox": [
+    8.444825,
+    47.359364,
+    8.444825,
+    47.359364
+],
   "geometry": {"coordinates":[8.444825,47.359364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186246367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.83807,47.295883,8.83807,47.295883",
     "geom:latitude":47.295883,
     "geom:longitude":8.83807,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterer Deutweg 25",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186246367,
-    "wof:lastmodified":1449050436,
+    "wof:lastmodified":1466209444,
     "wof:name":"Wehrli & Brunner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.83807,47.295883,8.83807,47.295883],
+  "bbox": [
+    8.83807,
+    47.295883,
+    8.83807,
+    47.295883
+],
   "geometry": {"coordinates":[8.83807,47.295883],"type":"Point"}
 }

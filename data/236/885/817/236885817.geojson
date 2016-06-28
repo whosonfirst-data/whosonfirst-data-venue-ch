@@ -2,13 +2,14 @@
   "id": 236885817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.498035,46.931168,7.498035,46.931168",
     "geom:latitude":46.931168,
     "geom:longitude":7.498035,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellevuestrasse 23 3073 G\u00fcmligen. Postfach",
     "sg:city":"G\u00fcmligen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236885817,
-    "wof:lastmodified":1449003399,
+    "wof:lastmodified":1466212960,
     "wof:name":"Aeschbacher Media Gmbh",
     "wof:parent_id":85800239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.498035,46.931168,7.498035,46.931168],
+  "bbox": [
+    7.498035,
+    46.931168,
+    7.498035,
+    46.931168
+],
   "geometry": {"coordinates":[7.498035,46.931168],"type":"Point"}
 }

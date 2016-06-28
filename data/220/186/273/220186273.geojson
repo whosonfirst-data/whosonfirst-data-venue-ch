@@ -2,13 +2,14 @@
   "id": 220186273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.637914,46.520378,6.637914,46.520378",
     "geom:latitude":46.520378,
     "geom:longitude":6.637914,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Marterey 5",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220186273,
-    "wof:lastmodified":1449074665,
+    "wof:lastmodified":1466210472,
     "wof:name":"Jean Eggenberger & Fils Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.637914,46.520378,6.637914,46.520378],
+  "bbox": [
+    6.637914,
+    46.520378,
+    6.637914,
+    46.520378
+],
   "geometry": {"coordinates":[6.637914,46.520378],"type":"Point"}
 }

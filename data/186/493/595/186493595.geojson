@@ -2,13 +2,14 @@
   "id": 186493595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.748238,47.688324,8.748238,47.688324",
     "geom:latitude":47.688324,
     "geom:longitude":8.748238,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenstrasse 10",
     "sg:city":"Diessenhofen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186493595,
-    "wof:lastmodified":1449051239,
+    "wof:lastmodified":1466211379,
     "wof:name":"Altersheim Vogelsang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.748238,47.688324,8.748238,47.688324],
+  "bbox": [
+    8.748238,
+    47.688324,
+    8.748238,
+    47.688324
+],
   "geometry": {"coordinates":[8.748238,47.688324],"type":"Point"}
 }

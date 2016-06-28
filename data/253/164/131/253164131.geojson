@@ -2,13 +2,14 @@
   "id": 253164131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.743607,47.214413,7.743607,47.214413",
     "geom:latitude":47.214413,
     "geom:longitude":7.743607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 34",
     "sg:city":"B\u00fctzberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253164131,
-    "wof:lastmodified":1449063173,
+    "wof:lastmodified":1466210682,
     "wof:name":"Daniel Wyss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.743607,47.214413,7.743607,47.214413],
+  "bbox": [
+    7.743607,
+    47.214413,
+    7.743607,
+    47.214413
+],
   "geometry": {"coordinates":[7.743607,47.214413],"type":"Point"}
 }

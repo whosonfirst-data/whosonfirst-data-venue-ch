@@ -2,13 +2,14 @@
   "id": 185977257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.507771,46.813725,7.507771,46.813725",
     "geom:latitude":46.813725,
     "geom:longitude":7.507771,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 4",
     "sg:city":"M\u00fchlethurnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185977257,
-    "wof:lastmodified":1449008259,
+    "wof:lastmodified":1466210582,
     "wof:name":"Paul Hirter Gartenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.507771,46.813725,7.507771,46.813725],
+  "bbox": [
+    7.507771,
+    46.813725,
+    7.507771,
+    46.813725
+],
   "geometry": {"coordinates":[7.507771,46.813725],"type":"Point"}
 }

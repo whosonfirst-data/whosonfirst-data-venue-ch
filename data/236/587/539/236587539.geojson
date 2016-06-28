@@ -2,13 +2,14 @@
   "id": 236587539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.278158,46.416023,6.278158,46.416023",
     "geom:latitude":46.416023,
     "geom:longitude":6.278158,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Mauverney 28",
     "sg:city":"Gland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236587539,
-    "wof:lastmodified":1449002645,
+    "wof:lastmodified":1466212757,
     "wof:name":"Uicn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advice"
     ]
 },
-  "bbox": [6.278158,46.416023,6.278158,46.416023],
+  "bbox": [
+    6.278158,
+    46.416023,
+    6.278158,
+    46.416023
+],
   "geometry": {"coordinates":[6.278158,46.416023],"type":"Point"}
 }

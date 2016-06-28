@@ -2,13 +2,14 @@
   "id": 169689001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629362,46.758888,7.629362,46.758888",
     "geom:latitude":46.758888,
     "geom:longitude":7.629362,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Hauptgasse 20",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169689001,
-    "wof:lastmodified":1449035407,
+    "wof:lastmodified":1466211675,
     "wof:name":"Io Computer Gmbh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629362,46.758888,7.629362,46.758888],
+  "bbox": [
+    7.629362,
+    46.758888,
+    7.629362,
+    46.758888
+],
   "geometry": {"coordinates":[7.629362,46.758888],"type":"Point"}
 }

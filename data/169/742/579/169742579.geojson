@@ -2,13 +2,14 @@
   "id": 169742579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.532466,47.204136,7.532466,47.204136",
     "geom:latitude":47.204136,
     "geom:longitude":7.532466,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Roemerstrasse 20",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169742579,
-    "wof:lastmodified":1449032897,
+    "wof:lastmodified":1466211246,
     "wof:name":"Reso Stiftung Rechenzentrum Fuer Krankenversicherung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [7.532466,47.204136,7.532466,47.204136],
+  "bbox": [
+    7.532466,
+    47.204136,
+    7.532466,
+    47.204136
+],
   "geometry": {"coordinates":[7.532466,47.204136],"type":"Point"}
 }

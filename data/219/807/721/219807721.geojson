@@ -2,13 +2,14 @@
   "id": 219807721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.137417,46.20351,6.137417,46.20351",
     "geom:latitude":46.20351,
     "geom:longitude":6.137417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Rois 4",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219807721,
-    "wof:lastmodified":1449071304,
+    "wof:lastmodified":1466212482,
     "wof:name":"L'estaminet Bar",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.137417,46.20351,6.137417,46.20351],
+  "bbox": [
+    6.137417,
+    46.20351,
+    6.137417,
+    46.20351
+],
   "geometry": {"coordinates":[6.137417,46.20351],"type":"Point"}
 }

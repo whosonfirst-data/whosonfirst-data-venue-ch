@@ -2,13 +2,14 @@
   "id": 236587597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.509123,46.933525,7.509123,46.933525",
     "geom:latitude":46.933525,
     "geom:longitude":7.509123,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenstr. 3",
     "sg:city":"G\u00fcmligen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236587597,
-    "wof:lastmodified":1449002647,
+    "wof:lastmodified":1466212757,
     "wof:name":"International School Of Berne",
     "wof:parent_id":85800239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "advice"
     ]
 },
-  "bbox": [7.509123,46.933525,7.509123,46.933525],
+  "bbox": [
+    7.509123,
+    46.933525,
+    7.509123,
+    46.933525
+],
   "geometry": {"coordinates":[7.509123,46.933525],"type":"Point"}
 }

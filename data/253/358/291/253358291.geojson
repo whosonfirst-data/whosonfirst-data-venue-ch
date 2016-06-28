@@ -2,13 +2,14 @@
   "id": 253358291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526738,47.388844,8.526738,47.388844",
     "geom:latitude":47.388844,
     "geom:longitude":8.526738,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammweg 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253358291,
-    "wof:lastmodified":1449064067,
+    "wof:lastmodified":1466212112,
     "wof:name":"Kiosk Dammweg, Schweizer Georg",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526738,47.388844,8.526738,47.388844],
+  "bbox": [
+    8.526738,
+    47.388844,
+    8.526738,
+    47.388844
+],
   "geometry": {"coordinates":[8.526738,47.388844],"type":"Point"}
 }

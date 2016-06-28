@@ -2,13 +2,14 @@
   "id": 202450835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.551419,47.486279,7.551419,47.486279",
     "geom:latitude":47.486279,
     "geom:longitude":7.551419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stutzrain 9",
     "sg:city":"Ettingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202450835,
-    "wof:lastmodified":1449062269,
+    "wof:lastmodified":1466210825,
     "wof:name":"Cms Engineering, M. Stamm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.551419,47.486279,7.551419,47.486279],
+  "bbox": [
+    7.551419,
+    47.486279,
+    7.551419,
+    47.486279
+],
   "geometry": {"coordinates":[7.551419,47.486279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252822593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.608156,46.563362,6.608156,46.563362",
     "geom:latitude":46.563362,
     "geom:longitude":6.608156,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Vernes 4 1032 Romanel-s-lausanne. Postfach",
     "sg:city":"Romanel-s-lausanne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252822593,
-    "wof:lastmodified":1449006469,
+    "wof:lastmodified":1466210158,
     "wof:name":"Ddg, Di Giovannella Dario",
     "wof:parent_id":85862381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.608156,46.563362,6.608156,46.563362],
+  "bbox": [
+    6.608156,
+    46.563362,
+    6.608156,
+    46.563362
+],
   "geometry": {"coordinates":[6.608156,46.563362],"type":"Point"}
 }

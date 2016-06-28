@@ -2,13 +2,14 @@
   "id": 169689115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.125848,46.934544,7.125848,46.934544",
     "geom:latitude":46.934544,
     "geom:longitude":7.125848,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fabrikstr. 35",
     "sg:city":"Muntelier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169689115,
-    "wof:lastmodified":1449035407,
+    "wof:lastmodified":1466210655,
     "wof:name":"Ruetschi Technology Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "precision"
     ]
 },
-  "bbox": [7.125848,46.934544,7.125848,46.934544],
+  "bbox": [
+    7.125848,
+    46.934544,
+    7.125848,
+    46.934544
+],
   "geometry": {"coordinates":[7.125848,46.934544],"type":"Point"}
 }

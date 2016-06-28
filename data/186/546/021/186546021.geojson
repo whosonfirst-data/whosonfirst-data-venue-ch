@@ -2,13 +2,14 @@
   "id": 186546021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.63173,47.702049,8.63173,47.702049",
     "geom:latitude":47.702049,
     "geom:longitude":8.63173,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 10a",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186546021,
-    "wof:lastmodified":1449050246,
+    "wof:lastmodified":1466211710,
     "wof:name":"Requi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "casting"
     ]
 },
-  "bbox": [8.63173,47.702049,8.63173,47.702049],
+  "bbox": [
+    8.63173,
+    47.702049,
+    8.63173,
+    47.702049
+],
   "geometry": {"coordinates":[8.63173,47.702049],"type":"Point"}
 }

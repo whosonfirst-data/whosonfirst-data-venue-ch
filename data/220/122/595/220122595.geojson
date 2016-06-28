@@ -2,13 +2,14 @@
   "id": 220122595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.858046,47.339329,7.858046,47.339329",
     "geom:latitude":47.339329,
     "geom:longitude":7.858046,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstrasse 314",
     "sg:city":"Leuggern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220122595,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466209932,
     "wof:name":"Mobil-service M\u00fcller Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.858046,47.339329,7.858046,47.339329],
+  "bbox": [
+    7.858046,
+    47.339329,
+    7.858046,
+    47.339329
+],
   "geometry": {"coordinates":[7.858046,47.339329],"type":"Point"}
 }

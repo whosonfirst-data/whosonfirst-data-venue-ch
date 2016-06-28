@@ -2,13 +2,14 @@
   "id": 219545789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"114.347023,25.147751,114.347023,25.147751",
     "geom:latitude":25.147751,
     "geom:longitude":114.347023,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 891",
     "sg:city":"K\u00fcttigen",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219545789,
-    "wof:lastmodified":1449071246,
+    "wof:lastmodified":1466211557,
     "wof:name":"Ersparnisgesellschaft K\u00fcttigen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [114.347023,25.147751,114.347023,25.147751],
-  "geometry": {"coordinates":[114.347023,25.147751],"type":"Point"}
+  "bbox": [
+    114.347023,
+    25.147751,
+    114.347023,
+    25.147751
+],
+  "geometry": {"coordinates":[114.34702299999999,25.147751],"type":"Point"}
 }

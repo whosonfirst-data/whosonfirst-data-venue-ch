@@ -2,13 +2,14 @@
   "id": 253359141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.985395,46.322865,7.985395,46.322865",
     "geom:latitude":46.322865,
     "geom:longitude":7.985395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 11",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253359141,
-    "wof:lastmodified":1449062780,
+    "wof:lastmodified":1466212019,
     "wof:name":"Kiosk Salzmann Augusta.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.985395,46.322865,7.985395,46.322865],
+  "bbox": [
+    7.985395,
+    46.322865,
+    7.985395,
+    46.322865
+],
   "geometry": {"coordinates":[7.985395,46.322865],"type":"Point"}
 }

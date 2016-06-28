@@ -2,13 +2,14 @@
   "id": 185685177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.393056,46.941952,7.393056,46.941952",
     "geom:latitude":46.941952,
     "geom:longitude":7.393056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Keltenstrasse 102 3018 Bern. Postfach 793",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185685177,
-    "wof:lastmodified":1449008147,
+    "wof:lastmodified":1466210972,
     "wof:name":"Christian Wyss Advokaturb\u00fcro",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.393056,46.941952,7.393056,46.941952],
+  "bbox": [
+    7.393056,
+    46.941952,
+    7.393056,
+    46.941952
+],
   "geometry": {"coordinates":[7.393056,46.941952],"type":"Point"}
 }

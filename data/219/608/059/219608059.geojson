@@ -2,13 +2,14 @@
   "id": 219608059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49948,46.891251,7.49948,46.891251",
     "geom:latitude":46.891251,
     "geom:longitude":7.49948,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelg\u00e4ustrasse 52",
     "sg:city":"Gunzgen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219608059,
-    "wof:lastmodified":1449071893,
+    "wof:lastmodified":1466211810,
     "wof:name":"Raiffeisenbank G\u00fcrbe",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.49948,46.891251,7.49948,46.891251],
+  "bbox": [
+    7.49948,
+    46.891251,
+    7.49948,
+    46.891251
+],
   "geometry": {"coordinates":[7.49948,46.891251],"type":"Point"}
 }

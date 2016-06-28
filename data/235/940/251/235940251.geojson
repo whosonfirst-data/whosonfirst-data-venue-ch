@@ -2,13 +2,14 @@
   "id": 235940251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.503056,46.82119,6.503056,46.82119",
     "geom:latitude":46.82119,
     "geom:longitude":6.503056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue D'industrie 2",
     "sg:city":"Ste-croix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235940251,
-    "wof:lastmodified":1449008337,
+    "wof:lastmodified":1466208982,
     "wof:name":"Capt R\u00e9my",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.503056,46.82119,6.503056,46.82119],
+  "bbox": [
+    6.503056,
+    46.82119,
+    6.503056,
+    46.82119
+],
   "geometry": {"coordinates":[6.503056,46.82119],"type":"Point"}
 }

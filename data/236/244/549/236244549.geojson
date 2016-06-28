@@ -2,13 +2,14 @@
   "id": 236244549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.582847,47.546501,7.582847,47.546501",
     "geom:latitude":47.546501,
     "geom:longitude":7.582847,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Edisonstrasse 7",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236244549,
-    "wof:lastmodified":1449002875,
+    "wof:lastmodified":1466211305,
     "wof:name":"Audiotechnik Arber + Co.",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.582847,47.546501,7.582847,47.546501],
+  "bbox": [
+    7.582847,
+    47.546501,
+    7.582847,
+    47.546501
+],
   "geometry": {"coordinates":[7.582847,47.546501],"type":"Point"}
 }

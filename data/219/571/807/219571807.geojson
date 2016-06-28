@@ -2,13 +2,14 @@
   "id": 219571807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.279309,47.034603,8.279309,47.034603",
     "geom:latitude":47.034603,
     "geom:longitude":8.279309,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schachenstr. 6",
     "sg:city":"Kriens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219571807,
-    "wof:lastmodified":1449072796,
+    "wof:lastmodified":1466211806,
     "wof:name":"Luzerner, Kantonalbank",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.279309,47.034603,8.279309,47.034603],
+  "bbox": [
+    8.279309,
+    47.034603,
+    8.279309,
+    47.034603
+],
   "geometry": {"coordinates":[8.279309,47.034603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169595725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.571217,47.538029,7.571217,47.538029",
     "geom:latitude":47.538029,
     "geom:longitude":7.571217,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Binningen",
     "sg:classifiers":[],
     "sg:orig_category":"Bildung and Forschung, Schulen",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169595725,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1466208917,
     "wof:name":"Labtam-ag",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.571217,47.538029,7.571217,47.538029],
+  "bbox": [
+    7.571217,
+    47.538029,
+    7.571217,
+    47.538029
+],
   "geometry": {"coordinates":[7.571217,47.538029],"type":"Point"}
 }

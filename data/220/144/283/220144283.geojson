@@ -2,13 +2,14 @@
   "id": 220144283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.60894,47.396839,8.60894,47.396839",
     "geom:latitude":47.396839,
     "geom:longitude":8.60894,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heugatterstrasse 27b",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220144283,
-    "wof:lastmodified":1449074636,
+    "wof:lastmodified":1466210116,
     "wof:name":"Schreinerei Zimmermann Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.60894,47.396839,8.60894,47.396839],
+  "bbox": [
+    8.60894,
+    47.396839,
+    8.60894,
+    47.396839
+],
   "geometry": {"coordinates":[8.60894,47.396839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236310891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.48823,46.926628,7.48823,46.926628",
     "geom:latitude":46.926628,
     "geom:longitude":7.48823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstrasse 193",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236310891,
-    "wof:lastmodified":1449003727,
+    "wof:lastmodified":1466212025,
     "wof:name":"Paul Sp\u00e4th",
     "wof:parent_id":85800111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.48823,46.926628,7.48823,46.926628],
+  "bbox": [
+    7.48823,
+    46.926628,
+    7.48823,
+    46.926628
+],
   "geometry": {"coordinates":[7.48823,46.926628],"type":"Point"}
 }

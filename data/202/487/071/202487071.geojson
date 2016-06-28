@@ -2,13 +2,14 @@
   "id": 202487071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312679,47.044094,8.312679,47.044094",
     "geom:latitude":47.044094,
     "geom:longitude":8.312679,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tribschenstrasse 9 6005 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202487071,
-    "wof:lastmodified":1449060935,
+    "wof:lastmodified":1466211285,
     "wof:name":"Ernst Winkler, Dipl. Bauing. Eth/sia Ingenieurb\u00fcro F\u00fcr Hoch- U. Tiefbau Und Vermessung.",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.312679,47.044094,8.312679,47.044094],
+  "bbox": [
+    8.312679,
+    47.044094,
+    8.312679,
+    47.044094
+],
   "geometry": {"coordinates":[8.312679,47.044094],"type":"Point"}
 }

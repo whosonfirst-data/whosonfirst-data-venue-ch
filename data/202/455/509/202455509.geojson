@@ -2,13 +2,14 @@
   "id": 202455509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.879047,47.556042,8.879047,47.556042",
     "geom:latitude":47.556042,
     "geom:longitude":8.879047,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbestrasse 3",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202455509,
-    "wof:lastmodified":1449062257,
+    "wof:lastmodified":1466210894,
     "wof:name":"Coradi Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.879047,47.556042,8.879047,47.556042],
+  "bbox": [
+    8.879047,
+    47.556042,
+    8.879047,
+    47.556042
+],
   "geometry": {"coordinates":[8.879047,47.556042],"type":"Point"}
 }

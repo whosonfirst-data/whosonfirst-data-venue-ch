@@ -2,13 +2,14 @@
   "id": 219795469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.013801,46.251152,7.013801,46.251152",
     "geom:latitude":46.251152,
     "geom:longitude":7.013801,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Centrale 12 1880 Bex. Postfach",
     "sg:city":"Bex",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219795469,
-    "wof:lastmodified":1449072475,
+    "wof:lastmodified":1466212451,
     "wof:name":"Central-pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.013801,46.251152,7.013801,46.251152],
+  "bbox": [
+    7.013801,
+    46.251152,
+    7.013801,
+    46.251152
+],
   "geometry": {"coordinates":[7.013801,46.251152],"type":"Point"}
 }

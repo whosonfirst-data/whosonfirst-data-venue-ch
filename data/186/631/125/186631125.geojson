@@ -2,13 +2,14 @@
   "id": 186631125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60024,47.4678,7.60024,47.4678",
     "geom:latitude":47.4678,
     "geom:longitude":7.60024,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Berninastrasse 9",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186631125,
-    "wof:lastmodified":1449051208,
+    "wof:lastmodified":1466212246,
     "wof:name":"Amk K\u00fcng Markus",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60024,47.4678,7.60024,47.4678],
+  "bbox": [
+    7.60024,
+    47.4678,
+    7.60024,
+    47.4678
+],
   "geometry": {"coordinates":[7.60024,47.4678],"type":"Point"}
 }

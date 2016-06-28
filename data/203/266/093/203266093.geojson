@@ -2,13 +2,14 @@
   "id": 203266093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.432958,46.93898,7.432958,46.93898",
     "geom:latitude":46.93898,
     "geom:longitude":7.432958,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayweg 5",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203266093,
-    "wof:lastmodified":1449025011,
+    "wof:lastmodified":1466210186,
     "wof:name":"Dr.med.adrian Oesch Spezialarzt Fmh",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.432958,46.93898,7.432958,46.93898],
+  "bbox": [
+    7.432958,
+    46.93898,
+    7.432958,
+    46.93898
+],
   "geometry": {"coordinates":[7.432958,46.93898],"type":"Point"}
 }

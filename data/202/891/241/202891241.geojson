@@ -2,13 +2,14 @@
   "id": 202891241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.589248,47.307049,8.589248,47.307049",
     "geom:latitude":47.307049,
     "geom:longitude":8.589248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mitteldorfstrasse 36",
     "sg:city":"Jonen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202891241,
-    "wof:lastmodified":1449061657,
+    "wof:lastmodified":1466212083,
     "wof:name":"Werag Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.589248,47.307049,8.589248,47.307049],
+  "bbox": [
+    8.589248,
+    47.307049,
+    8.589248,
+    47.307049
+],
   "geometry": {"coordinates":[8.589248,47.307049],"type":"Point"}
 }

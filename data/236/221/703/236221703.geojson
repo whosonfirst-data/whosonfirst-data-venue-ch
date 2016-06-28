@@ -2,13 +2,14 @@
   "id": 236221703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.013083,46.343563,7.013083,46.343563",
     "geom:latitude":46.343563,
     "geom:longitude":7.013083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e9teillon Le 1854 Leysin. Postfach",
     "sg:city":"Leysin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236221703,
-    "wof:lastmodified":1449003041,
+    "wof:lastmodified":1466211041,
     "wof:name":"Gabriel Claude Productions S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.013083,46.343563,7.013083,46.343563],
+  "bbox": [
+    7.013083,
+    46.343563,
+    7.013083,
+    46.343563
+],
   "geometry": {"coordinates":[7.013083,46.343563],"type":"Point"}
 }

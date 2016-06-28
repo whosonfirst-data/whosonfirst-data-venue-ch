@@ -2,13 +2,14 @@
   "id": 202815203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.957621,47.225319,6.957621,47.225319",
     "geom:latitude":47.225319,
     "geom:longitude":6.957621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00e4geligasse 6",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202815203,
-    "wof:lastmodified":1449061361,
+    "wof:lastmodified":1466211650,
     "wof:name":"Christen Jean.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.957621,47.225319,6.957621,47.225319],
+  "bbox": [
+    6.957621,
+    47.225319,
+    6.957621,
+    47.225319
+],
   "geometry": {"coordinates":[6.957621,47.225319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186034389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.998664,47.395115,8.998664,47.395115",
     "geom:latitude":47.395115,
     "geom:longitude":8.998664,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hulfteggstrasse 25 9534 G\u00e4hwil. Postfach",
     "sg:city":"G\u00e4hwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186034389,
-    "wof:lastmodified":1449050547,
+    "wof:lastmodified":1466209779,
     "wof:name":"B\u00f6sch Bau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.998664,47.395115,8.998664,47.395115],
+  "bbox": [
+    8.998664,
+    47.395115,
+    8.998664,
+    47.395115
+],
   "geometry": {"coordinates":[8.998664,47.395115],"type":"Point"}
 }

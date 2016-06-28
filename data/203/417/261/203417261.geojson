@@ -2,13 +2,14 @@
   "id": 203417261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.546106,47.046482,8.546106,47.046482",
     "geom:latitude":47.046482,
     "geom:longitude":8.546106,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstrasse 35",
     "sg:city":"Goldau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203417261,
-    "wof:lastmodified":1449025692,
+    "wof:lastmodified":1466211781,
     "wof:name":"Dr.med.thomas Getzmann Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.546106,47.046482,8.546106,47.046482],
+  "bbox": [
+    8.546106,
+    47.046482,
+    8.546106,
+    47.046482
+],
   "geometry": {"coordinates":[8.546106,47.046482],"type":"Point"}
 }

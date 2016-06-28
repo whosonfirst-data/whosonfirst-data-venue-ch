@@ -2,13 +2,14 @@
   "id": 203235941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.46318,46.948128,7.46318,46.948128",
     "geom:latitude":46.948128,
     "geom:longitude":7.46318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bantigerstrasse 37",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203235941,
-    "wof:lastmodified":1449025272,
+    "wof:lastmodified":1466209866,
     "wof:name":"Dr. Med. Roland Wegm\u00fcller Arzt F\u00fcr Allgemeinmedizin",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.46318,46.948128,7.46318,46.948128],
+  "bbox": [
+    7.46318,
+    46.948128,
+    7.46318,
+    46.948128
+],
   "geometry": {"coordinates":[7.46318,46.948128],"type":"Point"}
 }

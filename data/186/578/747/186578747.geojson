@@ -2,13 +2,14 @@
   "id": 186578747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.730396,47.506176,7.730396,47.506176",
     "geom:latitude":47.506176,
     "geom:longitude":7.730396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Giebenacherstrasse 6",
     "sg:city":"F\u00fcllinsdorf",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186578747,
-    "wof:lastmodified":1449051068,
+    "wof:lastmodified":1466211965,
     "wof:name":"Ebi & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apparatus"
     ]
 },
-  "bbox": [7.730396,47.506176,7.730396,47.506176],
+  "bbox": [
+    7.730396,
+    47.506176,
+    7.730396,
+    47.506176
+],
   "geometry": {"coordinates":[7.730396,47.506176],"type":"Point"}
 }

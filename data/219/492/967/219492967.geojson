@@ -2,13 +2,14 @@
   "id": 219492967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.195145,-33.890839,151.195145,-33.890839",
     "geom:latitude":-33.890839,
     "geom:longitude":151.195145,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jolimont 6",
     "sg:city":"Landeron",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219492967,
-    "wof:lastmodified":1449070380,
+    "wof:lastmodified":1466211068,
     "wof:name":"Banque Cantonale, Neuchateloise",
     "wof:parent_id":85778781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.195145,-33.890839,151.195145,-33.890839],
+  "bbox": [
+    151.195145,
+    -33.890839,
+    151.195145,
+    -33.890839
+],
   "geometry": {"coordinates":[151.195145,-33.890839],"type":"Point"}
 }

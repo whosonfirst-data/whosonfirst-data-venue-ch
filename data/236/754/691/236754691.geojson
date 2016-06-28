@@ -2,13 +2,14 @@
   "id": 236754691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.070635,47.177696,7.070635,47.177696",
     "geom:latitude":47.177696,
     "geom:longitude":7.070635,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Moulin 4",
     "sg:city":"Courtelary",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236754691,
-    "wof:lastmodified":1449003884,
+    "wof:lastmodified":1466212865,
     "wof:name":"Monwitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clock"
     ]
 },
-  "bbox": [7.070635,47.177696,7.070635,47.177696],
+  "bbox": [
+    7.070635,
+    47.177696,
+    7.070635,
+    47.177696
+],
   "geometry": {"coordinates":[7.070635,47.177696],"type":"Point"}
 }

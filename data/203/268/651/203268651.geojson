@@ -2,13 +2,14 @@
   "id": 203268651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.685021,46.684212,7.685021,46.684212",
     "geom:latitude":46.684212,
     "geom:longitude":7.685021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dianaweg 2",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203268651,
-    "wof:lastmodified":1449026029,
+    "wof:lastmodified":1466210213,
     "wof:name":"Dr.med.alex Schnyder Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.685021,46.684212,7.685021,46.684212],
+  "bbox": [
+    7.685021,
+    46.684212,
+    7.685021,
+    46.684212
+],
   "geometry": {"coordinates":[7.685021,46.684212],"type":"Point"}
 }

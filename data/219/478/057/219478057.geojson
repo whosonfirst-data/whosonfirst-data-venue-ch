@@ -2,13 +2,14 @@
   "id": 219478057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.766945,46.155384,8.766945,46.155384",
     "geom:latitude":46.155384,
     "geom:longitude":8.766945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Borgo",
     "sg:city":"Ascona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219478057,
-    "wof:lastmodified":1449070487,
+    "wof:lastmodified":1466210926,
     "wof:name":"Banco Dello Stato, Del Cantone Ticino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.766945,46.155384,8.766945,46.155384],
+  "bbox": [
+    8.766945,
+    46.155384,
+    8.766945,
+    46.155384
+],
   "geometry": {"coordinates":[8.766945,46.155384],"type":"Point"}
 }

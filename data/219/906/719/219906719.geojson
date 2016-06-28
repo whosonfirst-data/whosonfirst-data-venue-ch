@@ -2,13 +2,14 @@
   "id": 219906719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4385,46.949863,7.4385,46.949863",
     "geom:latitude":46.949863,
     "geom:longitude":7.4385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkterrasse 10",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219906719,
-    "wof:lastmodified":1449071728,
+    "wof:lastmodified":1466212639,
     "wof:name":"Cisalpino Sa",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4385,46.949863,7.4385,46.949863],
+  "bbox": [
+    7.4385,
+    46.949863,
+    7.4385,
+    46.949863
+],
   "geometry": {"coordinates":[7.4385,46.949863],"type":"Point"}
 }

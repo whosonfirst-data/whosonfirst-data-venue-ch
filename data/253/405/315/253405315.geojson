@@ -2,13 +2,14 @@
   "id": 253405315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.650389,47.585651,7.650389,47.585651",
     "geom:latitude":47.585651,
     "geom:longitude":7.650389,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6ssligasse 2",
     "sg:city":"Riehen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253405315,
-    "wof:lastmodified":1449065542,
+    "wof:lastmodified":1466212187,
     "wof:name":"Akos Consulting & Solutions Gmbh",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.650389,47.585651,7.650389,47.585651],
+  "bbox": [
+    7.650389,
+    47.585651,
+    7.650389,
+    47.585651
+],
   "geometry": {"coordinates":[7.650389,47.585651],"type":"Point"}
 }

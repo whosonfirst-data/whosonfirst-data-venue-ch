@@ -2,13 +2,14 @@
   "id": 252758071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.954682,46.003967,8.954682,46.003967",
     "geom:latitude":46.003967,
     "geom:longitude":8.954682,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Guglielmo Marconi 4",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252758071,
-    "wof:lastmodified":1449005745,
+    "wof:lastmodified":1466209402,
     "wof:name":"Asal Sagl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.954682,46.003967,8.954682,46.003967],
+  "bbox": [
+    8.954682,
+    46.003967,
+    8.954682,
+    46.003967
+],
   "geometry": {"coordinates":[8.954682,46.003967],"type":"Point"}
 }

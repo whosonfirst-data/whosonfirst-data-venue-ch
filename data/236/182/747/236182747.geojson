@@ -2,13 +2,14 @@
   "id": 236182747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.439247,46.946629,7.439247,46.946629",
     "geom:latitude":46.946629,
     "geom:longitude":7.439247,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanengasse 11 3011 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236182747,
-    "wof:lastmodified":1449003795,
+    "wof:lastmodified":1466210622,
     "wof:name":"Hva Fachschulen Bern Handel, Verkehr, Touristik Usw; Fachschule",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.439247,46.946629,7.439247,46.946629],
+  "bbox": [
+    7.439247,
+    46.946629,
+    7.439247,
+    46.946629
+],
   "geometry": {"coordinates":[7.439247,46.946629],"type":"Point"}
 }

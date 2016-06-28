@@ -2,13 +2,14 @@
   "id": 185771355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.020195,46.189064,9.020195,46.189064",
     "geom:latitude":46.189064,
     "geom:longitude":9.020195,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nizzola 4 6500 Bellinzona. Postfach Caselle Postale 1054",
     "sg:city":"Bellinzona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185771355,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466208924,
     "wof:name":"Francesca Gemnetti Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.020195,46.189064,9.020195,46.189064],
+  "bbox": [
+    9.020195,
+    46.189064,
+    9.020195,
+    46.189064
+],
   "geometry": {"coordinates":[9.020195,46.189064],"type":"Point"}
 }

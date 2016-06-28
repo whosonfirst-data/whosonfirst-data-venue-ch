@@ -2,13 +2,14 @@
   "id": 252797799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.149248,46.200203,6.149248,46.200203",
     "geom:latitude":46.200203,
     "geom:longitude":6.149248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Du Bourg-de-four 5",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252797799,
-    "wof:lastmodified":1449006409,
+    "wof:lastmodified":1466209887,
     "wof:name":"Pierre & Yvonne Schmitt Galerie Cinq",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.149248,46.200203,6.149248,46.200203],
+  "bbox": [
+    6.149248,
+    46.200203,
+    6.149248,
+    46.200203
+],
   "geometry": {"coordinates":[6.149248,46.200203],"type":"Point"}
 }

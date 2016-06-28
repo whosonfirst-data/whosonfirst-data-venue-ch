@@ -2,13 +2,14 @@
   "id": 253124183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.169978,47.652061,9.169978,47.652061",
     "geom:latitude":47.652061,
     "geom:longitude":9.169978,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 25",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253124183,
-    "wof:lastmodified":1449065567,
+    "wof:lastmodified":1466210180,
     "wof:name":"Susi Ditz Optik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.169978,47.652061,9.169978,47.652061],
+  "bbox": [
+    9.169978,
+    47.652061,
+    9.169978,
+    47.652061
+],
   "geometry": {"coordinates":[9.169978,47.652061],"type":"Point"}
 }

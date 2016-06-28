@@ -2,13 +2,14 @@
   "id": 202758535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.502493,47.481873,8.502493,47.481873",
     "geom:latitude":47.481873,
     "geom:longitude":8.502493,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kressibuch",
     "sg:city":"Hefenhofen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202758535,
-    "wof:lastmodified":1449060878,
+    "wof:lastmodified":1466211140,
     "wof:name":"Vorderasp-ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.502493,47.481873,8.502493,47.481873],
+  "bbox": [
+    8.502493,
+    47.481873,
+    8.502493,
+    47.481873
+],
   "geometry": {"coordinates":[8.502493,47.481873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202641263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.728547,47.200214,8.728547,47.200214",
     "geom:latitude":47.200214,
     "geom:longitude":8.728547,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ueberlandstrasse 387",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202641263,
-    "wof:lastmodified":1449062052,
+    "wof:lastmodified":1466210044,
     "wof:name":"M\u00fcller Raphael Und Partner Architekten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.728547,47.200214,8.728547,47.200214],
+  "bbox": [
+    8.728547,
+    47.200214,
+    8.728547,
+    47.200214
+],
   "geometry": {"coordinates":[8.728547,47.200214],"type":"Point"}
 }

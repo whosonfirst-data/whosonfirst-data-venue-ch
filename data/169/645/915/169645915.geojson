@@ -2,13 +2,14 @@
   "id": 169645915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.688142,47.712643,8.688142,47.712643",
     "geom:latitude":47.712643,
     "geom:longitude":8.688142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Herblinger Markt",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169645915,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466209990,
     "wof:name":"Schweizerischer Bankverein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.688142,47.712643,8.688142,47.712643],
+  "bbox": [
+    8.688142,
+    47.712643,
+    8.688142,
+    47.712643
+],
   "geometry": {"coordinates":[8.688142,47.712643],"type":"Point"}
 }

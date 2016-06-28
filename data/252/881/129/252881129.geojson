@@ -2,13 +2,14 @@
   "id": 252881129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591257,47.564495,7.591257,47.564495",
     "geom:latitude":47.564495,
     "geom:longitude":7.591257,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klybeckstrasse 1",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252881129,
-    "wof:lastmodified":1449006050,
+    "wof:lastmodified":1466210785,
     "wof:name":"Mascello Tutto Casa Gmbh",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.591257,47.564495,7.591257,47.564495],
+  "bbox": [
+    7.591257,
+    47.564495,
+    7.591257,
+    47.564495
+],
   "geometry": {"coordinates":[7.591257,47.564495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219410697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.785943,47.239559,8.785943,47.239559",
     "geom:latitude":47.239559,
     "geom:longitude":8.785943,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse",
     "sg:city":"Feldbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219410697,
-    "wof:lastmodified":1449070418,
+    "wof:lastmodified":1466210280,
     "wof:name":"Urs Maurer Carrosseriewerkstatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.785943,47.239559,8.785943,47.239559],
+  "bbox": [
+    8.785943,
+    47.239559,
+    8.785943,
+    47.239559
+],
   "geometry": {"coordinates":[8.785943,47.239559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219237797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.578389,46.902714,6.578389,46.902714",
     "geom:latitude":46.902714,
     "geom:longitude":6.578389,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Place-d'armes 8",
     "sg:city":"Fleurier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219237797,
-    "wof:lastmodified":1449070457,
+    "wof:lastmodified":1466211367,
     "wof:name":"Denis Schwab Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.578389,46.902714,6.578389,46.902714],
+  "bbox": [
+    6.578389,
+    46.902714,
+    6.578389,
+    46.902714
+],
   "geometry": {"coordinates":[6.578389,46.902714],"type":"Point"}
 }

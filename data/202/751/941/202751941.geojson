@@ -2,13 +2,14 @@
   "id": 202751941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.249756,47.567703,8.249756,47.567703",
     "geom:latitude":47.567703,
     "geom:longitude":8.249756,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werdstrasse 5 5314 Kleind\u00f6ttingen. Postfach",
     "sg:city":"Kleind\u00f6ttingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202751941,
-    "wof:lastmodified":1449060246,
+    "wof:lastmodified":1466211074,
     "wof:name":"Urs Hauser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.249756,47.567703,8.249756,47.567703],
+  "bbox": [
+    8.249756,
+    47.567703,
+    8.249756,
+    47.567703
+],
   "geometry": {"coordinates":[8.249756,47.567703],"type":"Point"}
 }

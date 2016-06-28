@@ -2,13 +2,14 @@
   "id": 236090263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.686639,47.428978,8.686639,47.428978",
     "geom:latitude":47.428978,
     "geom:longitude":8.686639,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Engehaldenstrasse 131 3012 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236090263,
-    "wof:lastmodified":1449004440,
+    "wof:lastmodified":1466209708,
     "wof:name":"W. F\u00fcrst Gmbh Sanit\u00e4r & Bauspenglerei",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.686639,47.428978,8.686639,47.428978],
+  "bbox": [
+    8.686639,
+    47.428978,
+    8.686639,
+    47.428978
+],
   "geometry": {"coordinates":[8.686639,47.428978],"type":"Point"}
 }

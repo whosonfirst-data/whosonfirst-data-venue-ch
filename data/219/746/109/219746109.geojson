@@ -2,13 +2,14 @@
   "id": 219746109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.366979,50.954361,2.366979,50.954361",
     "geom:latitude":50.954361,
     "geom:longitude":2.366979,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai Des Bergues 15-17 Case Postale Ch",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219746109,
-    "wof:lastmodified":1449070349,
+    "wof:lastmodified":1466212357,
     "wof:name":"Ueb (switzerland)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.366979,50.954361,2.366979,50.954361],
+  "bbox": [
+    2.366979,
+    50.954361,
+    2.366979,
+    50.954361
+],
   "geometry": {"coordinates":[2.366979,50.954361],"type":"Point"}
 }

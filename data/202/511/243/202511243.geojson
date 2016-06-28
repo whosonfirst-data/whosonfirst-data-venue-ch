@@ -2,13 +2,14 @@
   "id": 202511243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.056384,46.225632,6.056384,46.225632",
     "geom:latitude":46.225632,
     "geom:longitude":6.056384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pr\u00e9-de-la-fontaine 2 1242 Satigny. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202511243,
-    "wof:lastmodified":1449061292,
+    "wof:lastmodified":1466211546,
     "wof:name":"Geneprot, Inc., Dover, Succursale De Satigny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.056384,46.225632,6.056384,46.225632],
+  "bbox": [
+    6.056384,
+    46.225632,
+    6.056384,
+    46.225632
+],
   "geometry": {"coordinates":[6.056384,46.225632],"type":"Point"}
 }

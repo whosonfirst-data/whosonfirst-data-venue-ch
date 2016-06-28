@@ -2,13 +2,14 @@
   "id": 219451681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.401542,47.280735,8.401542,47.280735",
     "geom:latitude":47.280735,
     "geom:longitude":8.401542,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lanzenstrasse 4b",
     "sg:city":"Ottenbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219451681,
-    "wof:lastmodified":1449071931,
+    "wof:lastmodified":1466210648,
     "wof:name":"Bln Qualitex Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.401542,47.280735,8.401542,47.280735],
+  "bbox": [
+    8.401542,
+    47.280735,
+    8.401542,
+    47.280735
+],
   "geometry": {"coordinates":[8.401542,47.280735],"type":"Point"}
 }

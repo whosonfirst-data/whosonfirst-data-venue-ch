@@ -2,13 +2,14 @@
   "id": 169612279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.456303,46.966442,7.456303,46.966442",
     "geom:latitude":46.966442,
     "geom:longitude":7.456303,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stauffacherstrasse 65",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169612279,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466209416,
     "wof:name":"Hofer Ag Kommunikation Bsw",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [7.456303,46.966442,7.456303,46.966442],
+  "bbox": [
+    7.456303,
+    46.966442,
+    7.456303,
+    46.966442
+],
   "geometry": {"coordinates":[7.456303,46.966442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202677409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.483871,46.933208,7.483871,46.933208",
     "geom:latitude":46.933208,
     "geom:longitude":7.483871,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sack Wernetshausen 8340 Girenbad B. Hinwil. Postfach",
     "sg:city":"Wernetshausen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202677409,
-    "wof:lastmodified":1449061021,
+    "wof:lastmodified":1466210378,
     "wof:name":"Ramseier + Stucki, Architekten Ag",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.483871,46.933208,7.483871,46.933208],
+  "bbox": [
+    7.483871,
+    46.933208,
+    7.483871,
+    46.933208
+],
   "geometry": {"coordinates":[7.483871,46.933208],"type":"Point"}
 }

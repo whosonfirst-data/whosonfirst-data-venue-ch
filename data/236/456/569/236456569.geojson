@@ -2,13 +2,14 @@
   "id": 236456569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.452636,46.998196,7.452636,46.998196",
     "geom:latitude":46.998196,
     "geom:longitude":7.452636,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 69",
     "sg:city":"Zollikofen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236456569,
-    "wof:lastmodified":1449002465,
+    "wof:lastmodified":1466212511,
     "wof:name":"Schulbibliothek T\u00fcrmli",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.452636,46.998196,7.452636,46.998196],
+  "bbox": [
+    7.452636,
+    46.998196,
+    7.452636,
+    46.998196
+],
   "geometry": {"coordinates":[7.452636,46.998196],"type":"Point"}
 }

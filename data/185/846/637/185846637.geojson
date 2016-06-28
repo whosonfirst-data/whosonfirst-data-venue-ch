@@ -2,13 +2,14 @@
   "id": 185846637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.014679,45.847984,9.014679,45.847984",
     "geom:latitude":45.847984,
     "geom:longitude":9.014679,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberhaus 371",
     "sg:city":"Gais",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185846637,
-    "wof:lastmodified":1449007873,
+    "wof:lastmodified":1466209452,
     "wof:name":"Abn Amro Bank (schweiz)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.014679,45.847984,9.014679,45.847984],
+  "bbox": [
+    9.014679,
+    45.847984,
+    9.014679,
+    45.847984
+],
   "geometry": {"coordinates":[9.014679,45.847984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219724311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.575666,47.278149,8.575666,47.278149",
     "geom:latitude":47.278149,
     "geom:longitude":8.575666,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Landstrasse 30",
     "sg:city":"Oberrieden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219724311,
-    "wof:lastmodified":1449073841,
+    "wof:lastmodified":1466212293,
     "wof:name":"Sparkasse Des Wahlkreises Thalwil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.575666,47.278149,8.575666,47.278149],
+  "bbox": [
+    8.575666,
+    47.278149,
+    8.575666,
+    47.278149
+],
   "geometry": {"coordinates":[8.575666,47.278149],"type":"Point"}
 }

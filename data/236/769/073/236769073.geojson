@@ -2,13 +2,14 @@
   "id": 236769073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.7718,47.503567,8.7718,47.503567",
     "geom:latitude":47.503567,
     "geom:longitude":8.7718,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4ffelistrasse 6",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236769073,
-    "wof:lastmodified":1449002597,
+    "wof:lastmodified":1466212876,
     "wof:name":"Vivaniro Ag",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.7718,47.503567,8.7718,47.503567],
+  "bbox": [
+    8.7718,
+    47.503567,
+    8.7718,
+    47.503567
+],
   "geometry": {"coordinates":[8.7718,47.503567],"type":"Point"}
 }

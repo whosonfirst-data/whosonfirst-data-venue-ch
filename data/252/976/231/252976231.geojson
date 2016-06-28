@@ -2,13 +2,14 @@
   "id": 252976231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.631809,46.521423,6.631809,46.521423",
     "geom:latitude":46.521423,
     "geom:longitude":6.631809,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Grand-st-jean 6 1003 Lausanne Case Postale 44",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252976231,
-    "wof:lastmodified":1449005854,
+    "wof:lastmodified":1466211822,
     "wof:name":"Janam Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.631809,46.521423,6.631809,46.521423],
+  "bbox": [
+    6.631809,
+    46.521423,
+    6.631809,
+    46.521423
+],
   "geometry": {"coordinates":[6.631809,46.521423],"type":"Point"}
 }

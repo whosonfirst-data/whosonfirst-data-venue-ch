@@ -2,13 +2,14 @@
   "id": 202659609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597218,47.565887,7.597218,47.565887",
     "geom:latitude":47.565887,
     "geom:longitude":7.597218,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sperrstrasse 104b 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202659609,
-    "wof:lastmodified":1449060380,
+    "wof:lastmodified":1466210215,
     "wof:name":"Peter Hanhart, Architekt Htl Architektur U. Design.",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.597218,47.565887,7.597218,47.565887],
+  "bbox": [
+    7.597218,
+    47.565887,
+    7.597218,
+    47.565887
+],
   "geometry": {"coordinates":[7.597218,47.565887],"type":"Point"}
 }

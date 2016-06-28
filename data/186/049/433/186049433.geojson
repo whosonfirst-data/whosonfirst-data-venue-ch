@@ -2,13 +2,14 @@
   "id": 186049433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.637443,47.395172,8.637443,47.395172",
     "geom:latitude":47.395172,
     "geom:longitude":8.637443,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Sch\u00f6rli 26",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186049433,
-    "wof:lastmodified":1449051705,
+    "wof:lastmodified":1466210036,
     "wof:name":"Daniel Stirnimann Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.637443,47.395172,8.637443,47.395172],
+  "bbox": [
+    8.637443,
+    47.395172,
+    8.637443,
+    47.395172
+],
   "geometry": {"coordinates":[8.637443,47.395172],"type":"Point"}
 }

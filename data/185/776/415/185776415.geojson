@@ -2,13 +2,14 @@
   "id": 185776415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.440724,46.949974,7.440724,46.949974",
     "geom:latitude":46.949974,
     "geom:longitude":7.440724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bollwerk 21 3011 Bern. Postfach 8057",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185776415,
-    "wof:lastmodified":1449006971,
+    "wof:lastmodified":1466208956,
     "wof:name":"Hans-j\u00fcrg Schl\u00e4ppi Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.440724,46.949974,7.440724,46.949974],
+  "bbox": [
+    7.440724,
+    46.949974,
+    7.440724,
+    46.949974
+],
   "geometry": {"coordinates":[7.440724,46.949974],"type":"Point"}
 }

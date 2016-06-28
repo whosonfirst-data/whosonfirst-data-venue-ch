@@ -2,13 +2,14 @@
   "id": 236318645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529413,47.33474,8.529413,47.33474",
     "geom:latitude":47.33474,
     "geom:longitude":8.529413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Paradiesstrasse 5",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236318645,
-    "wof:lastmodified":1449002224,
+    "wof:lastmodified":1466211847,
     "wof:name":"Taxi Cekic G\u00fcner",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529413,47.33474,8.529413,47.33474],
+  "bbox": [
+    8.529413,
+    47.33474,
+    8.529413,
+    47.33474
+],
   "geometry": {"coordinates":[8.529413,47.33474],"type":"Point"}
 }

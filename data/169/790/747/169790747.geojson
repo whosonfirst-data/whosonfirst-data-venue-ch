@@ -2,13 +2,14 @@
   "id": 169790747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.557668,47.369267,8.557668,47.369267",
     "geom:latitude":47.369267,
     "geom:longitude":8.557668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Asylstrasse 17",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169790747,
-    "wof:lastmodified":1449035187,
+    "wof:lastmodified":1466208998,
     "wof:name":"Interna Treuhandgesellschaft Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.557668,47.369267,8.557668,47.369267],
+  "bbox": [
+    8.557668,
+    47.369267,
+    8.557668,
+    47.369267
+],
   "geometry": {"coordinates":[8.557668,47.369267],"type":"Point"}
 }

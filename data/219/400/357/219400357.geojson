@@ -2,13 +2,14 @@
   "id": 219400357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.509095,47.148476,9.509095,47.148476",
     "geom:latitude":47.148476,
     "geom:longitude":9.509095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaanerstrasse 21",
     "sg:city":"Vaduz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219400357,
-    "wof:lastmodified":1449070736,
+    "wof:lastmodified":1466210184,
     "wof:name":"Jakob Quaderer Autospenglerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.509095,47.148476,9.509095,47.148476],
+  "bbox": [
+    9.509095,
+    47.148476,
+    9.509095,
+    47.148476
+],
   "geometry": {"coordinates":[9.509095,47.148476],"type":"Point"}
 }

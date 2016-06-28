@@ -2,13 +2,14 @@
   "id": 185718523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.595583,47.559383,7.595583,47.559383",
     "geom:latitude":47.559383,
     "geom:longitude":7.595583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riehentorstrasse 15",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185718523,
-    "wof:lastmodified":1449006963,
+    "wof:lastmodified":1466211268,
     "wof:name":"Judith Trinkler Advokaturb\u00fcro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.595583,47.559383,7.595583,47.559383],
+  "bbox": [
+    7.595583,
+    47.559383,
+    7.595583,
+    47.559383
+],
   "geometry": {"coordinates":[7.595583,47.559383],"type":"Point"}
 }

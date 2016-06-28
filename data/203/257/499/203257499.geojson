@@ -2,13 +2,14 @@
   "id": 203257499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.378271,47.424492,9.378271,47.424492",
     "geom:latitude":47.424492,
     "geom:longitude":9.378271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spisergasse 28",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203257499,
-    "wof:lastmodified":1449025466,
+    "wof:lastmodified":1466210105,
     "wof:name":"Dr.med. Reto Widrig Spezialarzt Fmh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.378271,47.424492,9.378271,47.424492],
+  "bbox": [
+    9.378271,
+    47.424492,
+    9.378271,
+    47.424492
+],
   "geometry": {"coordinates":[9.378271,47.424492],"type":"Point"}
 }

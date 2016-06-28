@@ -2,13 +2,14 @@
   "id": 202438605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.708206,47.747936,8.708206,47.747936",
     "geom:latitude":47.747936,
     "geom:longitude":8.708206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegasse 6",
     "sg:city":"Thayngen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202438605,
-    "wof:lastmodified":1449060973,
+    "wof:lastmodified":1466210376,
     "wof:name":"B\u00fchrer + Wunderli Architekturb\u00fcro, Inh. Reto Wunderli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.708206,47.747936,8.708206,47.747936],
+  "bbox": [
+    8.708206,
+    47.747936,
+    8.708206,
+    47.747936
+],
   "geometry": {"coordinates":[8.708206,47.747936],"type":"Point"}
 }

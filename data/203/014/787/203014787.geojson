@@ -2,13 +2,14 @@
   "id": 203014787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.577785,47.550343,7.577785,47.550343",
     "geom:latitude":47.550343,
     "geom:longitude":7.577785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birsigstrasse 115",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203014787,
-    "wof:lastmodified":1449025850,
+    "wof:lastmodified":1466209514,
     "wof:name":"Hugenschmidt & Partner Architektur",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.577785,47.550343,7.577785,47.550343],
+  "bbox": [
+    7.577785,
+    47.550343,
+    7.577785,
+    47.550343
+],
   "geometry": {"coordinates":[7.577785,47.550343],"type":"Point"}
 }

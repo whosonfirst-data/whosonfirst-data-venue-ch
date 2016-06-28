@@ -2,13 +2,14 @@
   "id": 236826313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72248,47.249729,8.72248,47.249729",
     "geom:latitude":47.249729,
     "geom:longitude":8.72248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allenbergstrasse 9",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236826313,
-    "wof:lastmodified":1449004158,
+    "wof:lastmodified":1466212997,
     "wof:name":"Disler-bedachungs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72248,47.249729,8.72248,47.249729],
+  "bbox": [
+    8.72248,
+    47.249729,
+    8.72248,
+    47.249729
+],
   "geometry": {"coordinates":[8.72248,47.249729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236969897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.34775,47.360477,8.34775,47.360477",
     "geom:latitude":47.360477,
     "geom:longitude":8.34775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnsteig 1",
     "sg:city":"Neuhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236969897,
-    "wof:lastmodified":1449002274,
+    "wof:lastmodified":1466213053,
     "wof:name":"Data Tech Tellenbach R.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.34775,47.360477,8.34775,47.360477],
+  "bbox": [
+    8.34775,
+    47.360477,
+    8.34775,
+    47.360477
+],
   "geometry": {"coordinates":[8.34775,47.360477],"type":"Point"}
 }

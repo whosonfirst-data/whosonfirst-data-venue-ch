@@ -2,13 +2,14 @@
   "id": 236315663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.761727,47.493019,8.761727,47.493019",
     "geom:latitude":47.493019,
     "geom:longitude":8.761727,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im H\u00f6lderli 15",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236315663,
-    "wof:lastmodified":1449005041,
+    "wof:lastmodified":1466211939,
     "wof:name":"Schulbusbetrieb Hagmann Ernst",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.761727,47.493019,8.761727,47.493019],
+  "bbox": [
+    8.761727,
+    47.493019,
+    8.761727,
+    47.493019
+],
   "geometry": {"coordinates":[8.761727,47.493019],"type":"Point"}
 }

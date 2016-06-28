@@ -2,13 +2,14 @@
   "id": 186401005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.593758,46.633644,8.593758,46.633644",
     "geom:latitude":46.633644,
     "geom:longitude":8.593758,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 48",
     "sg:city":"Andermatt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186401005,
-    "wof:lastmodified":1449052616,
+    "wof:lastmodified":1466210608,
     "wof:name":"Batigroup Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.593758,46.633644,8.593758,46.633644],
+  "bbox": [
+    8.593758,
+    46.633644,
+    8.593758,
+    46.633644
+],
   "geometry": {"coordinates":[8.593758,46.633644],"type":"Point"}
 }

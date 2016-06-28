@@ -2,13 +2,14 @@
   "id": 202538771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.503806,47.39793,8.503806,47.39793",
     "geom:latitude":47.39793,
     "geom:longitude":8.503806,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4ulistrasse 22a 8049 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202538771,
-    "wof:lastmodified":1449060421,
+    "wof:lastmodified":1466209088,
     "wof:name":"Herzele Heinz Consulting G\u00fcter; Beratung, Verkauf. Projektleitung U. Schulung Usw",
     "wof:parent_id":85800071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.503806,47.39793,8.503806,47.39793],
+  "bbox": [
+    8.503806,
+    47.39793,
+    8.503806,
+    47.39793
+],
   "geometry": {"coordinates":[8.503806,47.39793],"type":"Point"}
 }

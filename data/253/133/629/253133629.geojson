@@ -2,13 +2,14 @@
   "id": 253133629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.103002,47.05537,8.103002,47.05537",
     "geom:latitude":47.05537,
     "geom:longitude":8.103002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6106 Werthenstein. Postfach",
     "sg:city":"Wolhusen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253133629,
-    "wof:lastmodified":1449065254,
+    "wof:lastmodified":1466210308,
     "wof:name":"Aregger, Gebr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.103002,47.05537,8.103002,47.05537],
+  "bbox": [
+    8.103002,
+    47.05537,
+    8.103002,
+    47.05537
+],
   "geometry": {"coordinates":[8.103002,47.05537],"type":"Point"}
 }

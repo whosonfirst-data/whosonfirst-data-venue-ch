@@ -2,13 +2,14 @@
   "id": 186336821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.434671,47.160824,8.434671,47.160824",
     "geom:latitude":47.160824,
     "geom:longitude":8.434671,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6sch 102 6331 H\u00fcnenberg. Postfach 276",
     "sg:city":"Cham",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186336821,
-    "wof:lastmodified":1449050184,
+    "wof:lastmodified":1466210109,
     "wof:name":"H\u00fcrlimann Hans Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.434671,47.160824,8.434671,47.160824],
+  "bbox": [
+    8.434671,
+    47.160824,
+    8.434671,
+    47.160824
+],
   "geometry": {"coordinates":[8.434671,47.160824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185827291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.99357,47.598923,8.99357,47.598923",
     "geom:latitude":47.598923,
     "geom:longitude":8.99357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00e4fernstrasse 15",
     "sg:city":"D\u00e4ttwil",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185827291,
-    "wof:lastmodified":1449007167,
+    "wof:lastmodified":1466209299,
     "wof:name":"Widmer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [8.99357,47.598923,8.99357,47.598923],
+  "bbox": [
+    8.99357,
+    47.598923,
+    8.99357,
+    47.598923
+],
   "geometry": {"coordinates":[8.99357,47.598923],"type":"Point"}
 }

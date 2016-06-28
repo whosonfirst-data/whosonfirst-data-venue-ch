@@ -2,13 +2,14 @@
   "id": 185904175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.655018,46.865688,8.655018,46.865688",
     "geom:latitude":46.865688,
     "geom:longitude":8.655018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 6 6467 Schattdorf. Postfach 15",
     "sg:city":"Schattdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185904175,
-    "wof:lastmodified":1449008256,
+    "wof:lastmodified":1466209874,
     "wof:name":"Rebau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.655018,46.865688,8.655018,46.865688],
+  "bbox": [
+    8.655018,
+    46.865688,
+    8.655018,
+    46.865688
+],
   "geometry": {"coordinates":[8.655018,46.865688],"type":"Point"}
 }

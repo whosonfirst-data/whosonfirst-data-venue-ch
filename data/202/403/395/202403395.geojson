@@ -2,13 +2,14 @@
   "id": 202403395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.592583,47.177952,8.592583,47.177952",
     "geom:latitude":47.177952,
     "geom:longitude":8.592583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenweg 2",
     "sg:city":"Menzingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202403395,
-    "wof:lastmodified":1449062298,
+    "wof:lastmodified":1466209769,
     "wof:name":"Be-ma-so Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.592583,47.177952,8.592583,47.177952],
+  "bbox": [
+    8.592583,
+    47.177952,
+    8.592583,
+    47.177952
+],
   "geometry": {"coordinates":[8.592583,47.177952],"type":"Point"}
 }

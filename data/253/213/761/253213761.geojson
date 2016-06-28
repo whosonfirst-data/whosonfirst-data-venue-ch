@@ -2,13 +2,14 @@
   "id": 253213761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.144154,47.446739,8.144154,47.446739",
     "geom:latitude":47.446739,
     "geom:longitude":8.144154,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bedastrasse 3",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253213761,
-    "wof:lastmodified":1449062852,
+    "wof:lastmodified":1466211145,
     "wof:name":"Lehmann M.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.144154,47.446739,8.144154,47.446739],
+  "bbox": [
+    8.144154,
+    47.446739,
+    8.144154,
+    47.446739
+],
   "geometry": {"coordinates":[8.144154,47.446739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203277925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.188472,46.848122,7.188472,46.848122",
     "geom:latitude":46.848122,
     "geom:longitude":7.188472,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Veilchenweg 5",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203277925,
-    "wof:lastmodified":1449025156,
+    "wof:lastmodified":1466210312,
     "wof:name":"Dr.med.anton Merkle Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.188472,46.848122,7.188472,46.848122],
+  "bbox": [
+    7.188472,
+    46.848122,
+    7.188472,
+    46.848122
+],
   "geometry": {"coordinates":[7.188472,46.848122],"type":"Point"}
 }

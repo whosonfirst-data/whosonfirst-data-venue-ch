@@ -2,13 +2,14 @@
   "id": 235995667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.194318,46.978031,7.194318,46.978031",
     "geom:latitude":46.978031,
     "geom:longitude":7.194318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aegertenstrasse 6",
     "sg:city":"Kerzers",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235995667,
-    "wof:lastmodified":1449008574,
+    "wof:lastmodified":1466209473,
     "wof:name":"Gutknecht Kurt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.194318,46.978031,7.194318,46.978031],
+  "bbox": [
+    7.194318,
+    46.978031,
+    7.194318,
+    46.978031
+],
   "geometry": {"coordinates":[7.194318,46.978031],"type":"Point"}
 }

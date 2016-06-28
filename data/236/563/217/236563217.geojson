@@ -2,13 +2,14 @@
   "id": 236563217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.360614,46.231709,7.360614,46.231709",
     "geom:latitude":46.231709,
     "geom:longitude":7.360614,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Porte-neuve 29",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236563217,
-    "wof:lastmodified":1449001717,
+    "wof:lastmodified":1466212624,
     "wof:name":"Emmanuel Farine Farine-optique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.360614,46.231709,7.360614,46.231709],
+  "bbox": [
+    7.360614,
+    46.231709,
+    7.360614,
+    46.231709
+],
   "geometry": {"coordinates":[7.360614,46.231709],"type":"Point"}
 }

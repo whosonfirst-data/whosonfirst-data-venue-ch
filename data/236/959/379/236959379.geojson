@@ -2,13 +2,14 @@
   "id": 236959379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.134484,46.189476,6.134484,46.189476",
     "geom:latitude":46.189476,
     "geom:longitude":6.134484,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Husmattstrasse 25",
     "sg:city":"Steinerberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236959379,
-    "wof:lastmodified":1449004851,
+    "wof:lastmodified":1466213044,
     "wof:name":"Sarilec, Richard Sadoune",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.134484,46.189476,6.134484,46.189476],
+  "bbox": [
+    6.134484,
+    46.189476,
+    6.134484,
+    46.189476
+],
   "geometry": {"coordinates":[6.134484,46.189476],"type":"Point"}
 }

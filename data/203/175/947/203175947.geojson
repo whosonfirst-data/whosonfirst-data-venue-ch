@@ -2,13 +2,14 @@
   "id": 203175947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.352025,47.367447,7.352025,47.367447",
     "geom:latitude":47.367447,
     "geom:longitude":7.352025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De B\u00e2le 62",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203175947,
-    "wof:lastmodified":1449026293,
+    "wof:lastmodified":1466209202,
     "wof:name":"Dr M\u00e9d. Domingos Ribeiro M\u00e9decin Sp\u00e9cialiste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.352025,47.367447,7.352025,47.367447],
+  "bbox": [
+    7.352025,
+    47.367447,
+    7.352025,
+    47.367447
+],
   "geometry": {"coordinates":[7.352025,47.367447],"type":"Point"}
 }

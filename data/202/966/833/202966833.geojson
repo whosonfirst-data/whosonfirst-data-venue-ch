@@ -2,13 +2,14 @@
   "id": 202966833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.140068,46.183777,6.140068,46.183777",
     "geom:latitude":46.183777,
     "geom:longitude":6.140068,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Jussy 29",
     "sg:city":"Th\u00f4nex",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202966833,
-    "wof:lastmodified":1449060124,
+    "wof:lastmodified":1466212366,
     "wof:name":"Claude Mismetti Bureau D'architecture",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.140068,46.183777,6.140068,46.183777],
+  "bbox": [
+    6.140068,
+    46.183777,
+    6.140068,
+    46.183777
+],
   "geometry": {"coordinates":[6.140068,46.183777],"type":"Point"}
 }

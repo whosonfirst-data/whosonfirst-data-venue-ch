@@ -2,13 +2,14 @@
   "id": 219295669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.497344,47.067062,9.497344,47.067062",
     "geom:latitude":47.067062,
     "geom:longitude":9.497344,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossweg 16 9496 Balzers. Postfach 447",
     "sg:city":"Balzers",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219295669,
-    "wof:lastmodified":1449071818,
+    "wof:lastmodified":1466209204,
     "wof:name":"Karl Vogt Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.497344,47.067062,9.497344,47.067062],
+  "bbox": [
+    9.497344,
+    47.067062,
+    9.497344,
+    47.067062
+],
   "geometry": {"coordinates":[9.497344,47.067062],"type":"Point"}
 }

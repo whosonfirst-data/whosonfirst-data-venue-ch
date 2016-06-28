@@ -2,13 +2,14 @@
   "id": 253305755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.79919,47.317989,7.79919,47.317989",
     "geom:latitude":47.317989,
     "geom:longitude":7.79919,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e4u Park",
     "sg:city":"Egerkingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253305755,
-    "wof:lastmodified":1449063268,
+    "wof:lastmodified":1466211894,
     "wof:name":"Weltbildplus Egerkingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.79919,47.317989,7.79919,47.317989],
+  "bbox": [
+    7.79919,
+    47.317989,
+    7.79919,
+    47.317989
+],
   "geometry": {"coordinates":[7.79919,47.317989],"type":"Point"}
 }

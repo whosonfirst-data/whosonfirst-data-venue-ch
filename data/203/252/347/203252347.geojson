@@ -2,13 +2,14 @@
   "id": 203252347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.687862,46.968102,9.687862,46.968102",
     "geom:latitude":46.968102,
     "geom:longitude":9.687862,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 143",
     "sg:city":"Schiers",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203252347,
-    "wof:lastmodified":1449025191,
+    "wof:lastmodified":1466210047,
     "wof:name":"Dr.med. Marc Kammann Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.687862,46.968102,9.687862,46.968102],
+  "bbox": [
+    9.687862,
+    46.968102,
+    9.687862,
+    46.968102
+],
   "geometry": {"coordinates":[9.687862,46.968102],"type":"Point"}
 }

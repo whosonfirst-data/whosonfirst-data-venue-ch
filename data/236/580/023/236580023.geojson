@@ -2,13 +2,14 @@
   "id": 236580023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593923,47.547077,7.593923,47.547077",
     "geom:latitude":47.547077,
     "geom:longitude":7.593923,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nauenstrasse 55 4052 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236580023,
-    "wof:lastmodified":1449003955,
+    "wof:lastmodified":1466212650,
     "wof:name":"Becker Dr. & Partner Ag, Verlag F\u00fcr Ganzheitsmedizin",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.593923,47.547077,7.593923,47.547077],
+  "bbox": [
+    7.593923,
+    47.547077,
+    7.593923,
+    47.547077
+],
   "geometry": {"coordinates":[7.593923,47.547077],"type":"Point"}
 }

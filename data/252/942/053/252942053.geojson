@@ -2,13 +2,14 @@
   "id": 252942053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.372725,47.045944,8.372725,47.045944",
     "geom:latitude":47.045944,
     "geom:longitude":8.372725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuhusstrasse4",
     "sg:city":"Meggen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252942053,
-    "wof:lastmodified":1449005913,
+    "wof:lastmodified":1466211442,
     "wof:name":"Pico One Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.372725,47.045944,8.372725,47.045944],
+  "bbox": [
+    8.372725,
+    47.045944,
+    8.372725,
+    47.045944
+],
   "geometry": {"coordinates":[8.372725,47.045944],"type":"Point"}
 }

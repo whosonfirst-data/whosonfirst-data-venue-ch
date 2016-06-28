@@ -2,13 +2,14 @@
   "id": 169809861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532369,47.314869,8.532369,47.314869",
     "geom:latitude":47.314869,
     "geom:longitude":8.532369,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lebernstrasse 8 8134 Adliswil. Postfach",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169809861,
-    "wof:lastmodified":1449035371,
+    "wof:lastmodified":1466209136,
     "wof:name":"Vogel + Pfister Abbruch",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532369,47.314869,8.532369,47.314869],
+  "bbox": [
+    8.532369,
+    47.314869,
+    8.532369,
+    47.314869
+],
   "geometry": {"coordinates":[8.532369,47.314869],"type":"Point"}
 }

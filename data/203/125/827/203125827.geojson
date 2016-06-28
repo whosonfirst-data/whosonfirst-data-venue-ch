@@ -2,13 +2,14 @@
   "id": 203125827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.813167,47.328663,8.813167,47.328663",
     "geom:latitude":47.328663,
     "geom:longitude":8.813167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalstrasse 190",
     "sg:city":"Wetzikon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203125827,
-    "wof:lastmodified":1449026806,
+    "wof:lastmodified":1466211384,
     "wof:name":"Offset - Express Grafikd\u00f6rfli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "artist's"
     ]
 },
-  "bbox": [8.813167,47.328663,8.813167,47.328663],
+  "bbox": [
+    8.813167,
+    47.328663,
+    8.813167,
+    47.328663
+],
   "geometry": {"coordinates":[8.813167,47.328663],"type":"Point"}
 }

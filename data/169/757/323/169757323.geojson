@@ -2,13 +2,14 @@
   "id": 169757323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.400725,46.941986,7.400725,46.941986",
     "geom:latitude":46.941986,
     "geom:longitude":7.400725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kramgasse 63 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169757323,
-    "wof:lastmodified":1449034551,
+    "wof:lastmodified":1466211404,
     "wof:name":"Venezuela Embassy",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.400725,46.941986,7.400725,46.941986],
+  "bbox": [
+    7.400725,
+    46.941986,
+    7.400725,
+    46.941986
+],
   "geometry": {"coordinates":[7.400725,46.941986],"type":"Point"}
 }

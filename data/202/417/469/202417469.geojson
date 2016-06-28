@@ -2,13 +2,14 @@
   "id": 202417469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.323781,47.464546,8.323781,47.464546",
     "geom:latitude":47.464546,
     "geom:longitude":8.323781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentralstrasse 101 5430 Wettingen. Postfach",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202417469,
-    "wof:lastmodified":1449061149,
+    "wof:lastmodified":1466210015,
     "wof:name":"Bort-haus Gmbh Hmp-efh-h\u00e4user, Rsu-generalumbauten/k\u00fcche; Planung Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.323781,47.464546,8.323781,47.464546],
+  "bbox": [
+    8.323781,
+    47.464546,
+    8.323781,
+    47.464546
+],
   "geometry": {"coordinates":[8.323781,47.464546],"type":"Point"}
 }

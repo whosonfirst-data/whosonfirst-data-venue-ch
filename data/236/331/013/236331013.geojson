@@ -2,13 +2,14 @@
   "id": 236331013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.509742,47.051727,7.509742,47.051727",
     "geom:latitude":47.051727,
     "geom:longitude":7.509742,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnstrasse 23",
     "sg:city":"Jegenstorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236331013,
-    "wof:lastmodified":1449003697,
+    "wof:lastmodified":1466211893,
     "wof:name":"Zoli Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.509742,47.051727,7.509742,47.051727],
+  "bbox": [
+    7.509742,
+    47.051727,
+    7.509742,
+    47.051727
+],
   "geometry": {"coordinates":[7.509742,47.051727],"type":"Point"}
 }

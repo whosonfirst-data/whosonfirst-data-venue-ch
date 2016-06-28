@@ -2,13 +2,14 @@
   "id": 236037575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540981,47.40189,8.540981,47.40189",
     "geom:latitude":47.40189,
     "geom:longitude":8.540981,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beckhammer 33",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236037575,
-    "wof:lastmodified":1449005319,
+    "wof:lastmodified":1466209220,
     "wof:name":"Walter Kuratli Bauspenglerei Bedachungen",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540981,47.40189,8.540981,47.40189],
+  "bbox": [
+    8.540981,
+    47.40189,
+    8.540981,
+    47.40189
+],
   "geometry": {"coordinates":[8.540981,47.40189],"type":"Point"}
 }

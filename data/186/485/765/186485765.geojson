@@ -2,13 +2,14 @@
   "id": 186485765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.45568,47.181786,8.45568,47.181786",
     "geom:latitude":47.181786,
     "geom:longitude":8.45568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rigistrasse 3 6330 Cham. Postfach 584",
     "sg:city":"Cham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186485765,
-    "wof:lastmodified":1449051998,
+    "wof:lastmodified":1466211314,
     "wof:name":"Altersheim B\u00fcel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.45568,47.181786,8.45568,47.181786],
+  "bbox": [
+    8.45568,
+    47.181786,
+    8.45568,
+    47.181786
+],
   "geometry": {"coordinates":[8.45568,47.181786],"type":"Point"}
 }

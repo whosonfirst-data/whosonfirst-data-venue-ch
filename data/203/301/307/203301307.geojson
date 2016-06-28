@@ -2,13 +2,14 @@
   "id": 203301307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.450893,46.961624,7.450893,46.961624",
     "geom:latitude":46.961624,
     "geom:longitude":7.450893,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elisabethenstrasse 51",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203301307,
-    "wof:lastmodified":1449025402,
+    "wof:lastmodified":1466210549,
     "wof:name":"Dr.med.daniel Widmer Spezialarzt Fmh",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.450893,46.961624,7.450893,46.961624],
+  "bbox": [
+    7.450893,
+    46.961624,
+    7.450893,
+    46.961624
+],
   "geometry": {"coordinates":[7.450893,46.961624],"type":"Point"}
 }

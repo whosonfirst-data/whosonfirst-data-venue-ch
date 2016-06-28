@@ -2,13 +2,14 @@
   "id": 202380409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.61801,46.515137,6.61801,46.515137",
     "geom:latitude":46.515137,
     "geom:longitude":6.61801,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Cour 61",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202380409,
-    "wof:lastmodified":1449061300,
+    "wof:lastmodified":1466209228,
     "wof:name":"Argus Engineering Conseils S\u00e0rl",
     "wof:parent_id":85799887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.61801,46.515137,6.61801,46.515137],
+  "bbox": [
+    6.61801,
+    46.515137,
+    6.61801,
+    46.515137
+],
   "geometry": {"coordinates":[6.61801,46.515137],"type":"Point"}
 }

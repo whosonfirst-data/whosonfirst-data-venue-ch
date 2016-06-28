@@ -2,13 +2,14 @@
   "id": 236302235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.325626,47.066925,7.325626,47.066925",
     "geom:latitude":47.066925,
     "geom:longitude":7.325626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 94",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236302235,
-    "wof:lastmodified":1449002619,
+    "wof:lastmodified":1466211728,
     "wof:name":"Housi-taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.325626,47.066925,7.325626,47.066925],
+  "bbox": [
+    7.325626,
+    47.066925,
+    7.325626,
+    47.066925
+],
   "geometry": {"coordinates":[7.325626,47.066925],"type":"Point"}
 }

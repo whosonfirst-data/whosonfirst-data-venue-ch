@@ -2,13 +2,14 @@
   "id": 169690819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.563997,46.535061,6.563997,46.535061",
     "geom:latitude":46.535061,
     "geom:longitude":6.563997,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Morgenstrasse 83b",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169690819,
-    "wof:lastmodified":1449034430,
+    "wof:lastmodified":1466210794,
     "wof:name":"Lansa Sa",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.563997,46.535061,6.563997,46.535061],
+  "bbox": [
+    6.563997,
+    46.535061,
+    6.563997,
+    46.535061
+],
   "geometry": {"coordinates":[6.563997,46.535061],"type":"Point"}
 }

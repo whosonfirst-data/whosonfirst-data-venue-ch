@@ -2,13 +2,14 @@
   "id": 203213303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.645596,46.523956,6.645596,46.523956",
     "geom:latitude":46.523956,
     "geom:longitude":6.645596,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Beaumont 10",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203213303,
-    "wof:lastmodified":1449024958,
+    "wof:lastmodified":1466209618,
     "wof:name":"Dr M\u00e9d. Pascale Dubrez M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.645596,46.523956,6.645596,46.523956],
+  "bbox": [
+    6.645596,
+    46.523956,
+    6.645596,
+    46.523956
+],
   "geometry": {"coordinates":[6.645596,46.523956],"type":"Point"}
 }

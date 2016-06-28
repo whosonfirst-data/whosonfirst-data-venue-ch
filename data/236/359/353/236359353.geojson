@@ -2,13 +2,14 @@
   "id": 236359353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.390645,47.111523,7.390645,47.111523",
     "geom:latitude":47.111523,
     "geom:longitude":7.390645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3253",
     "sg:city":"Schnottwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236359353,
-    "wof:lastmodified":1449001638,
+    "wof:lastmodified":1466212011,
     "wof:name":"Oberstufenschulen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.390645,47.111523,7.390645,47.111523],
+  "bbox": [
+    7.390645,
+    47.111523,
+    7.390645,
+    47.111523
+],
   "geometry": {"coordinates":[7.390645,47.111523],"type":"Point"}
 }

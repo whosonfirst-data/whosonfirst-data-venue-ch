@@ -2,13 +2,14 @@
   "id": 203399211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.692989,46.684853,7.692989,46.684853",
     "geom:latitude":46.684853,
     "geom:longitude":7.692989,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beatusstrasse 7a",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203399211,
-    "wof:lastmodified":1449025277,
+    "wof:lastmodified":1466211530,
     "wof:name":"Dr.med.robert Dreyfus Spezialarzt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.692989,46.684853,7.692989,46.684853],
+  "bbox": [
+    7.692989,
+    46.684853,
+    7.692989,
+    46.684853
+],
   "geometry": {"coordinates":[7.692989,46.684853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186339401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.509955,47.143616,8.509955,47.143616",
     "geom:latitude":47.143616,
     "geom:longitude":8.509955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blickensdorferstrasse 19 6340 Baar. Postfach",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186339401,
-    "wof:lastmodified":1449051575,
+    "wof:lastmodified":1466210129,
     "wof:name":"Neyer & Weiss Gmbh Fassaden; Verkleidung. Umbauten, Renovationen Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.509955,47.143616,8.509955,47.143616],
+  "bbox": [
+    8.509955,
+    47.143616,
+    8.509955,
+    47.143616
+],
   "geometry": {"coordinates":[8.509955,47.143616],"type":"Point"}
 }

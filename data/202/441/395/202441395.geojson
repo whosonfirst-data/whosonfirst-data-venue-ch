@@ -2,13 +2,14 @@
   "id": 202441395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.489988,47.325748,8.489988,47.325748",
     "geom:latitude":47.325748,
     "geom:longitude":8.489988,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vordere Buchenegg 527 8143 Stallikon. Postfach",
     "sg:city":"Stallikon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202441395,
-    "wof:lastmodified":1449060307,
+    "wof:lastmodified":1466210441,
     "wof:name":"Campomobil Gmbh",
     "wof:parent_id":85800179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.489988,47.325748,8.489988,47.325748],
+  "bbox": [
+    8.489988,
+    47.325748,
+    8.489988,
+    47.325748
+],
   "geometry": {"coordinates":[8.489988,47.325748],"type":"Point"}
 }

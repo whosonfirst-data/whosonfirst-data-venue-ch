@@ -2,13 +2,14 @@
   "id": 220102005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.536028,47.552326,7.536028,47.552326",
     "geom:latitude":47.552326,
     "geom:longitude":7.536028,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klarastrasse 2",
     "sg:city":"Allschwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220102005,
-    "wof:lastmodified":1449074829,
+    "wof:lastmodified":1466209756,
     "wof:name":"Holzbau Allschwil & Basel Ag",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.536028,47.552326,7.536028,47.552326],
+  "bbox": [
+    7.536028,
+    47.552326,
+    7.536028,
+    47.552326
+],
   "geometry": {"coordinates":[7.536028,47.552326],"type":"Point"}
 }

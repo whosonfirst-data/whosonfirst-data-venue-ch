@@ -2,13 +2,14 @@
   "id": 169621867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.122561,47.429653,9.122561,47.429653",
     "geom:latitude":47.429653,
     "geom:longitude":9.122561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapellstrasse 384",
     "sg:city":"Oberuzwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169621867,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466209637,
     "wof:name":"Str\u00fcbi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.122561,47.429653,9.122561,47.429653],
+  "bbox": [
+    9.122561,
+    47.429653,
+    9.122561,
+    47.429653
+],
   "geometry": {"coordinates":[9.122561,47.429653],"type":"Point"}
 }

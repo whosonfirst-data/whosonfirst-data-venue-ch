@@ -2,13 +2,14 @@
   "id": 186493925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.579055,47.414047,9.579055,47.414047",
     "geom:latitude":47.414047,
     "geom:longitude":9.579055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserfluhstrasse",
     "sg:city":"K\u00fcttigen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186493925,
-    "wof:lastmodified":1449051234,
+    "wof:lastmodified":1466211385,
     "wof:name":"Altersheim Watt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [9.579055,47.414047,9.579055,47.414047],
+  "bbox": [
+    9.579055,
+    47.414047,
+    9.579055,
+    47.414047
+],
   "geometry": {"coordinates":[9.579055,47.414047],"type":"Point"}
 }

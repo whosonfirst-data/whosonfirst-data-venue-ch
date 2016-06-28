@@ -2,13 +2,14 @@
   "id": 252800555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.239881,46.902657,7.239881,46.902657",
     "geom:latitude":46.902657,
     "geom:longitude":7.239881,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Saumackerstrasse 50",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252800555,
-    "wof:lastmodified":1449005497,
+    "wof:lastmodified":1466209919,
     "wof:name":"Uhren-r\u00e4mer Antiquit\u00e4ten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.239881,46.902657,7.239881,46.902657],
+  "bbox": [
+    7.239881,
+    46.902657,
+    7.239881,
+    46.902657
+],
   "geometry": {"coordinates":[7.239881,46.902657],"type":"Point"}
 }

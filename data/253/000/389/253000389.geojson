@@ -2,13 +2,14 @@
   "id": 253000389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.015117,46.178612,9.015117,46.178612",
     "geom:latitude":46.178612,
     "geom:longitude":9.015117,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale C. Oligiati 9c",
     "sg:city":"Giubiasco",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253000389,
-    "wof:lastmodified":1449063289,
+    "wof:lastmodified":1466211630,
     "wof:name":"Il Tappezziere Savina Da Col Dec.d'interni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.015117,46.178612,9.015117,46.178612],
+  "bbox": [
+    9.015117,
+    46.178612,
+    9.015117,
+    46.178612
+],
   "geometry": {"coordinates":[9.015117,46.178612],"type":"Point"}
 }

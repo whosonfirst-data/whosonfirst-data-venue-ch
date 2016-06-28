@@ -2,13 +2,14 @@
   "id": 253272179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.605589,46.524551,6.605589,46.524551",
     "geom:latitude":46.524551,
     "geom:longitude":6.605589,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Martinet 27",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253272179,
-    "wof:lastmodified":1449065589,
+    "wof:lastmodified":1466211884,
     "wof:name":"Yann Vaucher Boulangerie & P\u00e2tisserie",
     "wof:parent_id":85862305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.605589,46.524551,6.605589,46.524551],
+  "bbox": [
+    6.605589,
+    46.524551,
+    6.605589,
+    46.524551
+],
   "geometry": {"coordinates":[6.605589,46.524551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169664575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.0127,46.172649,9.0127,46.172649",
     "geom:latitude":46.172649,
     "geom:longitude":9.0127,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"P. Grande 99",
     "sg:city":"Giubiasco",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169664575,
-    "wof:lastmodified":1449033911,
+    "wof:lastmodified":1466210332,
     "wof:name":"Banca Raiffeisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.0127,46.172649,9.0127,46.172649],
+  "bbox": [
+    9.0127,
+    46.172649,
+    9.0127,
+    46.172649
+],
   "geometry": {"coordinates":[9.0127,46.172649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186115359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.524514,47.211346,7.524514,47.211346",
     "geom:latitude":47.211346,
     "geom:longitude":7.524514,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 83 4500 Solothurn. Postfach 262",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186115359,
-    "wof:lastmodified":1449050228,
+    "wof:lastmodified":1466211044,
     "wof:name":"Jakob Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.524514,47.211346,7.524514,47.211346],
+  "bbox": [
+    7.524514,
+    47.211346,
+    7.524514,
+    47.211346
+],
   "geometry": {"coordinates":[7.524514,47.211346],"type":"Point"}
 }

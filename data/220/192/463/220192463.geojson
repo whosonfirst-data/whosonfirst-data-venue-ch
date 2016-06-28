@@ -2,13 +2,14 @@
   "id": 220192463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527656,47.194099,8.527656,47.194099",
     "geom:latitude":47.194099,
     "geom:longitude":8.527656,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leihgasse 10a",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220192463,
-    "wof:lastmodified":1449074620,
+    "wof:lastmodified":1466210529,
     "wof:name":"Martin Gut Restaurationen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527656,47.194099,8.527656,47.194099],
+  "bbox": [
+    8.527656,
+    47.194099,
+    8.527656,
+    47.194099
+],
   "geometry": {"coordinates":[8.527656,47.194099],"type":"Point"}
 }

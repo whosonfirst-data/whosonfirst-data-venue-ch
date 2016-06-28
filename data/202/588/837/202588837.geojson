@@ -2,13 +2,14 @@
   "id": 202588837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545175,47.384537,8.545175,47.384537",
     "geom:latitude":47.384537,
     "geom:longitude":8.545175,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheuchzerstrasse 32 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202588837,
-    "wof:lastmodified":1449062162,
+    "wof:lastmodified":1466209558,
     "wof:name":"K. Ziegler Ingenieur-beratung",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545175,47.384537,8.545175,47.384537],
+  "bbox": [
+    8.545175,
+    47.384537,
+    8.545175,
+    47.384537
+],
   "geometry": {"coordinates":[8.545175,47.384537],"type":"Point"}
 }

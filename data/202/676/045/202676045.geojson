@@ -2,13 +2,14 @@
   "id": 202676045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.456927,47.482948,7.456927,47.482948",
     "geom:latitude":47.482948,
     "geom:longitude":7.456927,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chilchmattstr. 7",
     "sg:city":"Rodersdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202676045,
-    "wof:lastmodified":1449061717,
+    "wof:lastmodified":1466210365,
     "wof:name":"P\u00fcntener, B\u00fcro F\u00fcr Architektur & Baubiologie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.456927,47.482948,7.456927,47.482948],
+  "bbox": [
+    7.456927,
+    47.482948,
+    7.456927,
+    47.482948
+],
   "geometry": {"coordinates":[7.456927,47.482948],"type":"Point"}
 }

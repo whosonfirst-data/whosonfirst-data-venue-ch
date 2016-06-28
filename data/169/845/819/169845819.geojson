@@ -2,13 +2,14 @@
   "id": 169845819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.950679,47.545441,7.950679,47.545441",
     "geom:latitude":47.545441,
     "geom:longitude":7.950679,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Furnatsch",
     "sg:city":"S-chanf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169845819,
-    "wof:lastmodified":1449033232,
+    "wof:lastmodified":1466209384,
     "wof:name":"Abwasserverband Stein-m\u00fcnchwilen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.950679,47.545441,7.950679,47.545441],
+  "bbox": [
+    7.950679,
+    47.545441,
+    7.950679,
+    47.545441
+],
   "geometry": {"coordinates":[7.950679,47.545441],"type":"Point"}
 }

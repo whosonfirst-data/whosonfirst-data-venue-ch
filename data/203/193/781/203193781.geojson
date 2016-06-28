@@ -2,13 +2,14 @@
   "id": 203193781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.097153,46.202702,6.097153,46.202702",
     "geom:latitude":46.202702,
     "geom:longitude":6.097153,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Promenade 4 1530 Payerne Case Postale 118",
     "sg:city":"Payerne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203193781,
-    "wof:lastmodified":1449025246,
+    "wof:lastmodified":1466209400,
     "wof:name":"Dr M\u00e9d. Jean-michel Claude M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.097153,46.202702,6.097153,46.202702],
+  "bbox": [
+    6.097153,
+    46.202702,
+    6.097153,
+    46.202702
+],
   "geometry": {"coordinates":[6.097153,46.202702],"type":"Point"}
 }

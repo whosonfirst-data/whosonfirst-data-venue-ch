@@ -2,13 +2,14 @@
   "id": 219452215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.586464,47.334595,9.586464,47.334595",
     "geom:latitude":47.334595,
     "geom:longitude":9.586464,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 48",
     "sg:city":"Montlingen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219452215,
-    "wof:lastmodified":1449071223,
+    "wof:lastmodified":1466210653,
     "wof:name":"Baumgartner Metallbautechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "banister"
     ]
 },
-  "bbox": [9.586464,47.334595,9.586464,47.334595],
+  "bbox": [
+    9.586464,
+    47.334595,
+    9.586464,
+    47.334595
+],
   "geometry": {"coordinates":[9.586464,47.334595],"type":"Point"}
 }

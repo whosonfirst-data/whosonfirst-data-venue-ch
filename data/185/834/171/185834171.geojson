@@ -2,13 +2,14 @@
   "id": 185834171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.745855,47.38784,8.745855,47.38784",
     "geom:latitude":47.38784,
     "geom:longitude":8.745855,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luppmenstrasse 11",
     "sg:city":"Fehraltorf",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185834171,
-    "wof:lastmodified":1449006766,
+    "wof:lastmodified":1466209353,
     "wof:name":"R. Lemmenmeier Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "air-conditioners"
     ]
 },
-  "bbox": [8.745855,47.38784,8.745855,47.38784],
+  "bbox": [
+    8.745855,
+    47.38784,
+    8.745855,
+    47.38784
+],
   "geometry": {"coordinates":[8.745855,47.38784],"type":"Point"}
 }

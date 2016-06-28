@@ -2,13 +2,14 @@
   "id": 203108225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.25905,47.443794,9.25905,47.443794",
     "geom:latitude":47.443794,
     "geom:longitude":9.25905,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpsteinring 12",
     "sg:city":"Arnegg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203108225,
-    "wof:lastmodified":1449024981,
+    "wof:lastmodified":1466211176,
     "wof:name":"Haueis Ag, Ladenbau & Architekturwerkstatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.25905,47.443794,9.25905,47.443794],
+  "bbox": [
+    9.25905,
+    47.443794,
+    9.25905,
+    47.443794
+],
   "geometry": {"coordinates":[9.25905,47.443794],"type":"Point"}
 }

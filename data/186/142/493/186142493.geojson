@@ -2,13 +2,14 @@
   "id": 186142493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.570415,47.235577,7.570415,47.235577",
     "geom:latitude":47.235577,
     "geom:longitude":7.570415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6fliweg 14",
     "sg:city":"Riedholz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186142493,
-    "wof:lastmodified":1449052476,
+    "wof:lastmodified":1466211388,
     "wof:name":"Marti & Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.570415,47.235577,7.570415,47.235577],
+  "bbox": [
+    7.570415,
+    47.235577,
+    7.570415,
+    47.235577
+],
   "geometry": {"coordinates":[7.570415,47.235577],"type":"Point"}
 }

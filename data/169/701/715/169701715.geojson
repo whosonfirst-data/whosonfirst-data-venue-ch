@@ -2,13 +2,14 @@
   "id": 169701715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60623,47.527306,7.60623,47.527306",
     "geom:latitude":47.527306,
     "geom:longitude":7.60623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurt-strasse 78a",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169701715,
-    "wof:lastmodified":1449035271,
+    "wof:lastmodified":1466210942,
     "wof:name":"Penta-electric Ag Zweigniederlassung M\u00fcnchenstein",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60623,47.527306,7.60623,47.527306],
+  "bbox": [
+    7.60623,
+    47.527306,
+    7.60623,
+    47.527306
+],
   "geometry": {"coordinates":[7.60623,47.527306],"type":"Point"}
 }

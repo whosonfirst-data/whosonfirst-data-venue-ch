@@ -2,13 +2,14 @@
   "id": 236504807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.859473,46.46265,6.859473,46.46265",
     "geom:latitude":46.46265,
     "geom:longitude":6.859473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Pomey 8",
     "sg:city":"Vevey",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236504807,
-    "wof:lastmodified":1449002110,
+    "wof:lastmodified":1466212627,
     "wof:name":"Jaquier Etablissement Horticole",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.859473,46.46265,6.859473,46.46265],
+  "bbox": [
+    6.859473,
+    46.46265,
+    6.859473,
+    46.46265
+],
   "geometry": {"coordinates":[6.859473,46.46265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186028789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65754,46.736942,7.65754,46.736942",
     "geom:latitude":46.736942,
     "geom:longitude":7.65754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcneggweg 11",
     "sg:city":"Hilterfingen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186028789,
-    "wof:lastmodified":1449051831,
+    "wof:lastmodified":1466209695,
     "wof:name":"Bpr Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65754,46.736942,7.65754,46.736942],
+  "bbox": [
+    7.65754,
+    46.736942,
+    7.65754,
+    46.736942
+],
   "geometry": {"coordinates":[7.65754,46.736942],"type":"Point"}
 }

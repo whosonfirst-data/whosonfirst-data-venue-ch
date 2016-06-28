@@ -2,13 +2,14 @@
   "id": 186551049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.211266,47.463474,8.211266,47.463474",
     "geom:latitude":47.463474,
     "geom:longitude":8.211266,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 38",
     "sg:city":"Hausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186551049,
-    "wof:lastmodified":1449050946,
+    "wof:lastmodified":1466211871,
     "wof:name":"B+m Vitrinen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.211266,47.463474,8.211266,47.463474],
+  "bbox": [
+    8.211266,
+    47.463474,
+    8.211266,
+    47.463474
+],
   "geometry": {"coordinates":[8.211266,47.463474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202942651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.331601,47.059242,8.331601,47.059242",
     "geom:latitude":47.059242,
     "geom:longitude":8.331601,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctzelmattweg 8",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202942651,
-    "wof:lastmodified":1449061283,
+    "wof:lastmodified":1466212293,
     "wof:name":"Andreas Moser Architekturb\u00fcro",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.331601,47.059242,8.331601,47.059242],
+  "bbox": [
+    8.331601,
+    47.059242,
+    8.331601,
+    47.059242
+],
   "geometry": {"coordinates":[8.331601,47.059242],"type":"Point"}
 }

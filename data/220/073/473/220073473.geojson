@@ -2,13 +2,14 @@
   "id": 220073473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.429201,47.202351,8.429201,47.202351",
     "geom:latitude":47.202351,
     "geom:longitude":8.429201,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flurstrasse 41",
     "sg:city":"Hagendorn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220073473,
-    "wof:lastmodified":1449074138,
+    "wof:lastmodified":1466209517,
     "wof:name":"Baumgartner G. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.429201,47.202351,8.429201,47.202351],
+  "bbox": [
+    8.429201,
+    47.202351,
+    8.429201,
+    47.202351
+],
   "geometry": {"coordinates":[8.429201,47.202351],"type":"Point"}
 }

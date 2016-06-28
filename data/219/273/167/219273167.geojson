@@ -2,13 +2,14 @@
   "id": 219273167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.406772,47.190434,7.406772,47.190434",
     "geom:latitude":47.190434,
     "geom:longitude":7.406772,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedernstrasse 33",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219273167,
-    "wof:lastmodified":1449072213,
+    "wof:lastmodified":1466209001,
     "wof:name":"Gaetano Salerno Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.406772,47.190434,7.406772,47.190434],
+  "bbox": [
+    7.406772,
+    47.190434,
+    7.406772,
+    47.190434
+],
   "geometry": {"coordinates":[7.406772,47.190434],"type":"Point"}
 }

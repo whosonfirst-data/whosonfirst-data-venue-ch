@@ -2,13 +2,14 @@
   "id": 219164939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.39185,46.939842,7.39185,46.939842",
     "geom:latitude":46.939842,
     "geom:longitude":7.39185,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Glockenstrasse 9",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219164939,
-    "wof:lastmodified":1449070807,
+    "wof:lastmodified":1466210161,
     "wof:name":"Dr.med.zeljko Bergstein Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.39185,46.939842,7.39185,46.939842],
+  "bbox": [
+    7.39185,
+    46.939842,
+    7.39185,
+    46.939842
+],
   "geometry": {"coordinates":[7.39185,46.939842],"type":"Point"}
 }

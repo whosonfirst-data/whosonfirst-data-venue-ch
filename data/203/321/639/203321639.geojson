@@ -2,13 +2,14 @@
   "id": 203321639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.996709,47.362499,7.996709,47.362499",
     "geom:latitude":47.362499,
     "geom:longitude":7.996709,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6llikerstrasse 15",
     "sg:city":"Gretzenbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203321639,
-    "wof:lastmodified":1449024991,
+    "wof:lastmodified":1466210751,
     "wof:name":"Dr.med.georg Brozek Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.996709,47.362499,7.996709,47.362499],
+  "bbox": [
+    7.996709,
+    47.362499,
+    7.996709,
+    47.362499
+],
   "geometry": {"coordinates":[7.996709,47.362499],"type":"Point"}
 }

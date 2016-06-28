@@ -2,13 +2,14 @@
   "id": 253149465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522166,47.367447,8.522166,47.367447",
     "geom:latitude":47.367447,
     "geom:longitude":8.522166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zelgstrasse 13",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253149465,
-    "wof:lastmodified":1449062833,
+    "wof:lastmodified":1466210503,
     "wof:name":"B\u00e4ckerei Imholz + Co",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522166,47.367447,8.522166,47.367447],
+  "bbox": [
+    8.522166,
+    47.367447,
+    8.522166,
+    47.367447
+],
   "geometry": {"coordinates":[8.522166,47.367447],"type":"Point"}
 }

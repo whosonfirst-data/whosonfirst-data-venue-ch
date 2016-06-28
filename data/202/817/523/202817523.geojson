@@ -2,13 +2,14 @@
   "id": 202817523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528499,47.382687,8.528499,47.382687",
     "geom:latitude":47.382687,
     "geom:longitude":8.528499,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luisenstrasse 7",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202817523,
-    "wof:lastmodified":1449062170,
+    "wof:lastmodified":1466211668,
     "wof:name":"Dpd Drost Peper Dittli Ag, Dipl. Architekten Eth/sia",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.528499,47.382687,8.528499,47.382687],
+  "bbox": [
+    8.528499,
+    47.382687,
+    8.528499,
+    47.382687
+],
   "geometry": {"coordinates":[8.528499,47.382687],"type":"Point"}
 }

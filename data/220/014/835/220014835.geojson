@@ -2,13 +2,14 @@
   "id": 220014835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.315594,47.144329,7.315594,47.144329",
     "geom:latitude":47.144329,
     "geom:longitude":7.315594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenstrasse 60",
     "sg:city":"Safnern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220014835,
-    "wof:lastmodified":1449074422,
+    "wof:lastmodified":1466209008,
     "wof:name":"Hannes Loosli Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.315594,47.144329,7.315594,47.144329],
+  "bbox": [
+    7.315594,
+    47.144329,
+    7.315594,
+    47.144329
+],
   "geometry": {"coordinates":[7.315594,47.144329],"type":"Point"}
 }

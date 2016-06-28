@@ -2,13 +2,14 @@
   "id": 186118879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.695479,47.521893,8.695479,47.521893",
     "geom:latitude":47.521893,
     "geom:longitude":8.695479,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedhofstrasse 104",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186118879,
-    "wof:lastmodified":1449052497,
+    "wof:lastmodified":1466211073,
     "wof:name":"K. Zimmermann, Hoch Und Tiefbau, Renovationen, Inhaber W. B\u00fchler",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.695479,47.521893,8.695479,47.521893],
+  "bbox": [
+    8.695479,
+    47.521893,
+    8.695479,
+    47.521893
+],
   "geometry": {"coordinates":[8.695479,47.521893],"type":"Point"}
 }

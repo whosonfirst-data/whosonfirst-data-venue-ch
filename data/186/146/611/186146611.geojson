@@ -2,13 +2,14 @@
   "id": 186146611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.814346,46.174107,8.814346,46.174107",
     "geom:latitude":46.174107,
     "geom:longitude":8.814346,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Simen Via Rinaldo 32",
     "sg:city":"Minusio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186146611,
-    "wof:lastmodified":1449051487,
+    "wof:lastmodified":1466211415,
     "wof:name":"Mazzoran E Associati Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.814346,46.174107,8.814346,46.174107],
+  "bbox": [
+    8.814346,
+    46.174107,
+    8.814346,
+    46.174107
+],
   "geometry": {"coordinates":[8.814346,46.174107],"type":"Point"}
 }

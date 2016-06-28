@@ -2,13 +2,14 @@
   "id": 186132667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.825786,47.229034,8.825786,47.229034",
     "geom:latitude":47.229034,
     "geom:longitude":8.825786,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenb\u00f6hlstrasse 12",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186132667,
-    "wof:lastmodified":1449051685,
+    "wof:lastmodified":1466211236,
     "wof:name":"Leimbacher Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.825786,47.229034,8.825786,47.229034],
+  "bbox": [
+    8.825786,
+    47.229034,
+    8.825786,
+    47.229034
+],
   "geometry": {"coordinates":[8.825786,47.229034],"type":"Point"}
 }

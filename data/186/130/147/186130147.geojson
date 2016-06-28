@@ -2,13 +2,14 @@
   "id": 186130147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.172517,46.202347,6.172517,46.202347",
     "geom:latitude":46.202347,
     "geom:longitude":6.172517,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosemont Avenue 5 1208 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186130147,
-    "wof:lastmodified":1449051317,
+    "wof:lastmodified":1466211209,
     "wof:name":"La Petite G\u00e9n\u00e9rale Sa, Entreprise Du B\u00e2timent",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.172517,46.202347,6.172517,46.202347],
+  "bbox": [
+    6.172517,
+    46.202347,
+    6.172517,
+    46.202347
+],
   "geometry": {"coordinates":[6.172517,46.202347],"type":"Point"}
 }

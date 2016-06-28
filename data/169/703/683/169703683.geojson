@@ -2,13 +2,14 @@
   "id": 169703683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.315363,47.420097,8.315363,47.420097",
     "geom:latitude":47.420097,
     "geom:longitude":8.315363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 5 5452 Oberrohrdorf. Postfach",
     "sg:city":"Oberrohrdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169703683,
-    "wof:lastmodified":1449033688,
+    "wof:lastmodified":1466210944,
     "wof:name":"Druck-atelier Br\u00e4m Satz & Repro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.315363,47.420097,8.315363,47.420097],
+  "bbox": [
+    8.315363,
+    47.420097,
+    8.315363,
+    47.420097
+],
   "geometry": {"coordinates":[8.315363,47.420097],"type":"Point"}
 }

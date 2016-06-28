@@ -2,13 +2,14 @@
   "id": 202984811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.138647,46.729256,7.138647,46.729256",
     "geom:latitude":46.729256,
     "geom:longitude":7.138647,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chantemerle",
     "sg:city":"Treyvaux",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202984811,
-    "wof:lastmodified":1449061539,
+    "wof:lastmodified":1466212411,
     "wof:name":"Franz Binz Bureau D'architecture",
     "wof:parent_id":85862391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.138647,46.729256,7.138647,46.729256],
+  "bbox": [
+    7.138647,
+    46.729256,
+    7.138647,
+    46.729256
+],
   "geometry": {"coordinates":[7.138647,46.729256],"type":"Point"}
 }

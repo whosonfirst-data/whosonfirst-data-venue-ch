@@ -2,13 +2,14 @@
   "id": 236182375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533341,47.369659,8.533341,47.369659",
     "geom:latitude":47.369659,
     "geom:longitude":8.533341,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Selnaustrasse 3 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236182375,
-    "wof:lastmodified":1449003794,
+    "wof:lastmodified":1466210619,
     "wof:name":"Handelsschule Steiger, Inh. F. B\u00fcrgi, Lic.oec. Hsg",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533341,47.369659,8.533341,47.369659],
+  "bbox": [
+    8.533341,
+    47.369659,
+    8.533341,
+    47.369659
+],
   "geometry": {"coordinates":[8.533341,47.369659],"type":"Point"}
 }

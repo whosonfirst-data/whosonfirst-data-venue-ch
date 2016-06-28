@@ -2,13 +2,14 @@
   "id": 252792497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63727,46.553024,6.63727,46.553024",
     "geom:latitude":46.553024,
     "geom:longitude":6.63727,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Vallon 1",
     "sg:city":"Mont-sur-lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252792497,
-    "wof:lastmodified":1449005655,
+    "wof:lastmodified":1466209817,
     "wof:name":"Au Bon Vieux Temps Sa",
     "wof:parent_id":85800151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63727,46.553024,6.63727,46.553024],
+  "bbox": [
+    6.63727,
+    46.553024,
+    6.63727,
+    46.553024
+],
   "geometry": {"coordinates":[6.63727,46.553024],"type":"Point"}
 }

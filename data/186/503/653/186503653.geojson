@@ -2,13 +2,14 @@
   "id": 186503653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.463488,46.937,7.463488,46.937",
     "geom:latitude":46.937,
     "geom:longitude":7.463488,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnadernrain 8",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186503653,
-    "wof:lastmodified":1449053035,
+    "wof:lastmodified":1466211467,
     "wof:name":"Elfenau Altersheim",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.463488,46.937,7.463488,46.937],
+  "bbox": [
+    7.463488,
+    46.937,
+    7.463488,
+    46.937
+],
   "geometry": {"coordinates":[7.463488,46.937],"type":"Point"}
 }

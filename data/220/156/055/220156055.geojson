@@ -2,13 +2,14 @@
   "id": 220156055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.87657,46.882244,9.87657,46.882244",
     "geom:latitude":46.882244,
     "geom:longitude":9.87657,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00f6rfli 15",
     "sg:city":"Wolfenschiessen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220156055,
-    "wof:lastmodified":1449074197,
+    "wof:lastmodified":1466210213,
     "wof:name":"Weber & Jann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.87657,46.882244,9.87657,46.882244],
+  "bbox": [
+    9.87657,
+    46.882244,
+    9.87657,
+    46.882244
+],
   "geometry": {"coordinates":[9.87657,46.882244],"type":"Point"}
 }

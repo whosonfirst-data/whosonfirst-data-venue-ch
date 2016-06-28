@@ -2,13 +2,14 @@
   "id": 219766831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.155056,46.202007,6.155056,46.202007",
     "geom:latitude":46.202007,
     "geom:longitude":6.155056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Helv\u00e9tique Bvd 36 1207 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219766831,
-    "wof:lastmodified":1449070333,
+    "wof:lastmodified":1466212485,
     "wof:name":"A. Aziza",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.155056,46.202007,6.155056,46.202007],
+  "bbox": [
+    6.155056,
+    46.202007,
+    6.155056,
+    46.202007
+],
   "geometry": {"coordinates":[6.155056,46.202007],"type":"Point"}
 }

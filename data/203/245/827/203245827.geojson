@@ -2,13 +2,14 @@
   "id": 203245827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.588489,47.307545,8.588489,47.307545",
     "geom:latitude":47.307545,
     "geom:longitude":8.588489,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waisenhausplatz 10",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203245827,
-    "wof:lastmodified":1449026810,
+    "wof:lastmodified":1466209973,
     "wof:name":"Dr.med. Eric Kamber Spezialarzt Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.588489,47.307545,8.588489,47.307545],
+  "bbox": [
+    8.588489,
+    47.307545,
+    8.588489,
+    47.307545
+],
   "geometry": {"coordinates":[8.588489,47.307545],"type":"Point"}
 }

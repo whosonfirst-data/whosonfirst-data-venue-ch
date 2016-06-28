@@ -2,13 +2,14 @@
   "id": 169635379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304527,47.047916,8.304527,47.047916",
     "geom:latitude":47.047916,
     "geom:longitude":8.304527,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pilatusstr. 39",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169635379,
-    "wof:lastmodified":1449034099,
+    "wof:lastmodified":1466209841,
     "wof:name":"Luzerner Regiobank Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304527,47.047916,8.304527,47.047916],
+  "bbox": [
+    8.304527,
+    47.047916,
+    8.304527,
+    47.047916
+],
   "geometry": {"coordinates":[8.304527,47.047916],"type":"Point"}
 }

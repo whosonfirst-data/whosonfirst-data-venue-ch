@@ -2,13 +2,14 @@
   "id": 202681477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.548116,47.551037,7.548116,47.551037",
     "geom:latitude":47.551037,
     "geom:longitude":7.548116,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fabrikstrasse 33",
     "sg:city":"Allschwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202681477,
-    "wof:lastmodified":1449061670,
+    "wof:lastmodified":1466210420,
     "wof:name":"Renova Bautreuhand Ag",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.548116,47.551037,7.548116,47.551037],
+  "bbox": [
+    7.548116,
+    47.551037,
+    7.548116,
+    47.551037
+],
   "geometry": {"coordinates":[7.548116,47.551037],"type":"Point"}
 }

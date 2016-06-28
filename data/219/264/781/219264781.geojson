@@ -2,13 +2,14 @@
   "id": 219264781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.329726,47.389839,8.329726,47.389839",
     "geom:latitude":47.389839,
     "geom:longitude":8.329726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 28",
     "sg:city":"K\u00fcnten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219264781,
-    "wof:lastmodified":1449072676,
+    "wof:lastmodified":1466208929,
     "wof:name":"Dorfgarage Meier & Staubli Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.329726,47.389839,8.329726,47.389839],
+  "bbox": [
+    8.329726,
+    47.389839,
+    8.329726,
+    47.389839
+],
   "geometry": {"coordinates":[8.329726,47.389839],"type":"Point"}
 }

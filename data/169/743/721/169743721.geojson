@@ -2,13 +2,14 @@
   "id": 169743721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.588468,49.68187,3.588468,49.68187",
     "geom:latitude":49.68187,
     "geom:longitude":3.588468,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundesplatz 4",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169743721,
-    "wof:lastmodified":1449035948,
+    "wof:lastmodified":1466211278,
     "wof:name":"Valimpex Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [3.588468,49.68187,3.588468,49.68187],
+  "bbox": [
+    3.588468,
+    49.68187,
+    3.588468,
+    49.68187
+],
   "geometry": {"coordinates":[3.588468,49.68187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236669979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.646861,47.525272,7.646861,47.525272",
     "geom:latitude":47.525272,
     "geom:longitude":7.646861,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 52",
     "sg:city":"Muttenz",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236669979,
-    "wof:lastmodified":1449001962,
+    "wof:lastmodified":1466212779,
     "wof:name":"Bragard Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "catering"
     ]
 },
-  "bbox": [7.646861,47.525272,7.646861,47.525272],
+  "bbox": [
+    7.646861,
+    47.525272,
+    7.646861,
+    47.525272
+],
   "geometry": {"coordinates":[7.646861,47.525272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236734203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.045482,47.393757,8.045482,47.393757",
     "geom:latitude":47.393757,
     "geom:longitude":8.045482,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossplatz 1",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236734203,
-    "wof:lastmodified":1449004743,
+    "wof:lastmodified":1466212976,
     "wof:name":"Porzellanhaus Prantl Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "china"
     ]
 },
-  "bbox": [8.045482,47.393757,8.045482,47.393757],
+  "bbox": [
+    8.045482,
+    47.393757,
+    8.045482,
+    47.393757
+],
   "geometry": {"coordinates":[8.045482,47.393757],"type":"Point"}
 }

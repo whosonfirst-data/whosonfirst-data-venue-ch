@@ -2,13 +2,14 @@
   "id": 219902997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.456313,46.960117,7.456313,46.960117",
     "geom:latitude":46.960117,
     "geom:longitude":7.456313,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Breitfeldstrasse 48 3014 Bern. Postfach",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219902997,
-    "wof:lastmodified":1449073019,
+    "wof:lastmodified":1466212639,
     "wof:name":"Baugenossenschaft M\u00fchle Belp, In Toffen",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.456313,46.960117,7.456313,46.960117],
+  "bbox": [
+    7.456313,
+    46.960117,
+    7.456313,
+    46.960117
+],
   "geometry": {"coordinates":[7.456313,46.960117],"type":"Point"}
 }

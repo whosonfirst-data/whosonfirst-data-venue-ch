@@ -2,13 +2,14 @@
   "id": 186221885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.48287,47.385811,8.48287,47.385811",
     "geom:latitude":47.385811,
     "geom:longitude":8.48287,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eugen Huber-strasse 24 8048 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186221885,
-    "wof:lastmodified":1449051555,
+    "wof:lastmodified":1466209254,
     "wof:name":"St\u00fccheli Fritz, Bauunternehmung",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.48287,47.385811,8.48287,47.385811],
+  "bbox": [
+    8.48287,
+    47.385811,
+    8.48287,
+    47.385811
+],
   "geometry": {"coordinates":[8.48287,47.385811],"type":"Point"}
 }

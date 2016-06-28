@@ -2,13 +2,14 @@
   "id": 203259133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.552959,47.367428,8.552959,47.367428",
     "geom:latitude":47.367428,
     "geom:longitude":8.552959,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beustweg 4",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203259133,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466210121,
     "wof:name":"Dr.med. Ruth E. K\u00e4ser Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.552959,47.367428,8.552959,47.367428],
+  "bbox": [
+    8.552959,
+    47.367428,
+    8.552959,
+    47.367428
+],
   "geometry": {"coordinates":[8.552959,47.367428],"type":"Point"}
 }

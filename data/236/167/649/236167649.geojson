@@ -2,13 +2,14 @@
   "id": 236167649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52552,47.387512,8.52552,47.387512",
     "geom:latitude":47.387512,
     "geom:longitude":8.52552,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrichstrasse 200",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236167649,
-    "wof:lastmodified":1449003351,
+    "wof:lastmodified":1466210453,
     "wof:name":"Dimaz Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52552,47.387512,8.52552,47.387512],
+  "bbox": [
+    8.52552,
+    47.387512,
+    8.52552,
+    47.387512
+],
   "geometry": {"coordinates":[8.52552,47.387512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185994947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.375952,47.423908,9.375952,47.423908",
     "geom:latitude":47.423908,
     "geom:longitude":9.375952,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmiedgasse 19",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185994947,
-    "wof:lastmodified":1449006659,
+    "wof:lastmodified":1466210756,
     "wof:name":"A + E Generalunternehmungs Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.375952,47.423908,9.375952,47.423908],
+  "bbox": [
+    9.375952,
+    47.423908,
+    9.375952,
+    47.423908
+],
   "geometry": {"coordinates":[9.375952,47.423908],"type":"Point"}
 }

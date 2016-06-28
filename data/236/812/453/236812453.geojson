@@ -2,13 +2,14 @@
   "id": 236812453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63718,46.901424,7.63718,46.901424",
     "geom:latitude":46.901424,
     "geom:longitude":7.63718,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mirchelstrasse 21 3506 Grossh\u00f6chstetten. Postfach",
     "sg:city":"Grossh\u00f6chstetten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236812453,
-    "wof:lastmodified":1449001748,
+    "wof:lastmodified":1466212913,
     "wof:name":"H.p. Siegenthaler Ag Bedachungen & Fassadenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63718,46.901424,7.63718,46.901424],
+  "bbox": [
+    7.63718,
+    46.901424,
+    7.63718,
+    46.901424
+],
   "geometry": {"coordinates":[7.63718,46.901424],"type":"Point"}
 }

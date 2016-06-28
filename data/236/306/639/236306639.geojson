@@ -2,13 +2,14 @@
   "id": 236306639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.586193,47.407822,8.586193,47.407822",
     "geom:latitude":47.407822,
     "geom:longitude":8.586193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ueberlandstrasse 393 8051 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236306639,
-    "wof:lastmodified":1449005069,
+    "wof:lastmodified":1466211899,
     "wof:name":"Mandic - Taxi",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.586193,47.407822,8.586193,47.407822],
+  "bbox": [
+    8.586193,
+    47.407822,
+    8.586193,
+    47.407822
+],
   "geometry": {"coordinates":[8.586193,47.407822],"type":"Point"}
 }

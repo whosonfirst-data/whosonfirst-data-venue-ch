@@ -2,13 +2,14 @@
   "id": 220134335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58431,46.196419,7.58431,46.196419",
     "geom:latitude":46.196419,
     "geom:longitude":7.58431,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnmattstrasse 11",
     "sg:city":"Neuenkirch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220134335,
-    "wof:lastmodified":1449074842,
+    "wof:lastmodified":1466210034,
     "wof:name":"Salamin Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.58431,46.196419,7.58431,46.196419],
+  "bbox": [
+    7.58431,
+    46.196419,
+    7.58431,
+    46.196419
+],
   "geometry": {"coordinates":[7.58431,46.196419],"type":"Point"}
 }

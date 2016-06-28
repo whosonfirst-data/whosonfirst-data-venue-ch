@@ -2,13 +2,14 @@
   "id": 185817419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.273505,47.348377,8.273505,47.348377",
     "geom:latitude":47.348377,
     "geom:longitude":8.273505,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 149",
     "sg:city":"Kilchberg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185817419,
-    "wof:lastmodified":1449007908,
+    "wof:lastmodified":1466209233,
     "wof:name":"Emil Huber Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "public"
     ]
 },
-  "bbox": [8.273505,47.348377,8.273505,47.348377],
+  "bbox": [
+    8.273505,
+    47.348377,
+    8.273505,
+    47.348377
+],
   "geometry": {"coordinates":[8.273505,47.348377],"type":"Point"}
 }

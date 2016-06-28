@@ -2,13 +2,14 @@
   "id": 202602103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.052908,47.135593,8.052908,47.135593",
     "geom:latitude":47.135593,
     "geom:longitude":8.052908,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnrain",
     "sg:city":"Grosswangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202602103,
-    "wof:lastmodified":1449061313,
+    "wof:lastmodified":1466209681,
     "wof:name":"Kunz Immobilien-bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.052908,47.135593,8.052908,47.135593],
+  "bbox": [
+    8.052908,
+    47.135593,
+    8.052908,
+    47.135593
+],
   "geometry": {"coordinates":[8.052908,47.135593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219275989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.043015,46.877415,7.043015,46.877415",
     "geom:latitude":46.877415,
     "geom:longitude":7.043015,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Donatyre 10",
     "sg:city":"Avenches",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219275989,
-    "wof:lastmodified":1449071532,
+    "wof:lastmodified":1466209026,
     "wof:name":"Garage Du Faubourg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.043015,46.877415,7.043015,46.877415],
+  "bbox": [
+    7.043015,
+    46.877415,
+    7.043015,
+    46.877415
+],
   "geometry": {"coordinates":[7.043015,46.877415],"type":"Point"}
 }

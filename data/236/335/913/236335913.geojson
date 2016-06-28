@@ -2,13 +2,14 @@
   "id": 236335913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.972619,47.227531,8.972619,47.227531",
     "geom:latitude":47.227531,
     "geom:longitude":8.972619,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 71",
     "sg:city":"Uznach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236335913,
-    "wof:lastmodified":1449003901,
+    "wof:lastmodified":1466212021,
     "wof:name":"Bayard Ag Speer-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.972619,47.227531,8.972619,47.227531],
+  "bbox": [
+    8.972619,
+    47.227531,
+    8.972619,
+    47.227531
+],
   "geometry": {"coordinates":[8.972619,47.227531],"type":"Point"}
 }

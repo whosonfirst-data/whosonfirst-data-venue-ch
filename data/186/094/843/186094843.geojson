@@ -2,13 +2,14 @@
   "id": 186094843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.113048,47.473026,9.113048,47.473026",
     "geom:latitude":47.473026,
     "geom:longitude":9.113048,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronenstrasse 194",
     "sg:city":"Wolfhalden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186094843,
-    "wof:lastmodified":1449052048,
+    "wof:lastmodified":1466210815,
     "wof:name":"Hagmann Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.113048,47.473026,9.113048,47.473026],
+  "bbox": [
+    9.113048,
+    47.473026,
+    9.113048,
+    47.473026
+],
   "geometry": {"coordinates":[9.113048,47.473026],"type":"Point"}
 }

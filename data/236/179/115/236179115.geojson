@@ -2,13 +2,14 @@
   "id": 236179115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.144179,46.191017,6.144179,46.191017",
     "geom:latitude":46.191017,
     "geom:longitude":6.144179,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Augustins Place Des 19 1205 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236179115,
-    "wof:lastmodified":1449004836,
+    "wof:lastmodified":1466210583,
     "wof:name":"Cours Commerciaux De Gen\u00e8ve, Centre D'\u00e9ducation Permanente, De Culture G\u00e9n\u00e9rale Et De Perfectionnement Professionnel",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.144179,46.191017,6.144179,46.191017],
+  "bbox": [
+    6.144179,
+    46.191017,
+    6.144179,
+    46.191017
+],
   "geometry": {"coordinates":[6.144179,46.191017],"type":"Point"}
 }

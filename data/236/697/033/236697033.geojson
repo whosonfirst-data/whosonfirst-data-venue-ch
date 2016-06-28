@@ -2,13 +2,14 @@
   "id": 236697033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.082232,46.225334,6.082232,46.225334",
     "geom:latitude":46.225334,
     "geom:longitude":6.082232,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 1",
     "sg:city":"Oberaach",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236697033,
-    "wof:lastmodified":1449003788,
+    "wof:lastmodified":1466212759,
     "wof:name":"Labatec-pharma Sa",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "pharmacy"
     ]
 },
-  "bbox": [6.082232,46.225334,6.082232,46.225334],
+  "bbox": [
+    6.082232,
+    46.225334,
+    6.082232,
+    46.225334
+],
   "geometry": {"coordinates":[6.082232,46.225334],"type":"Point"}
 }

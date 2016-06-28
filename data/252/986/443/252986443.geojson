@@ -2,13 +2,14 @@
   "id": 252986443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.019243,46.617245,7.019243,46.617245",
     "geom:latitude":46.617245,
     "geom:longitude":7.019243,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1628",
     "sg:city":"Vuadens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252986443,
-    "wof:lastmodified":1449006294,
+    "wof:lastmodified":1466211721,
     "wof:name":"Entreprises Electriques Fribourgeoises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.019243,46.617245,7.019243,46.617245],
+  "bbox": [
+    7.019243,
+    46.617245,
+    7.019243,
+    46.617245
+],
   "geometry": {"coordinates":[7.019243,46.617245],"type":"Point"}
 }

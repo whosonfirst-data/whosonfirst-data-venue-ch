@@ -2,13 +2,14 @@
   "id": 202888185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.93568,46.12418,7.93568,46.12418",
     "geom:latitude":46.12418,
     "geom:longitude":7.93568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vicolo Appiani 1",
     "sg:city":"Locarno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202888185,
-    "wof:lastmodified":1449061687,
+    "wof:lastmodified":1466212077,
     "wof:name":"Andenmatten Stefan Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.93568,46.12418,7.93568,46.12418],
+  "bbox": [
+    7.93568,
+    46.12418,
+    7.93568,
+    46.12418
+],
   "geometry": {"coordinates":[7.93568,46.12418],"type":"Point"}
 }

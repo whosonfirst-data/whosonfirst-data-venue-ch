@@ -2,13 +2,14 @@
   "id": 236606437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.307544,47.550369,9.307544,47.550369",
     "geom:latitude":47.550369,
     "geom:longitude":9.307544,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenstrasse 17",
     "sg:city":"Amriswil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236606437,
-    "wof:lastmodified":1449002059,
+    "wof:lastmodified":1466212687,
     "wof:name":"Menegola Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cable"
     ]
 },
-  "bbox": [9.307544,47.550369,9.307544,47.550369],
+  "bbox": [
+    9.307544,
+    47.550369,
+    9.307544,
+    47.550369
+],
   "geometry": {"coordinates":[9.307544,47.550369],"type":"Point"}
 }

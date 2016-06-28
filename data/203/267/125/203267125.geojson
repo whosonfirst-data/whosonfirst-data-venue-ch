@@ -2,13 +2,14 @@
   "id": 203267125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549829,47.358112,8.549829,47.358112",
     "geom:latitude":47.358112,
     "geom:longitude":8.549829,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellerivestrasse 34",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203267125,
-    "wof:lastmodified":1449026697,
+    "wof:lastmodified":1466210198,
     "wof:name":"Dr.med.albino Triaca Spezialarzt",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.549829,47.358112,8.549829,47.358112],
+  "bbox": [
+    8.549829,
+    47.358112,
+    8.549829,
+    47.358112
+],
   "geometry": {"coordinates":[8.549829,47.358112],"type":"Point"}
 }

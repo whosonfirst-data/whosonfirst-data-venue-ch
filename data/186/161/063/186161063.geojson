@@ -2,13 +2,14 @@
   "id": 186161063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.186121,46.841328,8.186121,46.841328",
     "geom:latitude":46.841328,
     "geom:longitude":8.186121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenweg 26",
     "sg:city":"Giswil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186161063,
-    "wof:lastmodified":1449051425,
+    "wof:lastmodified":1466211531,
     "wof:name":"Niederberger Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.186121,46.841328,8.186121,46.841328],
+  "bbox": [
+    8.186121,
+    46.841328,
+    8.186121,
+    46.841328
+],
   "geometry": {"coordinates":[8.186121,46.841328],"type":"Point"}
 }

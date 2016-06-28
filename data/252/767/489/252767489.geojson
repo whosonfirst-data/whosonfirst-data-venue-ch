@@ -2,13 +2,14 @@
   "id": 252767489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.872438,47.03558,6.872438,47.03558",
     "geom:latitude":47.03558,
     "geom:longitude":6.872438,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e9sidence Les Rochettes 24 Malvilliers 2043 Boudevilliers. Postfach",
     "sg:city":"Boudevilliers",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252767489,
-    "wof:lastmodified":1449005733,
+    "wof:lastmodified":1466209514,
     "wof:name":"World-business, Abela R.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.872438,47.03558,6.872438,47.03558],
+  "bbox": [
+    6.872438,
+    47.03558,
+    6.872438,
+    47.03558
+],
   "geometry": {"coordinates":[6.872438,47.03558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169810013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.6101,47.791592,8.6101,47.791592",
     "geom:latitude":47.791592,
     "geom:longitude":8.6101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossackerstrasse 20 8404 Oberwinterthur. Postfach",
     "sg:city":"Oberwinterthur",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169810013,
-    "wof:lastmodified":1449033645,
+    "wof:lastmodified":1466209138,
     "wof:name":"Trachsel Kleinbagger Vermietung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.6101,47.791592,8.6101,47.791592],
+  "bbox": [
+    8.6101,
+    47.791592,
+    8.6101,
+    47.791592
+],
   "geometry": {"coordinates":[8.6101,47.791592],"type":"Point"}
 }

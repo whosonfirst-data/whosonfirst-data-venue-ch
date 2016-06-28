@@ -2,13 +2,14 @@
   "id": 202524259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.759756,47.32399,8.759756,47.32399",
     "geom:latitude":47.32399,
     "geom:longitude":8.759756,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichhaldenstrasse 5",
     "sg:city":"Bertschikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202524259,
-    "wof:lastmodified":1449060086,
+    "wof:lastmodified":1466208946,
     "wof:name":"Grundbau Zinsli Geotechnik Beratende Ingenieure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.759756,47.32399,8.759756,47.32399],
+  "bbox": [
+    8.759756,
+    47.32399,
+    8.759756,
+    47.32399
+],
   "geometry": {"coordinates":[8.759756,47.32399],"type":"Point"}
 }

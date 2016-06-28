@@ -2,13 +2,14 @@
   "id": 253389153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55025,47.362476,8.55025,47.362476",
     "geom:latitude":47.362476,
     "geom:longitude":8.55025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 52",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253389153,
-    "wof:lastmodified":1449065162,
+    "wof:lastmodified":1466212231,
     "wof:name":"B\u00fcro Mondial W.z\u00fcrcher & Co Discount F\u00fcr B\u00fcroger\u00e4te",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55025,47.362476,8.55025,47.362476],
+  "bbox": [
+    8.55025,
+    47.362476,
+    8.55025,
+    47.362476
+],
   "geometry": {"coordinates":[8.55025,47.362476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186248489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.925551,47.338078,8.925551,47.338078",
     "geom:latitude":47.338078,
     "geom:longitude":8.925551,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Boden",
     "sg:city":"Fischenthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186248489,
-    "wof:lastmodified":1449051851,
+    "wof:lastmodified":1466209461,
     "wof:name":"Wfs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.925551,47.338078,8.925551,47.338078],
+  "bbox": [
+    8.925551,
+    47.338078,
+    8.925551,
+    47.338078
+],
   "geometry": {"coordinates":[8.925551,47.338078],"type":"Point"}
 }

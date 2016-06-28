@@ -2,13 +2,14 @@
   "id": 252877985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.363119,47.359047,8.363119,47.359047",
     "geom:latitude":47.359047,
     "geom:longitude":8.363119,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Bremgartenstrasse 26",
     "sg:city":"Berikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252877985,
-    "wof:lastmodified":1449006162,
+    "wof:lastmodified":1466210748,
     "wof:name":"Walter Koller Konfektion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.363119,47.359047,8.363119,47.359047],
+  "bbox": [
+    8.363119,
+    47.359047,
+    8.363119,
+    47.359047
+],
   "geometry": {"coordinates":[8.363119,47.359047],"type":"Point"}
 }

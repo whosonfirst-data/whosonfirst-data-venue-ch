@@ -2,13 +2,14 @@
   "id": 185815663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.595437,46.744267,7.595437,46.744267",
     "geom:latitude":46.744267,
     "geom:longitude":7.595437,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zelglistr. 2a",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185815663,
-    "wof:lastmodified":1449007405,
+    "wof:lastmodified":1466209217,
     "wof:name":"Bernd Schr\u00d6der Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "agriculture"
     ]
 },
-  "bbox": [7.595437,46.744267,7.595437,46.744267],
+  "bbox": [
+    7.595437,
+    46.744267,
+    7.595437,
+    46.744267
+],
   "geometry": {"coordinates":[7.595437,46.744267],"type":"Point"}
 }

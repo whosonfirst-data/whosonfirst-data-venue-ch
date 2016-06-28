@@ -2,13 +2,14 @@
   "id": 202864609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.33524,47.401955,9.33524,47.401955",
     "geom:latitude":47.401955,
     "geom:longitude":9.33524,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Finsterg\u00e4sschen 352 4323 Wallbach. Postfach",
     "sg:city":"Wallbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202864609,
-    "wof:lastmodified":1449062688,
+    "wof:lastmodified":1466211869,
     "wof:name":"Starch Stauffacher Architektur Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.33524,47.401955,9.33524,47.401955],
+  "bbox": [
+    9.33524,
+    47.401955,
+    9.33524,
+    47.401955
+],
   "geometry": {"coordinates":[9.33524,47.401955],"type":"Point"}
 }

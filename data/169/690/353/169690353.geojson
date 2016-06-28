@@ -2,13 +2,14 @@
   "id": 169690353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.562842,47.316952,9.562842,47.316952",
     "geom:latitude":47.316952,
     "geom:longitude":9.562842,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruggm\u00fchlestrasse 24 9403 Goldach. Postfach 116",
     "sg:city":"Goldach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169690353,
-    "wof:lastmodified":1449034432,
+    "wof:lastmodified":1466210751,
     "wof:name":"Pitec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.562842,47.316952,9.562842,47.316952],
+  "bbox": [
+    9.562842,
+    47.316952,
+    9.562842,
+    47.316952
+],
   "geometry": {"coordinates":[9.562842,47.316952],"type":"Point"}
 }

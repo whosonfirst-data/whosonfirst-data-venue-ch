@@ -2,13 +2,14 @@
   "id": 202838401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.84283,47.334332,7.84283,47.334332",
     "geom:latitude":47.334332,
     "geom:longitude":7.84283,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchrain 3 4614 H\u00e4gendorf. Postfach 456",
     "sg:city":"H\u00e4gendorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202838401,
-    "wof:lastmodified":1449060410,
+    "wof:lastmodified":1466211862,
     "wof:name":"Kurt R\u00f6theli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.84283,47.334332,7.84283,47.334332],
+  "bbox": [
+    7.84283,
+    47.334332,
+    7.84283,
+    47.334332
+],
   "geometry": {"coordinates":[7.84283,47.334332],"type":"Point"}
 }

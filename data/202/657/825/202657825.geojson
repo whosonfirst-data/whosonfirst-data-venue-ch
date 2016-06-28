@@ -2,13 +2,14 @@
   "id": 202657825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.729684,47.500168,8.729684,47.500168",
     "geom:latitude":47.500168,
     "geom:longitude":8.729684,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadthausstrasse 61",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202657825,
-    "wof:lastmodified":1449060388,
+    "wof:lastmodified":1466210197,
     "wof:name":"Perolini + Renz Ag, Dipl. Bauingenieure Eth/sia",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.729684,47.500168,8.729684,47.500168],
+  "bbox": [
+    8.729684,
+    47.500168,
+    8.729684,
+    47.500168
+],
   "geometry": {"coordinates":[8.729684,47.500168],"type":"Point"}
 }

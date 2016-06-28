@@ -2,13 +2,14 @@
   "id": 186582039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535342,47.358318,8.535342,47.358318",
     "geom:latitude":47.358318,
     "geom:longitude":8.535342,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mythenquai 60 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186582039,
-    "wof:lastmodified":1449051825,
+    "wof:lastmodified":1466211873,
     "wof:name":"Angest.-vereinig.der Schweiz. R\u00fcckversicherungs-ges.z\u00fcrich",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535342,47.358318,8.535342,47.358318],
+  "bbox": [
+    8.535342,
+    47.358318,
+    8.535342,
+    47.358318
+],
   "geometry": {"coordinates":[8.535342,47.358318],"type":"Point"}
 }

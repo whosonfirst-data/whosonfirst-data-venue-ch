@@ -2,13 +2,14 @@
   "id": 220195779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.609924,47.217613,8.609924,47.217613",
     "geom:latitude":47.217613,
     "geom:longitude":8.609924,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vorderi Siten Zugerstrasse 30",
     "sg:city":"Hirzel",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220195779,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1466210560,
     "wof:name":"Otto Sch\u00e4rer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.609924,47.217613,8.609924,47.217613],
+  "bbox": [
+    8.609924,
+    47.217613,
+    8.609924,
+    47.217613
+],
   "geometry": {"coordinates":[8.609924,47.217613],"type":"Point"}
 }

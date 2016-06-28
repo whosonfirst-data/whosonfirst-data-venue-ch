@@ -2,13 +2,14 @@
   "id": 219447113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.897458,47.346355,7.897458,47.346355",
     "geom:latitude":47.346355,
     "geom:longitude":7.897458,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6tzmattweg 66",
     "sg:city":"Olten",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219447113,
-    "wof:lastmodified":1449072882,
+    "wof:lastmodified":1466210610,
     "wof:name":"Sio Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "balcony"
     ]
 },
-  "bbox": [7.897458,47.346355,7.897458,47.346355],
+  "bbox": [
+    7.897458,
+    47.346355,
+    7.897458,
+    47.346355
+],
   "geometry": {"coordinates":[7.897458,47.346355],"type":"Point"}
 }

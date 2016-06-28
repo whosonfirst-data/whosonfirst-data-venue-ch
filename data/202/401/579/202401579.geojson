@@ -2,13 +2,14 @@
   "id": 202401579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.639992,46.7784,7.639992,46.7784",
     "geom:latitude":46.7784,
     "geom:longitude":7.639992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zelgstrasse 44",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202401579,
-    "wof:lastmodified":1449062285,
+    "wof:lastmodified":1466209740,
     "wof:name":"Bautechnisches B\u00fcro, Heinz Schmid",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.639992,46.7784,7.639992,46.7784],
+  "bbox": [
+    7.639992,
+    46.7784,
+    7.639992,
+    46.7784
+],
   "geometry": {"coordinates":[7.639992,46.7784],"type":"Point"}
 }

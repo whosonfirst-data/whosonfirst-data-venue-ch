@@ -2,13 +2,14 @@
   "id": 219605525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.05318,47.4547,8.05318,47.4547",
     "geom:latitude":47.4547,
     "geom:longitude":8.05318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 45",
     "sg:city":"Emmetten",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219605525,
-    "wof:lastmodified":1449072112,
+    "wof:lastmodified":1466211800,
     "wof:name":"Raiffeisenbank Erlinsbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.05318,47.4547,8.05318,47.4547],
+  "bbox": [
+    8.05318,
+    47.4547,
+    8.05318,
+    47.4547
+],
   "geometry": {"coordinates":[8.05318,47.4547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185974129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.461493,47.483528,7.461493,47.483528",
     "geom:latitude":47.483528,
     "geom:longitude":7.461493,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstrasse 2",
     "sg:city":"Rodersdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185974129,
-    "wof:lastmodified":1449008010,
+    "wof:lastmodified":1466210552,
     "wof:name":"Gartenbau Hefel Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.461493,47.483528,7.461493,47.483528],
+  "bbox": [
+    7.461493,
+    47.483528,
+    7.461493,
+    47.483528
+],
   "geometry": {"coordinates":[7.461493,47.483528],"type":"Point"}
 }

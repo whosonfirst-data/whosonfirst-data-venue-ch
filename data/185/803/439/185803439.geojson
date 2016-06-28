@@ -2,13 +2,14 @@
   "id": 185803439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.076668,46.996201,9.076668,46.996201",
     "geom:latitude":46.996201,
     "geom:longitude":9.076668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tschachen 1",
     "sg:city":"Schwanden",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185803439,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1466209146,
     "wof:name":"Inauen - Sch\u00e4tti Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "lift"
     ]
 },
-  "bbox": [9.076668,46.996201,9.076668,46.996201],
+  "bbox": [
+    9.076668,
+    46.996201,
+    9.076668,
+    46.996201
+],
   "geometry": {"coordinates":[9.076668,46.996201],"type":"Point"}
 }

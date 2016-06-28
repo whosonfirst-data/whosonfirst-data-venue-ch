@@ -2,13 +2,14 @@
   "id": 203361285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453442,46.948009,7.453442,46.948009",
     "geom:latitude":46.948009,
     "geom:longitude":7.453442,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerechtigkeitsgasse 53",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203361285,
-    "wof:lastmodified":1449026343,
+    "wof:lastmodified":1466211143,
     "wof:name":"Dr.med.kaspar Weber Spezialarzt Fmh",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453442,46.948009,7.453442,46.948009],
+  "bbox": [
+    7.453442,
+    46.948009,
+    7.453442,
+    46.948009
+],
   "geometry": {"coordinates":[7.453442,46.948009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202723349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.381992,47.41573,9.381992,47.41573",
     "geom:latitude":47.41573,
     "geom:longitude":9.381992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quellenstrasse 2",
     "sg:city":"Starrkirch-wil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202723349,
-    "wof:lastmodified":1449061598,
+    "wof:lastmodified":1466210810,
     "wof:name":"Studer + Strauss Bauphysik",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.381992,47.41573,9.381992,47.41573],
+  "bbox": [
+    9.381992,
+    47.41573,
+    9.381992,
+    47.41573
+],
   "geometry": {"coordinates":[9.381992,47.41573],"type":"Point"}
 }

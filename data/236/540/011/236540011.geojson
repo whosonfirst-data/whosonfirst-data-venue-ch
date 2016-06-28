@@ -2,13 +2,14 @@
   "id": 236540011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.41588,46.923847,7.41588,46.923847",
     "geom:latitude":46.923847,
     "geom:longitude":7.41588,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzenburgstrasse 261",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236540011,
-    "wof:lastmodified":1449002857,
+    "wof:lastmodified":1466212674,
     "wof:name":"Druckerei Papeterie Rhyn Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "book"
     ]
 },
-  "bbox": [7.41588,46.923847,7.41588,46.923847],
+  "bbox": [
+    7.41588,
+    46.923847,
+    7.41588,
+    46.923847
+],
   "geometry": {"coordinates":[7.41588,46.923847],"type":"Point"}
 }

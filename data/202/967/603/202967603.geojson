@@ -2,13 +2,14 @@
   "id": 202967603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.510419,46.31184,7.510419,46.31184",
     "geom:latitude":46.31184,
     "geom:longitude":7.510419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Au Cholaic Bluche",
     "sg:city":"Randogne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202967603,
-    "wof:lastmodified":1449062459,
+    "wof:lastmodified":1466212367,
     "wof:name":"Claude Salamin Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.510419,46.31184,7.510419,46.31184],
+  "bbox": [
+    7.510419,
+    46.31184,
+    7.510419,
+    46.31184
+],
   "geometry": {"coordinates":[7.510419,46.31184],"type":"Point"}
 }

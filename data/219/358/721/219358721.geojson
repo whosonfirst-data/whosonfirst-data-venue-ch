@@ -2,13 +2,14 @@
   "id": 219358721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.380862,46.969219,7.380862,46.969219",
     "geom:latitude":46.969219,
     "geom:longitude":7.380862,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttiweg 11 3032 Hinterkappelen. Postfach 123",
     "sg:city":"Hinterkappelen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219358721,
-    "wof:lastmodified":1449071872,
+    "wof:lastmodified":1466209766,
     "wof:name":"Erwin G\u00f6tschmann Carrosserie & Spritzwerk",
     "wof:parent_id":85800049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.380862,46.969219,7.380862,46.969219],
+  "bbox": [
+    7.380862,
+    46.969219,
+    7.380862,
+    46.969219
+],
   "geometry": {"coordinates":[7.380862,46.969219],"type":"Point"}
 }

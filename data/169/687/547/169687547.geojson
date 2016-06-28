@@ -2,13 +2,14 @@
   "id": 169687547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.786611,47.308365,8.786611,47.308365",
     "geom:latitude":47.308365,
     "geom:longitude":8.786611,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebrainstrasse 22",
     "sg:city":"Gr\u00fct",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169687547,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466210652,
     "wof:name":"Basec Software Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "enterprise"
     ]
 },
-  "bbox": [8.786611,47.308365,8.786611,47.308365],
+  "bbox": [
+    8.786611,
+    47.308365,
+    8.786611,
+    47.308365
+],
   "geometry": {"coordinates":[8.786611,47.308365],"type":"Point"}
 }

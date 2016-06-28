@@ -2,13 +2,14 @@
   "id": 219318825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.019726,47.673622,9.019726,47.673622",
     "geom:latitude":47.673622,
     "geom:longitude":9.019726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugasse 175",
     "sg:city":"Berlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219318825,
-    "wof:lastmodified":1449071178,
+    "wof:lastmodified":1466209426,
     "wof:name":"Waldemar Sonnberger Zentrum-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.019726,47.673622,9.019726,47.673622],
+  "bbox": [
+    9.019726,
+    47.673622,
+    9.019726,
+    47.673622
+],
   "geometry": {"coordinates":[9.019726,47.673622],"type":"Point"}
 }

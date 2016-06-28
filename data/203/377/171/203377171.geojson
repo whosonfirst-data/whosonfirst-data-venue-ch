@@ -2,13 +2,14 @@
   "id": 203377171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308942,47.062729,8.308942,47.062729",
     "geom:latitude":47.062729,
     "geom:longitude":8.308942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maihofstrasse 45",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203377171,
-    "wof:lastmodified":1449025635,
+    "wof:lastmodified":1466211301,
     "wof:name":"Dr.med.markus Seitz Spezialarzt Fmh",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.308942,47.062729,8.308942,47.062729],
+  "bbox": [
+    8.308942,
+    47.062729,
+    8.308942,
+    47.062729
+],
   "geometry": {"coordinates":[8.308942,47.062729],"type":"Point"}
 }

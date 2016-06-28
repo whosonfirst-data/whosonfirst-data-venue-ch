@@ -2,13 +2,14 @@
   "id": 186575545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.235977,47.127369,7.235977,47.127369",
     "geom:latitude":47.127369,
     "geom:longitude":7.235977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossstrasse 15",
     "sg:city":"Nidau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186575545,
-    "wof:lastmodified":1449051151,
+    "wof:lastmodified":1466211956,
     "wof:name":"Fink & Sohn Pr\u00e4zisionsmechanik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apparatus"
     ]
 },
-  "bbox": [7.235977,47.127369,7.235977,47.127369],
+  "bbox": [
+    7.235977,
+    47.127369,
+    7.235977,
+    47.127369
+],
   "geometry": {"coordinates":[7.235977,47.127369],"type":"Point"}
 }

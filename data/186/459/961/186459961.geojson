@@ -2,13 +2,14 @@
   "id": 186459961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.800118,47.555317,7.800118,47.555317",
     "geom:latitude":47.555317,
     "geom:longitude":7.800118,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 38",
     "sg:city":"Ch\u00e2tel-st-denis",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186459961,
-    "wof:lastmodified":1449051466,
+    "wof:lastmodified":1466211087,
     "wof:name":"Stamm Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.800118,47.555317,7.800118,47.555317],
+  "bbox": [
+    7.800118,
+    47.555317,
+    7.800118,
+    47.555317
+],
   "geometry": {"coordinates":[7.800118,47.555317],"type":"Point"}
 }

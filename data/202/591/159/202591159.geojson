@@ -2,13 +2,14 @@
   "id": 202591159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.759643,47.320965,8.759643,47.320965",
     "geom:latitude":47.320965,
     "geom:longitude":8.759643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schinbergstrasse 3 8614 Bertschikon. Postfach",
     "sg:city":"Bertschikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202591159,
-    "wof:lastmodified":1449061468,
+    "wof:lastmodified":1466209581,
     "wof:name":"Kaspar Rolf, Ingenieurb\u00fcro Und Sportst\u00e4ttenplanung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.759643,47.320965,8.759643,47.320965],
+  "bbox": [
+    8.759643,
+    47.320965,
+    8.759643,
+    47.320965
+],
   "geometry": {"coordinates":[8.759643,47.320965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169688489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.567114,46.708752,6.567114,46.708752",
     "geom:latitude":46.708752,
     "geom:longitude":6.567114,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L'industrie 10 1373 Chavornay Case Postale 47",
     "sg:city":"Chavornay",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169688489,
-    "wof:lastmodified":1449033923,
+    "wof:lastmodified":1466210693,
     "wof:name":"Dutoit Sa Chavornay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.567114,46.708752,6.567114,46.708752],
+  "bbox": [
+    6.567114,
+    46.708752,
+    6.567114,
+    46.708752
+],
   "geometry": {"coordinates":[6.567114,46.708752],"type":"Point"}
 }

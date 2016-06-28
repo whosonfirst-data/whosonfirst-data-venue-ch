@@ -2,13 +2,14 @@
   "id": 202725323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.98495,45.863194,8.98495,45.863194",
     "geom:latitude":45.863194,
     "geom:longitude":8.98495,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Selva 48",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202725323,
-    "wof:lastmodified":1449060732,
+    "wof:lastmodified":1466210825,
     "wof:name":"Studio D'architettura Casali E Casali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.98495,45.863194,8.98495,45.863194],
+  "bbox": [
+    8.98495,
+    45.863194,
+    8.98495,
+    45.863194
+],
   "geometry": {"coordinates":[8.98495,45.863194],"type":"Point"}
 }

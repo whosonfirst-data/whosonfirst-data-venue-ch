@@ -2,13 +2,14 @@
   "id": 203312843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.434984,46.94632,7.434984,46.94632",
     "geom:latitude":46.94632,
     "geom:longitude":7.434984,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seilerstrasse 8",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203312843,
-    "wof:lastmodified":1449025882,
+    "wof:lastmodified":1466210662,
     "wof:name":"Dr.med.eugen Sacha Spezialarzt Fmh",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.434984,46.94632,7.434984,46.94632],
+  "bbox": [
+    7.434984,
+    46.94632,
+    7.434984,
+    46.94632
+],
   "geometry": {"coordinates":[7.434984,46.94632],"type":"Point"}
 }

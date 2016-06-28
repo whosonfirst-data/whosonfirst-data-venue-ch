@@ -2,13 +2,14 @@
   "id": 202552611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.626859,46.51672,6.626859,46.51672",
     "geom:latitude":46.51672,
     "geom:longitude":6.626859,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Simplon Rue Du 34 1006 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202552611,
-    "wof:lastmodified":1449061175,
+    "wof:lastmodified":1466209219,
     "wof:name":"Iec Institut Pour L'economie Et La Construction Sa Activit\u00e9 Dans Le Dom. De L'architecture, De La Construction Etc",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.626859,46.51672,6.626859,46.51672],
+  "bbox": [
+    6.626859,
+    46.51672,
+    6.626859,
+    46.51672
+],
   "geometry": {"coordinates":[6.626859,46.51672],"type":"Point"}
 }

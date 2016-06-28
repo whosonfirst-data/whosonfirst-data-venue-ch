@@ -2,13 +2,14 @@
   "id": 202665053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.919854,47.37933,7.919854,47.37933",
     "geom:latitude":47.37933,
     "geom:longitude":7.919854,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfifferackerstrasse 106",
     "sg:city":"Lostorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202665053,
-    "wof:lastmodified":1449060887,
+    "wof:lastmodified":1466210267,
     "wof:name":"Plan 2000 Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.919854,47.37933,7.919854,47.37933],
+  "bbox": [
+    7.919854,
+    47.37933,
+    7.919854,
+    47.37933
+],
   "geometry": {"coordinates":[7.919854,47.37933],"type":"Point"}
 }

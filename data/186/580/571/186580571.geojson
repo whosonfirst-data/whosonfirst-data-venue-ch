@@ -2,13 +2,14 @@
   "id": 186580571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.473175,46.971142,7.473175,46.971142",
     "geom:latitude":46.971142,
     "geom:longitude":7.473175,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nelkenweg 6",
     "sg:city":"Ittigen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186580571,
-    "wof:lastmodified":1449052176,
+    "wof:lastmodified":1466211863,
     "wof:name":"Net-connect Gmbh",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "provider"
     ]
 },
-  "bbox": [7.473175,46.971142,7.473175,46.971142],
+  "bbox": [
+    7.473175,
+    46.971142,
+    7.473175,
+    46.971142
+],
   "geometry": {"coordinates":[7.473175,46.971142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202583305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.884558,46.982208,6.884558,46.982208",
     "geom:latitude":46.982208,
     "geom:longitude":6.884558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bosson-b\u00e9zard 18",
     "sg:city":"Auvernier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202583305,
-    "wof:lastmodified":1449062124,
+    "wof:lastmodified":1466209505,
     "wof:name":"Jacques Soguel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.884558,46.982208,6.884558,46.982208],
+  "bbox": [
+    6.884558,
+    46.982208,
+    6.884558,
+    46.982208
+],
   "geometry": {"coordinates":[6.884558,46.982208],"type":"Point"}
 }

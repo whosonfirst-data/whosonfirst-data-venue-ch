@@ -2,13 +2,14 @@
   "id": 253082625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.586749,47.191174,7.586749,47.191174",
     "geom:latitude":47.191174,
     "geom:longitude":7.586749,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 107",
     "sg:city":"Derendingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253082625,
-    "wof:lastmodified":1449062901,
+    "wof:lastmodified":1466209742,
     "wof:name":"Franz Heri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.586749,47.191174,7.586749,47.191174],
+  "bbox": [
+    7.586749,
+    47.191174,
+    7.586749,
+    47.191174
+],
   "geometry": {"coordinates":[7.586749,47.191174],"type":"Point"}
 }

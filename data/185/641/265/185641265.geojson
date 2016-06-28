@@ -2,13 +2,14 @@
   "id": 185641265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.369036,47.423637,9.369036,47.423637",
     "geom:latitude":47.423637,
     "geom:longitude":9.369036,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Niederlenzer Kirchweg 3",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185641265,
-    "wof:lastmodified":1449007842,
+    "wof:lastmodified":1466210099,
     "wof:name":"Cactus Ag Agentur F\u00fcr Gestaltung Und Kommunikation",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [9.369036,47.423637,9.369036,47.423637],
+  "bbox": [
+    9.369036,
+    47.423637,
+    9.369036,
+    47.423637
+],
   "geometry": {"coordinates":[9.369036,47.423637],"type":"Point"}
 }

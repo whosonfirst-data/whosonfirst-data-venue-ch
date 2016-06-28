@@ -2,13 +2,14 @@
   "id": 253281685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.309001,46.517162,7.309001,46.517162",
     "geom:latitude":46.517162,
     "geom:longitude":7.309001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse",
     "sg:city":"Saanenm\u00f6ser",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253281685,
-    "wof:lastmodified":1449065326,
+    "wof:lastmodified":1466211904,
     "wof:name":"Harald Godderidge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.309001,46.517162,7.309001,46.517162],
+  "bbox": [
+    7.309001,
+    46.517162,
+    7.309001,
+    46.517162
+],
   "geometry": {"coordinates":[7.309001,46.517162],"type":"Point"}
 }

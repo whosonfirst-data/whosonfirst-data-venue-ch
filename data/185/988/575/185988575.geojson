@@ -2,13 +2,14 @@
   "id": 185988575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.56777,47.205929,7.56777,47.205929",
     "geom:latitude":47.205929,
     "geom:longitude":7.56777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schachenweg 14c",
     "sg:city":"Zuchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185988575,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466210701,
     "wof:name":"Wyss Samen & Pflanzen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.56777,47.205929,7.56777,47.205929],
+  "bbox": [
+    7.56777,
+    47.205929,
+    7.56777,
+    47.205929
+],
   "geometry": {"coordinates":[7.56777,47.205929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219601653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.25687,47.569569,8.25687,47.569569",
     "geom:latitude":47.569569,
     "geom:longitude":8.25687,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 8",
     "sg:city":"B\u00f6singen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219601653,
-    "wof:lastmodified":1449071973,
+    "wof:lastmodified":1466211790,
     "wof:name":"Raiffeisenbank B\u00f6ttstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.25687,47.569569,8.25687,47.569569],
+  "bbox": [
+    8.25687,
+    47.569569,
+    8.25687,
+    47.569569
+],
   "geometry": {"coordinates":[8.25687,47.569569],"type":"Point"}
 }

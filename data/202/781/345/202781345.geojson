@@ -2,13 +2,14 @@
   "id": 202781345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.692019,47.258392,8.692019,47.258392",
     "geom:latitude":47.258392,
     "geom:longitude":8.692019,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gl\u00e4rnischstrasse 153 8708 M\u00e4nnedorf. Postfach",
     "sg:city":"M\u00e4nnedorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202781345,
-    "wof:lastmodified":1449060588,
+    "wof:lastmodified":1466211351,
     "wof:name":"Ag Werner Gehry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.692019,47.258392,8.692019,47.258392],
+  "bbox": [
+    8.692019,
+    47.258392,
+    8.692019,
+    47.258392
+],
   "geometry": {"coordinates":[8.692019,47.258392],"type":"Point"}
 }

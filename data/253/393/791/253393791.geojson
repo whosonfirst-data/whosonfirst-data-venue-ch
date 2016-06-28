@@ -2,13 +2,14 @@
   "id": 253393791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.302614,47.048328,8.302614,47.048328",
     "geom:latitude":47.048328,
     "geom:longitude":8.302614,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 3 7323 Wangs. Postfach 101",
     "sg:city":"Vilters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253393791,
-    "wof:lastmodified":1449063754,
+    "wof:lastmodified":1466212255,
     "wof:name":"B\u00fcro V\u00f6gtlin Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.302614,47.048328,8.302614,47.048328],
+  "bbox": [
+    8.302614,
+    47.048328,
+    8.302614,
+    47.048328
+],
   "geometry": {"coordinates":[8.302614,47.048328],"type":"Point"}
 }

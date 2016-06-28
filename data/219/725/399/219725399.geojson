@@ -2,13 +2,14 @@
   "id": 219725399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549074,47.050339,8.549074,47.050339",
     "geom:latitude":47.050339,
     "geom:longitude":8.549074,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstr. 13",
     "sg:city":"Goldau",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219725399,
-    "wof:lastmodified":1449071253,
+    "wof:lastmodified":1466212296,
     "wof:name":"Sparkasse Schwyz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.549074,47.050339,8.549074,47.050339],
+  "bbox": [
+    8.549074,
+    47.050339,
+    8.549074,
+    47.050339
+],
   "geometry": {"coordinates":[8.549074,47.050339],"type":"Point"}
 }

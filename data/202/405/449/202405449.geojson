@@ -2,13 +2,14 @@
   "id": 202405449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548118,47.42057,8.548118,47.42057",
     "geom:latitude":47.42057,
     "geom:longitude":8.548118,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landhusweg 6 8052 Z\u00fcrich. Postfach 717",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202405449,
-    "wof:lastmodified":1449062447,
+    "wof:lastmodified":1466209812,
     "wof:name":"Beratende Ingenieure Scherler Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548118,47.42057,8.548118,47.42057],
+  "bbox": [
+    8.548118,
+    47.42057,
+    8.548118,
+    47.42057
+],
   "geometry": {"coordinates":[8.548118,47.42057],"type":"Point"}
 }

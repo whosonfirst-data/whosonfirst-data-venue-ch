@@ -2,13 +2,14 @@
   "id": 236761763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.30818,47.049599,8.30818,47.049599",
     "geom:latitude":47.049599,
     "geom:longitude":8.30818,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pilatusstr. 9-11",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236761763,
-    "wof:lastmodified":1449004302,
+    "wof:lastmodified":1466212876,
     "wof:name":"Modehaus Gr\u00c4nicher Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothes"
     ]
 },
-  "bbox": [8.30818,47.049599,8.30818,47.049599],
+  "bbox": [
+    8.30818,
+    47.049599,
+    8.30818,
+    47.049599
+],
   "geometry": {"coordinates":[8.30818,47.049599],"type":"Point"}
 }

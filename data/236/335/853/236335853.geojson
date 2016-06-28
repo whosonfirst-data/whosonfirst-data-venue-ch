@@ -2,13 +2,14 @@
   "id": 236335853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.158673,46.445095,6.158673,46.445095",
     "geom:latitude":46.445095,
     "geom:longitude":6.158673,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Nyon 1",
     "sg:city":"St-cergue",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236335853,
-    "wof:lastmodified":1449003902,
+    "wof:lastmodified":1466211909,
     "wof:name":"Garage Du Levant, St\u00e4ger Michel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.158673,46.445095,6.158673,46.445095],
+  "bbox": [
+    6.158673,
+    46.445095,
+    6.158673,
+    46.445095
+],
   "geometry": {"coordinates":[6.158673,46.445095],"type":"Point"}
 }

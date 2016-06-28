@@ -2,13 +2,14 @@
   "id": 252822513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.154752,46.201145,6.154752,46.201145",
     "geom:latitude":46.201145,
     "geom:longitude":6.154752,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Helv\u00e9tique Bvd 30 1207 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252822513,
-    "wof:lastmodified":1449006469,
+    "wof:lastmodified":1466210156,
     "wof:name":"Daviss Sa.",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.154752,46.201145,6.154752,46.201145],
+  "bbox": [
+    6.154752,
+    46.201145,
+    6.154752,
+    46.201145
+],
   "geometry": {"coordinates":[6.154752,46.201145],"type":"Point"}
 }

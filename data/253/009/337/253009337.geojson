@@ -2,13 +2,14 @@
   "id": 253009337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.500206,47.401642,8.500206,47.401642",
     "geom:latitude":47.401642,
     "geom:longitude":8.500206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmattalstrasse 167",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253009337,
-    "wof:lastmodified":1449065750,
+    "wof:lastmodified":1466209037,
     "wof:name":"Blumen Auraflor",
     "wof:parent_id":85800071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.500206,47.401642,8.500206,47.401642],
+  "bbox": [
+    8.500206,
+    47.401642,
+    8.500206,
+    47.401642
+],
   "geometry": {"coordinates":[8.500206,47.401642],"type":"Point"}
 }

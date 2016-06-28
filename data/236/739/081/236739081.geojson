@@ -2,13 +2,14 @@
   "id": 236739081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.621343,46.519176,6.621343,46.519176",
     "geom:latitude":46.519176,
     "geom:longitude":6.621343,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue C\u00e9cil 6",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236739081,
-    "wof:lastmodified":1449002969,
+    "wof:lastmodified":1466212852,
     "wof:name":"Pierre Studer Chiropraticien",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.621343,46.519176,6.621343,46.519176],
+  "bbox": [
+    6.621343,
+    46.519176,
+    6.621343,
+    46.519176
+],
   "geometry": {"coordinates":[6.621343,46.519176],"type":"Point"}
 }

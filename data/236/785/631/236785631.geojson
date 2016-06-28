@@ -2,13 +2,14 @@
   "id": 236785631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.2167,51.116699,7.2167,51.116699",
     "geom:latitude":51.116699,
     "geom:longitude":7.2167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Berg 10 Postfach 84",
     "sg:city":"Russikon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236785631,
-    "wof:lastmodified":1449004566,
+    "wof:lastmodified":1466212891,
     "wof:name":"Gartencenter H. Waffenschmidt",
     "wof:parent_id":85794913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [7.2167,51.116699,7.2167,51.116699],
+  "bbox": [
+    7.2167,
+    51.116699,
+    7.2167,
+    51.116699
+],
   "geometry": {"coordinates":[7.2167,51.116699],"type":"Point"}
 }

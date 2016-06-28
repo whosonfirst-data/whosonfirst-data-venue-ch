@@ -2,13 +2,14 @@
   "id": 185773391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.800637,46.478436,8.800637,46.478436",
     "geom:latitude":46.478436,
     "geom:longitude":8.800637,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Stefano Franschini 6760 Faido. Postfach Caselle Postale 95",
     "sg:city":"Faido",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185773391,
-    "wof:lastmodified":1449006801,
+    "wof:lastmodified":1466208935,
     "wof:name":"Gendotti & Notari Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.800637,46.478436,8.800637,46.478436],
+  "bbox": [
+    8.800637,
+    46.478436,
+    8.800637,
+    46.478436
+],
   "geometry": {"coordinates":[8.800637,46.478436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236052175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.893027,47.351116,7.893027,47.351116",
     "geom:latitude":47.351116,
     "geom:longitude":7.893027,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altmattweg 4",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236052175,
-    "wof:lastmodified":1449003092,
+    "wof:lastmodified":1466209349,
     "wof:name":"Niederer Haustechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.893027,47.351116,7.893027,47.351116],
+  "bbox": [
+    7.893027,
+    47.351116,
+    7.893027,
+    47.351116
+],
   "geometry": {"coordinates":[7.893027,47.351116],"type":"Point"}
 }

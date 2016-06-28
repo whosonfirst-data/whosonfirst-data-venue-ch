@@ -2,13 +2,14 @@
   "id": 185622393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.413383,46.493099,-90.413383,46.493099",
     "geom:latitude":46.493099,
     "geom:longitude":-90.413383,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ec\u00f4ne Route D' 1907 Mayens-de-saxon. Postfach",
     "sg:city":"Mayens-de-saxon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185622393,
-    "wof:lastmodified":1449007937,
+    "wof:lastmodified":1466209773,
     "wof:name":"Fructinvest Sa Terres Agricoles, Gestion D'immeubles, En Rapp. Avec L'acriculture, Notamm. La Commercialisation De Fruits Etc.",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.413383,46.493099,-90.413383,46.493099],
+  "bbox": [
+    -90.413383,
+    46.493099,
+    -90.413383,
+    46.493099
+],
   "geometry": {"coordinates":[-90.413383,46.493099],"type":"Point"}
 }

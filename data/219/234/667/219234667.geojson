@@ -2,13 +2,14 @@
   "id": 219234667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.795181,47.254169,8.795181,47.254169",
     "geom:latitude":47.254169,
     "geom:longitude":8.795181,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schachenstrasse 39b",
     "sg:city":"Wolfhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219234667,
-    "wof:lastmodified":1449073716,
+    "wof:lastmodified":1466211333,
     "wof:name":"Capaulginn Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.795181,47.254169,8.795181,47.254169],
+  "bbox": [
+    8.795181,
+    47.254169,
+    8.795181,
+    47.254169
+],
   "geometry": {"coordinates":[8.795181,47.254169],"type":"Point"}
 }

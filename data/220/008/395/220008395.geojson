@@ -2,13 +2,14 @@
   "id": 220008395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.000582,47.199776,9.000582,47.199776",
     "geom:latitude":47.199776,
     "geom:longitude":9.000582,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Matte",
     "sg:city":"Gohl",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220008395,
-    "wof:lastmodified":1449074275,
+    "wof:lastmodified":1466208953,
     "wof:name":"Ernst Steiner Schreinerarbeiten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.000582,47.199776,9.000582,47.199776],
+  "bbox": [
+    9.000582,
+    47.199776,
+    9.000582,
+    47.199776
+],
   "geometry": {"coordinates":[9.000582,47.199776],"type":"Point"}
 }

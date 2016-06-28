@@ -2,13 +2,14 @@
   "id": 185991209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.067403,46.093399,7.067403,46.093399",
     "geom:latitude":46.093399,
     "geom:longitude":7.067403,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Surfr\u00eate 24bis",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185991209,
-    "wof:lastmodified":1449007109,
+    "wof:lastmodified":1466210724,
     "wof:name":"Bollin Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.067403,46.093399,7.067403,46.093399],
+  "bbox": [
+    7.067403,
+    46.093399,
+    7.067403,
+    46.093399
+],
   "geometry": {"coordinates":[7.067403,46.093399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202696953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.658789,46.544151,6.658789,46.544151",
     "geom:latitude":46.544151,
     "geom:longitude":6.658789,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Croisettes Chemin Des 28",
     "sg:city":"Epalinges",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202696953,
-    "wof:lastmodified":1449060303,
+    "wof:lastmodified":1466210559,
     "wof:name":"Sanic Soci\u00e9t\u00e9 Jacques Aebi Et Pierre Andr\u00e9 Narbel Ing\u00e9nieurs Civils S\u00e0rl",
     "wof:parent_id":85862347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.658789,46.544151,6.658789,46.544151],
+  "bbox": [
+    6.658789,
+    46.544151,
+    6.658789,
+    46.544151
+],
   "geometry": {"coordinates":[6.658789,46.544151],"type":"Point"}
 }

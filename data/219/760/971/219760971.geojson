@@ -2,13 +2,14 @@
   "id": 219760971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56191,47.367954,8.56191,47.367954",
     "geom:latitude":47.367954,
     "geom:longitude":8.56191,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Samariterstrasse 5",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219760971,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466212400,
     "wof:name":"Netvertising Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "banner"
     ]
 },
-  "bbox": [8.56191,47.367954,8.56191,47.367954],
+  "bbox": [
+    8.56191,
+    47.367954,
+    8.56191,
+    47.367954
+],
   "geometry": {"coordinates":[8.56191,47.367954],"type":"Point"}
 }

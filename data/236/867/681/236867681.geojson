@@ -2,13 +2,14 @@
   "id": 236867681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.7578,47.30732,8.7578,47.30732",
     "geom:latitude":47.30732,
     "geom:longitude":8.7578,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 40",
     "sg:city":"Gipf-oberfrick",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236867681,
-    "wof:lastmodified":1449003013,
+    "wof:lastmodified":1466212944,
     "wof:name":"Raiffeisenbank Gossau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.7578,47.30732,8.7578,47.30732],
+  "bbox": [
+    8.7578,
+    47.30732,
+    8.7578,
+    47.30732
+],
   "geometry": {"coordinates":[8.7578,47.30732],"type":"Point"}
 }

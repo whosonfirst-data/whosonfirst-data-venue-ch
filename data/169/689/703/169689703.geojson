@@ -2,13 +2,14 @@
   "id": 169689703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.50746,46.518547,6.50746,46.518547",
     "geom:latitude":46.518547,
     "geom:longitude":6.50746,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Eugene Lance 38 1212 Grand-lancy Case Postale 584",
     "sg:city":"Grand-lancy",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169689703,
-    "wof:lastmodified":1449035409,
+    "wof:lastmodified":1466210708,
     "wof:name":"Cfg Sa",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.50746,46.518547,6.50746,46.518547],
+  "bbox": [
+    6.50746,
+    46.518547,
+    6.50746,
+    46.518547
+],
   "geometry": {"coordinates":[6.50746,46.518547],"type":"Point"}
 }

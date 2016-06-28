@@ -2,13 +2,14 @@
   "id": 236246567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.043379,47.355705,8.043379,47.355705",
     "geom:latitude":47.355705,
     "geom:longitude":8.043379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Iseg\u00fcetlistrasse 57 5036 Oberentfelden. Postfach",
     "sg:city":"Oberentfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236246567,
-    "wof:lastmodified":1449001845,
+    "wof:lastmodified":1466211330,
     "wof:name":"Warp Production, Sonderegger & Livrano Tonstudio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.043379,47.355705,8.043379,47.355705],
+  "bbox": [
+    8.043379,
+    47.355705,
+    8.043379,
+    47.355705
+],
   "geometry": {"coordinates":[8.043379,47.355705],"type":"Point"}
 }

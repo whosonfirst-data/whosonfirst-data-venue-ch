@@ -2,13 +2,14 @@
   "id": 253033495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.160792,47.345665,8.160792,47.345665",
     "geom:latitude":47.345665,
     "geom:longitude":8.160792,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reussgasse 3",
     "sg:city":"Seon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253033495,
-    "wof:lastmodified":1449063421,
+    "wof:lastmodified":1466209270,
     "wof:name":"Sarah Walti Blumengesch\u00e4ft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.160792,47.345665,8.160792,47.345665],
+  "bbox": [
+    8.160792,
+    47.345665,
+    8.160792,
+    47.345665
+],
   "geometry": {"coordinates":[8.160792,47.345665],"type":"Point"}
 }

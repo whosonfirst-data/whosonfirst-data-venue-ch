@@ -2,13 +2,14 @@
   "id": 236710947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.878305,47.552067,8.878305,47.552067",
     "geom:latitude":47.552067,
     "geom:longitude":8.878305,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 32",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236710947,
-    "wof:lastmodified":1449001830,
+    "wof:lastmodified":1466212946,
     "wof:name":"Coop Tankstelle West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.878305,47.552067,8.878305,47.552067],
+  "bbox": [
+    8.878305,
+    47.552067,
+    8.878305,
+    47.552067
+],
   "geometry": {"coordinates":[8.878305,47.552067],"type":"Point"}
 }

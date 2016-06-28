@@ -2,13 +2,14 @@
   "id": 220101861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.41915,47.055283,9.41915,47.055283",
     "geom:latitude":47.055283,
     "geom:longitude":9.41915,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"9473",
     "sg:city":"Gams",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220101861,
-    "wof:lastmodified":1449074467,
+    "wof:lastmodified":1466209756,
     "wof:name":"Hobi Ruedi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.41915,47.055283,9.41915,47.055283],
+  "bbox": [
+    9.41915,
+    47.055283,
+    9.41915,
+    47.055283
+],
   "geometry": {"coordinates":[9.41915,47.055283],"type":"Point"}
 }

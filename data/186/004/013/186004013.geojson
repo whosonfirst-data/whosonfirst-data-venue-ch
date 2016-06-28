@@ -2,13 +2,14 @@
   "id": 186004013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.995528,46.187714,8.995528,46.187714",
     "geom:latitude":46.187714,
     "geom:longitude":8.995528,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3207 Golaten. Postfach",
     "sg:city":"Chi\u00e8tres",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186004013,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1466211628,
     "wof:name":"Antonio Loisi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.995528,46.187714,8.995528,46.187714],
+  "bbox": [
+    8.995528,
+    46.187714,
+    8.995528,
+    46.187714
+],
   "geometry": {"coordinates":[8.995528,46.187714],"type":"Point"}
 }

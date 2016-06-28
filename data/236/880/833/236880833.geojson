@@ -2,13 +2,14 @@
   "id": 236880833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.611318,47.528381,7.611318,47.528381",
     "geom:latitude":47.528381,
     "geom:longitude":7.611318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Emil Frey-strasse 140",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236880833,
-    "wof:lastmodified":1449005283,
+    "wof:lastmodified":1466212954,
     "wof:name":"B\u00fcrgschaftsgenossenschaft Baselland (bgb)",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.611318,47.528381,7.611318,47.528381],
+  "bbox": [
+    7.611318,
+    47.528381,
+    7.611318,
+    47.528381
+],
   "geometry": {"coordinates":[7.611318,47.528381],"type":"Point"}
 }

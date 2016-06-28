@@ -2,13 +2,14 @@
   "id": 219462301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.16325,47.473148,8.16325,47.473148",
     "geom:latitude":47.473148,
     "geom:longitude":8.16325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterhaldenstrasse 1",
     "sg:city":"Villnachern",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219462301,
-    "wof:lastmodified":1449073777,
+    "wof:lastmodified":1466210776,
     "wof:name":"Aargauische Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.16325,47.473148,8.16325,47.473148],
+  "bbox": [
+    8.16325,
+    47.473148,
+    8.16325,
+    47.473148
+],
   "geometry": {"coordinates":[8.16325,47.473148],"type":"Point"}
 }

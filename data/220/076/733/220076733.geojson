@@ -2,13 +2,14 @@
   "id": 220076733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.957512,47.523857,8.957512,47.523857",
     "geom:latitude":47.523857,
     "geom:longitude":8.957512,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 45",
     "sg:city":"Stettfurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220076733,
-    "wof:lastmodified":1449074666,
+    "wof:lastmodified":1466209543,
     "wof:name":"Borcherding Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.957512,47.523857,8.957512,47.523857],
+  "bbox": [
+    8.957512,
+    47.523857,
+    8.957512,
+    47.523857
+],
   "geometry": {"coordinates":[8.957512,47.523857],"type":"Point"}
 }

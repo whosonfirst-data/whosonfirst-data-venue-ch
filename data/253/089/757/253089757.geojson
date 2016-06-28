@@ -2,13 +2,14 @@
   "id": 253089757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.15379,46.191975,6.15379,46.191975",
     "geom:latitude":46.191975,
     "geom:longitude":6.15379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Cioccaro",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253089757,
-    "wof:lastmodified":1449063413,
+    "wof:lastmodified":1466209815,
     "wof:name":"Edouard Furst Optique Acoustique",
     "wof:parent_id":85862329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.15379,46.191975,6.15379,46.191975],
+  "bbox": [
+    6.15379,
+    46.191975,
+    6.15379,
+    46.191975
+],
   "geometry": {"coordinates":[6.15379,46.191975],"type":"Point"}
 }

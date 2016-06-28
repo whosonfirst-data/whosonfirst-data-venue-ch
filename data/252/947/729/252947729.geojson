@@ -2,13 +2,14 @@
   "id": 252947729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.093725,46.699345,10.093725,46.699345",
     "geom:latitude":46.699345,
     "geom:longitude":10.093725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sura 70",
     "sg:city":"Zernez",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252947729,
-    "wof:lastmodified":1449006185,
+    "wof:lastmodified":1466211498,
     "wof:name":"Mirer Gerda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.093725,46.699345,10.093725,46.699345],
+  "bbox": [
+    10.093725,
+    46.699345,
+    10.093725,
+    46.699345
+],
   "geometry": {"coordinates":[10.093725,46.699345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185800505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.65054,46.825871,8.65054,46.825871",
     "geom:latitude":46.825871,
     "geom:longitude":8.65054,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spittelstrasse 156 6472 Erstfeld. Postfach 258",
     "sg:city":"Erstfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185800505,
-    "wof:lastmodified":1449006734,
+    "wof:lastmodified":1466209119,
     "wof:name":"Walter W\u00fcthrich Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.65054,46.825871,8.65054,46.825871],
+  "bbox": [
+    8.65054,
+    46.825871,
+    8.65054,
+    46.825871
+],
   "geometry": {"coordinates":[8.65054,46.825871],"type":"Point"}
 }

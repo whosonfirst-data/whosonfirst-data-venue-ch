@@ -2,13 +2,14 @@
   "id": 186396991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.255911,47.09211,8.255911,47.09211",
     "geom:latitude":47.09211,
     "geom:longitude":8.255911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buzibachstrasse 8 6023 Rothenburg. Postfach 66",
     "sg:city":"Rothenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186396991,
-    "wof:lastmodified":1449052126,
+    "wof:lastmodified":1466210572,
     "wof:name":"Gebr. Studhalter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.255911,47.09211,8.255911,47.09211],
+  "bbox": [
+    8.255911,
+    47.09211,
+    8.255911,
+    47.09211
+],
   "geometry": {"coordinates":[8.255911,47.09211],"type":"Point"}
 }

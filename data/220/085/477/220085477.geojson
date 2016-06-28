@@ -2,13 +2,14 @@
   "id": 220085477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.926056,36.217854,-78.926056,36.217854",
     "geom:latitude":36.217854,
     "geom:longitude":-78.926056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Clos Du Pont",
     "sg:city":"Rougemont",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220085477,
-    "wof:lastmodified":1449074231,
+    "wof:lastmodified":1466209616,
     "wof:name":"Duperrex & Fils Menuiserie & \u00e9b\u00e9nisterie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.926056,36.217854,-78.926056,36.217854],
+  "bbox": [
+    -78.926056,
+    36.217854,
+    -78.926056,
+    36.217854
+],
   "geometry": {"coordinates":[-78.926056,36.217854],"type":"Point"}
 }

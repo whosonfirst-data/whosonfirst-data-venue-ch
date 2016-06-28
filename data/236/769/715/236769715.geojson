@@ -2,13 +2,14 @@
   "id": 236769715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.801533,47.086231,6.801533,47.086231",
     "geom:latitude":47.086231,
     "geom:longitude":6.801533,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Br\u00fcelstrasse 8",
     "sg:city":"Waldkirch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236769715,
-    "wof:lastmodified":1449002603,
+    "wof:lastmodified":1466212877,
     "wof:name":"Almac Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cnc"
     ]
 },
-  "bbox": [6.801533,47.086231,6.801533,47.086231],
+  "bbox": [
+    6.801533,
+    47.086231,
+    6.801533,
+    47.086231
+],
   "geometry": {"coordinates":[6.801533,47.086231],"type":"Point"}
 }

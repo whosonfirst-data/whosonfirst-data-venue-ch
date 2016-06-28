@@ -2,13 +2,14 @@
   "id": 186580543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.81341,46.174049,8.81341,46.174049",
     "geom:latitude":46.174049,
     "geom:longitude":8.81341,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rinaldo Simen 19",
     "sg:city":"Minusio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186580543,
-    "wof:lastmodified":1449052175,
+    "wof:lastmodified":1466211863,
     "wof:name":"Centro Di Calcolo Elettronico Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "programming"
     ]
 },
-  "bbox": [8.81341,46.174049,8.81341,46.174049],
+  "bbox": [
+    8.81341,
+    46.174049,
+    8.81341,
+    46.174049
+],
   "geometry": {"coordinates":[8.81341,46.174049],"type":"Point"}
 }

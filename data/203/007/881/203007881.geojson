@@ -2,13 +2,14 @@
   "id": 203007881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.464595,47.441559,8.464595,47.441559",
     "geom:latitude":47.441559,
     "geom:longitude":8.464595,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Plessurstrasse 62 7000 Chur. Postfach",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203007881,
-    "wof:lastmodified":1449026518,
+    "wof:lastmodified":1466209224,
     "wof:name":"Hansrolf Brunschweiler Architekturb\u00fcro",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.464595,47.441559,8.464595,47.441559],
+  "bbox": [
+    8.464595,
+    47.441559,
+    8.464595,
+    47.441559
+],
   "geometry": {"coordinates":[8.464595,47.441559],"type":"Point"}
 }

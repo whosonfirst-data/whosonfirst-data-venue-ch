@@ -2,13 +2,14 @@
   "id": 202720519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.741692,47.32869,8.741692,47.32869",
     "geom:latitude":47.32869,
     "geom:longitude":8.741692,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chilenholzstrasse 43 8614 Sulzbach. Postfach",
     "sg:city":"Sulzbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202720519,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1466210784,
     "wof:name":"Steiger Sprengtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.741692,47.32869,8.741692,47.32869],
+  "bbox": [
+    8.741692,
+    47.32869,
+    8.741692,
+    47.32869
+],
   "geometry": {"coordinates":[8.741692,47.32869],"type":"Point"}
 }

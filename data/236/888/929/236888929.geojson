@@ -2,13 +2,14 @@
   "id": 236888929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.242441,46.877628,8.242441,46.877628",
     "geom:latitude":46.877628,
     "geom:longitude":8.242441,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bitzi",
     "sg:city":"Sachseln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236888929,
-    "wof:lastmodified":1449003756,
+    "wof:lastmodified":1466212959,
     "wof:name":"Sirma Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.242441,46.877628,8.242441,46.877628],
+  "bbox": [
+    8.242441,
+    46.877628,
+    8.242441,
+    46.877628
+],
   "geometry": {"coordinates":[8.242441,46.877628],"type":"Point"}
 }

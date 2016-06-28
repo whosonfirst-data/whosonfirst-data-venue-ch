@@ -2,13 +2,14 @@
   "id": 185689141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585639,47.552601,7.585639,47.552601",
     "geom:latitude":47.552601,
     "geom:longitude":7.585639,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinenschanze 6",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185689141,
-    "wof:lastmodified":1449007964,
+    "wof:lastmodified":1466211686,
     "wof:name":"Dietrich Greuter & Schmid Advokaturb\u00fcro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.585639,47.552601,7.585639,47.552601],
+  "bbox": [
+    7.585639,
+    47.552601,
+    7.585639,
+    47.552601
+],
   "geometry": {"coordinates":[7.585639,47.552601],"type":"Point"}
 }

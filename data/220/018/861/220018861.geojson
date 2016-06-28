@@ -2,13 +2,14 @@
   "id": 220018861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.531515,47.24081,9.531515,47.24081",
     "geom:latitude":47.24081,
     "geom:longitude":9.531515,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schellenbergstrasse 43",
     "sg:city":"Ruggell",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220018861,
-    "wof:lastmodified":1449074444,
+    "wof:lastmodified":1466209039,
     "wof:name":"Helmut Marxer Schreinerei",
     "wof:parent_id":85901551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.531515,47.24081,9.531515,47.24081],
+  "bbox": [
+    9.531515,
+    47.24081,
+    9.531515,
+    47.24081
+],
   "geometry": {"coordinates":[9.531515,47.24081],"type":"Point"}
 }

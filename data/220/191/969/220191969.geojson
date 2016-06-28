@@ -2,13 +2,14 @@
   "id": 220191969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.522486,46.852741,9.522486,46.852741",
     "geom:latitude":46.852741,
     "geom:longitude":9.522486,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lagerstrasse 2",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220191969,
-    "wof:lastmodified":1449074520,
+    "wof:lastmodified":1466210525,
     "wof:name":"Maria Helena Wassenberg M\u00f6belrestauration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.522486,46.852741,9.522486,46.852741],
+  "bbox": [
+    9.522486,
+    46.852741,
+    9.522486,
+    46.852741
+],
   "geometry": {"coordinates":[9.522486,46.852741],"type":"Point"}
 }

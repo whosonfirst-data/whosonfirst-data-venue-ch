@@ -2,13 +2,14 @@
   "id": 203211811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.01458,46.250839,7.01458,46.250839",
     "geom:latitude":46.250839,
     "geom:longitude":7.01458,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Centrale 25 1880 Bex. Postfach",
     "sg:city":"Bex",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203211811,
-    "wof:lastmodified":1449025382,
+    "wof:lastmodified":1466209603,
     "wof:name":"Dr M\u00e9d. Nicole M\u00fchlemann M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.01458,46.250839,7.01458,46.250839],
+  "bbox": [
+    7.01458,
+    46.250839,
+    7.01458,
+    46.250839
+],
   "geometry": {"coordinates":[7.01458,46.250839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219189835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.547524,47.368923,8.547524,47.368923",
     "geom:latitude":47.368923,
     "geom:longitude":8.547524,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4mistrasse 35",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219189835,
-    "wof:lastmodified":1449072894,
+    "wof:lastmodified":1466210849,
     "wof:name":"Prof. Dr. Med. Victor Engeler Spezialarzt Fmh",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.547524,47.368923,8.547524,47.368923],
+  "bbox": [
+    8.547524,
+    47.368923,
+    8.547524,
+    47.368923
+],
   "geometry": {"coordinates":[8.547524,47.368923],"type":"Point"}
 }

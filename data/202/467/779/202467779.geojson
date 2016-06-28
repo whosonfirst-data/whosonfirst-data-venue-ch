@@ -2,13 +2,14 @@
   "id": 202467779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.479226,47.186981,8.479226,47.186981",
     "geom:latitude":47.186981,
     "geom:longitude":8.479226,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterbergstrasse 26",
     "sg:city":"Steinhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202467779,
-    "wof:lastmodified":1449062109,
+    "wof:lastmodified":1466211039,
     "wof:name":"Dirotec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.479226,47.186981,8.479226,47.186981],
+  "bbox": [
+    8.479226,
+    47.186981,
+    8.479226,
+    47.186981
+],
   "geometry": {"coordinates":[8.479226,47.186981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186143857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.583029,47.423302,8.583029,47.423302",
     "geom:latitude":47.423302,
     "geom:longitude":8.583029,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rietgrabenstrasse",
     "sg:city":"Opfikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186143857,
-    "wof:lastmodified":1449052553,
+    "wof:lastmodified":1466211395,
     "wof:name":"Marvit Gmbh",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.583029,47.423302,8.583029,47.423302],
+  "bbox": [
+    8.583029,
+    47.423302,
+    8.583029,
+    47.423302
+],
   "geometry": {"coordinates":[8.583029,47.423302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236847729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.409724,46.982246,8.409724,46.982246",
     "geom:latitude":46.982246,
     "geom:longitude":8.409724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aum\u00fchlestrasse 5",
     "sg:city":"Ennetb\u00fcrgen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236847729,
-    "wof:lastmodified":1449002723,
+    "wof:lastmodified":1466212935,
     "wof:name":"Wallimann Fredy Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.409724,46.982246,8.409724,46.982246],
+  "bbox": [
+    8.409724,
+    46.982246,
+    8.409724,
+    46.982246
+],
   "geometry": {"coordinates":[8.409724,46.982246],"type":"Point"}
 }

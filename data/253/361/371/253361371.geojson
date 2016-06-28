@@ -2,13 +2,14 @@
   "id": 253361371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.091469,47.063721,7.091469,47.063721",
     "geom:latitude":47.063721,
     "geom:longitude":7.091469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St-germain",
     "sg:city":"Savi\u00e8se",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253361371,
-    "wof:lastmodified":1449064982,
+    "wof:lastmodified":1466212143,
     "wof:name":"Salvatore Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.091469,47.063721,7.091469,47.063721],
+  "bbox": [
+    7.091469,
+    47.063721,
+    7.091469,
+    47.063721
+],
   "geometry": {"coordinates":[7.091469,47.063721],"type":"Point"}
 }

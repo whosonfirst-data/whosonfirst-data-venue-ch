@@ -2,13 +2,14 @@
   "id": 236208923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.265321,47.124424,7.265321,47.124424",
     "geom:latitude":47.124424,
     "geom:longitude":7.265321,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Pedroni 3",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236208923,
-    "wof:lastmodified":1449001968,
+    "wof:lastmodified":1466210895,
     "wof:name":"Weingart Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.265321,47.124424,7.265321,47.124424],
+  "bbox": [
+    7.265321,
+    47.124424,
+    7.265321,
+    47.124424
+],
   "geometry": {"coordinates":[7.265321,47.124424],"type":"Point"}
 }

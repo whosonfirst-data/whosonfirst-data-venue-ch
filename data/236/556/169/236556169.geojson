@@ -2,13 +2,14 @@
   "id": 236556169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.25702,47.142689,7.25702,47.142689",
     "geom:latitude":47.142689,
     "geom:longitude":7.25702,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Jakob-st\u00e4mpfli 4",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236556169,
-    "wof:lastmodified":1449002292,
+    "wof:lastmodified":1466212601,
     "wof:name":"Dexel Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bracelet"
     ]
 },
-  "bbox": [7.25702,47.142689,7.25702,47.142689],
+  "bbox": [
+    7.25702,
+    47.142689,
+    7.25702,
+    47.142689
+],
   "geometry": {"coordinates":[7.25702,47.142689],"type":"Point"}
 }

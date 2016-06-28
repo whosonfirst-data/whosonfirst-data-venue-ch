@@ -2,13 +2,14 @@
   "id": 202892649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304249,46.990074,8.304249,46.990074",
     "geom:latitude":46.990074,
     "geom:longitude":8.304249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Pr\u00e9-landry 20 2017 Boudry. Postfach",
     "sg:city":"Boudry",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202892649,
-    "wof:lastmodified":1449060481,
+    "wof:lastmodified":1466211983,
     "wof:name":"Haefeli V. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304249,46.990074,8.304249,46.990074],
+  "bbox": [
+    8.304249,
+    46.990074,
+    8.304249,
+    46.990074
+],
   "geometry": {"coordinates":[8.304249,46.990074],"type":"Point"}
 }

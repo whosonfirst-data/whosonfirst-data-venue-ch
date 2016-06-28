@@ -2,13 +2,14 @@
   "id": 185738765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.244468,47.137001,7.244468,47.137001",
     "geom:latitude":47.137001,
     "geom:longitude":7.244468,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl\u00e4nkestrasse 20 2502 Biel/bienne Case Postale 327",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185738765,
-    "wof:lastmodified":1449007767,
+    "wof:lastmodified":1466211415,
     "wof:name":"Roth & Zaugg Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.244468,47.137001,7.244468,47.137001],
+  "bbox": [
+    7.244468,
+    47.137001,
+    7.244468,
+    47.137001
+],
   "geometry": {"coordinates":[7.244468,47.137001],"type":"Point"}
 }

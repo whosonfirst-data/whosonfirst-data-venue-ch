@@ -2,13 +2,14 @@
   "id": 203391049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.127544,47.40274,8.127544,47.40274",
     "geom:latitude":47.40274,
     "geom:longitude":8.127544,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 9",
     "sg:city":"Rupperswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203391049,
-    "wof:lastmodified":1449026187,
+    "wof:lastmodified":1466211437,
     "wof:name":"Dr.med.peter Wolleb Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.127544,47.40274,8.127544,47.40274],
+  "bbox": [
+    8.127544,
+    47.40274,
+    8.127544,
+    47.40274
+],
   "geometry": {"coordinates":[8.127544,47.40274],"type":"Point"}
 }

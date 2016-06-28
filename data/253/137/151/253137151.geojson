@@ -2,13 +2,14 @@
   "id": 253137151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.444477,46.949001,7.444477,46.949001",
     "geom:latitude":46.949001,
     "geom:longitude":7.444477,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeughausgasse 41",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253137151,
-    "wof:lastmodified":1449065364,
+    "wof:lastmodified":1466210350,
     "wof:name":"Beck Glatz Confiseur Ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.444477,46.949001,7.444477,46.949001],
+  "bbox": [
+    7.444477,
+    46.949001,
+    7.444477,
+    46.949001
+],
   "geometry": {"coordinates":[7.444477,46.949001],"type":"Point"}
 }

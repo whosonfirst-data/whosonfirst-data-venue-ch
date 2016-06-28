@@ -2,13 +2,14 @@
   "id": 219360839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.502403,46.819984,6.502403,46.819984",
     "geom:latitude":46.819984,
     "geom:longitude":6.502403,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuhaltenstrasse 5",
     "sg:city":"Ebikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219360839,
-    "wof:lastmodified":1449073125,
+    "wof:lastmodified":1466209783,
     "wof:name":"Jean-jacques Joseph Garage Bellevue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.502403,46.819984,6.502403,46.819984],
+  "bbox": [
+    6.502403,
+    46.819984,
+    6.502403,
+    46.819984
+],
   "geometry": {"coordinates":[6.502403,46.819984],"type":"Point"}
 }

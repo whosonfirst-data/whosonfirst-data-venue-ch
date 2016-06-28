@@ -2,13 +2,14 @@
   "id": 203381075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.120183,46.928017,7.120183,46.928017",
     "geom:latitude":46.928017,
     "geom:longitude":7.120183,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Meylandstrasse 38",
     "sg:city":"Murten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203381075,
-    "wof:lastmodified":1449025088,
+    "wof:lastmodified":1466211334,
     "wof:name":"Dr.med.paul Kehrli Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.120183,46.928017,7.120183,46.928017],
+  "bbox": [
+    7.120183,
+    46.928017,
+    7.120183,
+    46.928017
+],
   "geometry": {"coordinates":[7.120183,46.928017],"type":"Point"}
 }

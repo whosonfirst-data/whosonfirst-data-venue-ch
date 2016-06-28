@@ -2,13 +2,14 @@
   "id": 253100451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.870361,43.107113,-76.870361,43.107113",
     "geom:latitude":43.107113,
     "geom:longitude":-76.870361,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 27",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253100451,
-    "wof:lastmodified":1449065014,
+    "wof:lastmodified":1466209938,
     "wof:name":"Micro-electric H\u00f6rger\u00e4te Ag",
     "wof:parent_id":85832423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.870361,43.107113,-76.870361,43.107113],
+  "bbox": [
+    -76.870361,
+    43.107113,
+    -76.870361,
+    43.107113
+],
   "geometry": {"coordinates":[-76.870361,43.107113],"type":"Point"}
 }

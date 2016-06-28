@@ -2,13 +2,14 @@
   "id": 252730095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.251187,47.134651,7.251187,47.134651",
     "geom:latitude":47.134651,
     "geom:longitude":7.251187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Pr\u00e9s 76 2500 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252730095,
-    "wof:lastmodified":1449006347,
+    "wof:lastmodified":1466209138,
     "wof:name":"Torriani, Ernest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.251187,47.134651,7.251187,47.134651],
+  "bbox": [
+    7.251187,
+    47.134651,
+    7.251187,
+    47.134651
+],
   "geometry": {"coordinates":[7.251187,47.134651],"type":"Point"}
 }

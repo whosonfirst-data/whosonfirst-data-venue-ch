@@ -2,13 +2,14 @@
   "id": 185628835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.862516,47.300926,8.862516,47.300926",
     "geom:latitude":47.300926,
     "geom:longitude":8.862516,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sackstrasse 33",
     "sg:city":"Wernetshausen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185628835,
-    "wof:lastmodified":1449007916,
+    "wof:lastmodified":1466209876,
     "wof:name":"Fkm Ag Lagerorganisation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "board"
     ]
 },
-  "bbox": [8.862516,47.300926,8.862516,47.300926],
+  "bbox": [
+    8.862516,
+    47.300926,
+    8.862516,
+    47.300926
+],
   "geometry": {"coordinates":[8.862516,47.300926],"type":"Point"}
 }

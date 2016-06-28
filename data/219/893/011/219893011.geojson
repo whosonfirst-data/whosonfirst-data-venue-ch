@@ -2,13 +2,14 @@
   "id": 219893011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048434,47.414509,8.048434,47.414509",
     "geom:latitude":47.414509,
     "geom:longitude":8.048434,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchbergstrasse 1",
     "sg:city":"K\u00fcttigen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219893011,
-    "wof:lastmodified":1449073258,
+    "wof:lastmodified":1466212522,
     "wof:name":"Wohnbaugen.burghalde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.048434,47.414509,8.048434,47.414509],
+  "bbox": [
+    8.048434,
+    47.414509,
+    8.048434,
+    47.414509
+],
   "geometry": {"coordinates":[8.048434,47.414509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236087227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.849388,46.920998,7.849388,46.920998",
     "geom:latitude":46.920998,
     "geom:longitude":7.849388,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlestrasse 25",
     "sg:city":"Trubschachen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236087227,
-    "wof:lastmodified":1449003123,
+    "wof:lastmodified":1466209679,
     "wof:name":"Robert Wingeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.849388,46.920998,7.849388,46.920998],
+  "bbox": [
+    7.849388,
+    46.920998,
+    7.849388,
+    46.920998
+],
   "geometry": {"coordinates":[7.849388,46.920998],"type":"Point"}
 }

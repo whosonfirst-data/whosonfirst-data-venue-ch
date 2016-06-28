@@ -2,13 +2,14 @@
   "id": 236341859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.140082,46.180367,6.140082,46.180367",
     "geom:latitude":46.180367,
     "geom:longitude":6.140082,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronengasse 10",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236341859,
-    "wof:lastmodified":1449005075,
+    "wof:lastmodified":1466212047,
     "wof:name":"Th\u00e9\u00e2tre Carouge",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.140082,46.180367,6.140082,46.180367],
+  "bbox": [
+    6.140082,
+    46.180367,
+    6.140082,
+    46.180367
+],
   "geometry": {"coordinates":[6.140082,46.180367],"type":"Point"}
 }

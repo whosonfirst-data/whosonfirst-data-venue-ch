@@ -2,13 +2,14 @@
   "id": 252965721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.851564,47.258945,8.851564,47.258945",
     "geom:latitude":47.258945,
     "geom:longitude":8.851564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Port",
     "sg:city":"Cheyres",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252965721,
-    "wof:lastmodified":1449006159,
+    "wof:lastmodified":1466211652,
     "wof:name":"Christen, Haushalt Und Geschenkartikel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.851564,47.258945,8.851564,47.258945],
+  "bbox": [
+    8.851564,
+    47.258945,
+    8.851564,
+    47.258945
+],
   "geometry": {"coordinates":[8.851564,47.258945],"type":"Point"}
 }

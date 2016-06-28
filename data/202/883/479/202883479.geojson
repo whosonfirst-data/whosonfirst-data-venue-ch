@@ -2,13 +2,14 @@
   "id": 202883479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.859937,46.452717,6.859937,46.452717",
     "geom:latitude":46.452717,
     "geom:longitude":6.859937,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Juste-olivier 9",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202883479,
-    "wof:lastmodified":1449062062,
+    "wof:lastmodified":1466212064,
     "wof:name":"Dreco S.a.",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.859937,46.452717,6.859937,46.452717],
+  "bbox": [
+    6.859937,
+    46.452717,
+    6.859937,
+    46.452717
+],
   "geometry": {"coordinates":[6.859937,46.452717],"type":"Point"}
 }

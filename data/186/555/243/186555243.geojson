@@ -2,13 +2,14 @@
   "id": 186555243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.106276,47.571552,8.106276,47.571552",
     "geom:latitude":47.571552,
     "geom:longitude":8.106276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talstrasse 69",
     "sg:city":"Etzgen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186555243,
-    "wof:lastmodified":1449052632,
+    "wof:lastmodified":1466211999,
     "wof:name":"Wego Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "window"
     ]
 },
-  "bbox": [8.106276,47.571552,8.106276,47.571552],
+  "bbox": [
+    8.106276,
+    47.571552,
+    8.106276,
+    47.571552
+],
   "geometry": {"coordinates":[8.106276,47.571552],"type":"Point"}
 }

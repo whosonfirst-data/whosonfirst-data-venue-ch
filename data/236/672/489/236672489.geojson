@@ -2,13 +2,14 @@
   "id": 236672489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.458524,47.399467,8.458524,47.399467",
     "geom:latitude":47.399467,
     "geom:longitude":8.458524,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wagistrasse 23",
     "sg:city":"Schlieren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236672489,
-    "wof:lastmodified":1449001838,
+    "wof:lastmodified":1466212783,
     "wof:name":"Comdat Datasystems Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "integration"
     ]
 },
-  "bbox": [8.458524,47.399467,8.458524,47.399467],
+  "bbox": [
+    8.458524,
+    47.399467,
+    8.458524,
+    47.399467
+],
   "geometry": {"coordinates":[8.458524,47.399467],"type":"Point"}
 }

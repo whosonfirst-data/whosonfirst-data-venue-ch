@@ -2,13 +2,14 @@
   "id": 252787701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.251617,46.390705,6.251617,46.390705",
     "geom:latitude":46.390705,
     "geom:longitude":6.251617,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Lausanne 125",
     "sg:city":"Prangins",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252787701,
-    "wof:lastmodified":1449005909,
+    "wof:lastmodified":1466209761,
     "wof:name":"V\u00e9ronique Testard Entre Voile Et Taffetas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.251617,46.390705,6.251617,46.390705],
+  "bbox": [
+    6.251617,
+    46.390705,
+    6.251617,
+    46.390705
+],
   "geometry": {"coordinates":[6.251617,46.390705],"type":"Point"}
 }

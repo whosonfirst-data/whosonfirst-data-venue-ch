@@ -2,13 +2,14 @@
   "id": 202552993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.717025,47.514427,8.717025,47.514427",
     "geom:latitude":47.514427,
     "geom:longitude":8.717025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bettenstrasse 63 8401 Winterthur. Postfach 879",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202552993,
-    "wof:lastmodified":1449061174,
+    "wof:lastmodified":1466209222,
     "wof:name":"Ikt Consulting, J\u00f6rin Know How Transfer, Consulting, Handelsgesch\u00e4fte",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.717025,47.514427,8.717025,47.514427],
+  "bbox": [
+    8.717025,
+    47.514427,
+    8.717025,
+    47.514427
+],
   "geometry": {"coordinates":[8.717025,47.514427],"type":"Point"}
 }

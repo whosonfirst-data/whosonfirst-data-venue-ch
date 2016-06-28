@@ -2,13 +2,14 @@
   "id": 203120121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.240999,47.193268,7.240999,47.193268",
     "geom:latitude":47.193268,
     "geom:longitude":7.240999,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Tilles 28",
     "sg:city":"P\u00e9ry",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203120121,
-    "wof:lastmodified":1449026585,
+    "wof:lastmodified":1466211297,
     "wof:name":"Schlapp M\u00f6bel Ag Schweiz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [7.240999,47.193268,7.240999,47.193268],
+  "bbox": [
+    7.240999,
+    47.193268,
+    7.240999,
+    47.193268
+],
   "geometry": {"coordinates":[7.240999,47.193268],"type":"Point"}
 }

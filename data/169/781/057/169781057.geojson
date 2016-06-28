@@ -2,13 +2,14 @@
   "id": 169781057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56113,47.294666,8.56113,47.294666",
     "geom:latitude":47.294666,
     "geom:longitude":8.56113,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Toedistrasse 110",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169781057,
-    "wof:lastmodified":1449033311,
+    "wof:lastmodified":1466208922,
     "wof:name":"Mdoklein",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.56113,47.294666,8.56113,47.294666],
+  "bbox": [
+    8.56113,
+    47.294666,
+    8.56113,
+    47.294666
+],
   "geometry": {"coordinates":[8.56113,47.294666],"type":"Point"}
 }

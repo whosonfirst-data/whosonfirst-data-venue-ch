@@ -2,13 +2,14 @@
   "id": 236460721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.710228,47.185165,7.710228,47.185165",
     "geom:latitude":47.185165,
     "geom:longitude":7.710228,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Th\u00f6rigenstrasse 36 3360 Herzogenbuchsee. Postfach",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236460721,
-    "wof:lastmodified":1449005027,
+    "wof:lastmodified":1466212443,
     "wof:name":"Stiftung Gemeindebibliothek Herzogenbuchsee Und Umgebung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "archive"
     ]
 },
-  "bbox": [7.710228,47.185165,7.710228,47.185165],
+  "bbox": [
+    7.710228,
+    47.185165,
+    7.710228,
+    47.185165
+],
   "geometry": {"coordinates":[7.710228,47.185165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236782019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54233,47.382236,8.54233,47.382236",
     "geom:latitude":47.382236,
     "geom:longitude":8.54233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obstgartenstr. 7",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236782019,
-    "wof:lastmodified":1449001666,
+    "wof:lastmodified":1466212887,
     "wof:name":"Terra Vermessungen Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [8.54233,47.382236,8.54233,47.382236],
+  "bbox": [
+    8.54233,
+    47.382236,
+    8.54233,
+    47.382236
+],
   "geometry": {"coordinates":[8.54233,47.382236],"type":"Point"}
 }

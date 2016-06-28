@@ -2,13 +2,14 @@
   "id": 220048409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.595728,47.564541,7.595728,47.564541",
     "geom:latitude":47.564541,
     "geom:longitude":7.595728,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstrasse 92 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220048409,
-    "wof:lastmodified":1449074298,
+    "wof:lastmodified":1466209293,
     "wof:name":"Adolf M\u00fcnzer",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.595728,47.564541,7.595728,47.564541],
+  "bbox": [
+    7.595728,
+    47.564541,
+    7.595728,
+    47.564541
+],
   "geometry": {"coordinates":[7.595728,47.564541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219246375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.392339,46.934525,7.392339,46.934525",
     "geom:latitude":46.934525,
     "geom:longitude":7.392339,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 443 3018 Bern. Postfach 639",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219246375,
-    "wof:lastmodified":1449070623,
+    "wof:lastmodified":1466211491,
     "wof:name":"Th. Willy Ag Autovertretung",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.392339,46.934525,7.392339,46.934525],
+  "bbox": [
+    7.392339,
+    46.934525,
+    7.392339,
+    46.934525
+],
   "geometry": {"coordinates":[7.392339,46.934525],"type":"Point"}
 }

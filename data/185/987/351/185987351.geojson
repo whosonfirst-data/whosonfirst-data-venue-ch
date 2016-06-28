@@ -2,13 +2,14 @@
   "id": 185987351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.187475,47.348179,8.187475,47.348179",
     "geom:latitude":47.348179,
     "geom:longitude":8.187475,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seengerstrasse 19",
     "sg:city":"Egliswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185987351,
-    "wof:lastmodified":1449007508,
+    "wof:lastmodified":1466210689,
     "wof:name":"Weber Baumschule Gartengestaltung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.187475,47.348179,8.187475,47.348179],
+  "bbox": [
+    8.187475,
+    47.348179,
+    8.187475,
+    47.348179
+],
   "geometry": {"coordinates":[8.187475,47.348179],"type":"Point"}
 }

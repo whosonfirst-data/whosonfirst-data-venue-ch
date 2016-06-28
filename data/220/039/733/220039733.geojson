@@ -2,13 +2,14 @@
   "id": 220039733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.377106,46.968086,7.377106,46.968086",
     "geom:latitude":46.968086,
     "geom:longitude":7.377106,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eymattstrasse 123",
     "sg:city":"Hinterkappelen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220039733,
-    "wof:lastmodified":1449074773,
+    "wof:lastmodified":1466209217,
     "wof:name":"Rudolf Witschi Antikschreinerei",
     "wof:parent_id":85800049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.377106,46.968086,7.377106,46.968086],
+  "bbox": [
+    7.377106,
+    46.968086,
+    7.377106,
+    46.968086
+],
   "geometry": {"coordinates":[7.377106,46.968086],"type":"Point"}
 }

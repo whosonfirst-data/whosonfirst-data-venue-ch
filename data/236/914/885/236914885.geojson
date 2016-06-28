@@ -2,13 +2,14 @@
   "id": 236914885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.361519,47.447922,8.361519,47.447922",
     "geom:latitude":47.447922,
     "geom:longitude":8.361519,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasehalde 4",
     "sg:city":"W\u00fcrenlos",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236914885,
-    "wof:lastmodified":1449002808,
+    "wof:lastmodified":1466213022,
     "wof:name":"Promag Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.361519,47.447922,8.361519,47.447922],
+  "bbox": [
+    8.361519,
+    47.447922,
+    8.361519,
+    47.447922
+],
   "geometry": {"coordinates":[8.361519,47.447922],"type":"Point"}
 }

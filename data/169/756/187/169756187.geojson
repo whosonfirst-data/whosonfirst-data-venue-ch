@@ -2,13 +2,14 @@
   "id": 169756187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.148713,46.218231,6.148713,46.218231",
     "geom:latitude":46.218231,
     "geom:longitude":6.148713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"26",
     "sg:city":"Parc Chateau Banquet - 1202 Geneva",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169756187,
-    "wof:lastmodified":1449034662,
+    "wof:lastmodified":1466211398,
     "wof:name":"Malta General Consulate",
     "wof:parent_id":85897657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [6.148713,46.218231,6.148713,46.218231],
+  "bbox": [
+    6.148713,
+    46.218231,
+    6.148713,
+    46.218231
+],
   "geometry": {"coordinates":[6.148713,46.218231],"type":"Point"}
 }

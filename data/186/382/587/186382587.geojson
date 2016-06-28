@@ -2,13 +2,14 @@
   "id": 186382587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.648026,47.396629,7.648026,47.396629",
     "geom:latitude":47.396629,
     "geom:longitude":7.648026,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagmattstrasse 14",
     "sg:city":"Bretzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186382587,
-    "wof:lastmodified":1449051097,
+    "wof:lastmodified":1466210454,
     "wof:name":"Stebler-gyr Ad. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.648026,47.396629,7.648026,47.396629],
+  "bbox": [
+    7.648026,
+    47.396629,
+    7.648026,
+    47.396629
+],
   "geometry": {"coordinates":[7.648026,47.396629],"type":"Point"}
 }

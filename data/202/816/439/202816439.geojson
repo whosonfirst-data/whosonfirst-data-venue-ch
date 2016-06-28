@@ -2,13 +2,14 @@
   "id": 202816439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.630867,46.515438,6.630867,46.515438",
     "geom:latitude":46.515438,
     "geom:longitude":6.630867,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De Grancy 8",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202816439,
-    "wof:lastmodified":1449061592,
+    "wof:lastmodified":1466211659,
     "wof:name":"De Giovannini Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.630867,46.515438,6.630867,46.515438],
+  "bbox": [
+    6.630867,
+    46.515438,
+    6.630867,
+    46.515438
+],
   "geometry": {"coordinates":[6.630867,46.515438],"type":"Point"}
 }

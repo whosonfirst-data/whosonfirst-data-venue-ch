@@ -2,13 +2,14 @@
   "id": 186614769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154198,46.806751,7.154198,46.806751",
     "geom:latitude":46.806751,
     "geom:longitude":7.154198,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Joseph-piller 13",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186614769,
-    "wof:lastmodified":1449053094,
+    "wof:lastmodified":1466212256,
     "wof:name":"Office Communal Du Travail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154198,46.806751,7.154198,46.806751],
+  "bbox": [
+    7.154198,
+    46.806751,
+    7.154198,
+    46.806751
+],
   "geometry": {"coordinates":[7.154198,46.806751],"type":"Point"}
 }

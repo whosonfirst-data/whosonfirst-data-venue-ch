@@ -2,13 +2,14 @@
   "id": 185816885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62605,47.039005,7.62605,47.039005",
     "geom:latitude":47.039005,
     "geom:longitude":7.62605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zimmerbergstr. 64",
     "sg:city":"Oberburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185816885,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466209229,
     "wof:name":"Jakob Bolzli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "business"
     ]
 },
-  "bbox": [7.62605,47.039005,7.62605,47.039005],
+  "bbox": [
+    7.62605,
+    47.039005,
+    7.62605,
+    47.039005
+],
   "geometry": {"coordinates":[7.62605,47.039005],"type":"Point"}
 }

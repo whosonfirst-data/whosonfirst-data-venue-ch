@@ -2,13 +2,14 @@
   "id": 169692655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.161049,46.203281,6.161049,46.203281",
     "geom:latitude":46.203281,
     "geom:longitude":6.161049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Maunoir 19",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169692655,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210859,
     "wof:name":"Luminus B. Brochot",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shade"
     ]
 },
-  "bbox": [6.161049,46.203281,6.161049,46.203281],
+  "bbox": [
+    6.161049,
+    46.203281,
+    6.161049,
+    46.203281
+],
   "geometry": {"coordinates":[6.161049,46.203281],"type":"Point"}
 }

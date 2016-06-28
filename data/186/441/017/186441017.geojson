@@ -2,13 +2,14 @@
   "id": 186441017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.456711,46.92588,7.456711,46.92588",
     "geom:latitude":46.92588,
     "geom:longitude":7.456711,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seftigenstrasse 315",
     "sg:city":"Wabern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186441017,
-    "wof:lastmodified":1449050455,
+    "wof:lastmodified":1466210937,
     "wof:name":"Alfred Bill Ag Bauunternehmung",
     "wof:parent_id":85800599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.456711,46.92588,7.456711,46.92588],
+  "bbox": [
+    7.456711,
+    46.92588,
+    7.456711,
+    46.92588
+],
   "geometry": {"coordinates":[7.456711,46.92588],"type":"Point"}
 }

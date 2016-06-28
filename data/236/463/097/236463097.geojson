@@ -2,13 +2,14 @@
   "id": 236463097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.925368,47.508583,7.925368,47.508583",
     "geom:latitude":47.508583,
     "geom:longitude":7.925368,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"4316",
     "sg:city":"Hellikon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236463097,
-    "wof:lastmodified":1449004041,
+    "wof:lastmodified":1466212444,
     "wof:name":"Volksbibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "archive"
     ]
 },
-  "bbox": [7.925368,47.508583,7.925368,47.508583],
+  "bbox": [
+    7.925368,
+    47.508583,
+    7.925368,
+    47.508583
+],
   "geometry": {"coordinates":[7.925368,47.508583],"type":"Point"}
 }

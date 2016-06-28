@@ -2,13 +2,14 @@
   "id": 203270705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.857318,47.259975,8.857318,47.259975",
     "geom:latitude":47.259975,
     "geom:longitude":8.857318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e4ssli 9",
     "sg:city":"Ins",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203270705,
-    "wof:lastmodified":1449025285,
+    "wof:lastmodified":1466210234,
     "wof:name":"Dr.med.alois Bissig Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.857318,47.259975,8.857318,47.259975],
+  "bbox": [
+    8.857318,
+    47.259975,
+    8.857318,
+    47.259975
+],
   "geometry": {"coordinates":[8.857318,47.259975],"type":"Point"}
 }

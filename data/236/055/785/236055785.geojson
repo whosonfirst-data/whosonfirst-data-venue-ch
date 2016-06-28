@@ -2,13 +2,14 @@
   "id": 236055785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.776482,46.893906,6.776482,46.893906",
     "geom:latitude":46.893906,
     "geom:longitude":6.776482,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Goulettes 8 2024 St-aubin-sauges Case Postale 41",
     "sg:city":"St-aubin-sauges",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236055785,
-    "wof:lastmodified":1449002236,
+    "wof:lastmodified":1466209382,
     "wof:name":"Simonin, Porret Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.776482,46.893906,6.776482,46.893906],
+  "bbox": [
+    6.776482,
+    46.893906,
+    6.776482,
+    46.893906
+],
   "geometry": {"coordinates":[6.776482,46.893906],"type":"Point"}
 }

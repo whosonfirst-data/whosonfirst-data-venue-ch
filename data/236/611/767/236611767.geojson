@@ -2,13 +2,14 @@
   "id": 236611767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544987,47.564255,8.544987,47.564255",
     "geom:latitude":47.564255,
     "geom:longitude":8.544987,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6ssriederenstrasse 77",
     "sg:city":"Eglisau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236611767,
-    "wof:lastmodified":1449004405,
+    "wof:lastmodified":1466212700,
     "wof:name":"Cybertec Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544987,47.564255,8.544987,47.564255],
+  "bbox": [
+    8.544987,
+    47.564255,
+    8.544987,
+    47.564255
+],
   "geometry": {"coordinates":[8.544987,47.564255],"type":"Point"}
 }

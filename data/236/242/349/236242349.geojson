@@ -2,13 +2,14 @@
   "id": 236242349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.64142,46.778633,6.64142,46.778633",
     "geom:latitude":46.778633,
     "geom:longitude":6.64142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemain Du S\u00e9choir 1400 Cheseaux-nor\u00e9az. Postfach",
     "sg:city":"Cheseaux-nor\u00e9az",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236242349,
-    "wof:lastmodified":1449004775,
+    "wof:lastmodified":1466211279,
     "wof:name":"Y-expo S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.64142,46.778633,6.64142,46.778633],
+  "bbox": [
+    6.64142,
+    46.778633,
+    6.64142,
+    46.778633
+],
   "geometry": {"coordinates":[6.64142,46.778633],"type":"Point"}
 }

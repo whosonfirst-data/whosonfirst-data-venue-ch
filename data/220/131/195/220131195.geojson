@@ -2,13 +2,14 @@
   "id": 220131195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.13449,47.36224,9.13449,47.36224",
     "geom:latitude":47.36224,
     "geom:longitude":9.13449,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 8",
     "sg:city":"Mogelsberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220131195,
-    "wof:lastmodified":1449074261,
+    "wof:lastmodified":1466210006,
     "wof:name":"Reto Eberhart, Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.13449,47.36224,9.13449,47.36224],
+  "bbox": [
+    9.13449,
+    47.36224,
+    9.13449,
+    47.36224
+],
   "geometry": {"coordinates":[9.13449,47.36224],"type":"Point"}
 }

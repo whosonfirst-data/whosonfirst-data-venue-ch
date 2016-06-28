@@ -2,13 +2,14 @@
   "id": 219807875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.748546,47.127213,8.748546,47.127213",
     "geom:latitude":47.127213,
     "geom:longitude":8.748546,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 69",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219807875,
-    "wof:lastmodified":1449071305,
+    "wof:lastmodified":1466212483,
     "wof:name":"Krone Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.748546,47.127213,8.748546,47.127213],
+  "bbox": [
+    8.748546,
+    47.127213,
+    8.748546,
+    47.127213
+],
   "geometry": {"coordinates":[8.748546,47.127213],"type":"Point"}
 }

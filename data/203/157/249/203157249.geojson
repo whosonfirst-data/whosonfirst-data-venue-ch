@@ -2,13 +2,14 @@
   "id": 203157249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.147407,46.21207,6.147407,46.21207",
     "geom:latitude":46.21207,
     "geom:longitude":6.147407,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Berne 48",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203157249,
-    "wof:lastmodified":1449026587,
+    "wof:lastmodified":1466208996,
     "wof:name":"Dr M\u00e9d. Baher Hafez M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.147407,46.21207,6.147407,46.21207],
+  "bbox": [
+    6.147407,
+    46.21207,
+    6.147407,
+    46.21207
+],
   "geometry": {"coordinates":[6.147407,46.21207],"type":"Point"}
 }

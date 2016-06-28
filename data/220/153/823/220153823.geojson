@@ -2,13 +2,14 @@
   "id": 220153823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.006543,47.442089,7.006543,47.442089",
     "geom:latitude":47.442089,
     "geom:longitude":7.006543,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"2915",
     "sg:city":"Bure",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220153823,
-    "wof:lastmodified":1449074609,
+    "wof:lastmodified":1466210194,
     "wof:name":"Vallat Michel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.006543,47.442089,7.006543,47.442089],
+  "bbox": [
+    7.006543,
+    47.442089,
+    7.006543,
+    47.442089
+],
   "geometry": {"coordinates":[7.006543,47.442089],"type":"Point"}
 }

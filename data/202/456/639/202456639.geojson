@@ -2,13 +2,14 @@
   "id": 202456639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619013,47.566982,7.619013,47.566982",
     "geom:latitude":47.566982,
     "geom:longitude":7.619013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wollbacherstrasse 23 4000 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202456639,
-    "wof:lastmodified":1449060868,
+    "wof:lastmodified":1466210917,
     "wof:name":"Crobe Engineering Gmbh",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.619013,47.566982,7.619013,47.566982],
+  "bbox": [
+    7.619013,
+    47.566982,
+    7.619013,
+    47.566982
+],
   "geometry": {"coordinates":[7.619013,47.566982],"type":"Point"}
 }

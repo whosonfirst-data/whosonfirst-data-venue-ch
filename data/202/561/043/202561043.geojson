@@ -2,13 +2,14 @@
   "id": 202561043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543198,47.381184,8.543198,47.381184",
     "geom:latitude":47.381184,
     "geom:longitude":8.543198,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sumatrastrasse 22 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202561043,
-    "wof:lastmodified":1449061901,
+    "wof:lastmodified":1466209302,
     "wof:name":"Ingenieurb\u00fcro Eichenberger Hans Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543198,47.381184,8.543198,47.381184],
+  "bbox": [
+    8.543198,
+    47.381184,
+    8.543198,
+    47.381184
+],
   "geometry": {"coordinates":[8.543198,47.381184],"type":"Point"}
 }

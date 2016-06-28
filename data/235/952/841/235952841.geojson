@@ -2,13 +2,14 @@
   "id": 235952841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.041109,47.638504,9.041109,47.638504",
     "geom:latitude":47.638504,
     "geom:longitude":9.041109,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcren",
     "sg:city":"Raperswilen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235952841,
-    "wof:lastmodified":1449008494,
+    "wof:lastmodified":1466209088,
     "wof:name":"Felix Kunz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.041109,47.638504,9.041109,47.638504],
+  "bbox": [
+    9.041109,
+    47.638504,
+    9.041109,
+    47.638504
+],
   "geometry": {"coordinates":[9.041109,47.638504],"type":"Point"}
 }

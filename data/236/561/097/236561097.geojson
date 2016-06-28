@@ -2,13 +2,14 @@
   "id": 236561097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.300307,47.046848,8.300307,47.046848",
     "geom:latitude":47.046848,
     "geom:longitude":8.300307,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vonmattstrasse 36",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236561097,
-    "wof:lastmodified":1449004092,
+    "wof:lastmodified":1466212620,
     "wof:name":"Hans Racine Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [8.300307,47.046848,8.300307,47.046848],
+  "bbox": [
+    8.300307,
+    47.046848,
+    8.300307,
+    47.046848
+],
   "geometry": {"coordinates":[8.300307,47.046848],"type":"Point"}
 }

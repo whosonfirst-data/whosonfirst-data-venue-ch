@@ -2,13 +2,14 @@
   "id": 202572571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.090748,47.113499,8.090748,47.113499",
     "geom:latitude":47.113499,
     "geom:longitude":8.090748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 6",
     "sg:city":"Buttisholz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202572571,
-    "wof:lastmodified":1449061677,
+    "wof:lastmodified":1466209404,
     "wof:name":"Ingenieurb\u00fcro Weilenmann Und Bl\u00e4ttler Ag, Filiale Buttisholz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.090748,47.113499,8.090748,47.113499],
+  "bbox": [
+    8.090748,
+    47.113499,
+    8.090748,
+    47.113499
+],
   "geometry": {"coordinates":[8.090748,47.113499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185785285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593145,47.547901,7.593145,47.547901",
     "geom:latitude":47.547901,
     "geom:longitude":7.593145,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 105 4052 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185785285,
-    "wof:lastmodified":1449007953,
+    "wof:lastmodified":1466209013,
     "wof:name":"Marcel Muff Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.593145,47.547901,7.593145,47.547901],
+  "bbox": [
+    7.593145,
+    47.547901,
+    7.593145,
+    47.547901
+],
   "geometry": {"coordinates":[7.593145,47.547901],"type":"Point"}
 }

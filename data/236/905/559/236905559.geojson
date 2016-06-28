@@ -2,13 +2,14 @@
   "id": 236905559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532342,47.350025,8.532342,47.350025",
     "geom:latitude":47.350025,
     "geom:longitude":8.532342,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 285",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236905559,
-    "wof:lastmodified":1449002845,
+    "wof:lastmodified":1466213014,
     "wof:name":"Heinrich Meier Datenverarbeitung",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532342,47.350025,8.532342,47.350025],
+  "bbox": [
+    8.532342,
+    47.350025,
+    8.532342,
+    47.350025
+],
   "geometry": {"coordinates":[8.532342,47.350025],"type":"Point"}
 }

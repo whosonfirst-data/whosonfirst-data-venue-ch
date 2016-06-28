@@ -2,13 +2,14 @@
   "id": 219783725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.184398,47.413521,9.184398,47.413521",
     "geom:latitude":47.413521,
     "geom:longitude":9.184398,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachstrasse 19",
     "sg:city":"Flawil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219783725,
-    "wof:lastmodified":1449070482,
+    "wof:lastmodified":1466212421,
     "wof:name":"Bar Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.184398,47.413521,9.184398,47.413521],
+  "bbox": [
+    9.184398,
+    47.413521,
+    9.184398,
+    47.413521
+],
   "geometry": {"coordinates":[9.184398,47.413521],"type":"Point"}
 }

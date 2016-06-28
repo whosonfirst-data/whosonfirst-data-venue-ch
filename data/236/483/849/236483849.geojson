@@ -2,13 +2,14 @@
   "id": 236483849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.589197,47.587105,7.589197,47.587105",
     "geom:latitude":47.587105,
     "geom:longitude":7.589197,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Westquaistrasse 60 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236483849,
-    "wof:lastmodified":1449004399,
+    "wof:lastmodified":1466212492,
     "wof:name":"Navis Schiffahrt Ag Transportgesch\u00e4fte Auf Fl\u00fcssen, Kan\u00e4len Usw",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.589197,47.587105,7.589197,47.587105],
+  "bbox": [
+    7.589197,
+    47.587105,
+    7.589197,
+    47.587105
+],
   "geometry": {"coordinates":[7.589197,47.587105],"type":"Point"}
 }

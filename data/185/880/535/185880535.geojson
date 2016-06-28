@@ -2,13 +2,14 @@
   "id": 185880535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.602486,46.775883,6.602486,46.775883",
     "geom:latitude":46.775883,
     "geom:longitude":6.602486,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"En Chemin 1436 Chamblon. Postfach",
     "sg:city":"Chamblon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185880535,
-    "wof:lastmodified":1449008221,
+    "wof:lastmodified":1466209714,
     "wof:name":"Iconcept Entreprise G\u00e9n\u00e9rale Sa Entrepr. G\u00e9n\u00e9rale, Immeubles Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.602486,46.775883,6.602486,46.775883],
+  "bbox": [
+    6.602486,
+    46.775883,
+    6.602486,
+    46.775883
+],
   "geometry": {"coordinates":[6.602486,46.775883],"type":"Point"}
 }

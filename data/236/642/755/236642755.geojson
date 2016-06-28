@@ -2,13 +2,14 @@
   "id": 236642755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.303399,47.077305,8.303399,47.077305",
     "geom:latitude":47.077305,
     "geom:longitude":8.303399,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sternmattstrasse 10a",
     "sg:city":"Emmen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236642755,
-    "wof:lastmodified":1449001820,
+    "wof:lastmodified":1466212743,
     "wof:name":"Sonderegger Solutions Gmbh",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "brokerage"
     ]
 },
-  "bbox": [8.303399,47.077305,8.303399,47.077305],
+  "bbox": [
+    8.303399,
+    47.077305,
+    8.303399,
+    47.077305
+],
   "geometry": {"coordinates":[8.303399,47.077305],"type":"Point"}
 }

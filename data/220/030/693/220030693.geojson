@@ -2,13 +2,14 @@
   "id": 220030693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.082694,47.033024,9.082694,47.033024",
     "geom:latitude":47.033024,
     "geom:longitude":9.082694,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6hlhof 11",
     "sg:city":"Ennenda",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220030693,
-    "wof:lastmodified":1449074324,
+    "wof:lastmodified":1466209136,
     "wof:name":"Max Egli Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.082694,47.033024,9.082694,47.033024],
+  "bbox": [
+    9.082694,
+    47.033024,
+    9.082694,
+    47.033024
+],
   "geometry": {"coordinates":[9.082694,47.033024],"type":"Point"}
 }

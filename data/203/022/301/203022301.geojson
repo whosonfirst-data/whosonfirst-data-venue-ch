@@ -2,13 +2,14 @@
   "id": 203022301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560925,47.352196,8.560925,47.352196",
     "geom:latitude":47.352196,
     "geom:longitude":8.560925,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Arosastrasse 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203022301,
-    "wof:lastmodified":1449025544,
+    "wof:lastmodified":1466209641,
     "wof:name":"Johannes Gees .com. Internet Konzept, Consulting U. Design",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560925,47.352196,8.560925,47.352196],
+  "bbox": [
+    8.560925,
+    47.352196,
+    8.560925,
+    47.352196
+],
   "geometry": {"coordinates":[8.560925,47.352196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186126499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.210452,46.759987,7.210452,46.759987",
     "geom:latitude":46.759987,
     "geom:longitude":7.210452,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 10",
     "sg:city":"Giffers",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186126499,
-    "wof:lastmodified":1449051372,
+    "wof:lastmodified":1466211152,
     "wof:name":"Krattinger & Rogge Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.210452,46.759987,7.210452,46.759987],
+  "bbox": [
+    7.210452,
+    46.759987,
+    7.210452,
+    46.759987
+],
   "geometry": {"coordinates":[7.210452,46.759987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203385251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.074755,47.360451,9.074755,47.360451",
     "geom:latitude":47.360451,
     "geom:longitude":9.074755,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 21",
     "sg:city":"B\u00fctschwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203385251,
-    "wof:lastmodified":1449026070,
+    "wof:lastmodified":1466211376,
     "wof:name":"Dr.med.peter Graf Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.074755,47.360451,9.074755,47.360451],
+  "bbox": [
+    9.074755,
+    47.360451,
+    9.074755,
+    47.360451
+],
   "geometry": {"coordinates":[9.074755,47.360451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186496109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.27778,47.352341,8.27778,47.352341",
     "geom:latitude":47.352341,
     "geom:longitude":8.27778,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4reggstrasse 14 4900 Langenthal. Postfach",
     "sg:city":"Langenthal",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186496109,
-    "wof:lastmodified":1449052605,
+    "wof:lastmodified":1466211403,
     "wof:name":"Alterssiedlung Chappelehof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.27778,47.352341,8.27778,47.352341],
+  "bbox": [
+    8.27778,
+    47.352341,
+    8.27778,
+    47.352341
+],
   "geometry": {"coordinates":[8.27778,47.352341],"type":"Point"}
 }

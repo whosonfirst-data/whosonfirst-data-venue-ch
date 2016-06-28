@@ -2,13 +2,14 @@
   "id": 219373117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.571487,47.559761,7.571487,47.559761",
     "geom:latitude":47.559761,
     "geom:longitude":7.571487,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Colmarerstrasse 49",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219373117,
-    "wof:lastmodified":1449072209,
+    "wof:lastmodified":1466209902,
     "wof:name":"Iee Ag Automation & Elektronik",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automation"
     ]
 },
-  "bbox": [7.571487,47.559761,7.571487,47.559761],
+  "bbox": [
+    7.571487,
+    47.559761,
+    7.571487,
+    47.559761
+],
   "geometry": {"coordinates":[7.571487,47.559761],"type":"Point"}
 }

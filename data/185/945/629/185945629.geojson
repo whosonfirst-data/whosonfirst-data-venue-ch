@@ -2,13 +2,14 @@
   "id": 185945629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58403,47.550659,7.58403,47.550659",
     "geom:latitude":47.550659,
     "geom:longitude":7.58403,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birsigstrasse 30",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185945629,
-    "wof:lastmodified":1449006741,
+    "wof:lastmodified":1466210238,
     "wof:name":"Christine Boeglin Massagen",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.58403,47.550659,7.58403,47.550659],
+  "bbox": [
+    7.58403,
+    47.550659,
+    7.58403,
+    47.550659
+],
   "geometry": {"coordinates":[7.58403,47.550659],"type":"Point"}
 }

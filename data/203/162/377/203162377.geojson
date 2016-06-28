@@ -2,13 +2,14 @@
   "id": 203162377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.144709,46.201344,6.144709,46.201344",
     "geom:latitude":46.201344,
     "geom:longitude":6.144709,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rampe De La Treille 3",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203162377,
-    "wof:lastmodified":1449026575,
+    "wof:lastmodified":1466209055,
     "wof:name":"Dr M\u00e9d. Christian De Saussure M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.144709,46.201344,6.144709,46.201344],
+  "bbox": [
+    6.144709,
+    46.201344,
+    6.144709,
+    46.201344
+],
   "geometry": {"coordinates":[6.144709,46.201344],"type":"Point"}
 }

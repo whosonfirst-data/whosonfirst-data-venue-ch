@@ -2,13 +2,14 @@
   "id": 219675553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.853208,46.480026,6.853208,46.480026",
     "geom:latitude":46.480026,
     "geom:longitude":6.853208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Canova 1",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219675553,
-    "wof:lastmodified":1449072177,
+    "wof:lastmodified":1466212011,
     "wof:name":"Riviera Finance Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.853208,46.480026,6.853208,46.480026],
+  "bbox": [
+    6.853208,
+    46.480026,
+    6.853208,
+    46.480026
+],
   "geometry": {"coordinates":[6.853208,46.480026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236878459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.515684,47.220467,7.515684,47.220467",
     "geom:latitude":47.220467,
     "geom:longitude":7.515684,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ischimattstrasse 5",
     "sg:city":"Langendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236878459,
-    "wof:lastmodified":1449003365,
+    "wof:lastmodified":1466213009,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.515684,47.220467,7.515684,47.220467],
+  "bbox": [
+    7.515684,
+    47.220467,
+    7.515684,
+    47.220467
+],
   "geometry": {"coordinates":[7.515684,47.220467],"type":"Point"}
 }

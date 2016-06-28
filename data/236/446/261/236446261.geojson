@@ -2,13 +2,14 @@
   "id": 236446261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.616445,46.775875,7.616445,46.775875",
     "geom:latitude":46.775875,
     "geom:longitude":7.616445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Bernstrasse 143 3613 Steffisburg. Postfach",
     "sg:city":"Steffisburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236446261,
-    "wof:lastmodified":1449004911,
+    "wof:lastmodified":1466212309,
     "wof:name":"Leihbibliothek Frau Margarete K\u00fcnzler",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.616445,46.775875,7.616445,46.775875],
+  "bbox": [
+    7.616445,
+    46.775875,
+    7.616445,
+    46.775875
+],
   "geometry": {"coordinates":[7.616445,46.775875],"type":"Point"}
 }

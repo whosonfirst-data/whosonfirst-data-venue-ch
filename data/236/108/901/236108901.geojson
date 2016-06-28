@@ -2,13 +2,14 @@
   "id": 236108901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.245446,47.105953,7.245446,47.105953",
     "geom:latitude":47.105953,
     "geom:longitude":7.245446,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 32",
     "sg:city":"Bellmund",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236108901,
-    "wof:lastmodified":1449001723,
+    "wof:lastmodified":1466209871,
     "wof:name":"K\u00fcffer Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.245446,47.105953,7.245446,47.105953],
+  "bbox": [
+    7.245446,
+    47.105953,
+    7.245446,
+    47.105953
+],
   "geometry": {"coordinates":[7.245446,47.105953],"type":"Point"}
 }

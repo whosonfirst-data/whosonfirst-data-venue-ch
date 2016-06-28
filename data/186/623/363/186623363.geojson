@@ -2,13 +2,14 @@
   "id": 186623363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.053456,47.414848,8.053456,47.414848",
     "geom:latitude":47.414848,
     "geom:longitude":8.053456,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenbergstrasse 15 5024 K\u00fcttigen. Postfach",
     "sg:city":"K\u00fcttigen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186623363,
-    "wof:lastmodified":1449052242,
+    "wof:lastmodified":1466212069,
     "wof:name":"Affentranger Architekten Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.053456,47.414848,8.053456,47.414848],
+  "bbox": [
+    8.053456,
+    47.414848,
+    8.053456,
+    47.414848
+],
   "geometry": {"coordinates":[8.053456,47.414848],"type":"Point"}
 }

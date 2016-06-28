@@ -2,13 +2,14 @@
   "id": 186035501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.428801,47.234192,8.428801,47.234192",
     "geom:latitude":47.234192,
     "geom:longitude":8.428801,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bungartstrasse 8",
     "sg:city":"Maschwanden",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186035501,
-    "wof:lastmodified":1449052496,
+    "wof:lastmodified":1466209798,
     "wof:name":"B\u00fctler Markus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.428801,47.234192,8.428801,47.234192],
+  "bbox": [
+    8.428801,
+    47.234192,
+    8.428801,
+    47.234192
+],
   "geometry": {"coordinates":[8.428801,47.234192],"type":"Point"}
 }

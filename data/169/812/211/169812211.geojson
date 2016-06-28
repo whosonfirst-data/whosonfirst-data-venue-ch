@@ -2,13 +2,14 @@
   "id": 169812211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.246,47.628769,9.246,47.628769",
     "geom:latitude":47.628769,
     "geom:longitude":9.246,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seedorfstrasse 1 8597 Landschlacht. Postfach 81",
     "sg:city":"Landschlacht",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169812211,
-    "wof:lastmodified":1449032776,
+    "wof:lastmodified":1466209153,
     "wof:name":"Altrac Landschlacht Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.246,47.628769,9.246,47.628769],
+  "bbox": [
+    9.246,
+    47.628769,
+    9.246,
+    47.628769
+],
   "geometry": {"coordinates":[9.246,47.628769],"type":"Point"}
 }

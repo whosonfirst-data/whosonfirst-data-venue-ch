@@ -2,13 +2,14 @@
   "id": 219594567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.017853,47.157574,7.017853,47.157574",
     "geom:latitude":47.157574,
     "geom:longitude":7.017853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Principale 24",
     "sg:city":"Villeret",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219594567,
-    "wof:lastmodified":1449070906,
+    "wof:lastmodified":1466211760,
     "wof:name":"Raiffeisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.017853,47.157574,7.017853,47.157574],
+  "bbox": [
+    7.017853,
+    47.157574,
+    7.017853,
+    47.157574
+],
   "geometry": {"coordinates":[7.017853,47.157574],"type":"Point"}
 }

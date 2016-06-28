@@ -2,13 +2,14 @@
   "id": 203330383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54036,47.391201,8.54036,47.391201",
     "geom:latitude":47.391201,
     "geom:longitude":8.54036,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Eisernen Zeit 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203330383,
-    "wof:lastmodified":1449025880,
+    "wof:lastmodified":1466210838,
     "wof:name":"Dr.med.hans Schiller Spezialarzt Fmh",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54036,47.391201,8.54036,47.391201],
+  "bbox": [
+    8.54036,
+    47.391201,
+    8.54036,
+    47.391201
+],
   "geometry": {"coordinates":[8.54036,47.391201],"type":"Point"}
 }

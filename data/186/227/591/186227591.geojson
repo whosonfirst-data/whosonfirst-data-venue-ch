@@ -2,13 +2,14 @@
   "id": 186227591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.060782,47.399536,8.060782,47.399536",
     "geom:latitude":47.399536,
     "geom:longitude":8.060782,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Delfterstrasse 21",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186227591,
-    "wof:lastmodified":1449050983,
+    "wof:lastmodified":1466209300,
     "wof:name":"Thomas Merkli, Bauleitung Und Bauplanung, Me Consulting",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.060782,47.399536,8.060782,47.399536],
+  "bbox": [
+    8.060782,
+    47.399536,
+    8.060782,
+    47.399536
+],
   "geometry": {"coordinates":[8.060782,47.399536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185861399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.154291,46.198666,6.154291,46.198666",
     "geom:latitude":46.198666,
     "geom:longitude":6.154291,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nassa 6900 Lugano. Postfach Caselle Postale 2810",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":185861399,
-    "wof:lastmodified":1449008186,
+    "wof:lastmodified":1466209583,
     "wof:name":"Bgg, Banque Genevoise De Gestion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.154291,46.198666,6.154291,46.198666],
+  "bbox": [
+    6.154291,
+    46.198666,
+    6.154291,
+    46.198666
+],
   "geometry": {"coordinates":[6.154291,46.198666],"type":"Point"}
 }

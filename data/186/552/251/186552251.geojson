@@ -2,13 +2,14 @@
   "id": 186552251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.709823,47.280762,7.709823,47.280762",
     "geom:latitude":47.280762,
     "geom:longitude":7.709823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Garwidenstrasse 10",
     "sg:city":"Oensingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186552251,
-    "wof:lastmodified":1449051496,
+    "wof:lastmodified":1466211872,
     "wof:name":"Trifer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.709823,47.280762,7.709823,47.280762],
+  "bbox": [
+    7.709823,
+    47.280762,
+    7.709823,
+    47.280762
+],
   "geometry": {"coordinates":[7.709823,47.280762],"type":"Point"}
 }

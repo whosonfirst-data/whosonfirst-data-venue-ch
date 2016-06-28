@@ -2,13 +2,14 @@
   "id": 236298811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.927389,46.423443,6.927389,46.423443",
     "geom:latitude":46.423443,
     "geom:longitude":6.927389,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Veraye 28",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236298811,
-    "wof:lastmodified":1449002354,
+    "wof:lastmodified":1466211851,
     "wof:name":"Giovanni Basso Entreprise De Taxis",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.927389,46.423443,6.927389,46.423443],
+  "bbox": [
+    6.927389,
+    46.423443,
+    6.927389,
+    46.423443
+],
   "geometry": {"coordinates":[6.927389,46.423443],"type":"Point"}
 }

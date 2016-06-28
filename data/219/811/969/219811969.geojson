@@ -2,13 +2,14 @@
   "id": 219811969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.881747,46.290424,7.881747,46.290424",
     "geom:latitude":46.290424,
     "geom:longitude":7.881747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Martinistrasse 1",
     "sg:city":"Visp",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219811969,
-    "wof:lastmodified":1449072091,
+    "wof:lastmodified":1466212407,
     "wof:name":"Martini-bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.881747,46.290424,7.881747,46.290424],
+  "bbox": [
+    7.881747,
+    46.290424,
+    7.881747,
+    46.290424
+],
   "geometry": {"coordinates":[7.881747,46.290424],"type":"Point"}
 }

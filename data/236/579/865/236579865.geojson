@@ -2,13 +2,14 @@
   "id": 236579865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.320054,47.055656,8.320054,47.055656",
     "geom:latitude":47.055656,
     "geom:longitude":8.320054,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenstrasse 47",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236579865,
-    "wof:lastmodified":1449002545,
+    "wof:lastmodified":1466212649,
     "wof:name":"Artefides Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.320054,47.055656,8.320054,47.055656],
+  "bbox": [
+    8.320054,
+    47.055656,
+    8.320054,
+    47.055656
+],
   "geometry": {"coordinates":[8.320054,47.055656],"type":"Point"}
 }

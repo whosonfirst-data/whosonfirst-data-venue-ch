@@ -2,13 +2,14 @@
   "id": 202842829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.208338,47.337673,7.208338,47.337673",
     "geom:latitude":47.337673,
     "geom:longitude":7.208338,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Places 10",
     "sg:city":"Glovelier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202842829,
-    "wof:lastmodified":1449060301,
+    "wof:lastmodified":1466211882,
     "wof:name":"M'arch S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.208338,47.337673,7.208338,47.337673],
+  "bbox": [
+    7.208338,
+    47.337673,
+    7.208338,
+    47.337673
+],
   "geometry": {"coordinates":[7.208338,47.337673],"type":"Point"}
 }

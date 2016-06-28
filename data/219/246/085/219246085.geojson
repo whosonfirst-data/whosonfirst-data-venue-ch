@@ -2,13 +2,14 @@
   "id": 219246085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.507802,47.212399,7.507802,47.212399",
     "geom:latitude":47.212399,
     "geom:longitude":7.507802,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merstrasse 8 4512 Bellach. Postfach 632",
     "sg:city":"Bellach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219246085,
-    "wof:lastmodified":1449070623,
+    "wof:lastmodified":1466211488,
     "wof:name":"Werkhof-garage Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.507802,47.212399,7.507802,47.212399],
+  "bbox": [
+    7.507802,
+    47.212399,
+    7.507802,
+    47.212399
+],
   "geometry": {"coordinates":[7.507802,47.212399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202950543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.145508,61.604019,-149.145508,61.604019",
     "geom:latitude":61.604019,
     "geom:longitude":-149.145508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chalet La Grange",
     "sg:city":"Montana",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202950543,
-    "wof:lastmodified":1449061105,
+    "wof:lastmodified":1466212315,
     "wof:name":"Ars\u00e8ne Cordonier Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.145508,61.604019,-149.145508,61.604019],
-  "geometry": {"coordinates":[-149.145508,61.604019],"type":"Point"}
+  "bbox": [
+    -149.145508,
+    61.604019,
+    -149.145508,
+    61.604019
+],
+  "geometry": {"coordinates":[-149.14550800000001,61.604019],"type":"Point"}
 }

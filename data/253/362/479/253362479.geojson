@@ -2,13 +2,14 @@
   "id": 253362479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.139396,46.188057,6.139396,46.188057",
     "geom:latitude":46.188057,
     "geom:longitude":6.139396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 103 6300 Zug. Postfach 2233",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253362479,
-    "wof:lastmodified":1449064748,
+    "wof:lastmodified":1466212256,
     "wof:name":"Cerutti S.",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.139396,46.188057,6.139396,46.188057],
+  "bbox": [
+    6.139396,
+    46.188057,
+    6.139396,
+    46.188057
+],
   "geometry": {"coordinates":[6.139396,46.188057],"type":"Point"}
 }

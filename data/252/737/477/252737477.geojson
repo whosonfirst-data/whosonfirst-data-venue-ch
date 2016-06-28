@@ -2,13 +2,14 @@
   "id": 252737477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.570684,46.936798,9.570684,46.936798",
     "geom:latitude":46.936798,
     "geom:longitude":9.570684,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Postgasse 23",
     "sg:city":"Zizers",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252737477,
-    "wof:lastmodified":1449005670,
+    "wof:lastmodified":1466209199,
     "wof:name":"Hutter Jakob, Weinbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.570684,46.936798,9.570684,46.936798],
+  "bbox": [
+    9.570684,
+    46.936798,
+    9.570684,
+    46.936798
+],
   "geometry": {"coordinates":[9.570684,46.936798],"type":"Point"}
 }

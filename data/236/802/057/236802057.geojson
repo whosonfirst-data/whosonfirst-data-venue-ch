@@ -2,13 +2,14 @@
   "id": 236802057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.867384,46.682938,7.867384,46.682938",
     "geom:latitude":46.682938,
     "geom:longitude":7.867384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obergrundstrasse 28",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236802057,
-    "wof:lastmodified":1449004505,
+    "wof:lastmodified":1466212991,
     "wof:name":"Daniel Rossel Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.867384,46.682938,7.867384,46.682938],
+  "bbox": [
+    7.867384,
+    46.682938,
+    7.867384,
+    46.682938
+],
   "geometry": {"coordinates":[7.867384,46.682938],"type":"Point"}
 }

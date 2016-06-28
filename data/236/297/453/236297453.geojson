@@ -2,13 +2,14 @@
   "id": 236297453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.468428,47.315002,8.468428,47.315002",
     "geom:latitude":47.315002,
     "geom:longitude":8.468428,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofwies 11",
     "sg:city":"Bonstetten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236297453,
-    "wof:lastmodified":1449003810,
+    "wof:lastmodified":1466211841,
     "wof:name":"Gaetano Lucenti Taxi",
     "wof:parent_id":85800179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.468428,47.315002,8.468428,47.315002],
+  "bbox": [
+    8.468428,
+    47.315002,
+    8.468428,
+    47.315002
+],
   "geometry": {"coordinates":[8.468428,47.315002],"type":"Point"}
 }

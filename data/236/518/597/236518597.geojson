@@ -2,13 +2,14 @@
   "id": 236518597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.336442,47.078747,8.336442,47.078747",
     "geom:latitude":47.078747,
     "geom:longitude":8.336442,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luzernerstrasse 5",
     "sg:city":"Ebikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236518597,
-    "wof:lastmodified":1449003530,
+    "wof:lastmodified":1466212555,
     "wof:name":"Herzog Ag Ebikon",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.336442,47.078747,8.336442,47.078747],
+  "bbox": [
+    8.336442,
+    47.078747,
+    8.336442,
+    47.078747
+],
   "geometry": {"coordinates":[8.336442,47.078747],"type":"Point"}
 }

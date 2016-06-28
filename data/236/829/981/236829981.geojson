@@ -2,13 +2,14 @@
   "id": 236829981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.401187,47.088844,8.401187,47.088844",
     "geom:latitude":47.088844,
     "geom:longitude":8.401187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorfstrasse 2",
     "sg:city":"Udligenswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236829981,
-    "wof:lastmodified":1449004993,
+    "wof:lastmodified":1466212927,
     "wof:name":"Gisler Christoph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.401187,47.088844,8.401187,47.088844],
+  "bbox": [
+    8.401187,
+    47.088844,
+    8.401187,
+    47.088844
+],
   "geometry": {"coordinates":[8.401187,47.088844],"type":"Point"}
 }

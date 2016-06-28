@@ -2,13 +2,14 @@
   "id": 219158535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435483,46.947159,7.435483,46.947159",
     "geom:latitude":46.947159,
     "geom:longitude":7.435483,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laupenstrasse 15",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219158535,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466210022,
     "wof:name":"Dr.med.violetta Rossi Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435483,46.947159,7.435483,46.947159],
+  "bbox": [
+    7.435483,
+    46.947159,
+    7.435483,
+    46.947159
+],
   "geometry": {"coordinates":[7.435483,46.947159],"type":"Point"}
 }

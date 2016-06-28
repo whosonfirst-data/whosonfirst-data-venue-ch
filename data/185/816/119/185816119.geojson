@@ -2,13 +2,14 @@
   "id": 185816119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.119966,46.866249,7.119966,46.866249",
     "geom:latitude":46.866249,
     "geom:longitude":7.119966,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Rte De L'industrie Cp 133",
     "sg:city":"Courtepin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185816119,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466209222,
     "wof:name":"Optigal Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "animal"
     ]
 },
-  "bbox": [7.119966,46.866249,7.119966,46.866249],
+  "bbox": [
+    7.119966,
+    46.866249,
+    7.119966,
+    46.866249
+],
   "geometry": {"coordinates":[7.119966,46.866249],"type":"Point"}
 }

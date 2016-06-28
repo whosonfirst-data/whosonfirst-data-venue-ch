@@ -2,13 +2,14 @@
   "id": 236439367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.641189,46.88092,8.641189,46.88092",
     "geom:latitude":46.88092,
     "geom:longitude":8.641189,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rickenbachstrasse 24 6430 Schwyz. Postfach 260",
     "sg:city":"Schwyz",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236439367,
-    "wof:lastmodified":1449002377,
+    "wof:lastmodified":1466212467,
     "wof:name":"Kantonsbibliothek Uri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [8.641189,46.88092,8.641189,46.88092],
+  "bbox": [
+    8.641189,
+    46.88092,
+    8.641189,
+    46.88092
+],
   "geometry": {"coordinates":[8.641189,46.88092],"type":"Point"}
 }

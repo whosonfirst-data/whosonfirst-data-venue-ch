@@ -2,13 +2,14 @@
   "id": 186463933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.389726,47.403343,8.389726,47.403343",
     "geom:latitude":47.403343,
     "geom:longitude":8.389726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Staffelackerstrasse 20",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186463933,
-    "wof:lastmodified":1449052231,
+    "wof:lastmodified":1466211118,
     "wof:name":"Mazzotta & Guccione Gipsergesch\u00e4ft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.389726,47.403343,8.389726,47.403343],
+  "bbox": [
+    8.389726,
+    47.403343,
+    8.389726,
+    47.403343
+],
   "geometry": {"coordinates":[8.389726,47.403343],"type":"Point"}
 }

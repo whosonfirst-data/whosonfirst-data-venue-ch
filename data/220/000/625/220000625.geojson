@@ -2,13 +2,14 @@
   "id": 220000625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.988554,47.16943,8.988554,47.16943",
     "geom:latitude":47.16943,
     "geom:longitude":8.988554,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 31",
     "sg:city":"Reichenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220000625,
-    "wof:lastmodified":1449074166,
+    "wof:lastmodified":1466211621,
     "wof:name":"Armin Kistler Kistler Holz Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.988554,47.16943,8.988554,47.16943],
+  "bbox": [
+    8.988554,
+    47.16943,
+    8.988554,
+    47.16943
+],
   "geometry": {"coordinates":[8.988554,47.16943],"type":"Point"}
 }

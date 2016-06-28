@@ -2,13 +2,14 @@
   "id": 253396331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.69074,47.528507,7.69074,47.528507",
     "geom:latitude":47.528507,
     "geom:longitude":7.69074,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rochacherweg 5",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253396331,
-    "wof:lastmodified":1449064781,
+    "wof:lastmodified":1466212270,
     "wof:name":"Interior Service Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.69074,47.528507,7.69074,47.528507],
+  "bbox": [
+    7.69074,
+    47.528507,
+    7.69074,
+    47.528507
+],
   "geometry": {"coordinates":[7.69074,47.528507],"type":"Point"}
 }

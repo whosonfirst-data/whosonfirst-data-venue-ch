@@ -2,13 +2,14 @@
   "id": 185703173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633879,46.517677,6.633879,46.517677",
     "geom:latitude":46.517677,
     "geom:longitude":6.633879,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Grotte 8 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185703173,
-    "wof:lastmodified":1449007094,
+    "wof:lastmodified":1466211101,
     "wof:name":"Edouard Petitpierre Etude D'avocat",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.633879,46.517677,6.633879,46.517677],
+  "bbox": [
+    6.633879,
+    46.517677,
+    6.633879,
+    46.517677
+],
   "geometry": {"coordinates":[6.633879,46.517677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185842871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.57778,47.406925,8.57778,47.406925",
     "geom:latitude":47.406925,
     "geom:longitude":8.57778,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wechselwiesenstrasse",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185842871,
-    "wof:lastmodified":1449006726,
+    "wof:lastmodified":1466209418,
     "wof:name":"Comet Air-transport Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "forwarders"
     ]
 },
-  "bbox": [8.57778,47.406925,8.57778,47.406925],
+  "bbox": [
+    8.57778,
+    47.406925,
+    8.57778,
+    47.406925
+],
   "geometry": {"coordinates":[8.57778,47.406925],"type":"Point"}
 }

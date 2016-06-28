@@ -2,13 +2,14 @@
   "id": 203339887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.895475,46.701931,7.895475,46.701931",
     "geom:latitude":46.701931,
     "geom:longitude":7.895475,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 13",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203339887,
-    "wof:lastmodified":1449025757,
+    "wof:lastmodified":1466210927,
     "wof:name":"Dr.med.heidi Grossenbacher Spezial\u00e4rztin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.895475,46.701931,7.895475,46.701931],
+  "bbox": [
+    7.895475,
+    46.701931,
+    7.895475,
+    46.701931
+],
   "geometry": {"coordinates":[7.895475,46.701931],"type":"Point"}
 }

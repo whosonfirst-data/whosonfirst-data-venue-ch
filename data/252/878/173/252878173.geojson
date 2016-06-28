@@ -2,13 +2,14 @@
   "id": 252878173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.152371,46.799789,7.152371,46.799789",
     "geom:latitude":46.799789,
     "geom:longitude":7.152371,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De P\u00e9rolles 21b",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252878173,
-    "wof:lastmodified":1449005986,
+    "wof:lastmodified":1466210750,
     "wof:name":"Wear Shop Perolles Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.152371,46.799789,7.152371,46.799789],
+  "bbox": [
+    7.152371,
+    46.799789,
+    7.152371,
+    46.799789
+],
   "geometry": {"coordinates":[7.152371,46.799789],"type":"Point"}
 }

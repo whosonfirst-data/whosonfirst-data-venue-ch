@@ -2,13 +2,14 @@
   "id": 203069819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.352744,46.234722,7.352744,46.234722",
     "geom:latitude":46.234722,
     "geom:longitude":7.352744,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Gravelone 47",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203069819,
-    "wof:lastmodified":1449026159,
+    "wof:lastmodified":1466210520,
     "wof:name":"Renaud Rouvinez Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.352744,46.234722,7.352744,46.234722],
+  "bbox": [
+    7.352744,
+    46.234722,
+    7.352744,
+    46.234722
+],
   "geometry": {"coordinates":[7.352744,46.234722],"type":"Point"}
 }

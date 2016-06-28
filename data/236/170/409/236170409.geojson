@@ -2,13 +2,14 @@
   "id": 236170409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.311504,47.408447,9.311504,47.408447",
     "geom:latitude":47.408447,
     "geom:longitude":9.311504,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerenweg 1",
     "sg:city":"R\u00e4terschen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236170409,
-    "wof:lastmodified":1449001905,
+    "wof:lastmodified":1466210484,
     "wof:name":"Mz Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.311504,47.408447,9.311504,47.408447],
+  "bbox": [
+    9.311504,
+    47.408447,
+    9.311504,
+    47.408447
+],
   "geometry": {"coordinates":[9.311504,47.408447],"type":"Point"}
 }

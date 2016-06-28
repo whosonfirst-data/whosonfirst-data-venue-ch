@@ -2,13 +2,14 @@
   "id": 186258289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.141031,47.408344,8.141031,47.408344",
     "geom:latitude":47.408344,
     "geom:longitude":8.141031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruggerstrasse 74",
     "sg:city":"Rupperswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186258289,
-    "wof:lastmodified":1449052459,
+    "wof:lastmodified":1466209536,
     "wof:name":"Zobrist Hans Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.141031,47.408344,8.141031,47.408344],
+  "bbox": [
+    8.141031,
+    47.408344,
+    8.141031,
+    47.408344
+],
   "geometry": {"coordinates":[8.141031,47.408344],"type":"Point"}
 }

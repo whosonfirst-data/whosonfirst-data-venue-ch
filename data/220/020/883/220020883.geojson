@@ -2,13 +2,14 @@
   "id": 220020883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.87408,47.332111,8.87408,47.332111",
     "geom:latitude":47.332111,
     "geom:longitude":8.87408,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bettswil",
     "sg:city":"B\u00e4retswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220020883,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1466209057,
     "wof:name":"Jakob Mittelholzer Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.87408,47.332111,8.87408,47.332111],
+  "bbox": [
+    8.87408,
+    47.332111,
+    8.87408,
+    47.332111
+],
   "geometry": {"coordinates":[8.87408,47.332111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202952633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.638562,46.518173,6.638562,46.518173",
     "geom:latitude":46.518173,
     "geom:longitude":6.638562,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Villamont 17",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202952633,
-    "wof:lastmodified":1449061927,
+    "wof:lastmodified":1466212415,
     "wof:name":"B. Corbat & B. Cavassini Bureau D'architecte",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.638562,46.518173,6.638562,46.518173],
+  "bbox": [
+    6.638562,
+    46.518173,
+    6.638562,
+    46.518173
+],
   "geometry": {"coordinates":[6.638562,46.518173],"type":"Point"}
 }

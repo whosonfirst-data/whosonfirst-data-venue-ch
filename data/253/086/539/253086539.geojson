@@ -2,13 +2,14 @@
   "id": 253086539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.519296,47.33984,8.519296,47.33984",
     "geom:latitude":47.33984,
     "geom:longitude":8.519296,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 121",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253086539,
-    "wof:lastmodified":1449064822,
+    "wof:lastmodified":1466209779,
     "wof:name":"Esso Schweiz Gmbh Service Station Manegg",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.519296,47.33984,8.519296,47.33984],
+  "bbox": [
+    8.519296,
+    47.33984,
+    8.519296,
+    47.33984
+],
   "geometry": {"coordinates":[8.519296,47.33984],"type":"Point"}
 }

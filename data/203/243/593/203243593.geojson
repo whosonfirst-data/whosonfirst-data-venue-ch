@@ -2,13 +2,14 @@
   "id": 203243593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.276873,47.387203,9.276873,47.387203",
     "geom:latitude":47.387203,
     "geom:longitude":9.276873,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Bahnhofstrasse 3",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203243593,
-    "wof:lastmodified":1449025539,
+    "wof:lastmodified":1466209948,
     "wof:name":"Dr.med. Christine Pfiffner Spezial\u00e4rztin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.276873,47.387203,9.276873,47.387203],
+  "bbox": [
+    9.276873,
+    47.387203,
+    9.276873,
+    47.387203
+],
   "geometry": {"coordinates":[9.276873,47.387203],"type":"Point"}
 }

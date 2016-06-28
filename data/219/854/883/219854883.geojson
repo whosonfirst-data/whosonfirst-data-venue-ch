@@ -2,13 +2,14 @@
   "id": 219854883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.63687,47.371593,8.63687,47.371593",
     "geom:latitude":47.371593,
     "geom:longitude":8.63687,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00fcbendorfstrasse 9a",
     "sg:city":"F\u00e4llanden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219854883,
-    "wof:lastmodified":1449073787,
+    "wof:lastmodified":1466212654,
     "wof:name":"Restaurant-pizzeria Quelle",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.63687,47.371593,8.63687,47.371593],
+  "bbox": [
+    8.63687,
+    47.371593,
+    8.63687,
+    47.371593
+],
   "geometry": {"coordinates":[8.63687,47.371593],"type":"Point"}
 }

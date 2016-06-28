@@ -2,13 +2,14 @@
   "id": 253367275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.246859,46.895561,8.246859,46.895561",
     "geom:latitude":46.895561,
     "geom:longitude":8.246859,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4mistrasse 5 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253367275,
-    "wof:lastmodified":1449064562,
+    "wof:lastmodified":1466212151,
     "wof:name":"Buchhandlung Pfammatter Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.246859,46.895561,8.246859,46.895561],
+  "bbox": [
+    8.246859,
+    46.895561,
+    8.246859,
+    46.895561
+],
   "geometry": {"coordinates":[8.246859,46.895561],"type":"Point"}
 }

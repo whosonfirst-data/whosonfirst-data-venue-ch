@@ -2,13 +2,14 @@
   "id": 236305183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.31987,47.151516,7.31987,47.151516",
     "geom:latitude":47.151516,
     "geom:longitude":7.31987,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talstrasse 23",
     "sg:city":"Safnern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236305183,
-    "wof:lastmodified":1449002053,
+    "wof:lastmodified":1466211745,
     "wof:name":"Kurt M\u00fcller Taxi-blitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.31987,47.151516,7.31987,47.151516],
+  "bbox": [
+    7.31987,
+    47.151516,
+    7.31987,
+    47.151516
+],
   "geometry": {"coordinates":[7.31987,47.151516],"type":"Point"}
 }

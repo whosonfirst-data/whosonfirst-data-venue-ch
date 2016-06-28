@@ -2,13 +2,14 @@
   "id": 203196705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.64738,46.516026,6.64738,46.516026",
     "geom:latitude":46.516026,
     "geom:longitude":6.64738,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du L\u00e9man 37",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":203196705,
-    "wof:lastmodified":1449025361,
+    "wof:lastmodified":1466209429,
     "wof:name":"Dr M\u00e9d. Joakim Delarive M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.64738,46.516026,6.64738,46.516026],
+  "bbox": [
+    6.64738,
+    46.516026,
+    6.64738,
+    46.516026
+],
   "geometry": {"coordinates":[6.64738,46.516026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169694395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.634131,46.561989,6.634131,46.561989",
     "geom:latitude":46.561989,
     "geom:longitude":6.634131,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hornimattstrasse 26",
     "sg:city":"Wildegg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169694395,
-    "wof:lastmodified":1449033611,
+    "wof:lastmodified":1466210882,
     "wof:name":"Giuseppe Tropea",
     "wof:parent_id":85800151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [6.634131,46.561989,6.634131,46.561989],
+  "bbox": [
+    6.634131,
+    46.561989,
+    6.634131,
+    46.561989
+],
   "geometry": {"coordinates":[6.634131,46.561989],"type":"Point"}
 }

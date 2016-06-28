@@ -2,13 +2,14 @@
   "id": 252837229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.177208,47.261833,8.177208,47.261833",
     "geom:latitude":47.261833,
     "geom:longitude":8.177208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"France Avenue De 26 1004 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252837229,
-    "wof:lastmodified":1449005579,
+    "wof:lastmodified":1466210316,
     "wof:name":"Hunziker Hemden Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.177208,47.261833,8.177208,47.261833],
+  "bbox": [
+    8.177208,
+    47.261833,
+    8.177208,
+    47.261833
+],
   "geometry": {"coordinates":[8.177208,47.261833],"type":"Point"}
 }

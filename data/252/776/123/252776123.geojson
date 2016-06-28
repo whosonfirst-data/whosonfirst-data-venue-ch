@@ -2,13 +2,14 @@
   "id": 252776123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.565727,47.360352,8.565727,47.360352",
     "geom:latitude":47.360352,
     "geom:longitude":8.565727,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Forchstrasse 173",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252776123,
-    "wof:lastmodified":1449005663,
+    "wof:lastmodified":1466209623,
     "wof:name":"Fos Antik Antiquit\u00e4ten",
     "wof:parent_id":85800057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.565727,47.360352,8.565727,47.360352],
+  "bbox": [
+    8.565727,
+    47.360352,
+    8.565727,
+    47.360352
+],
   "geometry": {"coordinates":[8.565727,47.360352],"type":"Point"}
 }

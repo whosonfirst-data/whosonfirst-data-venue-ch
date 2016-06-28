@@ -2,13 +2,14 @@
   "id": 202876555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.496744,46.508823,6.496744,46.508823",
     "geom:latitude":46.508823,
     "geom:longitude":6.496744,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Foss\u00e9s 20 1110 Morges. Postfach",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202876555,
-    "wof:lastmodified":1449060626,
+    "wof:lastmodified":1466211925,
     "wof:name":"Crottaz Daniel Ing\u00e9nieur Civil Sia Sa",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.496744,46.508823,6.496744,46.508823],
+  "bbox": [
+    6.496744,
+    46.508823,
+    6.496744,
+    46.508823
+],
   "geometry": {"coordinates":[6.496744,46.508823],"type":"Point"}
 }

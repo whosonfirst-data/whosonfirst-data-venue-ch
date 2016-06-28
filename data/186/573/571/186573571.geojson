@@ -2,13 +2,14 @@
   "id": 186573571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.407028,40.528782,-106.407028,40.528782",
     "geom:latitude":40.528782,
     "geom:longitude":-106.407028,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenhofstrasse 14",
     "sg:city":"Wald",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186573571,
-    "wof:lastmodified":1449052334,
+    "wof:lastmodified":1466211947,
     "wof:name":"Antik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-106.407028,40.528782,-106.407028,40.528782],
+  "bbox": [
+    -106.407028,
+    40.528782,
+    -106.407028,
+    40.528782
+],
   "geometry": {"coordinates":[-106.407028,40.528782],"type":"Point"}
 }

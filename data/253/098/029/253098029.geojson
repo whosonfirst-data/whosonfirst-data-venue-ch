@@ -2,13 +2,14 @@
   "id": 253098029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.538356,47.374256,8.538356,47.374256",
     "geom:latitude":47.374256,
     "geom:longitude":8.538356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 73",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253098029,
-    "wof:lastmodified":1449065468,
+    "wof:lastmodified":1466209912,
     "wof:name":"Bouvier Gabriella, H\u00f6rger\u00e4te Und H\u00f6rbrillen",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.538356,47.374256,8.538356,47.374256],
+  "bbox": [
+    8.538356,
+    47.374256,
+    8.538356,
+    47.374256
+],
   "geometry": {"coordinates":[8.538356,47.374256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202431311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.16593,46.289516,6.16593,46.289516",
     "geom:latitude":46.289516,
     "geom:longitude":6.16593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Suisse 148",
     "sg:city":"Versoix",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202431311,
-    "wof:lastmodified":1449060450,
+    "wof:lastmodified":1466210300,
     "wof:name":"Bureau Technique Blanc J.-ph.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.16593,46.289516,6.16593,46.289516],
+  "bbox": [
+    6.16593,
+    46.289516,
+    6.16593,
+    46.289516
+],
   "geometry": {"coordinates":[6.16593,46.289516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252971255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.193125,46.8437,7.193125,46.8437",
     "geom:latitude":46.8437,
     "geom:longitude":7.193125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulmenweg 38",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252971255,
-    "wof:lastmodified":1449005973,
+    "wof:lastmodified":1466211664,
     "wof:name":"Stofer Gunter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.193125,46.8437,7.193125,46.8437],
+  "bbox": [
+    7.193125,
+    46.8437,
+    7.193125,
+    46.8437
+],
   "geometry": {"coordinates":[7.193125,46.8437],"type":"Point"}
 }

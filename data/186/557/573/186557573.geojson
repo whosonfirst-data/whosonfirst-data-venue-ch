@@ -2,13 +2,14 @@
   "id": 186557573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.302937,47.42981,8.302937,47.42981",
     "geom:latitude":47.42981,
     "geom:longitude":8.302937,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotrischweg 7",
     "sg:city":"Niederrohrdorf",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186557573,
-    "wof:lastmodified":1449052274,
+    "wof:lastmodified":1466211896,
     "wof:name":"Karlev-audio Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amplifier"
     ]
 },
-  "bbox": [8.302937,47.42981,8.302937,47.42981],
+  "bbox": [
+    8.302937,
+    47.42981,
+    8.302937,
+    47.42981
+],
   "geometry": {"coordinates":[8.302937,47.42981],"type":"Point"}
 }

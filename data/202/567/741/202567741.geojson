@@ -2,13 +2,14 @@
   "id": 202567741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.180938,47.419704,8.180938,47.419704",
     "geom:latitude":47.419704,
     "geom:longitude":8.180938,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse",
     "sg:city":"Flums",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202567741,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466209362,
     "wof:name":"Ingenieurb\u00fcro Martin Schwarz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.180938,47.419704,8.180938,47.419704],
+  "bbox": [
+    8.180938,
+    47.419704,
+    8.180938,
+    47.419704
+],
   "geometry": {"coordinates":[8.180938,47.419704],"type":"Point"}
 }

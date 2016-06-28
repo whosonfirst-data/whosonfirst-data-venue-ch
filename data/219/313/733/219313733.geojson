@@ -2,13 +2,14 @@
   "id": 219313733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593513,46.811687,7.593513,46.811687",
     "geom:latitude":46.811687,
     "geom:longitude":7.593513,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 39",
     "sg:city":"Oppligen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219313733,
-    "wof:lastmodified":1449070473,
+    "wof:lastmodified":1466209379,
     "wof:name":"Silvia Kammermann Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.593513,46.811687,7.593513,46.811687],
+  "bbox": [
+    7.593513,
+    46.811687,
+    7.593513,
+    46.811687
+],
   "geometry": {"coordinates":[7.593513,46.811687],"type":"Point"}
 }

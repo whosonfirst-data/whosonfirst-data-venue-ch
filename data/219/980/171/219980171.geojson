@@ -2,13 +2,14 @@
   "id": 219980171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.504726,47.401775,8.504726,47.401775",
     "geom:latitude":47.401775,
     "geom:longitude":8.504726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Maas 16",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219980171,
-    "wof:lastmodified":1449070622,
+    "wof:lastmodified":1466212675,
     "wof:name":"Hans Wunderli Ingenieurb\u00fcro",
     "wof:parent_id":85800071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.504726,47.401775,8.504726,47.401775],
+  "bbox": [
+    8.504726,
+    47.401775,
+    8.504726,
+    47.401775
+],
   "geometry": {"coordinates":[8.504726,47.401775],"type":"Point"}
 }

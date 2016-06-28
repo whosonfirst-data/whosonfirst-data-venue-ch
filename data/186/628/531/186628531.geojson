@@ -2,13 +2,14 @@
   "id": 186628531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.514698,47.378468,8.514698,47.378468",
     "geom:latitude":47.378468,
     "geom:longitude":8.514698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zypressenstrasse 78 8004 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186628531,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466212107,
     "wof:name":"Alina I Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.514698,47.378468,8.514698,47.378468],
+  "bbox": [
+    8.514698,
+    47.378468,
+    8.514698,
+    47.378468
+],
   "geometry": {"coordinates":[8.514698,47.378468],"type":"Point"}
 }

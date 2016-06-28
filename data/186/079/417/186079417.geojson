@@ -2,13 +2,14 @@
   "id": 186079417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.297025,47.330952,8.297025,47.330952",
     "geom:latitude":47.330952,
     "geom:longitude":8.297025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcelisackerstrasse 29 5622 Waltenschwil. Postfach",
     "sg:city":"Waltenschwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186079417,
-    "wof:lastmodified":1449052557,
+    "wof:lastmodified":1466210538,
     "wof:name":"Gasser B. Bau Gmbh Baugesch\u00e4ft, Bes. Hoch- U. Tiefbauten Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.297025,47.330952,8.297025,47.330952],
+  "bbox": [
+    8.297025,
+    47.330952,
+    8.297025,
+    47.330952
+],
   "geometry": {"coordinates":[8.297025,47.330952],"type":"Point"}
 }

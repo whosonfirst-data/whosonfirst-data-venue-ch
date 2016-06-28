@@ -2,13 +2,14 @@
   "id": 203330855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627546,46.758553,7.627546,46.758553",
     "geom:latitude":46.758553,
     "geom:longitude":7.627546,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4lliz 35",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203330855,
-    "wof:lastmodified":1449025879,
+    "wof:lastmodified":1466210843,
     "wof:name":"Dr.med.hans Streuli Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627546,46.758553,7.627546,46.758553],
+  "bbox": [
+    7.627546,
+    46.758553,
+    7.627546,
+    46.758553
+],
   "geometry": {"coordinates":[7.627546,46.758553],"type":"Point"}
 }

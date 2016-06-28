@@ -2,13 +2,14 @@
   "id": 219212493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.783738,47.501774,8.783738,47.501774",
     "geom:latitude":47.501774,
     "geom:longitude":8.783738,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Halbiacker 5",
     "sg:city":"R\u00e4terschen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219212493,
-    "wof:lastmodified":1449072666,
+    "wof:lastmodified":1466211093,
     "wof:name":"Rizzardo Ag",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "attachment"
     ]
 },
-  "bbox": [8.783738,47.501774,8.783738,47.501774],
+  "bbox": [
+    8.783738,
+    47.501774,
+    8.783738,
+    47.501774
+],
   "geometry": {"coordinates":[8.783738,47.501774],"type":"Point"}
 }

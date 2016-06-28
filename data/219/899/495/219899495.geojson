@@ -2,13 +2,14 @@
   "id": 219899495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.570676,47.278091,8.570676,47.278091",
     "geom:latitude":47.278091,
     "geom:longitude":8.570676,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Speerstrasse 8",
     "sg:city":"Oberrieden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219899495,
-    "wof:lastmodified":1449073732,
+    "wof:lastmodified":1466212628,
     "wof:name":"Wohnbaugenossensch.proagglog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.570676,47.278091,8.570676,47.278091],
+  "bbox": [
+    8.570676,
+    47.278091,
+    8.570676,
+    47.278091
+],
   "geometry": {"coordinates":[8.570676,47.278091],"type":"Point"}
 }

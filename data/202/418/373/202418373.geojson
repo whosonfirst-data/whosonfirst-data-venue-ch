@@ -2,13 +2,14 @@
   "id": 202418373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580548,47.334969,8.580548,47.334969",
     "geom:latitude":47.334969,
     "geom:longitude":8.580548,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 10",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202418373,
-    "wof:lastmodified":1449062108,
+    "wof:lastmodified":1466210034,
     "wof:name":"Brandestini Instruments Technisches B\u00fcro",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580548,47.334969,8.580548,47.334969],
+  "bbox": [
+    8.580548,
+    47.334969,
+    8.580548,
+    47.334969
+],
   "geometry": {"coordinates":[8.580548,47.334969],"type":"Point"}
 }

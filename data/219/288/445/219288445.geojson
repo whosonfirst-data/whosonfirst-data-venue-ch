@@ -2,13 +2,14 @@
   "id": 219288445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.395668,47.44017,9.395668,47.44017",
     "geom:latitude":47.44017,
     "geom:longitude":9.395668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00fcffenwies 17",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219288445,
-    "wof:lastmodified":1449070757,
+    "wof:lastmodified":1466209138,
     "wof:name":"Helmut Steur Autogarage",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.395668,47.44017,9.395668,47.44017],
+  "bbox": [
+    9.395668,
+    47.44017,
+    9.395668,
+    47.44017
+],
   "geometry": {"coordinates":[9.395668,47.44017],"type":"Point"}
 }

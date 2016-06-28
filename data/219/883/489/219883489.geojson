@@ -2,13 +2,14 @@
   "id": 219883489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.245588,47.106964,9.245588,47.106964",
     "geom:latitude":47.106964,
     "geom:longitude":9.245588,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blangs",
     "sg:city":"Quarten",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219883489,
-    "wof:lastmodified":1449073099,
+    "wof:lastmodified":1466212609,
     "wof:name":"Glb Quarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.245588,47.106964,9.245588,47.106964],
+  "bbox": [
+    9.245588,
+    47.106964,
+    9.245588,
+    47.106964
+],
   "geometry": {"coordinates":[9.245588,47.106964],"type":"Point"}
 }

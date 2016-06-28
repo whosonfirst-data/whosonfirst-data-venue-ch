@@ -2,13 +2,14 @@
   "id": 185694763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532813,47.362171,8.532813,47.362171",
     "geom:latitude":47.362171,
     "geom:longitude":8.532813,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Breitingerstrasse 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185694763,
-    "wof:lastmodified":1449007061,
+    "wof:lastmodified":1466211059,
     "wof:name":"Dr.hans Meyer Advokaturb\u00fcro",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532813,47.362171,8.532813,47.362171],
+  "bbox": [
+    8.532813,
+    47.362171,
+    8.532813,
+    47.362171
+],
   "geometry": {"coordinates":[8.532813,47.362171],"type":"Point"}
 }

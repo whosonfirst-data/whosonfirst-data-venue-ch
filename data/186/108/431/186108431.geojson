@@ -2,13 +2,14 @@
   "id": 186108431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44605,46.279324,7.44605,46.279324",
     "geom:latitude":46.279324,
     "geom:longitude":7.44605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Immeuble Les Hauts Du Golf",
     "sg:city":"Lens",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186108431,
-    "wof:lastmodified":1449050308,
+    "wof:lastmodified":1466210963,
     "wof:name":"Immo-crans Invest Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44605,46.279324,7.44605,46.279324],
+  "bbox": [
+    7.44605,
+    46.279324,
+    7.44605,
+    46.279324
+],
   "geometry": {"coordinates":[7.44605,46.279324],"type":"Point"}
 }

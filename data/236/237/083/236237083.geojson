@@ -2,13 +2,14 @@
   "id": 236237083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.541629,47.209911,7.541629,47.209911",
     "geom:latitude":47.209911,
     "geom:longitude":7.541629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 7",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236237083,
-    "wof:lastmodified":1449001739,
+    "wof:lastmodified":1466211215,
     "wof:name":"Stiftung Neues St\u00e4dtebundtheater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.541629,47.209911,7.541629,47.209911],
+  "bbox": [
+    7.541629,
+    47.209911,
+    7.541629,
+    47.209911
+],
   "geometry": {"coordinates":[7.541629,47.209911],"type":"Point"}
 }

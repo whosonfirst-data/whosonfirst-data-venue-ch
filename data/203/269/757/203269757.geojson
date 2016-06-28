@@ -2,13 +2,14 @@
   "id": 203269757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.601151,47.299324,8.601151,47.299324",
     "geom:latitude":47.299324,
     "geom:longitude":8.601151,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Riet 6",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203269757,
-    "wof:lastmodified":1449026147,
+    "wof:lastmodified":1466210226,
     "wof:name":"Dr.med.alfred Ribi Spezialarzt Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.601151,47.299324,8.601151,47.299324],
+  "bbox": [
+    8.601151,
+    47.299324,
+    8.601151,
+    47.299324
+],
   "geometry": {"coordinates":[8.601151,47.299324],"type":"Point"}
 }

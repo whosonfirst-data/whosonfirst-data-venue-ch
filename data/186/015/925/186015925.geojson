@@ -2,13 +2,14 @@
   "id": 186015925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.081999,47.673302,9.081999,47.673302",
     "geom:latitude":47.673302,
     "geom:longitude":9.081999,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Seestrasse 38",
     "sg:city":"Ermatingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186015925,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1466209496,
     "wof:name":"Baugesellschaft Hornstrasse Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.081999,47.673302,9.081999,47.673302],
+  "bbox": [
+    9.081999,
+    47.673302,
+    9.081999,
+    47.673302
+],
   "geometry": {"coordinates":[9.081999,47.673302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203400897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.043731,47.362068,8.043731,47.362068",
     "geom:latitude":47.362068,
     "geom:longitude":8.043731,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarauerstrasse 51",
     "sg:city":"Oberentfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203400897,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466211546,
     "wof:name":"Dr.med.roland Jundt Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.043731,47.362068,8.043731,47.362068],
+  "bbox": [
+    8.043731,
+    47.362068,
+    8.043731,
+    47.362068
+],
   "geometry": {"coordinates":[8.043731,47.362068],"type":"Point"}
 }

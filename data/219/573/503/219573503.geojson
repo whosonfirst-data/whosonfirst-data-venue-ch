@@ -2,13 +2,14 @@
   "id": 219573503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.357603,46.228268,7.357603,46.228268",
     "geom:latitude":46.228268,
     "geom:longitude":7.357603,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. De France 10",
     "sg:city":"Sion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219573503,
-    "wof:lastmodified":1449073009,
+    "wof:lastmodified":1466211693,
     "wof:name":"Migros Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.357603,46.228268,7.357603,46.228268],
+  "bbox": [
+    7.357603,
+    46.228268,
+    7.357603,
+    46.228268
+],
   "geometry": {"coordinates":[7.357603,46.228268],"type":"Point"}
 }

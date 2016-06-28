@@ -2,13 +2,14 @@
   "id": 219969445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.556356,47.378185,8.556356,47.378185",
     "geom:latitude":47.378185,
     "geom:longitude":8.556356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochstrasse 66",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219969445,
-    "wof:lastmodified":1449071239,
+    "wof:lastmodified":1466212810,
     "wof:name":"Ludwig Melion Ingenieurb\u00fcro",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.556356,47.378185,8.556356,47.378185],
+  "bbox": [
+    8.556356,
+    47.378185,
+    8.556356,
+    47.378185
+],
   "geometry": {"coordinates":[8.556356,47.378185],"type":"Point"}
 }

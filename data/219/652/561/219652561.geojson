@@ -2,13 +2,14 @@
   "id": 219652561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.31503,47.18026,8.31503,47.18026",
     "geom:latitude":47.18026,
     "geom:longitude":8.31503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf",
     "sg:city":"Hohenrain",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219652561,
-    "wof:lastmodified":1449072660,
+    "wof:lastmodified":1466212037,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.31503,47.18026,8.31503,47.18026],
+  "bbox": [
+    8.31503,
+    47.18026,
+    8.31503,
+    47.18026
+],
   "geometry": {"coordinates":[8.31503,47.18026],"type":"Point"}
 }

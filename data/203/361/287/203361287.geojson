@@ -2,13 +2,14 @@
   "id": 203361287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.652161,47.021954,8.652161,47.021954",
     "geom:latitude":47.021954,
     "geom:longitude":8.652161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maria-hilf-strasse 6",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203361287,
-    "wof:lastmodified":1449026344,
+    "wof:lastmodified":1466211143,
     "wof:name":"Dr.med.karl Tr\u00fctsch Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.652161,47.021954,8.652161,47.021954],
+  "bbox": [
+    8.652161,
+    47.021954,
+    8.652161,
+    47.021954
+],
   "geometry": {"coordinates":[8.652161,47.021954],"type":"Point"}
 }

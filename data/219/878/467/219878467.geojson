@@ -2,13 +2,14 @@
   "id": 219878467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.715958,47.488953,8.715958,47.488953",
     "geom:latitude":47.488953,
     "geom:longitude":8.715958,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Vogelsangstrasse 187 8400 Winterthur. Postfach 998",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219878467,
-    "wof:lastmodified":1449072230,
+    "wof:lastmodified":1466212606,
     "wof:name":"Gemeinn.wohnbaugen.winterthur",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.715958,47.488953,8.715958,47.488953],
+  "bbox": [
+    8.715958,
+    47.488953,
+    8.715958,
+    47.488953
+],
   "geometry": {"coordinates":[8.715958,47.488953],"type":"Point"}
 }

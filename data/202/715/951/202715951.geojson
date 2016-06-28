@@ -2,13 +2,14 @@
   "id": 202715951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.131262,46.204556,6.131262,46.204556",
     "geom:latitude":46.204556,
     "geom:longitude":6.131262,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Belv\u00e9d\u00e8re Rue Du 1 1203 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202715951,
-    "wof:lastmodified":1449062152,
+    "wof:lastmodified":1466210744,
     "wof:name":"Spagnol, L\u00fcthi Associ\u00e9s Sa, Succursale De Gen\u00e8ve",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.131262,46.204556,6.131262,46.204556],
+  "bbox": [
+    6.131262,
+    46.204556,
+    6.131262,
+    46.204556
+],
   "geometry": {"coordinates":[6.131262,46.204556],"type":"Point"}
 }

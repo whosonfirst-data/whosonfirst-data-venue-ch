@@ -2,13 +2,14 @@
   "id": 220154333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.065587,47.411068,7.065587,47.411068",
     "geom:latitude":47.411068,
     "geom:longitude":7.065587,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Arneggerstrasse 38",
     "sg:city":"Waldkirch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220154333,
-    "wof:lastmodified":1449074890,
+    "wof:lastmodified":1466210197,
     "wof:name":"Villemin Georges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.065587,47.411068,7.065587,47.411068],
+  "bbox": [
+    7.065587,
+    47.411068,
+    7.065587,
+    47.411068
+],
   "geometry": {"coordinates":[7.065587,47.411068],"type":"Point"}
 }

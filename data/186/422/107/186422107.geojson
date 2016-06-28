@@ -2,13 +2,14 @@
   "id": 186422107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.206244,47.484943,8.206244,47.484943",
     "geom:latitude":47.484943,
     "geom:longitude":8.206244,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Trichtisal 51",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186422107,
-    "wof:lastmodified":1449050441,
+    "wof:lastmodified":1466210777,
     "wof:name":"Gross Generalunternehmung Ag Brugg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.206244,47.484943,8.206244,47.484943],
+  "bbox": [
+    8.206244,
+    47.484943,
+    8.206244,
+    47.484943
+],
   "geometry": {"coordinates":[8.206244,47.484943],"type":"Point"}
 }

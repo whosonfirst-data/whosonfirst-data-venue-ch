@@ -2,13 +2,14 @@
   "id": 202617923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.473064,47.341434,8.473064,47.341434",
     "geom:latitude":47.341434,
     "geom:longitude":8.473064,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiss\u00e4cherstrasse 11",
     "sg:city":"Wettswil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202617923,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1466209826,
     "wof:name":"Maeder-engineering",
     "wof:parent_id":85800629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.473064,47.341434,8.473064,47.341434],
+  "bbox": [
+    8.473064,
+    47.341434,
+    8.473064,
+    47.341434
+],
   "geometry": {"coordinates":[8.473064,47.341434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236877645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39557,46.908367,8.39557,46.908367",
     "geom:latitude":46.908367,
     "geom:longitude":8.39557,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 26",
     "sg:city":"Wolfenschiessen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236877645,
-    "wof:lastmodified":1449004070,
+    "wof:lastmodified":1466212956,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39557,46.908367,8.39557,46.908367],
+  "bbox": [
+    8.39557,
+    46.908367,
+    8.39557,
+    46.908367
+],
   "geometry": {"coordinates":[8.39557,46.908367],"type":"Point"}
 }

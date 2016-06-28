@@ -2,13 +2,14 @@
   "id": 186483503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64271,46.882545,8.64271,46.882545",
     "geom:latitude":46.882545,
     "geom:longitude":8.64271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Plattenstrasse 62",
     "sg:city":"Meilen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186483503,
-    "wof:lastmodified":1449052439,
+    "wof:lastmodified":1466211295,
     "wof:name":"Alters-& Pflegeheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [8.64271,46.882545,8.64271,46.882545],
+  "bbox": [
+    8.64271,
+    46.882545,
+    8.64271,
+    46.882545
+],
   "geometry": {"coordinates":[8.64271,46.882545],"type":"Point"}
 }

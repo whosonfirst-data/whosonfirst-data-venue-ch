@@ -2,13 +2,14 @@
   "id": 253047179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.379523,47.439278,9.379523,47.439278",
     "geom:latitude":47.439278,
     "geom:longitude":9.379523,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisriederstrasse 6 8003 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253047179,
-    "wof:lastmodified":1449064743,
+    "wof:lastmodified":1466211726,
     "wof:name":"Blumen Nicole Brunschwiler",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.379523,47.439278,9.379523,47.439278],
+  "bbox": [
+    9.379523,
+    47.439278,
+    9.379523,
+    47.439278
+],
   "geometry": {"coordinates":[9.379523,47.439278],"type":"Point"}
 }

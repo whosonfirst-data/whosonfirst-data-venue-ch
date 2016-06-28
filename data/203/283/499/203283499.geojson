@@ -2,13 +2,14 @@
   "id": 203283499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.27533,47.078011,8.27533,47.078011",
     "geom:latitude":47.078011,
     "geom:longitude":8.27533,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenplatz 4",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203283499,
-    "wof:lastmodified":1449025469,
+    "wof:lastmodified":1466210368,
     "wof:name":"Dr.med.beat Zimmermann Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.27533,47.078011,8.27533,47.078011],
+  "bbox": [
+    8.27533,
+    47.078011,
+    8.27533,
+    47.078011
+],
   "geometry": {"coordinates":[8.27533,47.078011],"type":"Point"}
 }

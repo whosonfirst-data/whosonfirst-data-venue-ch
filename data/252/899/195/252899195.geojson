@@ -2,13 +2,14 @@
   "id": 252899195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628113,46.522575,6.628113,46.522575",
     "geom:latitude":46.522575,
     "geom:longitude":6.628113,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Terreaux 15",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252899195,
-    "wof:lastmodified":1449006444,
+    "wof:lastmodified":1466210978,
     "wof:name":"Pour Une Blonde, Baccouche Caroline",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.628113,46.522575,6.628113,46.522575],
+  "bbox": [
+    6.628113,
+    46.522575,
+    6.628113,
+    46.522575
+],
   "geometry": {"coordinates":[6.628113,46.522575],"type":"Point"}
 }

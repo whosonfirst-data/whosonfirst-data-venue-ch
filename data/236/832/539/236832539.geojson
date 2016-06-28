@@ -2,13 +2,14 @@
   "id": 236832539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.646861,47.450027,9.646861,47.450027",
     "geom:latitude":47.450027,
     "geom:longitude":9.646861,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Gare",
     "sg:city":"Leysin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236832539,
-    "wof:lastmodified":1449001689,
+    "wof:lastmodified":1466212923,
     "wof:name":"Hfk Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.646861,47.450027,9.646861,47.450027],
+  "bbox": [
+    9.646861,
+    47.450027,
+    9.646861,
+    47.450027
+],
   "geometry": {"coordinates":[9.646861,47.450027],"type":"Point"}
 }

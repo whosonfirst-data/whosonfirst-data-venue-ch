@@ -2,13 +2,14 @@
   "id": 186509229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.164164,46.619221,7.164164,46.619221",
     "geom:latitude":46.619221,
     "geom:longitude":7.164164,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Petits-clos 37",
     "sg:city":"Fleurier",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186509229,
-    "wof:lastmodified":1449050385,
+    "wof:lastmodified":1466211512,
     "wof:name":"Home Vall\u00e9e De La Jogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [7.164164,46.619221,7.164164,46.619221],
+  "bbox": [
+    7.164164,
+    46.619221,
+    7.164164,
+    46.619221
+],
   "geometry": {"coordinates":[7.164164,46.619221],"type":"Point"}
 }

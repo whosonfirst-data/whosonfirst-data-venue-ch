@@ -2,13 +2,14 @@
   "id": 219807151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.425211,47.201435,7.425211,47.201435",
     "geom:latitude":47.201435,
     "geom:longitude":7.425211,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 30",
     "sg:city":"Bettlach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219807151,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466212480,
     "wof:name":"Juke Box Music Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.425211,47.201435,7.425211,47.201435],
+  "bbox": [
+    7.425211,
+    47.201435,
+    7.425211,
+    47.201435
+],
   "geometry": {"coordinates":[7.425211,47.201435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253021639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.236258,47.295086,8.236258,47.295086",
     "geom:latitude":47.295086,
     "geom:longitude":8.236258,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 35",
     "sg:city":"Fahrwangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253021639,
-    "wof:lastmodified":1449064685,
+    "wof:lastmodified":1466209165,
     "wof:name":"Hans Zimmermann Blumen Bahnhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.236258,47.295086,8.236258,47.295086],
+  "bbox": [
+    8.236258,
+    47.295086,
+    8.236258,
+    47.295086
+],
   "geometry": {"coordinates":[8.236258,47.295086],"type":"Point"}
 }

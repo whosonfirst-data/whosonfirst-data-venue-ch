@@ -2,13 +2,14 @@
   "id": 186627337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.488887,47.393379,8.488887,47.393379",
     "geom:latitude":47.393379,
     "geom:longitude":8.488887,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Max H\u00f6gger-strasse 6 8048 Z\u00fcrich. Postfach 1250",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186627337,
-    "wof:lastmodified":1449053080,
+    "wof:lastmodified":1466212100,
     "wof:name":"Alcan Alesa Engineering Ag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.488887,47.393379,8.488887,47.393379],
+  "bbox": [
+    8.488887,
+    47.393379,
+    8.488887,
+    47.393379
+],
   "geometry": {"coordinates":[8.488887,47.393379],"type":"Point"}
 }

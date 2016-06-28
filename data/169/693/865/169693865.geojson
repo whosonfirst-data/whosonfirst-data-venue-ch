@@ -2,13 +2,14 @@
   "id": 169693865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.719381,47.500042,8.719381,47.500042",
     "geom:latitude":47.500042,
     "geom:longitude":8.719381,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstr. 20",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169693865,
-    "wof:lastmodified":1449032874,
+    "wof:lastmodified":1466210858,
     "wof:name":"New W\u00c4lti Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.719381,47.500042,8.719381,47.500042],
+  "bbox": [
+    8.719381,
+    47.500042,
+    8.719381,
+    47.500042
+],
   "geometry": {"coordinates":[8.719381,47.500042],"type":"Point"}
 }

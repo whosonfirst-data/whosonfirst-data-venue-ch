@@ -2,13 +2,14 @@
   "id": 220011871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.063948,47.27515,8.063948,47.27515",
     "geom:latitude":47.27515,
     "geom:longitude":8.063948,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 224",
     "sg:city":"Kirchleerau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220011871,
-    "wof:lastmodified":1449074702,
+    "wof:lastmodified":1466208984,
     "wof:name":"Fritz Gugelmann Schreinerei Gucki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.063948,47.27515,8.063948,47.27515],
+  "bbox": [
+    8.063948,
+    47.27515,
+    8.063948,
+    47.27515
+],
   "geometry": {"coordinates":[8.063948,47.27515],"type":"Point"}
 }

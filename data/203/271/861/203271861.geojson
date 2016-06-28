@@ -2,13 +2,14 @@
   "id": 203271861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.529942,46.848038,9.529942,46.848038",
     "geom:latitude":46.848038,
     "geom:longitude":9.529942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Gasse 51",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203271861,
-    "wof:lastmodified":1449025933,
+    "wof:lastmodified":1466210246,
     "wof:name":"Dr.med.andrea Remo Bleisch Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.529942,46.848038,9.529942,46.848038],
+  "bbox": [
+    9.529942,
+    46.848038,
+    9.529942,
+    46.848038
+],
   "geometry": {"coordinates":[9.529942,46.848038],"type":"Point"}
 }

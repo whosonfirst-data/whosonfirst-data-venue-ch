@@ -2,13 +2,14 @@
   "id": 252822723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.163396,46.288929,6.163396,46.288929",
     "geom:latitude":46.288929,
     "geom:longitude":6.163396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Choiseul Avenue 21",
     "sg:city":"Versoix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252822723,
-    "wof:lastmodified":1449006469,
+    "wof:lastmodified":1466210159,
     "wof:name":"Damina Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.163396,46.288929,6.163396,46.288929],
+  "bbox": [
+    6.163396,
+    46.288929,
+    6.163396,
+    46.288929
+],
   "geometry": {"coordinates":[6.163396,46.288929],"type":"Point"}
 }

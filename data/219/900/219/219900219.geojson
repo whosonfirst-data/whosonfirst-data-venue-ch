@@ -2,13 +2,14 @@
   "id": 219900219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.368027,47.04707,8.368027,47.04707",
     "geom:latitude":47.04707,
     "geom:longitude":8.368027,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreilindenstrasse 22",
     "sg:city":"Meggen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219900219,
-    "wof:lastmodified":1449071911,
+    "wof:lastmodified":1466212631,
     "wof:name":"Wohnbaugenossenschaft Meggen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.368027,47.04707,8.368027,47.04707],
+  "bbox": [
+    8.368027,
+    47.04707,
+    8.368027,
+    47.04707
+],
   "geometry": {"coordinates":[8.368027,47.04707],"type":"Point"}
 }

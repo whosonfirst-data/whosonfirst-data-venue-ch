@@ -2,13 +2,14 @@
   "id": 203184201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.629999,46.515396,6.629999,46.515396",
     "geom:latitude":46.515396,
     "geom:longitude":6.629999,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De Grancy 12",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203184201,
-    "wof:lastmodified":1449025267,
+    "wof:lastmodified":1466209292,
     "wof:name":"Dr M\u00e9d. Heiner Burger M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.629999,46.515396,6.629999,46.515396],
+  "bbox": [
+    6.629999,
+    46.515396,
+    6.629999,
+    46.515396
+],
   "geometry": {"coordinates":[6.629999,46.515396],"type":"Point"}
 }

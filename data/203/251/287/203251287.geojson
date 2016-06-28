@@ -2,13 +2,14 @@
   "id": 203251287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551853,47.387974,8.551853,47.387974",
     "geom:latitude":47.387974,
     "geom:longitude":8.551853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Germaniastrasse 48",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203251287,
-    "wof:lastmodified":1449024982,
+    "wof:lastmodified":1466210033,
     "wof:name":"Dr.med. Konstantin Skaleric Spezialarzt Fmh",
     "wof:parent_id":85800463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.551853,47.387974,8.551853,47.387974],
+  "bbox": [
+    8.551853,
+    47.387974,
+    8.551853,
+    47.387974
+],
   "geometry": {"coordinates":[8.551853,47.387974],"type":"Point"}
 }

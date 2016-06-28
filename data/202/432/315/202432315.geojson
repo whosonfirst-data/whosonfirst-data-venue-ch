@@ -2,13 +2,14 @@
   "id": 202432315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.497595,46.975033,7.497595,46.975033",
     "geom:latitude":46.975033,
     "geom:longitude":7.497595,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flugbrunnenstrasse 2 3065 Bolligen. Postfach 308",
     "sg:city":"Bolligen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202432315,
-    "wof:lastmodified":1449060066,
+    "wof:lastmodified":1466210309,
     "wof:name":"Burger Ingenieur-b\u00fcro.",
     "wof:parent_id":85800605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.497595,46.975033,7.497595,46.975033],
+  "bbox": [
+    7.497595,
+    46.975033,
+    7.497595,
+    46.975033
+],
   "geometry": {"coordinates":[7.497595,46.975033],"type":"Point"}
 }

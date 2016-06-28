@@ -2,13 +2,14 @@
   "id": 253410503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.42952,46.932587,7.42952,46.932587",
     "geom:latitude":46.932587,
     "geom:longitude":7.42952,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gebhartstrasse 26",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253410503,
-    "wof:lastmodified":1449062862,
+    "wof:lastmodified":1466212218,
     "wof:name":"Tree Shadow Gentis & Scherz Web Design, Computer",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.42952,46.932587,7.42952,46.932587],
+  "bbox": [
+    7.42952,
+    46.932587,
+    7.42952,
+    46.932587
+],
   "geometry": {"coordinates":[7.42952,46.932587],"type":"Point"}
 }

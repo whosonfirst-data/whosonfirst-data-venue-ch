@@ -2,13 +2,14 @@
   "id": 202833515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.518399,47.372837,8.518399,47.372837",
     "geom:latitude":47.372837,
     "geom:longitude":8.518399,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalkbreitestrasse 59",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202833515,
-    "wof:lastmodified":1449060426,
+    "wof:lastmodified":1466211849,
     "wof:name":"Interimo-baupartner Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.518399,47.372837,8.518399,47.372837],
+  "bbox": [
+    8.518399,
+    47.372837,
+    8.518399,
+    47.372837
+],
   "geometry": {"coordinates":[8.518399,47.372837],"type":"Point"}
 }

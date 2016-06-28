@@ -2,13 +2,14 @@
   "id": 236749773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.638271,46.780369,6.638271,46.780369",
     "geom:latitude":46.780369,
     "geom:longitude":6.638271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Lac 48",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236749773,
-    "wof:lastmodified":1449002407,
+    "wof:lastmodified":1466212869,
     "wof:name":"Schwarz-gloor Opticien Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [6.638271,46.780369,6.638271,46.780369],
+  "bbox": [
+    6.638271,
+    46.780369,
+    6.638271,
+    46.780369
+],
   "geometry": {"coordinates":[6.638271,46.780369],"type":"Point"}
 }

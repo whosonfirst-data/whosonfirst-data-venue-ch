@@ -2,13 +2,14 @@
   "id": 252801619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.611529,47.338512,8.611529,47.338512",
     "geom:latitude":47.338512,
     "geom:longitude":8.611529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fadacher 1",
     "sg:city":"Zumikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252801619,
-    "wof:lastmodified":1449006327,
+    "wof:lastmodified":1466209931,
     "wof:name":"Accessorio Gmbh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.611529,47.338512,8.611529,47.338512],
+  "bbox": [
+    8.611529,
+    47.338512,
+    8.611529,
+    47.338512
+],
   "geometry": {"coordinates":[8.611529,47.338512],"type":"Point"}
 }

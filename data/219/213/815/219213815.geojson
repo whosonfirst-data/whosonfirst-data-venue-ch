@@ -2,13 +2,14 @@
   "id": 219213815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597226,47.49609,7.597226,47.49609",
     "geom:latitude":47.49609,
     "geom:longitude":7.597226,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nmattstrasse 6",
     "sg:city":"Reinach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219213815,
-    "wof:lastmodified":1449070414,
+    "wof:lastmodified":1466211114,
     "wof:name":"Th-contact Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "devices"
     ]
 },
-  "bbox": [7.597226,47.49609,7.597226,47.49609],
+  "bbox": [
+    7.597226,
+    47.49609,
+    7.597226,
+    47.49609
+],
   "geometry": {"coordinates":[7.597226,47.49609],"type":"Point"}
 }

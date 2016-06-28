@@ -2,13 +2,14 @@
   "id": 185629447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.054575,47.396912,8.054575,47.396912",
     "geom:latitude":47.396912,
     "geom:longitude":8.054575,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tellistrasse 41",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185629447,
-    "wof:lastmodified":1449007853,
+    "wof:lastmodified":1466209887,
     "wof:name":"Heiz Schriften Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "label"
     ]
 },
-  "bbox": [8.054575,47.396912,8.054575,47.396912],
+  "bbox": [
+    8.054575,
+    47.396912,
+    8.054575,
+    47.396912
+],
   "geometry": {"coordinates":[8.054575,47.396912],"type":"Point"}
 }

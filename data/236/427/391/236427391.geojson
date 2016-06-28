@@ -2,13 +2,14 @@
   "id": 236427391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.675442,47.472775,8.675442,47.472775",
     "geom:latitude":47.472775,
     "geom:longitude":8.675442,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Br\u00fcelgasse 7",
     "sg:city":"Br\u00fctten",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236427391,
-    "wof:lastmodified":1449002474,
+    "wof:lastmodified":1466212441,
     "wof:name":"Gemeindebibliothek Dorfzentrum",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [8.675442,47.472775,8.675442,47.472775],
+  "bbox": [
+    8.675442,
+    47.472775,
+    8.675442,
+    47.472775
+],
   "geometry": {"coordinates":[8.675442,47.472775],"type":"Point"}
 }

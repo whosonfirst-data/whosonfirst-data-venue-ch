@@ -2,13 +2,14 @@
   "id": 202590453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532187,47.384045,8.532187,47.384045",
     "geom:latitude":47.384045,
     "geom:longitude":8.532187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatstrasse 123",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202590453,
-    "wof:lastmodified":1449061627,
+    "wof:lastmodified":1466209574,
     "wof:name":"Kasemco & Partner Gmbh",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532187,47.384045,8.532187,47.384045],
+  "bbox": [
+    8.532187,
+    47.384045,
+    8.532187,
+    47.384045
+],
   "geometry": {"coordinates":[8.532187,47.384045],"type":"Point"}
 }

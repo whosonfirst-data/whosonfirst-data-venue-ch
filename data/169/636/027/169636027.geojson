@@ -2,13 +2,14 @@
   "id": 169636027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551271,47.358433,8.551271,47.358433",
     "geom:latitude":47.358433,
     "geom:longitude":8.551271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bossi 1",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169636027,
-    "wof:lastmodified":1449033987,
+    "wof:lastmodified":1466211652,
     "wof:name":"Privatbank Bellerive Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.551271,47.358433,8.551271,47.358433],
+  "bbox": [
+    8.551271,
+    47.358433,
+    8.551271,
+    47.358433
+],
   "geometry": {"coordinates":[8.551271,47.358433],"type":"Point"}
 }

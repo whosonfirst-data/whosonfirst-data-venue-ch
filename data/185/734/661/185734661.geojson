@@ -2,13 +2,14 @@
   "id": 185734661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.140316,46.196281,6.140316,46.196281",
     "geom:latitude":46.196281,
     "geom:longitude":6.140316,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 89",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185734661,
-    "wof:lastmodified":1449008019,
+    "wof:lastmodified":1466211364,
     "wof:name":"Pierre-bernard Petitat Etude D'avocat",
     "wof:parent_id":85897661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.140316,46.196281,6.140316,46.196281],
+  "bbox": [
+    6.140316,
+    46.196281,
+    6.140316,
+    46.196281
+],
   "geometry": {"coordinates":[6.140316,46.196281],"type":"Point"}
 }

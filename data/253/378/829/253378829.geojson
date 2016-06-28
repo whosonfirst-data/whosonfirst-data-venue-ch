@@ -2,13 +2,14 @@
   "id": 253378829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59514,47.423672,8.59514,47.423672",
     "geom:latitude":47.423672,
     "geom:longitude":8.59514,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8301 Glattzentrum. Postfach",
     "sg:city":"Glattzentrum",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253378829,
-    "wof:lastmodified":1449064837,
+    "wof:lastmodified":1466212195,
     "wof:name":"Ex Libris Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59514,47.423672,8.59514,47.423672],
+  "bbox": [
+    8.59514,
+    47.423672,
+    8.59514,
+    47.423672
+],
   "geometry": {"coordinates":[8.59514,47.423672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236413643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.15101,46.80608,7.15101,46.80608",
     "geom:latitude":46.80608,
     "geom:longitude":7.15101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Ecoles 1",
     "sg:city":"Fribourg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236413643,
-    "wof:lastmodified":1449002066,
+    "wof:lastmodified":1466212193,
     "wof:name":"Biblioth\u00e8que De La Paroisse R\u00e9form\u00e9e",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.15101,46.80608,7.15101,46.80608],
+  "bbox": [
+    7.15101,
+    46.80608,
+    7.15101,
+    46.80608
+],
   "geometry": {"coordinates":[7.15101,46.80608],"type":"Point"}
 }

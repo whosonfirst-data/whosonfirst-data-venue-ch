@@ -2,13 +2,14 @@
   "id": 203404531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.960678,47.232384,7.960678,47.232384",
     "geom:latitude":47.232384,
     "geom:longitude":7.960678,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenstrasse 9",
     "sg:city":"Goldach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203404531,
-    "wof:lastmodified":1449026236,
+    "wof:lastmodified":1466211585,
     "wof:name":"Dr.med.roman Villiger Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.960678,47.232384,7.960678,47.232384],
+  "bbox": [
+    7.960678,
+    47.232384,
+    7.960678,
+    47.232384
+],
   "geometry": {"coordinates":[7.960678,47.232384],"type":"Point"}
 }

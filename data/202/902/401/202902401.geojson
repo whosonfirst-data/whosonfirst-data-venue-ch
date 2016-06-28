@@ -2,13 +2,14 @@
   "id": 202902401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.037973,47.293129,8.037973,47.293129",
     "geom:latitude":47.293129,
     "geom:longitude":8.037973,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidstrasse 261",
     "sg:city":"Wittwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202902401,
-    "wof:lastmodified":1449061985,
+    "wof:lastmodified":1466212120,
     "wof:name":"Schnider Metallbauplanung Ag Metall, Stahl- U. Glasbau Usw.; Handel, Planung, Produktion, Erstellung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.037973,47.293129,8.037973,47.293129],
+  "bbox": [
+    8.037973,
+    47.293129,
+    8.037973,
+    47.293129
+],
   "geometry": {"coordinates":[8.037973,47.293129],"type":"Point"}
 }

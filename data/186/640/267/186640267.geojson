@@ -2,13 +2,14 @@
   "id": 186640267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.756893,47.507893,8.756893,47.507893",
     "geom:latitude":47.507893,
     "geom:longitude":8.756893,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 6 8404 Oberwinterthur. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186640267,
-    "wof:lastmodified":1449051537,
+    "wof:lastmodified":1466212165,
     "wof:name":"Architektur Form Gmbh",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.756893,47.507893,8.756893,47.507893],
+  "bbox": [
+    8.756893,
+    47.507893,
+    8.756893,
+    47.507893
+],
   "geometry": {"coordinates":[8.756893,47.507893],"type":"Point"}
 }

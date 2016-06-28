@@ -2,13 +2,14 @@
   "id": 236461867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.439073,47.080784,8.439073,47.080784",
     "geom:latitude":47.080784,
     "geom:longitude":8.439073,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 23",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236461867,
-    "wof:lastmodified":1449002785,
+    "wof:lastmodified":1466212515,
     "wof:name":"Volksbibliothek Mons\u00e9jour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.439073,47.080784,8.439073,47.080784],
+  "bbox": [
+    8.439073,
+    47.080784,
+    8.439073,
+    47.080784
+],
   "geometry": {"coordinates":[8.439073,47.080784],"type":"Point"}
 }

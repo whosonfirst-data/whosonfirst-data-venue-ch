@@ -2,13 +2,14 @@
   "id": 219505435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.37684,46.600361,6.37684,46.600361",
     "geom:latitude":46.600361,
     "geom:longitude":6.37684,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Case Postale 68",
     "sg:city":"Le Landeron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219505435,
-    "wof:lastmodified":1449073336,
+    "wof:lastmodified":1466211180,
     "wof:name":"Banque Raiffeisen Du Veyron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.37684,46.600361,6.37684,46.600361],
+  "bbox": [
+    6.37684,
+    46.600361,
+    6.37684,
+    46.600361
+],
   "geometry": {"coordinates":[6.37684,46.600361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.405654,47.425312,8.405654,47.425312",
     "geom:latitude":47.425312,
     "geom:longitude":8.405654,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere L\u00e4ttenstrasse 5",
     "sg:city":"Geroldswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203100753,
-    "wof:lastmodified":1449026364,
+    "wof:lastmodified":1466211122,
     "wof:name":"Werner M\u00fcller Architekturb\u00fcro Bauteam 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.405654,47.425312,8.405654,47.425312],
+  "bbox": [
+    8.405654,
+    47.425312,
+    8.405654,
+    47.425312
+],
   "geometry": {"coordinates":[8.405654,47.425312],"type":"Point"}
 }

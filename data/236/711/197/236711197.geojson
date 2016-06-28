@@ -2,13 +2,14 @@
   "id": 236711197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.616381,47.062935,7.616381,47.062935",
     "geom:latitude":47.062935,
     "geom:longitude":7.616381,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchbergstrasse 102",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236711197,
-    "wof:lastmodified":1449004520,
+    "wof:lastmodified":1466212826,
     "wof:name":"Coop Tankstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.616381,47.062935,7.616381,47.062935],
+  "bbox": [
+    7.616381,
+    47.062935,
+    7.616381,
+    47.062935
+],
   "geometry": {"coordinates":[7.616381,47.062935],"type":"Point"}
 }

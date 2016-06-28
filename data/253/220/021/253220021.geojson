@@ -2,13 +2,14 @@
   "id": 253220021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.47561,46.9366,7.47561,46.9366",
     "geom:latitude":46.9366,
     "geom:longitude":7.47561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunantstrasse 2",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253220021,
-    "wof:lastmodified":1449065693,
+    "wof:lastmodified":1466211206,
     "wof:name":"Martin Lanz B\u00e4ckerei-konditorei",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.47561,46.9366,7.47561,46.9366],
+  "bbox": [
+    7.47561,
+    46.9366,
+    7.47561,
+    46.9366
+],
   "geometry": {"coordinates":[7.47561,46.9366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186254981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.950876,47.49596,8.950876,47.49596",
     "geom:latitude":47.49596,
     "geom:longitude":8.950876,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aadorferstrasse 17",
     "sg:city":"W\u00e4ngi",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186254981,
-    "wof:lastmodified":1449052217,
+    "wof:lastmodified":1466209511,
     "wof:name":"W\u00fcthrich Bauunternehmung Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.950876,47.49596,8.950876,47.49596],
+  "bbox": [
+    8.950876,
+    47.49596,
+    8.950876,
+    47.49596
+],
   "geometry": {"coordinates":[8.950876,47.49596],"type":"Point"}
 }

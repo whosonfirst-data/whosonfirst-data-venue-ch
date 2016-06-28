@@ -2,13 +2,14 @@
   "id": 236639005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.258193,47.047302,8.258193,47.047302",
     "geom:latitude":47.047302,
     "geom:longitude":8.258193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schrotm\u00e4ttli 13",
     "sg:city":"Littau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236639005,
-    "wof:lastmodified":1449005233,
+    "wof:lastmodified":1466212801,
     "wof:name":"M\u00fchlebach Honda Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [8.258193,47.047302,8.258193,47.047302],
+  "bbox": [
+    8.258193,
+    47.047302,
+    8.258193,
+    47.047302
+],
   "geometry": {"coordinates":[8.258193,47.047302],"type":"Point"}
 }

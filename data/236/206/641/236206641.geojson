@@ -2,13 +2,14 @@
   "id": 236206641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.431371,46.974106,7.431371,46.974106",
     "geom:latitude":46.974106,
     "geom:longitude":7.431371,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7433 Donath. Postfach",
     "sg:city":"Donath",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236206641,
-    "wof:lastmodified":1449003982,
+    "wof:lastmodified":1466210874,
     "wof:name":"Schmid Bestattungen S.dolder",
     "wof:parent_id":85800547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.431371,46.974106,7.431371,46.974106],
+  "bbox": [
+    7.431371,
+    46.974106,
+    7.431371,
+    46.974106
+],
   "geometry": {"coordinates":[7.431371,46.974106],"type":"Point"}
 }

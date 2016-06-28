@@ -2,13 +2,14 @@
   "id": 185740401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543896,47.380165,8.543896,47.380165",
     "geom:latitude":47.380165,
     "geom:longitude":8.543896,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinbergstrasse 43 8006 Z\u00fcrich. Postfach 628",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185740401,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466211435,
     "wof:name":"Schraner & Partner Advokaturb\u00fcro",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543896,47.380165,8.543896,47.380165],
+  "bbox": [
+    8.543896,
+    47.380165,
+    8.543896,
+    47.380165
+],
   "geometry": {"coordinates":[8.543896,47.380165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219710849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.36724,47.361519,8.36724,47.361519",
     "geom:latitude":47.361519,
     "geom:longitude":8.36724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beri-m\u00e4rt",
     "sg:city":"Mutschellen",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219710849,
-    "wof:lastmodified":1449070598,
+    "wof:lastmodified":1466212122,
     "wof:name":"Schweizerischer Bankverein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.36724,47.361519,8.36724,47.361519],
+  "bbox": [
+    8.36724,
+    47.361519,
+    8.36724,
+    47.361519
+],
   "geometry": {"coordinates":[8.36724,47.361519],"type":"Point"}
 }

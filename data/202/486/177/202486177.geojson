@@ -2,13 +2,14 @@
   "id": 202486177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.649607,47.580723,7.649607,47.580723",
     "geom:latitude":47.580723,
     "geom:longitude":7.649607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eisenbahnweg 87",
     "sg:city":"Riehen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202486177,
-    "wof:lastmodified":1449061519,
+    "wof:lastmodified":1466211282,
     "wof:name":"Eriksson Kaj",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.649607,47.580723,7.649607,47.580723],
+  "bbox": [
+    7.649607,
+    47.580723,
+    7.649607,
+    47.580723
+],
   "geometry": {"coordinates":[7.649607,47.580723],"type":"Point"}
 }

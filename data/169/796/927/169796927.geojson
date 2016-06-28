@@ -2,13 +2,14 @@
   "id": 169796927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.586273,47.090527,7.586273,47.090527",
     "geom:latitude":47.090527,
     "geom:longitude":7.586273,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstrasse 11c 3422 Kirchberg Be. Postfach",
     "sg:city":"R\u00fcegsbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169796927,
-    "wof:lastmodified":1449034237,
+    "wof:lastmodified":1466209051,
     "wof:name":"Abraag Abbruch Und Aushub Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.586273,47.090527,7.586273,47.090527],
+  "bbox": [
+    7.586273,
+    47.090527,
+    7.586273,
+    47.090527
+],
   "geometry": {"coordinates":[7.586273,47.090527],"type":"Point"}
 }

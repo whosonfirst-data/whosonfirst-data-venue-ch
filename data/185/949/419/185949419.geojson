@@ -2,13 +2,14 @@
   "id": 185949419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.30726,46.871803,7.30726,46.871803",
     "geom:latitude":46.871803,
     "geom:longitude":7.30726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flamattstrasse 102",
     "sg:city":"Ueberstorf",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185949419,
-    "wof:lastmodified":1449007606,
+    "wof:lastmodified":1466210275,
     "wof:name":"Lescom Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [7.30726,46.871803,7.30726,46.871803],
+  "bbox": [
+    7.30726,
+    46.871803,
+    7.30726,
+    46.871803
+],
   "geometry": {"coordinates":[7.30726,46.871803],"type":"Point"}
 }

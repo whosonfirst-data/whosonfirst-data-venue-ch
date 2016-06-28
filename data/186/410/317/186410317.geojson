@@ -2,13 +2,14 @@
   "id": 186410317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.404626,47.528271,9.404626,47.528271",
     "geom:latitude":47.528271,
     "geom:longitude":9.404626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Egnacherstrasse 55",
     "sg:city":"Frasnacht",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186410317,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466210677,
     "wof:name":"Michel Kurt Ag, Tiefbau Und Transporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.404626,47.528271,9.404626,47.528271],
+  "bbox": [
+    9.404626,
+    47.528271,
+    9.404626,
+    47.528271
+],
   "geometry": {"coordinates":[9.404626,47.528271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220111995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.242475,47.124008,7.242475,47.124008",
     "geom:latitude":47.124008,
     "geom:longitude":7.242475,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zihlstrasse 66",
     "sg:city":"Nidau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220111995,
-    "wof:lastmodified":1449074901,
+    "wof:lastmodified":1466209840,
     "wof:name":"Kurt Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.242475,47.124008,7.242475,47.124008],
+  "bbox": [
+    7.242475,
+    47.124008,
+    7.242475,
+    47.124008
+],
   "geometry": {"coordinates":[7.242475,47.124008],"type":"Point"}
 }

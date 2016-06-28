@@ -2,13 +2,14 @@
   "id": 219289233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.740581,46.581676,6.740581,46.581676",
     "geom:latitude":46.581676,
     "geom:longitude":6.740581,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Vernettes",
     "sg:city":"Montpreveyres",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219289233,
-    "wof:lastmodified":1449073332,
+    "wof:lastmodified":1466209145,
     "wof:name":"Henri Mermoud Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.740581,46.581676,6.740581,46.581676],
+  "bbox": [
+    6.740581,
+    46.581676,
+    6.740581,
+    46.581676
+],
   "geometry": {"coordinates":[6.740581,46.581676],"type":"Point"}
 }

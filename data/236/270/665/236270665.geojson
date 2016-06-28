@@ -2,13 +2,14 @@
   "id": 236270665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.398693,46.819069,8.398693,46.819069",
     "geom:latitude":46.819069,
     "geom:longitude":8.398693,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Margritenweg 3",
     "sg:city":"Engelberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236270665,
-    "wof:lastmodified":1449002114,
+    "wof:lastmodified":1466211559,
     "wof:name":"Sporthalle Ag Engelberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.398693,46.819069,8.398693,46.819069],
+  "bbox": [
+    8.398693,
+    46.819069,
+    8.398693,
+    46.819069
+],
   "geometry": {"coordinates":[8.398693,46.819069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252872663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.987854,45.87077,8.987854,45.87077",
     "geom:latitude":45.87077,
     "geom:longitude":8.987854,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Noseda 2",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252872663,
-    "wof:lastmodified":1449005508,
+    "wof:lastmodified":1466210695,
     "wof:name":"Textcoop Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.987854,45.87077,8.987854,45.87077],
+  "bbox": [
+    8.987854,
+    45.87077,
+    8.987854,
+    45.87077
+],
   "geometry": {"coordinates":[8.987854,45.87077],"type":"Point"}
 }

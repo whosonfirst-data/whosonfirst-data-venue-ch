@@ -2,13 +2,14 @@
   "id": 252763469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.144589,46.191311,6.144589,46.191311",
     "geom:latitude":46.191311,
     "geom:longitude":6.144589,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Augustins Place Des 9 1205 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252763469,
-    "wof:lastmodified":1449006510,
+    "wof:lastmodified":1466209467,
     "wof:name":"Margrit Haug",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.144589,46.191311,6.144589,46.191311],
+  "bbox": [
+    6.144589,
+    46.191311,
+    6.144589,
+    46.191311
+],
   "geometry": {"coordinates":[6.144589,46.191311],"type":"Point"}
 }

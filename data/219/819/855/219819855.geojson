@@ -2,13 +2,14 @@
   "id": 219819855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.004846,46.219753,7.004846,46.219753",
     "geom:latitude":46.219753,
     "geom:longitude":7.004846,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 68",
     "sg:city":"St-maurice",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219819855,
-    "wof:lastmodified":1449071234,
+    "wof:lastmodified":1466212495,
     "wof:name":"Pub Bateau Rouge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.004846,46.219753,7.004846,46.219753],
+  "bbox": [
+    7.004846,
+    46.219753,
+    7.004846,
+    46.219753
+],
   "geometry": {"coordinates":[7.004846,46.219753],"type":"Point"}
 }

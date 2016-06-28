@@ -2,13 +2,14 @@
   "id": 236524597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.47748,47.481766,9.47748,47.481766",
     "geom:latitude":47.481766,
     "geom:longitude":9.47748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 10",
     "sg:city":"Goldach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236524597,
-    "wof:lastmodified":1449001654,
+    "wof:lastmodified":1466212492,
     "wof:name":"Tony Engesser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.47748,47.481766,9.47748,47.481766],
+  "bbox": [
+    9.47748,
+    47.481766,
+    9.47748,
+    47.481766
+],
   "geometry": {"coordinates":[9.47748,47.481766],"type":"Point"}
 }

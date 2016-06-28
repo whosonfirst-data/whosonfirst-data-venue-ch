@@ -2,13 +2,14 @@
   "id": 185651997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.244807,47.13773,7.244807,47.13773",
     "geom:latitude":47.13773,
     "geom:longitude":7.244807,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcschlistrasse 31",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185651997,
-    "wof:lastmodified":1449006934,
+    "wof:lastmodified":1466210305,
     "wof:name":"Brainstore Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "idea"
     ]
 },
-  "bbox": [7.244807,47.13773,7.244807,47.13773],
+  "bbox": [
+    7.244807,
+    47.13773,
+    7.244807,
+    47.13773
+],
   "geometry": {"coordinates":[7.244807,47.13773],"type":"Point"}
 }

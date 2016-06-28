@@ -2,13 +2,14 @@
   "id": 219164667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.192746,46.848846,7.192746,46.848846",
     "geom:latitude":46.848846,
     "geom:longitude":7.192746,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e4nsebergstrasse 22 3186 D\u00fcdingen. Postfach 238",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219164667,
-    "wof:lastmodified":1449070812,
+    "wof:lastmodified":1466210159,
     "wof:name":"Dr.med.wolfgang Steiert Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.192746,46.848846,7.192746,46.848846],
+  "bbox": [
+    7.192746,
+    46.848846,
+    7.192746,
+    46.848846
+],
   "geometry": {"coordinates":[7.192746,46.848846],"type":"Point"}
 }

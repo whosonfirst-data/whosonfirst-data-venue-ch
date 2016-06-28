@@ -2,13 +2,14 @@
   "id": 202740229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.154398,46.18914,6.154398,46.18914",
     "geom:latitude":46.18914,
     "geom:longitude":6.154398,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Calas Avenue 20 1206 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202740229,
-    "wof:lastmodified":1449061280,
+    "wof:lastmodified":1466210966,
     "wof:name":"Thierry Berque",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.154398,46.18914,6.154398,46.18914],
+  "bbox": [
+    6.154398,
+    46.18914,
+    6.154398,
+    46.18914
+],
   "geometry": {"coordinates":[6.154398,46.18914],"type":"Point"}
 }

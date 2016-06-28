@@ -2,13 +2,14 @@
   "id": 203187183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.152451,46.211929,6.152451,46.211929",
     "geom:latitude":46.211929,
     "geom:longitude":6.152451,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai Wilson 35",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203187183,
-    "wof:lastmodified":1449025220,
+    "wof:lastmodified":1466209329,
     "wof:name":"Dr M\u00e9d. Jacques Comp\u00e8re M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.152451,46.211929,6.152451,46.211929],
+  "bbox": [
+    6.152451,
+    46.211929,
+    6.152451,
+    46.211929
+],
   "geometry": {"coordinates":[6.152451,46.211929],"type":"Point"}
 }

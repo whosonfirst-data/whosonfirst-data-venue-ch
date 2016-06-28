@@ -2,13 +2,14 @@
   "id": 202885383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.236435,47.372318,7.236435,47.372318",
     "geom:latitude":47.372318,
     "geom:longitude":7.236435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e9prais",
     "sg:city":"Montavon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202885383,
-    "wof:lastmodified":1449061457,
+    "wof:lastmodified":1466212069,
     "wof:name":"Voillat Bureau D'etudes S\u00e0rl R\u00e9alisation De Toutes \u00e9tudes Dans Le Domaine \u00e9lectronique Et Informatique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.236435,47.372318,7.236435,47.372318],
+  "bbox": [
+    7.236435,
+    47.372318,
+    7.236435,
+    47.372318
+],
   "geometry": {"coordinates":[7.236435,47.372318],"type":"Point"}
 }

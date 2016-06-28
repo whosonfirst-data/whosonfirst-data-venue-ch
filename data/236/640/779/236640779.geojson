@@ -2,13 +2,14 @@
   "id": 236640779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.049463,47.467258,9.049463,47.467258",
     "geom:latitude":47.467258,
     "geom:longitude":9.049463,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 71",
     "sg:city":"Wil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236640779,
-    "wof:lastmodified":1449003022,
+    "wof:lastmodified":1466212737,
     "wof:name":"Gerig Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lettering"
     ]
 },
-  "bbox": [9.049463,47.467258,9.049463,47.467258],
+  "bbox": [
+    9.049463,
+    47.467258,
+    9.049463,
+    47.467258
+],
   "geometry": {"coordinates":[9.049463,47.467258],"type":"Point"}
 }

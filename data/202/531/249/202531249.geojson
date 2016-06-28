@@ -2,13 +2,14 @@
   "id": 202531249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.668863,46.731686,7.668863,46.731686",
     "geom:latitude":46.731686,
     "geom:longitude":7.668863,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 14b",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202531249,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1466209014,
     "wof:name":"Hamdani M., Architekt Htl/stv",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.668863,46.731686,7.668863,46.731686],
+  "bbox": [
+    7.668863,
+    46.731686,
+    7.668863,
+    46.731686
+],
   "geometry": {"coordinates":[7.668863,46.731686],"type":"Point"}
 }

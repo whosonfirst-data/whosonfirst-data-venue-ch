@@ -2,13 +2,14 @@
   "id": 236241131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.515981,47.475693,7.515981,47.475693",
     "geom:latitude":47.475693,
     "geom:longitude":7.515981,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcttenenweg 4 4114 Hofstetten So. Postfach",
     "sg:city":"B\u00e4ttwil-fl\u00fch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236241131,
-    "wof:lastmodified":1449005140,
+    "wof:lastmodified":1466211264,
     "wof:name":"Veltin A., Connection Tonstudio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.515981,47.475693,7.515981,47.475693],
+  "bbox": [
+    7.515981,
+    47.475693,
+    7.515981,
+    47.475693
+],
   "geometry": {"coordinates":[7.515981,47.475693],"type":"Point"}
 }

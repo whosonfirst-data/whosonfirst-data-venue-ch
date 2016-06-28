@@ -2,13 +2,14 @@
   "id": 235958385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.570896,47.468822,9.570896,47.468822",
     "geom:latitude":47.468822,
     "geom:longitude":9.570896,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baumgartenweg 5",
     "sg:city":"Thal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235958385,
-    "wof:lastmodified":1449008524,
+    "wof:lastmodified":1466209137,
     "wof:name":"Heinrich Hohl Innenausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.570896,47.468822,9.570896,47.468822],
+  "bbox": [
+    9.570896,
+    47.468822,
+    9.570896,
+    47.468822
+],
   "geometry": {"coordinates":[9.570896,47.468822],"type":"Point"}
 }

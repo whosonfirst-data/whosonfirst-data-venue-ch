@@ -2,13 +2,14 @@
   "id": 220010521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.549944,47.113892,9.549944,47.113892",
     "geom:latitude":47.113892,
     "geom:longitude":9.549944,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haberacher 324",
     "sg:city":"Triesenberg",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":220010521,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466208971,
     "wof:name":"Franz Beck Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.549944,47.113892,9.549944,47.113892],
+  "bbox": [
+    9.549944,
+    47.113892,
+    9.549944,
+    47.113892
+],
   "geometry": {"coordinates":[9.549944,47.113892],"type":"Point"}
 }

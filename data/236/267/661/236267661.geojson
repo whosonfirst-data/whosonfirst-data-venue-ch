@@ -2,13 +2,14 @@
   "id": 236267661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.632276,46.879124,8.632276,46.879124",
     "geom:latitude":46.879124,
     "geom:longitude":8.632276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3770",
     "sg:city":"Zweisimmen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236267661,
-    "wof:lastmodified":1449004892,
+    "wof:lastmodified":1466211532,
     "wof:name":"Schwimmbadgenossenschaft Altdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.632276,46.879124,8.632276,46.879124],
+  "bbox": [
+    8.632276,
+    46.879124,
+    8.632276,
+    46.879124
+],
   "geometry": {"coordinates":[8.632276,46.879124],"type":"Point"}
 }

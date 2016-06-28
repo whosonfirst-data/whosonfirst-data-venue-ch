@@ -2,13 +2,14 @@
   "id": 186283105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.562955,47.565395,7.562955,47.565395",
     "geom:latitude":47.565395,
     "geom:longitude":7.562955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sundgauerstrasse 18 4055 Basel. Postfach 88",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186283105,
-    "wof:lastmodified":1449051167,
+    "wof:lastmodified":1466209712,
     "wof:name":"Gebr. Pilotti Ag, Baugesch\u00e4ft",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.562955,47.565395,7.562955,47.565395],
+  "bbox": [
+    7.562955,
+    47.565395,
+    7.562955,
+    47.565395
+],
   "geometry": {"coordinates":[7.562955,47.565395],"type":"Point"}
 }

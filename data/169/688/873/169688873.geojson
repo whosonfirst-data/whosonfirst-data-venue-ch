@@ -2,13 +2,14 @@
   "id": 169688873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.592553,47.547264,7.592553,47.547264",
     "geom:latitude":47.547264,
     "geom:longitude":7.592553,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 143 4052 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169688873,
-    "wof:lastmodified":1449033922,
+    "wof:lastmodified":1466210741,
     "wof:name":"Wenger 2-rad-shop Gmbh Zweiradartikel; Handel, Reparaturen",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.592553,47.547264,7.592553,47.547264],
+  "bbox": [
+    7.592553,
+    47.547264,
+    7.592553,
+    47.547264
+],
   "geometry": {"coordinates":[7.592553,47.547264],"type":"Point"}
 }

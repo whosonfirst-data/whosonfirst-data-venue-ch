@@ -2,13 +2,14 @@
   "id": 169625235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.203542,47.326046,8.203542,47.326046",
     "geom:latitude":47.326046,
     "geom:longitude":8.203542,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 11",
     "sg:city":"Seengen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169625235,
-    "wof:lastmodified":1449036021,
+    "wof:lastmodified":1466209701,
     "wof:name":"Alesa Ag Werkzeugfabrik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machining"
     ]
 },
-  "bbox": [8.203542,47.326046,8.203542,47.326046],
+  "bbox": [
+    8.203542,
+    47.326046,
+    8.203542,
+    47.326046
+],
   "geometry": {"coordinates":[8.203542,47.326046],"type":"Point"}
 }

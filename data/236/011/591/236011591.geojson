@@ -2,13 +2,14 @@
   "id": 236011591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.09497,46.746078,9.09497,46.746078",
     "geom:latitude":46.746078,
     "geom:longitude":9.09497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterer Batterieweg 85",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236011591,
-    "wof:lastmodified":1449004521,
+    "wof:lastmodified":1466208990,
     "wof:name":"Ignaz Caduff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.09497,46.746078,9.09497,46.746078],
+  "bbox": [
+    9.09497,
+    46.746078,
+    9.09497,
+    46.746078
+],
   "geometry": {"coordinates":[9.09497,46.746078],"type":"Point"}
 }

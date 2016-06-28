@@ -2,13 +2,14 @@
   "id": 236055257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53252,47.246101,8.53252,47.246101",
     "geom:latitude":47.246101,
     "geom:longitude":8.53252,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 24 8400 Winterthur. Postfach 522",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236055257,
-    "wof:lastmodified":1449002235,
+    "wof:lastmodified":1466209378,
     "wof:name":"Scherrer Karl, Spenglerei Und Sanit\u00e4re Anlagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53252,47.246101,8.53252,47.246101],
+  "bbox": [
+    8.53252,
+    47.246101,
+    8.53252,
+    47.246101
+],
   "geometry": {"coordinates":[8.53252,47.246101],"type":"Point"}
 }

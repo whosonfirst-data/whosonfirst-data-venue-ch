@@ -2,13 +2,14 @@
   "id": 202902635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.472466,47.245419,8.472466,47.245419",
     "geom:latitude":47.245419,
     "geom:longitude":8.472466,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Steinisacher",
     "sg:city":"Mettmenstetten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202902635,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466212244,
     "wof:name":"C + E Planing Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.472466,47.245419,8.472466,47.245419],
+  "bbox": [
+    8.472466,
+    47.245419,
+    8.472466,
+    47.245419
+],
   "geometry": {"coordinates":[8.472466,47.245419],"type":"Point"}
 }

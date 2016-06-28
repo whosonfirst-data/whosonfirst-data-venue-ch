@@ -2,13 +2,14 @@
   "id": 203340791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.596958,47.502296,7.596958,47.502296",
     "geom:latitude":47.502296,
     "geom:longitude":7.596958,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnmattstrasse 3",
     "sg:city":"R\u00fcegsauschachen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203340791,
-    "wof:lastmodified":1449026403,
+    "wof:lastmodified":1466210935,
     "wof:name":"Dr.med.heinrich St\u00e4bler Spezialarzt Fmh",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.596958,47.502296,7.596958,47.502296],
+  "bbox": [
+    7.596958,
+    47.502296,
+    7.596958,
+    47.502296
+],
   "geometry": {"coordinates":[7.596958,47.502296],"type":"Point"}
 }

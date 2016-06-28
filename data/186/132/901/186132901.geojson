@@ -2,13 +2,14 @@
   "id": 186132901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.489552,47.749878,8.489552,47.749878",
     "geom:latitude":47.749878,
     "geom:longitude":8.489552,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 18",
     "sg:city":"Schleitheim",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186132901,
-    "wof:lastmodified":1449051686,
+    "wof:lastmodified":1466211237,
     "wof:name":"Lenfer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.489552,47.749878,8.489552,47.749878],
+  "bbox": [
+    8.489552,
+    47.749878,
+    8.489552,
+    47.749878
+],
   "geometry": {"coordinates":[8.489552,47.749878],"type":"Point"}
 }

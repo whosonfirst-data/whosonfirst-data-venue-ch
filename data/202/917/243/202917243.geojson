@@ -2,13 +2,14 @@
   "id": 202917243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.540227,47.292374,9.540227,47.292374",
     "geom:latitude":47.292374,
     "geom:longitude":9.540227,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 32d",
     "sg:city":"Wiedlisbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202917243,
-    "wof:lastmodified":1449062322,
+    "wof:lastmodified":1466212193,
     "wof:name":"Guido G\u00f6ldi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.540227,47.292374,9.540227,47.292374],
+  "bbox": [
+    9.540227,
+    47.292374,
+    9.540227,
+    47.292374
+],
   "geometry": {"coordinates":[9.540227,47.292374],"type":"Point"}
 }

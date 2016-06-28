@@ -2,13 +2,14 @@
   "id": 236589239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.305083,47.051907,8.305083,47.051907",
     "geom:latitude":47.051907,
     "geom:longitude":8.305083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Benjamin-costant 5",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236589239,
-    "wof:lastmodified":1449003407,
+    "wof:lastmodified":1466212662,
     "wof:name":"Hotel Des Balances",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "restaurant"
     ]
 },
-  "bbox": [8.305083,47.051907,8.305083,47.051907],
+  "bbox": [
+    8.305083,
+    47.051907,
+    8.305083,
+    47.051907
+],
   "geometry": {"coordinates":[8.305083,47.051907],"type":"Point"}
 }

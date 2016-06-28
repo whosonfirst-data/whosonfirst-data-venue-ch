@@ -2,13 +2,14 @@
   "id": 186474301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.67066,46.505692,6.67066,46.505692",
     "geom:latitude":46.505692,
     "geom:longitude":6.67066,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Lac 2",
     "sg:city":"Paudex",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186474301,
-    "wof:lastmodified":1449050385,
+    "wof:lastmodified":1466211215,
     "wof:name":"Caisse D'assurance-vieillesse F\u00e9d\u00e9ration Patronale Vaudoise",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.67066,46.505692,6.67066,46.505692],
+  "bbox": [
+    6.67066,
+    46.505692,
+    6.67066,
+    46.505692
+],
   "geometry": {"coordinates":[6.67066,46.505692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253407379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.437253,47.08654,8.437253,47.08654",
     "geom:latitude":47.08654,
     "geom:longitude":8.437253,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptgasse 8",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253407379,
-    "wof:lastmodified":1449064470,
+    "wof:lastmodified":1466212203,
     "wof:name":"Marcel Graber Internet Database Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.437253,47.08654,8.437253,47.08654],
+  "bbox": [
+    8.437253,
+    47.08654,
+    8.437253,
+    47.08654
+],
   "geometry": {"coordinates":[8.437253,47.08654],"type":"Point"}
 }

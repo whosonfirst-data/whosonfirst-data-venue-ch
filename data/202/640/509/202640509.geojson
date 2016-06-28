@@ -2,13 +2,14 @@
   "id": 202640509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.855611,47.656239,8.855611,47.656239",
     "geom:latitude":47.656239,
     "geom:longitude":8.855611,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbestrasse 6 6314 Unter\u00e4geri. Postfach",
     "sg:city":"Unter\u00e4geri",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202640509,
-    "wof:lastmodified":1449061220,
+    "wof:lastmodified":1466210037,
     "wof:name":"M\u00fcller Architektur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.855611,47.656239,8.855611,47.656239],
+  "bbox": [
+    8.855611,
+    47.656239,
+    8.855611,
+    47.656239
+],
   "geometry": {"coordinates":[8.855611,47.656239],"type":"Point"}
 }

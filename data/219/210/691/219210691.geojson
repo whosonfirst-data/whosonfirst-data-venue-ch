@@ -2,13 +2,14 @@
   "id": 219210691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.512249,47.174232,8.512249,47.174232",
     "geom:latitude":47.174232,
     "geom:longitude":8.512249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grafenauweg 10",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219210691,
-    "wof:lastmodified":1449071596,
+    "wof:lastmodified":1466211077,
     "wof:name":"Astrazeneca Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "asthma"
     ]
 },
-  "bbox": [8.512249,47.174232,8.512249,47.174232],
+  "bbox": [
+    8.512249,
+    47.174232,
+    8.512249,
+    47.174232
+],
   "geometry": {"coordinates":[8.512249,47.174232],"type":"Point"}
 }

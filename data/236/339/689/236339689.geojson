@@ -2,13 +2,14 @@
   "id": 236339689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.453299,47.483322,8.453299,47.483322",
     "geom:latitude":47.483322,
     "geom:longitude":8.453299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterdorfstrasse 2",
     "sg:city":"Dielsdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236339689,
-    "wof:lastmodified":1449003063,
+    "wof:lastmodified":1466212033,
     "wof:name":"London Bus Service London Bus Und London Taxi Fahrten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.453299,47.483322,8.453299,47.483322],
+  "bbox": [
+    8.453299,
+    47.483322,
+    8.453299,
+    47.483322
+],
   "geometry": {"coordinates":[8.453299,47.483322],"type":"Point"}
 }

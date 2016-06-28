@@ -2,13 +2,14 @@
   "id": 252830849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.788891,47.211552,7.788891,47.211552",
     "geom:latitude":47.211552,
     "geom:longitude":7.788891,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 19 4900 Langenthal. Postfach 858",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252830849,
-    "wof:lastmodified":1449005650,
+    "wof:lastmodified":1466210245,
     "wof:name":"Franz Bucher Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.788891,47.211552,7.788891,47.211552],
+  "bbox": [
+    7.788891,
+    47.211552,
+    7.788891,
+    47.211552
+],
   "geometry": {"coordinates":[7.788891,47.211552],"type":"Point"}
 }

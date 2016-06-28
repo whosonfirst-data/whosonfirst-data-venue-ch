@@ -2,13 +2,14 @@
   "id": 236953293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.644261,46.518864,6.644261,46.518864",
     "geom:latitude":46.518864,
     "geom:longitude":6.644261,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Tribunal-f\u00e9d\u00e9ral 34 1005 Lausanne. Postfach Case Postal 305",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236953293,
-    "wof:lastmodified":1449004017,
+    "wof:lastmodified":1466212957,
     "wof:name":"Mit Micro-informatique & Technologies Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.644261,46.518864,6.644261,46.518864],
+  "bbox": [
+    6.644261,
+    46.518864,
+    6.644261,
+    46.518864
+],
   "geometry": {"coordinates":[6.644261,46.518864],"type":"Point"}
 }

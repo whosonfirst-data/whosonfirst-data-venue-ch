@@ -2,13 +2,14 @@
   "id": 186469961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.410116,46.818581,7.410116,46.818581",
     "geom:latitude":46.818581,
     "geom:longitude":7.410116,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwandmatt 317",
     "sg:city":"R\u00fceggisberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186469961,
-    "wof:lastmodified":1449053084,
+    "wof:lastmodified":1466211165,
     "wof:name":"Stoller Bedachungen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.410116,46.818581,7.410116,46.818581],
+  "bbox": [
+    7.410116,
+    46.818581,
+    7.410116,
+    46.818581
+],
   "geometry": {"coordinates":[7.410116,46.818581],"type":"Point"}
 }

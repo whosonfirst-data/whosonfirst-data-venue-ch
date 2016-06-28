@@ -2,13 +2,14 @@
   "id": 219351223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.288183,47.453922,8.288183,47.453922",
     "geom:latitude":47.453922,
     "geom:longitude":8.288183,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedstrasse 17a",
     "sg:city":"Stansstad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219351223,
-    "wof:lastmodified":1449073377,
+    "wof:lastmodified":1466209702,
     "wof:name":"Alfred Heussi Autospritzwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.288183,47.453922,8.288183,47.453922],
+  "bbox": [
+    8.288183,
+    47.453922,
+    8.288183,
+    47.453922
+],
   "geometry": {"coordinates":[8.288183,47.453922],"type":"Point"}
 }

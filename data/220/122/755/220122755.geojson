@@ -2,13 +2,14 @@
   "id": 220122755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.8293,46.18034,8.8293,46.18034",
     "geom:latitude":46.18034,
     "geom:longitude":8.8293,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Gottardo 205",
     "sg:city":"Minusio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220122755,
-    "wof:lastmodified":1449074507,
+    "wof:lastmodified":1466209933,
     "wof:name":"Moccia Claudio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.8293,46.18034,8.8293,46.18034],
+  "bbox": [
+    8.8293,
+    46.18034,
+    8.8293,
+    46.18034
+],
   "geometry": {"coordinates":[8.8293,46.18034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203136755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.954607,46.006496,8.954607,46.006496",
     "geom:latitude":46.006496,
     "geom:longitude":8.954607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Carlo Frasca 8",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203136755,
-    "wof:lastmodified":1449026852,
+    "wof:lastmodified":1466211501,
     "wof:name":"Dott.med.daniel B\u00fchler Medico Generico Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.954607,46.006496,8.954607,46.006496],
+  "bbox": [
+    8.954607,
+    46.006496,
+    8.954607,
+    46.006496
+],
   "geometry": {"coordinates":[8.954607,46.006496],"type":"Point"}
 }

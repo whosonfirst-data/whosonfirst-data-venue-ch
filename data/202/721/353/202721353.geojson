@@ -2,13 +2,14 @@
   "id": 202721353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.821713,47.235649,8.821713,47.235649",
     "geom:latitude":47.235649,
     "geom:longitude":8.821713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Meienbergstrasse 10",
     "sg:city":"Jona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202721353,
-    "wof:lastmodified":1449062638,
+    "wof:lastmodified":1466210790,
     "wof:name":"Steritec H.p. Meier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.821713,47.235649,8.821713,47.235649],
+  "bbox": [
+    8.821713,
+    47.235649,
+    8.821713,
+    47.235649
+],
   "geometry": {"coordinates":[8.821713,47.235649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169695517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.496372,46.508636,6.496372,46.508636",
     "geom:latitude":46.508636,
     "geom:longitude":6.496372,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neue Winterthurerstrasse 26",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169695517,
-    "wof:lastmodified":1449033944,
+    "wof:lastmodified":1466210909,
     "wof:name":"Bruno D\u00fcrst Atelier M\u00e9canique De Pr\u00e9cision",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.496372,46.508636,6.496372,46.508636],
+  "bbox": [
+    6.496372,
+    46.508636,
+    6.496372,
+    46.508636
+],
   "geometry": {"coordinates":[6.496372,46.508636],"type":"Point"}
 }

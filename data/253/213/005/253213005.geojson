@@ -2,13 +2,14 @@
   "id": 253213005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.036228,47.051964,7.036228,47.051964",
     "geom:latitude":47.051964,
     "geom:longitude":7.036228,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beauregard 34",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253213005,
-    "wof:lastmodified":1449062853,
+    "wof:lastmodified":1466211139,
     "wof:name":"Lauper Pierre.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.036228,47.051964,7.036228,47.051964],
+  "bbox": [
+    7.036228,
+    47.051964,
+    7.036228,
+    47.051964
+],
   "geometry": {"coordinates":[7.036228,47.051964],"type":"Point"}
 }

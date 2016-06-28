@@ -2,13 +2,14 @@
   "id": 169624319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.439538,47.273899,8.439538,47.273899",
     "geom:latitude":47.273899,
     "geom:longitude":8.439538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4gestrasse 44",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169624319,
-    "wof:lastmodified":1449034957,
+    "wof:lastmodified":1466209688,
     "wof:name":"Albis Bettwarenfabik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bedding"
     ]
 },
-  "bbox": [8.439538,47.273899,8.439538,47.273899],
+  "bbox": [
+    8.439538,
+    47.273899,
+    8.439538,
+    47.273899
+],
   "geometry": {"coordinates":[8.439538,47.273899],"type":"Point"}
 }

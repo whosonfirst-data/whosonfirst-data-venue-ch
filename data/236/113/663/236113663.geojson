@@ -2,13 +2,14 @@
   "id": 236113663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.481222,46.904362,6.481222,46.904362",
     "geom:latitude":46.904362,
     "geom:longitude":6.481222,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Schleedorn 3",
     "sg:city":"Nenzlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236113663,
-    "wof:lastmodified":1449004921,
+    "wof:lastmodified":1466209913,
     "wof:name":"Rey Alain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.481222,46.904362,6.481222,46.904362],
+  "bbox": [
+    6.481222,
+    46.904362,
+    6.481222,
+    46.904362
+],
   "geometry": {"coordinates":[6.481222,46.904362],"type":"Point"}
 }

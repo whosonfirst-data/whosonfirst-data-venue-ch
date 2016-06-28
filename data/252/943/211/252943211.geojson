@@ -2,13 +2,14 @@
   "id": 252943211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.275493,47.078087,8.275493,47.078087",
     "geom:latitude":47.078087,
     "geom:longitude":8.275493,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Shopping Center Emmen 6020 Emmenbr\u00fccke. Postfach 5058",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252943211,
-    "wof:lastmodified":1449005709,
+    "wof:lastmodified":1466211453,
     "wof:name":"Oehrli B. + Co., Sch\u00fcrzen + Berufskleider, Inh. Kiener F.",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.275493,47.078087,8.275493,47.078087],
+  "bbox": [
+    8.275493,
+    47.078087,
+    8.275493,
+    47.078087
+],
   "geometry": {"coordinates":[8.275493,47.078087],"type":"Point"}
 }

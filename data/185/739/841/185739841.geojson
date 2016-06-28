@@ -2,13 +2,14 @@
   "id": 185739841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543092,47.374203,8.543092,47.374203",
     "geom:latitude":47.374203,
     "geom:longitude":8.543092,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatquai 94 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185739841,
-    "wof:lastmodified":1449007281,
+    "wof:lastmodified":1466211429,
     "wof:name":"Schmid & Staffelbach Advokaturb\u00fcro",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543092,47.374203,8.543092,47.374203],
+  "bbox": [
+    8.543092,
+    47.374203,
+    8.543092,
+    47.374203
+],
   "geometry": {"coordinates":[8.543092,47.374203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202509803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.539111,46.577351,6.539111,46.577351",
     "geom:latitude":46.577351,
     "geom:longitude":6.539111,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand Rue 28",
     "sg:city":"Vufflens-la-ville",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202509803,
-    "wof:lastmodified":1449060201,
+    "wof:lastmodified":1466211536,
     "wof:name":"Gastroconcept, Blaser Werner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.539111,46.577351,6.539111,46.577351],
+  "bbox": [
+    6.539111,
+    46.577351,
+    6.539111,
+    46.577351
+],
   "geometry": {"coordinates":[6.539111,46.577351],"type":"Point"}
 }

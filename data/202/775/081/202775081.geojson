@@ -2,13 +2,14 @@
   "id": 202775081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.626625,46.732059,7.626625,46.732059",
     "geom:latitude":46.732059,
     "geom:longitude":7.626625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wohlhausenweg 2 3600 Thun. Postfach",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202775081,
-    "wof:lastmodified":1449061977,
+    "wof:lastmodified":1466211296,
     "wof:name":"Zellweger Architekten Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.626625,46.732059,7.626625,46.732059],
+  "bbox": [
+    7.626625,
+    46.732059,
+    7.626625,
+    46.732059
+],
   "geometry": {"coordinates":[7.626625,46.732059],"type":"Point"}
 }

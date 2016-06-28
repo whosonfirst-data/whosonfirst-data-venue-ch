@@ -2,13 +2,14 @@
   "id": 202696743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.008389,46.781857,7.008389,46.781857",
     "geom:latitude":46.781857,
     "geom:longitude":7.008389,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Riaux 16",
     "sg:city":"Prez-vers-nor\u00e9az",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202696743,
-    "wof:lastmodified":1449060303,
+    "wof:lastmodified":1466210556,
     "wof:name":"Sallin Jean-marc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.008389,46.781857,7.008389,46.781857],
+  "bbox": [
+    7.008389,
+    46.781857,
+    7.008389,
+    46.781857
+],
   "geometry": {"coordinates":[7.008389,46.781857],"type":"Point"}
 }

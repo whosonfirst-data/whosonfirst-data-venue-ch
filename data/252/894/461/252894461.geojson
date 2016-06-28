@@ -2,13 +2,14 @@
   "id": 252894461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.817174,47.22633,8.817174,47.22633",
     "geom:latitude":47.22633,
     "geom:longitude":8.817174,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Voltaire 29",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252894461,
-    "wof:lastmodified":1449005850,
+    "wof:lastmodified":1466210924,
     "wof:name":"Les Sportives Diem & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.817174,47.22633,8.817174,47.22633],
+  "bbox": [
+    8.817174,
+    47.22633,
+    8.817174,
+    47.22633
+],
   "geometry": {"coordinates":[8.817174,47.22633],"type":"Point"}
 }

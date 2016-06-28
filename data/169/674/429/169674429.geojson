@@ -2,13 +2,14 @@
   "id": 169674429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.129614,46.186745,6.129614,46.186745",
     "geom:latitude":46.186745,
     "geom:longitude":6.129614,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Tronchin 26",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169674429,
-    "wof:lastmodified":1449035138,
+    "wof:lastmodified":1466210512,
     "wof:name":"Imprimerie F. Steiner Sa",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.129614,46.186745,6.129614,46.186745],
+  "bbox": [
+    6.129614,
+    46.186745,
+    6.129614,
+    46.186745
+],
   "geometry": {"coordinates":[6.129614,46.186745],"type":"Point"}
 }

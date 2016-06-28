@@ -2,13 +2,14 @@
   "id": 219401985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.478453,47.743275,8.478453,47.743275",
     "geom:latitude":47.743275,
     "geom:longitude":8.478453,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zunderst Wyler 8",
     "sg:city":"Schleitheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219401985,
-    "wof:lastmodified":1449073390,
+    "wof:lastmodified":1466210197,
     "wof:name":"Kurt Hauser Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.478453,47.743275,8.478453,47.743275],
+  "bbox": [
+    8.478453,
+    47.743275,
+    8.478453,
+    47.743275
+],
   "geometry": {"coordinates":[8.478453,47.743275],"type":"Point"}
 }

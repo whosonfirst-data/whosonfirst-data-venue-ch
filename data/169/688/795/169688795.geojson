@@ -2,13 +2,14 @@
   "id": 169688795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.590088,47.583538,7.590088,47.583538",
     "geom:latitude":47.583538,
     "geom:longitude":7.590088,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafenstrasse 9 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169688795,
-    "wof:lastmodified":1449033924,
+    "wof:lastmodified":1466210734,
     "wof:name":"Poltrans Int.transporte Ag",
     "wof:parent_id":85800031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.590088,47.583538,7.590088,47.583538],
+  "bbox": [
+    7.590088,
+    47.583538,
+    7.590088,
+    47.583538
+],
   "geometry": {"coordinates":[7.590088,47.583538],"type":"Point"}
 }

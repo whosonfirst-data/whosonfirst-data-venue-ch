@@ -2,13 +2,14 @@
   "id": 169652183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.244138,47.138351,7.244138,47.138351",
     "geom:latitude":47.138351,
     "geom:longitude":7.244138,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriegasse 2",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169652183,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466210128,
     "wof:name":"W & P Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [7.244138,47.138351,7.244138,47.138351],
+  "bbox": [
+    7.244138,
+    47.138351,
+    7.244138,
+    47.138351
+],
   "geometry": {"coordinates":[7.244138,47.138351],"type":"Point"}
 }

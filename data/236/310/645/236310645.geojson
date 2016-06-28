@@ -2,13 +2,14 @@
   "id": 236310645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63371,46.539982,6.63371,46.539982",
     "geom:latitude":46.539982,
     "geom:longitude":6.63371,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Aloys-fauquez 120",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236310645,
-    "wof:lastmodified":1449003724,
+    "wof:lastmodified":1466211916,
     "wof:name":"Pal L\u00f6rincz Taxi",
     "wof:parent_id":85800151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63371,46.539982,6.63371,46.539982],
+  "bbox": [
+    6.63371,
+    46.539982,
+    6.63371,
+    46.539982
+],
   "geometry": {"coordinates":[6.63371,46.539982],"type":"Point"}
 }

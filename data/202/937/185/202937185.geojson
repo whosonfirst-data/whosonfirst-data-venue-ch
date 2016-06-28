@@ -2,13 +2,14 @@
   "id": 202937185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.47309,46.940456,7.47309,46.940456",
     "geom:latitude":46.940456,
     "geom:longitude":7.47309,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birmensdorferstrasse 101",
     "sg:city":"Urdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202937185,
-    "wof:lastmodified":1449060588,
+    "wof:lastmodified":1466212173,
     "wof:name":"Aip Architektur & Integrale Planung",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.47309,46.940456,7.47309,46.940456],
+  "bbox": [
+    7.47309,
+    46.940456,
+    7.47309,
+    46.940456
+],
   "geometry": {"coordinates":[7.47309,46.940456],"type":"Point"}
 }

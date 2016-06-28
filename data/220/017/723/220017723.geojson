@@ -2,13 +2,14 @@
   "id": 220017723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.550513,46.733555,7.550513,46.733555",
     "geom:latitude":46.733555,
     "geom:longitude":7.550513,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zelggasse",
     "sg:city":"Uebeschi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220017723,
-    "wof:lastmodified":1449074475,
+    "wof:lastmodified":1466209031,
     "wof:name":"Hansruedi Krebs Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.550513,46.733555,7.550513,46.733555],
+  "bbox": [
+    7.550513,
+    46.733555,
+    7.550513,
+    46.733555
+],
   "geometry": {"coordinates":[7.550513,46.733555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202548385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.472922,46.942863,7.472922,46.942863",
     "geom:latitude":46.942863,
     "geom:longitude":7.472922,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ginsterweg 2",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202548385,
-    "wof:lastmodified":1449061845,
+    "wof:lastmodified":1466209177,
     "wof:name":"H\u00c4usler Stephan Angewandte Erdwissenschaften",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.472922,46.942863,7.472922,46.942863],
+  "bbox": [
+    7.472922,
+    46.942863,
+    7.472922,
+    46.942863
+],
   "geometry": {"coordinates":[7.472922,46.942863],"type":"Point"}
 }

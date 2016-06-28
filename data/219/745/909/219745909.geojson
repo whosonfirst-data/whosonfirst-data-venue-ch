@@ -2,13 +2,14 @@
   "id": 219745909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43995,46.94825,7.43995,46.94825",
     "geom:latitude":46.94825,
     "geom:longitude":7.43995,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 1380 Ch-8021 Z\u00fcrich Switzerland.^^po Box 1380 Badenerstrasse 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219745909,
-    "wof:lastmodified":1449073755,
+    "wof:lastmodified":1466212451,
     "wof:name":"Uiag Universal Ingenieur Ag",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43995,46.94825,7.43995,46.94825],
+  "bbox": [
+    7.43995,
+    46.94825,
+    7.43995,
+    46.94825
+],
   "geometry": {"coordinates":[7.43995,46.94825],"type":"Point"}
 }

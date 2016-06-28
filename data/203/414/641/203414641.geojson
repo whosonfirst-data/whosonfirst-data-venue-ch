@@ -2,13 +2,14 @@
   "id": 203414641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.633058,46.773167,7.633058,46.773167",
     "geom:latitude":46.773167,
     "geom:longitude":7.633058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstrasse 10",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203414641,
-    "wof:lastmodified":1449025806,
+    "wof:lastmodified":1466211652,
     "wof:name":"Dr.med.theo Berli Spezialarzt Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.633058,46.773167,7.633058,46.773167],
+  "bbox": [
+    7.633058,
+    46.773167,
+    7.633058,
+    46.773167
+],
   "geometry": {"coordinates":[7.633058,46.773167],"type":"Point"}
 }

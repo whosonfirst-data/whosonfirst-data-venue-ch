@@ -2,13 +2,14 @@
   "id": 169715137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.643315,46.779495,6.643315,46.779495",
     "geom:latitude":46.779495,
     "geom:longitude":6.643315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Haldimand 4-6",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169715137,
-    "wof:lastmodified":1449035299,
+    "wof:lastmodified":1466211084,
     "wof:name":"Soci\u00c9t\u00c9 Anonyme Du Journal D'yverdon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [6.643315,46.779495,6.643315,46.779495],
+  "bbox": [
+    6.643315,
+    46.779495,
+    6.643315,
+    46.779495
+],
   "geometry": {"coordinates":[6.643315,46.779495],"type":"Point"}
 }

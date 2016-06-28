@@ -2,13 +2,14 @@
   "id": 236785639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.9571,47.227497,8.9571,47.227497",
     "geom:latitude":47.227497,
     "geom:longitude":8.9571,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstr. 36",
     "sg:city":"Schmerikon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236785639,
-    "wof:lastmodified":1449004568,
+    "wof:lastmodified":1466212891,
     "wof:name":"Enea Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [8.9571,47.227497,8.9571,47.227497],
+  "bbox": [
+    8.9571,
+    47.227497,
+    8.9571,
+    47.227497
+],
   "geometry": {"coordinates":[8.9571,47.227497],"type":"Point"}
 }

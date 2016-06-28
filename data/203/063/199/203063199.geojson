@@ -2,13 +2,14 @@
   "id": 203063199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.071577,46.106785,7.071577,46.106785",
     "geom:latitude":46.106785,
     "geom:longitude":7.071577,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Fribourg 9",
     "sg:city":"Farvagny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203063199,
-    "wof:lastmodified":1449025104,
+    "wof:lastmodified":1466210389,
     "wof:name":"Philippe Brochellaz Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.071577,46.106785,7.071577,46.106785],
+  "bbox": [
+    7.071577,
+    46.106785,
+    7.071577,
+    46.106785
+],
   "geometry": {"coordinates":[7.071577,46.106785],"type":"Point"}
 }

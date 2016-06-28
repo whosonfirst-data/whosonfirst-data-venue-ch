@@ -2,13 +2,14 @@
   "id": 219364105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.51869,46.891323,7.51869,46.891323",
     "geom:latitude":46.891323,
     "geom:longitude":7.51869,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00e4gerheimweg 10",
     "sg:city":"Belp",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219364105,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466209814,
     "wof:name":"Zentrum Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.51869,46.891323,7.51869,46.891323],
+  "bbox": [
+    7.51869,
+    46.891323,
+    7.51869,
+    46.891323
+],
   "geometry": {"coordinates":[7.51869,46.891323],"type":"Point"}
 }

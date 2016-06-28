@@ -2,13 +2,14 @@
   "id": 202748217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585325,47.554218,7.585325,47.554218",
     "geom:latitude":47.554218,
     "geom:longitude":7.585325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinengraben 22",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202748217,
-    "wof:lastmodified":1449062011,
+    "wof:lastmodified":1466211038,
     "wof:name":"Tyj Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.585325,47.554218,7.585325,47.554218],
+  "bbox": [
+    7.585325,
+    47.554218,
+    7.585325,
+    47.554218
+],
   "geometry": {"coordinates":[7.585325,47.554218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202875037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.063431,46.090347,7.063431,46.090347",
     "geom:latitude":46.090347,
     "geom:longitude":7.063431,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Bourg 44",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202875037,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466211917,
     "wof:name":"Yvan Joris Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.063431,46.090347,7.063431,46.090347],
+  "bbox": [
+    7.063431,
+    46.090347,
+    7.063431,
+    46.090347
+],
   "geometry": {"coordinates":[7.063431,46.090347],"type":"Point"}
 }

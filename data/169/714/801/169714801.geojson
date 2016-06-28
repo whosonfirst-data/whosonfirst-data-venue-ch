@@ -2,13 +2,14 @@
   "id": 169714801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.899403,47.55677,8.899403,47.55677",
     "geom:latitude":47.55677,
     "geom:longitude":8.899403,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Promenadenstr. 16",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169714801,
-    "wof:lastmodified":1449034314,
+    "wof:lastmodified":1466211085,
     "wof:name":"Huber & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [8.899403,47.55677,8.899403,47.55677],
+  "bbox": [
+    8.899403,
+    47.55677,
+    8.899403,
+    47.55677
+],
   "geometry": {"coordinates":[8.899403,47.55677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203378387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.401026,47.433262,9.401026,47.433262",
     "geom:latitude":47.433262,
     "geom:longitude":9.401026,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinenvorstadt 53",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203378387,
-    "wof:lastmodified":1449026257,
+    "wof:lastmodified":1466211311,
     "wof:name":"Dr.med.martin Arthur Kr\u00fcsi Spezialarzt Fmh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.401026,47.433262,9.401026,47.433262],
+  "bbox": [
+    9.401026,
+    47.433262,
+    9.401026,
+    47.433262
+],
   "geometry": {"coordinates":[9.401026,47.433262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203247411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.726916,47.500103,8.726916,47.500103",
     "geom:latitude":47.500103,
     "geom:longitude":8.726916,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadthausstrasse 12",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203247411,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466209991,
     "wof:name":"Dr.med. Gerhard Weber Spezialarzt Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.726916,47.500103,8.726916,47.500103],
+  "bbox": [
+    8.726916,
+    47.500103,
+    8.726916,
+    47.500103
+],
   "geometry": {"coordinates":[8.726916,47.500103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219658001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.395245,47.166256,8.395245,47.166256",
     "geom:latitude":47.166256,
     "geom:longitude":8.395245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse",
     "sg:city":"Oberr\u00fcti",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219658001,
-    "wof:lastmodified":1449070302,
+    "wof:lastmodified":1466211947,
     "wof:name":"Raiffeisenkasse Oberr\u00fcti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.395245,47.166256,8.395245,47.166256],
+  "bbox": [
+    8.395245,
+    47.166256,
+    8.395245,
+    47.166256
+],
   "geometry": {"coordinates":[8.395245,47.166256],"type":"Point"}
 }

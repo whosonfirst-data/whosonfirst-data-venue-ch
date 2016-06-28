@@ -2,13 +2,14 @@
   "id": 219925919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.335554,46.95723,8.335554,46.95723",
     "geom:latitude":46.95723,
     "geom:longitude":8.335554,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allwegmatte 4",
     "sg:city":"Ennetmoos",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219925919,
-    "wof:lastmodified":1449070401,
+    "wof:lastmodified":1466212582,
     "wof:name":"Strassengenossenschaft Allwegmatte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.335554,46.95723,8.335554,46.95723],
+  "bbox": [
+    8.335554,
+    46.95723,
+    8.335554,
+    46.95723
+],
   "geometry": {"coordinates":[8.335554,46.95723],"type":"Point"}
 }

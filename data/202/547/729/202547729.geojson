@@ -2,13 +2,14 @@
   "id": 202547729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.653817,46.866604,8.653817,46.866604",
     "geom:latitude":46.866604,
     "geom:longitude":8.653817,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 17",
     "sg:city":"Schattdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202547729,
-    "wof:lastmodified":1449060376,
+    "wof:lastmodified":1466209171,
     "wof:name":"Huwyler + Partner Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.653817,46.866604,8.653817,46.866604],
+  "bbox": [
+    8.653817,
+    46.866604,
+    8.653817,
+    46.866604
+],
   "geometry": {"coordinates":[8.653817,46.866604],"type":"Point"}
 }

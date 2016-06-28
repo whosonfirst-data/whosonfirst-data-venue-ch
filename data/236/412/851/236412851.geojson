@@ -2,13 +2,14 @@
   "id": 236412851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632859,46.532932,6.632859,46.532932",
     "geom:latitude":46.532932,
     "geom:longitude":6.632859,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Aloys-fauquez 21",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236412851,
-    "wof:lastmodified":1449002182,
+    "wof:lastmodified":1466212187,
     "wof:name":"Biblioth\u00e8que De La Paroisse De Bellevaux",
     "wof:parent_id":85799753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [6.632859,46.532932,6.632859,46.532932],
+  "bbox": [
+    6.632859,
+    46.532932,
+    6.632859,
+    46.532932
+],
   "geometry": {"coordinates":[6.632859,46.532932],"type":"Point"}
 }

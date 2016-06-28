@@ -2,13 +2,14 @@
   "id": 236774443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.005207,47.375912,8.005207,47.375912",
     "geom:latitude":47.375912,
     "geom:longitude":8.005207,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 23/25",
     "sg:city":"Sch\u00f6nenwerd",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236774443,
-    "wof:lastmodified":1449002837,
+    "wof:lastmodified":1466212881,
     "wof:name":"Wyser Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "milling"
     ]
 },
-  "bbox": [8.005207,47.375912,8.005207,47.375912],
+  "bbox": [
+    8.005207,
+    47.375912,
+    8.005207,
+    47.375912
+],
   "geometry": {"coordinates":[8.005207,47.375912],"type":"Point"}
 }

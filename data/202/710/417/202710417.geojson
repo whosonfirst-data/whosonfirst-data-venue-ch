@@ -2,13 +2,14 @@
   "id": 202710417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.795379,47.165813,7.795379,47.165813",
     "geom:latitude":47.165813,
     "geom:longitude":7.795379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steingasse 23a",
     "sg:city":"Madiswil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202710417,
-    "wof:lastmodified":1449060265,
+    "wof:lastmodified":1466210691,
     "wof:name":"Sesco Ag Madiswil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.795379,47.165813,7.795379,47.165813],
+  "bbox": [
+    7.795379,
+    47.165813,
+    7.795379,
+    47.165813
+],
   "geometry": {"coordinates":[7.795379,47.165813],"type":"Point"}
 }

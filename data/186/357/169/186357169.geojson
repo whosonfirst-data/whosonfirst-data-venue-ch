@@ -2,13 +2,14 @@
   "id": 186357169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.039965,47.455563,9.039965,47.455563",
     "geom:latitude":47.455563,
     "geom:longitude":9.039965,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinstrasse 199",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186357169,
-    "wof:lastmodified":1449052689,
+    "wof:lastmodified":1466210261,
     "wof:name":"Cristini Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.039965,47.455563,9.039965,47.455563],
+  "bbox": [
+    9.039965,
+    47.455563,
+    9.039965,
+    47.455563
+],
   "geometry": {"coordinates":[9.039965,47.455563],"type":"Point"}
 }

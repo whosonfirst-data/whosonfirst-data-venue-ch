@@ -2,13 +2,14 @@
   "id": 202414721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.602102,47.553654,7.602102,47.553654",
     "geom:latitude":47.553654,
     "geom:longitude":7.602102,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-vorstadt 93 4052 Basel. Postfach 211",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202414721,
-    "wof:lastmodified":1449061310,
+    "wof:lastmodified":1466209956,
     "wof:name":"Bogensch\u00fctz Ag Ingenieurb\u00fcro F\u00fcr Haus, Anlagetechnik, Bes. Sani\u00e4r- U. Spezialanlagen",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.602102,47.553654,7.602102,47.553654],
+  "bbox": [
+    7.602102,
+    47.553654,
+    7.602102,
+    47.553654
+],
   "geometry": {"coordinates":[7.602102,47.553654],"type":"Point"}
 }

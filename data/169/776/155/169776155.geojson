@@ -2,13 +2,14 @@
   "id": 169776155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51621,47.171501,8.51621,47.171501",
     "geom:latitude":47.171501,
     "geom:longitude":8.51621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenstrasse 1",
     "sg:city":"Baar/zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169776155,
-    "wof:lastmodified":1449033407,
+    "wof:lastmodified":1466211590,
     "wof:name":"Payment Solutions Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.51621,47.171501,8.51621,47.171501],
+  "bbox": [
+    8.51621,
+    47.171501,
+    8.51621,
+    47.171501
+],
   "geometry": {"coordinates":[8.51621,47.171501],"type":"Point"}
 }

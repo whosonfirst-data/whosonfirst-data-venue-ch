@@ -2,13 +2,14 @@
   "id": 186366353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.38985,47.31171,8.38985,47.31171",
     "geom:latitude":47.31171,
     "geom:longitude":8.38985,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachmattweg 20 8917 Oberlunkhofen. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186366353,
-    "wof:lastmodified":1449052313,
+    "wof:lastmodified":1466210331,
     "wof:name":"Huber Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.38985,47.31171,8.38985,47.31171],
+  "bbox": [
+    8.38985,
+    47.31171,
+    8.38985,
+    47.31171
+],
   "geometry": {"coordinates":[8.38985,47.31171],"type":"Point"}
 }

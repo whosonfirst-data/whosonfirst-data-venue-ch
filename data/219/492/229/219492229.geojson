@@ -2,13 +2,14 @@
   "id": 219492229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.856808,46.453293,6.856808,46.453293",
     "geom:latitude":46.453293,
     "geom:longitude":6.856808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand Rue 38",
     "sg:city":"La Tour De Peilz",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219492229,
-    "wof:lastmodified":1449070379,
+    "wof:lastmodified":1466211063,
     "wof:name":"Banque Cantonale Vaudoise, Branch Of Lausanne",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.856808,46.453293,6.856808,46.453293],
+  "bbox": [
+    6.856808,
+    46.453293,
+    6.856808,
+    46.453293
+],
   "geometry": {"coordinates":[6.856808,46.453293],"type":"Point"}
 }

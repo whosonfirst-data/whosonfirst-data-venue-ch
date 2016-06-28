@@ -2,13 +2,14 @@
   "id": 236072437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.580597,47.201668,7.580597,47.201668",
     "geom:latitude":47.201668,
     "geom:longitude":7.580597,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanalgasse 9 4552 Derendingen. Postfach",
     "sg:city":"Derendingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236072437,
-    "wof:lastmodified":1449003383,
+    "wof:lastmodified":1466209541,
     "wof:name":"Eberhard Sch\u00e4fer Sanit\u00e4r Heizung Spenglerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.580597,47.201668,7.580597,47.201668],
+  "bbox": [
+    7.580597,
+    47.201668,
+    7.580597,
+    47.201668
+],
   "geometry": {"coordinates":[7.580597,47.201668],"type":"Point"}
 }

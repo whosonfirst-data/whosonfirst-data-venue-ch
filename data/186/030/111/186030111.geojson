@@ -2,13 +2,14 @@
   "id": 186030111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.572837,47.576515,7.572837,47.576515",
     "geom:latitude":47.576515,
     "geom:longitude":7.572837,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Els\u00e4sserstrasse 250",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186030111,
-    "wof:lastmodified":1449051373,
+    "wof:lastmodified":1466209725,
     "wof:name":"Brobst Ag",
     "wof:parent_id":85800031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.572837,47.576515,7.572837,47.576515],
+  "bbox": [
+    7.572837,
+    47.576515,
+    7.572837,
+    47.576515
+],
   "geometry": {"coordinates":[7.572837,47.576515],"type":"Point"}
 }

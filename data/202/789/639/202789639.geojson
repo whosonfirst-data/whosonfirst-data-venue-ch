@@ -2,13 +2,14 @@
   "id": 202789639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.47204,46.947891,7.47204,46.947891",
     "geom:latitude":46.947891,
     "geom:longitude":7.47204,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrglenstrasse 67",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202789639,
-    "wof:lastmodified":1449061273,
+    "wof:lastmodified":1466211427,
     "wof:name":"Architekturb\u00fcro Fritz Z\u00fcrcher.",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.47204,46.947891,7.47204,46.947891],
+  "bbox": [
+    7.47204,
+    46.947891,
+    7.47204,
+    46.947891
+],
   "geometry": {"coordinates":[7.47204,46.947891],"type":"Point"}
 }

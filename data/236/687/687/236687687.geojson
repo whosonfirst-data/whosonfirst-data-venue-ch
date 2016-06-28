@@ -2,13 +2,14 @@
   "id": 236687687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.026975,45.835766,9.026975,45.835766",
     "geom:latitude":45.835766,
     "geom:longitude":9.026975,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso San Gottardo 72",
     "sg:city":"Chiasso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236687687,
-    "wof:lastmodified":1449002388,
+    "wof:lastmodified":1466212904,
     "wof:name":"Erimex Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.026975,45.835766,9.026975,45.835766],
+  "bbox": [
+    9.026975,
+    45.835766,
+    9.026975,
+    45.835766
+],
   "geometry": {"coordinates":[9.026975,45.835766],"type":"Point"}
 }

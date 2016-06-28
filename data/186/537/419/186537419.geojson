@@ -2,13 +2,14 @@
   "id": 186537419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.527991,47.211243,7.527991,47.211243",
     "geom:latitude":47.211243,
     "geom:longitude":7.527991,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weissensteinstrasse 15",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186537419,
-    "wof:lastmodified":1449051049,
+    "wof:lastmodified":1466211799,
     "wof:name":"Bonacasa-sewo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.527991,47.211243,7.527991,47.211243],
+  "bbox": [
+    7.527991,
+    47.211243,
+    7.527991,
+    47.211243
+],
   "geometry": {"coordinates":[7.527991,47.211243],"type":"Point"}
 }

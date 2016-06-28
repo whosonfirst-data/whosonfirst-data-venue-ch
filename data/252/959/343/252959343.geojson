@@ -2,13 +2,14 @@
   "id": 252959343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.375549,47.426529,9.375549,47.426529",
     "geom:latitude":47.426529,
     "geom:longitude":9.375549,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumenrain 3",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252959343,
-    "wof:lastmodified":1449006403,
+    "wof:lastmodified":1466211618,
     "wof:name":"Electras Gmbh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.375549,47.426529,9.375549,47.426529],
+  "bbox": [
+    9.375549,
+    47.426529,
+    9.375549,
+    47.426529
+],
   "geometry": {"coordinates":[9.375549,47.426529],"type":"Point"}
 }

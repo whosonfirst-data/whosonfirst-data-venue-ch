@@ -2,13 +2,14 @@
   "id": 202875649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.424801,47.175625,8.424801,47.175625",
     "geom:latitude":47.175625,
     "geom:longitude":8.424801,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebenweg 1",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202875649,
-    "wof:lastmodified":1449061990,
+    "wof:lastmodified":1466212027,
     "wof:name":"Zimmermann + Baumeler, Architekten.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.424801,47.175625,8.424801,47.175625],
+  "bbox": [
+    8.424801,
+    47.175625,
+    8.424801,
+    47.175625
+],
   "geometry": {"coordinates":[8.424801,47.175625],"type":"Point"}
 }

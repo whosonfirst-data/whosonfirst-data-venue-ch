@@ -2,13 +2,14 @@
   "id": 219822793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525874,47.395348,8.525874,47.395348",
     "geom:latitude":47.395348,
     "geom:longitude":8.525874,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zschokkestrasse 1 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219822793,
-    "wof:lastmodified":1449073811,
+    "wof:lastmodified":1466212501,
     "wof:name":"Restem Gmbh",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525874,47.395348,8.525874,47.395348],
+  "bbox": [
+    8.525874,
+    47.395348,
+    8.525874,
+    47.395348
+],
   "geometry": {"coordinates":[8.525874,47.395348],"type":"Point"}
 }

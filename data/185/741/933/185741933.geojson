@@ -2,13 +2,14 @@
   "id": 185741933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451033,46.957462,7.451033,46.957462",
     "geom:latitude":46.957462,
     "geom:longitude":7.451033,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Breitenrainstrasse 29",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185741933,
-    "wof:lastmodified":1449006668,
+    "wof:lastmodified":1466211449,
     "wof:name":"Stefan Koller Advokaturb\u00fcro",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.451033,46.957462,7.451033,46.957462],
+  "bbox": [
+    7.451033,
+    46.957462,
+    7.451033,
+    46.957462
+],
   "geometry": {"coordinates":[7.451033,46.957462],"type":"Point"}
 }

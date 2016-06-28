@@ -2,13 +2,14 @@
   "id": 220016613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.632964,46.776463,7.632964,46.776463",
     "geom:latitude":46.776463,
     "geom:longitude":7.632964,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Austrasse 19",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220016613,
-    "wof:lastmodified":1449074181,
+    "wof:lastmodified":1466209022,
     "wof:name":"Hans-ulrich H\u00e4nni Schreinerei",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.632964,46.776463,7.632964,46.776463],
+  "bbox": [
+    7.632964,
+    46.776463,
+    7.632964,
+    46.776463
+],
   "geometry": {"coordinates":[7.632964,46.776463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202974177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.546288,47.423168,8.546288,47.423168",
     "geom:latitude":47.423168,
     "geom:longitude":8.546288,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Katzenbachstrasse 120",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202974177,
-    "wof:lastmodified":1449062328,
+    "wof:lastmodified":1466212473,
     "wof:name":"Eicher & Partner Architekturb\u00fcro",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.546288,47.423168,8.546288,47.423168],
+  "bbox": [
+    8.546288,
+    47.423168,
+    8.546288,
+    47.423168
+],
   "geometry": {"coordinates":[8.546288,47.423168],"type":"Point"}
 }

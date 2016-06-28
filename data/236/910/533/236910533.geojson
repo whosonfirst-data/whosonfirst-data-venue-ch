@@ -2,13 +2,14 @@
   "id": 236910533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.5327,47.240665,9.5327,47.240665",
     "geom:latitude":47.240665,
     "geom:longitude":9.5327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schellenbergstrasse 423a",
     "sg:city":"Ruggell",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236910533,
-    "wof:lastmodified":1449002949,
+    "wof:lastmodified":1466213019,
     "wof:name":"Marco Imperiali Informatik",
     "wof:parent_id":85901551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.5327,47.240665,9.5327,47.240665],
+  "bbox": [
+    9.5327,
+    47.240665,
+    9.5327,
+    47.240665
+],
   "geometry": {"coordinates":[9.5327,47.240665],"type":"Point"}
 }

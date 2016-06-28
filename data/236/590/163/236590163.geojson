@@ -2,13 +2,14 @@
   "id": 236590163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.349866,46.982014,8.349866,46.982014",
     "geom:latitude":46.982014,
     "geom:longitude":8.349866,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrigen",
     "sg:city":"F\u00fcrigen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236590163,
-    "wof:lastmodified":1449003647,
+    "wof:lastmodified":1466212568,
     "wof:name":"Hotel F\u00dcrigen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "restaurant"
     ]
 },
-  "bbox": [8.349866,46.982014,8.349866,46.982014],
+  "bbox": [
+    8.349866,
+    46.982014,
+    8.349866,
+    46.982014
+],
   "geometry": {"coordinates":[8.349866,46.982014],"type":"Point"}
 }

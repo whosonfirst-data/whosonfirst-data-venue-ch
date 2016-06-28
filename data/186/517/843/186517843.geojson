@@ -2,13 +2,14 @@
   "id": 186517843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.726952,47.498566,8.726952,47.498566",
     "geom:latitude":47.498566,
     "geom:longitude":8.726952,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 8",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186517843,
-    "wof:lastmodified":1449051914,
+    "wof:lastmodified":1466211594,
     "wof:name":"St\u00e4dtisches Altersheim Neumarkt",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [8.726952,47.498566,8.726952,47.498566],
+  "bbox": [
+    8.726952,
+    47.498566,
+    8.726952,
+    47.498566
+],
   "geometry": {"coordinates":[8.726952,47.498566],"type":"Point"}
 }

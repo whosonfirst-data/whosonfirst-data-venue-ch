@@ -2,13 +2,14 @@
   "id": 169609425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.49164,47.365349,8.49164,47.365349",
     "geom:latitude":47.365349,
     "geom:longitude":8.49164,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
     "sg:orig_category":"Verkehrsmittel, Automobil, H\u00e4ndler U Autoh\u00e4user",
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169609425,
-    "wof:lastmodified":1449033920,
+    "wof:lastmodified":1466209279,
     "wof:name":"Ernst Ruckstuhl Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.49164,47.365349,8.49164,47.365349],
+  "bbox": [
+    8.49164,
+    47.365349,
+    8.49164,
+    47.365349
+],
   "geometry": {"coordinates":[8.49164,47.365349],"type":"Point"}
 }

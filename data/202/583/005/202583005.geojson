@@ -2,13 +2,14 @@
   "id": 202583005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.604905,47.41256,8.604905,47.41256",
     "geom:latitude":47.41256,
     "geom:longitude":8.604905,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6slistrasse 15a",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202583005,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1466209503,
     "wof:name":"Jan Richard De Fries Ingenieurb\u00fcro",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.604905,47.41256,8.604905,47.41256],
+  "bbox": [
+    8.604905,
+    47.41256,
+    8.604905,
+    47.41256
+],
   "geometry": {"coordinates":[8.604905,47.41256],"type":"Point"}
 }

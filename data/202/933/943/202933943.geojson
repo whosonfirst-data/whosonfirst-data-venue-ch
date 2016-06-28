@@ -2,13 +2,14 @@
   "id": 202933943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.748487,47.395447,7.748487,47.395447",
     "geom:latitude":47.395447,
     "geom:longitude":7.748487,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterm\u00fcli 11",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202933943,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466212165,
     "wof:name":"Widler + Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.748487,47.395447,7.748487,47.395447],
+  "bbox": [
+    7.748487,
+    47.395447,
+    7.748487,
+    47.395447
+],
   "geometry": {"coordinates":[7.748487,47.395447],"type":"Point"}
 }

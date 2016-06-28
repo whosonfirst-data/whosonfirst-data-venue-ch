@@ -2,13 +2,14 @@
   "id": 169633853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.423628,46.601147,10.423628,46.601147",
     "geom:latitude":46.601147,
     "geom:longitude":10.423628,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Stalden",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169633853,
-    "wof:lastmodified":1449035939,
+    "wof:lastmodified":1466209815,
     "wof:name":"Graub\u00fcndner Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.423628,46.601147,10.423628,46.601147],
+  "bbox": [
+    10.423628,
+    46.601147,
+    10.423628,
+    46.601147
+],
   "geometry": {"coordinates":[10.423628,46.601147],"type":"Point"}
 }

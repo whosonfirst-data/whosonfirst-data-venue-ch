@@ -2,13 +2,14 @@
   "id": 202908513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.180592,47.388226,8.180592,47.388226",
     "geom:latitude":47.388226,
     "geom:longitude":8.180592,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandweg 3 5600 Lenzburg. Postfach",
     "sg:city":"Lenzburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202908513,
-    "wof:lastmodified":1449061542,
+    "wof:lastmodified":1466212163,
     "wof:name":"Scheidegger + Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.180592,47.388226,8.180592,47.388226],
+  "bbox": [
+    8.180592,
+    47.388226,
+    8.180592,
+    47.388226
+],
   "geometry": {"coordinates":[8.180592,47.388226],"type":"Point"}
 }

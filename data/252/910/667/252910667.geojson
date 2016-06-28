@@ -2,13 +2,14 @@
   "id": 252910667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.301725,47.050404,8.301725,47.050404",
     "geom:latitude":47.050404,
     "geom:longitude":8.301725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschengraben 40",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252910667,
-    "wof:lastmodified":1449005858,
+    "wof:lastmodified":1466211113,
     "wof:name":"M\u00e4nnermode Graf",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.301725,47.050404,8.301725,47.050404],
+  "bbox": [
+    8.301725,
+    47.050404,
+    8.301725,
+    47.050404
+],
   "geometry": {"coordinates":[8.301725,47.050404],"type":"Point"}
 }

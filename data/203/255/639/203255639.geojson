@@ -2,13 +2,14 @@
   "id": 203255639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.607434,47.551186,7.607434,47.551186",
     "geom:latitude":47.551186,
     "geom:longitude":7.607434,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grellingerstrasse 9",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203255639,
-    "wof:lastmodified":1449025773,
+    "wof:lastmodified":1466210085,
     "wof:name":"Dr.med. Paul Janach Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.607434,47.551186,7.607434,47.551186],
+  "bbox": [
+    7.607434,
+    47.551186,
+    7.607434,
+    47.551186
+],
   "geometry": {"coordinates":[7.607434,47.551186],"type":"Point"}
 }

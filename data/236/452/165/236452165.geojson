@@ -2,13 +2,14 @@
   "id": 236452165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449805,46.974274,7.449805,46.974274",
     "geom:latitude":46.974274,
     "geom:longitude":7.449805,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichenbachstrasse 101",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236452165,
-    "wof:lastmodified":1449002265,
+    "wof:lastmodified":1466212508,
     "wof:name":"Regionalbibliothek Bern Zweigstelle Rossfeld",
     "wof:parent_id":85800559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.449805,46.974274,7.449805,46.974274],
+  "bbox": [
+    7.449805,
+    46.974274,
+    7.449805,
+    46.974274
+],
   "geometry": {"coordinates":[7.449805,46.974274],"type":"Point"}
 }

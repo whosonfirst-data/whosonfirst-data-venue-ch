@@ -2,13 +2,14 @@
   "id": 169675127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.008555,46.328228,8.008555,46.328228",
     "geom:latitude":46.328228,
     "geom:longitude":8.008555,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weingartenstrasse 66",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169675127,
-    "wof:lastmodified":1449034357,
+    "wof:lastmodified":1466210508,
     "wof:name":"Walter Zurwerra Kuvert-druck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.008555,46.328228,8.008555,46.328228],
+  "bbox": [
+    8.008555,
+    46.328228,
+    8.008555,
+    46.328228
+],
   "geometry": {"coordinates":[8.008555,46.328228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219445327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.344255,47.086224,8.344255,47.086224",
     "geom:latitude":47.086224,
     "geom:longitude":8.344255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rischring 5",
     "sg:city":"Ebikon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219445327,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1466210593,
     "wof:name":"Brun & Arnold Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "balcony"
     ]
 },
-  "bbox": [8.344255,47.086224,8.344255,47.086224],
+  "bbox": [
+    8.344255,
+    47.086224,
+    8.344255,
+    47.086224
+],
   "geometry": {"coordinates":[8.344255,47.086224],"type":"Point"}
 }

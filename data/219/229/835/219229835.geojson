@@ -2,13 +2,14 @@
   "id": 219229835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.462918,46.981953,7.462918,46.981953",
     "geom:latitude":46.981953,
     "geom:longitude":7.462918,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altikofenstrasse 62",
     "sg:city":"Worblaufen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219229835,
-    "wof:lastmodified":1449073217,
+    "wof:lastmodified":1466211293,
     "wof:name":"Bautro Ag",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.462918,46.981953,7.462918,46.981953],
+  "bbox": [
+    7.462918,
+    46.981953,
+    7.462918,
+    46.981953
+],
   "geometry": {"coordinates":[7.462918,46.981953],"type":"Point"}
 }

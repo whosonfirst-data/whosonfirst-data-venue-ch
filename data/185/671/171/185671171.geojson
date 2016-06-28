@@ -2,13 +2,14 @@
   "id": 185671171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529519,47.320351,8.529519,47.320351",
     "geom:latitude":47.320351,
     "geom:longitude":8.529519,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstr. 48",
     "sg:city":"Adliswil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185671171,
-    "wof:lastmodified":1449006984,
+    "wof:lastmodified":1466210772,
     "wof:name":"Diem & Partner",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [8.529519,47.320351,8.529519,47.320351],
+  "bbox": [
+    8.529519,
+    47.320351,
+    8.529519,
+    47.320351
+],
   "geometry": {"coordinates":[8.529519,47.320351],"type":"Point"}
 }

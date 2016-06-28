@@ -2,13 +2,14 @@
   "id": 185862155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.949625,46.002064,8.949625,46.002064",
     "geom:latitude":46.002064,
     "geom:longitude":8.949625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nassa 6900 Lugano. Postfach Caselle Postale 2810",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185862155,
-    "wof:lastmodified":1449008267,
+    "wof:lastmodified":1466209593,
     "wof:name":"Bdl Banco Di Lugano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.949625,46.002064,8.949625,46.002064],
+  "bbox": [
+    8.949625,
+    46.002064,
+    8.949625,
+    46.002064
+],
   "geometry": {"coordinates":[8.949625,46.002064],"type":"Point"}
 }

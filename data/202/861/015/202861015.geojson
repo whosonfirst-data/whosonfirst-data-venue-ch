@@ -2,13 +2,14 @@
   "id": 202861015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.393635,47.428909,9.393635,47.428909",
     "geom:latitude":47.428909,
     "geom:longitude":9.393635,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grossackerstrasse 15",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202861015,
-    "wof:lastmodified":1449062623,
+    "wof:lastmodified":1466211958,
     "wof:name":"Schuchter Und Partner Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.393635,47.428909,9.393635,47.428909],
+  "bbox": [
+    9.393635,
+    47.428909,
+    9.393635,
+    47.428909
+],
   "geometry": {"coordinates":[9.393635,47.428909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220017121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.675808,47.004768,7.675808,47.004768",
     "geom:latitude":47.004768,
     "geom:longitude":7.675808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 35",
     "sg:city":"Oftringen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220017121,
-    "wof:lastmodified":1449074477,
+    "wof:lastmodified":1466209025,
     "wof:name":"Hans-rudolf Lehmann Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.675808,47.004768,7.675808,47.004768],
+  "bbox": [
+    7.675808,
+    47.004768,
+    7.675808,
+    47.004768
+],
   "geometry": {"coordinates":[7.675808,47.004768],"type":"Point"}
 }

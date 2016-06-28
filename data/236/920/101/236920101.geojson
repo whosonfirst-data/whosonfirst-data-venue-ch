@@ -2,13 +2,14 @@
   "id": 236920101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.737441,47.345924,8.737441,47.345924",
     "geom:latitude":47.345924,
     "geom:longitude":8.737441,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aathalstrasse 5",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236920101,
-    "wof:lastmodified":1449004347,
+    "wof:lastmodified":1466212988,
     "wof:name":"Ulmer Consulting & Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.737441,47.345924,8.737441,47.345924],
+  "bbox": [
+    8.737441,
+    47.345924,
+    8.737441,
+    47.345924
+],
   "geometry": {"coordinates":[8.737441,47.345924],"type":"Point"}
 }

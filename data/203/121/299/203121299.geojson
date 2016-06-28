@@ -2,13 +2,14 @@
   "id": 203121299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.602977,47.569431,7.602977,47.569431",
     "geom:latitude":47.569431,
     "geom:longitude":7.602977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstrasse 95",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203121299,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466211306,
     "wof:name":"Mat Transport Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "armoured"
     ]
 },
-  "bbox": [7.602977,47.569431,7.602977,47.569431],
+  "bbox": [
+    7.602977,
+    47.569431,
+    7.602977,
+    47.569431
+],
   "geometry": {"coordinates":[7.602977,47.569431],"type":"Point"}
 }

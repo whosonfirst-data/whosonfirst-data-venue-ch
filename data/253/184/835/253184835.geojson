@@ -2,13 +2,14 @@
   "id": 253184835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.269869,47.142094,7.269869,47.142094",
     "geom:latitude":47.142094,
     "geom:longitude":7.269869,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mettstrasse 122",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253184835,
-    "wof:lastmodified":1449063316,
+    "wof:lastmodified":1466210884,
     "wof:name":"Gutmann Fred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.269869,47.142094,7.269869,47.142094],
+  "bbox": [
+    7.269869,
+    47.142094,
+    7.269869,
+    47.142094
+],
   "geometry": {"coordinates":[7.269869,47.142094],"type":"Point"}
 }

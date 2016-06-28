@@ -2,13 +2,14 @@
   "id": 169701263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.64142,46.778633,6.64142,46.778633",
     "geom:latitude":46.778633,
     "geom:longitude":6.64142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sports Avenue Des 42",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169701263,
-    "wof:lastmodified":1449035273,
+    "wof:lastmodified":1466210937,
     "wof:name":"4m Technologies Holding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.64142,46.778633,6.64142,46.778633],
+  "bbox": [
+    6.64142,
+    46.778633,
+    6.64142,
+    46.778633
+],
   "geometry": {"coordinates":[6.64142,46.778633],"type":"Point"}
 }

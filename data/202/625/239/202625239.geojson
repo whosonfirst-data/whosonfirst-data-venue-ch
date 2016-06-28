@@ -2,13 +2,14 @@
   "id": 202625239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.684701,47.425934,8.684701,47.425934",
     "geom:latitude":47.425934,
     "geom:longitude":8.684701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagenacherstrasse 17",
     "sg:city":"Effretikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202625239,
-    "wof:lastmodified":1449062696,
+    "wof:lastmodified":1466209892,
     "wof:name":"Max Rohner Planungsb\u00fcro",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.684701,47.425934,8.684701,47.425934],
+  "bbox": [
+    8.684701,
+    47.425934,
+    8.684701,
+    47.425934
+],
   "geometry": {"coordinates":[8.684701,47.425934],"type":"Point"}
 }

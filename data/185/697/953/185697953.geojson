@@ -2,13 +2,14 @@
   "id": 185697953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588547,47.555817,7.588547,47.555817",
     "geom:latitude":47.555817,
     "geom:longitude":7.588547,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerbergasse 48 4001 Basel. Postfach 711",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185697953,
-    "wof:lastmodified":1449007619,
+    "wof:lastmodified":1466211066,
     "wof:name":"Dr.markus B\u00fcrgin Advokaturb\u00fcro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.588547,47.555817,7.588547,47.555817],
+  "bbox": [
+    7.588547,
+    47.555817,
+    7.588547,
+    47.555817
+],
   "geometry": {"coordinates":[7.588547,47.555817],"type":"Point"}
 }

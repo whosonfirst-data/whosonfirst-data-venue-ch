@@ -2,13 +2,14 @@
   "id": 186323691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.537418,47.376846,9.537418,47.376846",
     "geom:latitude":47.376846,
     "geom:longitude":9.537418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badstrasse 16 5408 Ennetbaden. Postfach 124",
     "sg:city":"Ennetbaden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186323691,
-    "wof:lastmodified":1449050475,
+    "wof:lastmodified":1466210005,
     "wof:name":"Haedener + Huser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.537418,47.376846,9.537418,47.376846],
+  "bbox": [
+    9.537418,
+    47.376846,
+    9.537418,
+    47.376846
+],
   "geometry": {"coordinates":[9.537418,47.376846],"type":"Point"}
 }

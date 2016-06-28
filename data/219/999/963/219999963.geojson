@@ -2,13 +2,14 @@
   "id": 219999963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.964326,46.011951,8.964326,46.011951",
     "geom:latitude":46.011951,
     "geom:longitude":8.964326,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Luigi Taddei 2",
     "sg:city":"Viganello",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219999963,
-    "wof:lastmodified":1449073476,
+    "wof:lastmodified":1466212795,
     "wof:name":"Antonino Adamo Falegnameria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.964326,46.011951,8.964326,46.011951],
+  "bbox": [
+    8.964326,
+    46.011951,
+    8.964326,
+    46.011951
+],
   "geometry": {"coordinates":[8.964326,46.011951],"type":"Point"}
 }

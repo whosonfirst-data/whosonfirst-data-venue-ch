@@ -2,13 +2,14 @@
   "id": 236843065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.042578,47.549751,8.042578,47.549751",
     "geom:latitude":47.549751,
     "geom:longitude":8.042578,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obert 455 5082 Kaisten. Postfach 24",
     "sg:city":"Kaisten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236843065,
-    "wof:lastmodified":1449001893,
+    "wof:lastmodified":1466212999,
     "wof:name":"Sanfa Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.042578,47.549751,8.042578,47.549751],
+  "bbox": [
+    8.042578,
+    47.549751,
+    8.042578,
+    47.549751
+],
   "geometry": {"coordinates":[8.042578,47.549751],"type":"Point"}
 }

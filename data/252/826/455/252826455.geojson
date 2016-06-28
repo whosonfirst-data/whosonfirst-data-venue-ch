@@ -2,13 +2,14 @@
   "id": 252826455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.278503,47.124561,7.278503,47.124561",
     "geom:latitude":47.124561,
     "geom:longitude":7.278503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6sstalstrasse 14",
     "sg:city":"Wallenwil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252826455,
-    "wof:lastmodified":1449006190,
+    "wof:lastmodified":1466210198,
     "wof:name":"Ehrbar Mode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.278503,47.124561,7.278503,47.124561],
+  "bbox": [
+    7.278503,
+    47.124561,
+    7.278503,
+    47.124561
+],
   "geometry": {"coordinates":[7.278503,47.124561],"type":"Point"}
 }

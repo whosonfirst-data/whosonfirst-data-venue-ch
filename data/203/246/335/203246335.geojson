@@ -2,13 +2,14 @@
   "id": 203246335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.391687,46.945564,7.391687,46.945564",
     "geom:latitude":46.945564,
     "geom:longitude":7.391687,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchledorfstrasse 1",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203246335,
-    "wof:lastmodified":1449025065,
+    "wof:lastmodified":1466209980,
     "wof:name":"Dr.med. Evelyne D\u00e9costerd Spezial\u00e4rztin Fmh",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.391687,46.945564,7.391687,46.945564],
+  "bbox": [
+    7.391687,
+    46.945564,
+    7.391687,
+    46.945564
+],
   "geometry": {"coordinates":[7.391687,46.945564],"type":"Point"}
 }

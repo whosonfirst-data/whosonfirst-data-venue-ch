@@ -2,13 +2,14 @@
   "id": 253000155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543904,47.374214,8.543904,47.374214",
     "geom:latitude":47.374214,
     "geom:longitude":8.543904,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegasse 12",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253000155,
-    "wof:lastmodified":1449063291,
+    "wof:lastmodified":1466211628,
     "wof:name":"Licht Und Wohnaccessoires, Schlatter Th\u00fcr Verena Beleuchtungsk\u00f6rper, Wohnaccessoires; Verkauf",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543904,47.374214,8.543904,47.374214],
+  "bbox": [
+    8.543904,
+    47.374214,
+    8.543904,
+    47.374214
+],
   "geometry": {"coordinates":[8.543904,47.374214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186015509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.906647,47.346565,7.906647,47.346565",
     "geom:latitude":47.346565,
     "geom:longitude":7.906647,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarburgerstrasse 73 4600 Olten. Postfach 2048",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186015509,
-    "wof:lastmodified":1449051008,
+    "wof:lastmodified":1466209492,
     "wof:name":"Baugesch\u00e4ft Wullschleger Arnold Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.906647,47.346565,7.906647,47.346565],
+  "bbox": [
+    7.906647,
+    47.346565,
+    7.906647,
+    47.346565
+],
   "geometry": {"coordinates":[7.906647,47.346565],"type":"Point"}
 }

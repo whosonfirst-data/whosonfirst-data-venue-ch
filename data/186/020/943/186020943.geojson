@@ -2,13 +2,14 @@
   "id": 186020943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.193987,46.967834,7.193987,46.967834",
     "geom:latitude":46.967834,
     "geom:longitude":7.193987,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegasse 26 3210 Kerzers. Postfach",
     "sg:city":"Kerzers",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186020943,
-    "wof:lastmodified":1449051630,
+    "wof:lastmodified":1466209591,
     "wof:name":"Befrano Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.193987,46.967834,7.193987,46.967834],
+  "bbox": [
+    7.193987,
+    46.967834,
+    7.193987,
+    46.967834
+],
   "geometry": {"coordinates":[7.193987,46.967834],"type":"Point"}
 }

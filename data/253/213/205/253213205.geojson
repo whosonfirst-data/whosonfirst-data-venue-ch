@@ -2,13 +2,14 @@
   "id": 253213205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.99694,47.391151,6.99694,47.391151",
     "geom:latitude":47.391151,
     "geom:longitude":6.99694,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Besan\u00e7on 30b",
     "sg:city":"Chevenez",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253213205,
-    "wof:lastmodified":1449062853,
+    "wof:lastmodified":1466211142,
     "wof:name":"Laville Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.99694,47.391151,6.99694,47.391151],
+  "bbox": [
+    6.99694,
+    47.391151,
+    6.99694,
+    47.391151
+],
   "geometry": {"coordinates":[6.99694,47.391151],"type":"Point"}
 }

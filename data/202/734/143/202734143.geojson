@@ -2,13 +2,14 @@
   "id": 202734143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.738169,47.204044,8.738169,47.204044",
     "geom:latitude":47.204044,
     "geom:longitude":8.738169,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollikerstrasse 4 8008 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202734143,
-    "wof:lastmodified":1449062341,
+    "wof:lastmodified":1466210905,
     "wof:name":"Tdc Technisches Dienstleistungszenter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.738169,47.204044,8.738169,47.204044],
+  "bbox": [
+    8.738169,
+    47.204044,
+    8.738169,
+    47.204044
+],
   "geometry": {"coordinates":[8.738169,47.204044],"type":"Point"}
 }

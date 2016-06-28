@@ -2,13 +2,14 @@
   "id": 203236991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544736,47.374664,8.544736,47.374664",
     "geom:latitude":47.374664,
     "geom:longitude":8.544736,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00e4hringerstrasse 12",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203236991,
-    "wof:lastmodified":1449025143,
+    "wof:lastmodified":1466209879,
     "wof:name":"Dr. Med.markus Pletscher Spezialarzt",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544736,47.374664,8.544736,47.374664],
+  "bbox": [
+    8.544736,
+    47.374664,
+    8.544736,
+    47.374664
+],
   "geometry": {"coordinates":[8.544736,47.374664],"type":"Point"}
 }

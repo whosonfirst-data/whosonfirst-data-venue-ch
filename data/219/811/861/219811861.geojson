@@ -2,13 +2,14 @@
   "id": 219811861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.946116,45.993526,8.946116,45.993526",
     "geom:latitude":45.993526,
     "geom:longitude":8.946116,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riva Caccia 12",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219811861,
-    "wof:lastmodified":1449072093,
+    "wof:lastmodified":1466212406,
     "wof:name":"Marcobar Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.946116,45.993526,8.946116,45.993526],
+  "bbox": [
+    8.946116,
+    45.993526,
+    8.946116,
+    45.993526
+],
   "geometry": {"coordinates":[8.946116,45.993526],"type":"Point"}
 }

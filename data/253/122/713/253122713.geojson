@@ -2,13 +2,14 @@
   "id": 253122713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.051263,47.310394,8.051263,47.310394",
     "geom:latitude":47.310394,
     "geom:longitude":8.051263,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarauerstrasse 1",
     "sg:city":"Sch\u00f6ftland",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253122713,
-    "wof:lastmodified":1449064503,
+    "wof:lastmodified":1466210167,
     "wof:name":"R\u00fcegger Optik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.051263,47.310394,8.051263,47.310394],
+  "bbox": [
+    8.051263,
+    47.310394,
+    8.051263,
+    47.310394
+],
   "geometry": {"coordinates":[8.051263,47.310394],"type":"Point"}
 }

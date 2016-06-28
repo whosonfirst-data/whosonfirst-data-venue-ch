@@ -2,13 +2,14 @@
   "id": 185737591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532374,47.357059,8.532374,47.357059",
     "geom:latitude":47.357059,
     "geom:longitude":8.532374,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 131 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185737591,
-    "wof:lastmodified":1449006980,
+    "wof:lastmodified":1466211398,
     "wof:name":"Rohner & Partner Advokaturb\u00fcro",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532374,47.357059,8.532374,47.357059],
+  "bbox": [
+    8.532374,
+    47.357059,
+    8.532374,
+    47.357059
+],
   "geometry": {"coordinates":[8.532374,47.357059],"type":"Point"}
 }

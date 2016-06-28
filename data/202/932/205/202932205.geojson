@@ -2,13 +2,14 @@
   "id": 202932205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.307446,47.056797,8.307446,47.056797",
     "geom:latitude":47.056797,
     "geom:longitude":8.307446,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Voa Principala 47 7078 Lenzerheide/lai. Postfach",
     "sg:city":"Lenzerheide/lai",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202932205,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1466212149,
     "wof:name":"Spettig G\u00e4hwiler Lindegger Ag Architekturb\u00fcro Sia",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.307446,47.056797,8.307446,47.056797],
+  "bbox": [
+    8.307446,
+    47.056797,
+    8.307446,
+    47.056797
+],
   "geometry": {"coordinates":[8.307446,47.056797],"type":"Point"}
 }

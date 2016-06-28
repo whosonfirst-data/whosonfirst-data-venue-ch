@@ -2,13 +2,14 @@
   "id": 236935193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.677248,47.4515,7.677248,47.4515",
     "geom:latitude":47.4515,
     "geom:longitude":7.677248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlaudamm 6",
     "sg:city":"Aarberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236935193,
-    "wof:lastmodified":1449004539,
+    "wof:lastmodified":1466213029,
     "wof:name":"Balsiger Informatik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.677248,47.4515,7.677248,47.4515],
+  "bbox": [
+    7.677248,
+    47.4515,
+    7.677248,
+    47.4515
+],
   "geometry": {"coordinates":[7.677248,47.4515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203317267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.881361,46.291958,7.881361,46.291958",
     "geom:latitude":46.291958,
     "geom:longitude":7.881361,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 21",
     "sg:city":"Visp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203317267,
-    "wof:lastmodified":1449025777,
+    "wof:lastmodified":1466210707,
     "wof:name":"Dr.med.francis Gattlen Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.881361,46.291958,7.881361,46.291958],
+  "bbox": [
+    7.881361,
+    46.291958,
+    7.881361,
+    46.291958
+],
   "geometry": {"coordinates":[7.881361,46.291958],"type":"Point"}
 }

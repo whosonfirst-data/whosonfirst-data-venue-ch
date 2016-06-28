@@ -2,13 +2,14 @@
   "id": 202526133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.268411,47.046036,7.268411,47.046036",
     "geom:latitude":47.046036,
     "geom:longitude":7.268411,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chasseralstrasse 1",
     "sg:city":"Aarberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202526133,
-    "wof:lastmodified":1449060895,
+    "wof:lastmodified":1466208965,
     "wof:name":"Guggisberg Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.268411,47.046036,7.268411,47.046036],
+  "bbox": [
+    7.268411,
+    47.046036,
+    7.268411,
+    47.046036
+],
   "geometry": {"coordinates":[7.268411,47.046036],"type":"Point"}
 }

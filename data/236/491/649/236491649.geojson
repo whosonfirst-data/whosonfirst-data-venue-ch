@@ -2,13 +2,14 @@
   "id": 236491649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.716942,47.350861,8.716942,47.350861",
     "geom:latitude":47.350861,
     "geom:longitude":8.716942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bankstrasse 13",
     "sg:city":"Uster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236491649,
-    "wof:lastmodified":1449001637,
+    "wof:lastmodified":1466212569,
     "wof:name":"Bideco Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biotechnology"
     ]
 },
-  "bbox": [8.716942,47.350861,8.716942,47.350861],
+  "bbox": [
+    8.716942,
+    47.350861,
+    8.716942,
+    47.350861
+],
   "geometry": {"coordinates":[8.716942,47.350861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202775941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.957511,47.24519,7.957511,47.24519",
     "geom:latitude":47.24519,
     "geom:longitude":7.957511,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Schulhausstrasse 1",
     "sg:city":"Reiden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202775941,
-    "wof:lastmodified":1449061978,
+    "wof:lastmodified":1466211303,
     "wof:name":"Zemp & H\u00e4fliger, Vermessungsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.957511,47.24519,7.957511,47.24519],
+  "bbox": [
+    7.957511,
+    47.24519,
+    7.957511,
+    47.24519
+],
   "geometry": {"coordinates":[7.957511,47.24519],"type":"Point"}
 }

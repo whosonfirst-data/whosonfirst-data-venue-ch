@@ -2,13 +2,14 @@
   "id": 236256385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.560267,46.493237,7.560267,46.493237",
     "geom:latitude":46.493237,
     "geom:longitude":7.560267,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3715",
     "sg:city":"Adelboden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236256385,
-    "wof:lastmodified":1449004298,
+    "wof:lastmodified":1466211425,
     "wof:name":"Genossenschaft Schwimmbad Und Kunsteisbahn Adelboden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.560267,46.493237,7.560267,46.493237],
+  "bbox": [
+    7.560267,
+    46.493237,
+    7.560267,
+    46.493237
+],
   "geometry": {"coordinates":[7.560267,46.493237],"type":"Point"}
 }

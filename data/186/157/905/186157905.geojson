@@ -2,13 +2,14 @@
   "id": 186157905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.455045,47.498501,8.455045,47.498501",
     "geom:latitude":47.498501,
     "geom:longitude":8.455045,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnengasse 4 8162 Steinmaur. Postfach",
     "sg:city":"Steinmaur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186157905,
-    "wof:lastmodified":1449052638,
+    "wof:lastmodified":1466211514,
     "wof:name":"M\u00fcller Geb\u00e4ude Ag Wohn, Gewerbe- U. Industriebauten; Planung, Erstellung, Handel. Bausysteme; Handel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.455045,47.498501,8.455045,47.498501],
+  "bbox": [
+    8.455045,
+    47.498501,
+    8.455045,
+    47.498501
+],
   "geometry": {"coordinates":[8.455045,47.498501],"type":"Point"}
 }

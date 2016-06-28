@@ -2,13 +2,14 @@
   "id": 185740143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435998,46.940235,7.435998,46.940235",
     "geom:latitude":46.940235,
     "geom:longitude":7.435998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Monbijoustrasse 73",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185740143,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466211432,
     "wof:name":"Schmocker & Scheurer Advokaturb\u00fcro",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435998,46.940235,7.435998,46.940235],
+  "bbox": [
+    7.435998,
+    46.940235,
+    7.435998,
+    46.940235
+],
   "geometry": {"coordinates":[7.435998,46.940235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219229853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436703,47.022381,7.436703,47.022381",
     "geom:latitude":47.022381,
     "geom:longitude":7.436703,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4uslimoosstrasse 14 3053 M\u00fcnchenbuchsee. Postfach",
     "sg:city":"M\u00fcnchenbuchsee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219229853,
-    "wof:lastmodified":1449073219,
+    "wof:lastmodified":1466211293,
     "wof:name":"Brandschaden-wasserschaden-sanierung Gmbh Brand- U. Wasserschadensanierungen U. Reinigungs- U. Hauswartungsarbeiten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436703,47.022381,7.436703,47.022381],
+  "bbox": [
+    7.436703,
+    47.022381,
+    7.436703,
+    47.022381
+],
   "geometry": {"coordinates":[7.436703,47.022381],"type":"Point"}
 }

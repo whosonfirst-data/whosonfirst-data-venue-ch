@@ -2,13 +2,14 @@
   "id": 236836547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.630891,47.01907,8.630891,47.01907",
     "geom:latitude":47.01907,
     "geom:longitude":8.630891,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegutstrasse 15",
     "sg:city":"Steinach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236836547,
-    "wof:lastmodified":1449003906,
+    "wof:lastmodified":1466212926,
     "wof:name":"Lagler Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.630891,47.01907,8.630891,47.01907],
+  "bbox": [
+    8.630891,
+    47.01907,
+    8.630891,
+    47.01907
+],
   "geometry": {"coordinates":[8.630891,47.01907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169710781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.864928,46.379108,6.864928,46.379108",
     "geom:latitude":46.379108,
     "geom:longitude":6.864928,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Iles 88",
     "sg:city":"Bouveret",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169710781,
-    "wof:lastmodified":1449032883,
+    "wof:lastmodified":1466211031,
     "wof:name":"Symrise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "perfume"
     ]
 },
-  "bbox": [6.864928,46.379108,6.864928,46.379108],
+  "bbox": [
+    6.864928,
+    46.379108,
+    6.864928,
+    46.379108
+],
   "geometry": {"coordinates":[6.864928,46.379108],"type":"Point"}
 }

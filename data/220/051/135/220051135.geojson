@@ -2,13 +2,14 @@
   "id": 220051135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.978304,46.314114,7.978304,46.314114",
     "geom:latitude":46.314114,
     "geom:longitude":7.978304,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jesuitenweg 21",
     "sg:city":"Glis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220051135,
-    "wof:lastmodified":1449074534,
+    "wof:lastmodified":1466209317,
     "wof:name":"Stiftung Atelier Manus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.978304,46.314114,7.978304,46.314114],
+  "bbox": [
+    7.978304,
+    46.314114,
+    7.978304,
+    46.314114
+],
   "geometry": {"coordinates":[7.978304,46.314114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252998795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449145,46.956528,7.449145,46.956528",
     "geom:latitude":46.956528,
     "geom:longitude":7.449145,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Denkmalstrasse 36",
     "sg:city":"Neuenegg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252998795,
-    "wof:lastmodified":1449005760,
+    "wof:lastmodified":1466211915,
     "wof:name":"Blank Int\u00e9rieur Raumgestaltung/vorh\u00e4nge",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449145,46.956528,7.449145,46.956528],
+  "bbox": [
+    7.449145,
+    46.956528,
+    7.449145,
+    46.956528
+],
   "geometry": {"coordinates":[7.449145,46.956528],"type":"Point"}
 }

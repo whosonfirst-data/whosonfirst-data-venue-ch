@@ -2,13 +2,14 @@
   "id": 202666881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.246664,47.46051,8.246664,47.46051",
     "geom:latitude":47.46051,
     "geom:longitude":8.246664,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stegackerstrasse 6 8409 Hegi (winterthur). Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202666881,
-    "wof:lastmodified":1449061037,
+    "wof:lastmodified":1466210283,
     "wof:name":"Planungsb\u00fcro F\u00fcr Hochbau, H\u00e4usermann Monika",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.246664,47.46051,8.246664,47.46051],
+  "bbox": [
+    8.246664,
+    47.46051,
+    8.246664,
+    47.46051
+],
   "geometry": {"coordinates":[8.246664,47.46051],"type":"Point"}
 }

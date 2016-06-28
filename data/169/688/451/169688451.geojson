@@ -2,13 +2,14 @@
   "id": 169688451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.108838,46.958099,7.108838,46.958099",
     "geom:latitude":46.958099,
     "geom:longitude":7.108838,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Principale 46",
     "sg:city":"Sugiez",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169688451,
-    "wof:lastmodified":1449033923,
+    "wof:lastmodified":1466210685,
     "wof:name":"Gugger-guillod Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.108838,46.958099,7.108838,46.958099],
+  "bbox": [
+    7.108838,
+    46.958099,
+    7.108838,
+    46.958099
+],
   "geometry": {"coordinates":[7.108838,46.958099],"type":"Point"}
 }

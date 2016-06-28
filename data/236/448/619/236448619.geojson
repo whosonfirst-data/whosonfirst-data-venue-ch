@@ -2,13 +2,14 @@
   "id": 236448619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.045002,47.386101,8.045002,47.386101",
     "geom:latitude":47.386101,
     "geom:longitude":8.045002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schanzm\u00e4ttelistrasse 32",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236448619,
-    "wof:lastmodified":1449005056,
+    "wof:lastmodified":1466212326,
     "wof:name":"Neue Kantonsschule Bibliothek",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.045002,47.386101,8.045002,47.386101],
+  "bbox": [
+    8.045002,
+    47.386101,
+    8.045002,
+    47.386101
+],
   "geometry": {"coordinates":[8.045002,47.386101],"type":"Point"}
 }

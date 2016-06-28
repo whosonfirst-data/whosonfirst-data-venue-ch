@@ -2,13 +2,14 @@
   "id": 252716025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.858166,46.969666,6.858166,46.969666",
     "geom:latitude":46.969666,
     "geom:longitude":6.858166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagenholzstrasse 81a",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252716025,
-    "wof:lastmodified":1449005560,
+    "wof:lastmodified":1466209014,
     "wof:name":"Rainbow-team Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.858166,46.969666,6.858166,46.969666],
+  "bbox": [
+    6.858166,
+    46.969666,
+    6.858166,
+    46.969666
+],
   "geometry": {"coordinates":[6.858166,46.969666],"type":"Point"}
 }

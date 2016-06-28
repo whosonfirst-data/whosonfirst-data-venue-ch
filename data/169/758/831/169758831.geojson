@@ -2,13 +2,14 @@
   "id": 169758831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.303227,47.110256,7.303227,47.110256",
     "geom:latitude":47.110256,
     "geom:longitude":7.303227,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wydengasse 4",
     "sg:city":"Studen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169758831,
-    "wof:lastmodified":1449033685,
+    "wof:lastmodified":1466211423,
     "wof:name":"Mediapromotion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.303227,47.110256,7.303227,47.110256],
+  "bbox": [
+    7.303227,
+    47.110256,
+    7.303227,
+    47.110256
+],
   "geometry": {"coordinates":[7.303227,47.110256],"type":"Point"}
 }

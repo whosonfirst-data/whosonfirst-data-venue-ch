@@ -2,13 +2,14 @@
   "id": 219921295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189803,47.541443,9.189803,47.541443",
     "geom:latitude":47.541443,
     "geom:longitude":9.189803,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wintermoosstrasse 14",
     "sg:city":"Sulgen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219921295,
-    "wof:lastmodified":1449072650,
+    "wof:lastmodified":1466212670,
     "wof:name":"Meyerhans Ag Amriswil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.189803,47.541443,9.189803,47.541443],
+  "bbox": [
+    9.189803,
+    47.541443,
+    9.189803,
+    47.541443
+],
   "geometry": {"coordinates":[9.189803,47.541443],"type":"Point"}
 }

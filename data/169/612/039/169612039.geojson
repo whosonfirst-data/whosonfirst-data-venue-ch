@@ -2,13 +2,14 @@
   "id": 169612039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.643847,46.513523,6.643847,46.513523",
     "geom:latitude":46.513523,
     "geom:longitude":6.643847,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Trabandan 28b",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169612039,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466211634,
     "wof:name":"Bilat\u00e9ral S.a.",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [6.643847,46.513523,6.643847,46.513523],
+  "bbox": [
+    6.643847,
+    46.513523,
+    6.643847,
+    46.513523
+],
   "geometry": {"coordinates":[6.643847,46.513523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202818441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.12757,47.082249,8.12757,47.082249",
     "geom:latitude":47.082249,
     "geom:longitude":8.12757,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hellb\u00fchlerstrasse 10 6017 Ruswil. Postfach 252",
     "sg:city":"Ruswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202818441,
-    "wof:lastmodified":1449061365,
+    "wof:lastmodified":1466211782,
     "wof:name":"Dubach Architektur & Immobilien Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.12757,47.082249,8.12757,47.082249],
+  "bbox": [
+    8.12757,
+    47.082249,
+    8.12757,
+    47.082249
+],
   "geometry": {"coordinates":[8.12757,47.082249],"type":"Point"}
 }

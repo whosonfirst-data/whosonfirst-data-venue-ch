@@ -2,13 +2,14 @@
   "id": 253002119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.563335,46.966484,9.563335,46.966484",
     "geom:latitude":46.966484,
     "geom:longitude":9.563335,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sustweg 3 7302 Landquart. Postfach",
     "sg:city":"Landquart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253002119,
-    "wof:lastmodified":1449065233,
+    "wof:lastmodified":1466208966,
     "wof:name":"Gebr. Giovanoli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.563335,46.966484,9.563335,46.966484],
+  "bbox": [
+    9.563335,
+    46.966484,
+    9.563335,
+    46.966484
+],
   "geometry": {"coordinates":[9.563335,46.966484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253055719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.485508,46.957294,7.485508,46.957294",
     "geom:latitude":46.957294,
     "geom:longitude":7.485508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 49",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253055719,
-    "wof:lastmodified":1449063470,
+    "wof:lastmodified":1466209477,
     "wof:name":"Francaflor Blumen",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.485508,46.957294,7.485508,46.957294],
+  "bbox": [
+    7.485508,
+    46.957294,
+    7.485508,
+    46.957294
+],
   "geometry": {"coordinates":[7.485508,46.957294],"type":"Point"}
 }

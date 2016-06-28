@@ -2,13 +2,14 @@
   "id": 186533597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.549106,47.215824,7.549106,47.215824",
     "geom:latitude":47.215824,
     "geom:longitude":7.549106,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 99",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186533597,
-    "wof:lastmodified":1449050215,
+    "wof:lastmodified":1466211784,
     "wof:name":"Altersheim St.katharinenhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.549106,47.215824,7.549106,47.215824],
+  "bbox": [
+    7.549106,
+    47.215824,
+    7.549106,
+    47.215824
+],
   "geometry": {"coordinates":[7.549106,47.215824],"type":"Point"}
 }

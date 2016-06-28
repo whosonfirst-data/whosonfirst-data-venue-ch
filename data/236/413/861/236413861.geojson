@@ -2,13 +2,14 @@
   "id": 236413861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.686597,46.502926,6.686597,46.502926",
     "geom:latitude":46.502926,
     "geom:longitude":6.686597,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Ch\u00e2teau 1",
     "sg:city":"Lutry",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236413861,
-    "wof:lastmodified":1449002067,
+    "wof:lastmodified":1466212195,
     "wof:name":"Biblioth\u00e8que De Lutry",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [6.686597,46.502926,6.686597,46.502926],
+  "bbox": [
+    6.686597,
+    46.502926,
+    6.686597,
+    46.502926
+],
   "geometry": {"coordinates":[6.686597,46.502926],"type":"Point"}
 }

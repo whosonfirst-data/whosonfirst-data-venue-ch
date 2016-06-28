@@ -2,13 +2,14 @@
   "id": 203209347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.069652,47.176277,7.069652,47.176277",
     "geom:latitude":47.176277,
     "geom:longitude":7.069652,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellevue 2",
     "sg:city":"Courtelary",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203209347,
-    "wof:lastmodified":1449026665,
+    "wof:lastmodified":1466209575,
     "wof:name":"Dr M\u00e9d. Michel Ruchonnet M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.069652,47.176277,7.069652,47.176277],
+  "bbox": [
+    7.069652,
+    47.176277,
+    7.069652,
+    47.176277
+],
   "geometry": {"coordinates":[7.069652,47.176277],"type":"Point"}
 }

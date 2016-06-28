@@ -2,13 +2,14 @@
   "id": 236810589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.272192,46.431992,7.272192,46.431992",
     "geom:latitude":46.431992,
     "geom:longitude":7.272192,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schl\u00fcsselacher 2",
     "sg:city":"Willisau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236810589,
-    "wof:lastmodified":1449002436,
+    "wof:lastmodified":1466212995,
     "wof:name":"Werner Schopfer Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.272192,46.431992,7.272192,46.431992],
+  "bbox": [
+    7.272192,
+    46.431992,
+    7.272192,
+    46.431992
+],
   "geometry": {"coordinates":[7.272192,46.431992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186186595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.276474,47.085827,8.276474,47.085827",
     "geom:latitude":47.085827,
     "geom:longitude":8.276474,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcbelistrasse 24 6020 Emmenbr\u00fccke. Postfach",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186186595,
-    "wof:lastmodified":1449052422,
+    "wof:lastmodified":1466208983,
     "wof:name":"Replano Gmbh",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.276474,47.085827,8.276474,47.085827],
+  "bbox": [
+    8.276474,
+    47.085827,
+    8.276474,
+    47.085827
+],
   "geometry": {"coordinates":[8.276474,47.085827],"type":"Point"}
 }

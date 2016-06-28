@@ -2,13 +2,14 @@
   "id": 253393993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540532,47.375114,8.540532,47.375114",
     "geom:latitude":47.375114,
     "geom:longitude":8.540532,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werdm\u00fchlestrasse 10",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253393993,
-    "wof:lastmodified":1449063753,
+    "wof:lastmodified":1466212147,
     "wof:name":"B\u00fcroform Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540532,47.375114,8.540532,47.375114],
+  "bbox": [
+    8.540532,
+    47.375114,
+    8.540532,
+    47.375114
+],
   "geometry": {"coordinates":[8.540532,47.375114],"type":"Point"}
 }

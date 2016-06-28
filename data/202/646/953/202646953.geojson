@@ -2,13 +2,14 @@
   "id": 202646953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.767636,47.477154,8.767636,47.477154",
     "geom:latitude":47.477154,
     "geom:longitude":8.767636,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosackerstrasse 20 8405 Seen. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202646953,
-    "wof:lastmodified":1449060044,
+    "wof:lastmodified":1466210098,
     "wof:name":"O. Mares Engineering",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.767636,47.477154,8.767636,47.477154],
+  "bbox": [
+    8.767636,
+    47.477154,
+    8.767636,
+    47.477154
+],
   "geometry": {"coordinates":[8.767636,47.477154],"type":"Point"}
 }

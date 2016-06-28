@@ -2,13 +2,14 @@
   "id": 202799803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.141159,46.211269,6.141159,46.211269",
     "geom:latitude":46.211269,
     "geom:longitude":6.141159,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e9sid.la Villageoise",
     "sg:city":"Pal\u00e9zieux-gare",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":202799803,
-    "wof:lastmodified":1449062661,
+    "wof:lastmodified":1466211519,
     "wof:name":"Atelier D'architecture Grenier Dominique Et Associ\u00e9s Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.141159,46.211269,6.141159,46.211269],
+  "bbox": [
+    6.141159,
+    46.211269,
+    6.141159,
+    46.211269
+],
   "geometry": {"coordinates":[6.141159,46.211269],"type":"Point"}
 }

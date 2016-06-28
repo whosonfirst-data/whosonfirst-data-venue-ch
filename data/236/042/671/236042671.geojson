@@ -2,13 +2,14 @@
   "id": 236042671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.591022,47.30587,8.591022,47.30587",
     "geom:latitude":47.30587,
     "geom:longitude":8.591022,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Berg-d\u00e4gerlen",
     "sg:city":"Rutschwil-d\u00e4gerlen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236042671,
-    "wof:lastmodified":1449004289,
+    "wof:lastmodified":1466209267,
     "wof:name":"Baumgartner Peter Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.591022,47.30587,8.591022,47.30587],
+  "bbox": [
+    8.591022,
+    47.30587,
+    8.591022,
+    47.30587
+],
   "geometry": {"coordinates":[8.591022,47.30587],"type":"Point"}
 }

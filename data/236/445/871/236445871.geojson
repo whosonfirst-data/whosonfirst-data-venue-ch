@@ -2,13 +2,14 @@
   "id": 236445871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.758223,47.506569,8.758223,47.506569",
     "geom:latitude":47.506569,
     "geom:longitude":8.758223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merstrasse 151",
     "sg:city":"Stadel(winterthur)",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236445871,
-    "wof:lastmodified":1449002005,
+    "wof:lastmodified":1466212393,
     "wof:name":"Kreisbibliothek Oberwinterthur",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.758223,47.506569,8.758223,47.506569],
+  "bbox": [
+    8.758223,
+    47.506569,
+    8.758223,
+    47.506569
+],
   "geometry": {"coordinates":[8.758223,47.506569],"type":"Point"}
 }

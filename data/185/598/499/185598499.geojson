@@ -2,13 +2,14 @@
   "id": 185598499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.118269,46.76799,7.118269,46.76799",
     "geom:latitude":46.76799,
     "geom:longitude":7.118269,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route D'hauterive 99",
     "sg:city":"Posieux",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185598499,
-    "wof:lastmodified":1449006663,
+    "wof:lastmodified":1466208891,
     "wof:name":"Station Intercommunale Des Eaux Us\u00e9es Ecuvillens-posieux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.118269,46.76799,7.118269,46.76799],
+  "bbox": [
+    7.118269,
+    46.76799,
+    7.118269,
+    46.76799
+],
   "geometry": {"coordinates":[7.118269,46.76799],"type":"Point"}
 }

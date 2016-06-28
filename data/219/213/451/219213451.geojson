@@ -2,13 +2,14 @@
   "id": 219213451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.568231,47.338985,8.568231,47.338985",
     "geom:latitude":47.338985,
     "geom:longitude":8.568231,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 53",
     "sg:city":"Zollikon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219213451,
-    "wof:lastmodified":1449070413,
+    "wof:lastmodified":1466211109,
     "wof:name":"Webstage.ag",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [8.568231,47.338985,8.568231,47.338985],
+  "bbox": [
+    8.568231,
+    47.338985,
+    8.568231,
+    47.338985
+],
   "geometry": {"coordinates":[8.568231,47.338985],"type":"Point"}
 }

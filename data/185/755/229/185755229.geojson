@@ -2,13 +2,14 @@
   "id": 185755229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.438146,46.94656,7.438146,46.94656",
     "geom:latitude":46.94656,
     "geom:longitude":7.438146,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschengraben 7 3011 Bern. Postfach 8823",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185755229,
-    "wof:lastmodified":1449007066,
+    "wof:lastmodified":1466211538,
     "wof:name":"Bracher & Partner Advokatur Und Notariat",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.438146,46.94656,7.438146,46.94656],
+  "bbox": [
+    7.438146,
+    46.94656,
+    7.438146,
+    46.94656
+],
   "geometry": {"coordinates":[7.438146,46.94656],"type":"Point"}
 }

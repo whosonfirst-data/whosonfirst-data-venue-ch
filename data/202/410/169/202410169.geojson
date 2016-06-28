@@ -2,13 +2,14 @@
   "id": 202410169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.91599,47.064701,6.91599,47.064701",
     "geom:latitude":47.064701,
     "geom:longitude":6.91599,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Vieux-pr\u00e9s 2054 Ch\u00e9zard-st-martin. Postfach",
     "sg:city":"Ch\u00e9zard-st-martin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202410169,
-    "wof:lastmodified":1449060141,
+    "wof:lastmodified":1466209873,
     "wof:name":"Biechy Roland Bureau De Conseils Techniques Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.91599,47.064701,6.91599,47.064701],
+  "bbox": [
+    6.91599,
+    47.064701,
+    6.91599,
+    47.064701
+],
   "geometry": {"coordinates":[6.91599,47.064701],"type":"Point"}
 }

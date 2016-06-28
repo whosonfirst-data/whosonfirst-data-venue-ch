@@ -2,13 +2,14 @@
   "id": 185700215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.899418,47.350388,7.899418,47.350388",
     "geom:latitude":47.350388,
     "geom:longitude":7.899418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Konradstrasse 31 4600 Olten. Postfach 1106",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185700215,
-    "wof:lastmodified":1449008079,
+    "wof:lastmodified":1466211076,
     "wof:name":"Dr.peter Wyss Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.899418,47.350388,7.899418,47.350388],
+  "bbox": [
+    7.899418,
+    47.350388,
+    7.899418,
+    47.350388
+],
   "geometry": {"coordinates":[7.899418,47.350388],"type":"Point"}
 }

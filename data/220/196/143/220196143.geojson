@@ -2,13 +2,14 @@
   "id": 220196143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.987706,47.176243,7.987706,47.176243",
     "geom:latitude":47.176243,
     "geom:longitude":7.987706,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nebikerstrasse 44 6247 Sch\u00f6tz. Postfach",
     "sg:city":"Sch\u00f6tz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220196143,
-    "wof:lastmodified":1449074222,
+    "wof:lastmodified":1466210563,
     "wof:name":"Paul Doswald Antikschreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.987706,47.176243,7.987706,47.176243],
+  "bbox": [
+    7.987706,
+    47.176243,
+    7.987706,
+    47.176243
+],
   "geometry": {"coordinates":[7.987706,47.176243],"type":"Point"}
 }

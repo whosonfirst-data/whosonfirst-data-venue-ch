@@ -2,13 +2,14 @@
   "id": 186326981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.070473,47.391739,8.070473,47.391739",
     "geom:latitude":47.391739,
     "geom:longitude":8.070473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luzernerstrasse 15b",
     "sg:city":"Hitzkirch",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186326981,
-    "wof:lastmodified":1449051519,
+    "wof:lastmodified":1466210033,
     "wof:name":"Sprecher Cts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.070473,47.391739,8.070473,47.391739],
+  "bbox": [
+    8.070473,
+    47.391739,
+    8.070473,
+    47.391739
+],
   "geometry": {"coordinates":[8.070473,47.391739],"type":"Point"}
 }

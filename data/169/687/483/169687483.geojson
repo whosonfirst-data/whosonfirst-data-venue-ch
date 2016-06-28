@@ -2,13 +2,14 @@
   "id": 169687483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.315672,47.046421,8.315672,47.046421",
     "geom:latitude":47.046421,
     "geom:longitude":8.315672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landenbergstrasse 41",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169687483,
-    "wof:lastmodified":1449033609,
+    "wof:lastmodified":1466210639,
     "wof:name":"Brennstoff Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "diesel"
     ]
 },
-  "bbox": [8.315672,47.046421,8.315672,47.046421],
+  "bbox": [
+    8.315672,
+    47.046421,
+    8.315672,
+    47.046421
+],
   "geometry": {"coordinates":[8.315672,47.046421],"type":"Point"}
 }

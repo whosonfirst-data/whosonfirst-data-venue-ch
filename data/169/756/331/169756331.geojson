@@ -2,13 +2,14 @@
   "id": 169756331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.427023,46.944798,7.427023,46.944798",
     "geom:latitude":46.944798,
     "geom:longitude":7.427023,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnmattstrasse 24 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169756331,
-    "wof:lastmodified":1449034663,
+    "wof:lastmodified":1466211400,
     "wof:name":"Philippines Embassy",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.427023,46.944798,7.427023,46.944798],
+  "bbox": [
+    7.427023,
+    46.944798,
+    7.427023,
+    46.944798
+],
   "geometry": {"coordinates":[7.427023,46.944798],"type":"Point"}
 }

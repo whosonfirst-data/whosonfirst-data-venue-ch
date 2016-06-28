@@ -2,13 +2,14 @@
   "id": 186135419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.612629,47.518879,7.612629,47.518879",
     "geom:latitude":47.518879,
     "geom:longitude":7.612629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulackerstrasse 9b",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186135419,
-    "wof:lastmodified":1449051408,
+    "wof:lastmodified":1466211310,
     "wof:name":"Locher M. + H.",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.612629,47.518879,7.612629,47.518879],
+  "bbox": [
+    7.612629,
+    47.518879,
+    7.612629,
+    47.518879
+],
   "geometry": {"coordinates":[7.612629,47.518879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185740045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.344465,47.365738,7.344465,47.365738",
     "geom:latitude":47.365738,
     "geom:longitude":7.344465,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beim Goldenen L\u00f6wen 13",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185740045,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466211430,
     "wof:name":"Saucy Allimann & Boillat Etude D'avocat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.344465,47.365738,7.344465,47.365738],
+  "bbox": [
+    7.344465,
+    47.365738,
+    7.344465,
+    47.365738
+],
   "geometry": {"coordinates":[7.344465,47.365738],"type":"Point"}
 }

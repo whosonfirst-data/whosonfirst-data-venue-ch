@@ -2,13 +2,14 @@
   "id": 186542797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.246372,47.139179,7.246372,47.139179",
     "geom:latitude":47.139179,
     "geom:longitude":7.246372,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General-dufour-strasse 2",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186542797,
-    "wof:lastmodified":1449052401,
+    "wof:lastmodified":1466211698,
     "wof:name":"Stiftung \u00abmme Dessaules\u00bb F\u00fcr Betagte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.246372,47.139179,7.246372,47.139179],
+  "bbox": [
+    7.246372,
+    47.139179,
+    7.246372,
+    47.139179
+],
   "geometry": {"coordinates":[7.246372,47.139179],"type":"Point"}
 }

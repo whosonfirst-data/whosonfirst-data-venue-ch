@@ -2,13 +2,14 @@
   "id": 185843985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.590244,46.618126,6.590244,46.618126",
     "geom:latitude":46.618126,
     "geom:longitude":6.590244,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Vuagire",
     "sg:city":"Bioley-orjulaz",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185843985,
-    "wof:lastmodified":1449006747,
+    "wof:lastmodified":1466209428,
     "wof:name":"Haldemann Lausanne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "forwarders"
     ]
 },
-  "bbox": [6.590244,46.618126,6.590244,46.618126],
+  "bbox": [
+    6.590244,
+    46.618126,
+    6.590244,
+    46.618126
+],
   "geometry": {"coordinates":[6.590244,46.618126],"type":"Point"}
 }

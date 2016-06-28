@@ -2,13 +2,14 @@
   "id": 202580279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.617091,46.52663,6.617091,46.52663",
     "geom:latitude":46.52663,
     "geom:longitude":6.617091,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Clochetons Chemin Des 18 1004 Lausanne Case Postale0141",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202580279,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466209478,
     "wof:name":"Itb Sa Sanitaires",
     "wof:parent_id":85862435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.617091,46.52663,6.617091,46.52663],
+  "bbox": [
+    6.617091,
+    46.52663,
+    6.617091,
+    46.52663
+],
   "geometry": {"coordinates":[6.617091,46.52663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202559099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.432084,47.148373,8.432084,47.148373",
     "geom:latitude":47.148373,
     "geom:longitude":8.432084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lettenstrasse 4 6343 Rotkreuz. Postfach",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202559099,
-    "wof:lastmodified":1449062101,
+    "wof:lastmodified":1466209286,
     "wof:name":"Ingenieurbureau Brehm Dr. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.432084,47.148373,8.432084,47.148373],
+  "bbox": [
+    8.432084,
+    47.148373,
+    8.432084,
+    47.148373
+],
   "geometry": {"coordinates":[8.432084,47.148373],"type":"Point"}
 }

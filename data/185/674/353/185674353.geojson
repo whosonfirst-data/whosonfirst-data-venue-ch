@@ -2,13 +2,14 @@
   "id": 185674353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.631058,47.442986,8.631058,47.442986",
     "geom:latitude":47.442986,
     "geom:longitude":8.631058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 1 8303 Bassersdorf. Postfach 106",
     "sg:city":"Bassersdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185674353,
-    "wof:lastmodified":1449007805,
+    "wof:lastmodified":1466210825,
     "wof:name":"Ackeret & K\u00fcng Advokaturb\u00fcro",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.631058,47.442986,8.631058,47.442986],
+  "bbox": [
+    8.631058,
+    47.442986,
+    8.631058,
+    47.442986
+],
   "geometry": {"coordinates":[8.631058,47.442986],"type":"Point"}
 }

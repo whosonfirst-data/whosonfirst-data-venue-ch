@@ -2,13 +2,14 @@
   "id": 202870383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.57664,47.554569,7.57664,47.554569",
     "geom:latitude":47.554569,
     "geom:longitude":7.57664,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctlistrasse 50 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202870383,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1466211892,
     "wof:name":"Voellmin Architekturb\u00fcro Gmbh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.57664,47.554569,7.57664,47.554569],
+  "bbox": [
+    7.57664,
+    47.554569,
+    7.57664,
+    47.554569
+],
   "geometry": {"coordinates":[7.57664,47.554569],"type":"Point"}
 }

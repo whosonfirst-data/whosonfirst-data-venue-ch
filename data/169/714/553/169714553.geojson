@@ -2,13 +2,14 @@
   "id": 169714553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.746187,47.043243,6.746187,47.043243",
     "geom:latitude":47.043243,
     "geom:longitude":6.746187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zone Horticole",
     "sg:city":"Roche",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169714553,
-    "wof:lastmodified":1449034313,
+    "wof:lastmodified":1466211084,
     "wof:name":"Wyss M\u00e9canique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mechanic"
     ]
 },
-  "bbox": [6.746187,47.043243,6.746187,47.043243],
+  "bbox": [
+    6.746187,
+    47.043243,
+    6.746187,
+    47.043243
+],
   "geometry": {"coordinates":[6.746187,47.043243],"type":"Point"}
 }

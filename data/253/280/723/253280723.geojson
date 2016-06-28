@@ -2,13 +2,14 @@
   "id": 253280723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.685706,46.774849,7.685706,46.774849",
     "geom:latitude":46.774849,
     "geom:longitude":7.685706,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spirenwald",
     "sg:city":"Beatenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253280723,
-    "wof:lastmodified":1449064275,
+    "wof:lastmodified":1466211664,
     "wof:name":"Hans Graf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.685706,46.774849,7.685706,46.774849],
+  "bbox": [
+    7.685706,
+    46.774849,
+    7.685706,
+    46.774849
+],
   "geometry": {"coordinates":[7.685706,46.774849],"type":"Point"}
 }

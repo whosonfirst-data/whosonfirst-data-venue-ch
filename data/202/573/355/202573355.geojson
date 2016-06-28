@@ -2,13 +2,14 @@
   "id": 202573355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.208194,47.484322,8.208194,47.484322",
     "geom:latitude":47.484322,
     "geom:longitude":8.208194,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 244",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202573355,
-    "wof:lastmodified":1449061973,
+    "wof:lastmodified":1466209411,
     "wof:name":"Ingenieurb\u00fcro Wittwer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.208194,47.484322,8.208194,47.484322],
+  "bbox": [
+    8.208194,
+    47.484322,
+    8.208194,
+    47.484322
+],
   "geometry": {"coordinates":[8.208194,47.484322],"type":"Point"}
 }

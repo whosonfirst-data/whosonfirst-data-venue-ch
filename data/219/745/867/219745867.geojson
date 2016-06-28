@@ -2,13 +2,14 @@
   "id": 219745867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545925,47.368275,8.545925,47.368275",
     "geom:latitude":47.368275,
     "geom:longitude":8.545925,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstr 2",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219745867,
-    "wof:lastmodified":1449073754,
+    "wof:lastmodified":1466212451,
     "wof:name":"Ueberseebank Ag/sa",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545925,47.368275,8.545925,47.368275],
+  "bbox": [
+    8.545925,
+    47.368275,
+    8.545925,
+    47.368275
+],
   "geometry": {"coordinates":[8.545925,47.368275],"type":"Point"}
 }

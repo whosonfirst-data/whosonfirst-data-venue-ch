@@ -2,13 +2,14 @@
   "id": 186337219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.169135,46.841194,8.169135,46.841194",
     "geom:latitude":46.841194,
     "geom:longitude":8.169135,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00fcrrast",
     "sg:city":"Giswil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186337219,
-    "wof:lastmodified":1449051642,
+    "wof:lastmodified":1466210113,
     "wof:name":"Mathis Daniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.169135,46.841194,8.169135,46.841194],
+  "bbox": [
+    8.169135,
+    46.841194,
+    8.169135,
+    46.841194
+],
   "geometry": {"coordinates":[8.169135,46.841194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220110949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.576538,46.847137,7.576538,46.847137",
     "geom:latitude":46.847137,
     "geom:longitude":7.576538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 19",
     "sg:city":"Wichtrach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220110949,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466209831,
     "wof:name":"Kormann Schreinerei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.576538,46.847137,7.576538,46.847137],
+  "bbox": [
+    7.576538,
+    46.847137,
+    7.576538,
+    46.847137
+],
   "geometry": {"coordinates":[7.576538,46.847137],"type":"Point"}
 }

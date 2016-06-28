@@ -2,13 +2,14 @@
   "id": 186512047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.443785,46.969032,7.443785,46.969032",
     "geom:latitude":46.969032,
     "geom:longitude":7.443785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichenbachstrasse 39-41",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186512047,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466211540,
     "wof:name":"Pension Jolimont",
     "wof:parent_id":85800559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.443785,46.969032,7.443785,46.969032],
+  "bbox": [
+    7.443785,
+    46.969032,
+    7.443785,
+    46.969032
+],
   "geometry": {"coordinates":[7.443785,46.969032],"type":"Point"}
 }

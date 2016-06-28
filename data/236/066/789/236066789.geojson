@@ -2,13 +2,14 @@
   "id": 236066789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52626,47.182339,8.52626,47.182339",
     "geom:latitude":47.182339,
     "geom:longitude":8.52626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grienbachstrasse 35",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236066789,
-    "wof:lastmodified":1449002438,
+    "wof:lastmodified":1466209488,
     "wof:name":"Werner Lippuner Spenglerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52626,47.182339,8.52626,47.182339],
+  "bbox": [
+    8.52626,
+    47.182339,
+    8.52626,
+    47.182339
+],
   "geometry": {"coordinates":[8.52626,47.182339],"type":"Point"}
 }

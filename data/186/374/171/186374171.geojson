@@ -2,13 +2,14 @@
   "id": 186374171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.198597,47.099686,8.198597,47.099686",
     "geom:latitude":47.099686,
     "geom:longitude":8.198597,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Willistattstrasse 6 6206 Neuenkirch. Postfach 153",
     "sg:city":"Neuenkirch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186374171,
-    "wof:lastmodified":1449051540,
+    "wof:lastmodified":1466210392,
     "wof:name":"Muff Ag Baugesch\u00e4ft Neuenkirch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.198597,47.099686,8.198597,47.099686],
+  "bbox": [
+    8.198597,
+    47.099686,
+    8.198597,
+    47.099686
+],
   "geometry": {"coordinates":[8.198597,47.099686],"type":"Point"}
 }

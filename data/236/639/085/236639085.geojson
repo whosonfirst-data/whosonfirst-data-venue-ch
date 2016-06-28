@@ -2,13 +2,14 @@
   "id": 236639085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.983255,47.013508,6.983255,47.013508",
     "geom:latitude":47.013508,
     "geom:longitude":6.983255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Neuch\u00e2tel 14",
     "sg:city":"St-blaise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236639085,
-    "wof:lastmodified":1449005228,
+    "wof:lastmodified":1466212801,
     "wof:name":"Garage Lanthemann Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [6.983255,47.013508,6.983255,47.013508],
+  "bbox": [
+    6.983255,
+    47.013508,
+    6.983255,
+    47.013508
+],
   "geometry": {"coordinates":[6.983255,47.013508],"type":"Point"}
 }

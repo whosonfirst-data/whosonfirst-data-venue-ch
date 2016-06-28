@@ -2,13 +2,14 @@
   "id": 236673241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.430424,47.145866,8.430424,47.145866",
     "geom:latitude":47.145866,
     "geom:longitude":8.430424,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grundstrasse 14",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236673241,
-    "wof:lastmodified":1449002831,
+    "wof:lastmodified":1466212786,
     "wof:name":"Dicom Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "server"
     ]
 },
-  "bbox": [8.430424,47.145866,8.430424,47.145866],
+  "bbox": [
+    8.430424,
+    47.145866,
+    8.430424,
+    47.145866
+],
   "geometry": {"coordinates":[8.430424,47.145866],"type":"Point"}
 }

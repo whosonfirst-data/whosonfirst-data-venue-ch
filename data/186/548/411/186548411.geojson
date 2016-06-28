@@ -2,13 +2,14 @@
   "id": 186548411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.013301,46.949581,8.013301,46.949581",
     "geom:latitude":46.949581,
     "geom:longitude":8.013301,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 6",
     "sg:city":"Sch\u00fcpfheim",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186548411,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1466211859,
     "wof:name":"Almatec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [8.013301,46.949581,8.013301,46.949581],
+  "bbox": [
+    8.013301,
+    46.949581,
+    8.013301,
+    46.949581
+],
   "geometry": {"coordinates":[8.013301,46.949581],"type":"Point"}
 }

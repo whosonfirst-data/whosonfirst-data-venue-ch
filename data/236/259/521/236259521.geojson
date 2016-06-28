@@ -2,13 +2,14 @@
   "id": 236259521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.626704,47.334465,8.626704,47.334465",
     "geom:latitude":47.334465,
     "geom:longitude":8.626704,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weid",
     "sg:city":"Zumikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236259521,
-    "wof:lastmodified":1449002247,
+    "wof:lastmodified":1466211453,
     "wof:name":"Golfplatz-gesellschaft Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.626704,47.334465,8.626704,47.334465],
+  "bbox": [
+    8.626704,
+    47.334465,
+    8.626704,
+    47.334465
+],
   "geometry": {"coordinates":[8.626704,47.334465],"type":"Point"}
 }

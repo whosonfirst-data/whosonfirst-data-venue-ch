@@ -2,13 +2,14 @@
   "id": 236146029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54543,47.375713,8.54543,47.375713",
     "geom:latitude":47.375713,
     "geom:longitude":8.54543,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschengraben",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236146029,
-    "wof:lastmodified":1449002939,
+    "wof:lastmodified":1466210216,
     "wof:name":"Pension St. Josef",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54543,47.375713,8.54543,47.375713],
+  "bbox": [
+    8.54543,
+    47.375713,
+    8.54543,
+    47.375713
+],
   "geometry": {"coordinates":[8.54543,47.375713],"type":"Point"}
 }

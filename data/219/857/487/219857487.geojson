@@ -2,13 +2,14 @@
   "id": 219857487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.012153,46.174149,9.012153,46.174149",
     "geom:latitude":46.174149,
     "geom:longitude":9.012153,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Posta 1",
     "sg:city":"Giubiasco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219857487,
-    "wof:lastmodified":1449072673,
+    "wof:lastmodified":1466212563,
     "wof:name":"Ristorante-bar Della Posta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [9.012153,46.174149,9.012153,46.174149],
+  "bbox": [
+    9.012153,
+    46.174149,
+    9.012153,
+    46.174149
+],
   "geometry": {"coordinates":[9.012153,46.174149],"type":"Point"}
 }

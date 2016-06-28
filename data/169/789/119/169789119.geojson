@@ -2,13 +2,14 @@
   "id": 169789119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.04057,47.411392,9.04057,47.411392",
     "geom:latitude":47.411392,
     "geom:longitude":9.04057,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz",
     "sg:city":"Kirchberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169789119,
-    "wof:lastmodified":1449034162,
+    "wof:lastmodified":1466208985,
     "wof:name":"Politische Gemeinde Kirchberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.04057,47.411392,9.04057,47.411392],
+  "bbox": [
+    9.04057,
+    47.411392,
+    9.04057,
+    47.411392
+],
   "geometry": {"coordinates":[9.04057,47.411392],"type":"Point"}
 }

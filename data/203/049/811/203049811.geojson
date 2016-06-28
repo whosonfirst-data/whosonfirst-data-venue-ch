@@ -2,13 +2,14 @@
   "id": 203049811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619749,47.525806,7.619749,47.525806",
     "geom:latitude":47.525806,
     "geom:longitude":7.619749,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserhaus 80",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203049811,
-    "wof:lastmodified":1449025867,
+    "wof:lastmodified":1466210143,
     "wof:name":"Niklaus N\u00fcscheler Architekturb\u00fcro",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.619749,47.525806,7.619749,47.525806],
+  "bbox": [
+    7.619749,
+    47.525806,
+    7.619749,
+    47.525806
+],
   "geometry": {"coordinates":[7.619749,47.525806],"type":"Point"}
 }

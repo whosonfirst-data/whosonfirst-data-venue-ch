@@ -2,13 +2,14 @@
   "id": 236788571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.01887,47.504021,8.01887,47.504021",
     "geom:latitude":47.504021,
     "geom:longitude":8.01887,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchrain 17",
     "sg:city":"Frick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236788571,
-    "wof:lastmodified":1449003337,
+    "wof:lastmodified":1466212889,
     "wof:name":"T. St\u00d6ckli Gartenbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [8.01887,47.504021,8.01887,47.504021],
+  "bbox": [
+    8.01887,
+    47.504021,
+    8.01887,
+    47.504021
+],
   "geometry": {"coordinates":[8.01887,47.504021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169692143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.287886,47.452225,8.287886,47.452225",
     "geom:latitude":47.452225,
     "geom:longitude":8.287886,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00e4fernstr. 30 5405 Baden",
     "sg:city":"D\u00e4ttwil",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169692143,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210812,
     "wof:name":"Brother Schweiz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "technology"
     ]
 },
-  "bbox": [8.287886,47.452225,8.287886,47.452225],
+  "bbox": [
+    8.287886,
+    47.452225,
+    8.287886,
+    47.452225
+],
   "geometry": {"coordinates":[8.287886,47.452225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186404935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.64404,47.401814,9.64404,47.401814",
     "geom:latitude":47.401814,
     "geom:longitude":9.64404,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lugwiesstrasse 19",
     "sg:city":"Widnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186404935,
-    "wof:lastmodified":1449052148,
+    "wof:lastmodified":1466210637,
     "wof:name":"Frei Bernhard Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.64404,47.401814,9.64404,47.401814],
+  "bbox": [
+    9.64404,
+    47.401814,
+    9.64404,
+    47.401814
+],
   "geometry": {"coordinates":[9.64404,47.401814],"type":"Point"}
 }

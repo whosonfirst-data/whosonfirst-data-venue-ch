@@ -2,13 +2,14 @@
   "id": 203215197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155527,46.80397,7.155527,46.80397",
     "geom:latitude":46.80397,
     "geom:longitude":7.155527,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue St-pierre 10",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203215197,
-    "wof:lastmodified":1449026511,
+    "wof:lastmodified":1466209638,
     "wof:name":"Dr M\u00e9d. Paul Rwakabayiza M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155527,46.80397,7.155527,46.80397],
+  "bbox": [
+    7.155527,
+    46.80397,
+    7.155527,
+    46.80397
+],
   "geometry": {"coordinates":[7.155527,46.80397],"type":"Point"}
 }

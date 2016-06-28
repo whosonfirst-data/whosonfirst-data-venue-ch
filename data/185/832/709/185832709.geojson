@@ -2,13 +2,14 @@
   "id": 185832709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.463189,47.44392,8.463189,47.44392",
     "geom:latitude":47.44392,
     "geom:longitude":8.463189,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Althardstrasse 238",
     "sg:city":"Regensdorf",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185832709,
-    "wof:lastmodified":1449006599,
+    "wof:lastmodified":1466209344,
     "wof:name":"Charles Hasler Ag",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "air-conditioners"
     ]
 },
-  "bbox": [8.463189,47.44392,8.463189,47.44392],
+  "bbox": [
+    8.463189,
+    47.44392,
+    8.463189,
+    47.44392
+],
   "geometry": {"coordinates":[8.463189,47.44392],"type":"Point"}
 }

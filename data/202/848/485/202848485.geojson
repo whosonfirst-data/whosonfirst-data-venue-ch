@@ -2,13 +2,14 @@
   "id": 202848485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.012437,46.17297,9.012437,46.17297",
     "geom:latitude":46.17297,
     "geom:longitude":9.012437,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Pedroli 7 6512 Giubiasco. Postfach Caselle Postale 9",
     "sg:city":"Giubiasco",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202848485,
-    "wof:lastmodified":1449060460,
+    "wof:lastmodified":1466211908,
     "wof:name":"Neostudio Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.012437,46.17297,9.012437,46.17297],
+  "bbox": [
+    9.012437,
+    46.17297,
+    9.012437,
+    46.17297
+],
   "geometry": {"coordinates":[9.012437,46.17297],"type":"Point"}
 }

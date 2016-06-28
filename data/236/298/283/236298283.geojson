@@ -2,13 +2,14 @@
   "id": 236298283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.569829,47.561756,7.569829,47.561756",
     "geom:latitude":47.561756,
     "geom:longitude":7.569829,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strassburgerallee 87",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236298283,
-    "wof:lastmodified":1449002353,
+    "wof:lastmodified":1466211708,
     "wof:name":"Georgios Kanlakis Taxi",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.569829,47.561756,7.569829,47.561756],
+  "bbox": [
+    7.569829,
+    47.561756,
+    7.569829,
+    47.561756
+],
   "geometry": {"coordinates":[7.569829,47.561756],"type":"Point"}
 }

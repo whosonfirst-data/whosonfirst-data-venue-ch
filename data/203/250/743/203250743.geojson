@@ -2,13 +2,14 @@
   "id": 203250743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.457896,46.995266,7.457896,46.995266",
     "geom:latitude":46.995266,
     "geom:longitude":7.457896,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 127",
     "sg:city":"Zollikofen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203250743,
-    "wof:lastmodified":1449026038,
+    "wof:lastmodified":1466210028,
     "wof:name":"Dr.med. J\u00fcrg Schlup Arzt F. Allgemeine Medizin Fmh",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.457896,46.995266,7.457896,46.995266],
+  "bbox": [
+    7.457896,
+    46.995266,
+    7.457896,
+    46.995266
+],
   "geometry": {"coordinates":[7.457896,46.995266],"type":"Point"}
 }

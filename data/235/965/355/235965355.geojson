@@ -2,13 +2,14 @@
   "id": 235965355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.468961,47.314526,8.468961,47.314526",
     "geom:latitude":47.314526,
     "geom:longitude":8.468961,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birchstrasse 4",
     "sg:city":"Bonstetten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235965355,
-    "wof:lastmodified":1449008481,
+    "wof:lastmodified":1466209198,
     "wof:name":"Martin Hanselmann",
     "wof:parent_id":85800179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.468961,47.314526,8.468961,47.314526],
+  "bbox": [
+    8.468961,
+    47.314526,
+    8.468961,
+    47.314526
+],
   "geometry": {"coordinates":[8.468961,47.314526],"type":"Point"}
 }

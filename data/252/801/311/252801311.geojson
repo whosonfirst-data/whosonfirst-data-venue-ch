@@ -2,13 +2,14 @@
   "id": 252801311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155752,46.796207,7.155752,46.796207",
     "geom:latitude":46.796207,
     "geom:longitude":7.155752,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De P\u00e9rolles 46 1700 Fribourg. Postfach",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252801311,
-    "wof:lastmodified":1449006327,
+    "wof:lastmodified":1466209929,
     "wof:name":"Neway S\u00e0rl Objets D'occasion Etc.; Achat, Vente, Troc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155752,46.796207,7.155752,46.796207],
+  "bbox": [
+    7.155752,
+    46.796207,
+    7.155752,
+    46.796207
+],
   "geometry": {"coordinates":[7.155752,46.796207],"type":"Point"}
 }

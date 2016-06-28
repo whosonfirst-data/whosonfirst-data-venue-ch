@@ -2,13 +2,14 @@
   "id": 202394307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.454147,46.956463,7.454147,46.956463",
     "geom:latitude":46.956463,
     "geom:longitude":7.454147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beundenfeldstrasse 25",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202394307,
-    "wof:lastmodified":1449060602,
+    "wof:lastmodified":1466209655,
     "wof:name":"Baeriswyl",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.454147,46.956463,7.454147,46.956463],
+  "bbox": [
+    7.454147,
+    46.956463,
+    7.454147,
+    46.956463
+],
   "geometry": {"coordinates":[7.454147,46.956463],"type":"Point"}
 }

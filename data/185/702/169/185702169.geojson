@@ -2,13 +2,14 @@
   "id": 185702169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.582093,47.462982,8.582093,47.462982",
     "geom:latitude":47.462982,
     "geom:longitude":8.582093,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruebisbachstrasse 86",
     "sg:city":"Kloten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185702169,
-    "wof:lastmodified":1449007431,
+    "wof:lastmodified":1466211094,
     "wof:name":"Dr.walter Hottinger Advokaturb\u00fcro",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.582093,47.462982,8.582093,47.462982],
+  "bbox": [
+    8.582093,
+    47.462982,
+    8.582093,
+    47.462982
+],
   "geometry": {"coordinates":[8.582093,47.462982],"type":"Point"}
 }

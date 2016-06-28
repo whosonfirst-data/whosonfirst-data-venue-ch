@@ -2,13 +2,14 @@
   "id": 186480235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.438143,47.417465,8.438143,47.417465",
     "geom:latitude":47.417465,
     "geom:longitude":8.438143,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sennhofweg 12",
     "sg:city":"Rothrist",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186480235,
-    "wof:lastmodified":1449051264,
+    "wof:lastmodified":1466211267,
     "wof:name":"Alters-& Pflegeheim Im Morgen",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.438143,47.417465,8.438143,47.417465],
+  "bbox": [
+    8.438143,
+    47.417465,
+    8.438143,
+    47.417465
+],
   "geometry": {"coordinates":[8.438143,47.417465],"type":"Point"}
 }

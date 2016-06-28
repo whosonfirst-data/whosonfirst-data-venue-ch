@@ -2,13 +2,14 @@
   "id": 186104119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18434,46.293049,9.18434,46.293049",
     "geom:latitude":46.293049,
     "geom:longitude":9.18434,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sorte",
     "sg:city":"Lostallo",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186104119,
-    "wof:lastmodified":1449051483,
+    "wof:lastmodified":1466210925,
     "wof:name":"Huber Kurt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18434,46.293049,9.18434,46.293049],
+  "bbox": [
+    9.18434,
+    46.293049,
+    9.18434,
+    46.293049
+],
   "geometry": {"coordinates":[9.18434,46.293049],"type":"Point"}
 }

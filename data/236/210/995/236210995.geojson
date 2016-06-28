@@ -2,13 +2,14 @@
   "id": 236210995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.67943,46.684486,7.67943,46.684486",
     "geom:latitude":46.684486,
     "geom:longitude":7.67943,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstrasse 11 3700 Spiez. Postfach",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236210995,
-    "wof:lastmodified":1449002632,
+    "wof:lastmodified":1466210918,
     "wof:name":"Alpin Events, Hofer & Zimmermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.67943,46.684486,7.67943,46.684486],
+  "bbox": [
+    7.67943,
+    46.684486,
+    7.67943,
+    46.684486
+],
   "geometry": {"coordinates":[7.67943,46.684486],"type":"Point"}
 }

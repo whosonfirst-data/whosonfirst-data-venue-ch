@@ -2,13 +2,14 @@
   "id": 203185955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632161,46.520992,6.632161,46.520992",
     "geom:latitude":46.520992,
     "geom:longitude":6.632161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place P\u00e9pinet 4",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203185955,
-    "wof:lastmodified":1449025253,
+    "wof:lastmodified":1466209314,
     "wof:name":"Dr M\u00e9d. Ir\u00e8ne Frei M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.632161,46.520992,6.632161,46.520992],
+  "bbox": [
+    6.632161,
+    46.520992,
+    6.632161,
+    46.520992
+],
   "geometry": {"coordinates":[6.632161,46.520992],"type":"Point"}
 }

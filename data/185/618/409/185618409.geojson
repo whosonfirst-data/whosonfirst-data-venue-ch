@@ -2,13 +2,14 @@
   "id": 185618409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.425861,50.926929,4.425861,50.926929",
     "geom:latitude":50.926929,
     "geom:longitude":4.425861,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Vieux Moulin",
     "sg:city":"St-prex",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185618409,
-    "wof:lastmodified":1449007610,
+    "wof:lastmodified":1466209646,
     "wof:name":"Service Des Eaux De Vevey-montreux",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.425861,50.926929,4.425861,50.926929],
+  "bbox": [
+    4.425861,
+    50.926929,
+    4.425861,
+    50.926929
+],
   "geometry": {"coordinates":[4.425861,50.926929],"type":"Point"}
 }

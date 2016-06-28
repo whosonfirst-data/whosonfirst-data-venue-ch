@@ -2,13 +2,14 @@
   "id": 186646475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.731354,30.006954,-97.731354,30.006954",
     "geom:latitude":30.006954,
     "geom:longitude":-97.731354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00fcngenmatt 9",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186646475,
-    "wof:lastmodified":1449050173,
+    "wof:lastmodified":1466212186,
     "wof:name":"Architekturb\u00fcro Mutter Emil",
     "wof:parent_id":85810225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.731354,30.006954,-97.731354,30.006954],
+  "bbox": [
+    -97.731354,
+    30.006954,
+    -97.731354,
+    30.006954
+],
   "geometry": {"coordinates":[-97.731354,30.006954],"type":"Point"}
 }

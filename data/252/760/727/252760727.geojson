@@ -2,13 +2,14 @@
   "id": 252760727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.955362,46.005798,8.955362,46.005798",
     "geom:latitude":46.005798,
     "geom:longitude":8.955362,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elvezia Corso 1",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252760727,
-    "wof:lastmodified":1449006453,
+    "wof:lastmodified":1466209434,
     "wof:name":"Etnoarte Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.955362,46.005798,8.955362,46.005798],
+  "bbox": [
+    8.955362,
+    46.005798,
+    8.955362,
+    46.005798
+],
   "geometry": {"coordinates":[8.955362,46.005798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236309071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.351528,47.093994,8.351528,47.093994",
     "geom:latitude":47.093994,
     "geom:longitude":8.351528,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nielsenstrasse 1a",
     "sg:city":"Buchrain",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236309071,
-    "wof:lastmodified":1449002228,
+    "wof:lastmodified":1466211911,
     "wof:name":"Mini-taxi Zemp B.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.351528,47.093994,8.351528,47.093994],
+  "bbox": [
+    8.351528,
+    47.093994,
+    8.351528,
+    47.093994
+],
   "geometry": {"coordinates":[8.351528,47.093994],"type":"Point"}
 }

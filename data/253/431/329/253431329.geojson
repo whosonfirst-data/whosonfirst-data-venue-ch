@@ -2,13 +2,14 @@
   "id": 253431329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453195,46.927734,7.453195,46.927734",
     "geom:latitude":46.927734,
     "geom:longitude":7.453195,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quellenweg 1",
     "sg:city":"Wabern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253431329,
-    "wof:lastmodified":1449063216,
+    "wof:lastmodified":1466212332,
     "wof:name":"Love Brautmode Bern",
     "wof:parent_id":85800599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453195,46.927734,7.453195,46.927734],
+  "bbox": [
+    7.453195,
+    46.927734,
+    7.453195,
+    46.927734
+],
   "geometry": {"coordinates":[7.453195,46.927734],"type":"Point"}
 }

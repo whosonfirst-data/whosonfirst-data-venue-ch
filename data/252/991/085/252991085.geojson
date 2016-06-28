@@ -2,13 +2,14 @@
   "id": 252991085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.608168,47.488251,7.608168,47.488251",
     "geom:latitude":47.488251,
     "geom:longitude":7.608168,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Amthausstrasse 23",
     "sg:city":"Dornach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252991085,
-    "wof:lastmodified":1449005747,
+    "wof:lastmodified":1466211880,
     "wof:name":"Sutter Max.",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.608168,47.488251,7.608168,47.488251],
+  "bbox": [
+    7.608168,
+    47.488251,
+    7.608168,
+    47.488251
+],
   "geometry": {"coordinates":[7.608168,47.488251],"type":"Point"}
 }

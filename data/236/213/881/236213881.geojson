@@ -2,13 +2,14 @@
   "id": 236213881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.941264,46.034004,8.941264,46.034004",
     "geom:latitude":46.034004,
     "geom:longitude":8.941264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Quadrela 10a",
     "sg:city":"Cureglia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236213881,
-    "wof:lastmodified":1449001708,
+    "wof:lastmodified":1466210953,
     "wof:name":"Bielli Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.941264,46.034004,8.941264,46.034004],
+  "bbox": [
+    8.941264,
+    46.034004,
+    8.941264,
+    46.034004
+],
   "geometry": {"coordinates":[8.941264,46.034004],"type":"Point"}
 }

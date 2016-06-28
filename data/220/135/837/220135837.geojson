@@ -2,13 +2,14 @@
   "id": 220135837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.02221,47.508377,8.02221,47.508377",
     "geom:latitude":47.508377,
     "geom:longitude":8.02221,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaistenbergstrasse 10",
     "sg:city":"Frick",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220135837,
-    "wof:lastmodified":1449074342,
+    "wof:lastmodified":1466210045,
     "wof:name":"Schilling Ag, Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.02221,47.508377,8.02221,47.508377],
+  "bbox": [
+    8.02221,
+    47.508377,
+    8.02221,
+    47.508377
+],
   "geometry": {"coordinates":[8.02221,47.508377],"type":"Point"}
 }

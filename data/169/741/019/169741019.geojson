@@ -2,13 +2,14 @@
   "id": 169741019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.538066,47.367691,8.538066,47.367691",
     "geom:latitude":47.367691,
     "geom:longitude":8.538066,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreikoenigstrasse 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169741019,
-    "wof:lastmodified":1449032863,
+    "wof:lastmodified":1466211697,
     "wof:name":"Maerki Baumann & Co Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [8.538066,47.367691,8.538066,47.367691],
+  "bbox": [
+    8.538066,
+    47.367691,
+    8.538066,
+    47.367691
+],
   "geometry": {"coordinates":[8.538066,47.367691],"type":"Point"}
 }

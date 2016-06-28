@@ -2,13 +2,14 @@
   "id": 186582155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.070692,46.100159,7.070692,46.100159",
     "geom:latitude":46.100159,
     "geom:longitude":7.070692,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Plaisance 2",
     "sg:city":"Martigny",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186582155,
-    "wof:lastmodified":1449051825,
+    "wof:lastmodified":1466211874,
     "wof:name":"Louis Morand & Cie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquavit"
     ]
 },
-  "bbox": [7.070692,46.100159,7.070692,46.100159],
+  "bbox": [
+    7.070692,
+    46.100159,
+    7.070692,
+    46.100159
+],
   "geometry": {"coordinates":[7.070692,46.100159],"type":"Point"}
 }

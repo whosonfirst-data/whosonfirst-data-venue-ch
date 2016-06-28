@@ -2,13 +2,14 @@
   "id": 202728121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.93803,45.926617,8.93803,45.926617",
     "geom:latitude":45.926617,
     "geom:longitude":8.93803,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7742",
     "sg:city":"Poschiavo",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202728121,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466210847,
     "wof:name":"Studio Tecnico Di Longhini Guido",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.93803,45.926617,8.93803,45.926617],
+  "bbox": [
+    8.93803,
+    45.926617,
+    8.93803,
+    45.926617
+],
   "geometry": {"coordinates":[8.93803,45.926617],"type":"Point"}
 }

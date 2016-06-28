@@ -2,13 +2,14 @@
   "id": 219268615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51605,47.392696,8.51605,47.392696",
     "geom:latitude":47.392696,
     "geom:longitude":8.51605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardturmstrasse 106",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219268615,
-    "wof:lastmodified":1449072385,
+    "wof:lastmodified":1466208961,
     "wof:name":"Ferdi Bender Auto-service",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.51605,47.392696,8.51605,47.392696],
+  "bbox": [
+    8.51605,
+    47.392696,
+    8.51605,
+    47.392696
+],
   "geometry": {"coordinates":[8.51605,47.392696],"type":"Point"}
 }

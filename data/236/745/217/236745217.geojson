@@ -2,13 +2,14 @@
   "id": 236745217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.687353,47.218914,8.687353,47.218914",
     "geom:latitude":47.218914,
     "geom:longitude":8.687353,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Einsiedlerstrasse 31",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236745217,
-    "wof:lastmodified":1449005072,
+    "wof:lastmodified":1466212859,
     "wof:name":"Dr. Ing. Thomas Treib Ag Precision Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "drilling"
     ]
 },
-  "bbox": [8.687353,47.218914,8.687353,47.218914],
+  "bbox": [
+    8.687353,
+    47.218914,
+    8.687353,
+    47.218914
+],
   "geometry": {"coordinates":[8.687353,47.218914],"type":"Point"}
 }

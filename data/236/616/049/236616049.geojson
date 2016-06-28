@@ -2,13 +2,14 @@
   "id": 236616049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.171393,46.725365,8.171393,46.725365",
     "geom:latitude":46.725365,
     "geom:longitude":8.171393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Balmweidstrasse 22",
     "sg:city":"Meiringen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236616049,
-    "wof:lastmodified":1449004188,
+    "wof:lastmodified":1466212787,
     "wof:name":"Camping Balmweid Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.171393,46.725365,8.171393,46.725365],
+  "bbox": [
+    8.171393,
+    46.725365,
+    8.171393,
+    46.725365
+],
   "geometry": {"coordinates":[8.171393,46.725365],"type":"Point"}
 }

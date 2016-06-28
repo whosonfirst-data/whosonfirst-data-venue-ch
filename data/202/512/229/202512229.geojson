@@ -2,13 +2,14 @@
   "id": 202512229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.62046,47.366081,8.62046,47.366081",
     "geom:latitude":47.366081,
     "geom:longitude":8.62046,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lohzelgstrasse 5",
     "sg:city":"Pfaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202512229,
-    "wof:lastmodified":1449061948,
+    "wof:lastmodified":1466211550,
     "wof:name":"Geologisches B\u00fcro Dr.lorenz Wyssling Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.62046,47.366081,8.62046,47.366081],
+  "bbox": [
+    8.62046,
+    47.366081,
+    8.62046,
+    47.366081
+],
   "geometry": {"coordinates":[8.62046,47.366081],"type":"Point"}
 }

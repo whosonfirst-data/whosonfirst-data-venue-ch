@@ -2,13 +2,14 @@
   "id": 186576929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.850231,47.650749,8.850231,47.650749",
     "geom:latitude":47.650749,
     "geom:longitude":8.850231,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haupstrasse 2",
     "sg:city":"Kaltenbach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186576929,
-    "wof:lastmodified":1449052383,
+    "wof:lastmodified":1466211844,
     "wof:name":"Matica Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "apparatus"
     ]
 },
-  "bbox": [8.850231,47.650749,8.850231,47.650749],
+  "bbox": [
+    8.850231,
+    47.650749,
+    8.850231,
+    47.650749
+],
   "geometry": {"coordinates":[8.850231,47.650749],"type":"Point"}
 }

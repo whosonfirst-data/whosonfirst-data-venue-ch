@@ -2,13 +2,14 @@
   "id": 186641403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.248935,47.143623,7.248935,47.143623",
     "geom:latitude":47.143623,
     "geom:longitude":7.248935,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Adam-g\u00f6uffi-strasse 18 2502 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186641403,
-    "wof:lastmodified":1449052369,
+    "wof:lastmodified":1466212275,
     "wof:name":"Architektur Und Grafik Gestaltungsgesellschaft Mbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.248935,47.143623,7.248935,47.143623],
+  "bbox": [
+    7.248935,
+    47.143623,
+    7.248935,
+    47.143623
+],
   "geometry": {"coordinates":[7.248935,47.143623],"type":"Point"}
 }

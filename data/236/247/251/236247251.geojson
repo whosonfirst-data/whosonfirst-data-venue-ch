@@ -2,13 +2,14 @@
   "id": 236247251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.798267,46.165474,8.798267,46.165474",
     "geom:latitude":46.165474,
     "geom:longitude":8.798267,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Muro Della Rossa 26",
     "sg:city":"Locarno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236247251,
-    "wof:lastmodified":1449003603,
+    "wof:lastmodified":1466211337,
     "wof:name":"Teatro Dei Fauni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.798267,46.165474,8.798267,46.165474],
+  "bbox": [
+    8.798267,
+    46.165474,
+    8.798267,
+    46.165474
+],
   "geometry": {"coordinates":[8.798267,46.165474],"type":"Point"}
 }

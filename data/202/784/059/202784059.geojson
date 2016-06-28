@@ -2,13 +2,14 @@
   "id": 202784059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.97069,45.906277,8.97069,45.906277",
     "geom:latitude":45.906277,
     "geom:longitude":8.97069,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Conradin Zschokke-strasse 3 5312 D\u00f6ttingen. Postfach 131",
     "sg:city":"D\u00f6ttingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202784059,
-    "wof:lastmodified":1449061781,
+    "wof:lastmodified":1466211377,
     "wof:name":"Arch. Neuroni Fiorenzo.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.97069,45.906277,8.97069,45.906277],
+  "bbox": [
+    8.97069,
+    45.906277,
+    8.97069,
+    45.906277
+],
   "geometry": {"coordinates":[8.97069,45.906277],"type":"Point"}
 }

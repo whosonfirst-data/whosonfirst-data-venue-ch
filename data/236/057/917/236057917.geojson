@@ -2,13 +2,14 @@
   "id": 236057917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.528097,47.002125,9.528097,47.002125",
     "geom:latitude":47.002125,
     "geom:longitude":9.528097,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Industriestrasse 2",
     "sg:city":"Maienfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236057917,
-    "wof:lastmodified":1449003251,
+    "wof:lastmodified":1466209402,
     "wof:name":"Zehnder Hans Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.528097,47.002125,9.528097,47.002125],
+  "bbox": [
+    9.528097,
+    47.002125,
+    9.528097,
+    47.002125
+],
   "geometry": {"coordinates":[9.528097,47.002125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202968599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.573796,47.555416,7.573796,47.555416",
     "geom:latitude":47.555416,
     "geom:longitude":7.573796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blauenstrasse 15",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202968599,
-    "wof:lastmodified":1449060270,
+    "wof:lastmodified":1466212279,
     "wof:name":"Daniel Braun & Partner Architektur & Baurealisation",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.573796,47.555416,7.573796,47.555416],
+  "bbox": [
+    7.573796,
+    47.555416,
+    7.573796,
+    47.555416
+],
   "geometry": {"coordinates":[7.573796,47.555416],"type":"Point"}
 }

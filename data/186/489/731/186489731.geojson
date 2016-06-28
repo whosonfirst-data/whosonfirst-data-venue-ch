@@ -2,13 +2,14 @@
   "id": 186489731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.53256,47.444405,9.53256,47.444405",
     "geom:latitude":47.444405,
     "geom:longitude":9.53256,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"9410",
     "sg:city":"Heiden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186489731,
-    "wof:lastmodified":1449051849,
+    "wof:lastmodified":1466211349,
     "wof:name":"Altersheim M\u00fcllersberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [9.53256,47.444405,9.53256,47.444405],
+  "bbox": [
+    9.53256,
+    47.444405,
+    9.53256,
+    47.444405
+],
   "geometry": {"coordinates":[9.53256,47.444405],"type":"Point"}
 }

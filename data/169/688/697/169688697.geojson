@@ -2,13 +2,14 @@
   "id": 169688697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.902635,47.552376,8.902635,47.552376",
     "geom:latitude":47.552376,
     "geom:longitude":8.902635,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reutenenstrasse 34 8500 Frauenfeld. Postfach 364",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169688697,
-    "wof:lastmodified":1449033924,
+    "wof:lastmodified":1466210725,
     "wof:name":"Hertex Agency Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.902635,47.552376,8.902635,47.552376],
+  "bbox": [
+    8.902635,
+    47.552376,
+    8.902635,
+    47.552376
+],
   "geometry": {"coordinates":[8.902635,47.552376],"type":"Point"}
 }

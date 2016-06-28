@@ -2,13 +2,14 @@
   "id": 203033107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436754,46.954346,7.436754,46.954346",
     "geom:latitude":46.954346,
     "geom:longitude":7.436754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fischerweg 7 3012 Bern. Postfach 7072",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203033107,
-    "wof:lastmodified":1449025325,
+    "wof:lastmodified":1466209830,
     "wof:name":"Leimer Architekten",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436754,46.954346,7.436754,46.954346],
+  "bbox": [
+    7.436754,
+    46.954346,
+    7.436754,
+    46.954346
+],
   "geometry": {"coordinates":[7.436754,46.954346],"type":"Point"}
 }

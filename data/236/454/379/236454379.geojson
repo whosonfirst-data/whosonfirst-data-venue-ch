@@ -2,13 +2,14 @@
   "id": 236454379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.50503,46.666279,6.50503,46.666279",
     "geom:latitude":46.666279,
     "geom:longitude":6.50503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St-loup",
     "sg:city":"Pompaples",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236454379,
-    "wof:lastmodified":1449004874,
+    "wof:lastmodified":1466212338,
     "wof:name":"R\u00e9seau De Soins Hospitaliers St-loup-orbe-la Vall\u00e9e",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [6.50503,46.666279,6.50503,46.666279],
+  "bbox": [
+    6.50503,
+    46.666279,
+    6.50503,
+    46.666279
+],
   "geometry": {"coordinates":[6.50503,46.666279],"type":"Point"}
 }

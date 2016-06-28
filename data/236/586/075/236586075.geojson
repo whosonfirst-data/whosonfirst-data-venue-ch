@@ -2,13 +2,14 @@
   "id": 236586075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146084,46.20182,6.146084,46.20182",
     "geom:latitude":46.20182,
     "geom:longitude":6.146084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Grand Rue",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236586075,
-    "wof:lastmodified":1449004791,
+    "wof:lastmodified":1466212654,
     "wof:name":"Consulat De Finlande",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "advice"
     ]
 },
-  "bbox": [6.146084,46.20182,6.146084,46.20182],
+  "bbox": [
+    6.146084,
+    46.20182,
+    6.146084,
+    46.20182
+],
   "geometry": {"coordinates":[6.146084,46.20182],"type":"Point"}
 }

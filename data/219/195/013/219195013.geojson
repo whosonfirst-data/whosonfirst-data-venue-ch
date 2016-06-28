@@ -2,13 +2,14 @@
   "id": 219195013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.573908,47.536911,7.573908,47.536911",
     "geom:latitude":47.536911,
     "geom:longitude":7.573908,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstrasse 5",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219195013,
-    "wof:lastmodified":1449072706,
+    "wof:lastmodified":1466211680,
     "wof:name":"Fellmann Thomas Bahnhof-shoppings",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.573908,47.536911,7.573908,47.536911],
+  "bbox": [
+    7.573908,
+    47.536911,
+    7.573908,
+    47.536911
+],
   "geometry": {"coordinates":[7.573908,47.536911],"type":"Point"}
 }

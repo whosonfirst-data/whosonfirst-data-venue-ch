@@ -2,13 +2,14 @@
   "id": 236828333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.169172,47.385799,8.169172,47.385799",
     "geom:latitude":47.385799,
     "geom:longitude":8.169172,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bleichenmattweg 4",
     "sg:city":"Staufen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236828333,
-    "wof:lastmodified":1449003302,
+    "wof:lastmodified":1466212922,
     "wof:name":"Fischer Niklaus Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.169172,47.385799,8.169172,47.385799],
+  "bbox": [
+    8.169172,
+    47.385799,
+    8.169172,
+    47.385799
+],
   "geometry": {"coordinates":[8.169172,47.385799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236835595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.277241,47.236786,8.277241,47.236786",
     "geom:latitude":47.236786,
     "geom:longitude":8.277241,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sulzerstrasse 5",
     "sg:city":"H\u00e4mikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236835595,
-    "wof:lastmodified":1449002028,
+    "wof:lastmodified":1466212999,
     "wof:name":"Koch Th. Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.277241,47.236786,8.277241,47.236786],
+  "bbox": [
+    8.277241,
+    47.236786,
+    8.277241,
+    47.236786
+],
   "geometry": {"coordinates":[8.277241,47.236786],"type":"Point"}
 }

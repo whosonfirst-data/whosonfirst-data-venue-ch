@@ -2,13 +2,14 @@
   "id": 236406439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.193407,47.373188,9.193407,47.373188",
     "geom:latitude":47.373188,
     "geom:longitude":9.193407,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldeggstrasse 1",
     "sg:city":"Degersheim",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236406439,
-    "wof:lastmodified":1449003418,
+    "wof:lastmodified":1466212259,
     "wof:name":"Bibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [9.193407,47.373188,9.193407,47.373188],
+  "bbox": [
+    9.193407,
+    47.373188,
+    9.193407,
+    47.373188
+],
   "geometry": {"coordinates":[9.193407,47.373188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219725251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.947498,47.259968,7.947498,47.259968",
     "geom:latitude":47.259968,
     "geom:longitude":7.947498,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Str\u00e4hlgasse 5",
     "sg:city":"Brittnau",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219725251,
-    "wof:lastmodified":1449071253,
+    "wof:lastmodified":1466212296,
     "wof:name":"Sparkasse M\u00e4ttenwil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.947498,47.259968,7.947498,47.259968],
+  "bbox": [
+    7.947498,
+    47.259968,
+    7.947498,
+    47.259968
+],
   "geometry": {"coordinates":[7.947498,47.259968],"type":"Point"}
 }

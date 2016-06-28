@@ -2,13 +2,14 @@
   "id": 219208679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.978148,45.881104,8.978148,45.881104",
     "geom:latitude":45.881104,
     "geom:longitude":8.978148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Laveggio 14",
     "sg:city":"Mendrisio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219208679,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466211028,
     "wof:name":"Nelm Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "unit"
     ]
 },
-  "bbox": [8.978148,45.881104,8.978148,45.881104],
+  "bbox": [
+    8.978148,
+    45.881104,
+    8.978148,
+    45.881104
+],
   "geometry": {"coordinates":[8.978148,45.881104],"type":"Point"}
 }

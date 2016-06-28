@@ -2,13 +2,14 @@
   "id": 185901819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.446239,46.954578,7.446239,46.954578",
     "geom:latitude":46.954578,
     "geom:longitude":7.446239,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 1",
     "sg:city":"Immensee",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185901819,
-    "wof:lastmodified":1449007278,
+    "wof:lastmodified":1466209852,
     "wof:name":"Itten+brechb\u00fchl Ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.446239,46.954578,7.446239,46.954578],
+  "bbox": [
+    7.446239,
+    46.954578,
+    7.446239,
+    46.954578
+],
   "geometry": {"coordinates":[7.446239,46.954578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236221379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527756,47.39101,8.527756,47.39101",
     "geom:latitude":47.39101,
     "geom:longitude":8.527756,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstrasse 4 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236221379,
-    "wof:lastmodified":1449003042,
+    "wof:lastmodified":1466211037,
     "wof:name":"Gap Productions Gmbh",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527756,47.39101,8.527756,47.39101],
+  "bbox": [
+    8.527756,
+    47.39101,
+    8.527756,
+    47.39101
+],
   "geometry": {"coordinates":[8.527756,47.39101],"type":"Point"}
 }

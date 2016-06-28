@@ -2,13 +2,14 @@
   "id": 202827661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.834563,47.462494,7.834563,47.462494",
     "geom:latitude":47.462494,
     "geom:longitude":7.834563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 54",
     "sg:city":"B\u00f6ckten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202827661,
-    "wof:lastmodified":1449061018,
+    "wof:lastmodified":1466211698,
     "wof:name":"Grieder Architektur Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.834563,47.462494,7.834563,47.462494],
+  "bbox": [
+    7.834563,
+    47.462494,
+    7.834563,
+    47.462494
+],
   "geometry": {"coordinates":[7.834563,47.462494],"type":"Point"}
 }

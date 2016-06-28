@@ -2,13 +2,14 @@
   "id": 236401113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.829768,46.801193,9.829768,46.801193",
     "geom:latitude":46.801193,
     "geom:longitude":9.829768,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Postpassage 5 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236401113,
-    "wof:lastmodified":1449004660,
+    "wof:lastmodified":1466212335,
     "wof:name":"Bibliothek Der Landschaft Davos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [9.829768,46.801193,9.829768,46.801193],
+  "bbox": [
+    9.829768,
+    46.801193,
+    9.829768,
+    46.801193
+],
   "geometry": {"coordinates":[9.829768,46.801193],"type":"Point"}
 }

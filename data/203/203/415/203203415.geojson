@@ -2,13 +2,14 @@
   "id": 203203415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.056098,46.617783,7.056098,46.617783",
     "geom:latitude":46.617783,
     "geom:longitude":7.056098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 5",
     "sg:city":"Bulle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203203415,
-    "wof:lastmodified":1449025752,
+    "wof:lastmodified":1466209507,
     "wof:name":"Dr M\u00e9d. Marcel Terrapon M\u00e9d\u00e9cin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.056098,46.617783,7.056098,46.617783],
+  "bbox": [
+    7.056098,
+    46.617783,
+    7.056098,
+    46.617783
+],
   "geometry": {"coordinates":[7.056098,46.617783],"type":"Point"}
 }

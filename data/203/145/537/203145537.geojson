@@ -2,13 +2,14 @@
   "id": 203145537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.940675,46.011711,8.940675,46.011711",
     "geom:latitude":46.011711,
     "geom:longitude":8.940675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Foletti 19",
     "sg:city":"Massagno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203145537,
-    "wof:lastmodified":1449025482,
+    "wof:lastmodified":1466211604,
     "wof:name":"Dott.med.michele Raggi Specialista Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.940675,46.011711,8.940675,46.011711],
+  "bbox": [
+    8.940675,
+    46.011711,
+    8.940675,
+    46.011711
+],
   "geometry": {"coordinates":[8.940675,46.011711],"type":"Point"}
 }

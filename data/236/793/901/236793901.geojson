@@ -2,13 +2,14 @@
   "id": 236793901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.429648,47.399006,8.429648,47.399006",
     "geom:latitude":47.399006,
     "geom:longitude":8.429648,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gl\u00fctschbachstrasse 2",
     "sg:city":"Uetendorf",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236793901,
-    "wof:lastmodified":1449003475,
+    "wof:lastmodified":1466212900,
     "wof:name":"Wmf Schweiz Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crystal"
     ]
 },
-  "bbox": [8.429648,47.399006,8.429648,47.399006],
+  "bbox": [
+    8.429648,
+    47.399006,
+    8.429648,
+    47.399006
+],
   "geometry": {"coordinates":[8.429648,47.399006],"type":"Point"}
 }

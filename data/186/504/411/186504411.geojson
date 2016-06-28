@@ -2,13 +2,14 @@
   "id": 186504411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.677009,46.504959,6.677009,46.504959",
     "geom:latitude":46.504959,
     "geom:longitude":6.677009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Lavaux 20 1095 Ch\u00e2telard-lutry Case Postale 163",
     "sg:city":"Ch\u00e2telard-lutry",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186504411,
-    "wof:lastmodified":1449050886,
+    "wof:lastmodified":1466211473,
     "wof:name":"Etablissement M\u00e9dico-social Le Marronnier",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [6.677009,46.504959,6.677009,46.504959],
+  "bbox": [
+    6.677009,
+    46.504959,
+    6.677009,
+    46.504959
+],
   "geometry": {"coordinates":[6.677009,46.504959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186547129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534474,47.315605,8.534474,47.315605",
     "geom:latitude":47.315605,
     "geom:longitude":8.534474,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofackerstrasse 18",
     "sg:city":"Adliswil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186547129,
-    "wof:lastmodified":1449050517,
+    "wof:lastmodified":1466211857,
     "wof:name":"Sprich Ag Gitterroste",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grid"
     ]
 },
-  "bbox": [8.534474,47.315605,8.534474,47.315605],
+  "bbox": [
+    8.534474,
+    47.315605,
+    8.534474,
+    47.315605
+],
   "geometry": {"coordinates":[8.534474,47.315605],"type":"Point"}
 }

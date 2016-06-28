@@ -2,13 +2,14 @@
   "id": 253069351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.185498,46.203659,6.185498,46.203659",
     "geom:latitude":46.203659,
     "geom:longitude":6.185498,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Bride 4-6",
     "sg:city":"Ch\u00eane-bougeries",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253069351,
-    "wof:lastmodified":1449064693,
+    "wof:lastmodified":1466209619,
     "wof:name":"Pierre Chevalley",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.185498,46.203659,6.185498,46.203659],
+  "bbox": [
+    6.185498,
+    46.203659,
+    6.185498,
+    46.203659
+],
   "geometry": {"coordinates":[6.185498,46.203659],"type":"Point"}
 }

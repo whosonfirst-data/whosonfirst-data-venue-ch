@@ -2,13 +2,14 @@
   "id": 186494959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.581712,47.459873,9.581712,47.459873",
     "geom:latitude":47.459873,
     "geom:longitude":9.581712,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brenden 288",
     "sg:city":"Lutzenberg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186494959,
-    "wof:lastmodified":1449052726,
+    "wof:lastmodified":1466211391,
     "wof:name":"Altersheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [9.581712,47.459873,9.581712,47.459873],
+  "bbox": [
+    9.581712,
+    47.459873,
+    9.581712,
+    47.459873
+],
   "geometry": {"coordinates":[9.581712,47.459873],"type":"Point"}
 }

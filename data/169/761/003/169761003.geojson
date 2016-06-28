@@ -2,13 +2,14 @@
   "id": 169761003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.486667,47.395679,8.486667,47.395679",
     "geom:latitude":47.395679,
     "geom:longitude":8.486667,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4ndlistr. 29",
     "sg:city":"Zuerich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169761003,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466211445,
     "wof:name":"Zauberladen Z\u00fcrich",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.486667,47.395679,8.486667,47.395679],
+  "bbox": [
+    8.486667,
+    47.395679,
+    8.486667,
+    47.395679
+],
   "geometry": {"coordinates":[8.486667,47.395679],"type":"Point"}
 }

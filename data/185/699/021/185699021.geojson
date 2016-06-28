@@ -2,13 +2,14 @@
   "id": 185699021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.563881,47.362316,8.563881,47.362316",
     "geom:latitude":47.362316,
     "geom:longitude":8.563881,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiestrasse 178 8032 Z\u00fcrich. Postfach 64",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185699021,
-    "wof:lastmodified":1449006822,
+    "wof:lastmodified":1466211063,
     "wof:name":"Dr.peter Birkenmaier Advokaturb\u00fcro",
     "wof:parent_id":85800057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.563881,47.362316,8.563881,47.362316],
+  "bbox": [
+    8.563881,
+    47.362316,
+    8.563881,
+    47.362316
+],
   "geometry": {"coordinates":[8.563881,47.362316],"type":"Point"}
 }

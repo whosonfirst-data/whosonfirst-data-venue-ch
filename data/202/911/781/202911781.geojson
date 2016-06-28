@@ -2,13 +2,14 @@
   "id": 202911781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.710083,47.510307,8.710083,47.510307",
     "geom:latitude":47.510307,
     "geom:longitude":8.710083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinbergstrasse 50",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202911781,
-    "wof:lastmodified":1449062246,
+    "wof:lastmodified":1466212054,
     "wof:name":"Kaech Max, Innenarchitekt Vsi.",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.710083,47.510307,8.710083,47.510307],
+  "bbox": [
+    8.710083,
+    47.510307,
+    8.710083,
+    47.510307
+],
   "geometry": {"coordinates":[8.710083,47.510307],"type":"Point"}
 }

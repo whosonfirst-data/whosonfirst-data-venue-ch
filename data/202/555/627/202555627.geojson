@@ -2,13 +2,14 @@
   "id": 202555627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.665347,46.984989,9.665347,46.984989",
     "geom:latitude":46.984989,
     "geom:longitude":9.665347,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haus Allegra",
     "sg:city":"Fanas",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202555627,
-    "wof:lastmodified":1449062293,
+    "wof:lastmodified":1466209251,
     "wof:name":"Inatec Ag Planungsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.665347,46.984989,9.665347,46.984989],
+  "bbox": [
+    9.665347,
+    46.984989,
+    9.665347,
+    46.984989
+],
   "geometry": {"coordinates":[9.665347,46.984989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186377873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545741,47.328789,8.545741,47.328789",
     "geom:latitude":47.328789,
     "geom:longitude":8.545741,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freilagerstrasse 29",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186377873,
-    "wof:lastmodified":1449051387,
+    "wof:lastmodified":1466210419,
     "wof:name":"Renova Bauunternehmung Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545741,47.328789,8.545741,47.328789],
+  "bbox": [
+    8.545741,
+    47.328789,
+    8.545741,
+    47.328789
+],
   "geometry": {"coordinates":[8.545741,47.328789],"type":"Point"}
 }

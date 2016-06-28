@@ -2,13 +2,14 @@
   "id": 253104873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.564865,46.533508,6.564865,46.533508",
     "geom:latitude":46.533508,
     "geom:longitude":6.564865,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexanderstrasse 2 7000 Chur. Postfach 40",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253104873,
-    "wof:lastmodified":1449064045,
+    "wof:lastmodified":1466209981,
     "wof:name":"Berdoz Marc-etienne Sa, Succursale Vd01 Ecublens Magasins D'optique Etc",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.564865,46.533508,6.564865,46.533508],
+  "bbox": [
+    6.564865,
+    46.533508,
+    6.564865,
+    46.533508
+],
   "geometry": {"coordinates":[6.564865,46.533508],"type":"Point"}
 }

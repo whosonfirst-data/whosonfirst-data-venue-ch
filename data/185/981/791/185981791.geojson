@@ -2,13 +2,14 @@
   "id": 185981791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.598924,47.296188,8.598924,47.296188",
     "geom:latitude":47.296188,
     "geom:longitude":8.598924,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichbrunnehof",
     "sg:city":"Freienwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185981791,
-    "wof:lastmodified":1449008244,
+    "wof:lastmodified":1466210634,
     "wof:name":"Antoine Berger Berger Gartenbau",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.598924,47.296188,8.598924,47.296188],
+  "bbox": [
+    8.598924,
+    47.296188,
+    8.598924,
+    47.296188
+],
   "geometry": {"coordinates":[8.598924,47.296188],"type":"Point"}
 }

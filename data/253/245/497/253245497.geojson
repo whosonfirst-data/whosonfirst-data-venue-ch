@@ -2,13 +2,14 @@
   "id": 253245497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544955,47.415836,8.544955,47.415836",
     "geom:latitude":47.415836,
     "geom:longitude":8.544955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 427",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253245497,
-    "wof:lastmodified":1449065703,
+    "wof:lastmodified":1466211437,
     "wof:name":"Roland Fr\u00fch B\u00e4ckerei-konditorei",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544955,47.415836,8.544955,47.415836],
+  "bbox": [
+    8.544955,
+    47.415836,
+    8.544955,
+    47.415836
+],
   "geometry": {"coordinates":[8.544955,47.415836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236411299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.237948,46.383682,6.237948,46.383682",
     "geom:latitude":46.383682,
     "geom:longitude":6.237948,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Coll\u00e8ge 22",
     "sg:city":"Boudry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236411299,
-    "wof:lastmodified":1449001793,
+    "wof:lastmodified":1466212174,
     "wof:name":"Biblioth\u00e8que Communale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [6.237948,46.383682,6.237948,46.383682],
+  "bbox": [
+    6.237948,
+    46.383682,
+    6.237948,
+    46.383682
+],
   "geometry": {"coordinates":[6.237948,46.383682],"type":"Point"}
 }

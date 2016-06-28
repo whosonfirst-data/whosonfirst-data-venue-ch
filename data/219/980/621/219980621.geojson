@@ -2,13 +2,14 @@
   "id": 219980621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435007,46.953365,7.435007,46.953365",
     "geom:latitude":46.953365,
     "geom:longitude":7.435007,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gesellschaftsstrasse 33",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219980621,
-    "wof:lastmodified":1449070623,
+    "wof:lastmodified":1466212767,
     "wof:name":"Hermann E. Ramseyer Ingenieurb\u00fcro",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435007,46.953365,7.435007,46.953365],
+  "bbox": [
+    7.435007,
+    46.953365,
+    7.435007,
+    46.953365
+],
   "geometry": {"coordinates":[7.435007,46.953365],"type":"Point"}
 }

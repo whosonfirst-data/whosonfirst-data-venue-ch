@@ -2,13 +2,14 @@
   "id": 203261203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.561514,46.900684,9.561514,46.900684",
     "geom:latitude":46.900684,
     "geom:longitude":9.561514,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Saltinisstrasse 15",
     "sg:city":"Trimmis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203261203,
-    "wof:lastmodified":1449024974,
+    "wof:lastmodified":1466210140,
     "wof:name":"Dr.med. Stefan Erhart Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.561514,46.900684,9.561514,46.900684],
+  "bbox": [
+    9.561514,
+    46.900684,
+    9.561514,
+    46.900684
+],
   "geometry": {"coordinates":[9.561514,46.900684],"type":"Point"}
 }

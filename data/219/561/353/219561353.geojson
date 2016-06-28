@@ -2,13 +2,14 @@
   "id": 219561353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.178397,47.387936,8.178397,47.387936",
     "geom:latitude":47.387936,
     "geom:longitude":8.178397,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 2",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219561353,
-    "wof:lastmodified":1449072902,
+    "wof:lastmodified":1466211902,
     "wof:name":"Hypothekarbank Lenzburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.178397,47.387936,8.178397,47.387936],
+  "bbox": [
+    8.178397,
+    47.387936,
+    8.178397,
+    47.387936
+],
   "geometry": {"coordinates":[8.178397,47.387936],"type":"Point"}
 }

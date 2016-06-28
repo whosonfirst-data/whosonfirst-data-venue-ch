@@ -2,13 +2,14 @@
   "id": 186436825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.735088,47.266308,8.735088,47.266308",
     "geom:latitude":47.266308,
     "geom:longitude":8.735088,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weiherstrasse 9",
     "sg:city":"Seuzach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186436825,
-    "wof:lastmodified":1449052763,
+    "wof:lastmodified":1466210899,
     "wof:name":"Gadola Fassaden Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.735088,47.266308,8.735088,47.266308],
+  "bbox": [
+    8.735088,
+    47.266308,
+    8.735088,
+    47.266308
+],
   "geometry": {"coordinates":[8.735088,47.266308],"type":"Point"}
 }

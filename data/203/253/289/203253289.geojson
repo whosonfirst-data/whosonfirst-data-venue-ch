@@ -2,13 +2,14 @@
   "id": 203253289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.576366,47.69791,8.576366,47.69791",
     "geom:latitude":47.69791,
     "geom:longitude":8.576366,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzeh\u00fcsliweg 5",
     "sg:city":"Beringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203253289,
-    "wof:lastmodified":1449026629,
+    "wof:lastmodified":1466210059,
     "wof:name":"Dr.med. Martin B\u00f6sch Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.576366,47.69791,8.576366,47.69791],
+  "bbox": [
+    8.576366,
+    47.69791,
+    8.576366,
+    47.69791
+],
   "geometry": {"coordinates":[8.576366,47.69791],"type":"Point"}
 }

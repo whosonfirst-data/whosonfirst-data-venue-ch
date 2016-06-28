@@ -2,13 +2,14 @@
   "id": 185743753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4413,46.951527,7.4413,46.951527",
     "geom:latitude":46.951527,
     "geom:longitude":7.4413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bollwerk 31 3011 Bern. Postfach 8636",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185743753,
-    "wof:lastmodified":1449008191,
+    "wof:lastmodified":1466211464,
     "wof:name":"Theo M\u00e4der Advokaturb\u00fcro C/o Cap",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4413,46.951527,7.4413,46.951527],
+  "bbox": [
+    7.4413,
+    46.951527,
+    7.4413,
+    46.951527
+],
   "geometry": {"coordinates":[7.4413,46.951527],"type":"Point"}
 }

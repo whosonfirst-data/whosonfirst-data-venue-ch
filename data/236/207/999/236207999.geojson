@@ -2,13 +2,14 @@
   "id": 236207999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.302836,47.072575,7.302836,47.072575",
     "geom:latitude":47.072575,
     "geom:longitude":7.302836,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergstrasse 26",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236207999,
-    "wof:lastmodified":1449004059,
+    "wof:lastmodified":1466210887,
     "wof:name":"Werner Geiser Bestattungsdienste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.302836,47.072575,7.302836,47.072575],
+  "bbox": [
+    7.302836,
+    47.072575,
+    7.302836,
+    47.072575
+],
   "geometry": {"coordinates":[7.302836,47.072575],"type":"Point"}
 }

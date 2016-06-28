@@ -2,13 +2,14 @@
   "id": 202619219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.020275,46.120106,7.020275,46.120106",
     "geom:latitude":46.120106,
     "geom:longitude":7.020275,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfrundstrasse 15",
     "sg:city":"Neuenegg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202619219,
-    "wof:lastmodified":1449060560,
+    "wof:lastmodified":1466209840,
     "wof:name":"Malbosc Guy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.020275,46.120106,7.020275,46.120106],
+  "bbox": [
+    7.020275,
+    46.120106,
+    7.020275,
+    46.120106
+],
   "geometry": {"coordinates":[7.020275,46.120106],"type":"Point"}
 }

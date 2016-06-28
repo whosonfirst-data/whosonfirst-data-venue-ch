@@ -2,13 +2,14 @@
   "id": 236556057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.611514,47.41058,9.611514,47.41058",
     "geom:latitude":47.41058,
     "geom:longitude":9.611514,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberwingertstrasse 8",
     "sg:city":"Balgach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236556057,
-    "wof:lastmodified":1449002293,
+    "wof:lastmodified":1466212680,
     "wof:name":"Canpac Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "purpose"
     ]
 },
-  "bbox": [9.611514,47.41058,9.611514,47.41058],
+  "bbox": [
+    9.611514,
+    47.41058,
+    9.611514,
+    47.41058
+],
   "geometry": {"coordinates":[9.611514,47.41058],"type":"Point"}
 }

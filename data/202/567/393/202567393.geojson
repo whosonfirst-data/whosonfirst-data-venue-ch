@@ -2,13 +2,14 @@
   "id": 202567393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.691182,47.180756,7.691182,47.180756",
     "geom:latitude":47.180756,
     "geom:longitude":7.691182,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterfeldstrasse 5 3363 Ober\u00f6nz. Postfach 6",
     "sg:city":"Ober\u00f6nz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202567393,
-    "wof:lastmodified":1449062666,
+    "wof:lastmodified":1466209358,
     "wof:name":"Ingenieurb\u00fcro L\u00fcthi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.691182,47.180756,7.691182,47.180756],
+  "bbox": [
+    7.691182,
+    47.180756,
+    7.691182,
+    47.180756
+],
   "geometry": {"coordinates":[7.691182,47.180756],"type":"Point"}
 }

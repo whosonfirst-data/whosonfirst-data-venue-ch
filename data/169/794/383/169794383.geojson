@@ -2,13 +2,14 @@
   "id": 169794383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588455,47.556217,7.588455,47.556217",
     "geom:latitude":47.556217,
     "geom:longitude":7.588455,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerbergasse 40",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169794383,
-    "wof:lastmodified":1449034268,
+    "wof:lastmodified":1466209030,
     "wof:name":"Affinitas Gmbh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.588455,47.556217,7.588455,47.556217],
+  "bbox": [
+    7.588455,
+    47.556217,
+    7.588455,
+    47.556217
+],
   "geometry": {"coordinates":[7.588455,47.556217],"type":"Point"}
 }

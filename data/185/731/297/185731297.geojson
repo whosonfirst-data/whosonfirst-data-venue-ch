@@ -2,13 +2,14 @@
   "id": 185731297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.972186,46.015312,8.972186,46.015312",
     "geom:latitude":46.015312,
     "geom:longitude":8.972186,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Quiete 17",
     "sg:city":"Viganello",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185731297,
-    "wof:lastmodified":1449008042,
+    "wof:lastmodified":1466211350,
     "wof:name":"Orlando Taschetta Studio Legale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.972186,46.015312,8.972186,46.015312],
+  "bbox": [
+    8.972186,
+    46.015312,
+    8.972186,
+    46.015312
+],
   "geometry": {"coordinates":[8.972186,46.015312],"type":"Point"}
 }

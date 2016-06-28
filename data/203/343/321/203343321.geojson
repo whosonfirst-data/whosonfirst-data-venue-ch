@@ -2,13 +2,14 @@
   "id": 203343321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.799665,47.326916,8.799665,47.326916",
     "geom:latitude":47.326916,
     "geom:longitude":8.799665,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatstrasse 267",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203343321,
-    "wof:lastmodified":1449026310,
+    "wof:lastmodified":1466210962,
     "wof:name":"Dr.med.heinz Schaub Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.799665,47.326916,8.799665,47.326916],
+  "bbox": [
+    8.799665,
+    47.326916,
+    8.799665,
+    47.326916
+],
   "geometry": {"coordinates":[8.799665,47.326916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202818755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.132318,47.656986,9.132318,47.656986",
     "geom:latitude":47.656986,
     "geom:longitude":9.132318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 10 8274 T\u00e4gerwilen. Postfach 38",
     "sg:city":"T\u00e4gerwilen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202818755,
-    "wof:lastmodified":1449061365,
+    "wof:lastmodified":1466211919,
     "wof:name":"D\u00fctsch K., Architekturb\u00fcro.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.132318,47.656986,9.132318,47.656986],
+  "bbox": [
+    9.132318,
+    47.656986,
+    9.132318,
+    47.656986
+],
   "geometry": {"coordinates":[9.132318,47.656986],"type":"Point"}
 }

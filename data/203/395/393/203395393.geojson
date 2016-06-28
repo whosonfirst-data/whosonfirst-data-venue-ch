@@ -2,13 +2,14 @@
   "id": 203395393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.739442,47.499935,8.739442,47.499935",
     "geom:latitude":47.499935,
     "geom:longitude":8.739442,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pflanzschulstrasse 42",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203395393,
-    "wof:lastmodified":1449026570,
+    "wof:lastmodified":1466211485,
     "wof:name":"Dr.med.renato Barco Spezialarzt Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.739442,47.499935,8.739442,47.499935],
+  "bbox": [
+    8.739442,
+    47.499935,
+    8.739442,
+    47.499935
+],
   "geometry": {"coordinates":[8.739442,47.499935],"type":"Point"}
 }

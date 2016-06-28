@@ -2,13 +2,14 @@
   "id": 236448807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.946439,47.290295,7.946439,47.290295",
     "geom:latitude":47.290295,
     "geom:longitude":7.946439,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General Guisan-strasse 18",
     "sg:city":"Zofingen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236448807,
-    "wof:lastmodified":1449005059,
+    "wof:lastmodified":1466212328,
     "wof:name":"Museums-bibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.946439,47.290295,7.946439,47.290295],
+  "bbox": [
+    7.946439,
+    47.290295,
+    7.946439,
+    47.290295
+],
   "geometry": {"coordinates":[7.946439,47.290295],"type":"Point"}
 }

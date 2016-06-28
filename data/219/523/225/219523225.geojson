@@ -2,13 +2,14 @@
   "id": 219523225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.139192,46.811642,7.139192,46.811642",
     "geom:latitude":46.811642,
     "geom:longitude":7.139192,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundesstrasse 15",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219523225,
-    "wof:lastmodified":1449072411,
+    "wof:lastmodified":1466211336,
     "wof:name":"C & C Holding Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.139192,46.811642,7.139192,46.811642],
+  "bbox": [
+    7.139192,
+    46.811642,
+    7.139192,
+    46.811642
+],
   "geometry": {"coordinates":[7.139192,46.811642],"type":"Point"}
 }

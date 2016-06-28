@@ -2,13 +2,14 @@
   "id": 236949015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304443,47.046021,8.304443,47.046021",
     "geom:latitude":47.046021,
     "geom:longitude":8.304443,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosstrasse 1",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236949015,
-    "wof:lastmodified":1449003741,
+    "wof:lastmodified":1466213040,
     "wof:name":"Interessengemeinschaft Gemeindeinformatik",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304443,47.046021,8.304443,47.046021],
+  "bbox": [
+    8.304443,
+    47.046021,
+    8.304443,
+    47.046021
+],
   "geometry": {"coordinates":[8.304443,47.046021],"type":"Point"}
 }

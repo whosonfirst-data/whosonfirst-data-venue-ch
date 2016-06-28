@@ -2,13 +2,14 @@
   "id": 203286019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.901171,47.360847,7.901171,47.360847",
     "geom:latitude":47.360847,
     "geom:longitude":7.901171,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 6",
     "sg:city":"Trimbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203286019,
-    "wof:lastmodified":1449025413,
+    "wof:lastmodified":1466210396,
     "wof:name":"Dr.med.bernhard Hofmeier Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.901171,47.360847,7.901171,47.360847],
+  "bbox": [
+    7.901171,
+    47.360847,
+    7.901171,
+    47.360847
+],
   "geometry": {"coordinates":[7.901171,47.360847],"type":"Point"}
 }

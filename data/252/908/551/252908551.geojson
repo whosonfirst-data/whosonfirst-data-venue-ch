@@ -2,13 +2,14 @@
   "id": 252908551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.107942,47.172279,8.107942,47.172279",
     "geom:latitude":47.172279,
     "geom:longitude":8.107942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Centralstrasse 4 6210 Sursee. Postfach 3075",
     "sg:city":"Sursee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252908551,
-    "wof:lastmodified":1449006033,
+    "wof:lastmodified":1466211087,
     "wof:name":"Auberson Herrenmode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.107942,47.172279,8.107942,47.172279],
+  "bbox": [
+    8.107942,
+    47.172279,
+    8.107942,
+    47.172279
+],
   "geometry": {"coordinates":[8.107942,47.172279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236566139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.902838,47.350071,7.902838,47.350071",
     "geom:latitude":47.350071,
     "geom:longitude":7.902838,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptgasse 34 4600 Olten. Postfach",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236566139,
-    "wof:lastmodified":1449001730,
+    "wof:lastmodified":1466212531,
     "wof:name":"Visilab Olten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.902838,47.350071,7.902838,47.350071],
+  "bbox": [
+    7.902838,
+    47.350071,
+    7.902838,
+    47.350071
+],
   "geometry": {"coordinates":[7.902838,47.350071],"type":"Point"}
 }

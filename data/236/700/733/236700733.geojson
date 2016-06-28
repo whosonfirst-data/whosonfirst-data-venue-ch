@@ -2,13 +2,14 @@
   "id": 236700733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.134569,46.177811,6.134569,46.177811",
     "geom:latitude":46.177811,
     "geom:longitude":6.134569,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Saint-julien 34",
     "sg:city":"Carouge",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236700733,
-    "wof:lastmodified":1449004903,
+    "wof:lastmodified":1466212824,
     "wof:name":"Ideal Chimic",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.134569,46.177811,6.134569,46.177811],
+  "bbox": [
+    6.134569,
+    46.177811,
+    6.134569,
+    46.177811
+],
   "geometry": {"coordinates":[6.134569,46.177811],"type":"Point"}
 }

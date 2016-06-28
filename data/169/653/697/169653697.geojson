@@ -2,13 +2,14 @@
   "id": 169653697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.12698,46.232063,6.12698,46.232063",
     "geom:latitude":46.232063,
     "geom:longitude":6.12698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 33",
     "sg:city":"Erlenbach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169653697,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466210154,
     "wof:name":"European Broadcasting Union",
     "wof:parent_id":85862451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advice"
     ]
 },
-  "bbox": [6.12698,46.232063,6.12698,46.232063],
+  "bbox": [
+    6.12698,
+    46.232063,
+    6.12698,
+    46.232063
+],
   "geometry": {"coordinates":[6.12698,46.232063],"type":"Point"}
 }

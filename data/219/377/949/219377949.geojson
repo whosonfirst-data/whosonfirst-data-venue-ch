@@ -2,13 +2,14 @@
   "id": 219377949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.744096,46.317173,7.744096,46.317173",
     "geom:latitude":46.317173,
     "geom:longitude":7.744096,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 2",
     "sg:city":"Gampel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219377949,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466209957,
     "wof:name":"Carrosserie Bregy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "painting"
     ]
 },
-  "bbox": [7.744096,46.317173,7.744096,46.317173],
+  "bbox": [
+    7.744096,
+    46.317173,
+    7.744096,
+    46.317173
+],
   "geometry": {"coordinates":[7.744096,46.317173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185601749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.434559,47.447506,8.434559,47.447506",
     "geom:latitude":47.447506,
     "geom:longitude":8.434559,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 4",
     "sg:city":"D\u00e4llikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185601749,
-    "wof:lastmodified":1449007333,
+    "wof:lastmodified":1466208937,
     "wof:name":"Data Ex 4000 Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.434559,47.447506,8.434559,47.447506],
+  "bbox": [
+    8.434559,
+    47.447506,
+    8.434559,
+    47.447506
+],
   "geometry": {"coordinates":[8.434559,47.447506],"type":"Point"}
 }

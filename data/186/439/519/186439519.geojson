@@ -2,13 +2,14 @@
   "id": 186439519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.820512,47.328045,8.820512,47.328045",
     "geom:latitude":47.328045,
     "geom:longitude":8.820512,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardturmstrasse 134",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186439519,
-    "wof:lastmodified":1449051128,
+    "wof:lastmodified":1466210923,
     "wof:name":"Kaderli Kundenmaurer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.820512,47.328045,8.820512,47.328045],
+  "bbox": [
+    8.820512,
+    47.328045,
+    8.820512,
+    47.328045
+],
   "geometry": {"coordinates":[8.820512,47.328045],"type":"Point"}
 }

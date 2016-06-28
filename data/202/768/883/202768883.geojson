@@ -2,13 +2,14 @@
   "id": 202768883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.403545,47.335663,9.403545,47.335663",
     "geom:latitude":47.335663,
     "geom:longitude":9.403545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 3",
     "sg:city":"Appenzell",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202768883,
-    "wof:lastmodified":1449061093,
+    "wof:lastmodified":1466211236,
     "wof:name":"Wild Und Partner Ag, Ingenieurunternehmung F\u00fcr Heizung, L\u00fcftung, Klima Und Sanit\u00e4rtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.403545,47.335663,9.403545,47.335663],
+  "bbox": [
+    9.403545,
+    47.335663,
+    9.403545,
+    47.335663
+],
   "geometry": {"coordinates":[9.403545,47.335663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203176775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.149316,46.210171,6.149316,46.210171",
     "geom:latitude":46.210171,
     "geom:longitude":6.149316,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Philippe-plantamour 19",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203176775,
-    "wof:lastmodified":1449026219,
+    "wof:lastmodified":1466209214,
     "wof:name":"Dr M\u00e9d. Eduardo Tomas Borges M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.149316,46.210171,6.149316,46.210171],
+  "bbox": [
+    6.149316,
+    46.210171,
+    6.149316,
+    46.210171
+],
   "geometry": {"coordinates":[6.149316,46.210171],"type":"Point"}
 }

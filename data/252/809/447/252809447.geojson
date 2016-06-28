@@ -2,13 +2,14 @@
   "id": 252809447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.955944,47.453518,8.955944,47.453518",
     "geom:latitude":47.453518,
     "geom:longitude":8.955944,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Balestra 2",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252809447,
-    "wof:lastmodified":1449006316,
+    "wof:lastmodified":1466210014,
     "wof:name":"Blue Denim Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.955944,47.453518,8.955944,47.453518],
+  "bbox": [
+    8.955944,
+    47.453518,
+    8.955944,
+    47.453518
+],
   "geometry": {"coordinates":[8.955944,47.453518],"type":"Point"}
 }

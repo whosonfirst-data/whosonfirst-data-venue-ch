@@ -2,13 +2,14 @@
   "id": 252923863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.087287,47.323799,9.087287,47.323799",
     "geom:latitude":47.323799,
     "geom:longitude":9.087287,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptgasse 6",
     "sg:city":"Lichtensteig",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252923863,
-    "wof:lastmodified":1449006464,
+    "wof:lastmodified":1466211260,
     "wof:name":"Fritz Forrer & Co Mode & Stoffe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.087287,47.323799,9.087287,47.323799],
+  "bbox": [
+    9.087287,
+    47.323799,
+    9.087287,
+    47.323799
+],
   "geometry": {"coordinates":[9.087287,47.323799],"type":"Point"}
 }

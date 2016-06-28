@@ -2,13 +2,14 @@
   "id": 186097317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.48378,47.385532,8.48378,47.385532",
     "geom:latitude":47.385532,
     "geom:longitude":8.48378,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eugen Huber-strasse 19a 8048 Z\u00fcrich. Postfach 8045 Z\u00fcrich",
     "sg:city":"Zust",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186097317,
-    "wof:lastmodified":1449051423,
+    "wof:lastmodified":1466210840,
     "wof:name":"Hc-vesta Ag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.48378,47.385532,8.48378,47.385532],
+  "bbox": [
+    8.48378,
+    47.385532,
+    8.48378,
+    47.385532
+],
   "geometry": {"coordinates":[8.48378,47.385532],"type":"Point"}
 }

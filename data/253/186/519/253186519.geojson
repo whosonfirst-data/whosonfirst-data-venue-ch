@@ -2,13 +2,14 @@
   "id": 253186519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.599427,47.540157,7.599427,47.540157",
     "geom:latitude":47.540157,
     "geom:longitude":7.599427,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornacherstrasse 283",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253186519,
-    "wof:lastmodified":1449065116,
+    "wof:lastmodified":1466210901,
     "wof:name":"Hans Gassler B\u00e4ckerei-konditorei",
     "wof:parent_id":85799909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.599427,47.540157,7.599427,47.540157],
+  "bbox": [
+    7.599427,
+    47.540157,
+    7.599427,
+    47.540157
+],
   "geometry": {"coordinates":[7.599427,47.540157],"type":"Point"}
 }

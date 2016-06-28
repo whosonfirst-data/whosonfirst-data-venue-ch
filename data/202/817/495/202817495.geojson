@@ -2,13 +2,14 @@
   "id": 202817495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.478002,46.955467,7.478002,46.955467",
     "geom:latitude":46.955467,
     "geom:longitude":7.478002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenstrasse 6 9240 Uzwil. Postfach",
     "sg:city":"Henau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202817495,
-    "wof:lastmodified":1449062170,
+    "wof:lastmodified":1466211668,
     "wof:name":"Donum Architekten Ag",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.478002,46.955467,7.478002,46.955467],
+  "bbox": [
+    7.478002,
+    46.955467,
+    7.478002,
+    46.955467
+],
   "geometry": {"coordinates":[7.478002,46.955467],"type":"Point"}
 }

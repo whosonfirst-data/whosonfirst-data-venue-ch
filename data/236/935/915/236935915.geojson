@@ -2,13 +2,14 @@
   "id": 236935915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.43746,47.499554,9.43746,47.499554",
     "geom:latitude":47.499554,
     "geom:longitude":9.43746,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpsteinstrasse 11",
     "sg:city":"Steinach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236935915,
-    "wof:lastmodified":1449004542,
+    "wof:lastmodified":1466213029,
     "wof:name":"Bischofberger Heinz, Edv-beratung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.43746,47.499554,9.43746,47.499554],
+  "bbox": [
+    9.43746,
+    47.499554,
+    9.43746,
+    47.499554
+],
   "geometry": {"coordinates":[9.43746,47.499554],"type":"Point"}
 }

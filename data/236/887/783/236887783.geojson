@@ -2,13 +2,14 @@
   "id": 236887783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.483103,47.44278,8.483103,47.44278",
     "geom:latitude":47.44278,
     "geom:longitude":8.483103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 5",
     "sg:city":"Watt",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236887783,
-    "wof:lastmodified":1449004459,
+    "wof:lastmodified":1466212963,
     "wof:name":"Medianova Ag",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.483103,47.44278,8.483103,47.44278],
+  "bbox": [
+    8.483103,
+    47.44278,
+    8.483103,
+    47.44278
+],
   "geometry": {"coordinates":[8.483103,47.44278],"type":"Point"}
 }

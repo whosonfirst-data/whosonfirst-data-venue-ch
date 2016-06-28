@@ -2,13 +2,14 @@
   "id": 186023109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.966008,47.301476,7.966008,47.301476",
     "geom:latitude":47.301476,
     "geom:longitude":7.966008,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4rd\u00f6pfuhoger 17 4812 M\u00fchlethal. Postfach",
     "sg:city":"M\u00fchlethal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186023109,
-    "wof:lastmodified":1449052755,
+    "wof:lastmodified":1466211639,
     "wof:name":"Bertschi Heinrich Renovationen Hausrenovationen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.966008,47.301476,7.966008,47.301476],
+  "bbox": [
+    7.966008,
+    47.301476,
+    7.966008,
+    47.301476
+],
   "geometry": {"coordinates":[7.966008,47.301476],"type":"Point"}
 }

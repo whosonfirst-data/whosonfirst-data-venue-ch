@@ -2,13 +2,14 @@
   "id": 236956099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.538889,47.509377,8.538889,47.509377",
     "geom:latitude":47.509377,
     "geom:longitude":8.538889,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstrasse 80",
     "sg:city":"B\u00fclach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236956099,
-    "wof:lastmodified":1449002094,
+    "wof:lastmodified":1466213041,
     "wof:name":"Pci Informatik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.538889,47.509377,8.538889,47.509377],
+  "bbox": [
+    8.538889,
+    47.509377,
+    8.538889,
+    47.509377
+],
   "geometry": {"coordinates":[8.538889,47.509377],"type":"Point"}
 }

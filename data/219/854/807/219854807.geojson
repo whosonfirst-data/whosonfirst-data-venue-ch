@@ -2,13 +2,14 @@
   "id": 219854807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632006,46.521107,6.632006,46.521107",
     "geom:latitude":46.521107,
     "geom:longitude":6.632006,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Grand-st-jean 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219854807,
-    "wof:lastmodified":1449073785,
+    "wof:lastmodified":1466212654,
     "wof:name":"Restaurant-music Bar Chinatown",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [6.632006,46.521107,6.632006,46.521107],
+  "bbox": [
+    6.632006,
+    46.521107,
+    6.632006,
+    46.521107
+],
   "geometry": {"coordinates":[6.632006,46.521107],"type":"Point"}
 }

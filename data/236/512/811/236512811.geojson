@@ -2,13 +2,14 @@
   "id": 236512811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.385898,47.192139,7.385898,47.192139",
     "geom:latitude":47.192139,
     "geom:longitude":7.385898,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachtelenstrasse 6",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236512811,
-    "wof:lastmodified":1449004165,
+    "wof:lastmodified":1466212542,
     "wof:name":"Bernhard Epp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.385898,47.192139,7.385898,47.192139],
+  "bbox": [
+    7.385898,
+    47.192139,
+    7.385898,
+    47.192139
+],
   "geometry": {"coordinates":[7.385898,47.192139],"type":"Point"}
 }

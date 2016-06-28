@@ -2,13 +2,14 @@
   "id": 202505665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449892,46.939926,7.449892,46.939926",
     "geom:latitude":46.939926,
     "geom:longitude":7.449892,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thormannstrasse 48",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202505665,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466211494,
     "wof:name":"Furrer Herbert, Architekt Dipl. Eth/sia",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449892,46.939926,7.449892,46.939926],
+  "bbox": [
+    7.449892,
+    46.939926,
+    7.449892,
+    46.939926
+],
   "geometry": {"coordinates":[7.449892,46.939926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202615801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.599144,47.55788,7.599144,47.55788",
     "geom:latitude":47.55788,
     "geom:longitude":7.599144,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemannengasse 12 4058 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202615801,
-    "wof:lastmodified":1449060911,
+    "wof:lastmodified":1466209804,
     "wof:name":"L\u00f6ffler & Associates Gmbh Technologie, Wissens-transfer Usw",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.599144,47.55788,7.599144,47.55788],
+  "bbox": [
+    7.599144,
+    47.55788,
+    7.599144,
+    47.55788
+],
   "geometry": {"coordinates":[7.599144,47.55788],"type":"Point"}
 }

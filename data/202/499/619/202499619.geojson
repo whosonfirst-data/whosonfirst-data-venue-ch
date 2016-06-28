@@ -2,13 +2,14 @@
   "id": 202499619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.701081,47.258392,8.701081,47.258392",
     "geom:latitude":47.258392,
     "geom:longitude":8.701081,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbestrasse 5b 8708 M\u00e4nnedorf. Postfach 879",
     "sg:city":"M\u00e4nnedorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202499619,
-    "wof:lastmodified":1449060592,
+    "wof:lastmodified":1466211427,
     "wof:name":"Fontana & Partner Ag, Architektur + Planung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.701081,47.258392,8.701081,47.258392],
+  "bbox": [
+    8.701081,
+    47.258392,
+    8.701081,
+    47.258392
+],
   "geometry": {"coordinates":[8.701081,47.258392],"type":"Point"}
 }

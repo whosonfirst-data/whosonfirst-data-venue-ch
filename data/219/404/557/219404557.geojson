@@ -2,13 +2,14 @@
   "id": 219404557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.760002,47.534584,8.760002,47.534584",
     "geom:latitude":47.534584,
     "geom:longitude":8.760002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesendangerstrasse",
     "sg:city":"Stadel(winterthur)",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219404557,
-    "wof:lastmodified":1449072733,
+    "wof:lastmodified":1466210221,
     "wof:name":"Peter Schorm Autospenglerei",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.760002,47.534584,8.760002,47.534584],
+  "bbox": [
+    8.760002,
+    47.534584,
+    8.760002,
+    47.534584
+],
   "geometry": {"coordinates":[8.760002,47.534584],"type":"Point"}
 }

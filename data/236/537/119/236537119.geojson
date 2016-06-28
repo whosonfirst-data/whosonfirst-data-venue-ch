@@ -2,13 +2,14 @@
   "id": 236537119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49432,50.869991,7.49432,50.869991",
     "geom:latitude":50.869991,
     "geom:longitude":7.49432,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eugen Huber-strasse 11 Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236537119,
-    "wof:lastmodified":1449002288,
+    "wof:lastmodified":1466212577,
     "wof:name":"H. & G. Meister Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transport"
     ]
 },
-  "bbox": [7.49432,50.869991,7.49432,50.869991],
+  "bbox": [
+    7.49432,
+    50.869991,
+    7.49432,
+    50.869991
+],
   "geometry": {"coordinates":[7.49432,50.869991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203404217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64136,46.881245,8.64136,46.881245",
     "geom:latitude":46.881245,
     "geom:longitude":8.64136,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 3",
     "sg:city":"N\u00e4fels",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203404217,
-    "wof:lastmodified":1449026240,
+    "wof:lastmodified":1466211581,
     "wof:name":"Dr.med.roman Osusky Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.64136,46.881245,8.64136,46.881245],
+  "bbox": [
+    8.64136,
+    46.881245,
+    8.64136,
+    46.881245
+],
   "geometry": {"coordinates":[8.64136,46.881245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203302037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.597406,47.260838,8.597406,47.260838",
     "geom:latitude":47.260838,
     "geom:longitude":8.597406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elisabethenstrasse 51",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203302037,
-    "wof:lastmodified":1449025554,
+    "wof:lastmodified":1466210558,
     "wof:name":"Dr.med.daniel Wieser Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.597406,47.260838,8.597406,47.260838],
+  "bbox": [
+    8.597406,
+    47.260838,
+    8.597406,
+    47.260838
+],
   "geometry": {"coordinates":[8.597406,47.260838],"type":"Point"}
 }

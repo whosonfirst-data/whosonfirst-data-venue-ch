@@ -2,13 +2,14 @@
   "id": 236135965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.725264,47.498222,8.725264,47.498222",
     "geom:latitude":47.498222,
     "geom:longitude":8.725264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Technikumstrasse 81",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236135965,
-    "wof:lastmodified":1449002817,
+    "wof:lastmodified":1466210111,
     "wof:name":"St\u00e4dtisches Bauamt Hochbau",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.725264,47.498222,8.725264,47.498222],
+  "bbox": [
+    8.725264,
+    47.498222,
+    8.725264,
+    47.498222
+],
   "geometry": {"coordinates":[8.725264,47.498222],"type":"Point"}
 }

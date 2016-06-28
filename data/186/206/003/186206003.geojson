@@ -2,13 +2,14 @@
   "id": 186206003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.896791,47.173023,8.896791,47.173023",
     "geom:latitude":47.173023,
     "geom:longitude":8.896791,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 5",
     "sg:city":"Siebnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186206003,
-    "wof:lastmodified":1449052201,
+    "wof:lastmodified":1466209132,
     "wof:name":"Schnyder Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.896791,47.173023,8.896791,47.173023],
+  "bbox": [
+    8.896791,
+    47.173023,
+    8.896791,
+    47.173023
+],
   "geometry": {"coordinates":[8.896791,47.173023],"type":"Point"}
 }

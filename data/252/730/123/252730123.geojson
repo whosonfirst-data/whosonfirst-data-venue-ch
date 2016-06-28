@@ -2,13 +2,14 @@
   "id": 252730123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.564765,46.76651,6.564765,46.76651",
     "geom:latitude":46.76651,
     "geom:longitude":6.564765,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ferme Rose",
     "sg:city":"Mathod",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252730123,
-    "wof:lastmodified":1449006346,
+    "wof:lastmodified":1466209139,
     "wof:name":"Thonney Thierry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.564765,46.76651,6.564765,46.76651],
+  "bbox": [
+    6.564765,
+    46.76651,
+    6.564765,
+    46.76651
+],
   "geometry": {"coordinates":[6.564765,46.76651],"type":"Point"}
 }

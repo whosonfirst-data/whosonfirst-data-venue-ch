@@ -2,13 +2,14 @@
   "id": 203244153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.204699,47.479931,8.204699,47.479931",
     "geom:latitude":47.479931,
     "geom:longitude":8.204699,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Othmar-schoeck-weg 30",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203244153,
-    "wof:lastmodified":1449025670,
+    "wof:lastmodified":1466209955,
     "wof:name":"Dr.med. Claudia Barth Spezial\u00e4rztin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.204699,47.479931,8.204699,47.479931],
+  "bbox": [
+    8.204699,
+    47.479931,
+    8.204699,
+    47.479931
+],
   "geometry": {"coordinates":[8.204699,47.479931],"type":"Point"}
 }

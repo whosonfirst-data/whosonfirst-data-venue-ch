@@ -2,13 +2,14 @@
   "id": 203256365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.311251,47.056187,8.311251,47.056187",
     "geom:latitude":47.056187,
     "geom:longitude":8.311251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 9",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203256365,
-    "wof:lastmodified":1449026386,
+    "wof:lastmodified":1466210091,
     "wof:name":"Dr.med. Peter Sch\u00f6nbucher Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.311251,47.056187,8.311251,47.056187],
+  "bbox": [
+    8.311251,
+    47.056187,
+    8.311251,
+    47.056187
+],
   "geometry": {"coordinates":[8.311251,47.056187],"type":"Point"}
 }

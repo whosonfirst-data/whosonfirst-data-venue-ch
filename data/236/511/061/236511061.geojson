@@ -2,13 +2,14 @@
   "id": 236511061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.283105,47.490868,8.283105,47.490868",
     "geom:latitude":47.490868,
     "geom:longitude":8.283105,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuengasse 13",
     "sg:city":"M\u00fcntschemier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236511061,
-    "wof:lastmodified":1449003122,
+    "wof:lastmodified":1466212535,
     "wof:name":"Weber Gartencenter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.283105,47.490868,8.283105,47.490868],
+  "bbox": [
+    8.283105,
+    47.490868,
+    8.283105,
+    47.490868
+],
   "geometry": {"coordinates":[8.283105,47.490868],"type":"Point"}
 }

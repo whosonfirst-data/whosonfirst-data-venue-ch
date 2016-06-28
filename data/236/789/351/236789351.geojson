@@ -2,13 +2,14 @@
   "id": 236789351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54068,47.368744,8.54068,47.368744",
     "geom:latitude":47.368744,
     "geom:longitude":8.54068,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fraum\u00fcnsterstr. 11",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236789351,
-    "wof:lastmodified":1449003082,
+    "wof:lastmodified":1466212887,
     "wof:name":"Hans G. Forrer Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sport"
     ]
 },
-  "bbox": [8.54068,47.368744,8.54068,47.368744],
+  "bbox": [
+    8.54068,
+    47.368744,
+    8.54068,
+    47.368744
+],
   "geometry": {"coordinates":[8.54068,47.368744],"type":"Point"}
 }

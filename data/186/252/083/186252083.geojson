@@ -2,13 +2,14 @@
   "id": 186252083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.561509,47.557899,7.561509,47.557899",
     "geom:latitude":47.557899,
     "geom:longitude":7.561509,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstrasse 331 4123 Allschwil. Postfach",
     "sg:city":"Allschwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186252083,
-    "wof:lastmodified":1449050658,
+    "wof:lastmodified":1466209491,
     "wof:name":"Woreba Ag",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.561509,47.557899,7.561509,47.557899],
+  "bbox": [
+    7.561509,
+    47.557899,
+    7.561509,
+    47.557899
+],
   "geometry": {"coordinates":[7.561509,47.557899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203415259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.434729,46.924595,7.434729,46.924595",
     "geom:latitude":46.924595,
     "geom:longitude":7.434729,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiligbergstrasse 38",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203415259,
-    "wof:lastmodified":1449026330,
+    "wof:lastmodified":1466211656,
     "wof:name":"Dr.med.theodor M\u00fcller Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.434729,46.924595,7.434729,46.924595],
+  "bbox": [
+    7.434729,
+    46.924595,
+    7.434729,
+    46.924595
+],
   "geometry": {"coordinates":[7.434729,46.924595],"type":"Point"}
 }

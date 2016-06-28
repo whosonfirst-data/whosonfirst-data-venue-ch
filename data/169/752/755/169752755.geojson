@@ -2,13 +2,14 @@
   "id": 169752755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455941,46.941261,7.455941,46.941261",
     "geom:latitude":46.941261,
     "geom:longitude":7.455941,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 36",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169752755,
-    "wof:lastmodified":1449033248,
+    "wof:lastmodified":1466211353,
     "wof:name":"Fonds Landschaft Schweiz (fls)",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455941,46.941261,7.455941,46.941261],
+  "bbox": [
+    7.455941,
+    46.941261,
+    7.455941,
+    46.941261
+],
   "geometry": {"coordinates":[7.455941,46.941261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185744747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455853,47.174931,7.455853,47.174931",
     "geom:latitude":47.174931,
     "geom:longitude":7.455853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrenstrasse 11",
     "sg:city":"Leuzigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185744747,
-    "wof:lastmodified":1449007174,
+    "wof:lastmodified":1466211477,
     "wof:name":"Thomas F. Gr\u00fctter Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455853,47.174931,7.455853,47.174931],
+  "bbox": [
+    7.455853,
+    47.174931,
+    7.455853,
+    47.174931
+],
   "geometry": {"coordinates":[7.455853,47.174931],"type":"Point"}
 }

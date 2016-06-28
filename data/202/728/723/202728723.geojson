@@ -2,13 +2,14 @@
   "id": 202728723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.60713,46.338505,8.60713,46.338505",
     "geom:latitude":46.338505,
     "geom:longitude":8.60713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6676 Bignasco. Postfach",
     "sg:city":"Bignasco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202728723,
-    "wof:lastmodified":1449060697,
+    "wof:lastmodified":1466210853,
     "wof:name":"Studio Tecnico Rl Di Renato Lampert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.60713,46.338505,8.60713,46.338505],
+  "bbox": [
+    8.60713,
+    46.338505,
+    8.60713,
+    46.338505
+],
   "geometry": {"coordinates":[8.60713,46.338505],"type":"Point"}
 }

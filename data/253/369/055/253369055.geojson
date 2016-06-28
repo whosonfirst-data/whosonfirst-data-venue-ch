@@ -2,13 +2,14 @@
   "id": 253369055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.729843,47.500187,8.729843,47.500187",
     "geom:latitude":47.500187,
     "geom:longitude":8.729843,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadthausstrasse 57 8400 Winterthur. Postfach 1057",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253369055,
-    "wof:lastmodified":1449065647,
+    "wof:lastmodified":1466212152,
     "wof:name":"Evangelische Buchhandlung Im Rathaus",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.729843,47.500187,8.729843,47.500187],
+  "bbox": [
+    8.729843,
+    47.500187,
+    8.729843,
+    47.500187
+],
   "geometry": {"coordinates":[8.729843,47.500187],"type":"Point"}
 }

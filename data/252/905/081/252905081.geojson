@@ -2,13 +2,14 @@
   "id": 252905081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.727464,47.498932,8.727464,47.498932",
     "geom:latitude":47.498932,
     "geom:longitude":8.727464,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 1",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252905081,
-    "wof:lastmodified":1449005844,
+    "wof:lastmodified":1466211048,
     "wof:name":"El Tumi Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.727464,47.498932,8.727464,47.498932],
+  "bbox": [
+    8.727464,
+    47.498932,
+    8.727464,
+    47.498932
+],
   "geometry": {"coordinates":[8.727464,47.498932],"type":"Point"}
 }

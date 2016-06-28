@@ -2,13 +2,14 @@
   "id": 186199611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.847015,47.113388,6.847015,47.113388",
     "geom:latitude":47.113388,
     "geom:longitude":6.847015,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lettenstrasse 1",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186199611,
-    "wof:lastmodified":1449050521,
+    "wof:lastmodified":1466209085,
     "wof:name":"Sareg Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.847015,47.113388,6.847015,47.113388],
+  "bbox": [
+    6.847015,
+    47.113388,
+    6.847015,
+    47.113388
+],
   "geometry": {"coordinates":[6.847015,47.113388],"type":"Point"}
 }

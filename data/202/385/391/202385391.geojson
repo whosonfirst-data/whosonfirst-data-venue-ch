@@ -2,13 +2,14 @@
   "id": 202385391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.99543,47.255852,6.99543,47.255852",
     "geom:latitude":47.255852,
     "geom:longitude":6.99543,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gru\u00e8re Rue De La 10",
     "sg:city":"Saignel\u00e9gier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202385391,
-    "wof:lastmodified":1449061619,
+    "wof:lastmodified":1466209448,
     "wof:name":"Atb Sa, Succursale De Saignel\u00e9gier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.99543,47.255852,6.99543,47.255852],
+  "bbox": [
+    6.99543,
+    47.255852,
+    6.99543,
+    47.255852
+],
   "geometry": {"coordinates":[6.99543,47.255852],"type":"Point"}
 }

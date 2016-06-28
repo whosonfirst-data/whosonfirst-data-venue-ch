@@ -2,13 +2,14 @@
   "id": 236258269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.055008,46.296967,7.055008,46.296967",
     "geom:latitude":46.296967,
     "geom:longitude":7.055008,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chalet Tzi-m\u00e9 1884 Villars-sur-ollon. Postfach",
     "sg:city":"Villars-sur-ollon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236258269,
-    "wof:lastmodified":1449004431,
+    "wof:lastmodified":1466211443,
     "wof:name":"Golf Des Alpes Vaudoises Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.055008,46.296967,7.055008,46.296967],
+  "bbox": [
+    7.055008,
+    46.296967,
+    7.055008,
+    46.296967
+],
   "geometry": {"coordinates":[7.055008,46.296967],"type":"Point"}
 }

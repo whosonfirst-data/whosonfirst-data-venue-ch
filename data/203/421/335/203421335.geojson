@@ -2,13 +2,14 @@
   "id": 203421335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.844208,46.681316,7.844208,46.681316",
     "geom:latitude":46.681316,
     "geom:longitude":7.844208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalweg 3",
     "sg:city":"Unterseen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203421335,
-    "wof:lastmodified":1449026178,
+    "wof:lastmodified":1466211801,
     "wof:name":"Dr.med.ueli Corrodi Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.844208,46.681316,7.844208,46.681316],
+  "bbox": [
+    7.844208,
+    46.681316,
+    7.844208,
+    46.681316
+],
   "geometry": {"coordinates":[7.844208,46.681316],"type":"Point"}
 }

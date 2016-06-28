@@ -2,13 +2,14 @@
   "id": 169678889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.245451,47.412502,9.245451,47.412502",
     "geom:latitude":47.412502,
     "geom:longitude":9.245451,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bedastrasse 30",
     "sg:city":"Gossau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169678889,
-    "wof:lastmodified":1449034273,
+    "wof:lastmodified":1466210516,
     "wof:name":"Br\u00fccker Druckerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "poster"
     ]
 },
-  "bbox": [9.245451,47.412502,9.245451,47.412502],
+  "bbox": [
+    9.245451,
+    47.412502,
+    9.245451,
+    47.412502
+],
   "geometry": {"coordinates":[9.245451,47.412502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186079439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49556,46.309929,7.49556,46.309929",
     "geom:latitude":46.309929,
     "geom:longitude":7.49556,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3975",
     "sg:city":"Bluche-randogne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186079439,
-    "wof:lastmodified":1449052556,
+    "wof:lastmodified":1466210539,
     "wof:name":"Gasser Bernard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.49556,46.309929,7.49556,46.309929],
+  "bbox": [
+    7.49556,
+    46.309929,
+    7.49556,
+    46.309929
+],
   "geometry": {"coordinates":[7.49556,46.309929],"type":"Point"}
 }

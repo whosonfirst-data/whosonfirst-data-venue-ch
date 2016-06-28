@@ -2,13 +2,14 @@
   "id": 202868909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.313133,47.454708,8.313133,47.454708",
     "geom:latitude":47.454708,
     "geom:longitude":8.313133,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterstrasse 42",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202868909,
-    "wof:lastmodified":1449060212,
+    "wof:lastmodified":1466211997,
     "wof:name":"Transform Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.313133,47.454708,8.313133,47.454708],
+  "bbox": [
+    8.313133,
+    47.454708,
+    8.313133,
+    47.454708
+],
   "geometry": {"coordinates":[8.313133,47.454708],"type":"Point"}
 }

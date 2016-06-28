@@ -2,13 +2,14 @@
   "id": 202761481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59666,47.411743,8.59666,47.411743",
     "geom:latitude":47.411743,
     "geom:longitude":8.59666,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugutstrasse 16 8304 Wallisellen. Postfach 11",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202761481,
-    "wof:lastmodified":1449062054,
+    "wof:lastmodified":1466211168,
     "wof:name":"Walther Ingenieurb\u00fcro Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59666,47.411743,8.59666,47.411743],
+  "bbox": [
+    8.59666,
+    47.411743,
+    8.59666,
+    47.411743
+],
   "geometry": {"coordinates":[8.59666,47.411743],"type":"Point"}
 }

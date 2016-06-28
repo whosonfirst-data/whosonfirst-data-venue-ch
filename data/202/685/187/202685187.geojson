@@ -2,13 +2,14 @@
   "id": 202685187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.275536,47.60331,8.275536,47.60331",
     "geom:latitude":47.60331,
     "geom:longitude":8.275536,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrglen 209",
     "sg:city":"Rietheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202685187,
-    "wof:lastmodified":1449062568,
+    "wof:lastmodified":1466210450,
     "wof:name":"Riemenschneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.275536,47.60331,8.275536,47.60331],
+  "bbox": [
+    8.275536,
+    47.60331,
+    8.275536,
+    47.60331
+],
   "geometry": {"coordinates":[8.275536,47.60331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236610569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.544046,47.406826,7.544046,47.406826",
     "geom:latitude":47.406826,
     "geom:longitude":7.544046,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alice Vogt-strasse 4",
     "sg:city":"Breitenbach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236610569,
-    "wof:lastmodified":1449005186,
+    "wof:lastmodified":1466212696,
     "wof:name":"Elektro Joray & Specht Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cad"
     ]
 },
-  "bbox": [7.544046,47.406826,7.544046,47.406826],
+  "bbox": [
+    7.544046,
+    47.406826,
+    7.544046,
+    47.406826
+],
   "geometry": {"coordinates":[7.544046,47.406826],"type":"Point"}
 }

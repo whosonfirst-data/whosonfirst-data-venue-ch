@@ -2,13 +2,14 @@
   "id": 185826623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.073255,47.058941,8.073255,47.058941",
     "geom:latitude":47.058941,
     "geom:longitude":8.073255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosei 341",
     "sg:city":"Wolhusen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185826623,
-    "wof:lastmodified":1449007761,
+    "wof:lastmodified":1466209296,
     "wof:name":"Zemp Wolhusen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dehumidification"
     ]
 },
-  "bbox": [8.073255,47.058941,8.073255,47.058941],
+  "bbox": [
+    8.073255,
+    47.058941,
+    8.073255,
+    47.058941
+],
   "geometry": {"coordinates":[8.073255,47.058941],"type":"Point"}
 }

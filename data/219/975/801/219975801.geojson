@@ -2,13 +2,14 @@
   "id": 219975801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.873512,46.459381,6.873512,46.459381",
     "geom:latitude":46.459381,
     "geom:longitude":6.873512,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Croisettes 28",
     "sg:city":"Epalinges",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219975801,
-    "wof:lastmodified":1449073427,
+    "wof:lastmodified":1466212814,
     "wof:name":"Sanic Soci\u00e9t\u00e9 Ing\u00e9nieurs Civils S\u00e0rl",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.873512,46.459381,6.873512,46.459381],
+  "bbox": [
+    6.873512,
+    46.459381,
+    6.873512,
+    46.459381
+],
   "geometry": {"coordinates":[6.873512,46.459381],"type":"Point"}
 }

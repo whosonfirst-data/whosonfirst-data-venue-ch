@@ -2,13 +2,14 @@
   "id": 219789789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.359607,46.232094,7.359607,46.232094",
     "geom:latitude":46.232094,
     "geom:longitude":7.359607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Remparts 17",
     "sg:city":"Sion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219789789,
-    "wof:lastmodified":1449071991,
+    "wof:lastmodified":1466212430,
     "wof:name":"Bar-pub Du Soleil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.359607,46.232094,7.359607,46.232094],
+  "bbox": [
+    7.359607,
+    46.232094,
+    7.359607,
+    46.232094
+],
   "geometry": {"coordinates":[7.359607,46.232094],"type":"Point"}
 }

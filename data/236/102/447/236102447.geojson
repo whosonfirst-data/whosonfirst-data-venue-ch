@@ -2,13 +2,14 @@
   "id": 236102447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.596245,47.571346,7.596245,47.571346",
     "geom:latitude":47.571346,
     "geom:longitude":7.596245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Horburgstrasse 96-98 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236102447,
-    "wof:lastmodified":1449004956,
+    "wof:lastmodified":1466209815,
     "wof:name":"Gebr. Vollmer Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.596245,47.571346,7.596245,47.571346],
+  "bbox": [
+    7.596245,
+    47.571346,
+    7.596245,
+    47.571346
+],
   "geometry": {"coordinates":[7.596245,47.571346],"type":"Point"}
 }

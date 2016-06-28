@@ -2,13 +2,14 @@
   "id": 219212395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43089,46.94508,7.43089,46.94508",
     "geom:latitude":46.94508,
     "geom:longitude":7.43089,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haslerstrasse 21",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219212395,
-    "wof:lastmodified":1449072671,
+    "wof:lastmodified":1466211090,
     "wof:name":"Carta L\u00fcthi & Ramseier",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "atlas"
     ]
 },
-  "bbox": [7.43089,46.94508,7.43089,46.94508],
+  "bbox": [
+    7.43089,
+    46.94508,
+    7.43089,
+    46.94508
+],
   "geometry": {"coordinates":[7.43089,46.94508],"type":"Point"}
 }

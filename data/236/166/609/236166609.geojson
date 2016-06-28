@@ -2,13 +2,14 @@
   "id": 236166609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551729,47.046753,8.551729,47.046753",
     "geom:latitude":47.046753,
     "geom:longitude":8.551729,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcgelweg 8",
     "sg:city":"Goldau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236166609,
-    "wof:lastmodified":1449003508,
+    "wof:lastmodified":1466210439,
     "wof:name":"Schatzmann Seminare Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.551729,47.046753,8.551729,47.046753],
+  "bbox": [
+    8.551729,
+    47.046753,
+    8.551729,
+    47.046753
+],
   "geometry": {"coordinates":[8.551729,47.046753],"type":"Point"}
 }

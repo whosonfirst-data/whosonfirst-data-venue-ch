@@ -2,13 +2,14 @@
   "id": 186318811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.841866,46.707157,6.841866,46.707157",
     "geom:latitude":46.707157,
     "geom:longitude":6.841866,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Payerne 2 1522 Lucens Case Postale 47",
     "sg:city":"Lucens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186318811,
-    "wof:lastmodified":1449050984,
+    "wof:lastmodified":1466209969,
     "wof:name":"Zaretti Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.841866,46.707157,6.841866,46.707157],
+  "bbox": [
+    6.841866,
+    46.707157,
+    6.841866,
+    46.707157
+],
   "geometry": {"coordinates":[6.841866,46.707157],"type":"Point"}
 }

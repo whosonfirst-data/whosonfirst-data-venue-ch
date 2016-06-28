@@ -2,13 +2,14 @@
   "id": 253094803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.139426,46.199486,6.139426,46.199486",
     "geom:latitude":46.199486,
     "geom:longitude":6.139426,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Cossonay 21",
     "sg:city":"Prilly",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253094803,
-    "wof:lastmodified":1449064672,
+    "wof:lastmodified":1466209872,
     "wof:name":"Philippe P\u00e9dat Optique",
     "wof:parent_id":85897661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.139426,46.199486,6.139426,46.199486],
+  "bbox": [
+    6.139426,
+    46.199486,
+    6.139426,
+    46.199486
+],
   "geometry": {"coordinates":[6.139426,46.199486],"type":"Point"}
 }

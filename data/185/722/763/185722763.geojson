@@ -2,13 +2,14 @@
   "id": 185722763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533507,47.36573,8.533507,47.36573",
     "geom:latitude":47.36573,
     "geom:longitude":8.533507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Genferstrasse 33 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185722763,
-    "wof:lastmodified":1449007155,
+    "wof:lastmodified":1466211287,
     "wof:name":"Lic. Jur. Gondini A. Fravi Anwaltskanzlei",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533507,47.36573,8.533507,47.36573],
+  "bbox": [
+    8.533507,
+    47.36573,
+    8.533507,
+    47.36573
+],
   "geometry": {"coordinates":[8.533507,47.36573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236355743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.466568,47.434315,8.466568,47.434315",
     "geom:latitude":47.434315,
     "geom:longitude":8.466568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 73",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236355743,
-    "wof:lastmodified":1449002389,
+    "wof:lastmodified":1466212099,
     "wof:name":"Oberstufenschule Ruggenacher I",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.466568,47.434315,8.466568,47.434315],
+  "bbox": [
+    8.466568,
+    47.434315,
+    8.466568,
+    47.434315
+],
   "geometry": {"coordinates":[8.466568,47.434315],"type":"Point"}
 }

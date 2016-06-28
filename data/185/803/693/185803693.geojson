@@ -2,13 +2,14 @@
   "id": 185803693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.615835,47.411716,8.615835,47.411716",
     "geom:latitude":47.411716,
     "geom:longitude":8.615835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Widenholzstrasse 1",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185803693,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1466209148,
     "wof:name":"Hts Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aerospace"
     ]
 },
-  "bbox": [8.615835,47.411716,8.615835,47.411716],
+  "bbox": [
+    8.615835,
+    47.411716,
+    8.615835,
+    47.411716
+],
   "geometry": {"coordinates":[8.615835,47.411716],"type":"Point"}
 }

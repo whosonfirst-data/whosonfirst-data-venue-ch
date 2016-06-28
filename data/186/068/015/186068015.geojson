@@ -2,13 +2,14 @@
   "id": 186068015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.49864,47.005276,9.49864,47.005276",
     "geom:latitude":47.005276,
     "geom:longitude":9.49864,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 17",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186068015,
-    "wof:lastmodified":1449051751,
+    "wof:lastmodified":1466211666,
     "wof:name":"Falknis Bauleistungen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.49864,47.005276,9.49864,47.005276],
+  "bbox": [
+    9.49864,
+    47.005276,
+    9.49864,
+    47.005276
+],
   "geometry": {"coordinates":[9.49864,47.005276],"type":"Point"}
 }

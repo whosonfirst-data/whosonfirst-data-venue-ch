@@ -2,13 +2,14 @@
   "id": 202761371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.478002,46.955467,7.478002,46.955467",
     "geom:latitude":46.955467,
     "geom:longitude":7.478002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldeckstrasse 17",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202761371,
-    "wof:lastmodified":1449062054,
+    "wof:lastmodified":1466211166,
     "wof:name":"Walter Straub",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.478002,46.955467,7.478002,46.955467],
+  "bbox": [
+    7.478002,
+    46.955467,
+    7.478002,
+    46.955467
+],
   "geometry": {"coordinates":[7.478002,46.955467],"type":"Point"}
 }

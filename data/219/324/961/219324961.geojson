@@ -2,13 +2,14 @@
   "id": 219324961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.609722,47.536591,7.609722,47.536591",
     "geom:latitude":47.536591,
     "geom:longitude":7.609722,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Br\u00fcglingerstrasse 2 4053 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219324961,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466209478,
     "wof:name":"Emil Frey Ag Olympic Garage",
     "wof:parent_id":85799987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.609722,47.536591,7.609722,47.536591],
+  "bbox": [
+    7.609722,
+    47.536591,
+    7.609722,
+    47.536591
+],
   "geometry": {"coordinates":[7.609722,47.536591],"type":"Point"}
 }

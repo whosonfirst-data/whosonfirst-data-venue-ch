@@ -2,13 +2,14 @@
   "id": 219836201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.961048,46.359711,8.961048,46.359711",
     "geom:latitude":46.359711,
     "geom:longitude":8.961048,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Al Ponte 2",
     "sg:city":"Biasca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219836201,
-    "wof:lastmodified":1449072719,
+    "wof:lastmodified":1466212532,
     "wof:name":"Bar Del Ponte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.961048,46.359711,8.961048,46.359711],
+  "bbox": [
+    8.961048,
+    46.359711,
+    8.961048,
+    46.359711
+],
   "geometry": {"coordinates":[8.961048,46.359711],"type":"Point"}
 }

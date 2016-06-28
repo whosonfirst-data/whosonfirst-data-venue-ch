@@ -2,13 +2,14 @@
   "id": 186008779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.868782,47.266678,8.868782,47.266678",
     "geom:latitude":47.266678,
     "geom:longitude":8.868782,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Z\u00fcbli 26 8730 Uznach. Postfach",
     "sg:city":"Uznach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186008779,
-    "wof:lastmodified":1449051222,
+    "wof:lastmodified":1466209169,
     "wof:name":"Bachmann Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.868782,47.266678,8.868782,47.266678],
+  "bbox": [
+    8.868782,
+    47.266678,
+    8.868782,
+    47.266678
+],
   "geometry": {"coordinates":[8.868782,47.266678],"type":"Point"}
 }

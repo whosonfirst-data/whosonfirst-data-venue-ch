@@ -2,13 +2,14 @@
   "id": 186418715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.685123,47.180298,7.685123,47.180298",
     "geom:latitude":47.180298,
     "geom:longitude":7.685123,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendweg 6",
     "sg:city":"Ober\u00f6nz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186418715,
-    "wof:lastmodified":1449052426,
+    "wof:lastmodified":1466210749,
     "wof:name":"Baureno Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.685123,47.180298,7.685123,47.180298],
+  "bbox": [
+    7.685123,
+    47.180298,
+    7.685123,
+    47.180298
+],
   "geometry": {"coordinates":[7.685123,47.180298],"type":"Point"}
 }

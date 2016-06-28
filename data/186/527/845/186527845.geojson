@@ -2,13 +2,14 @@
   "id": 186527845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.585738,47.309212,8.585738,47.309212",
     "geom:latitude":47.309212,
     "geom:longitude":8.585738,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"4537",
     "sg:city":"Wiedlisbach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186527845,
-    "wof:lastmodified":1449052455,
+    "wof:lastmodified":1466211652,
     "wof:name":"Pflegeheim Am See",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.585738,47.309212,8.585738,47.309212],
+  "bbox": [
+    8.585738,
+    47.309212,
+    8.585738,
+    47.309212
+],
   "geometry": {"coordinates":[8.585738,47.309212],"type":"Point"}
 }

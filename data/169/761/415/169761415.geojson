@@ -2,13 +2,14 @@
   "id": 169761415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525448,47.310196,8.525448,47.310196",
     "geom:latitude":47.310196,
     "geom:longitude":8.525448,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisstrasse 20",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169761415,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466211447,
     "wof:name":"Helmi Sport Adliswil",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525448,47.310196,8.525448,47.310196],
+  "bbox": [
+    8.525448,
+    47.310196,
+    8.525448,
+    47.310196
+],
   "geometry": {"coordinates":[8.525448,47.310196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219711983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.756982,46.974659,8.756982,46.974659",
     "geom:latitude":46.974659,
     "geom:longitude":8.756982,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 25",
     "sg:city":"Muotathal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219711983,
-    "wof:lastmodified":1449073278,
+    "wof:lastmodified":1466212129,
     "wof:name":"Schwyzer Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.756982,46.974659,8.756982,46.974659],
+  "bbox": [
+    8.756982,
+    46.974659,
+    8.756982,
+    46.974659
+],
   "geometry": {"coordinates":[8.756982,46.974659],"type":"Point"}
 }

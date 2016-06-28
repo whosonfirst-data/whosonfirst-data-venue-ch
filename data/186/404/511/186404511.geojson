@@ -2,13 +2,14 @@
   "id": 186404511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.245886,47.126392,8.245886,47.126392",
     "geom:latitude":47.126392,
     "geom:longitude":8.245886,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 61",
     "sg:city":"Rain",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186404511,
-    "wof:lastmodified":1449052148,
+    "wof:lastmodified":1466210634,
     "wof:name":"Felder Werner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.245886,47.126392,8.245886,47.126392],
+  "bbox": [
+    8.245886,
+    47.126392,
+    8.245886,
+    47.126392
+],
   "geometry": {"coordinates":[8.245886,47.126392],"type":"Point"}
 }

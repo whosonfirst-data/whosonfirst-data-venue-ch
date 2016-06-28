@@ -2,13 +2,14 @@
   "id": 220074621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.45672,47.14748,7.45672,47.14748",
     "geom:latitude":47.14748,
     "geom:longitude":7.45672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1947",
     "sg:city":"Verseg\u00e8res",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220074621,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1466209525,
     "wof:name":"Berger Fritz.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.45672,47.14748,7.45672,47.14748],
+  "bbox": [
+    7.45672,
+    47.14748,
+    7.45672,
+    47.14748
+],
   "geometry": {"coordinates":[7.45672,47.14748],"type":"Point"}
 }

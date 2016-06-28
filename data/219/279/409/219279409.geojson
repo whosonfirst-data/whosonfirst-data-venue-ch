@@ -2,13 +2,14 @@
   "id": 219279409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.248131,47.344948,8.248131,47.344948",
     "geom:latitude":47.344948,
     "geom:longitude":8.248131,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wohlerstrasse 9",
     "sg:city":"Villmergen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219279409,
-    "wof:lastmodified":1449072019,
+    "wof:lastmodified":1466209056,
     "wof:name":"Garage Rex Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.248131,47.344948,8.248131,47.344948],
+  "bbox": [
+    8.248131,
+    47.344948,
+    8.248131,
+    47.344948
+],
   "geometry": {"coordinates":[8.248131,47.344948],"type":"Point"}
 }

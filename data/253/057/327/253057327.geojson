@@ -2,13 +2,14 @@
   "id": 253057327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.608495,46.519135,6.608495,46.519135",
     "geom:latitude":46.519135,
     "geom:longitude":6.608495,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Capelard 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253057327,
-    "wof:lastmodified":1449064282,
+    "wof:lastmodified":1466209494,
     "wof:name":"La Corbeille Fleurie, Blanchet Antoinette",
     "wof:parent_id":85800225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.608495,46.519135,6.608495,46.519135],
+  "bbox": [
+    6.608495,
+    46.519135,
+    6.608495,
+    46.519135
+],
   "geometry": {"coordinates":[6.608495,46.519135],"type":"Point"}
 }

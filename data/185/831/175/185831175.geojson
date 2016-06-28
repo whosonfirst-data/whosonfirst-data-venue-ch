@@ -2,13 +2,14 @@
   "id": 185831175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.841835,46.465565,6.841835,46.465565",
     "geom:latitude":46.465565,
     "geom:longitude":6.841835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 3",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185831175,
-    "wof:lastmodified":1449007557,
+    "wof:lastmodified":1466209331,
     "wof:name":"Soci\u00c9t\u00c9 Des Entrep\u00d4ts Vevey Sa",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "road"
     ]
 },
-  "bbox": [6.841835,46.465565,6.841835,46.465565],
+  "bbox": [
+    6.841835,
+    46.465565,
+    6.841835,
+    46.465565
+],
   "geometry": {"coordinates":[6.841835,46.465565],"type":"Point"}
 }

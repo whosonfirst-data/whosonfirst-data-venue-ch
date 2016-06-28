@@ -2,13 +2,14 @@
   "id": 219185265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.532025,46.723549,6.532025,46.723549",
     "geom:latitude":46.723549,
     "geom:longitude":6.532025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Ste-claire 3",
     "sg:city":"Orbe",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219185265,
-    "wof:lastmodified":1449070965,
+    "wof:lastmodified":1466210679,
     "wof:name":"Drs M\u00e9d. B. & M. Lasserre M\u00e9decins G\u00e9n\u00e9ralistes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.532025,46.723549,6.532025,46.723549],
+  "bbox": [
+    6.532025,
+    46.723549,
+    6.532025,
+    46.723549
+],
   "geometry": {"coordinates":[6.532025,46.723549],"type":"Point"}
 }

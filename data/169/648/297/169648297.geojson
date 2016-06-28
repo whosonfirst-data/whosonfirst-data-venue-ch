@@ -2,13 +2,14 @@
   "id": 169648297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.444665,47.271519,8.444665,47.271519",
     "geom:latitude":47.271519,
     "geom:longitude":8.444665,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 47",
     "sg:city":"Adelboden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169648297,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466210052,
     "wof:name":"Varga & Rajgl Metall Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bathroom"
     ]
 },
-  "bbox": [8.444665,47.271519,8.444665,47.271519],
+  "bbox": [
+    8.444665,
+    47.271519,
+    8.444665,
+    47.271519
+],
   "geometry": {"coordinates":[8.444665,47.271519],"type":"Point"}
 }

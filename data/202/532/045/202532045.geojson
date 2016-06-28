@@ -2,13 +2,14 @@
   "id": 202532045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.505871,47.107449,8.505871,47.107449",
     "geom:latitude":47.107449,
     "geom:longitude":8.505871,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerstrasse 76",
     "sg:city":"Walchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202532045,
-    "wof:lastmodified":1449060970,
+    "wof:lastmodified":1466209019,
     "wof:name":"Hans Beat Fehlmann Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.505871,47.107449,8.505871,47.107449],
+  "bbox": [
+    8.505871,
+    47.107449,
+    8.505871,
+    47.107449
+],
   "geometry": {"coordinates":[8.505871,47.107449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202645515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.627643,47.659763,8.627643,47.659763",
     "geom:latitude":47.659763,
     "geom:longitude":8.627643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sunnenbergstr. 43",
     "sg:city":"Dachsen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202645515,
-    "wof:lastmodified":1449060368,
+    "wof:lastmodified":1466210083,
     "wof:name":"Nobbe-tec Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.627643,47.659763,8.627643,47.659763],
+  "bbox": [
+    8.627643,
+    47.659763,
+    8.627643,
+    47.659763
+],
   "geometry": {"coordinates":[8.627643,47.659763],"type":"Point"}
 }

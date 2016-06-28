@@ -2,13 +2,14 @@
   "id": 203342745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.735962,47.536663,8.735962,47.536663",
     "geom:latitude":47.536663,
     "geom:longitude":8.735962,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stationsstrasse 35",
     "sg:city":"Seuzach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203342745,
-    "wof:lastmodified":1449026742,
+    "wof:lastmodified":1466210956,
     "wof:name":"Dr.med.heinz L\u00e4tsch Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.735962,47.536663,8.735962,47.536663],
+  "bbox": [
+    8.735962,
+    47.536663,
+    8.735962,
+    47.536663
+],
   "geometry": {"coordinates":[8.735962,47.536663],"type":"Point"}
 }

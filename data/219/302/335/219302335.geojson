@@ -2,13 +2,14 @@
   "id": 219302335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.8026,47.06081,8.8026,47.06081",
     "geom:latitude":47.06081,
     "geom:longitude":8.8026,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmalzgrubenstrasse 17",
     "sg:city":"Unteriberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219302335,
-    "wof:lastmodified":1449071592,
+    "wof:lastmodified":1466209266,
     "wof:name":"Meinrad Fuchs Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.8026,47.06081,8.8026,47.06081],
+  "bbox": [
+    8.8026,
+    47.06081,
+    8.8026,
+    47.06081
+],
   "geometry": {"coordinates":[8.8026,47.06081],"type":"Point"}
 }

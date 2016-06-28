@@ -2,13 +2,14 @@
   "id": 219784123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.84664,46.179573,8.84664,46.179573",
     "geom:latitude":46.179573,
     "geom:longitude":8.84664,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S.gottardo",
     "sg:city":"Tenero",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219784123,
-    "wof:lastmodified":1449072743,
+    "wof:lastmodified":1466212419,
     "wof:name":"Bar Piazza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.84664,46.179573,8.84664,46.179573],
+  "bbox": [
+    8.84664,
+    46.179573,
+    8.84664,
+    46.179573
+],
   "geometry": {"coordinates":[8.84664,46.179573],"type":"Point"}
 }

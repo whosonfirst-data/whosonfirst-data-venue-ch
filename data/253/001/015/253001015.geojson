@@ -2,13 +2,14 @@
   "id": 253001015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.025541,47.043423,7.025541,47.043423",
     "geom:latitude":47.043423,
     "geom:longitude":7.025541,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstrasse 9",
     "sg:city":"F\u00fcllinsdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253001015,
-    "wof:lastmodified":1449063479,
+    "wof:lastmodified":1466208955,
     "wof:name":"Norma Masseroni Atelier De Rideaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.025541,47.043423,7.025541,47.043423],
+  "bbox": [
+    7.025541,
+    47.043423,
+    7.025541,
+    47.043423
+],
   "geometry": {"coordinates":[7.025541,47.043423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186381319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.180222,46.617252,9.180222,46.617252",
     "geom:latitude":46.617252,
     "geom:longitude":9.180222,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vall\u00e9e",
     "sg:city":"Vals",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186381319,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466210444,
     "wof:name":"Schmid Richard Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.180222,46.617252,9.180222,46.617252],
+  "bbox": [
+    9.180222,
+    46.617252,
+    9.180222,
+    46.617252
+],
   "geometry": {"coordinates":[9.180222,46.617252],"type":"Point"}
 }

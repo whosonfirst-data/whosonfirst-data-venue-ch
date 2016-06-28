@@ -2,13 +2,14 @@
   "id": 186625331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.637714,46.881176,8.637714,46.881176",
     "geom:latitude":46.881176,
     "geom:longitude":8.637714,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poste Rue De La 1",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186625331,
-    "wof:lastmodified":1449053063,
+    "wof:lastmodified":1466212086,
     "wof:name":"Agro-planung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.637714,46.881176,8.637714,46.881176],
+  "bbox": [
+    8.637714,
+    46.881176,
+    8.637714,
+    46.881176
+],
   "geometry": {"coordinates":[8.637714,46.881176],"type":"Point"}
 }

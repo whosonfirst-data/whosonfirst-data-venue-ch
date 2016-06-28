@@ -2,13 +2,14 @@
   "id": 185828057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.725863,47.501949,7.725863,47.501949",
     "geom:latitude":47.501949,
     "geom:longitude":7.725863,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlerainstrasse 26",
     "sg:city":"F\u00fcllinsdorf",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185828057,
-    "wof:lastmodified":1449007451,
+    "wof:lastmodified":1466209305,
     "wof:name":"Pneumatex Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "unit"
     ]
 },
-  "bbox": [7.725863,47.501949,7.725863,47.501949],
+  "bbox": [
+    7.725863,
+    47.501949,
+    7.725863,
+    47.501949
+],
   "geometry": {"coordinates":[7.725863,47.501949],"type":"Point"}
 }

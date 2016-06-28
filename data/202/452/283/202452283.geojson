@@ -2,13 +2,14 @@
   "id": 202452283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.800367,46.667496,6.800367,46.667496",
     "geom:latitude":46.667496,
     "geom:longitude":6.800367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poyet Rue Du 9",
     "sg:city":"Moudon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202452283,
-    "wof:lastmodified":1449060705,
+    "wof:lastmodified":1466210861,
     "wof:name":"Compagnie D'\u00e9tudes Techniques Et De Planification (cetp) Sa, Succursale De Moudon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.800367,46.667496,6.800367,46.667496],
+  "bbox": [
+    6.800367,
+    46.667496,
+    6.800367,
+    46.667496
+],
   "geometry": {"coordinates":[6.800367,46.667496],"type":"Point"}
 }

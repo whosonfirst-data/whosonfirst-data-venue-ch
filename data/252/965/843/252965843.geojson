@@ -2,13 +2,14 @@
   "id": 252965843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.61967,47.510036,7.61967,47.510036",
     "geom:latitude":47.510036,
     "geom:longitude":7.61967,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lehengasse 22",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252965843,
-    "wof:lastmodified":1449006156,
+    "wof:lastmodified":1466211653,
     "wof:name":"Edi Fischer",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.61967,47.510036,7.61967,47.510036],
+  "bbox": [
+    7.61967,
+    47.510036,
+    7.61967,
+    47.510036
+],
   "geometry": {"coordinates":[7.61967,47.510036],"type":"Point"}
 }

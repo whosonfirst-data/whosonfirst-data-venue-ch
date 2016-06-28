@@ -2,13 +2,14 @@
   "id": 252922331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65202,47.58482,7.65202,47.58482",
     "geom:latitude":47.58482,
     "geom:longitude":7.65202,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Stazione 2 6600 Muralto. Postfach",
     "sg:city":"Muralto",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252922331,
-    "wof:lastmodified":1449005512,
+    "wof:lastmodified":1466211245,
     "wof:name":"Wundert\u00fcte Schwob & Heim Gmbh",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65202,47.58482,7.65202,47.58482],
+  "bbox": [
+    7.65202,
+    47.58482,
+    7.65202,
+    47.58482
+],
   "geometry": {"coordinates":[7.65202,47.58482],"type":"Point"}
 }

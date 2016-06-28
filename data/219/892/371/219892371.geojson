@@ -2,13 +2,14 @@
   "id": 219892371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.793382,47.209923,7.793382,47.209923",
     "geom:latitude":47.209923,
     "geom:longitude":7.793382,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aufhabenweg 6a",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219892371,
-    "wof:lastmodified":1449070908,
+    "wof:lastmodified":1466212615,
     "wof:name":"Wohnbaugen.amberland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.793382,47.209923,7.793382,47.209923],
+  "bbox": [
+    7.793382,
+    47.209923,
+    7.793382,
+    47.209923
+],
   "geometry": {"coordinates":[7.793382,47.209923],"type":"Point"}
 }

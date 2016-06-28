@@ -2,13 +2,14 @@
   "id": 252791965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451333,46.948116,7.451333,46.948116",
     "geom:latitude":46.948116,
     "geom:longitude":7.451333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugasse 9 6300 Zug. Postfach 534",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252791965,
-    "wof:lastmodified":1449006258,
+    "wof:lastmodified":1466209808,
     "wof:name":"Galerie Zeller Mich\u00e8le Kunstgalerie M Wechselausstellungen \u00fcber Zeitgen.schmuck U Bild.kunst",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.451333,46.948116,7.451333,46.948116],
+  "bbox": [
+    7.451333,
+    46.948116,
+    7.451333,
+    46.948116
+],
   "geometry": {"coordinates":[7.451333,46.948116],"type":"Point"}
 }

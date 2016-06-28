@@ -2,13 +2,14 @@
   "id": 186532709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.592034,47.541058,7.592034,47.541058",
     "geom:latitude":47.541058,
     "geom:longitude":7.592034,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruderholzstrasse 104",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186532709,
-    "wof:lastmodified":1449051285,
+    "wof:lastmodified":1466211779,
     "wof:name":"Stiftung Alters Und Pflegeheim Gundeldingen",
     "wof:parent_id":85799909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.592034,47.541058,7.592034,47.541058],
+  "bbox": [
+    7.592034,
+    47.541058,
+    7.592034,
+    47.541058
+],
   "geometry": {"coordinates":[7.592034,47.541058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186339161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.166888,47.431862,8.166888,47.431862",
     "geom:latitude":47.431862,
     "geom:longitude":8.166888,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiler Strasse 116",
     "sg:city":"Flawil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186339161,
-    "wof:lastmodified":1449051572,
+    "wof:lastmodified":1466210127,
     "wof:name":"Dobler - Bautenschutz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.166888,47.431862,8.166888,47.431862],
+  "bbox": [
+    8.166888,
+    47.431862,
+    8.166888,
+    47.431862
+],
   "geometry": {"coordinates":[8.166888,47.431862],"type":"Point"}
 }

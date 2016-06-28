@@ -2,13 +2,14 @@
   "id": 236391175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.831985,47.549049,8.831985,47.549049",
     "geom:latitude":47.549049,
     "geom:longitude":8.831985,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schloss",
     "sg:city":"Kefikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236391175,
-    "wof:lastmodified":1449003824,
+    "wof:lastmodified":1466212217,
     "wof:name":"Institut Schloss Kefikon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.831985,47.549049,8.831985,47.549049],
+  "bbox": [
+    8.831985,
+    47.549049,
+    8.831985,
+    47.549049
+],
   "geometry": {"coordinates":[8.831985,47.549049],"type":"Point"}
 }

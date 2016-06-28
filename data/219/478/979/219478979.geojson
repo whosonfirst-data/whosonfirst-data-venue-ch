@@ -2,13 +2,14 @@
   "id": 219478979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535593,47.365948,8.535593,47.365948",
     "geom:latitude":47.365948,
     "geom:longitude":8.535593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stockerstr. 23",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219478979,
-    "wof:lastmodified":1449070488,
+    "wof:lastmodified":1466210936,
     "wof:name":"Bank Edouard Constant Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535593,47.365948,8.535593,47.365948],
+  "bbox": [
+    8.535593,
+    47.365948,
+    8.535593,
+    47.365948
+],
   "geometry": {"coordinates":[8.535593,47.365948],"type":"Point"}
 }

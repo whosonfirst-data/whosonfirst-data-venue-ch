@@ -2,13 +2,14 @@
   "id": 169865383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.29436,46.502338,7.29436,46.502338",
     "geom:latitude":46.502338,
     "geom:longitude":7.29436,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchl",
     "sg:city":"Sch\u00f6nried",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169865383,
-    "wof:lastmodified":1449035153,
+    "wof:lastmodified":1466209496,
     "wof:name":"Otto Gfeller Kl\u00e4ranlagenreinigung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.29436,46.502338,7.29436,46.502338],
+  "bbox": [
+    7.29436,
+    46.502338,
+    7.29436,
+    46.502338
+],
   "geometry": {"coordinates":[7.29436,46.502338],"type":"Point"}
 }

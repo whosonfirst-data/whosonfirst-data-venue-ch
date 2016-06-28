@@ -2,13 +2,14 @@
   "id": 185741783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52883,47.373245,8.52883,47.373245",
     "geom:latitude":47.373245,
     "geom:longitude":8.52883,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 41 8004 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185741783,
-    "wof:lastmodified":1449006669,
+    "wof:lastmodified":1466211446,
     "wof:name":"Sp\u00e4lti Schmid & Sp\u00e4lti Advokaturb\u00fcro",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52883,47.373245,8.52883,47.373245],
+  "bbox": [
+    8.52883,
+    47.373245,
+    8.52883,
+    47.373245
+],
   "geometry": {"coordinates":[8.52883,47.373245],"type":"Point"}
 }

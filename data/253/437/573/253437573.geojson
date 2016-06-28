@@ -2,13 +2,14 @@
   "id": 253437573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.441221,46.94659,7.441221,46.94659",
     "geom:latitude":46.94659,
     "geom:longitude":7.441221,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundesgasse 20",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253437573,
-    "wof:lastmodified":1449064973,
+    "wof:lastmodified":1466212515,
     "wof:name":"Popken & Co Ulla Popken Mode",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.441221,46.94659,7.441221,46.94659],
+  "bbox": [
+    7.441221,
+    46.94659,
+    7.441221,
+    46.94659
+],
   "geometry": {"coordinates":[7.441221,46.94659],"type":"Point"}
 }

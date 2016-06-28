@@ -2,13 +2,14 @@
   "id": 236651429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.711056,47.18993,8.711056,47.18993",
     "geom:latitude":47.18993,
     "geom:longitude":8.711056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrtistrasse 9",
     "sg:city":"Wollerau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236651429,
-    "wof:lastmodified":1449002169,
+    "wof:lastmodified":1466212745,
     "wof:name":"Rottermann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.711056,47.18993,8.711056,47.18993],
+  "bbox": [
+    8.711056,
+    47.18993,
+    8.711056,
+    47.18993
+],
   "geometry": {"coordinates":[8.711056,47.18993],"type":"Point"}
 }

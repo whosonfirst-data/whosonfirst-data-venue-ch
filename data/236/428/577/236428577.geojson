@@ -2,13 +2,14 @@
   "id": 236428577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.88017,46.880039,9.88017,46.880039",
     "geom:latitude":46.880039,
     "geom:longitude":9.88017,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7250",
     "sg:city":"Klosters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236428577,
-    "wof:lastmodified":1449004987,
+    "wof:lastmodified":1466212342,
     "wof:name":"Gemeindebibliothek Klosters-serneus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [9.88017,46.880039,9.88017,46.880039],
+  "bbox": [
+    9.88017,
+    46.880039,
+    9.88017,
+    46.880039
+],
   "geometry": {"coordinates":[9.88017,46.880039],"type":"Point"}
 }

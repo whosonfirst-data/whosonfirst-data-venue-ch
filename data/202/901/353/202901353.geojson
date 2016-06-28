@@ -2,13 +2,14 @@
   "id": 202901353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.94714,46.251621,6.94714,46.251621",
     "geom:latitude":46.251621,
     "geom:longitude":6.94714,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidenstrasse 13",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202901353,
-    "wof:lastmodified":1449061178,
+    "wof:lastmodified":1466212114,
     "wof:name":"Galla Patrice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.94714,46.251621,6.94714,46.251621],
+  "bbox": [
+    6.94714,
+    46.251621,
+    6.94714,
+    46.251621
+],
   "geometry": {"coordinates":[6.94714,46.251621],"type":"Point"}
 }

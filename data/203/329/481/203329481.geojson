@@ -2,13 +2,14 @@
   "id": 203329481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59261,47.415131,8.59261,47.415131",
     "geom:latitude":47.415131,
     "geom:longitude":8.59261,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiesackerstrasse 3",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203329481,
-    "wof:lastmodified":1449025434,
+    "wof:lastmodified":1466210828,
     "wof:name":"Dr.med.hans Peter Bochsler Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59261,47.415131,8.59261,47.415131],
+  "bbox": [
+    8.59261,
+    47.415131,
+    8.59261,
+    47.415131
+],
   "geometry": {"coordinates":[8.59261,47.415131],"type":"Point"}
 }

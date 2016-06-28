@@ -2,13 +2,14 @@
   "id": 236390495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.721841,47.494438,8.721841,47.494438",
     "geom:latitude":47.494438,
     "geom:longitude":8.721841,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiligbergstrasse 54",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236390495,
-    "wof:lastmodified":1449005292,
+    "wof:lastmodified":1466212099,
     "wof:name":"Freie Schule Winterthur",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.721841,47.494438,8.721841,47.494438],
+  "bbox": [
+    8.721841,
+    47.494438,
+    8.721841,
+    47.494438
+],
   "geometry": {"coordinates":[8.721841,47.494438],"type":"Point"}
 }

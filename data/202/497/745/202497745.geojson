@@ -2,13 +2,14 @@
   "id": 202497745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.781887,47.199512,8.781887,47.199512",
     "geom:latitude":47.199512,
     "geom:longitude":8.781887,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 14",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202497745,
-    "wof:lastmodified":1449062599,
+    "wof:lastmodified":1466211406,
     "wof:name":"Flattich Urs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.781887,47.199512,8.781887,47.199512],
+  "bbox": [
+    8.781887,
+    47.199512,
+    8.781887,
+    47.199512
+],
   "geometry": {"coordinates":[8.781887,47.199512],"type":"Point"}
 }

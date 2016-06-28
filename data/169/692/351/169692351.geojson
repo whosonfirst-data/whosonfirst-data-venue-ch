@@ -2,13 +2,14 @@
   "id": 169692351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54661,47.411072,8.54661,47.411072",
     "geom:latitude":47.411072,
     "geom:longitude":8.54661,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 363",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169692351,
-    "wof:lastmodified":1449033563,
+    "wof:lastmodified":1466210830,
     "wof:name":"Webline Gmbh",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [8.54661,47.411072,8.54661,47.411072],
+  "bbox": [
+    8.54661,
+    47.411072,
+    8.54661,
+    47.411072
+],
   "geometry": {"coordinates":[8.54661,47.411072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236370275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522946,47.378616,8.522946,47.378616",
     "geom:latitude":47.378616,
     "geom:longitude":8.522946,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstrasse 89",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236370275,
-    "wof:lastmodified":1449003458,
+    "wof:lastmodified":1466212045,
     "wof:name":"Sekundarschule Feldstrasse",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522946,47.378616,8.522946,47.378616],
+  "bbox": [
+    8.522946,
+    47.378616,
+    8.522946,
+    47.378616
+],
   "geometry": {"coordinates":[8.522946,47.378616],"type":"Point"}
 }

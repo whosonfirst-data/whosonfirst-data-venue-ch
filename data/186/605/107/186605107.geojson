@@ -2,13 +2,14 @@
   "id": 186605107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.394823,46.940449,7.394823,46.940449",
     "geom:latitude":46.940449,
     "geom:longitude":7.394823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankenstrasse 26",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186605107,
-    "wof:lastmodified":1449051673,
+    "wof:lastmodified":1466212087,
     "wof:name":"Schweizerischer Polierverband Sektion Bern",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.394823,46.940449,7.394823,46.940449],
+  "bbox": [
+    7.394823,
+    46.940449,
+    7.394823,
+    46.940449
+],
   "geometry": {"coordinates":[7.394823,46.940449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219802187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.295933,47.377136,8.295933,47.377136",
     "geom:latitude":47.377136,
     "geom:longitude":8.295933,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pr\u00e9v\u00f4t\u00e9 Rue De La 9 2740 Montagne-moutier. Postfach",
     "sg:city":"Montagne-moutier",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219802187,
-    "wof:lastmodified":1449073260,
+    "wof:lastmodified":1466212534,
     "wof:name":"Flamingo-bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.295933,47.377136,8.295933,47.377136],
+  "bbox": [
+    8.295933,
+    47.377136,
+    8.295933,
+    47.377136
+],
   "geometry": {"coordinates":[8.295933,47.377136],"type":"Point"}
 }

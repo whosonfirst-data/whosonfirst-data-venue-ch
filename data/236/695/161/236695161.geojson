@@ -2,13 +2,14 @@
   "id": 236695161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.642677,47.451294,9.642677,47.451294",
     "geom:latitude":47.451294,
     "geom:longitude":9.642677,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chem Du Foron 19",
     "sg:city":"Thonex",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236695161,
-    "wof:lastmodified":1449002796,
+    "wof:lastmodified":1466212809,
     "wof:name":"Feyco Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "by-product"
     ]
 },
-  "bbox": [9.642677,47.451294,9.642677,47.451294],
+  "bbox": [
+    9.642677,
+    47.451294,
+    9.642677,
+    47.451294
+],
   "geometry": {"coordinates":[9.642677,47.451294],"type":"Point"}
 }

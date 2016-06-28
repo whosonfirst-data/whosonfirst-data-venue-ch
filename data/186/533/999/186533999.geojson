@@ -2,13 +2,14 @@
   "id": 186533999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.735726,47.44331,7.735726,47.44331",
     "geom:latitude":47.44331,
     "geom:longitude":7.735726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wildensteinerstrasse 26",
     "sg:city":"Bubendorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186533999,
-    "wof:lastmodified":1449050214,
+    "wof:lastmodified":1466211677,
     "wof:name":"Wohnheim Am Weiher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.735726,47.44331,7.735726,47.44331],
+  "bbox": [
+    7.735726,
+    47.44331,
+    7.735726,
+    47.44331
+],
   "geometry": {"coordinates":[7.735726,47.44331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185714993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.074808,47.413662,7.074808,47.413662",
     "geom:latitude":47.413662,
     "geom:longitude":7.074808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Thurmann 10 2900 Porrentruy Case Postale 34",
     "sg:city":"Porrentruy",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185714993,
-    "wof:lastmodified":1449007419,
+    "wof:lastmodified":1466211263,
     "wof:name":"Hubert Theurillat Etude D'avocat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.074808,47.413662,7.074808,47.413662],
+  "bbox": [
+    7.074808,
+    47.413662,
+    7.074808,
+    47.413662
+],
   "geometry": {"coordinates":[7.074808,47.413662],"type":"Point"}
 }

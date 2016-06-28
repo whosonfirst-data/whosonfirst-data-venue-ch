@@ -2,13 +2,14 @@
   "id": 202895009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.618723,46.515152,6.618723,46.515152",
     "geom:latitude":46.515152,
     "geom:longitude":6.618723,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Cour 30",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202895009,
-    "wof:lastmodified":1449061193,
+    "wof:lastmodified":1466211989,
     "wof:name":"Agir Bureau Technique S\u00e0rl",
     "wof:parent_id":85799887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.618723,46.515152,6.618723,46.515152],
+  "bbox": [
+    6.618723,
+    46.515152,
+    6.618723,
+    46.515152
+],
   "geometry": {"coordinates":[6.618723,46.515152],"type":"Point"}
 }

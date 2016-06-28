@@ -2,13 +2,14 @@
   "id": 219973153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.311506,47.404041,8.311506,47.404041",
     "geom:latitude":47.404041,
     "geom:longitude":8.311506,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Cour 61",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219973153,
-    "wof:lastmodified":1449072507,
+    "wof:lastmodified":1466212654,
     "wof:name":"Mettauer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.311506,47.404041,8.311506,47.404041],
+  "bbox": [
+    8.311506,
+    47.404041,
+    8.311506,
+    47.404041
+],
   "geometry": {"coordinates":[8.311506,47.404041],"type":"Point"}
 }

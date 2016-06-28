@@ -2,13 +2,14 @@
   "id": 202728655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.38301,47.425365,9.38301,47.425365",
     "geom:latitude":47.425365,
     "geom:longitude":9.38301,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flurstrasse 56",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202728655,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466210851,
     "wof:name":"St\u00fccheli Architektur Architekturb\u00fcro",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.38301,47.425365,9.38301,47.425365],
+  "bbox": [
+    9.38301,
+    47.425365,
+    9.38301,
+    47.425365
+],
   "geometry": {"coordinates":[9.38301,47.425365],"type":"Point"}
 }

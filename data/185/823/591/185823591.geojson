@@ -2,13 +2,14 @@
   "id": 185823591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.948897,47.297047,7.948897,47.297047",
     "geom:latitude":47.297047,
     "geom:longitude":7.948897,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlethalstrasse 39",
     "sg:city":"Zofingen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185823591,
-    "wof:lastmodified":1449008180,
+    "wof:lastmodified":1466209276,
     "wof:name":"Steger & Lampart Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "livestock"
     ]
 },
-  "bbox": [7.948897,47.297047,7.948897,47.297047],
+  "bbox": [
+    7.948897,
+    47.297047,
+    7.948897,
+    47.297047
+],
   "geometry": {"coordinates":[7.948897,47.297047],"type":"Point"}
 }

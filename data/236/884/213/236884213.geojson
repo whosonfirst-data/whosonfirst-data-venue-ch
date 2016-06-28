@@ -2,13 +2,14 @@
   "id": 236884213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.620716,47.483688,7.620716,47.483688",
     "geom:latitude":47.483688,
     "geom:longitude":7.620716,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Juraweg 21",
     "sg:city":"Dornach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236884213,
-    "wof:lastmodified":1449004471,
+    "wof:lastmodified":1466212953,
     "wof:name":"Secnet Gmbh",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "database"
     ]
 },
-  "bbox": [7.620716,47.483688,7.620716,47.483688],
+  "bbox": [
+    7.620716,
+    47.483688,
+    7.620716,
+    47.483688
+],
   "geometry": {"coordinates":[7.620716,47.483688],"type":"Point"}
 }

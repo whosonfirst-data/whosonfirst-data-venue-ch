@@ -2,13 +2,14 @@
   "id": 185862179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536965,47.369511,8.536965,47.369511",
     "geom:latitude":47.369511,
     "geom:longitude":8.536965,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talstrasse 41 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185862179,
-    "wof:lastmodified":1449008266,
+    "wof:lastmodified":1466209593,
     "wof:name":"Patronaler Wohlfahrtsfonds Der Banque Nationale De Paris (schweiz) Ag (bvg)",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536965,47.369511,8.536965,47.369511],
+  "bbox": [
+    8.536965,
+    47.369511,
+    8.536965,
+    47.369511
+],
   "geometry": {"coordinates":[8.536965,47.369511],"type":"Point"}
 }

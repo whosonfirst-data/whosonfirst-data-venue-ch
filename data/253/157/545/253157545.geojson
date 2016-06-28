@@ -2,13 +2,14 @@
   "id": 253157545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.751248,47.503159,8.751248,47.503159",
     "geom:latitude":47.503159,
     "geom:longitude":8.751248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenfelderstrasse 104 8400 Winterthur. Postfach",
     "sg:city":"Oberwinterthur",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253157545,
-    "wof:lastmodified":1449065356,
+    "wof:lastmodified":1466210597,
     "wof:name":"Caf\u00e9-conditorei-b\u00e4ckerei Spatz, Inhaber Z\u00fcrcher Ivo",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.751248,47.503159,8.751248,47.503159],
+  "bbox": [
+    8.751248,
+    47.503159,
+    8.751248,
+    47.503159
+],
   "geometry": {"coordinates":[8.751248,47.503159],"type":"Point"}
 }

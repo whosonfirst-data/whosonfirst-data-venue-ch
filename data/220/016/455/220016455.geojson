@@ -2,13 +2,14 @@
   "id": 220016455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.154842,47.285,8.154842,47.285",
     "geom:latitude":47.285,
     "geom:longitude":8.154842,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aegertenstrasse 69",
     "sg:city":"Zetzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220016455,
-    "wof:lastmodified":1449074184,
+    "wof:lastmodified":1466209019,
     "wof:name":"Hans Stauber Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.154842,47.285,8.154842,47.285],
+  "bbox": [
+    8.154842,
+    47.285,
+    8.154842,
+    47.285
+],
   "geometry": {"coordinates":[8.154842,47.285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185775089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.955908,46.016945,8.955908,46.016945",
     "geom:latitude":46.016945,
     "geom:longitude":8.955908,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trevano 49",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185775089,
-    "wof:lastmodified":1449007787,
+    "wof:lastmodified":1466208946,
     "wof:name":"Giovanni Colombo Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.955908,46.016945,8.955908,46.016945],
+  "bbox": [
+    8.955908,
+    46.016945,
+    8.955908,
+    46.016945
+],
   "geometry": {"coordinates":[8.955908,46.016945],"type":"Point"}
 }

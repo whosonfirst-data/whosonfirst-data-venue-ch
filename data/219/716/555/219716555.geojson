@@ -2,13 +2,14 @@
   "id": 219716555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.39701,47.193035,7.39701,47.193035",
     "geom:latitude":47.193035,
     "geom:longitude":7.39701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 6",
     "sg:city":"Grenchen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219716555,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466212157,
     "wof:name":"Solothurner Handelsbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.39701,47.193035,7.39701,47.193035],
+  "bbox": [
+    7.39701,
+    47.193035,
+    7.39701,
+    47.193035
+],
   "geometry": {"coordinates":[7.39701,47.193035],"type":"Point"}
 }

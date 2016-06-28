@@ -2,13 +2,14 @@
   "id": 253315639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.851139,46.679859,7.851139,46.679859",
     "geom:latitude":46.679859,
     "geom:longitude":7.851139,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rugenparkstrasse 24",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253315639,
-    "wof:lastmodified":1449065645,
+    "wof:lastmodified":1466211806,
     "wof:name":"Degen Cornelia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.851139,46.679859,7.851139,46.679859],
+  "bbox": [
+    7.851139,
+    46.679859,
+    7.851139,
+    46.679859
+],
   "geometry": {"coordinates":[7.851139,46.679859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236112019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.002393,47.153343,7.002393,47.153343",
     "geom:latitude":47.153343,
     "geom:longitude":7.002393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Suze 8",
     "sg:city":"St-imier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236112019,
-    "wof:lastmodified":1449003115,
+    "wof:lastmodified":1466209899,
     "wof:name":"Nikles Jean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.002393,47.153343,7.002393,47.153343],
+  "bbox": [
+    7.002393,
+    47.153343,
+    7.002393,
+    47.153343
+],
   "geometry": {"coordinates":[7.002393,47.153343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236519799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.316933,47.297474,8.316933,47.297474",
     "geom:latitude":47.297474,
     "geom:longitude":8.316933,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Muristrasse 10",
     "sg:city":"Boswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236519799,
-    "wof:lastmodified":1449004989,
+    "wof:lastmodified":1466212650,
     "wof:name":"Josef K\u00f6pfli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.316933,47.297474,8.316933,47.297474],
+  "bbox": [
+    8.316933,
+    47.297474,
+    8.316933,
+    47.297474
+],
   "geometry": {"coordinates":[8.316933,47.297474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202870211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.986306,47.666176,8.986306,47.666176",
     "geom:latitude":47.666176,
     "geom:longitude":8.986306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gehrenstrasse 12 8266 Steckborn. Postfach",
     "sg:city":"Steckborn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202870211,
-    "wof:lastmodified":1449060780,
+    "wof:lastmodified":1466211890,
     "wof:name":"Urs Hess Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.986306,47.666176,8.986306,47.666176],
+  "bbox": [
+    8.986306,
+    47.666176,
+    8.986306,
+    47.666176
+],
   "geometry": {"coordinates":[8.986306,47.666176],"type":"Point"}
 }

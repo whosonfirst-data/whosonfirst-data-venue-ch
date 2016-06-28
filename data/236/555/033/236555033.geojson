@@ -2,13 +2,14 @@
   "id": 236555033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.623968,46.525425,6.623968,46.525425",
     "geom:latitude":46.525425,
     "geom:longitude":6.623968,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Jura 9",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236555033,
-    "wof:lastmodified":1449004678,
+    "wof:lastmodified":1466212589,
     "wof:name":"Imprimerie Marsens Lausanne",
     "wof:parent_id":85862325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "label"
     ]
 },
-  "bbox": [6.623968,46.525425,6.623968,46.525425],
+  "bbox": [
+    6.623968,
+    46.525425,
+    6.623968,
+    46.525425
+],
   "geometry": {"coordinates":[6.623968,46.525425],"type":"Point"}
 }

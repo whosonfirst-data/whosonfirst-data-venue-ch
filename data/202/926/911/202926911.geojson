@@ -2,13 +2,14 @@
   "id": 202926911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.153902,46.874561,7.153902,46.874561",
     "geom:latitude":46.874561,
     "geom:longitude":7.153902,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Megglete 29 1792 Cordast. Postfach 27",
     "sg:city":"Cordast",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202926911,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466212119,
     "wof:name":"Iscd Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.153902,46.874561,7.153902,46.874561],
+  "bbox": [
+    7.153902,
+    46.874561,
+    7.153902,
+    46.874561
+],
   "geometry": {"coordinates":[7.153902,46.874561],"type":"Point"}
 }

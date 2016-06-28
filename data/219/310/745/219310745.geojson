@@ -2,13 +2,14 @@
   "id": 219310745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.351117,47.414356,9.351117,47.414356",
     "geom:latitude":47.414356,
     "geom:longitude":9.351117,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrstenlandstrasse 31",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219310745,
-    "wof:lastmodified":1449072573,
+    "wof:lastmodified":1466209347,
     "wof:name":"Rolf Aeberhard F\u00fcrstenlandgarage",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.351117,47.414356,9.351117,47.414356],
+  "bbox": [
+    9.351117,
+    47.414356,
+    9.351117,
+    47.414356
+],
   "geometry": {"coordinates":[9.351117,47.414356],"type":"Point"}
 }

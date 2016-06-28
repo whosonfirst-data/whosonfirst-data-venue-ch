@@ -2,13 +2,14 @@
   "id": 202498069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532856,47.359787,8.532856,47.359787",
     "geom:latitude":47.359787,
     "geom:longitude":8.532856,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard Wagner-strasse 19",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202498069,
-    "wof:lastmodified":1449062043,
+    "wof:lastmodified":1466211705,
     "wof:name":"Fl\u00fcckiger + Bosshard Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532856,47.359787,8.532856,47.359787],
+  "bbox": [
+    8.532856,
+    47.359787,
+    8.532856,
+    47.359787
+],
   "geometry": {"coordinates":[8.532856,47.359787],"type":"Point"}
 }

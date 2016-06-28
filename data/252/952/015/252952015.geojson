@@ -2,13 +2,14 @@
   "id": 252952015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.394944,47.444576,9.394944,47.444576",
     "geom:latitude":47.444576,
     "geom:longitude":9.394944,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fulachstrasse 229",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252952015,
-    "wof:lastmodified":1449006181,
+    "wof:lastmodified":1466211546,
     "wof:name":"Emil Eigenmann B\u00fcrstenwaren",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.394944,47.444576,9.394944,47.444576],
+  "bbox": [
+    9.394944,
+    47.444576,
+    9.394944,
+    47.444576
+],
   "geometry": {"coordinates":[9.394944,47.444576],"type":"Point"}
 }

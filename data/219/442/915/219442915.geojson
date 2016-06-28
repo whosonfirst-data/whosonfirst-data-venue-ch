@@ -2,13 +2,14 @@
   "id": 219442915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.390416,47.436794,9.390416,47.436794",
     "geom:latitude":47.436794,
     "geom:longitude":9.390416,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenthalstrasse 3",
     "sg:city":"Hagendorn",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219442915,
-    "wof:lastmodified":1449071942,
+    "wof:lastmodified":1466210570,
     "wof:name":"Guido Galvani",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.390416,47.436794,9.390416,47.436794],
+  "bbox": [
+    9.390416,
+    47.436794,
+    9.390416,
+    47.436794
+],
   "geometry": {"coordinates":[9.390416,47.436794],"type":"Point"}
 }

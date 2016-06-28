@@ -2,13 +2,14 @@
   "id": 253397193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.584144,47.554092,7.584144,47.554092",
     "geom:latitude":47.554092,
     "geom:longitude":7.584144,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holbeinstrasse 20",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253397193,
-    "wof:lastmodified":1449064007,
+    "wof:lastmodified":1466212268,
     "wof:name":"Aos Moser & Suter",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.584144,47.554092,7.584144,47.554092],
+  "bbox": [
+    7.584144,
+    47.554092,
+    7.584144,
+    47.554092
+],
   "geometry": {"coordinates":[7.584144,47.554092],"type":"Point"}
 }

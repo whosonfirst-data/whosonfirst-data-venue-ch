@@ -2,13 +2,14 @@
   "id": 219487585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.015354,47.496506,7.015354,47.496506",
     "geom:latitude":47.496506,
     "geom:longitude":7.015354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De France 3",
     "sg:city":"Boncourt",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219487585,
-    "wof:lastmodified":1449071552,
+    "wof:lastmodified":1466211023,
     "wof:name":"Banque Cantonale Du Jura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.015354,47.496506,7.015354,47.496506],
+  "bbox": [
+    7.015354,
+    47.496506,
+    7.015354,
+    47.496506
+],
   "geometry": {"coordinates":[7.015354,47.496506],"type":"Point"}
 }

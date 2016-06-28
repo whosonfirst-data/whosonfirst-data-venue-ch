@@ -2,13 +2,14 @@
   "id": 169741795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.641058,46.518661,6.641058,46.518661",
     "geom:latitude":46.518661,
     "geom:longitude":6.641058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Mon-repos 22",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169741795,
-    "wof:lastmodified":1449032863,
+    "wof:lastmodified":1466211247,
     "wof:name":"Publicitas Direction Generale",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "insurance"
     ]
 },
-  "bbox": [6.641058,46.518661,6.641058,46.518661],
+  "bbox": [
+    6.641058,
+    46.518661,
+    6.641058,
+    46.518661
+],
   "geometry": {"coordinates":[6.641058,46.518661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202696561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.915159,46.522579,6.915159,46.522579",
     "geom:latitude":46.522579,
     "geom:longitude":6.915159,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Suchet 1618 Ch\u00e2tel-st-denis. Postfach",
     "sg:city":"Ch\u00e2tel-st-denis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202696561,
-    "wof:lastmodified":1449060302,
+    "wof:lastmodified":1466210555,
     "wof:name":"Sagemo Sa, Succursale De Ch\u00e2tel-st-denis Bureau De Planification Et Gestion Immobili\u00e8re Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.915159,46.522579,6.915159,46.522579],
+  "bbox": [
+    6.915159,
+    46.522579,
+    6.915159,
+    46.522579
+],
   "geometry": {"coordinates":[6.915159,46.522579],"type":"Point"}
 }

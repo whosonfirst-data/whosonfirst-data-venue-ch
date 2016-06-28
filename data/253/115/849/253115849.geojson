@@ -2,13 +2,14 @@
   "id": 253115849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.634804,47.698261,8.634804,47.698261",
     "geom:latitude":47.698261,
     "geom:longitude":8.634804,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Webergasse 43. 8200 Schaffhausen. Postfach 356",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253115849,
-    "wof:lastmodified":1449062804,
+    "wof:lastmodified":1466210096,
     "wof:name":"M\u00fcller-sulser's Theo Erben, Inh. M\u00fcller Kurt.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.634804,47.698261,8.634804,47.698261],
+  "bbox": [
+    8.634804,
+    47.698261,
+    8.634804,
+    47.698261
+],
   "geometry": {"coordinates":[8.634804,47.698261],"type":"Point"}
 }

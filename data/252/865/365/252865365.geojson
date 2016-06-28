@@ -2,13 +2,14 @@
   "id": 252865365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628713,46.523556,6.628713,46.523556",
     "geom:latitude":46.523556,
     "geom:longitude":6.628713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Tour 21 1000 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252865365,
-    "wof:lastmodified":1449006234,
+    "wof:lastmodified":1466210618,
     "wof:name":"Sans Pour Sans Toi, Lo Presti",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.628713,46.523556,6.628713,46.523556],
+  "bbox": [
+    6.628713,
+    46.523556,
+    6.628713,
+    46.523556
+],
   "geometry": {"coordinates":[6.628713,46.523556],"type":"Point"}
 }

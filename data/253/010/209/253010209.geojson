@@ -2,13 +2,14 @@
   "id": 253010209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.425883,46.92915,7.425883,46.92915",
     "geom:latitude":46.92915,
     "geom:longitude":7.425883,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wabersackerstrasse 35",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253010209,
-    "wof:lastmodified":1449064660,
+    "wof:lastmodified":1466209047,
     "wof:name":"Blumen Maronesa",
     "wof:parent_id":85800009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.425883,46.92915,7.425883,46.92915],
+  "bbox": [
+    7.425883,
+    46.92915,
+    7.425883,
+    46.92915
+],
   "geometry": {"coordinates":[7.425883,46.92915],"type":"Point"}
 }

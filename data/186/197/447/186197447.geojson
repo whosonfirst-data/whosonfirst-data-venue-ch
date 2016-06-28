@@ -2,13 +2,14 @@
   "id": 186197447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.50094,46.913982,7.50094,46.913982",
     "geom:latitude":46.913982,
     "geom:longitude":7.50094,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flugplatzstrasse 940a",
     "sg:city":"Belp",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186197447,
-    "wof:lastmodified":1449052675,
+    "wof:lastmodified":1466209068,
     "wof:name":"Sadag",
     "wof:parent_id":85800111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.50094,46.913982,7.50094,46.913982],
+  "bbox": [
+    7.50094,
+    46.913982,
+    7.50094,
+    46.913982
+],
   "geometry": {"coordinates":[7.50094,46.913982],"type":"Point"}
 }

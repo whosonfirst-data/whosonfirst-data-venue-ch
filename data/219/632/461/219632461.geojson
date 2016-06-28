@@ -2,13 +2,14 @@
   "id": 219632461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59961,46.70649,8.59961,46.70649",
     "geom:latitude":46.70649,
     "geom:longitude":8.59961,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz",
     "sg:city":"Wassen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219632461,
-    "wof:lastmodified":1449072635,
+    "wof:lastmodified":1466211872,
     "wof:name":"Raiffeisenbank Wassen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59961,46.70649,8.59961,46.70649],
+  "bbox": [
+    8.59961,
+    46.70649,
+    8.59961,
+    46.70649
+],
   "geometry": {"coordinates":[8.59961,46.70649],"type":"Point"}
 }

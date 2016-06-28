@@ -2,13 +2,14 @@
   "id": 219631245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.85173,47.658352,8.85173,47.658352",
     "geom:latitude":47.658352,
     "geom:longitude":8.85173,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorf",
     "sg:city":"S\u00fcderen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219631245,
-    "wof:lastmodified":1449071492,
+    "wof:lastmodified":1466211976,
     "wof:name":"Raiffeisenbank Wagenhausen-kaltenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.85173,47.658352,8.85173,47.658352],
+  "bbox": [
+    8.85173,
+    47.658352,
+    8.85173,
+    47.658352
+],
   "geometry": {"coordinates":[8.85173,47.658352],"type":"Point"}
 }

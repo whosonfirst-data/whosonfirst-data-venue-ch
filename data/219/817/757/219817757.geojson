@@ -2,13 +2,14 @@
   "id": 219817757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543823,47.372669,8.543823,47.372669",
     "geom:latitude":47.372669,
     "geom:longitude":8.543823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Niederdorfstrasse 2",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219817757,
-    "wof:lastmodified":1449073240,
+    "wof:lastmodified":1466212497,
     "wof:name":"Piadina Bar Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543823,47.372669,8.543823,47.372669],
+  "bbox": [
+    8.543823,
+    47.372669,
+    8.543823,
+    47.372669
+],
   "geometry": {"coordinates":[8.543823,47.372669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219163495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.442091,46.949844,7.442091,46.949844",
     "geom:latitude":46.949844,
     "geom:longitude":7.442091,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergergasse 46",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219163495,
-    "wof:lastmodified":1449073835,
+    "wof:lastmodified":1466210137,
     "wof:name":"Dr.med.witold Lesniak Spezialarzt Fmh",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.442091,46.949844,7.442091,46.949844],
+  "bbox": [
+    7.442091,
+    46.949844,
+    7.442091,
+    46.949844
+],
   "geometry": {"coordinates":[7.442091,46.949844],"type":"Point"}
 }

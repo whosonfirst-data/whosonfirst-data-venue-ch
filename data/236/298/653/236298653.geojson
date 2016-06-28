@@ -2,13 +2,14 @@
   "id": 236298653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522229,47.379436,8.522229,47.379436",
     "geom:latitude":47.379436,
     "geom:longitude":8.522229,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohlstrasse 116",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236298653,
-    "wof:lastmodified":1449002352,
+    "wof:lastmodified":1466211850,
     "wof:name":"Giacomo Weidmann Taxis",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522229,47.379436,8.522229,47.379436],
+  "bbox": [
+    8.522229,
+    47.379436,
+    8.522229,
+    47.379436
+],
   "geometry": {"coordinates":[8.522229,47.379436],"type":"Point"}
 }

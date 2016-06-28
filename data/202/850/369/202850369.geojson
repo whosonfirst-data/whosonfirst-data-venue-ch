@@ -2,13 +2,14 @@
   "id": 202850369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.88099,46.291672,7.88099,46.291672",
     "geom:latitude":46.291672,
     "geom:longitude":7.88099,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00e4rtmattenstrasse 1 A 3930 Visp Case Postale 235",
     "sg:city":"Visp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202850369,
-    "wof:lastmodified":1449061582,
+    "wof:lastmodified":1466211780,
     "wof:name":"Osterwalder Ag Visp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.88099,46.291672,7.88099,46.291672],
+  "bbox": [
+    7.88099,
+    46.291672,
+    7.88099,
+    46.291672
+],
   "geometry": {"coordinates":[7.88099,46.291672],"type":"Point"}
 }

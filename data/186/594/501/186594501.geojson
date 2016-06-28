@@ -2,13 +2,14 @@
   "id": 186594501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627903,46.758286,7.627903,46.758286",
     "geom:latitude":46.758286,
     "geom:longitude":7.627903,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4lliz 43 3600 Thun. Postfach 214",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186594501,
-    "wof:lastmodified":1449050756,
+    "wof:lastmodified":1466212038,
     "wof:name":"Kaufm\u00e4nnischer Verband Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627903,46.758286,7.627903,46.758286],
+  "bbox": [
+    7.627903,
+    46.758286,
+    7.627903,
+    46.758286
+],
   "geometry": {"coordinates":[7.627903,46.758286],"type":"Point"}
 }

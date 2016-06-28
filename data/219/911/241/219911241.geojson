@@ -2,13 +2,14 @@
   "id": 219911241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.236899,47.609421,8.236899,47.609421",
     "geom:latitude":47.609421,
     "geom:longitude":8.236899,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 12",
     "sg:city":"Koblenz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219911241,
-    "wof:lastmodified":1449073339,
+    "wof:lastmodified":1466212653,
     "wof:name":"Allpool Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.236899,47.609421,8.236899,47.609421],
+  "bbox": [
+    8.236899,
+    47.609421,
+    8.236899,
+    47.609421
+],
   "geometry": {"coordinates":[8.236899,47.609421],"type":"Point"}
 }

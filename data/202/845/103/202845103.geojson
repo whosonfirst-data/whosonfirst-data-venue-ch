@@ -2,13 +2,14 @@
   "id": 202845103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.781993,47.386673,8.781993,47.386673",
     "geom:latitude":47.386673,
     "geom:longitude":8.781993,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grosswisstrasse 14",
     "sg:city":"Russikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202845103,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466211756,
     "wof:name":"Meili Hanspeter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.781993,47.386673,8.781993,47.386673],
+  "bbox": [
+    8.781993,
+    47.386673,
+    8.781993,
+    47.386673
+],
   "geometry": {"coordinates":[8.781993,47.386673],"type":"Point"}
 }

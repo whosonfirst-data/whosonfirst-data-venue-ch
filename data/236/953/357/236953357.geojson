@@ -2,13 +2,14 @@
   "id": 236953357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594996,47.566849,7.594996,47.566849",
     "geom:latitude":47.566849,
     "geom:longitude":7.594996,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstrasse 123",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236953357,
-    "wof:lastmodified":1449004021,
+    "wof:lastmodified":1466213010,
     "wof:name":"Mor Informatik Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.594996,47.566849,7.594996,47.566849],
+  "bbox": [
+    7.594996,
+    47.566849,
+    7.594996,
+    47.566849
+],
   "geometry": {"coordinates":[7.594996,47.566849],"type":"Point"}
 }

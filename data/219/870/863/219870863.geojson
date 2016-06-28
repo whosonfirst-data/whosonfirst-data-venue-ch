@@ -2,13 +2,14 @@
   "id": 219870863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.235357,47.135979,7.235357,47.135979",
     "geom:latitude":47.135979,
     "geom:longitude":7.235357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seevorstadt 17",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219870863,
-    "wof:lastmodified":1449071331,
+    "wof:lastmodified":1466212601,
     "wof:name":"Remo Recycling Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [7.235357,47.135979,7.235357,47.135979],
+  "bbox": [
+    7.235357,
+    47.135979,
+    7.235357,
+    47.135979
+],
   "geometry": {"coordinates":[7.235357,47.135979],"type":"Point"}
 }

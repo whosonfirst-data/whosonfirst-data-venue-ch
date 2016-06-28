@@ -2,13 +2,14 @@
   "id": 253309225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.643667,46.881451,8.643667,46.881451",
     "geom:latitude":46.881451,
     "geom:longitude":8.643667,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Centralstrasse 27 3800 Interlaken. Postfach 553",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253309225,
-    "wof:lastmodified":1449063460,
+    "wof:lastmodified":1466211769,
     "wof:name":"Bido Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.643667,46.881451,8.643667,46.881451],
+  "bbox": [
+    8.643667,
+    46.881451,
+    8.643667,
+    46.881451
+],
   "geometry": {"coordinates":[8.643667,46.881451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236300279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.460165,46.978497,7.460165,46.978497",
     "geom:latitude":46.978497,
     "geom:longitude":7.460165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6chligutweg 11 3048 Worblaufen. Postfach",
     "sg:city":"Worblaufen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236300279,
-    "wof:lastmodified":1449003521,
+    "wof:lastmodified":1466211855,
     "wof:name":"Hallo Taxi Sobolewski Zaneta",
     "wof:parent_id":85800673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.460165,46.978497,7.460165,46.978497],
+  "bbox": [
+    7.460165,
+    46.978497,
+    7.460165,
+    46.978497
+],
   "geometry": {"coordinates":[7.460165,46.978497],"type":"Point"}
 }

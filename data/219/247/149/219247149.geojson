@@ -2,13 +2,14 @@
   "id": 219247149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.564327,47.204391,7.564327,47.204391",
     "geom:latitude":47.204391,
     "geom:longitude":7.564327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langfeldstrasse 1 4528 Zuchwil. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219247149,
-    "wof:lastmodified":1449072450,
+    "wof:lastmodified":1466211508,
     "wof:name":"Garage Central Ag Solothurn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.564327,47.204391,7.564327,47.204391],
+  "bbox": [
+    7.564327,
+    47.204391,
+    7.564327,
+    47.204391
+],
   "geometry": {"coordinates":[7.564327,47.204391],"type":"Point"}
 }

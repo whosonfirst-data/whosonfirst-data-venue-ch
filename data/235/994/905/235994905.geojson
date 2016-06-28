@@ -2,13 +2,14 @@
   "id": 235994905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.767047,47.498985,7.767047,47.498985",
     "geom:latitude":47.498985,
     "geom:longitude":7.767047,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Berstelstrasse 14",
     "sg:city":"Arisdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235994905,
-    "wof:lastmodified":1449008287,
+    "wof:lastmodified":1466209468,
     "wof:name":"Gebr. Schaub Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.767047,47.498985,7.767047,47.498985],
+  "bbox": [
+    7.767047,
+    47.498985,
+    7.767047,
+    47.498985
+],
   "geometry": {"coordinates":[7.767047,47.498985],"type":"Point"}
 }

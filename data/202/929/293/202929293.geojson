@@ -2,13 +2,14 @@
   "id": 202929293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.03857,47.476334,9.03857,47.476334",
     "geom:latitude":47.476334,
     "geom:longitude":9.03857,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenstrasse 12",
     "sg:city":"Bronschhofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202929293,
-    "wof:lastmodified":1449061084,
+    "wof:lastmodified":1466212136,
     "wof:name":"Widmer Projekte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.03857,47.476334,9.03857,47.476334],
+  "bbox": [
+    9.03857,
+    47.476334,
+    9.03857,
+    47.476334
+],
   "geometry": {"coordinates":[9.03857,47.476334],"type":"Point"}
 }

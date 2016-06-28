@@ -2,13 +2,14 @@
   "id": 219457139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534509,47.373432,8.534509,47.373432",
     "geom:latitude":47.373432,
     "geom:longitude":8.534509,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcschelerstr. 45",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219457139,
-    "wof:lastmodified":1449072754,
+    "wof:lastmodified":1466210713,
     "wof:name":"Cementia Trading Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [8.534509,47.373432,8.534509,47.373432],
+  "bbox": [
+    8.534509,
+    47.373432,
+    8.534509,
+    47.373432
+],
   "geometry": {"coordinates":[8.534509,47.373432],"type":"Point"}
 }

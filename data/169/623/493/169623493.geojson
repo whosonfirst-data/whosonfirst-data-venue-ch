@@ -2,13 +2,14 @@
   "id": 169623493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.605754,46.526047,6.605754,46.526047",
     "geom:latitude":46.526047,
     "geom:longitude":6.605754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Grand-pr\u00e9 8",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169623493,
-    "wof:lastmodified":1449034997,
+    "wof:lastmodified":1466209672,
     "wof:name":"Mpa Sa",
     "wof:parent_id":85800425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [6.605754,46.526047,6.605754,46.526047],
+  "bbox": [
+    6.605754,
+    46.526047,
+    6.605754,
+    46.526047
+],
   "geometry": {"coordinates":[6.605754,46.526047],"type":"Point"}
 }

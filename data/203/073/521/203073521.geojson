@@ -2,13 +2,14 @@
   "id": 203073521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.851994,46.466187,6.851994,46.466187",
     "geom:latitude":46.466187,
     "geom:longitude":6.851994,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Ernest Bi\u00e9ler 21",
     "sg:city":"Vevey",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203073521,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466210581,
     "wof:name":"Roger Cap Bureau D'architecture",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.851994,46.466187,6.851994,46.466187],
+  "bbox": [
+    6.851994,
+    46.466187,
+    6.851994,
+    46.466187
+],
   "geometry": {"coordinates":[6.851994,46.466187],"type":"Point"}
 }

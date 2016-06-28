@@ -2,13 +2,14 @@
   "id": 202993197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.133558,46.209812,6.133558,46.209812",
     "geom:latitude":46.209812,
     "geom:longitude":6.133558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Liotard 10",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202993197,
-    "wof:lastmodified":1449061250,
+    "wof:lastmodified":1466212444,
     "wof:name":"Gilbert Croci-torti Bureau D'architecture",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.133558,46.209812,6.133558,46.209812],
+  "bbox": [
+    6.133558,
+    46.209812,
+    6.133558,
+    46.209812
+],
   "geometry": {"coordinates":[6.133558,46.209812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169690665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.425551,47.500362,9.425551,47.500362",
     "geom:latitude":47.500362,
     "geom:longitude":9.425551,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Morgental 10 9323 Steinach. Postfach 141",
     "sg:city":"Steinach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169690665,
-    "wof:lastmodified":1449034431,
+    "wof:lastmodified":1466210778,
     "wof:name":"Fagagnini Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.425551,47.500362,9.425551,47.500362],
+  "bbox": [
+    9.425551,
+    47.500362,
+    9.425551,
+    47.500362
+],
   "geometry": {"coordinates":[9.425551,47.500362],"type":"Point"}
 }

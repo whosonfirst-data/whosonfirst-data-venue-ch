@@ -2,13 +2,14 @@
   "id": 186408631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522869,47.1661,8.522869,47.1661",
     "geom:latitude":47.1661,
     "geom:longitude":8.522869,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenbergstrasse 31",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186408631,
-    "wof:lastmodified":1449050601,
+    "wof:lastmodified":1466210665,
     "wof:name":"Kibag Strassen Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522869,47.1661,8.522869,47.1661],
+  "bbox": [
+    8.522869,
+    47.1661,
+    8.522869,
+    47.1661
+],
   "geometry": {"coordinates":[8.522869,47.1661],"type":"Point"}
 }

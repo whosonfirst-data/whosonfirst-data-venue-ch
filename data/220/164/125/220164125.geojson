@@ -2,13 +2,14 @@
   "id": 220164125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.580791,47.491886,7.580791,47.491886",
     "geom:latitude":47.491886,
     "geom:longitude":7.580791,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1034",
     "sg:city":"Boussens",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220164125,
-    "wof:lastmodified":1449074128,
+    "wof:lastmodified":1466210279,
     "wof:name":"Erlenhof",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.580791,47.491886,7.580791,47.491886],
+  "bbox": [
+    7.580791,
+    47.491886,
+    7.580791,
+    47.491886
+],
   "geometry": {"coordinates":[7.580791,47.491886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236190767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532868,47.384529,8.532868,47.384529",
     "geom:latitude":47.384529,
     "geom:longitude":8.532868,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ausstellungsstrasse 99 8005 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236190767,
-    "wof:lastmodified":1449004998,
+    "wof:lastmodified":1466210712,
     "wof:name":"Gymnastikberufssch.limmathaus Ausbildung Z.gymnastiklehrerin",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532868,47.384529,8.532868,47.384529],
+  "bbox": [
+    8.532868,
+    47.384529,
+    8.532868,
+    47.384529
+],
   "geometry": {"coordinates":[8.532868,47.384529],"type":"Point"}
 }

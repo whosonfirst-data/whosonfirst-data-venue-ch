@@ -2,13 +2,14 @@
   "id": 186617603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.196271,47.235123,8.196271,47.235123",
     "geom:latitude":47.235123,
     "geom:longitude":8.196271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gurmoosstrasse 4b",
     "sg:city":"Menziken",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186617603,
-    "wof:lastmodified":1449050362,
+    "wof:lastmodified":1466212046,
     "wof:name":"3dimensional Guido Henzmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.196271,47.235123,8.196271,47.235123],
+  "bbox": [
+    8.196271,
+    47.235123,
+    8.196271,
+    47.235123
+],
   "geometry": {"coordinates":[8.196271,47.235123],"type":"Point"}
 }

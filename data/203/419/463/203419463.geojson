@@ -2,13 +2,14 @@
   "id": 203419463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.592245,47.554741,7.592245,47.554741",
     "geom:latitude":47.554741,
     "geom:longitude":7.592245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4umleingasse 10",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203419463,
-    "wof:lastmodified":1449026850,
+    "wof:lastmodified":1466211680,
     "wof:name":"Dr.med.thomas Weber Spezialarzt",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.592245,47.554741,7.592245,47.554741],
+  "bbox": [
+    7.592245,
+    47.554741,
+    7.592245,
+    47.554741
+],
   "geometry": {"coordinates":[7.592245,47.554741],"type":"Point"}
 }

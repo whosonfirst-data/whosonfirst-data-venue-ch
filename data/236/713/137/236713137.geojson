@@ -2,13 +2,14 @@
   "id": 236713137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402393,47.406342,8.402393,47.406342",
     "geom:latitude":47.406342,
     "geom:longitude":8.402393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstrasse 11",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236713137,
-    "wof:lastmodified":1449004880,
+    "wof:lastmodified":1466212947,
     "wof:name":"Gafner Ernst Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.402393,47.406342,8.402393,47.406342],
+  "bbox": [
+    8.402393,
+    47.406342,
+    8.402393,
+    47.406342
+],
   "geometry": {"coordinates":[8.402393,47.406342],"type":"Point"}
 }

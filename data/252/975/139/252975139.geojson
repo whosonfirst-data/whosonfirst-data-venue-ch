@@ -2,13 +2,14 @@
   "id": 252975139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536112,47.394939,8.536112,47.394939",
     "geom:latitude":47.394939,
     "geom:longitude":8.536112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofwiesenstrasse 55",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252975139,
-    "wof:lastmodified":1449006360,
+    "wof:lastmodified":1466211687,
     "wof:name":"Eugen Mattes Vorh\u00e4nge",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536112,47.394939,8.536112,47.394939],
+  "bbox": [
+    8.536112,
+    47.394939,
+    8.536112,
+    47.394939
+],
   "geometry": {"coordinates":[8.536112,47.394939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169795151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.277763,53.332916,-6.277763,53.332916",
     "geom:latitude":53.332916,
     "geom:longitude":-6.277763,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-graben 8",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169795151,
-    "wof:lastmodified":1449034642,
+    "wof:lastmodified":1466209038,
     "wof:name":"Handelskammer Beider Basel",
     "wof:parent_id":85794361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.277763,53.332916,-6.277763,53.332916],
+  "bbox": [
+    -6.277763,
+    53.332916,
+    -6.277763,
+    53.332916
+],
   "geometry": {"coordinates":[-6.277763,53.332916],"type":"Point"}
 }

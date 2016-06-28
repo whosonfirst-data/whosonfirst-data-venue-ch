@@ -2,13 +2,14 @@
   "id": 236116123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.712107,47.491001,8.712107,47.491001",
     "geom:latitude":47.491001,
     "geom:longitude":8.712107,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grenzstrasse 11",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236116123,
-    "wof:lastmodified":1449002036,
+    "wof:lastmodified":1466209936,
     "wof:name":"Schorr Viktor",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.712107,47.491001,8.712107,47.491001],
+  "bbox": [
+    8.712107,
+    47.491001,
+    8.712107,
+    47.491001
+],
   "geometry": {"coordinates":[8.712107,47.491001],"type":"Point"}
 }

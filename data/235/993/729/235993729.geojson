@@ -2,13 +2,14 @@
   "id": 235993729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.90668,47.562885,8.90668,47.562885",
     "geom:latitude":47.562885,
     "geom:longitude":8.90668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Goldackerstrasse 8",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235993729,
-    "wof:lastmodified":1449008402,
+    "wof:lastmodified":1466209457,
     "wof:name":"Eilinger E.holzbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.90668,47.562885,8.90668,47.562885],
+  "bbox": [
+    8.90668,
+    47.562885,
+    8.90668,
+    47.562885
+],
   "geometry": {"coordinates":[8.90668,47.562885],"type":"Point"}
 }

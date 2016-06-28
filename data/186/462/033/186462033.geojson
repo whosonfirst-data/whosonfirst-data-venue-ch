@@ -2,13 +2,14 @@
   "id": 186462033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.37713,46.777515,7.37713,46.777515",
     "geom:latitude":46.777515,
     "geom:longitude":7.37713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langhag",
     "sg:city":"Altwis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186462033,
-    "wof:lastmodified":1449052936,
+    "wof:lastmodified":1466211102,
     "wof:name":"Walter Kohli Hoch-& Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.37713,46.777515,7.37713,46.777515],
+  "bbox": [
+    7.37713,
+    46.777515,
+    7.37713,
+    46.777515
+],
   "geometry": {"coordinates":[7.37713,46.777515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252792301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585195,47.556938,7.585195,47.556938",
     "geom:latitude":47.556938,
     "geom:longitude":7.585195,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spalenberg 46",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252792301,
-    "wof:lastmodified":1449005654,
+    "wof:lastmodified":1466209814,
     "wof:name":"Peter Lienhard Goldschmiedatelier Edelsteine",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.585195,47.556938,7.585195,47.556938],
+  "bbox": [
+    7.585195,
+    47.556938,
+    7.585195,
+    47.556938
+],
   "geometry": {"coordinates":[7.585195,47.556938],"type":"Point"}
 }

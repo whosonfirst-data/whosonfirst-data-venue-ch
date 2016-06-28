@@ -2,13 +2,14 @@
   "id": 219274729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.506244,46.653603,6.506244,46.653603",
     "geom:latitude":46.653603,
     "geom:longitude":6.506244,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La P\u00e9rallaz 116",
     "sg:city":"Ch\u00e2tel-st-denis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219274729,
-    "wof:lastmodified":1449070824,
+    "wof:lastmodified":1466209014,
     "wof:name":"Garage De La Tine S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.506244,46.653603,6.506244,46.653603],
+  "bbox": [
+    6.506244,
+    46.653603,
+    6.506244,
+    46.653603
+],
   "geometry": {"coordinates":[6.506244,46.653603],"type":"Point"}
 }

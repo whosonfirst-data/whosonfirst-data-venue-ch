@@ -2,13 +2,14 @@
   "id": 253009535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18626,47.414055,9.18626,47.414055",
     "geom:latitude":47.414055,
     "geom:longitude":9.18626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiler Strasse 14",
     "sg:city":"Flawil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253009535,
-    "wof:lastmodified":1449065749,
+    "wof:lastmodified":1466209041,
     "wof:name":"Blumen Acorus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18626,47.414055,9.18626,47.414055],
+  "bbox": [
+    9.18626,
+    47.414055,
+    9.18626,
+    47.414055
+],
   "geometry": {"coordinates":[9.18626,47.414055],"type":"Point"}
 }

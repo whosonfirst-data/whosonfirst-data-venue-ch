@@ -2,13 +2,14 @@
   "id": 202689661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.055566,47.354805,8.055566,47.354805",
     "geom:latitude":47.354805,
     "geom:longitude":8.055566,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ausserfeld 14 5036 Oberentfelden. Postfach",
     "sg:city":"Oberentfelden",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202689661,
-    "wof:lastmodified":1449062237,
+    "wof:lastmodified":1466210491,
     "wof:name":"Rona Totalunternehmungen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.055566,47.354805,8.055566,47.354805],
+  "bbox": [
+    8.055566,
+    47.354805,
+    8.055566,
+    47.354805
+],
   "geometry": {"coordinates":[8.055566,47.354805],"type":"Point"}
 }

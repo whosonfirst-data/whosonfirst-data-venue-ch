@@ -2,13 +2,14 @@
   "id": 220070455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.52366,47.00222,9.52366,47.00222",
     "geom:latitude":47.00222,
     "geom:longitude":9.52366,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriequartier",
     "sg:city":"Maienfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220070455,
-    "wof:lastmodified":1449074413,
+    "wof:lastmodified":1466209490,
     "wof:name":"Andreas Stury & Sohn Mechanische Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.52366,47.00222,9.52366,47.00222],
+  "bbox": [
+    9.52366,
+    47.00222,
+    9.52366,
+    47.00222
+],
   "geometry": {"coordinates":[9.52366,47.00222],"type":"Point"}
 }

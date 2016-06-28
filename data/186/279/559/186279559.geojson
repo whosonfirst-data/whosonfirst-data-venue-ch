@@ -2,13 +2,14 @@
   "id": 186279559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.553137,47.383163,9.553137,47.383163",
     "geom:latitude":47.383163,
     "geom:longitude":9.553137,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4ntisstrasse 8 9450 L\u00fcchingen. Postfach",
     "sg:city":"L\u00fcchingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186279559,
-    "wof:lastmodified":1449051604,
+    "wof:lastmodified":1466209684,
     "wof:name":"F. Finger Ag Hoch-& Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.553137,47.383163,9.553137,47.383163],
+  "bbox": [
+    9.553137,
+    47.383163,
+    9.553137,
+    47.383163
+],
   "geometry": {"coordinates":[9.553137,47.383163],"type":"Point"}
 }

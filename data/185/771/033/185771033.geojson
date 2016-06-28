@@ -2,13 +2,14 @@
   "id": 185771033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.109166,47.172466,8.109166,47.172466",
     "geom:latitude":47.172466,
     "geom:longitude":8.109166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4rengasse 2 6210 Sursee. Postfach",
     "sg:city":"Sursee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185771033,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466208921,
     "wof:name":"Fischer Wicki & Frank Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.109166,47.172466,8.109166,47.172466],
+  "bbox": [
+    8.109166,
+    47.172466,
+    8.109166,
+    47.172466
+],
   "geometry": {"coordinates":[8.109166,47.172466],"type":"Point"}
 }

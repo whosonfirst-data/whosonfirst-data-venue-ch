@@ -2,13 +2,14 @@
   "id": 220136277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.089466,47.290707,9.089466,47.290707",
     "geom:latitude":47.290707,
     "geom:longitude":9.089466,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bleikenstrasse 54",
     "sg:city":"Wattwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220136277,
-    "wof:lastmodified":1449074865,
+    "wof:lastmodified":1466210048,
     "wof:name":"Schmid Ag Wattwil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.089466,47.290707,9.089466,47.290707],
+  "bbox": [
+    9.089466,
+    47.290707,
+    9.089466,
+    47.290707
+],
   "geometry": {"coordinates":[9.089466,47.290707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219501939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.153683,46.803745,7.153683,46.803745",
     "geom:latitude":46.803745,
     "geom:longitude":7.153683,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Au Village 24",
     "sg:city":"Glovelier",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219501939,
-    "wof:lastmodified":1449073951,
+    "wof:lastmodified":1466211153,
     "wof:name":"Banque Raiffeisen De La Veveyse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.153683,46.803745,7.153683,46.803745],
+  "bbox": [
+    7.153683,
+    46.803745,
+    7.153683,
+    46.803745
+],
   "geometry": {"coordinates":[7.153683,46.803745],"type":"Point"}
 }

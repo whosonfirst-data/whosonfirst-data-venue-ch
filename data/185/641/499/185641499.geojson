@@ -2,13 +2,14 @@
   "id": 185641499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.52563,47.509544,7.52563,47.509544",
     "geom:latitude":47.509544,
     "geom:longitude":7.52563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langgartenstrasse 26",
     "sg:city":"Biel-benken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185641499,
-    "wof:lastmodified":1449007839,
+    "wof:lastmodified":1466210102,
     "wof:name":"Cioma Sch\u00f6nhaus",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [7.52563,47.509544,7.52563,47.509544],
+  "bbox": [
+    7.52563,
+    47.509544,
+    7.52563,
+    47.509544
+],
   "geometry": {"coordinates":[7.52563,47.509544],"type":"Point"}
 }

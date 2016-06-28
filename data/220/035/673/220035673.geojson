@@ -2,13 +2,14 @@
   "id": 220035673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.3351,47.104259,7.3351,47.104259",
     "geom:latitude":47.104259,
     "geom:longitude":7.3351,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Busswilstrasse 17",
     "sg:city":"B\u00fcetigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220035673,
-    "wof:lastmodified":1449074691,
+    "wof:lastmodified":1466209181,
     "wof:name":"Peter Schneider Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.3351,47.104259,7.3351,47.104259],
+  "bbox": [
+    7.3351,
+    47.104259,
+    7.3351,
+    47.104259
+],
   "geometry": {"coordinates":[7.3351,47.104259],"type":"Point"}
 }

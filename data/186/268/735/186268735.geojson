@@ -2,13 +2,14 @@
   "id": 186268735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.151724,46.742516,8.151724,46.742516",
     "geom:latitude":46.742516,
     "geom:longitude":8.151724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Funtenenstrasse 6",
     "sg:city":"Meiringen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186268735,
-    "wof:lastmodified":1449051907,
+    "wof:lastmodified":1466209612,
     "wof:name":"Bauunternehmung Von Bergen & H\u00fcgli Ag.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.151724,46.742516,8.151724,46.742516],
+  "bbox": [
+    8.151724,
+    46.742516,
+    8.151724,
+    46.742516
+],
   "geometry": {"coordinates":[8.151724,46.742516],"type":"Point"}
 }

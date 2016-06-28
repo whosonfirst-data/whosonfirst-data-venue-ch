@@ -2,13 +2,14 @@
   "id": 236107595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.189959,47.239651,8.189959,47.239651",
     "geom:latitude":47.239651,
     "geom:longitude":8.189959,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 15",
     "sg:city":"Menziken",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236107595,
-    "wof:lastmodified":1449001685,
+    "wof:lastmodified":1466209858,
     "wof:name":"Karl Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.189959,47.239651,8.189959,47.239651],
+  "bbox": [
+    8.189959,
+    47.239651,
+    8.189959,
+    47.239651
+],
   "geometry": {"coordinates":[8.189959,47.239651],"type":"Point"}
 }

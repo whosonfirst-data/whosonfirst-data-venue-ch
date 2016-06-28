@@ -2,13 +2,14 @@
   "id": 169838969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.440306,46.695702,9.440306,46.695702",
     "geom:latitude":46.695702,
     "geom:longitude":9.440306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Stallstrasse 8",
     "sg:city":"Thusis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169838969,
-    "wof:lastmodified":1449033080,
+    "wof:lastmodified":1466209340,
     "wof:name":"Elektro Banzer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [9.440306,46.695702,9.440306,46.695702],
+  "bbox": [
+    9.440306,
+    46.695702,
+    9.440306,
+    46.695702
+],
   "geometry": {"coordinates":[9.440306,46.695702],"type":"Point"}
 }

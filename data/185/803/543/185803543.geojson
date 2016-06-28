@@ -2,13 +2,14 @@
   "id": 185803543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390501,46.937077,8.390501,46.937077",
     "geom:latitude":46.937077,
     "geom:longitude":8.390501,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4dtlistrasse 49",
     "sg:city":"Dallenwil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185803543,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1466209147,
     "wof:name":"Nsd Niederberger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "aerial"
     ]
 },
-  "bbox": [8.390501,46.937077,8.390501,46.937077],
+  "bbox": [
+    8.390501,
+    46.937077,
+    8.390501,
+    46.937077
+],
   "geometry": {"coordinates":[8.390501,46.937077],"type":"Point"}
 }

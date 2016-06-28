@@ -2,13 +2,14 @@
   "id": 169692245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.896974,47.345673,7.896974,47.345673",
     "geom:latitude":47.345673,
     "geom:longitude":7.896974,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6tzmattweg 109 4600 Olten. Postfach 555",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169692245,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210820,
     "wof:name":"Erlachner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.896974,47.345673,7.896974,47.345673],
+  "bbox": [
+    7.896974,
+    47.345673,
+    7.896974,
+    47.345673
+],
   "geometry": {"coordinates":[7.896974,47.345673],"type":"Point"}
 }

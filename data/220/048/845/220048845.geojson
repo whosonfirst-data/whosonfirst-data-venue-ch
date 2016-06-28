@@ -2,13 +2,14 @@
   "id": 220048845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.544254,46.927406,7.544254,46.927406",
     "geom:latitude":46.927406,
     "geom:longitude":7.544254,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 20",
     "sg:city":"Stettfurt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220048845,
-    "wof:lastmodified":1449074297,
+    "wof:lastmodified":1466209298,
     "wof:name":"Schreinerei A. Eicher Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.544254,46.927406,7.544254,46.927406],
+  "bbox": [
+    7.544254,
+    46.927406,
+    7.544254,
+    46.927406
+],
   "geometry": {"coordinates":[7.544254,46.927406],"type":"Point"}
 }

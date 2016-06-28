@@ -2,13 +2,14 @@
   "id": 236590251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.181508,47.388046,8.181508,47.388046",
     "geom:latitude":47.388046,
     "geom:longitude":8.181508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronenpl. 20",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236590251,
-    "wof:lastmodified":1449003643,
+    "wof:lastmodified":1466212662,
     "wof:name":"Hotel Krone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "restaurant"
     ]
 },
-  "bbox": [8.181508,47.388046,8.181508,47.388046],
+  "bbox": [
+    8.181508,
+    47.388046,
+    8.181508,
+    47.388046
+],
   "geometry": {"coordinates":[8.181508,47.388046],"type":"Point"}
 }

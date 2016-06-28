@@ -2,13 +2,14 @@
   "id": 236807979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.709692,47.34251,7.709692,47.34251",
     "geom:latitude":47.34251,
     "geom:longitude":7.709692,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weihermattstrasse 798",
     "sg:city":"M\u00fcmliswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236807979,
-    "wof:lastmodified":1449002314,
+    "wof:lastmodified":1466212808,
     "wof:name":"Peter Ackermann Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.709692,47.34251,7.709692,47.34251],
+  "bbox": [
+    7.709692,
+    47.34251,
+    7.709692,
+    47.34251
+],
   "geometry": {"coordinates":[7.709692,47.34251],"type":"Point"}
 }

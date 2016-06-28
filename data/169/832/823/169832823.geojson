@@ -2,13 +2,14 @@
   "id": 169832823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.032435,46.194,6.032435,46.194",
     "geom:latitude":46.194,
     "geom:longitude":6.032435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Verbois 1288 Aire-la-ville Case Postale 25",
     "sg:city":"Aire-la-ville",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169832823,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466209296,
     "wof:name":"Usine Des Chenevi\u00e8rs Incin\u00e9ration Des D\u00e9chets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.032435,46.194,6.032435,46.194],
+  "bbox": [
+    6.032435,
+    46.194,
+    6.032435,
+    46.194
+],
   "geometry": {"coordinates":[6.032435,46.194],"type":"Point"}
 }

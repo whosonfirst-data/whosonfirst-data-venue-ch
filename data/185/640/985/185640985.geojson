@@ -2,13 +2,14 @@
   "id": 185640985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.305984,47.075752,7.305984,47.075752",
     "geom:latitude":47.075752,
     "geom:longitude":7.305984,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 9",
     "sg:city":"Lyss",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185640985,
-    "wof:lastmodified":1449007316,
+    "wof:lastmodified":1466210087,
     "wof:name":"Avicom Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [7.305984,47.075752,7.305984,47.075752],
+  "bbox": [
+    7.305984,
+    47.075752,
+    7.305984,
+    47.075752
+],
   "geometry": {"coordinates":[7.305984,47.075752],"type":"Point"}
 }

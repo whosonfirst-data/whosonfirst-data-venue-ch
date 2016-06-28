@@ -2,13 +2,14 @@
   "id": 203050961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.707257,47.350746,8.707257,47.350746",
     "geom:latitude":47.350746,
     "geom:longitude":8.707257,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kr\u00e4merackerstrasse 29",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203050961,
-    "wof:lastmodified":1449025991,
+    "wof:lastmodified":1466210167,
     "wof:name":"N\u00fcesch Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.707257,47.350746,8.707257,47.350746],
+  "bbox": [
+    8.707257,
+    47.350746,
+    8.707257,
+    47.350746
+],
   "geometry": {"coordinates":[8.707257,47.350746],"type":"Point"}
 }

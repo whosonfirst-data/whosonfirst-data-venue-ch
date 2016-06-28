@@ -2,13 +2,14 @@
   "id": 219214821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.239244,53.375389,-6.239244,53.375389",
     "geom:latitude":53.375389,
     "geom:longitude":-6.239244,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-vorstadt 80",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219214821,
-    "wof:lastmodified":1449073805,
+    "wof:lastmodified":1466211121,
     "wof:name":"Sionic Sa",
     "wof:parent_id":85794319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.239244,53.375389,-6.239244,53.375389],
+  "bbox": [
+    -6.239244,
+    53.375389,
+    -6.239244,
+    53.375389
+],
   "geometry": {"coordinates":[-6.239244,53.375389],"type":"Point"}
 }

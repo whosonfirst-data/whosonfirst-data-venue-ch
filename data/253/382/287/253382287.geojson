@@ -2,13 +2,14 @@
   "id": 253382287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.84721,46.438438,6.84721,46.438438",
     "geom:latitude":46.438438,
     "geom:longitude":6.84721,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue D'italie 43",
     "sg:city":"Vevey",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253382287,
-    "wof:lastmodified":1449063597,
+    "wof:lastmodified":1466212100,
     "wof:name":"La Clef De Sol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.84721,46.438438,6.84721,46.438438],
+  "bbox": [
+    6.84721,
+    46.438438,
+    6.84721,
+    46.438438
+],
   "geometry": {"coordinates":[6.84721,46.438438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169791431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.280702,47.151329,7.280702,47.151329",
     "geom:latitude":47.151329,
     "geom:longitude":7.280702,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ngfeldweg 91",
     "sg:city":"Biel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169791431,
-    "wof:lastmodified":1449035190,
+    "wof:lastmodified":1466209005,
     "wof:name":"Garage C.misteli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.280702,47.151329,7.280702,47.151329],
+  "bbox": [
+    7.280702,
+    47.151329,
+    7.280702,
+    47.151329
+],
   "geometry": {"coordinates":[7.280702,47.151329],"type":"Point"}
 }

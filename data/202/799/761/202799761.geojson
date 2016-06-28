@@ -2,13 +2,14 @@
   "id": 202799761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.693923,45.873199,5.693923,45.873199",
     "geom:latitude":45.873199,
     "geom:longitude":5.693923,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand'rue 15",
     "sg:city":"Chavornay",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202799761,
-    "wof:lastmodified":1449062659,
+    "wof:lastmodified":1466211518,
     "wof:name":"Atelier D'architecture Duvillard P. Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.693923,45.873199,5.693923,45.873199],
+  "bbox": [
+    5.693923,
+    45.873199,
+    5.693923,
+    45.873199
+],
   "geometry": {"coordinates":[5.693923,45.873199],"type":"Point"}
 }

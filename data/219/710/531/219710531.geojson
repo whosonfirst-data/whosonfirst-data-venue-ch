@@ -2,13 +2,14 @@
   "id": 219710531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.69439,47.510406,8.69439,47.510406",
     "geom:latitude":47.510406,
     "geom:longitude":8.69439,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberfeldst 158",
     "sg:city":"W\u00fclflingen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219710531,
-    "wof:lastmodified":1449070601,
+    "wof:lastmodified":1466212245,
     "wof:name":"Schweizerischer Bankverein",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.69439,47.510406,8.69439,47.510406],
+  "bbox": [
+    8.69439,
+    47.510406,
+    8.69439,
+    47.510406
+],
   "geometry": {"coordinates":[8.69439,47.510406],"type":"Point"}
 }

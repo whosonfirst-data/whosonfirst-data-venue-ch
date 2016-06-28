@@ -2,13 +2,14 @@
   "id": 235952753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.757591,47.201149,8.757591,47.201149",
     "geom:latitude":47.201149,
     "geom:longitude":8.757591,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwerzistrasse 10 8807 Freienbach. Postfach 442",
     "sg:city":"Freienbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235952753,
-    "wof:lastmodified":1449008495,
+    "wof:lastmodified":1466209086,
     "wof:name":"F & W Holzbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.757591,47.201149,8.757591,47.201149],
+  "bbox": [
+    8.757591,
+    47.201149,
+    8.757591,
+    47.201149
+],
   "geometry": {"coordinates":[8.757591,47.201149],"type":"Point"}
 }

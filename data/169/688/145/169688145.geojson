@@ -2,13 +2,14 @@
   "id": 169688145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.908655,46.014397,8.908655,46.014397",
     "geom:latitude":46.014397,
     "geom:longitude":8.908655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zona Strecce Casella Postale 148",
     "sg:city":"Bioggio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169688145,
-    "wof:lastmodified":1449033923,
+    "wof:lastmodified":1466210623,
     "wof:name":"Galvolux Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "material"
     ]
 },
-  "bbox": [8.908655,46.014397,8.908655,46.014397],
+  "bbox": [
+    8.908655,
+    46.014397,
+    8.908655,
+    46.014397
+],
   "geometry": {"coordinates":[8.908655,46.014397],"type":"Point"}
 }

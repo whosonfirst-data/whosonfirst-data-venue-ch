@@ -2,13 +2,14 @@
   "id": 202551915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.146269,46.792519,7.146269,46.792519",
     "geom:latitude":46.792519,
     "geom:longitude":7.146269,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Daillettes 21 1700 Fribourg Case Postale 84",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202551915,
-    "wof:lastmodified":1449060621,
+    "wof:lastmodified":1466209212,
     "wof:name":"Ica, Ing\u00e9nieurs Civils Associ\u00e9s Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.146269,46.792519,7.146269,46.792519],
+  "bbox": [
+    7.146269,
+    46.792519,
+    7.146269,
+    46.792519
+],
   "geometry": {"coordinates":[7.146269,46.792519],"type":"Point"}
 }

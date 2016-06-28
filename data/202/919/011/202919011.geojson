@@ -2,13 +2,14 @@
   "id": 202919011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.52872,46.847179,9.52872,46.847179",
     "geom:latitude":46.847179,
     "geom:longitude":9.52872,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Margrethenstrasse 5",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202919011,
-    "wof:lastmodified":1449062034,
+    "wof:lastmodified":1466212089,
     "wof:name":"Bolliger + Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.52872,46.847179,9.52872,46.847179],
+  "bbox": [
+    9.52872,
+    46.847179,
+    9.52872,
+    46.847179
+],
   "geometry": {"coordinates":[9.52872,46.847179],"type":"Point"}
 }

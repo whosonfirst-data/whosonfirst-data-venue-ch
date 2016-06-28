@@ -2,13 +2,14 @@
   "id": 236893033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.32321,47.503159,8.32321,47.503159",
     "geom:latitude":47.503159,
     "geom:longitude":8.32321,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebhaldenweg 5",
     "sg:city":"Freienwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236893033,
-    "wof:lastmodified":1449004495,
+    "wof:lastmodified":1466213011,
     "wof:name":"Rti Informatik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.32321,47.503159,8.32321,47.503159],
+  "bbox": [
+    8.32321,
+    47.503159,
+    8.32321,
+    47.503159
+],
   "geometry": {"coordinates":[8.32321,47.503159],"type":"Point"}
 }

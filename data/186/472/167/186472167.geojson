@@ -2,13 +2,14 @@
   "id": 186472167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516705,47.388191,8.516705,47.388191",
     "geom:latitude":47.388191,
     "geom:longitude":8.516705,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfingstweidstrasse 31b 8005 Z\u00fcrich. Postfach 113",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186472167,
-    "wof:lastmodified":1449050457,
+    "wof:lastmodified":1466211187,
     "wof:name":"Ausgleichskasse Der Migros-betriebe",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516705,47.388191,8.516705,47.388191],
+  "bbox": [
+    8.516705,
+    47.388191,
+    8.516705,
+    47.388191
+],
   "geometry": {"coordinates":[8.516705,47.388191],"type":"Point"}
 }

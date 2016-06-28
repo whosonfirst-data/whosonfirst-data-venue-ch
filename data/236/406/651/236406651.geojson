@@ -2,13 +2,14 @@
   "id": 236406651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.571619,46.771107,7.571619,46.771107",
     "geom:latitude":46.771107,
     "geom:longitude":7.571619,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedernstrasse 21",
     "sg:city":"Uetendorf",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236406651,
-    "wof:lastmodified":1449003418,
+    "wof:lastmodified":1466212152,
     "wof:name":"Bibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.571619,46.771107,7.571619,46.771107],
+  "bbox": [
+    7.571619,
+    46.771107,
+    7.571619,
+    46.771107
+],
   "geometry": {"coordinates":[7.571619,46.771107],"type":"Point"}
 }

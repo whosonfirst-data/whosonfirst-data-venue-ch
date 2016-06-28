@@ -2,13 +2,14 @@
   "id": 220078465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.245003,34.05331,-118.245003,34.05331",
     "geom:latitude":34.05331,
     "geom:longitude":-118.245003,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Mur\u00e9e",
     "sg:city":"Vers-l'eglise",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220078465,
-    "wof:lastmodified":1449074745,
+    "wof:lastmodified":1466209558,
     "wof:name":"Busset Edgar & Fils",
     "wof:parent_id":85866227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.245003,34.05331,-118.245003,34.05331],
+  "bbox": [
+    -118.245003,
+    34.05331,
+    -118.245003,
+    34.05331
+],
   "geometry": {"coordinates":[-118.245003,34.05331],"type":"Point"}
 }

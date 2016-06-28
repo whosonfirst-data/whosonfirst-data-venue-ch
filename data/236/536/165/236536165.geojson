@@ -2,13 +2,14 @@
   "id": 236536165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606215,46.792,7.606215,46.792",
     "geom:latitude":46.792,
     "geom:longitude":7.606215,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3627",
     "sg:city":"Heimberg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236536165,
-    "wof:lastmodified":1449003651,
+    "wof:lastmodified":1466212574,
     "wof:name":"Swiss-boot.com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [7.606215,46.792,7.606215,46.792],
+  "bbox": [
+    7.606215,
+    46.792,
+    7.606215,
+    46.792
+],
   "geometry": {"coordinates":[7.606215,46.792],"type":"Point"}
 }

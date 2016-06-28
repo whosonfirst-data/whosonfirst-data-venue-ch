@@ -2,13 +2,14 @@
   "id": 252756265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.41511,48.445831,-4.41511,48.445831",
     "geom:latitude":48.445831,
     "geom:longitude":-4.41511,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place De L'eglise",
     "sg:city":"Morgins",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252756265,
-    "wof:lastmodified":1449006076,
+    "wof:lastmodified":1466209382,
     "wof:name":"Au Chat Bott\u00e9 Winteler-frei Evelyne Objekte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.41511,48.445831,-4.41511,48.445831],
+  "bbox": [
+    -4.41511,
+    48.445831,
+    -4.41511,
+    48.445831
+],
   "geometry": {"coordinates":[-4.41511,48.445831],"type":"Point"}
 }

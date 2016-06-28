@@ -2,13 +2,14 @@
   "id": 236500773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.283785,47.596775,8.283785,47.596775",
     "geom:latitude":47.596775,
     "geom:longitude":8.283785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Ziehl 1",
     "sg:city":"Rietheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236500773,
-    "wof:lastmodified":1449002297,
+    "wof:lastmodified":1466212464,
     "wof:name":"E. St\u00f6ckli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.283785,47.596775,8.283785,47.596775],
+  "bbox": [
+    8.283785,
+    47.596775,
+    8.283785,
+    47.596775
+],
   "geometry": {"coordinates":[8.283785,47.596775],"type":"Point"}
 }

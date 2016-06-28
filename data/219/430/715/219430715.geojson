@@ -2,13 +2,14 @@
   "id": 219430715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.117395,46.230492,6.117395,46.230492",
     "geom:latitude":46.230492,
     "geom:longitude":6.117395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gaggiolo 58",
     "sg:city":"Stabio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219430715,
-    "wof:lastmodified":1449072634,
+    "wof:lastmodified":1466210462,
     "wof:name":"M. Schneider Sa Transports Internationaux",
     "wof:parent_id":85862451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.117395,46.230492,6.117395,46.230492],
+  "bbox": [
+    6.117395,
+    46.230492,
+    6.117395,
+    46.230492
+],
   "geometry": {"coordinates":[6.117395,46.230492],"type":"Point"}
 }

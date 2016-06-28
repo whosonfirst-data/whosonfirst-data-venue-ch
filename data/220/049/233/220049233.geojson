@@ -2,13 +2,14 @@
   "id": 220049233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.971998,47.262573,7.971998,47.262573",
     "geom:latitude":47.262573,
     "geom:longitude":7.971998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 3",
     "sg:city":"Wikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220049233,
-    "wof:lastmodified":1449074434,
+    "wof:lastmodified":1466209301,
     "wof:name":"Helmut Felten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.971998,47.262573,7.971998,47.262573],
+  "bbox": [
+    7.971998,
+    47.262573,
+    7.971998,
+    47.262573
+],
   "geometry": {"coordinates":[7.971998,47.262573],"type":"Point"}
 }

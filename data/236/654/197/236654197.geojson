@@ -2,13 +2,14 @@
   "id": 236654197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.731488,47.500111,8.731488,47.500111",
     "geom:latitude":47.500111,
     "geom:longitude":8.731488,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obertor 44",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236654197,
-    "wof:lastmodified":1449002614,
+    "wof:lastmodified":1466212753,
     "wof:name":"Rudin Optik Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "spectacle"
     ]
 },
-  "bbox": [8.731488,47.500111,8.731488,47.500111],
+  "bbox": [
+    8.731488,
+    47.500111,
+    8.731488,
+    47.500111
+],
   "geometry": {"coordinates":[8.731488,47.500111],"type":"Point"}
 }

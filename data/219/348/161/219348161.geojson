@@ -2,13 +2,14 @@
   "id": 219348161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.368281,47.344494,7.368281,47.344494",
     "geom:latitude":47.344494,
     "geom:longitude":7.368281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Del\u00e9mont 61",
     "sg:city":"Courrendlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219348161,
-    "wof:lastmodified":1449070525,
+    "wof:lastmodified":1466209676,
     "wof:name":"Garage Du Casino Willemin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.368281,47.344494,7.368281,47.344494],
+  "bbox": [
+    7.368281,
+    47.344494,
+    7.368281,
+    47.344494
+],
   "geometry": {"coordinates":[7.368281,47.344494],"type":"Point"}
 }

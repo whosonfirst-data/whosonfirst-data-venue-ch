@@ -2,13 +2,14 @@
   "id": 186148281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.872483,47.348064,7.872483,47.348064",
     "geom:latitude":47.348064,
     "geom:longitude":7.872483,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oltnerstr. 11 4653 Oberg\u00f6sgen. Postfach",
     "sg:city":"Oberg\u00f6sgen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186148281,
-    "wof:lastmodified":1449052584,
+    "wof:lastmodified":1466211432,
     "wof:name":"Meier Erwin & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.872483,47.348064,7.872483,47.348064],
+  "bbox": [
+    7.872483,
+    47.348064,
+    7.872483,
+    47.348064
+],
   "geometry": {"coordinates":[7.872483,47.348064],"type":"Point"}
 }

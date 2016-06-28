@@ -2,13 +2,14 @@
   "id": 203390921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.884412,46.287983,7.884412,46.287983",
     "geom:latitude":46.287983,
     "geom:longitude":7.884412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Terbinerstrasse 24",
     "sg:city":"Visp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203390921,
-    "wof:lastmodified":1449026877,
+    "wof:lastmodified":1466211435,
     "wof:name":"Dr.med.peter Z'brun Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.884412,46.287983,7.884412,46.287983],
+  "bbox": [
+    7.884412,
+    46.287983,
+    7.884412,
+    46.287983
+],
   "geometry": {"coordinates":[7.884412,46.287983],"type":"Point"}
 }

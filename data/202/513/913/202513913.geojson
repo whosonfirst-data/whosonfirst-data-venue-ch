@@ -2,13 +2,14 @@
   "id": 202513913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.745587,47.126118,8.745587,47.126118",
     "geom:latitude":47.126118,
     "geom:longitude":8.745587,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlestrasse 9",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202513913,
-    "wof:lastmodified":1449061764,
+    "wof:lastmodified":1466211567,
     "wof:name":"Geoterra Einsiedeln Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.745587,47.126118,8.745587,47.126118],
+  "bbox": [
+    8.745587,
+    47.126118,
+    8.745587,
+    47.126118
+],
   "geometry": {"coordinates":[8.745587,47.126118],"type":"Point"}
 }

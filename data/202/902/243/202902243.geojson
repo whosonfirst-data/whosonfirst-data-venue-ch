@@ -2,13 +2,14 @@
   "id": 202902243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528269,47.312229,8.528269,47.312229",
     "geom:latitude":47.312229,
     "geom:longitude":8.528269,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kilchbergstrasse 8",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202902243,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466212120,
     "wof:name":"Algro Alarmanlagen H. Grossert",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.528269,47.312229,8.528269,47.312229],
+  "bbox": [
+    8.528269,
+    47.312229,
+    8.528269,
+    47.312229
+],
   "geometry": {"coordinates":[8.528269,47.312229],"type":"Point"}
 }

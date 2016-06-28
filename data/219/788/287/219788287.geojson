@@ -2,13 +2,14 @@
   "id": 219788287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.299368,46.798237,10.299368,46.798237",
     "geom:latitude":46.798237,
     "geom:longitude":10.299368,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vi 356",
     "sg:city":"Scuol",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219788287,
-    "wof:lastmodified":1449072201,
+    "wof:lastmodified":1466212425,
     "wof:name":"Bar Trais Portas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.299368,46.798237,10.299368,46.798237],
+  "bbox": [
+    10.299368,
+    46.798237,
+    10.299368,
+    46.798237
+],
   "geometry": {"coordinates":[10.299368,46.798237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169687213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.289015,47.238346,8.289015,47.238346",
     "geom:latitude":47.238346,
     "geom:longitude":8.289015,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf",
     "sg:city":"M\u00fcswangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169687213,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466210585,
     "wof:name":"Arotec Deckensysteme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.289015,47.238346,8.289015,47.238346],
+  "bbox": [
+    8.289015,
+    47.238346,
+    8.289015,
+    47.238346
+],
   "geometry": {"coordinates":[8.289015,47.238346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203061541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.899972,47.351486,7.899972,47.351486",
     "geom:latitude":47.351486,
     "geom:longitude":7.899972,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstrasse 20 4600 Olten. Postfach 1159",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203061541,
-    "wof:lastmodified":1449026334,
+    "wof:lastmodified":1466210383,
     "wof:name":"Peter Schibli Architekt Eth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.899972,47.351486,7.899972,47.351486],
+  "bbox": [
+    7.899972,
+    47.351486,
+    7.899972,
+    47.351486
+],
   "geometry": {"coordinates":[7.899972,47.351486],"type":"Point"}
 }

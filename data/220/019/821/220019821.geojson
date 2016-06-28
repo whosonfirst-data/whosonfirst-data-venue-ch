@@ -2,13 +2,14 @@
   "id": 220019821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.853418,47.26255,8.853418,47.26255",
     "geom:latitude":47.26255,
     "geom:longitude":8.853418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcterstrasse 9",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220019821,
-    "wof:lastmodified":1449074512,
+    "wof:lastmodified":1466209049,
     "wof:name":"Holzwerkstatt Joweid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.853418,47.26255,8.853418,47.26255],
+  "bbox": [
+    8.853418,
+    47.26255,
+    8.853418,
+    47.26255
+],
   "geometry": {"coordinates":[8.853418,47.26255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202893845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606457,47.521702,7.606457,47.521702",
     "geom:latitude":47.521702,
     "geom:longitude":7.606457,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jurastrasse 10 4142 M\u00fcnchenstein. Postfach 632",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202893845,
-    "wof:lastmodified":1449062187,
+    "wof:lastmodified":1466212091,
     "wof:name":"Alfred Imhof Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.606457,47.521702,7.606457,47.521702],
+  "bbox": [
+    7.606457,
+    47.521702,
+    7.606457,
+    47.521702
+],
   "geometry": {"coordinates":[7.606457,47.521702],"type":"Point"}
 }

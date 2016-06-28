@@ -2,13 +2,14 @@
   "id": 203372065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.570201,47.560383,7.570201,47.560383",
     "geom:latitude":47.560383,
     "geom:longitude":7.570201,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sierenzerstrasse 13",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203372065,
-    "wof:lastmodified":1449026092,
+    "wof:lastmodified":1466211251,
     "wof:name":"Dr.med.maria Lachenmeier Zalad Spezial\u00e4rztin",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.570201,47.560383,7.570201,47.560383],
+  "bbox": [
+    7.570201,
+    47.560383,
+    7.570201,
+    47.560383
+],
   "geometry": {"coordinates":[7.570201,47.560383],"type":"Point"}
 }

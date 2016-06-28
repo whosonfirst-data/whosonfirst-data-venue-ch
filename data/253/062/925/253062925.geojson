@@ -2,13 +2,14 @@
   "id": 253062925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.559778,46.493065,7.559778,46.493065",
     "geom:latitude":46.493065,
     "geom:longitude":7.559778,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 17a 3715 Adelboden. Postfach 143",
     "sg:city":"Adelboden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253062925,
-    "wof:lastmodified":1449065575,
+    "wof:lastmodified":1466209557,
     "wof:name":"Wilhelm Blumen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.559778,46.493065,7.559778,46.493065],
+  "bbox": [
+    7.559778,
+    46.493065,
+    7.559778,
+    46.493065
+],
   "geometry": {"coordinates":[7.559778,46.493065],"type":"Point"}
 }

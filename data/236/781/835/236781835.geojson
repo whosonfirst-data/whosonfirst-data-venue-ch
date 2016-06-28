@@ -2,13 +2,14 @@
   "id": 236781835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.059064,46.225296,6.059064,46.225296",
     "geom:latitude":46.225296,
     "geom:longitude":6.059064,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstrasse 20",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236781835,
-    "wof:lastmodified":1449002139,
+    "wof:lastmodified":1466212899,
     "wof:name":"Air-color Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [6.059064,46.225296,6.059064,46.225296],
+  "bbox": [
+    6.059064,
+    46.225296,
+    6.059064,
+    46.225296
+],
   "geometry": {"coordinates":[6.059064,46.225296],"type":"Point"}
 }

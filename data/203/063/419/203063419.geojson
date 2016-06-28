@@ -2,13 +2,14 @@
   "id": 203063419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.67762,46.504807,6.67762,46.504807",
     "geom:latitude":46.504807,
     "geom:longitude":6.67762,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Lavaux 36 1095 Ch\u00e2telard-lutry Case Postale 361",
     "sg:city":"Ch\u00e2telard-lutry",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203063419,
-    "wof:lastmodified":1449025106,
+    "wof:lastmodified":1466210391,
     "wof:name":"Pierre Andres Bureau D'architecture",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.67762,46.504807,6.67762,46.504807],
+  "bbox": [
+    6.67762,
+    46.504807,
+    6.67762,
+    46.504807
+],
   "geometry": {"coordinates":[6.67762,46.504807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236553333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448347,46.933964,7.448347,46.933964",
     "geom:latitude":46.933964,
     "geom:longitude":7.448347,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tierparkweg 1",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236553333,
-    "wof:lastmodified":1449001692,
+    "wof:lastmodified":1466212589,
     "wof:name":"St\u00e4dt.tierparkverwaltung D\u00e4hlh\u00f6lzli & B\u00e4rengraben",
     "wof:parent_id":85800599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448347,46.933964,7.448347,46.933964],
+  "bbox": [
+    7.448347,
+    46.933964,
+    7.448347,
+    46.933964
+],
   "geometry": {"coordinates":[7.448347,46.933964],"type":"Point"}
 }

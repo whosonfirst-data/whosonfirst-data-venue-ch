@@ -2,13 +2,14 @@
   "id": 219817615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.71091,46.119305,8.71091,46.119305",
     "geom:latitude":46.119305,
     "geom:longitude":8.71091,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Leoncavallo 13",
     "sg:city":"Brissago",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219817615,
-    "wof:lastmodified":1449073240,
+    "wof:lastmodified":1466212495,
     "wof:name":"Pantellini Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.71091,46.119305,8.71091,46.119305],
+  "bbox": [
+    8.71091,
+    46.119305,
+    8.71091,
+    46.119305
+],
   "geometry": {"coordinates":[8.71091,46.119305],"type":"Point"}
 }

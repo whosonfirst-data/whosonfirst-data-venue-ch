@@ -2,13 +2,14 @@
   "id": 219716585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.53553,47.206139,7.53553,47.206139",
     "geom:latitude":47.206139,
     "geom:longitude":7.53553,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stalden 1",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219716585,
-    "wof:lastmodified":1449070896,
+    "wof:lastmodified":1466212157,
     "wof:name":"Solothurner Handelsbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.53553,47.206139,7.53553,47.206139],
+  "bbox": [
+    7.53553,
+    47.206139,
+    7.53553,
+    47.206139
+],
   "geometry": {"coordinates":[7.53553,47.206139],"type":"Point"}
 }

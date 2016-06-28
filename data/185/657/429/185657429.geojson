@@ -2,13 +2,14 @@
   "id": 185657429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.506884,47.475803,9.506884,47.475803",
     "geom:latitude":47.475803,
     "geom:longitude":9.506884,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenweg 6",
     "sg:city":"Rorschach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185657429,
-    "wof:lastmodified":1449006785,
+    "wof:lastmodified":1466210475,
     "wof:name":"Art Cd Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.506884,47.475803,9.506884,47.475803],
+  "bbox": [
+    9.506884,
+    47.475803,
+    9.506884,
+    47.475803
+],
   "geometry": {"coordinates":[9.506884,47.475803],"type":"Point"}
 }

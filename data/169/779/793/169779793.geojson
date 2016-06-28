@@ -2,13 +2,14 @@
   "id": 169779793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.13363,47.041431,0.13363,47.041431",
     "geom:latitude":47.041431,
     "geom:longitude":0.13363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"52",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169779793,
-    "wof:lastmodified":1449033198,
+    "wof:lastmodified":1466208911,
     "wof:name":"Stiftung 19",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.13363,47.041431,0.13363,47.041431],
+  "bbox": [
+    0.13363,
+    47.041431,
+    0.13363,
+    47.041431
+],
   "geometry": {"coordinates":[0.13363,47.041431],"type":"Point"}
 }

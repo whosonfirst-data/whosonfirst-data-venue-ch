@@ -2,13 +2,14 @@
   "id": 236389231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.638102,46.518955,6.638102,46.518955",
     "geom:latitude":46.518955,
     "geom:longitude":6.638102,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue D'ecole-sup\u00e9rieure 2 1005 Lausanne Case Postale 2672",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236389231,
-    "wof:lastmodified":1449004436,
+    "wof:lastmodified":1466212207,
     "wof:name":"Ecole Vinet",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.638102,46.518955,6.638102,46.518955],
+  "bbox": [
+    6.638102,
+    46.518955,
+    6.638102,
+    46.518955
+],
   "geometry": {"coordinates":[6.638102,46.518955],"type":"Point"}
 }

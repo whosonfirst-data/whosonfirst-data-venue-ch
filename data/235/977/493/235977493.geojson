@@ -2,13 +2,14 @@
   "id": 235977493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.06589,47.0392,9.06589,47.0392",
     "geom:latitude":47.0392,
     "geom:longitude":9.06589,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bolengasse 5",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235977493,
-    "wof:lastmodified":1449008609,
+    "wof:lastmodified":1466209311,
     "wof:name":"Walter Heer Schreinerei & Innenausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.06589,47.0392,9.06589,47.0392],
+  "bbox": [
+    9.06589,
+    47.0392,
+    9.06589,
+    47.0392
+],
   "geometry": {"coordinates":[9.06589,47.0392],"type":"Point"}
 }

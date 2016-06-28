@@ -2,13 +2,14 @@
   "id": 186517369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.490021,47.395119,8.490021,47.395119",
     "geom:latitude":47.395119,
     "geom:longitude":8.490021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4ndlistrasse 10",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186517369,
-    "wof:lastmodified":1449051915,
+    "wof:lastmodified":1466211587,
     "wof:name":"St\u00e4dt.altersheim Gr\u00fcnau",
     "wof:parent_id":85800071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [8.490021,47.395119,8.490021,47.395119],
+  "bbox": [
+    8.490021,
+    47.395119,
+    8.490021,
+    47.395119
+],
   "geometry": {"coordinates":[8.490021,47.395119],"type":"Point"}
 }

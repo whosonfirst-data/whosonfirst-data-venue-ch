@@ -2,13 +2,14 @@
   "id": 169764289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.947235,46.151768,8.947235,46.151768",
     "geom:latitude":46.151768,
     "geom:longitude":8.947235,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Monte Ceneri 5",
     "sg:city":"Cadenazzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169764289,
-    "wof:lastmodified":1449035807,
+    "wof:lastmodified":1466211467,
     "wof:name":"Easy & Free",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.947235,46.151768,8.947235,46.151768],
+  "bbox": [
+    8.947235,
+    46.151768,
+    8.947235,
+    46.151768
+],
   "geometry": {"coordinates":[8.947235,46.151768],"type":"Point"}
 }

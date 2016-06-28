@@ -2,13 +2,14 @@
   "id": 186201277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.131206,47.135815,8.131206,47.135815",
     "geom:latitude":47.135815,
     "geom:longitude":8.131206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchlstrasse",
     "sg:city":"Nottwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186201277,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466209098,
     "wof:name":"Schaller Urs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.131206,47.135815,8.131206,47.135815],
+  "bbox": [
+    8.131206,
+    47.135815,
+    8.131206,
+    47.135815
+],
   "geometry": {"coordinates":[8.131206,47.135815],"type":"Point"}
 }

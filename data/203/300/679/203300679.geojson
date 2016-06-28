@@ -2,13 +2,14 @@
   "id": 203300679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.609102,47.130791,7.609102,47.130791",
     "geom:latitude":47.130791,
     "geom:longitude":7.609102,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Niklausstrasse 6",
     "sg:city":"Koppigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203300679,
-    "wof:lastmodified":1449026023,
+    "wof:lastmodified":1466210544,
     "wof:name":"Dr.med.daniel Gr\u00fctter Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.609102,47.130791,7.609102,47.130791],
+  "bbox": [
+    7.609102,
+    47.130791,
+    7.609102,
+    47.130791
+],
   "geometry": {"coordinates":[7.609102,47.130791],"type":"Point"}
 }

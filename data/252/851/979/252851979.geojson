@@ -2,13 +2,14 @@
   "id": 252851979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.445798,46.624424,10.445798,46.624424",
     "geom:latitude":46.624424,
     "geom:longitude":10.445798,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Plazza Da Posta 67a",
     "sg:city":"M\u00fcstair",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252851979,
-    "wof:lastmodified":1449006116,
+    "wof:lastmodified":1466210474,
     "wof:name":"Moda Micado",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.445798,46.624424,10.445798,46.624424],
+  "bbox": [
+    10.445798,
+    46.624424,
+    10.445798,
+    46.624424
+],
   "geometry": {"coordinates":[10.445798,46.624424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185899021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.398974,47.39817,8.398974,47.39817",
     "geom:latitude":47.39817,
     "geom:longitude":8.398974,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bremgartnerstrasse 78",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185899021,
-    "wof:lastmodified":1449008116,
+    "wof:lastmodified":1466209822,
     "wof:name":"Architektur Thiessen Gmbh Planungs, Architekturauftr\u00e4ge; Ausf\u00fchrung, Bearbeitung Usw",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.398974,47.39817,8.398974,47.39817],
+  "bbox": [
+    8.398974,
+    47.39817,
+    8.398974,
+    47.39817
+],
   "geometry": {"coordinates":[8.398974,47.39817],"type":"Point"}
 }

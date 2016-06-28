@@ -2,13 +2,14 @@
   "id": 236212341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517632,47.378513,8.517632,47.378513",
     "geom:latitude":47.378513,
     "geom:longitude":8.517632,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Erismannstrasse 36",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236212341,
-    "wof:lastmodified":1449003856,
+    "wof:lastmodified":1466210933,
     "wof:name":"B-sides Productions Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.517632,47.378513,8.517632,47.378513],
+  "bbox": [
+    8.517632,
+    47.378513,
+    8.517632,
+    47.378513
+],
   "geometry": {"coordinates":[8.517632,47.378513],"type":"Point"}
 }

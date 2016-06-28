@@ -2,13 +2,14 @@
   "id": 236554017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.574333,47.384117,8.574333,47.384117",
     "geom:latitude":47.384117,
     "geom:longitude":8.574333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichbergstrasse 221 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236554017,
-    "wof:lastmodified":1449002190,
+    "wof:lastmodified":1466212588,
     "wof:name":"Zoo Z\u00fcrich Ag",
     "wof:parent_id":85799903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.574333,47.384117,8.574333,47.384117],
+  "bbox": [
+    8.574333,
+    47.384117,
+    8.574333,
+    47.384117
+],
   "geometry": {"coordinates":[8.574333,47.384117],"type":"Point"}
 }

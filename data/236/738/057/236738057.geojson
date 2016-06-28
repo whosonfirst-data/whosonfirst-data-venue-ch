@@ -2,13 +2,14 @@
   "id": 236738057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.540752,47.204483,7.540752,47.204483",
     "geom:latitude":47.204483,
     "geom:longitude":7.540752,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Berthastrasse 7",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236738057,
-    "wof:lastmodified":1449004183,
+    "wof:lastmodified":1466212978,
     "wof:name":"Dr.peter Schnider Chiropraktor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.540752,47.204483,7.540752,47.204483],
+  "bbox": [
+    7.540752,
+    47.204483,
+    7.540752,
+    47.204483
+],
   "geometry": {"coordinates":[7.540752,47.204483],"type":"Point"}
 }

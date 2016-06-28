@@ -2,13 +2,14 @@
   "id": 202784465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.579689,47.346458,8.579689,47.346458",
     "geom:latitude":47.346458,
     "geom:longitude":8.579689,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossbergstrasse 2",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202784465,
-    "wof:lastmodified":1449061780,
+    "wof:lastmodified":1466211381,
     "wof:name":"Architec",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.579689,47.346458,8.579689,47.346458],
+  "bbox": [
+    8.579689,
+    47.346458,
+    8.579689,
+    47.346458
+],
   "geometry": {"coordinates":[8.579689,47.346458],"type":"Point"}
 }

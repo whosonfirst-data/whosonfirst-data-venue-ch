@@ -2,13 +2,14 @@
   "id": 236783283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516409,47.188984,8.516409,47.188984",
     "geom:latitude":47.188984,
     "geom:longitude":8.516409,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberneuhofstr 5",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236783283,
-    "wof:lastmodified":1449001756,
+    "wof:lastmodified":1466212889,
     "wof:name":"Intertest Treuhand Baar Zug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [8.516409,47.188984,8.516409,47.188984],
+  "bbox": [
+    8.516409,
+    47.188984,
+    8.516409,
+    47.188984
+],
   "geometry": {"coordinates":[8.516409,47.188984],"type":"Point"}
 }

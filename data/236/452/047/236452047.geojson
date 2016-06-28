@@ -2,13 +2,14 @@
   "id": 236452047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465715,46.947323,7.465715,46.947323",
     "geom:latitude":46.947323,
     "geom:longitude":7.465715,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schosshaldenstrasse 37",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236452047,
-    "wof:lastmodified":1449002265,
+    "wof:lastmodified":1466212434,
     "wof:name":"Regionalbibliothek Bern Zweigstelle Laubegg",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.465715,46.947323,7.465715,46.947323],
+  "bbox": [
+    7.465715,
+    46.947323,
+    7.465715,
+    46.947323
+],
   "geometry": {"coordinates":[7.465715,46.947323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236653601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.581917,47.088387,7.581917,47.088387",
     "geom:latitude":47.088387,
     "geom:longitude":7.581917,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnstrasse 17",
     "sg:city":"Kirchberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236653601,
-    "wof:lastmodified":1449001855,
+    "wof:lastmodified":1466212751,
     "wof:name":"Schad + Frey Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.581917,47.088387,7.581917,47.088387],
+  "bbox": [
+    7.581917,
+    47.088387,
+    7.581917,
+    47.088387
+],
   "geometry": {"coordinates":[7.581917,47.088387],"type":"Point"}
 }

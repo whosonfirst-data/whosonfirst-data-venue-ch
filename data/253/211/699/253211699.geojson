@@ -2,13 +2,14 @@
   "id": 253211699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.64142,46.778629,6.64142,46.778629",
     "geom:latitude":46.778629,
     "geom:longitude":6.64142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f4pital Rue De L' 31b",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253211699,
-    "wof:lastmodified":1449063540,
+    "wof:lastmodified":1466211125,
     "wof:name":"La Bel'boul' Ange, Ghisalberti Raphael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.64142,46.778629,6.64142,46.778629],
+  "bbox": [
+    6.64142,
+    46.778629,
+    6.64142,
+    46.778629
+],
   "geometry": {"coordinates":[6.64142,46.778629],"type":"Point"}
 }

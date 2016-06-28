@@ -2,13 +2,14 @@
   "id": 169738783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146035,46.204647,6.146035,46.204647",
     "geom:latitude":46.204647,
     "geom:longitude":6.146035,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Des Moulins",
     "sg:city":"Geneve",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169738783,
-    "wof:lastmodified":1449035095,
+    "wof:lastmodified":1466211227,
     "wof:name":"Banque International De Commercebred",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "insurance"
     ]
 },
-  "bbox": [6.146035,46.204647,6.146035,46.204647],
+  "bbox": [
+    6.146035,
+    46.204647,
+    6.146035,
+    46.204647
+],
   "geometry": {"coordinates":[6.146035,46.204647],"type":"Point"}
 }

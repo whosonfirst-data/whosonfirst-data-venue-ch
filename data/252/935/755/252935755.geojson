@@ -2,13 +2,14 @@
   "id": 252935755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.404606,47.392975,8.404606,47.392975",
     "geom:latitude":47.392975,
     "geom:longitude":8.404606,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4rchenstrasse 26",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252935755,
-    "wof:lastmodified":1449006317,
+    "wof:lastmodified":1466211377,
     "wof:name":"Dialog Fashion Gmbh",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.404606,47.392975,8.404606,47.392975],
+  "bbox": [
+    8.404606,
+    47.392975,
+    8.404606,
+    47.392975
+],
   "geometry": {"coordinates":[8.404606,47.392975],"type":"Point"}
 }

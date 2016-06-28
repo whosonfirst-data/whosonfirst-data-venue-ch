@@ -2,13 +2,14 @@
   "id": 236788057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"126.918747,37.510429,126.918747,37.510429",
     "geom:latitude":37.510429,
     "geom:longitude":126.918747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00f6rrlibuckstr. 150 Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236788057,
-    "wof:lastmodified":1449003336,
+    "wof:lastmodified":1466212989,
     "wof:name":"Taxomex Ag",
     "wof:parent_id":85926295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [126.918747,37.510429,126.918747,37.510429],
+  "bbox": [
+    126.918747,
+    37.510429,
+    126.918747,
+    37.510429
+],
   "geometry": {"coordinates":[126.918747,37.510429],"type":"Point"}
 }

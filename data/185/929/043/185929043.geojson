@@ -2,13 +2,14 @@
   "id": 185929043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.623919,47.332104,8.623919,47.332104",
     "geom:latitude":47.332104,
     "geom:longitude":8.623919,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 1",
     "sg:city":"Zumikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185929043,
-    "wof:lastmodified":1449007228,
+    "wof:lastmodified":1466210087,
     "wof:name":"Spitex-dienste",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.623919,47.332104,8.623919,47.332104],
+  "bbox": [
+    8.623919,
+    47.332104,
+    8.623919,
+    47.332104
+],
   "geometry": {"coordinates":[8.623919,47.332104],"type":"Point"}
 }

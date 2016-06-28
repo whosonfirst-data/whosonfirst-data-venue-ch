@@ -2,13 +2,14 @@
   "id": 185914985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.287058,47.605247,9.287058,47.605247",
     "geom:latitude":47.605247,
     "geom:longitude":9.287058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merweg 17",
     "sg:city":"G\u00fcttingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185914985,
-    "wof:lastmodified":1449007222,
+    "wof:lastmodified":1466209971,
     "wof:name":"Griesemer Holzbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.287058,47.605247,9.287058,47.605247],
+  "bbox": [
+    9.287058,
+    47.605247,
+    9.287058,
+    47.605247
+],
   "geometry": {"coordinates":[9.287058,47.605247],"type":"Point"}
 }

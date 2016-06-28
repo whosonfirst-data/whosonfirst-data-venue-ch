@@ -2,13 +2,14 @@
   "id": 220004089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.334783,46.742817,9.334783,46.742817",
     "geom:latitude":46.742817,
     "geom:longitude":9.334783,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Innerberg",
     "sg:city":"Tenna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220004089,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1466208914,
     "wof:name":"Christian Messmer Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.334783,46.742817,9.334783,46.742817],
+  "bbox": [
+    9.334783,
+    46.742817,
+    9.334783,
+    46.742817
+],
   "geometry": {"coordinates":[9.334783,46.742817],"type":"Point"}
 }

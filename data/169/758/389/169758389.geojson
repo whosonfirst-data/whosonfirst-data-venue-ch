@@ -2,13 +2,14 @@
   "id": 169758389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.432953,46.944649,7.432953,46.944649",
     "geom:latitude":46.944649,
     "geom:longitude":7.432953,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Belpstrasse 23",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169758389,
-    "wof:lastmodified":1449033687,
+    "wof:lastmodified":1466211419,
     "wof:name":"Verlag Vision",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.432953,46.944649,7.432953,46.944649],
+  "bbox": [
+    7.432953,
+    46.944649,
+    7.432953,
+    46.944649
+],
   "geometry": {"coordinates":[7.432953,46.944649],"type":"Point"}
 }

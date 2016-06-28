@@ -2,13 +2,14 @@
   "id": 253250459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.85531,47.395565,7.85531,47.395565",
     "geom:latitude":47.395565,
     "geom:longitude":7.85531,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 15",
     "sg:city":"L\u00e4ufelfingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253250459,
-    "wof:lastmodified":1449064510,
+    "wof:lastmodified":1466211482,
     "wof:name":"Schaub & Co B\u00e4ckerei-konditorei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.85531,47.395565,7.85531,47.395565],
+  "bbox": [
+    7.85531,
+    47.395565,
+    7.85531,
+    47.395565
+],
   "geometry": {"coordinates":[7.85531,47.395565],"type":"Point"}
 }

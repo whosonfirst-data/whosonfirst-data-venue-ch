@@ -2,13 +2,14 @@
   "id": 186246051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.50051,46.886086,7.50051,46.886086",
     "geom:latitude":46.886086,
     "geom:longitude":7.50051,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ahornweg 11",
     "sg:city":"Belp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186246051,
-    "wof:lastmodified":1449050437,
+    "wof:lastmodified":1466209440,
     "wof:name":"Weiss + Appetito Ag Belp",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.50051,46.886086,7.50051,46.886086],
+  "bbox": [
+    7.50051,
+    46.886086,
+    7.50051,
+    46.886086
+],
   "geometry": {"coordinates":[7.50051,46.886086],"type":"Point"}
 }

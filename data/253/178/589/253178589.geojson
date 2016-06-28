@@ -2,13 +2,14 @@
   "id": 253178589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.248998,47.412598,9.248998,47.412598",
     "geom:latitude":47.412598,
     "geom:longitude":9.248998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkplatz",
     "sg:city":"Br\u00fclisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253178589,
-    "wof:lastmodified":1449064956,
+    "wof:lastmodified":1466210823,
     "wof:name":"F\u00fcrer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.248998,47.412598,9.248998,47.412598],
+  "bbox": [
+    9.248998,
+    47.412598,
+    9.248998,
+    47.412598
+],
   "geometry": {"coordinates":[9.248998,47.412598],"type":"Point"}
 }

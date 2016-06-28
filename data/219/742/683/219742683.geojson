@@ -2,13 +2,14 @@
   "id": 219742683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.844075,47.546684,8.844075,47.546684",
     "geom:latitude":47.546684,
     "geom:longitude":8.844075,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 46",
     "sg:city":"Islikon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219742683,
-    "wof:lastmodified":1449070615,
+    "wof:lastmodified":1466212346,
     "wof:name":"Thurg. Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.844075,47.546684,8.844075,47.546684],
+  "bbox": [
+    8.844075,
+    47.546684,
+    8.844075,
+    47.546684
+],
   "geometry": {"coordinates":[8.844075,47.546684],"type":"Point"}
 }

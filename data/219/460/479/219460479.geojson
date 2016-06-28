@@ -2,13 +2,14 @@
   "id": 219460479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.525992,47.201195,7.525992,47.201195",
     "geom:latitude":47.201195,
     "geom:longitude":7.525992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabackerstr. 3",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219460479,
-    "wof:lastmodified":1449073715,
+    "wof:lastmodified":1466210763,
     "wof:name":"Centris Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [7.525992,47.201195,7.525992,47.201195],
+  "bbox": [
+    7.525992,
+    47.201195,
+    7.525992,
+    47.201195
+],
   "geometry": {"coordinates":[7.525992,47.201195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203049109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453104,46.961369,7.453104,46.961369",
     "geom:latitude":46.961369,
     "geom:longitude":7.453104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenweg 10",
     "sg:city":"Meinisberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203049109,
-    "wof:lastmodified":1449025866,
+    "wof:lastmodified":1466210135,
     "wof:name":"M\u00fcller-jost-zobrist Architekturb\u00fcro",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453104,46.961369,7.453104,46.961369],
+  "bbox": [
+    7.453104,
+    46.961369,
+    7.453104,
+    46.961369
+],
   "geometry": {"coordinates":[7.453104,46.961369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219198003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.88047,46.983746,6.88047,46.983746",
     "geom:latitude":46.983746,
     "geom:longitude":6.88047,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Courtils 8a",
     "sg:city":"Corcelles",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219198003,
-    "wof:lastmodified":1449071671,
+    "wof:lastmodified":1466210922,
     "wof:name":"Forelec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "component"
     ]
 },
-  "bbox": [6.88047,46.983746,6.88047,46.983746],
+  "bbox": [
+    6.88047,
+    46.983746,
+    6.88047,
+    46.983746
+],
   "geometry": {"coordinates":[6.88047,46.983746],"type":"Point"}
 }

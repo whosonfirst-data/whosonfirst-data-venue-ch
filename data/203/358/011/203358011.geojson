@@ -2,13 +2,14 @@
   "id": 203358011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465459,46.941711,7.465459,46.941711",
     "geom:latitude":46.941711,
     "geom:longitude":7.465459,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 111",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203358011,
-    "wof:lastmodified":1449025720,
+    "wof:lastmodified":1466211111,
     "wof:name":"Dr.med.j\u00fcrg Scheidegger Spezialarzt Fmh",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465459,46.941711,7.465459,46.941711],
+  "bbox": [
+    7.465459,
+    46.941711,
+    7.465459,
+    46.941711
+],
   "geometry": {"coordinates":[7.465459,46.941711],"type":"Point"}
 }

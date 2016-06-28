@@ -2,13 +2,14 @@
   "id": 203179899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.09723,46.202751,6.09723,46.202751",
     "geom:latitude":46.202751,
     "geom:longitude":6.09723,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Servan 38",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203179899,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466209248,
     "wof:name":"Dr M\u00e9d. Fran\u00e7ois Simon M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.09723,46.202751,6.09723,46.202751],
+  "bbox": [
+    6.09723,
+    46.202751,
+    6.09723,
+    46.202751
+],
   "geometry": {"coordinates":[6.09723,46.202751],"type":"Point"}
 }

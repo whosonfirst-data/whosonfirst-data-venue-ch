@@ -2,13 +2,14 @@
   "id": 236496729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436478,46.947395,7.436478,46.947395",
     "geom:latitude":46.947395,
     "geom:longitude":7.436478,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laupenstrasse 8",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236496729,
-    "wof:lastmodified":1449004645,
+    "wof:lastmodified":1466212519,
     "wof:name":"Andrologisches Labor",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blood"
     ]
 },
-  "bbox": [7.436478,46.947395,7.436478,46.947395],
+  "bbox": [
+    7.436478,
+    46.947395,
+    7.436478,
+    46.947395
+],
   "geometry": {"coordinates":[7.436478,46.947395],"type":"Point"}
 }

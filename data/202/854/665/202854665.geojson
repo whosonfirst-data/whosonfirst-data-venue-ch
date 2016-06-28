@@ -2,13 +2,14 @@
   "id": 202854665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.69683,47.510727,8.69683,47.510727",
     "geom:latitude":47.510727,
     "geom:longitude":8.69683,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00fclflingerstrasse 233",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202854665,
-    "wof:lastmodified":1449062550,
+    "wof:lastmodified":1466211808,
     "wof:name":"Rebsamen + Partner Architekten Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.69683,47.510727,8.69683,47.510727],
+  "bbox": [
+    8.69683,
+    47.510727,
+    8.69683,
+    47.510727
+],
   "geometry": {"coordinates":[8.69683,47.510727],"type":"Point"}
 }

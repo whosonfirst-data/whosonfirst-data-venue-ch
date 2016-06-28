@@ -2,13 +2,14 @@
   "id": 186381417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53507,47.180519,8.53507,47.180519",
     "geom:latitude":47.180519,
     "geom:longitude":8.53507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talacherstrasse 5",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186381417,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466210446,
     "wof:name":"Schnarwiler Edy Ag.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53507,47.180519,8.53507,47.180519],
+  "bbox": [
+    8.53507,
+    47.180519,
+    8.53507,
+    47.180519
+],
   "geometry": {"coordinates":[8.53507,47.180519],"type":"Point"}
 }

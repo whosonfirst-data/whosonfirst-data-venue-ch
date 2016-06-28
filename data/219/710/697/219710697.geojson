@@ -2,13 +2,14 @@
   "id": 219710697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.348729,47.36203,7.348729,47.36203",
     "geom:latitude":47.36203,
     "geom:longitude":7.348729,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ave De La Gare 43",
     "sg:city":"Delsberg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219710697,
-    "wof:lastmodified":1449070602,
+    "wof:lastmodified":1466212245,
     "wof:name":"Schweizerischer Bankverein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.348729,47.36203,7.348729,47.36203],
+  "bbox": [
+    7.348729,
+    47.36203,
+    7.348729,
+    47.36203
+],
   "geometry": {"coordinates":[7.348729,47.36203],"type":"Point"}
 }

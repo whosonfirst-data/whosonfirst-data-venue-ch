@@ -2,13 +2,14 @@
   "id": 169777381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548196,47.367676,8.548196,47.367676",
     "geom:latitude":47.367676,
     "geom:longitude":8.548196,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Olgastrasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169777381,
-    "wof:lastmodified":1449034425,
+    "wof:lastmodified":1466211620,
     "wof:name":"Bernet Marcel Public Relations",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548196,47.367676,8.548196,47.367676],
+  "bbox": [
+    8.548196,
+    47.367676,
+    8.548196,
+    47.367676
+],
   "geometry": {"coordinates":[8.548196,47.367676],"type":"Point"}
 }

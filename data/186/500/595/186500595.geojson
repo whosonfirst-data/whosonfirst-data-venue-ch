@@ -2,13 +2,14 @@
   "id": 186500595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.112465,47.173393,8.112465,47.173393",
     "geom:latitude":47.173393,
     "geom:longitude":8.112465,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Martinsgrund 9",
     "sg:city":"Sursee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186500595,
-    "wof:lastmodified":1449051062,
+    "wof:lastmodified":1466211443,
     "wof:name":"Betagtenzentrum St. Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.112465,47.173393,8.112465,47.173393],
+  "bbox": [
+    8.112465,
+    47.173393,
+    8.112465,
+    47.173393
+],
   "geometry": {"coordinates":[8.112465,47.173393],"type":"Point"}
 }

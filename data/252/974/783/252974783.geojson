@@ -2,13 +2,14 @@
   "id": 252974783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.499161,46.509029,6.499161,46.509029",
     "geom:latitude":46.509029,
     "geom:longitude":6.499161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 55",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252974783,
-    "wof:lastmodified":1449006369,
+    "wof:lastmodified":1466211683,
     "wof:name":"Gilbert Demenga & Fils Magasin De Porcelaine",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.499161,46.509029,6.499161,46.509029],
+  "bbox": [
+    6.499161,
+    46.509029,
+    6.499161,
+    46.509029
+],
   "geometry": {"coordinates":[6.499161,46.509029],"type":"Point"}
 }

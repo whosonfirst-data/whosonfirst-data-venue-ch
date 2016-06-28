@@ -2,13 +2,14 @@
   "id": 252762481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.264241,47.489841,8.264241,47.489841",
     "geom:latitude":47.489841,
     "geom:longitude":8.264241,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schiffm\u00fchleweg 4 5417 Untersiggenthal. Postfach 4",
     "sg:city":"Untersiggenthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252762481,
-    "wof:lastmodified":1449006170,
+    "wof:lastmodified":1466209452,
     "wof:name":"Hausr\u00e4umungs-zentrale Hbs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.264241,47.489841,8.264241,47.489841],
+  "bbox": [
+    8.264241,
+    47.489841,
+    8.264241,
+    47.489841
+],
   "geometry": {"coordinates":[8.264241,47.489841],"type":"Point"}
 }

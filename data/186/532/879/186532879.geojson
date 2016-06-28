@@ -2,13 +2,14 @@
   "id": 186532879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532953,47.312943,8.532953,47.312943",
     "geom:latitude":47.312943,
     "geom:longitude":8.532953,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badstrasse 4",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186532879,
-    "wof:lastmodified":1449051285,
+    "wof:lastmodified":1466211670,
     "wof:name":"Altersheim Adliswil",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532953,47.312943,8.532953,47.312943],
+  "bbox": [
+    8.532953,
+    47.312943,
+    8.532953,
+    47.312943
+],
   "geometry": {"coordinates":[8.532953,47.312943],"type":"Point"}
 }

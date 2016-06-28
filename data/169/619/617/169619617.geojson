@@ -2,13 +2,14 @@
   "id": 169619617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.79624,47.553551,7.79624,47.553551",
     "geom:latitude":47.553551,
     "geom:longitude":7.79624,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Salinenstrasse 9",
     "sg:city":"Rheinfelden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169619617,
-    "wof:lastmodified":1449033282,
+    "wof:lastmodified":1466209601,
     "wof:name":"Compumet Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antistatic"
     ]
 },
-  "bbox": [7.79624,47.553551,7.79624,47.553551],
+  "bbox": [
+    7.79624,
+    47.553551,
+    7.79624,
+    47.553551
+],
   "geometry": {"coordinates":[7.79624,47.553551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219349451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564112,47.438698,8.564112,47.438698",
     "geom:latitude":47.438698,
     "geom:longitude":8.564112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flughofstrasse 58",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[],
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219349451,
-    "wof:lastmodified":1449071721,
+    "wof:lastmodified":1466209687,
     "wof:name":"Autoglas Drive-in Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564112,47.438698,8.564112,47.438698],
+  "bbox": [
+    8.564112,
+    47.438698,
+    8.564112,
+    47.438698
+],
   "geometry": {"coordinates":[8.564112,47.438698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236469291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.237945,47.132824,7.237945,47.132824",
     "geom:latitude":47.132824,
     "geom:longitude":7.237945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ndtestrasse 20 2503 Biel/bienne. Postfach 7335",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236469291,
-    "wof:lastmodified":1449005350,
+    "wof:lastmodified":1466212456,
     "wof:name":"Arthist Dokumentation Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.237945,47.132824,7.237945,47.132824],
+  "bbox": [
+    7.237945,
+    47.132824,
+    7.237945,
+    47.132824
+],
   "geometry": {"coordinates":[7.237945,47.132824],"type":"Point"}
 }

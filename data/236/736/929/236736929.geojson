@@ -2,13 +2,14 @@
   "id": 236736929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.168489,47.652313,9.168489,47.652313",
     "geom:latitude":47.652313,
     "geom:longitude":9.168489,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Finkernstrasse 1",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236736929,
-    "wof:lastmodified":1449005205,
+    "wof:lastmodified":1466212980,
     "wof:name":"Dr.hans Braun Chiropraktor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.168489,47.652313,9.168489,47.652313],
+  "bbox": [
+    9.168489,
+    47.652313,
+    9.168489,
+    47.652313
+],
   "geometry": {"coordinates":[9.168489,47.652313],"type":"Point"}
 }

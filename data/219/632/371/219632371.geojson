@@ -2,13 +2,14 @@
   "id": 219632371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.50813,46.768116,7.50813,46.768116",
     "geom:latitude":46.768116,
     "geom:longitude":7.50813,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Postgasse",
     "sg:city":"Wattenwil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219632371,
-    "wof:lastmodified":1449072639,
+    "wof:lastmodified":1466211982,
     "wof:name":"Raiffeisenbank Wattenwil-burgistein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.50813,46.768116,7.50813,46.768116],
+  "bbox": [
+    7.50813,
+    46.768116,
+    7.50813,
+    46.768116
+],
   "geometry": {"coordinates":[7.50813,46.768116],"type":"Point"}
 }

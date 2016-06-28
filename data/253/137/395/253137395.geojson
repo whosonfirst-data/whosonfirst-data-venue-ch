@@ -2,13 +2,14 @@
   "id": 253137395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.488887,47.393379,8.488887,47.393379",
     "geom:latitude":47.393379,
     "geom:longitude":8.488887,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Max-h\u00f6gger-strasse 6 8048 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253137395,
-    "wof:lastmodified":1449065367,
+    "wof:lastmodified":1466210354,
     "wof:name":"Beckinvest Ag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.488887,47.393379,8.488887,47.393379],
+  "bbox": [
+    8.488887,
+    47.393379,
+    8.488887,
+    47.393379
+],
   "geometry": {"coordinates":[8.488887,47.393379],"type":"Point"}
 }

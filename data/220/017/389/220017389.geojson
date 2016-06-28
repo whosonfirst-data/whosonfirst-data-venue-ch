@@ -2,13 +2,14 @@
   "id": 220017389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.314625,46.981964,7.314625,46.981964",
     "geom:latitude":46.981964,
     "geom:longitude":7.314625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Murzelenstrasse 24",
     "sg:city":"Murzelen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220017389,
-    "wof:lastmodified":1449074476,
+    "wof:lastmodified":1466209028,
     "wof:name":"Hanspeter Walther Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.314625,46.981964,7.314625,46.981964],
+  "bbox": [
+    7.314625,
+    46.981964,
+    7.314625,
+    46.981964
+],
   "geometry": {"coordinates":[7.314625,46.981964],"type":"Point"}
 }

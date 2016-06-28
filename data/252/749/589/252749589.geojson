@@ -2,13 +2,14 @@
   "id": 252749589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.515262,47.359573,8.515262,47.359573",
     "geom:latitude":47.359573,
     "geom:longitude":8.515262,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6pferstrasse 28",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":252749589,
-    "wof:lastmodified":1449005729,
+    "wof:lastmodified":1466209322,
     "wof:name":"Hans Kaufmann Ag",
     "wof:parent_id":85800635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "designing"
     ]
 },
-  "bbox": [8.515262,47.359573,8.515262,47.359573],
+  "bbox": [
+    8.515262,
+    47.359573,
+    8.515262,
+    47.359573
+],
   "geometry": {"coordinates":[8.515262,47.359573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203161855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.640453,46.515335,6.640453,46.515335",
     "geom:latitude":46.515335,
     "geom:longitude":6.640453,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Eglantine 5",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203161855,
-    "wof:lastmodified":1449025666,
+    "wof:lastmodified":1466209048,
     "wof:name":"Dr M\u00e9d. Chien Tran-thang M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.640453,46.515335,6.640453,46.515335],
+  "bbox": [
+    6.640453,
+    46.515335,
+    6.640453,
+    46.515335
+],
   "geometry": {"coordinates":[6.640453,46.515335],"type":"Point"}
 }

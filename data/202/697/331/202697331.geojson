@@ -2,13 +2,14 @@
   "id": 202697331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.272655,47.238518,7.272655,47.238518",
     "geom:latitude":47.238518,
     "geom:longitude":7.272655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand Rue 42",
     "sg:city":"Malleray",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202697331,
-    "wof:lastmodified":1449061696,
+    "wof:lastmodified":1466210565,
     "wof:name":"Samuel Schmitter Bureau Technique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.272655,47.238518,7.272655,47.238518],
+  "bbox": [
+    7.272655,
+    47.238518,
+    7.272655,
+    47.238518
+],
   "geometry": {"coordinates":[7.272655,47.238518],"type":"Point"}
 }

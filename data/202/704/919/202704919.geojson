@@ -2,13 +2,14 @@
   "id": 202704919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.749867,47.238869,8.749867,47.238869",
     "geom:latitude":47.238869,
     "geom:longitude":8.749867,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctihofstrasse 53 8713 Uerikon. Postfach",
     "sg:city":"Uerikon",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202704919,
-    "wof:lastmodified":1449060779,
+    "wof:lastmodified":1466210635,
     "wof:name":"Schneider Dr. T.r. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.749867,47.238869,8.749867,47.238869],
+  "bbox": [
+    8.749867,
+    47.238869,
+    8.749867,
+    47.238869
+],
   "geometry": {"coordinates":[8.749867,47.238869],"type":"Point"}
 }

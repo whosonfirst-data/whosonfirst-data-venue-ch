@@ -2,13 +2,14 @@
   "id": 236363131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.433675,47.515659,9.433675,47.515659",
     "geom:latitude":47.515659,
     "geom:longitude":9.433675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Promenadenstrasse 17",
     "sg:city":"Arbon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236363131,
-    "wof:lastmodified":1449004764,
+    "wof:lastmodified":1466212131,
     "wof:name":"Realschule Promenadenschulhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.433675,47.515659,9.433675,47.515659],
+  "bbox": [
+    9.433675,
+    47.515659,
+    9.433675,
+    47.515659
+],
   "geometry": {"coordinates":[9.433675,47.515659],"type":"Point"}
 }

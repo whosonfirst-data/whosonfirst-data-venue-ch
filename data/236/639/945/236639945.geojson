@@ -2,13 +2,14 @@
   "id": 236639945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517945,47.178143,8.517945,47.178143",
     "geom:latitude":47.178143,
     "geom:longitude":8.517945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aeussere G\u00fcterstrasse 1",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236639945,
-    "wof:lastmodified":1449005229,
+    "wof:lastmodified":1466212732,
     "wof:name":"Hilco-chemie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [8.517945,47.178143,8.517945,47.178143],
+  "bbox": [
+    8.517945,
+    47.178143,
+    8.517945,
+    47.178143
+],
   "geometry": {"coordinates":[8.517945,47.178143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236471891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62796,46.761753,7.62796,46.761753",
     "geom:latitude":46.761753,
     "geom:longitude":7.62796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenstrasse 4",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236471891,
-    "wof:lastmodified":1449002887,
+    "wof:lastmodified":1466212461,
     "wof:name":"Bachmann & Co",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [7.62796,46.761753,7.62796,46.761753],
+  "bbox": [
+    7.62796,
+    46.761753,
+    7.62796,
+    46.761753
+],
   "geometry": {"coordinates":[7.62796,46.761753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236407029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.292429,47.585571,8.292429,47.585571",
     "geom:latitude":47.585571,
     "geom:longitude":8.292429,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 34",
     "sg:city":"Zurzach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236407029,
-    "wof:lastmodified":1449003495,
+    "wof:lastmodified":1466212259,
     "wof:name":"Bibliotheksverein Zurzach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [8.292429,47.585571,8.292429,47.585571],
+  "bbox": [
+    8.292429,
+    47.585571,
+    8.292429,
+    47.585571
+],
   "geometry": {"coordinates":[8.292429,47.585571],"type":"Point"}
 }

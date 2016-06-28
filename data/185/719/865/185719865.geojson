@@ -2,13 +2,14 @@
   "id": 185719865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436705,46.945351,7.436705,46.945351",
     "geom:latitude":46.945351,
     "geom:longitude":7.436705,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Monbijoustrasse 10 3011 Bern. Postfach 6921",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185719865,
-    "wof:lastmodified":1449006812,
+    "wof:lastmodified":1466211274,
     "wof:name":"Keller & Sutter Advokaturb\u00fcro",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436705,46.945351,7.436705,46.945351],
+  "bbox": [
+    7.436705,
+    46.945351,
+    7.436705,
+    46.945351
+],
   "geometry": {"coordinates":[7.436705,46.945351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236544217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.478089,47.347984,8.478089,47.347984",
     "geom:latitude":47.347984,
     "geom:longitude":8.478089,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rainstrasse 3",
     "sg:city":"Stallikon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236544217,
-    "wof:lastmodified":1449005244,
+    "wof:lastmodified":1466212577,
     "wof:name":"Ammann Druck Ag",
     "wof:parent_id":85800629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.478089,47.347984,8.478089,47.347984],
+  "bbox": [
+    8.478089,
+    47.347984,
+    8.478089,
+    47.347984
+],
   "geometry": {"coordinates":[8.478089,47.347984],"type":"Point"}
 }

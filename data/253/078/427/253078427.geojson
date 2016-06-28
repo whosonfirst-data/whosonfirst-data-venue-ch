@@ -2,13 +2,14 @@
   "id": 253078427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.176612,46.731907,8.176612,46.731907",
     "geom:latitude":46.731907,
     "geom:longitude":8.176612,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeughausstrasse 1",
     "sg:city":"Meiringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253078427,
-    "wof:lastmodified":1449065307,
+    "wof:lastmodified":1466209702,
     "wof:name":"Andreas Otth Brennstoffe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.176612,46.731907,8.176612,46.731907],
+  "bbox": [
+    8.176612,
+    46.731907,
+    8.176612,
+    46.731907
+],
   "geometry": {"coordinates":[8.176612,46.731907],"type":"Point"}
 }

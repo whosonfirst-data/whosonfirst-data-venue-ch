@@ -2,13 +2,14 @@
   "id": 253402927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.502673,47.417973,8.502673,47.417973",
     "geom:latitude":47.417973,
     "geom:longitude":8.502673,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fcrliweg 2 8046 Z\u00fcrich. Postfach 3270",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253402927,
-    "wof:lastmodified":1449063773,
+    "wof:lastmodified":1466212178,
     "wof:name":"Mario Gherra Ready 4 You",
     "wof:parent_id":85800355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.502673,47.417973,8.502673,47.417973],
+  "bbox": [
+    8.502673,
+    47.417973,
+    8.502673,
+    47.417973
+],
   "geometry": {"coordinates":[8.502673,47.417973],"type":"Point"}
 }

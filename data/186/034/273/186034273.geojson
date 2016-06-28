@@ -2,13 +2,14 @@
   "id": 186034273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.01248,47.501171,8.01248,47.501171",
     "geom:latitude":47.501171,
     "geom:longitude":8.01248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterer Rainweg 33",
     "sg:city":"Frick",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186034273,
-    "wof:lastmodified":1449050546,
+    "wof:lastmodified":1466209777,
     "wof:name":"B\u00f6ller Kollektivgesellschaft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.01248,47.501171,8.01248,47.501171],
+  "bbox": [
+    8.01248,
+    47.501171,
+    8.01248,
+    47.501171
+],
   "geometry": {"coordinates":[8.01248,47.501171],"type":"Point"}
 }

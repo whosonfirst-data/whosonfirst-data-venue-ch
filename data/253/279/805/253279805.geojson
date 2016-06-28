@@ -2,13 +2,14 @@
   "id": 253279805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.167154,46.846134,8.167154,46.846134",
     "geom:latitude":46.846134,
     "geom:longitude":8.167154,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6ssligasse",
     "sg:city":"Giswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253279805,
-    "wof:lastmodified":1449064175,
+    "wof:lastmodified":1466211764,
     "wof:name":"Fritz Mathis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.167154,46.846134,8.167154,46.846134],
+  "bbox": [
+    8.167154,
+    46.846134,
+    8.167154,
+    46.846134
+],
   "geometry": {"coordinates":[8.167154,46.846134],"type":"Point"}
 }

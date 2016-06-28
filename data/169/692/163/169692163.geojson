@@ -2,13 +2,14 @@
   "id": 169692163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.553886,47.422138,8.553886,47.422138",
     "geom:latitude":47.422138,
     "geom:longitude":8.553886,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandacker 21 8052 Z\u00fcrich. Postfach 421",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169692163,
-    "wof:lastmodified":1449033562,
+    "wof:lastmodified":1466210814,
     "wof:name":"Hangartner Planungs Ag Haustechn. Anlagen; Planung, Ausf\u00fchrung, Wartung Usw",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.553886,47.422138,8.553886,47.422138],
+  "bbox": [
+    8.553886,
+    47.422138,
+    8.553886,
+    47.422138
+],
   "geometry": {"coordinates":[8.553886,47.422138],"type":"Point"}
 }

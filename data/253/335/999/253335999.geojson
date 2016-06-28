@@ -2,13 +2,14 @@
   "id": 253335999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.434808,47.420147,8.434808,47.420147",
     "geom:latitude":47.420147,
     "geom:longitude":8.434808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6sstalstrasse 70",
     "sg:city":"Turbenthal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253335999,
-    "wof:lastmodified":1449064792,
+    "wof:lastmodified":1466212034,
     "wof:name":"Papeterie Schmid",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.434808,47.420147,8.434808,47.420147],
+  "bbox": [
+    8.434808,
+    47.420147,
+    8.434808,
+    47.420147
+],
   "geometry": {"coordinates":[8.434808,47.420147],"type":"Point"}
 }

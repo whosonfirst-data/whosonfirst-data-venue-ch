@@ -2,13 +2,14 @@
   "id": 202944419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.541845,46.522976,6.541845,46.522976",
     "geom:latitude":46.522976,
     "geom:longitude":6.541845,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Vieux-bourg 26",
     "sg:city":"Denges",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202944419,
-    "wof:lastmodified":1449061393,
+    "wof:lastmodified":1466212303,
     "wof:name":"Anne Raccoursier Bureau D'architecture",
     "wof:parent_id":85799935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.541845,46.522976,6.541845,46.522976],
+  "bbox": [
+    6.541845,
+    46.522976,
+    6.541845,
+    46.522976
+],
   "geometry": {"coordinates":[6.541845,46.522976],"type":"Point"}
 }

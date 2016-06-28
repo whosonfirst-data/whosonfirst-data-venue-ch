@@ -2,13 +2,14 @@
   "id": 236911413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312092,46.9869,8.312092,46.9869",
     "geom:latitude":46.9869,
     "geom:longitude":8.312092,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Peter Ochs-strasse 73",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236911413,
-    "wof:lastmodified":1449004598,
+    "wof:lastmodified":1466213020,
     "wof:name":"Memag-informatik Gmbh",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.312092,46.9869,8.312092,46.9869],
+  "bbox": [
+    8.312092,
+    46.9869,
+    8.312092,
+    46.9869
+],
   "geometry": {"coordinates":[8.312092,46.9869],"type":"Point"}
 }

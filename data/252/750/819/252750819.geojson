@@ -2,13 +2,14 @@
   "id": 252750819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.687567,47.218651,8.687567,47.218651",
     "geom:latitude":47.218651,
     "geom:longitude":8.687567,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Einsiedlerstrasse 37",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252750819,
-    "wof:lastmodified":1449006092,
+    "wof:lastmodified":1466209336,
     "wof:name":"Anderegg Visual Creation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "advertising"
     ]
 },
-  "bbox": [8.687567,47.218651,8.687567,47.218651],
+  "bbox": [
+    8.687567,
+    47.218651,
+    8.687567,
+    47.218651
+],
   "geometry": {"coordinates":[8.687567,47.218651],"type":"Point"}
 }

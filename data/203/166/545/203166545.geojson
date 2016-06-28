@@ -2,13 +2,14 @@
   "id": 203166545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.199137,46.253693,6.199137,46.253693",
     "geom:latitude":46.253693,
     "geom:longitude":6.199137,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Relion 11",
     "sg:city":"Collonge-bellerive",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203166545,
-    "wof:lastmodified":1449026010,
+    "wof:lastmodified":1466209101,
     "wof:name":"Dr M\u00e9d. Clive Ghose M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.199137,46.253693,6.199137,46.253693],
+  "bbox": [
+    6.199137,
+    46.253693,
+    6.199137,
+    46.253693
+],
   "geometry": {"coordinates":[6.199137,46.253693],"type":"Point"}
 }

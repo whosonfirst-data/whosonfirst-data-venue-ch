@@ -2,13 +2,14 @@
   "id": 202754413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.400898,47.185314,7.400898,47.185314",
     "geom:latitude":47.185314,
     "geom:longitude":7.400898,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sportstrasse 2",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202754413,
-    "wof:lastmodified":1449061745,
+    "wof:lastmodified":1466211098,
     "wof:name":"Verein F\u00fcr Fertigungstechnologie, Vft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.400898,47.185314,7.400898,47.185314],
+  "bbox": [
+    7.400898,
+    47.185314,
+    7.400898,
+    47.185314
+],
   "geometry": {"coordinates":[7.400898,47.185314],"type":"Point"}
 }

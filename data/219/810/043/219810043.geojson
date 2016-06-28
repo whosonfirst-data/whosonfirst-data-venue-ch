@@ -2,13 +2,14 @@
   "id": 219810043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.242485,47.494076,9.242485,47.494076",
     "geom:latitude":47.494076,
     "geom:longitude":9.242485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obergasse 13",
     "sg:city":"Bischofszell",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219810043,
-    "wof:lastmodified":1449071434,
+    "wof:lastmodified":1466212480,
     "wof:name":"Ledergerber Birgitta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.242485,47.494076,9.242485,47.494076],
+  "bbox": [
+    9.242485,
+    47.494076,
+    9.242485,
+    47.494076
+],
   "geometry": {"coordinates":[9.242485,47.494076],"type":"Point"}
 }

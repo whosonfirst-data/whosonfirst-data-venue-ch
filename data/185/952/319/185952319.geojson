@@ -2,13 +2,14 @@
   "id": 185952319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.643865,47.412312,8.643865,47.412312",
     "geom:latitude":47.412312,
     "geom:longitude":8.643865,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorfstrasse 21b",
     "sg:city":"Wangen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185952319,
-    "wof:lastmodified":1449007753,
+    "wof:lastmodified":1466210305,
     "wof:name":"Anawa Trading Sa",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcohol"
     ]
 },
-  "bbox": [8.643865,47.412312,8.643865,47.412312],
+  "bbox": [
+    8.643865,
+    47.412312,
+    8.643865,
+    47.412312
+],
   "geometry": {"coordinates":[8.643865,47.412312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185885585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.201851,47.220997,7.201851,47.220997",
     "geom:latitude":47.220997,
     "geom:longitude":7.201851,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue H.f.sandoz 49",
     "sg:city":"Tavannes",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185885585,
-    "wof:lastmodified":1449007480,
+    "wof:lastmodified":1466209748,
     "wof:name":"Piffaretti Jean-louis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.201851,47.220997,7.201851,47.220997],
+  "bbox": [
+    7.201851,
+    47.220997,
+    7.201851,
+    47.220997
+],
   "geometry": {"coordinates":[7.201851,47.220997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220103105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.607967,47.554737,7.607967,47.554737",
     "geom:latitude":47.554737,
     "geom:longitude":7.607967,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eptingerstrasse 20",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220103105,
-    "wof:lastmodified":1449074542,
+    "wof:lastmodified":1466209765,
     "wof:name":"Hug Alexander",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.607967,47.554737,7.607967,47.554737],
+  "bbox": [
+    7.607967,
+    47.554737,
+    7.607967,
+    47.554737
+],
   "geometry": {"coordinates":[7.607967,47.554737],"type":"Point"}
 }

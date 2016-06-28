@@ -2,13 +2,14 @@
   "id": 186191371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.429702,47.053432,8.429702,47.053432",
     "geom:latitude":47.053432,
     "geom:longitude":8.429702,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenterrasse 9",
     "sg:city":"Greppen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186191371,
-    "wof:lastmodified":1449051987,
+    "wof:lastmodified":1466209021,
     "wof:name":"Roduner & Lusser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.429702,47.053432,8.429702,47.053432],
+  "bbox": [
+    8.429702,
+    47.053432,
+    8.429702,
+    47.053432
+],
   "geometry": {"coordinates":[8.429702,47.053432],"type":"Point"}
 }

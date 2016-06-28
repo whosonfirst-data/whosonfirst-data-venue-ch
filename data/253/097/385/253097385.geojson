@@ -2,13 +2,14 @@
   "id": 253097385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.074408,46.10265,7.074408,46.10265",
     "geom:latitude":46.10265,
     "geom:longitude":7.074408,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Lausanne 20",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253097385,
-    "wof:lastmodified":1449063990,
+    "wof:lastmodified":1466209905,
     "wof:name":"Vision 7 Sa Optique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.074408,46.10265,7.074408,46.10265],
+  "bbox": [
+    7.074408,
+    46.10265,
+    7.074408,
+    46.10265
+],
   "geometry": {"coordinates":[7.074408,46.10265],"type":"Point"}
 }

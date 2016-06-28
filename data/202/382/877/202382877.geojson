@@ -2,13 +2,14 @@
   "id": 202382877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.23976,47.131119,7.23976,47.131119",
     "geom:latitude":47.131119,
     "geom:longitude":7.23976,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergstrasse 66 2503 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202382877,
-    "wof:lastmodified":1449060794,
+    "wof:lastmodified":1466209316,
     "wof:name":"Arteplage Biel Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.23976,47.131119,7.23976,47.131119],
+  "bbox": [
+    7.23976,
+    47.131119,
+    7.23976,
+    47.131119
+],
   "geometry": {"coordinates":[7.23976,47.131119],"type":"Point"}
 }

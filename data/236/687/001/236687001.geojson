@@ -2,13 +2,14 @@
   "id": 236687001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629077,46.776966,7.629077,46.776966",
     "geom:latitude":46.776966,
     "geom:longitude":7.629077,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nauweg 16a",
     "sg:city":"Steffisburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236687001,
-    "wof:lastmodified":1449002388,
+    "wof:lastmodified":1466212901,
     "wof:name":"Kohli Anlagen Und Steuerungen Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [7.629077,46.776966,7.629077,46.776966],
+  "bbox": [
+    7.629077,
+    46.776966,
+    7.629077,
+    46.776966
+],
   "geometry": {"coordinates":[7.629077,46.776966],"type":"Point"}
 }

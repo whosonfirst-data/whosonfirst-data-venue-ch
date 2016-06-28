@@ -2,13 +2,14 @@
   "id": 203062835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.526986,46.880329,9.526986,46.880329",
     "geom:latitude":46.880329,
     "geom:longitude":9.526986,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcsswinggel 20",
     "sg:city":"Haldenstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203062835,
-    "wof:lastmodified":1449026732,
+    "wof:lastmodified":1466210386,
     "wof:name":"Peter Zumthor Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.526986,46.880329,9.526986,46.880329],
+  "bbox": [
+    9.526986,
+    46.880329,
+    9.526986,
+    46.880329
+],
   "geometry": {"coordinates":[9.526986,46.880329],"type":"Point"}
 }

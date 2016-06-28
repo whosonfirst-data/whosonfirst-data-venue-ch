@@ -2,13 +2,14 @@
   "id": 185671019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.50744,47.399616,8.50744,47.399616",
     "geom:latitude":47.399616,
     "geom:longitude":8.50744,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00fcrbergstr. 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185671019,
-    "wof:lastmodified":1449006984,
+    "wof:lastmodified":1466211676,
     "wof:name":"Bmp Werbeagentur Ag",
     "wof:parent_id":85800071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [8.50744,47.399616,8.50744,47.399616],
+  "bbox": [
+    8.50744,
+    47.399616,
+    8.50744,
+    47.399616
+],
   "geometry": {"coordinates":[8.50744,47.399616],"type":"Point"}
 }

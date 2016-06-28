@@ -2,13 +2,14 @@
   "id": 202473079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.629101,47.693237,8.629101,47.693237",
     "geom:latitude":47.693237,
     "geom:longitude":8.629101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenstrasse 21",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202473079,
-    "wof:lastmodified":1449060642,
+    "wof:lastmodified":1466211070,
     "wof:name":"Dwp Architekten Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.629101,47.693237,8.629101,47.693237],
+  "bbox": [
+    8.629101,
+    47.693237,
+    8.629101,
+    47.693237
+],
   "geometry": {"coordinates":[8.629101,47.693237],"type":"Point"}
 }

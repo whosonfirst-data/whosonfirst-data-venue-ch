@@ -2,13 +2,14 @@
   "id": 219302447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.438094,47.453533,8.438094,47.453533",
     "geom:latitude":47.453533,
     "geom:longitude":8.438094,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klingentalstrasse 12",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219302447,
-    "wof:lastmodified":1449071592,
+    "wof:lastmodified":1466209267,
     "wof:name":"Mersan Gmbh Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.438094,47.453533,8.438094,47.453533],
+  "bbox": [
+    8.438094,
+    47.453533,
+    8.438094,
+    47.453533
+],
   "geometry": {"coordinates":[8.438094,47.453533],"type":"Point"}
 }

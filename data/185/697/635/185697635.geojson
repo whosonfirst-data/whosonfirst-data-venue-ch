@@ -2,13 +2,14 @@
   "id": 185697635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.271661,47.35202,8.271661,47.35202",
     "geom:latitude":47.35202,
     "geom:longitude":8.271661,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bankstrasse 21",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185697635,
-    "wof:lastmodified":1449007614,
+    "wof:lastmodified":1466211064,
     "wof:name":"Dr.kurt Fricker Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.271661,47.35202,8.271661,47.35202],
+  "bbox": [
+    8.271661,
+    47.35202,
+    8.271661,
+    47.35202
+],
   "geometry": {"coordinates":[8.271661,47.35202],"type":"Point"}
 }

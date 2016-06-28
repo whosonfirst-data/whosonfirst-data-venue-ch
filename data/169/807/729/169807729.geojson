@@ -2,13 +2,14 @@
   "id": 169807729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.624808,47.443901,8.624808,47.443901",
     "geom:latitude":47.443901,
     "geom:longitude":8.624808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weingasse 8",
     "sg:city":"Bassersdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169807729,
-    "wof:lastmodified":1449033536,
+    "wof:lastmodified":1466209123,
     "wof:name":"Schaufelberger Abbruch-aushub-gartenbau",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.624808,47.443901,8.624808,47.443901],
+  "bbox": [
+    8.624808,
+    47.443901,
+    8.624808,
+    47.443901
+],
   "geometry": {"coordinates":[8.624808,47.443901],"type":"Point"}
 }

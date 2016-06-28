@@ -2,13 +2,14 @@
   "id": 220009997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598271,47.469482,7.598271,47.469482",
     "geom:latitude":47.469482,
     "geom:longitude":7.598271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Centralstrasse 1",
     "sg:city":"Diepoldsau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220009997,
-    "wof:lastmodified":1449074863,
+    "wof:lastmodified":1466208966,
     "wof:name":"Franz Maurer Schreinerei",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.598271,47.469482,7.598271,47.469482],
+  "bbox": [
+    7.598271,
+    47.469482,
+    7.598271,
+    47.469482
+],
   "geometry": {"coordinates":[7.598271,47.469482],"type":"Point"}
 }

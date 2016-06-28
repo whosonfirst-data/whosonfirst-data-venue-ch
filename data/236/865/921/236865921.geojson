@@ -2,13 +2,14 @@
   "id": 236865921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.099305,47.507488,8.099305,47.507488",
     "geom:latitude":47.507488,
     "geom:longitude":8.099305,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 22a",
     "sg:city":"Elfingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236865921,
-    "wof:lastmodified":1449004269,
+    "wof:lastmodified":1466212943,
     "wof:name":"Raiffeisenbank B\u00f6zberg West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.099305,47.507488,8.099305,47.507488],
+  "bbox": [
+    8.099305,
+    47.507488,
+    8.099305,
+    47.507488
+],
   "geometry": {"coordinates":[8.099305,47.507488],"type":"Point"}
 }

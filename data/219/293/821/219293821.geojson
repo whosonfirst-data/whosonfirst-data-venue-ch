@@ -2,13 +2,14 @@
   "id": 219293821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.386664,47.334251,8.386664,47.334251",
     "geom:latitude":47.334251,
     "geom:longitude":8.386664,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Einschlagweg 36",
     "sg:city":"Trimbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219293821,
-    "wof:lastmodified":1449071088,
+    "wof:lastmodified":1466209186,
     "wof:name":"Josef B\u00fctler Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.386664,47.334251,8.386664,47.334251],
+  "bbox": [
+    8.386664,
+    47.334251,
+    8.386664,
+    47.334251
+],
   "geometry": {"coordinates":[8.386664,47.334251],"type":"Point"}
 }

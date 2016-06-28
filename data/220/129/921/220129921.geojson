@@ -2,13 +2,14 @@
   "id": 220129921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.894355,46.544815,7.894355,46.544815",
     "geom:latitude":46.544815,
     "geom:longitude":7.894355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Auf Der Fuhren",
     "sg:city":"Lauterbrunnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220129921,
-    "wof:lastmodified":1449074687,
+    "wof:lastmodified":1466209995,
     "wof:name":"Raffainer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.894355,46.544815,7.894355,46.544815],
+  "bbox": [
+    7.894355,
+    46.544815,
+    7.894355,
+    46.544815
+],
   "geometry": {"coordinates":[7.894355,46.544815],"type":"Point"}
 }

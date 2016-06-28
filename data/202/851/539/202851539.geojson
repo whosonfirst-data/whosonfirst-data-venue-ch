@@ -2,13 +2,14 @@
   "id": 202851539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.842675,47.544785,8.842675,47.544785",
     "geom:latitude":47.544785,
     "geom:longitude":8.842675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gachnangerstrasse 5a",
     "sg:city":"Islikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202851539,
-    "wof:lastmodified":1449061757,
+    "wof:lastmodified":1466211923,
     "wof:name":"Pengler H. & J. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.842675,47.544785,8.842675,47.544785],
+  "bbox": [
+    8.842675,
+    47.544785,
+    8.842675,
+    47.544785
+],
   "geometry": {"coordinates":[8.842675,47.544785],"type":"Point"}
 }

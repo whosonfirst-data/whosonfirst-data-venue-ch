@@ -2,13 +2,14 @@
   "id": 236827869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.654952,47.390068,9.654952,47.390068",
     "geom:latitude":47.390068,
     "geom:longitude":9.654952,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmitterstrasse 40b 9444 Diepoldsau. Postfach 120",
     "sg:city":"Diepoldsau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236827869,
-    "wof:lastmodified":1449002702,
+    "wof:lastmodified":1466212928,
     "wof:name":"Fed-bed Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.654952,47.390068,9.654952,47.390068],
+  "bbox": [
+    9.654952,
+    47.390068,
+    9.654952,
+    47.390068
+],
   "geometry": {"coordinates":[9.654952,47.390068],"type":"Point"}
 }

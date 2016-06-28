@@ -2,13 +2,14 @@
   "id": 252930547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.369823,47.181129,7.369823,47.181129",
     "geom:latitude":47.181129,
     "geom:longitude":7.369823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelwiesstrasse 39",
     "sg:city":"M\u00e4nnedorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252930547,
-    "wof:lastmodified":1449005751,
+    "wof:lastmodified":1466211327,
     "wof:name":"Christen M.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.369823,47.181129,7.369823,47.181129],
+  "bbox": [
+    7.369823,
+    47.181129,
+    7.369823,
+    47.181129
+],
   "geometry": {"coordinates":[7.369823,47.181129],"type":"Point"}
 }

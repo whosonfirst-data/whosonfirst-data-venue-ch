@@ -2,13 +2,14 @@
   "id": 203086247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.24502,47.524662,8.24502,47.524662",
     "geom:latitude":47.524662,
     "geom:longitude":8.24502,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6ckliweg 11",
     "sg:city":"Heiden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203086247,
-    "wof:lastmodified":1449026252,
+    "wof:lastmodified":1466210905,
     "wof:name":"Taro Architekten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.24502,47.524662,8.24502,47.524662],
+  "bbox": [
+    8.24502,
+    47.524662,
+    8.24502,
+    47.524662
+],
   "geometry": {"coordinates":[8.24502,47.524662],"type":"Point"}
 }

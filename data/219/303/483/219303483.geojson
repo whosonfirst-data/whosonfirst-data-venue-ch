@@ -2,13 +2,14 @@
   "id": 219303483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.981607,47.012459,6.981607,47.012459",
     "geom:latitude":47.012459,
     "geom:longitude":6.981607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Plage 18",
     "sg:city":"St-blaise",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219303483,
-    "wof:lastmodified":1449070410,
+    "wof:lastmodified":1466209275,
     "wof:name":"Nicolas Ghezzi Garage Fennec 4x4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.981607,47.012459,6.981607,47.012459],
+  "bbox": [
+    6.981607,
+    47.012459,
+    6.981607,
+    47.012459
+],
   "geometry": {"coordinates":[6.981607,47.012459],"type":"Point"}
 }

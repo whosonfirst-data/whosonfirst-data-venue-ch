@@ -2,13 +2,14 @@
   "id": 253050069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.616967,47.5229,7.616967,47.5229",
     "geom:latitude":47.5229,
     "geom:longitude":7.616967,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 60",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253050069,
-    "wof:lastmodified":1449064456,
+    "wof:lastmodified":1466209421,
     "wof:name":"Blumenhaus Brugger",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.616967,47.5229,7.616967,47.5229],
+  "bbox": [
+    7.616967,
+    47.5229,
+    7.616967,
+    47.5229
+],
   "geometry": {"coordinates":[7.616967,47.5229],"type":"Point"}
 }

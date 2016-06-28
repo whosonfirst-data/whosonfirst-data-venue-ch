@@ -2,13 +2,14 @@
   "id": 236926547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.541186,47.510952,7.541186,47.510952",
     "geom:latitude":47.510952,
     "geom:longitude":7.541186,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Follaterres 33",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236926547,
-    "wof:lastmodified":1449002666,
+    "wof:lastmodified":1466212999,
     "wof:name":"Dos Data Office Service, Jacobsson Christina",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.541186,47.510952,7.541186,47.510952],
+  "bbox": [
+    7.541186,
+    47.510952,
+    7.541186,
+    47.510952
+],
   "geometry": {"coordinates":[7.541186,47.510952],"type":"Point"}
 }

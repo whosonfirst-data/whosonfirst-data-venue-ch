@@ -2,13 +2,14 @@
   "id": 203161151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.662153,46.513252,6.662153,46.513252",
     "geom:latitude":46.513252,
     "geom:longitude":6.662153,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Fau-blanc 8",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203161151,
-    "wof:lastmodified":1449025661,
+    "wof:lastmodified":1466209040,
     "wof:name":"Dr M\u00e9d. Catherine Monod M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85800439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.662153,46.513252,6.662153,46.513252],
+  "bbox": [
+    6.662153,
+    46.513252,
+    6.662153,
+    46.513252
+],
   "geometry": {"coordinates":[6.662153,46.513252],"type":"Point"}
 }

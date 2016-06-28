@@ -2,13 +2,14 @@
   "id": 203398089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.447299,46.94783,7.447299,46.94783",
     "geom:latitude":46.94783,
     "geom:longitude":7.447299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Theaterplatz 2",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203398089,
-    "wof:lastmodified":1449025084,
+    "wof:lastmodified":1466211516,
     "wof:name":"Dr.med.richard Zimmermann Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.447299,46.94783,7.447299,46.94783],
+  "bbox": [
+    7.447299,
+    46.94783,
+    7.447299,
+    46.94783
+],
   "geometry": {"coordinates":[7.447299,46.94783],"type":"Point"}
 }

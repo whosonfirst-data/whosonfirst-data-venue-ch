@@ -2,13 +2,14 @@
   "id": 219290161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.661078,47.013111,7.661078,47.013111",
     "geom:latitude":47.013111,
     "geom:longitude":7.661078,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Emmenau 14",
     "sg:city":"Hasle-r\u00fcegsau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219290161,
-    "wof:lastmodified":1449071903,
+    "wof:lastmodified":1466209154,
     "wof:name":"Hugo Beck Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.661078,47.013111,7.661078,47.013111],
+  "bbox": [
+    7.661078,
+    47.013111,
+    7.661078,
+    47.013111
+],
   "geometry": {"coordinates":[7.661078,47.013111],"type":"Point"}
 }

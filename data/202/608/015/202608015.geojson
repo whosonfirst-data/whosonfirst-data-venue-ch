@@ -2,13 +2,14 @@
   "id": 202608015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543751,47.520191,8.543751,47.520191",
     "geom:latitude":47.520191,
     "geom:longitude":8.543751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterthurerstrasse 26 8180 B\u00fclach. Postfach",
     "sg:city":"B\u00fclach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202608015,
-    "wof:lastmodified":1449061200,
+    "wof:lastmodified":1466209735,
     "wof:name":"Lanz & Poier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543751,47.520191,8.543751,47.520191],
+  "bbox": [
+    8.543751,
+    47.520191,
+    8.543751,
+    47.520191
+],
   "geometry": {"coordinates":[8.543751,47.520191],"type":"Point"}
 }

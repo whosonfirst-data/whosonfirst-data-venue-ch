@@ -2,13 +2,14 @@
   "id": 169729565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598587,47.489094,7.598587,47.489094",
     "geom:latitude":47.489094,
     "geom:longitude":7.598587,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstrasse 28",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169729565,
-    "wof:lastmodified":1449034349,
+    "wof:lastmodified":1466211169,
     "wof:name":"Biocoba Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.598587,47.489094,7.598587,47.489094],
+  "bbox": [
+    7.598587,
+    47.489094,
+    7.598587,
+    47.489094
+],
   "geometry": {"coordinates":[7.598587,47.489094],"type":"Point"}
 }

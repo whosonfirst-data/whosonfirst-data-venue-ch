@@ -2,13 +2,14 @@
   "id": 236789517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.791514,47.23209,7.791514,47.23209",
     "geom:latitude":47.23209,
     "geom:longitude":7.791514,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gaswerk Str. 70a",
     "sg:city":"Langenthal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236789517,
-    "wof:lastmodified":1449003079,
+    "wof:lastmodified":1466212888,
     "wof:name":"Willi B\u00d6siger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [7.791514,47.23209,7.791514,47.23209],
+  "bbox": [
+    7.791514,
+    47.23209,
+    7.791514,
+    47.23209
+],
   "geometry": {"coordinates":[7.791514,47.23209],"type":"Point"}
 }

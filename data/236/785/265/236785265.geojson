@@ -2,13 +2,14 @@
   "id": 236785265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.53388,46.509441,6.53388,46.509441",
     "geom:latitude":46.509441,
     "geom:longitude":6.53388,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi Tr\u00e9si 9",
     "sg:city":"Pr\u00e9verenges",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236785265,
-    "wof:lastmodified":1449004566,
+    "wof:lastmodified":1466212888,
     "wof:name":"Forasol Sa",
     "wof:parent_id":85800161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [6.53388,46.509441,6.53388,46.509441],
+  "bbox": [
+    6.53388,
+    46.509441,
+    6.53388,
+    46.509441
+],
   "geometry": {"coordinates":[6.53388,46.509441],"type":"Point"}
 }

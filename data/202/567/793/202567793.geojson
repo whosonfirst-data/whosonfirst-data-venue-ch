@@ -2,13 +2,14 @@
   "id": 202567793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.859678,47.187225,8.859678,47.187225",
     "geom:latitude":47.187225,
     "geom:longitude":8.859678,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse",
     "sg:city":"Flums",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202567793,
-    "wof:lastmodified":1449062666,
+    "wof:lastmodified":1466209363,
     "wof:name":"Ingenieurb\u00fcro Marty Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.859678,47.187225,8.859678,47.187225],
+  "bbox": [
+    8.859678,
+    47.187225,
+    8.859678,
+    47.187225
+],
   "geometry": {"coordinates":[8.859678,47.187225],"type":"Point"}
 }

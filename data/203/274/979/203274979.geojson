@@ -2,13 +2,14 @@
   "id": 203274979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548956,47.384289,8.548956,47.384289",
     "geom:latitude":47.384289,
     "geom:longitude":8.548956,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rigistrasse 4",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203274979,
-    "wof:lastmodified":1449025180,
+    "wof:lastmodified":1466210278,
     "wof:name":"Dr.med.andr\u00e0s Vass Spezialarzt Fmh",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548956,47.384289,8.548956,47.384289],
+  "bbox": [
+    8.548956,
+    47.384289,
+    8.548956,
+    47.384289
+],
   "geometry": {"coordinates":[8.548956,47.384289],"type":"Point"}
 }

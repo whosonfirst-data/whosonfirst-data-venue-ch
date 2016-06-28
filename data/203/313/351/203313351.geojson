@@ -2,13 +2,14 @@
   "id": 203313351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.586482,47.536465,7.586482,47.536465",
     "geom:latitude":47.536465,
     "geom:longitude":7.586482,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterer Batterieweg 162",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203313351,
-    "wof:lastmodified":1449025008,
+    "wof:lastmodified":1466210668,
     "wof:name":"Dr.med.eva L\u00f6w Spezial\u00e4rztin",
     "wof:parent_id":85799747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.586482,47.536465,7.586482,47.536465],
+  "bbox": [
+    7.586482,
+    47.536465,
+    7.586482,
+    47.536465
+],
   "geometry": {"coordinates":[7.586482,47.536465],"type":"Point"}
 }

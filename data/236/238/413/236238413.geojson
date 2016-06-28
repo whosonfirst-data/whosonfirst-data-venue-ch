@@ -2,13 +2,14 @@
   "id": 236238413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.344078,47.351105,8.344078,47.351105",
     "geom:latitude":47.351105,
     "geom:longitude":8.344078,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Louis-casa\u00ef 79-81",
     "sg:city":"Meyrin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236238413,
-    "wof:lastmodified":1449002775,
+    "wof:lastmodified":1466211230,
     "wof:name":"Subway Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.344078,47.351105,8.344078,47.351105],
+  "bbox": [
+    8.344078,
+    47.351105,
+    8.344078,
+    47.351105
+],
   "geometry": {"coordinates":[8.344078,47.351105],"type":"Point"}
 }

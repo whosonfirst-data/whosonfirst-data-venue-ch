@@ -2,13 +2,14 @@
   "id": 203085059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.572289,47.519512,7.572289,47.519512",
     "geom:latitude":47.519512,
     "geom:longitude":7.572289,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talholzstrasse 24",
     "sg:city":"Bottmingen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203085059,
-    "wof:lastmodified":1449025391,
+    "wof:lastmodified":1466210902,
     "wof:name":"St\u00f6cklin & Emmenegger Architekturb\u00fcro",
     "wof:parent_id":85799843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.572289,47.519512,7.572289,47.519512],
+  "bbox": [
+    7.572289,
+    47.519512,
+    7.572289,
+    47.519512
+],
   "geometry": {"coordinates":[7.572289,47.519512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219739893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.538598,47.391632,8.538598,47.391632",
     "geom:latitude":47.391632,
     "geom:longitude":8.538598,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserplatz",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219739893,
-    "wof:lastmodified":1449071874,
+    "wof:lastmodified":1466212237,
     "wof:name":"Swiss Bank Corporation",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.538598,47.391632,8.538598,47.391632],
+  "bbox": [
+    8.538598,
+    47.391632,
+    8.538598,
+    47.391632
+],
   "geometry": {"coordinates":[8.538598,47.391632],"type":"Point"}
 }

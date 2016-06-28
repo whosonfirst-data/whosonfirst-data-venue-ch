@@ -2,13 +2,14 @@
   "id": 203194525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.847377,46.848766,6.847377,46.848766",
     "geom:latitude":46.848766,
     "geom:longitude":6.847377,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Impasse Du Jardin Du Cerf 1",
     "sg:city":"Estavayer-le-lac",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203194525,
-    "wof:lastmodified":1449026582,
+    "wof:lastmodified":1466209408,
     "wof:name":"Dr M\u00e9d. Jean-michel V\u00e9sy M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.847377,46.848766,6.847377,46.848766],
+  "bbox": [
+    6.847377,
+    46.848766,
+    6.847377,
+    46.848766
+],
   "geometry": {"coordinates":[6.847377,46.848766],"type":"Point"}
 }

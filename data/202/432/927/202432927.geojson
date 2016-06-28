@@ -2,13 +2,14 @@
   "id": 202432927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.634714,46.52919,6.634714,46.52919",
     "geom:latitude":46.52919,
     "geom:longitude":6.634714,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc-de-la-rouvraie Av. 28",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202432927,
-    "wof:lastmodified":1449060066,
+    "wof:lastmodified":1466210314,
     "wof:name":"Bury Sa",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.634714,46.52919,6.634714,46.52919],
+  "bbox": [
+    6.634714,
+    46.52919,
+    6.634714,
+    46.52919
+],
   "geometry": {"coordinates":[6.634714,46.52919],"type":"Point"}
 }

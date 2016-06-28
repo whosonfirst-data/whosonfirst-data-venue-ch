@@ -2,13 +2,14 @@
   "id": 186326957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.758223,47.506569,8.758223,47.506569",
     "geom:latitude":47.506569,
     "geom:longitude":8.758223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hegistrasse 35 8404 Stadel(winterthur). Postfach",
     "sg:city":"Oberwinterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186326957,
-    "wof:lastmodified":1449051517,
+    "wof:lastmodified":1466210033,
     "wof:name":"Belcasa Modulhaus Gmbh",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.758223,47.506569,8.758223,47.506569],
+  "bbox": [
+    8.758223,
+    47.506569,
+    8.758223,
+    47.506569
+],
   "geometry": {"coordinates":[8.758223,47.506569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202477213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40117,47.501377,8.40117,47.501377",
     "geom:latitude":47.501377,
     "geom:longitude":8.40117,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fceblistr. 72 8165 Oberweningen. Postfach",
     "sg:city":"Sch\u00f6fflisdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202477213,
-    "wof:lastmodified":1449060533,
+    "wof:lastmodified":1466211159,
     "wof:name":"Egercz Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40117,47.501377,8.40117,47.501377],
+  "bbox": [
+    8.40117,
+    47.501377,
+    8.40117,
+    47.501377
+],
   "geometry": {"coordinates":[8.40117,47.501377],"type":"Point"}
 }

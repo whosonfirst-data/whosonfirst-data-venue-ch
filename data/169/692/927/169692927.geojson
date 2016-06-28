@@ -2,13 +2,14 @@
   "id": 169692927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55626,47.382336,8.55626,47.382336",
     "geom:latitude":47.382336,
     "geom:longitude":8.55626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Restelbergstrasse 49",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169692927,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210883,
     "wof:name":"Icme International Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultancy"
     ]
 },
-  "bbox": [8.55626,47.382336,8.55626,47.382336],
+  "bbox": [
+    8.55626,
+    47.382336,
+    8.55626,
+    47.382336
+],
   "geometry": {"coordinates":[8.55626,47.382336],"type":"Point"}
 }

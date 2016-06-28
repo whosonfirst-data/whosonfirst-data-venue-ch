@@ -2,13 +2,14 @@
   "id": 186456885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.060683,47.279575,8.060683,47.279575",
     "geom:latitude":47.279575,
     "geom:longitude":8.060683,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 129 5054 Kirchleerau. Postfach 5",
     "sg:city":"Moosleerau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186456885,
-    "wof:lastmodified":1449051172,
+    "wof:lastmodified":1466211062,
     "wof:name":"Peter Bachmann Ag Bauunternehmung Hochbau Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.060683,47.279575,8.060683,47.279575],
+  "bbox": [
+    8.060683,
+    47.279575,
+    8.060683,
+    47.279575
+],
   "geometry": {"coordinates":[8.060683,47.279575],"type":"Point"}
 }

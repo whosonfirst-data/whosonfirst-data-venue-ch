@@ -2,13 +2,14 @@
   "id": 185678615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63832,46.517933,6.63832,46.517933",
     "geom:latitude":46.517933,
     "geom:longitude":6.63832,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Villamont 23 1005 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185678615,
-    "wof:lastmodified":1449007400,
+    "wof:lastmodified":1466210903,
     "wof:name":"Balli & Gillieron",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63832,46.517933,6.63832,46.517933],
+  "bbox": [
+    6.63832,
+    46.517933,
+    6.63832,
+    46.517933
+],
   "geometry": {"coordinates":[6.63832,46.517933],"type":"Point"}
 }

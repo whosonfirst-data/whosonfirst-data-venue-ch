@@ -2,13 +2,14 @@
   "id": 202426833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.664496,46.525482,6.664496,46.525482",
     "geom:latitude":46.525482,
     "geom:longitude":6.664496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. De La Bruy\u00e8re 33",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202426833,
-    "wof:lastmodified":1449060658,
+    "wof:lastmodified":1466210209,
     "wof:name":"Bureau D'ing\u00e9nieur Brunner",
     "wof:parent_id":85800127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.664496,46.525482,6.664496,46.525482],
+  "bbox": [
+    6.664496,
+    46.525482,
+    6.664496,
+    46.525482
+],
   "geometry": {"coordinates":[6.664496,46.525482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236494393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.530686,46.848557,9.530686,46.848557",
     "geom:latitude":46.848557,
     "geom:longitude":9.530686,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Gasse 9 7000 Chur. Postfach",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236494393,
-    "wof:lastmodified":1449004804,
+    "wof:lastmodified":1466212509,
     "wof:name":"Moosberger Ch.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "blank"
     ]
 },
-  "bbox": [9.530686,46.848557,9.530686,46.848557],
+  "bbox": [
+    9.530686,
+    46.848557,
+    9.530686,
+    46.848557
+],
   "geometry": {"coordinates":[9.530686,46.848557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203363889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55275,47.361412,8.55275,47.361412",
     "geom:latitude":47.361412,
     "geom:longitude":8.55275,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mainaustrasse 49",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203363889,
-    "wof:lastmodified":1449026637,
+    "wof:lastmodified":1466211167,
     "wof:name":"Dr.med.kurt Bodmer Spezialarzt Fmh",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55275,47.361412,8.55275,47.361412],
+  "bbox": [
+    8.55275,
+    47.361412,
+    8.55275,
+    47.361412
+],
   "geometry": {"coordinates":[8.55275,47.361412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219399915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.191492,46.841496,7.191492,46.841496",
     "geom:latitude":46.841496,
     "geom:longitude":7.191492,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Duensstrasse 23",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219399915,
-    "wof:lastmodified":1449071017,
+    "wof:lastmodified":1466210180,
     "wof:name":"Hugo Kuriger Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.191492,46.841496,7.191492,46.841496],
+  "bbox": [
+    7.191492,
+    46.841496,
+    7.191492,
+    46.841496
+],
   "geometry": {"coordinates":[7.191492,46.841496],"type":"Point"}
 }

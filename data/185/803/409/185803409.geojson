@@ -2,13 +2,14 @@
   "id": 185803409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.764279,47.496151,8.764279,47.496151",
     "geom:latitude":47.496151,
     "geom:longitude":8.764279,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00f6schenweidstrasse 6",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185803409,
-    "wof:lastmodified":1449008225,
+    "wof:lastmodified":1466209145,
     "wof:name":"Alp Ag",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aerial"
     ]
 },
-  "bbox": [8.764279,47.496151,8.764279,47.496151],
+  "bbox": [
+    8.764279,
+    47.496151,
+    8.764279,
+    47.496151
+],
   "geometry": {"coordinates":[8.764279,47.496151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236395695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.51085,47.058079,7.51085,47.058079",
     "geom:latitude":47.058079,
     "geom:longitude":7.51085,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnstrasse 76",
     "sg:city":"Jegenstorf",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236395695,
-    "wof:lastmodified":1449004662,
+    "wof:lastmodified":1466212240,
     "wof:name":"Bezirksspital Fraubrunnen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [7.51085,47.058079,7.51085,47.058079],
+  "bbox": [
+    7.51085,
+    47.058079,
+    7.51085,
+    47.058079
+],
   "geometry": {"coordinates":[7.51085,47.058079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185745365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435371,46.943436,7.435371,46.943436",
     "geom:latitude":46.943436,
     "geom:longitude":7.435371,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Monbijoustrasse 36",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185745365,
-    "wof:lastmodified":1449008122,
+    "wof:lastmodified":1466211477,
     "wof:name":"Urs Eymann Advokaturb\u00fcro",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435371,46.943436,7.435371,46.943436],
+  "bbox": [
+    7.435371,
+    46.943436,
+    7.435371,
+    46.943436
+],
   "geometry": {"coordinates":[7.435371,46.943436],"type":"Point"}
 }

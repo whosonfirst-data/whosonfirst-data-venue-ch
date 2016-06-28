@@ -2,13 +2,14 @@
   "id": 203192339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.995408,47.152576,6.995408,47.152576",
     "geom:latitude":47.152576,
     "geom:longitude":6.995408,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Pierre-jolissaint 47",
     "sg:city":"St-imier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203192339,
-    "wof:lastmodified":1449026309,
+    "wof:lastmodified":1466209386,
     "wof:name":"Dr M\u00e9d. Jean-jacques Gindrat M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.995408,47.152576,6.995408,47.152576],
+  "bbox": [
+    6.995408,
+    47.152576,
+    6.995408,
+    47.152576
+],
   "geometry": {"coordinates":[6.995408,47.152576],"type":"Point"}
 }

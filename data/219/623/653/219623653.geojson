@@ -2,13 +2,14 @@
   "id": 219623653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.74299,46.855652,7.74299,46.855652",
     "geom:latitude":46.855652,
     "geom:longitude":7.74299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6thenbach",
     "sg:city":"R\u00f6thenbach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219623653,
-    "wof:lastmodified":1449072871,
+    "wof:lastmodified":1466211971,
     "wof:name":"Raiffeisenbank R\u00f6thenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.74299,46.855652,7.74299,46.855652],
+  "bbox": [
+    7.74299,
+    46.855652,
+    7.74299,
+    46.855652
+],
   "geometry": {"coordinates":[7.74299,46.855652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236762471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540752,47.376778,8.540752,47.376778",
     "geom:latitude":47.376778,
     "geom:longitude":8.540752,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofpl. 3",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236762471,
-    "wof:lastmodified":1449004079,
+    "wof:lastmodified":1466212876,
     "wof:name":"Pronuptia Z\u00dcrich Sa",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clothes"
     ]
 },
-  "bbox": [8.540752,47.376778,8.540752,47.376778],
+  "bbox": [
+    8.540752,
+    47.376778,
+    8.540752,
+    47.376778
+],
   "geometry": {"coordinates":[8.540752,47.376778],"type":"Point"}
 }

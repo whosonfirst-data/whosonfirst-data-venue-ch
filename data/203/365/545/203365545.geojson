@@ -2,13 +2,14 @@
   "id": 203365545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549687,47.284054,8.549687,47.284054",
     "geom:latitude":47.284054,
     "geom:longitude":8.549687,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obstgartenstrasse 30",
     "sg:city":"Gattikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203365545,
-    "wof:lastmodified":1449025243,
+    "wof:lastmodified":1466211183,
     "wof:name":"Dr.med.kurt W. Br\u00fcllmann Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.549687,47.284054,8.549687,47.284054],
+  "bbox": [
+    8.549687,
+    47.284054,
+    8.549687,
+    47.284054
+],
   "geometry": {"coordinates":[8.549687,47.284054],"type":"Point"}
 }

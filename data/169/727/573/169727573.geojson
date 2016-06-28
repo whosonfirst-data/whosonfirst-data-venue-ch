@@ -2,13 +2,14 @@
   "id": 169727573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.910446,47.060993,6.910446,47.060993",
     "geom:latitude":47.060993,
     "geom:longitude":6.910446,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Taille 5",
     "sg:city":"Cernier",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169727573,
-    "wof:lastmodified":1449033191,
+    "wof:lastmodified":1466211143,
     "wof:name":"Multireal Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "swimming-pool"
     ]
 },
-  "bbox": [6.910446,47.060993,6.910446,47.060993],
+  "bbox": [
+    6.910446,
+    47.060993,
+    6.910446,
+    47.060993
+],
   "geometry": {"coordinates":[6.910446,47.060993],"type":"Point"}
 }

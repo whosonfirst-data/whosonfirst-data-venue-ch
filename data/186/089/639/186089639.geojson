@@ -2,13 +2,14 @@
   "id": 186089639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52817,47.383259,8.52817,47.383259",
     "geom:latitude":47.383259,
     "geom:longitude":8.52817,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugasse 95/02 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186089639,
-    "wof:lastmodified":1449050951,
+    "wof:lastmodified":1466210716,
     "wof:name":"Gross Reto Projekt Und Bauleitungen",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52817,47.383259,8.52817,47.383259],
+  "bbox": [
+    8.52817,
+    47.383259,
+    8.52817,
+    47.383259
+],
   "geometry": {"coordinates":[8.52817,47.383259],"type":"Point"}
 }

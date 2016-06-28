@@ -2,13 +2,14 @@
   "id": 236332589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.361188,46.964317,8.361188,46.964317",
     "geom:latitude":46.964317,
     "geom:longitude":8.361188,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinersmatt 101",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236332589,
-    "wof:lastmodified":1449003500,
+    "wof:lastmodified":1466212012,
     "wof:name":"Abtrans Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.361188,46.964317,8.361188,46.964317],
+  "bbox": [
+    8.361188,
+    46.964317,
+    8.361188,
+    46.964317
+],
   "geometry": {"coordinates":[8.361188,46.964317],"type":"Point"}
 }

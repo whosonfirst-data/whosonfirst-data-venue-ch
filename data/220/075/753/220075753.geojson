@@ -2,13 +2,14 @@
   "id": 220075753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.626391,47.308453,7.626391,47.308453",
     "geom:latitude":47.308453,
     "geom:longitude":7.626391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haulenacker 491",
     "sg:city":"Matzendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220075753,
-    "wof:lastmodified":1449074490,
+    "wof:lastmodified":1466209535,
     "wof:name":"Bieli Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.626391,47.308453,7.626391,47.308453],
+  "bbox": [
+    7.626391,
+    47.308453,
+    7.626391,
+    47.308453
+],
   "geometry": {"coordinates":[7.626391,47.308453],"type":"Point"}
 }

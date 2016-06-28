@@ -2,13 +2,14 @@
   "id": 202423935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.62439,46.911709,8.62439,46.911709",
     "geom:latitude":46.911709,
     "geom:longitude":8.62439,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weing\u00e4rtli 1",
     "sg:city":"Fl\u00fcelen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202423935,
-    "wof:lastmodified":1449060520,
+    "wof:lastmodified":1466210133,
     "wof:name":"Bucher + Dillier Ingenieur-unternehmungen Ag, Zweigniederlassung Fl\u00fcelen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.62439,46.911709,8.62439,46.911709],
+  "bbox": [
+    8.62439,
+    46.911709,
+    8.62439,
+    46.911709
+],
   "geometry": {"coordinates":[8.62439,46.911709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202787173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.83154,47.311741,7.83154,47.311741",
     "geom:latitude":47.311741,
     "geom:longitude":7.83154,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merweg 43b",
     "sg:city":"Gunzgen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202787173,
-    "wof:lastmodified":1449061276,
+    "wof:lastmodified":1466211405,
     "wof:name":"Architektur Resenterra & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.83154,47.311741,7.83154,47.311741],
+  "bbox": [
+    7.83154,
+    47.311741,
+    7.83154,
+    47.311741
+],
   "geometry": {"coordinates":[7.83154,47.311741],"type":"Point"}
 }

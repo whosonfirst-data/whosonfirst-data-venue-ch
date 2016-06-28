@@ -2,13 +2,14 @@
   "id": 220040245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.208134,47.604389,9.208134,47.604389",
     "geom:latitude":47.604389,
     "geom:longitude":9.208134,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilen",
     "sg:city":"Illighausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220040245,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1466209220,
     "wof:name":"Rudolf Schreiber Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.208134,47.604389,9.208134,47.604389],
+  "bbox": [
+    9.208134,
+    47.604389,
+    9.208134,
+    47.604389
+],
   "geometry": {"coordinates":[9.208134,47.604389],"type":"Point"}
 }

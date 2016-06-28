@@ -2,13 +2,14 @@
   "id": 169741321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.165397,46.283318,6.165397,46.283318",
     "geom:latitude":46.283318,
     "geom:longitude":6.165397,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Sauverny 3",
     "sg:city":"Versoix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169741321,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466211242,
     "wof:name":"Jumbo Shipping Company Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [6.165397,46.283318,6.165397,46.283318],
+  "bbox": [
+    6.165397,
+    46.283318,
+    6.165397,
+    46.283318
+],
   "geometry": {"coordinates":[6.165397,46.283318],"type":"Point"}
 }

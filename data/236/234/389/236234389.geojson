@@ -2,13 +2,14 @@
   "id": 236234389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.35023,47.049728,8.35023,47.049728",
     "geom:latitude":47.049728,
     "geom:longitude":8.35023,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzbuchrain 12 6000 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236234389,
-    "wof:lastmodified":1449005034,
+    "wof:lastmodified":1466211186,
     "wof:name":"Sandor Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.35023,47.049728,8.35023,47.049728],
+  "bbox": [
+    8.35023,
+    47.049728,
+    8.35023,
+    47.049728
+],
   "geometry": {"coordinates":[8.35023,47.049728],"type":"Point"}
 }

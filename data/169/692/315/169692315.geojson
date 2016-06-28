@@ -2,13 +2,14 @@
   "id": 169692315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536281,47.183018,8.536281,47.183018",
     "geom:latitude":47.183018,
     "geom:longitude":8.536281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Rainstrasse 31 6340 Baar. Postfach 1072",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169692315,
-    "wof:lastmodified":1449033563,
+    "wof:lastmodified":1466210826,
     "wof:name":"Zugerische Werkst\u00e4tte F\u00fcr Behinderte, Zuwebe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536281,47.183018,8.536281,47.183018],
+  "bbox": [
+    8.536281,
+    47.183018,
+    8.536281,
+    47.183018
+],
   "geometry": {"coordinates":[8.536281,47.183018],"type":"Point"}
 }

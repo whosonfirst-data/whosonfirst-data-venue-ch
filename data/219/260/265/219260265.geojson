@@ -2,13 +2,14 @@
   "id": 219260265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.176769,47.57843,9.176769,47.57843",
     "geom:latitude":47.57843,
     "geom:longitude":9.176769,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Andhauserstrasse 60 8572 Andhausen. Postfach 105",
     "sg:city":"Andhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219260265,
-    "wof:lastmodified":1449070973,
+    "wof:lastmodified":1466211617,
     "wof:name":"Bruno Widmer Dorf-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.176769,47.57843,9.176769,47.57843],
+  "bbox": [
+    9.176769,
+    47.57843,
+    9.176769,
+    47.57843
+],
   "geometry": {"coordinates":[9.176769,47.57843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202947177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.595387,47.383457,8.595387,47.383457",
     "geom:latitude":47.383457,
     "geom:longitude":8.595387,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctistrasse 38",
     "sg:city":"Gockhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202947177,
-    "wof:lastmodified":1449061942,
+    "wof:lastmodified":1466212409,
     "wof:name":"Architekturb\u00fcro E. & M. Neuenschwander",
     "wof:parent_id":85800565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.595387,47.383457,8.595387,47.383457],
+  "bbox": [
+    8.595387,
+    47.383457,
+    8.595387,
+    47.383457
+],
   "geometry": {"coordinates":[8.595387,47.383457],"type":"Point"}
 }

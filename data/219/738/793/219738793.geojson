@@ -2,13 +2,14 @@
   "id": 219738793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.858753,46.237522,6.858753,46.237522",
     "geom:latitude":46.237522,
     "geom:longitude":6.858753,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Fontaines-blanches",
     "sg:city":"Morgins",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219738793,
-    "wof:lastmodified":1449072989,
+    "wof:lastmodified":1466212229,
     "wof:name":"Swiss Bank Corp., Immeuble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.858753,46.237522,6.858753,46.237522],
+  "bbox": [
+    6.858753,
+    46.237522,
+    6.858753,
+    46.237522
+],
   "geometry": {"coordinates":[6.858753,46.237522],"type":"Point"}
 }

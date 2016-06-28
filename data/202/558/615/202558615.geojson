@@ -2,13 +2,14 @@
   "id": 202558615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.565737,47.536701,7.565737,47.536701",
     "geom:latitude":47.536701,
     "geom:longitude":7.565737,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6lzlistrasse 17",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202558615,
-    "wof:lastmodified":1449060809,
+    "wof:lastmodified":1466209282,
     "wof:name":"Ingenieurbureau Pierre Beurret, Dipl. Ing. Eth",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.565737,47.536701,7.565737,47.536701],
+  "bbox": [
+    7.565737,
+    47.536701,
+    7.565737,
+    47.536701
+],
   "geometry": {"coordinates":[7.565737,47.536701],"type":"Point"}
 }

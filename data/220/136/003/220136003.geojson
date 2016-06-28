@@ -2,13 +2,14 @@
   "id": 220136003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.816307,47.303078,7.816307,47.303078",
     "geom:latitude":47.303078,
     "geom:longitude":7.816307,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Risweg 54",
     "sg:city":"H\u00e4rkingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220136003,
-    "wof:lastmodified":1449074868,
+    "wof:lastmodified":1466210046,
     "wof:name":"Schlapbach + Pospisek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.816307,47.303078,7.816307,47.303078],
+  "bbox": [
+    7.816307,
+    47.303078,
+    7.816307,
+    47.303078
+],
   "geometry": {"coordinates":[7.816307,47.303078],"type":"Point"}
 }

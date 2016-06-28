@@ -2,13 +2,14 @@
   "id": 236150265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.932502,47.353321,7.932502,47.353321",
     "geom:latitude":47.353321,
     "geom:longitude":7.932502,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nieder\u00e4mterstrasse 22",
     "sg:city":"Dulliken",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236150265,
-    "wof:lastmodified":1449001711,
+    "wof:lastmodified":1466210260,
     "wof:name":"Hans-peter Kuert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "belt"
     ]
 },
-  "bbox": [7.932502,47.353321,7.932502,47.353321],
+  "bbox": [
+    7.932502,
+    47.353321,
+    7.932502,
+    47.353321
+],
   "geometry": {"coordinates":[7.932502,47.353321],"type":"Point"}
 }

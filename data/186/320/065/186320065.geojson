@@ -2,13 +2,14 @@
   "id": 186320065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.859377,47.660034,8.859377,47.660034",
     "geom:latitude":47.660034,
     "geom:longitude":8.859377,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Montagnette",
     "sg:city":"Arbedo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186320065,
-    "wof:lastmodified":1449051075,
+    "wof:lastmodified":1466209979,
     "wof:name":"Exmatec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.859377,47.660034,8.859377,47.660034],
+  "bbox": [
+    8.859377,
+    47.660034,
+    8.859377,
+    47.660034
+],
   "geometry": {"coordinates":[8.859377,47.660034],"type":"Point"}
 }

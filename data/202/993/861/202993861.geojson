@@ -2,13 +2,14 @@
   "id": 202993861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.199297,46.194687,6.199297,46.194687",
     "geom:latitude":46.194687,
     "geom:longitude":6.199297,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Fran\u00e7ois-p\u00e9rr\u00e9ard 16",
     "sg:city":"Ch\u00eane-bourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202993861,
-    "wof:lastmodified":1449061249,
+    "wof:lastmodified":1466212516,
     "wof:name":"Gilbert Frey Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.199297,46.194687,6.199297,46.194687],
+  "bbox": [
+    6.199297,
+    46.194687,
+    6.199297,
+    46.194687
+],
   "geometry": {"coordinates":[6.199297,46.194687],"type":"Point"}
 }

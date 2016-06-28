@@ -2,13 +2,14 @@
   "id": 185980875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.858049,46.458027,6.858049,46.458027",
     "geom:latitude":46.458027,
     "geom:longitude":6.858049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Buonamano 6",
     "sg:city":"Ascona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185980875,
-    "wof:lastmodified":1449006713,
+    "wof:lastmodified":1466210625,
     "wof:name":"Schyrr & Fils Michel",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.858049,46.458027,6.858049,46.458027],
+  "bbox": [
+    6.858049,
+    46.458027,
+    6.858049,
+    46.458027
+],
   "geometry": {"coordinates":[6.858049,46.458027],"type":"Point"}
 }

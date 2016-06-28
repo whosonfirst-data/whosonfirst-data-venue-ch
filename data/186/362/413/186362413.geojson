@@ -2,13 +2,14 @@
   "id": 186362413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.317353,47.415508,8.317353,47.415508",
     "geom:latitude":47.415508,
     "geom:longitude":8.317353,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterriedstrasse 2 5452 Oberrohrdorf. Postfach",
     "sg:city":"Oberrohrdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186362413,
-    "wof:lastmodified":1449052105,
+    "wof:lastmodified":1466210301,
     "wof:name":"Gebr\u00fcder Attiger Baugesch\u00e4ft Oberrohrdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.317353,47.415508,8.317353,47.415508],
+  "bbox": [
+    8.317353,
+    47.415508,
+    8.317353,
+    47.415508
+],
   "geometry": {"coordinates":[8.317353,47.415508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236522863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.307393,46.79916,10.307393,46.79916",
     "geom:latitude":46.79916,
     "geom:longitude":10.307393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Prasas-cher",
     "sg:city":"Scuol",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236522863,
-    "wof:lastmodified":1449003178,
+    "wof:lastmodified":1466212652,
     "wof:name":"Robert Dannenberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.307393,46.79916,10.307393,46.79916],
+  "bbox": [
+    10.307393,
+    46.79916,
+    10.307393,
+    46.79916
+],
   "geometry": {"coordinates":[10.307393,46.79916],"type":"Point"}
 }

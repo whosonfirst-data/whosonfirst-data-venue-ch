@@ -2,13 +2,14 @@
   "id": 203416871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.588921,47.415352,8.588921,47.415352",
     "geom:latitude":47.415352,
     "geom:longitude":8.588921,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 4",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203416871,
-    "wof:lastmodified":1449025761,
+    "wof:lastmodified":1466211780,
     "wof:name":"Dr.med.thomas Haubensak Spezialarzt Fmh",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.588921,47.415352,8.588921,47.415352],
+  "bbox": [
+    8.588921,
+    47.415352,
+    8.588921,
+    47.415352
+],
   "geometry": {"coordinates":[8.588921,47.415352],"type":"Point"}
 }

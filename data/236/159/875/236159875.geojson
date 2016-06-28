@@ -2,13 +2,14 @@
   "id": 236159875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632759,46.777416,6.632759,46.777416",
     "geom:latitude":46.777416,
     "geom:longitude":6.632759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue G\u00e9n\u00e9ral-guisan 5",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236159875,
-    "wof:lastmodified":1449001975,
+    "wof:lastmodified":1466210371,
     "wof:name":"Universit\u00e9 Populaire Section D'yverdon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.632759,46.777416,6.632759,46.777416],
+  "bbox": [
+    6.632759,
+    46.777416,
+    6.632759,
+    46.777416
+],
   "geometry": {"coordinates":[6.632759,46.777416],"type":"Point"}
 }

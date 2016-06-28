@@ -2,13 +2,14 @@
   "id": 236233591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.40249,46.496769,6.40249,46.496769",
     "geom:latitude":46.496769,
     "geom:longitude":6.40249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Caronies 1175 Lavigny. Postfach",
     "sg:city":"Lavigny",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236233591,
-    "wof:lastmodified":1449005315,
+    "wof:lastmodified":1466211178,
     "wof:name":"Richard Anne Consultant Conseils Pour L'organisation D'\u00e9v\u00e8nements Div. Dans Tout Domaine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.40249,46.496769,6.40249,46.496769],
+  "bbox": [
+    6.40249,
+    46.496769,
+    6.40249,
+    46.496769
+],
   "geometry": {"coordinates":[6.40249,46.496769],"type":"Point"}
 }

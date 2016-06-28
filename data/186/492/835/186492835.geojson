@@ -2,13 +2,14 @@
   "id": 186492835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638695,47.196884,8.638695,47.196884",
     "geom:latitude":47.196884,
     "geom:longitude":8.638695,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sternengasse 27 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186492835,
-    "wof:lastmodified":1449050249,
+    "wof:lastmodified":1466211374,
     "wof:name":"Altersheim Stollenweid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [8.638695,47.196884,8.638695,47.196884],
+  "bbox": [
+    8.638695,
+    47.196884,
+    8.638695,
+    47.196884
+],
   "geometry": {"coordinates":[8.638695,47.196884],"type":"Point"}
 }

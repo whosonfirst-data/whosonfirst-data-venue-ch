@@ -2,13 +2,14 @@
   "id": 236883031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.462787,47.002808,7.462787,47.002808",
     "geom:latitude":47.002808,
     "geom:longitude":7.462787,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 217",
     "sg:city":"Zollikofen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236883031,
-    "wof:lastmodified":1449004309,
+    "wof:lastmodified":1466212953,
     "wof:name":"Fumatsch Funke Ag",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "data"
     ]
 },
-  "bbox": [7.462787,47.002808,7.462787,47.002808],
+  "bbox": [
+    7.462787,
+    47.002808,
+    7.462787,
+    47.002808
+],
   "geometry": {"coordinates":[7.462787,47.002808],"type":"Point"}
 }

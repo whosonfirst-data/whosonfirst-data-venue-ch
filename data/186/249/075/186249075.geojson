@@ -2,13 +2,14 @@
   "id": 186249075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.717218,47.387199,8.717218,47.387199",
     "geom:latitude":47.387199,
     "geom:longitude":8.717218,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00fcbruchweg 3 8605 Gutenswil. Postfach",
     "sg:city":"Gutenswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186249075,
-    "wof:lastmodified":1449050407,
+    "wof:lastmodified":1466209465,
     "wof:name":"Widmer Hoch Und Tiefbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.717218,47.387199,8.717218,47.387199],
+  "bbox": [
+    8.717218,
+    47.387199,
+    8.717218,
+    47.387199
+],
   "geometry": {"coordinates":[8.717218,47.387199],"type":"Point"}
 }

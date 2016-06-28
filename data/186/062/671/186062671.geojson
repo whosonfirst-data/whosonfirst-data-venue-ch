@@ -2,13 +2,14 @@
   "id": 186062671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.025891,46.200588,6.025891,46.200588",
     "geom:latitude":46.200588,
     "geom:longitude":6.025891,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Charny 31",
     "sg:city":"Satigny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186062671,
-    "wof:lastmodified":1449052833,
+    "wof:lastmodified":1466210266,
     "wof:name":"Entreprise Bueler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.025891,46.200588,6.025891,46.200588],
+  "bbox": [
+    6.025891,
+    46.200588,
+    6.025891,
+    46.200588
+],
   "geometry": {"coordinates":[6.025891,46.200588],"type":"Point"}
 }

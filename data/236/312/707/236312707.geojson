@@ -2,13 +2,14 @@
   "id": 236312707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.614958,46.530602,6.614958,46.530602",
     "geom:latitude":46.530602,
     "geom:longitude":6.614958,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Avelines 12",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236312707,
-    "wof:lastmodified":1449003291,
+    "wof:lastmodified":1466211795,
     "wof:name":"Ren\u00e9 Bourgoz Taxis",
     "wof:parent_id":85862325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.614958,46.530602,6.614958,46.530602],
+  "bbox": [
+    6.614958,
+    46.530602,
+    6.614958,
+    46.530602
+],
   "geometry": {"coordinates":[6.614958,46.530602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203395559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.565893,47.561527,7.565893,47.561527",
     "geom:latitude":47.561527,
     "geom:longitude":7.565893,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blotzheimerstrasse 28",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203395559,
-    "wof:lastmodified":1449026573,
+    "wof:lastmodified":1466211487,
     "wof:name":"Dr.med.ren\u00e9 A. Breitenstein Spezialarzt",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.565893,47.561527,7.565893,47.561527],
+  "bbox": [
+    7.565893,
+    47.561527,
+    7.565893,
+    47.561527
+],
   "geometry": {"coordinates":[7.565893,47.561527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185808653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.585517,47.054161,8.585517,47.054161",
     "geom:latitude":47.054161,
     "geom:longitude":8.585517,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sattelstrasse 15",
     "sg:city":"Steinerberg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185808653,
-    "wof:lastmodified":1449006650,
+    "wof:lastmodified":1466209176,
     "wof:name":"Helbling Landtechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "implement"
     ]
 },
-  "bbox": [8.585517,47.054161,8.585517,47.054161],
+  "bbox": [
+    8.585517,
+    47.054161,
+    8.585517,
+    47.054161
+],
   "geometry": {"coordinates":[8.585517,47.054161],"type":"Point"}
 }

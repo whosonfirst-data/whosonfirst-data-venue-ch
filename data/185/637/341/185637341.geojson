@@ -2,13 +2,14 @@
   "id": 185637341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.419678,46.938469,7.419678,46.938469",
     "geom:latitude":46.938469,
     "geom:longitude":7.419678,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrweg 10",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185637341,
-    "wof:lastmodified":1449006597,
+    "wof:lastmodified":1466210040,
     "wof:name":"Stone Soft Gmbh",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [7.419678,46.938469,7.419678,46.938469],
+  "bbox": [
+    7.419678,
+    46.938469,
+    7.419678,
+    46.938469
+],
   "geometry": {"coordinates":[7.419678,46.938469],"type":"Point"}
 }

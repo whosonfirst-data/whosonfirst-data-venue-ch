@@ -2,13 +2,14 @@
   "id": 203416781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.554201,47.369816,8.554201,47.369816",
     "geom:latitude":47.369816,
     "geom:longitude":8.554201,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilfriedstrasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203416781,
-    "wof:lastmodified":1449025761,
+    "wof:lastmodified":1466211779,
     "wof:name":"Dr.med.thomas Grauer Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.554201,47.369816,8.554201,47.369816],
+  "bbox": [
+    8.554201,
+    47.369816,
+    8.554201,
+    47.369816
+],
   "geometry": {"coordinates":[8.554201,47.369816],"type":"Point"}
 }

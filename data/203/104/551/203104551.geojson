@@ -2,13 +2,14 @@
   "id": 203104551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.131461,46.814056,7.131461,46.814056",
     "geom:latitude":46.814056,
     "geom:longitude":7.131461,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Impasse Des Lilas 1",
     "sg:city":"Givisiez",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203104551,
-    "wof:lastmodified":1449025705,
+    "wof:lastmodified":1466211152,
     "wof:name":"Y. Baechler & F. Pasquier Sa Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.131461,46.814056,7.131461,46.814056],
+  "bbox": [
+    7.131461,
+    46.814056,
+    7.131461,
+    46.814056
+],
   "geometry": {"coordinates":[7.131461,46.814056],"type":"Point"}
 }

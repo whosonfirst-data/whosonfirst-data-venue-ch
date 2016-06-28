@@ -2,13 +2,14 @@
   "id": 219253535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.940451,45.989616,8.940451,45.989616",
     "geom:latitude":45.989616,
     "geom:longitude":8.940451,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Pietro Pambio 15",
     "sg:city":"Paradiso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219253535,
-    "wof:lastmodified":1449073478,
+    "wof:lastmodified":1466211583,
     "wof:name":"Antonio Gespini Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.940451,45.989616,8.940451,45.989616],
+  "bbox": [
+    8.940451,
+    45.989616,
+    8.940451,
+    45.989616
+],
   "geometry": {"coordinates":[8.940451,45.989616],"type":"Point"}
 }

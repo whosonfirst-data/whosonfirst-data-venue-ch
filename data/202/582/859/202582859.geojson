@@ -2,13 +2,14 @@
   "id": 202582859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.900592,47.04052,6.900592,47.04052",
     "geom:latitude":47.04052,
     "geom:longitude":6.900592,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebbergstrasse 55a",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202582859,
-    "wof:lastmodified":1449061480,
+    "wof:lastmodified":1466209499,
     "wof:name":"Jacot Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.900592,47.04052,6.900592,47.04052],
+  "bbox": [
+    6.900592,
+    47.04052,
+    6.900592,
+    47.04052
+],
   "geometry": {"coordinates":[6.900592,47.04052],"type":"Point"}
 }

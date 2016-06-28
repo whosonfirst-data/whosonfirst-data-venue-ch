@@ -2,13 +2,14 @@
   "id": 202812961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.367503,47.317482,8.367503,47.317482",
     "geom:latitude":47.317482,
     "geom:longitude":8.367503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelackerfeld 17",
     "sg:city":"Rottenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202812961,
-    "wof:lastmodified":1449060172,
+    "wof:lastmodified":1466211634,
     "wof:name":"B\u00fcro Enderes E. E. H., Architekt Htl.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.367503,47.317482,8.367503,47.317482],
+  "bbox": [
+    8.367503,
+    47.317482,
+    8.367503,
+    47.317482
+],
   "geometry": {"coordinates":[8.367503,47.317482],"type":"Point"}
 }

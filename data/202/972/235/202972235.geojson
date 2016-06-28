@@ -2,13 +2,14 @@
   "id": 202972235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.446253,46.939026,7.446253,46.939026",
     "geom:latitude":46.939026,
     "geom:longitude":7.446253,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tillierstrasse 10",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202972235,
-    "wof:lastmodified":1449061392,
+    "wof:lastmodified":1466212379,
     "wof:name":"Droux Raumplanung & Architektur",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.446253,46.939026,7.446253,46.939026],
+  "bbox": [
+    7.446253,
+    46.939026,
+    7.446253,
+    46.939026
+],
   "geometry": {"coordinates":[7.446253,46.939026],"type":"Point"}
 }

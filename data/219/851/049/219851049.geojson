@@ -2,13 +2,14 @@
   "id": 219851049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.749374,47.127003,8.749374,47.127003",
     "geom:latitude":47.127003,
     "geom:longitude":8.749374,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Str\u00e4hlgasse 1",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219851049,
-    "wof:lastmodified":1449072711,
+    "wof:lastmodified":1466212645,
     "wof:name":"Restaurant Fischerstube & Internet-bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.749374,47.127003,8.749374,47.127003],
+  "bbox": [
+    8.749374,
+    47.127003,
+    8.749374,
+    47.127003
+],
   "geometry": {"coordinates":[8.749374,47.127003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236322313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55058,47.407501,8.55058,47.407501",
     "geom:latitude":47.407501,
     "geom:longitude":8.55058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00f6rflistrasse 67 8050 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236322313,
-    "wof:lastmodified":1449001650,
+    "wof:lastmodified":1466211976,
     "wof:name":"Taxi Z\u00fcri-nord Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55058,47.407501,8.55058,47.407501],
+  "bbox": [
+    8.55058,
+    47.407501,
+    8.55058,
+    47.407501
+],
   "geometry": {"coordinates":[8.55058,47.407501],"type":"Point"}
 }

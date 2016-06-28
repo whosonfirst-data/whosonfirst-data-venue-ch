@@ -2,13 +2,14 @@
   "id": 202863235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.235785,46.394253,6.235785,46.394253",
     "geom:latitude":46.394253,
     "geom:longitude":6.235785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Duillier 18",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202863235,
-    "wof:lastmodified":1449061836,
+    "wof:lastmodified":1466211857,
     "wof:name":"Singer + Porret Nyon Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.235785,46.394253,6.235785,46.394253],
+  "bbox": [
+    6.235785,
+    46.394253,
+    6.235785,
+    46.394253
+],
   "geometry": {"coordinates":[6.235785,46.394253],"type":"Point"}
 }

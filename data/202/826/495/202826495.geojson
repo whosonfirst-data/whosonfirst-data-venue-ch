@@ -2,13 +2,14 @@
   "id": 202826495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.452417,46.95697,7.452417,46.95697",
     "geom:latitude":46.95697,
     "geom:longitude":7.452417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moserstrasse 23",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202826495,
-    "wof:lastmodified":1449061943,
+    "wof:lastmodified":1466211947,
     "wof:name":"Gonthier R. + A., Architekten",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.452417,46.95697,7.452417,46.95697],
+  "bbox": [
+    7.452417,
+    46.95697,
+    7.452417,
+    46.95697
+],
   "geometry": {"coordinates":[7.452417,46.95697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203121719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.9413,47.28841,8.9413,47.28841",
     "geom:latitude":47.28841,
     "geom:longitude":8.9413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neue Winterthurerstrasse 28",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203121719,
-    "wof:lastmodified":1449026413,
+    "wof:lastmodified":1466211311,
     "wof:name":"Atelier F\u00fcr Glasmalerei Peter Kuste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coat"
     ]
 },
-  "bbox": [8.9413,47.28841,8.9413,47.28841],
+  "bbox": [
+    8.9413,
+    47.28841,
+    8.9413,
+    47.28841
+],
   "geometry": {"coordinates":[8.9413,47.28841],"type":"Point"}
 }

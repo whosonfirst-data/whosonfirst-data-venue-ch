@@ -2,13 +2,14 @@
   "id": 219872755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.668821,47.016052,8.668821,47.016052",
     "geom:latitude":47.016052,
     "geom:longitude":8.668821,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herzogstrasse 1",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219872755,
-    "wof:lastmodified":1449070704,
+    "wof:lastmodified":1466212681,
     "wof:name":"Baugen.eigenheim Schwyz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.668821,47.016052,8.668821,47.016052],
+  "bbox": [
+    8.668821,
+    47.016052,
+    8.668821,
+    47.016052
+],
   "geometry": {"coordinates":[8.668821,47.016052],"type":"Point"}
 }

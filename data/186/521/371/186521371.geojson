@@ -2,13 +2,14 @@
   "id": 186521371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.254677,46.219151,6.254677,46.219151",
     "geom:latitude":46.219151,
     "geom:longitude":6.254677,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Louvi\u00e8re 18",
     "sg:city":"Presinge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186521371,
-    "wof:lastmodified":1449052908,
+    "wof:lastmodified":1466211718,
     "wof:name":"Domaine De La Louvi\u00e8re Maison De Repos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hotels"
     ]
 },
-  "bbox": [6.254677,46.219151,6.254677,46.219151],
+  "bbox": [
+    6.254677,
+    46.219151,
+    6.254677,
+    46.219151
+],
   "geometry": {"coordinates":[6.254677,46.219151],"type":"Point"}
 }

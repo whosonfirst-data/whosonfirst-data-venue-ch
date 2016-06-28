@@ -2,13 +2,14 @@
   "id": 203183367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.140457,46.173031,6.140457,46.173031",
     "geom:latitude":46.173031,
     "geom:longitude":6.140457,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Henri-baumgartner 5",
     "sg:city":"Vessy",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203183367,
-    "wof:lastmodified":1449025960,
+    "wof:lastmodified":1466209286,
     "wof:name":"Dr M\u00e9d. G\u00e9rard Pfister M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.140457,46.173031,6.140457,46.173031],
+  "bbox": [
+    6.140457,
+    46.173031,
+    6.140457,
+    46.173031
+],
   "geometry": {"coordinates":[6.140457,46.173031],"type":"Point"}
 }

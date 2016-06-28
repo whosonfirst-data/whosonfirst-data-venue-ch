@@ -2,13 +2,14 @@
   "id": 202810805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.513232,46.658756,6.513232,46.658756",
     "geom:latitude":46.658756,
     "geom:longitude":6.513232,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 31",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202810805,
-    "wof:lastmodified":1449060857,
+    "wof:lastmodified":1466211618,
     "wof:name":"Bureau D'architecture Et D'urbanisme P. Bechler, F. Castaman, R. Ernst Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.513232,46.658756,6.513232,46.658756],
+  "bbox": [
+    6.513232,
+    46.658756,
+    6.513232,
+    46.658756
+],
   "geometry": {"coordinates":[6.513232,46.658756],"type":"Point"}
 }

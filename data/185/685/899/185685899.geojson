@@ -2,13 +2,14 @@
   "id": 185685899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533394,47.369621,8.533394,47.369621",
     "geom:latitude":47.369621,
     "geom:longitude":8.533394,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brandschenkestrasse 10",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185685899,
-    "wof:lastmodified":1449008146,
+    "wof:lastmodified":1466210979,
     "wof:name":"Class, M\u00f6ssinger, W\u00fcest Advokaturb\u00fcro",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533394,47.369621,8.533394,47.369621],
+  "bbox": [
+    8.533394,
+    47.369621,
+    8.533394,
+    47.369621
+],
   "geometry": {"coordinates":[8.533394,47.369621],"type":"Point"}
 }

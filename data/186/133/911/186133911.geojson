@@ -2,13 +2,14 @@
   "id": 186133911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.037839,47.08646,8.037839,47.08646",
     "geom:latitude":47.08646,
     "geom:longitude":8.037839,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weiermatte 8",
     "sg:city":"Menznau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186133911,
-    "wof:lastmodified":1449052547,
+    "wof:lastmodified":1466211271,
     "wof:name":"Leuenberger Ag Menznau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.037839,47.08646,8.037839,47.08646],
+  "bbox": [
+    8.037839,
+    47.08646,
+    8.037839,
+    47.08646
+],
   "geometry": {"coordinates":[8.037839,47.08646],"type":"Point"}
 }

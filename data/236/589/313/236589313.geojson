@@ -2,13 +2,14 @@
   "id": 236589313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.323581,46.41935,7.323581,46.41935",
     "geom:latitude":46.41935,
     "geom:longitude":7.323581,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberhauserstr. 30",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236589313,
-    "wof:lastmodified":1449003408,
+    "wof:lastmodified":1466212664,
     "wof:name":"Hotel Alpenland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "restaurant"
     ]
 },
-  "bbox": [7.323581,46.41935,7.323581,46.41935],
+  "bbox": [
+    7.323581,
+    46.41935,
+    7.323581,
+    46.41935
+],
   "geometry": {"coordinates":[7.323581,46.41935],"type":"Point"}
 }

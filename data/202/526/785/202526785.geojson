@@ -2,13 +2,14 @@
   "id": 202526785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.44671,47.277473,8.44671,47.277473",
     "geom:latitude":47.277473,
     "geom:longitude":8.44671,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Malerweg 4",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202526785,
-    "wof:lastmodified":1449060895,
+    "wof:lastmodified":1466208971,
     "wof:name":"Gut Bozzola + Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.44671,47.277473,8.44671,47.277473],
+  "bbox": [
+    8.44671,
+    47.277473,
+    8.44671,
+    47.277473
+],
   "geometry": {"coordinates":[8.44671,47.277473],"type":"Point"}
 }

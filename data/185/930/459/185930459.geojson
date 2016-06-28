@@ -2,13 +2,14 @@
   "id": 185930459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.39027,47.392715,9.39027,47.392715",
     "geom:latitude":47.392715,
     "geom:longitude":9.39027,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"5026 Densb\u00fcren. Postfach 34",
     "sg:city":"Herznach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185930459,
-    "wof:lastmodified":1449007114,
+    "wof:lastmodified":1466210098,
     "wof:name":"Spitex-teufen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.39027,47.392715,9.39027,47.392715],
+  "bbox": [
+    9.39027,
+    47.392715,
+    9.39027,
+    47.392715
+],
   "geometry": {"coordinates":[9.39027,47.392715],"type":"Point"}
 }

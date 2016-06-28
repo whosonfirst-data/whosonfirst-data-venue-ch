@@ -2,13 +2,14 @@
   "id": 236782739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.353406,47.094414,8.353406,47.094414",
     "geom:latitude":47.094414,
     "geom:longitude":8.353406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nielsenstr. 8",
     "sg:city":"Buchrain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236782739,
-    "wof:lastmodified":1449001667,
+    "wof:lastmodified":1466212897,
     "wof:name":"Ac Nielsen Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [8.353406,47.094414,8.353406,47.094414],
+  "bbox": [
+    8.353406,
+    47.094414,
+    8.353406,
+    47.094414
+],
   "geometry": {"coordinates":[8.353406,47.094414],"type":"Point"}
 }

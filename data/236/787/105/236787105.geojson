@@ -2,13 +2,14 @@
   "id": 236787105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.280246,46.961998,7.280246,46.961998",
     "geom:latitude":46.961998,
     "geom:longitude":7.280246,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6sliweg 6",
     "sg:city":"M\u00fchleberg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236787105,
-    "wof:lastmodified":1449003082,
+    "wof:lastmodified":1466212887,
     "wof:name":"Kuster G\u00c4rten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [7.280246,46.961998,7.280246,46.961998],
+  "bbox": [
+    7.280246,
+    46.961998,
+    7.280246,
+    46.961998
+],
   "geometry": {"coordinates":[7.280246,46.961998],"type":"Point"}
 }

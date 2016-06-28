@@ -2,13 +2,14 @@
   "id": 220178435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.530526,47.37537,8.530526,47.37537",
     "geom:latitude":47.37537,
     "geom:longitude":8.530526,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Jakobstrasse 54",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220178435,
-    "wof:lastmodified":1449074629,
+    "wof:lastmodified":1466210402,
     "wof:name":"Fritz Furrer Bauschreinerei Stabilia M\u00f6bel",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.530526,47.37537,8.530526,47.37537],
+  "bbox": [
+    8.530526,
+    47.37537,
+    8.530526,
+    47.37537
+],
   "geometry": {"coordinates":[8.530526,47.37537],"type":"Point"}
 }

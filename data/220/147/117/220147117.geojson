@@ -2,13 +2,14 @@
   "id": 220147117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.61017,47.425896,9.61017,47.425896",
     "geom:latitude":47.425896,
     "geom:longitude":9.61017,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e4sseli 5",
     "sg:city":"Berneck",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220147117,
-    "wof:lastmodified":1449074783,
+    "wof:lastmodified":1466210138,
     "wof:name":"Seitz Ernst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.61017,47.425896,9.61017,47.425896],
+  "bbox": [
+    9.61017,
+    47.425896,
+    9.61017,
+    47.425896
+],
   "geometry": {"coordinates":[9.61017,47.425896],"type":"Point"}
 }

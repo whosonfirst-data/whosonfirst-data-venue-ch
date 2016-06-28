@@ -2,13 +2,14 @@
   "id": 219821047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.797822,46.668999,6.797822,46.668999",
     "geom:latitude":46.668999,
     "geom:longitude":6.797822,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Grenade 9",
     "sg:city":"Moudon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219821047,
-    "wof:lastmodified":1449072297,
+    "wof:lastmodified":1466212412,
     "wof:name":"Pub Le Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.797822,46.668999,6.797822,46.668999],
+  "bbox": [
+    6.797822,
+    46.668999,
+    6.797822,
+    46.668999
+],
   "geometry": {"coordinates":[6.797822,46.668999],"type":"Point"}
 }

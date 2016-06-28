@@ -2,13 +2,14 @@
   "id": 220100151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.270929,46.486828,7.270929,46.486828",
     "geom:latitude":46.486828,
     "geom:longitude":7.270929,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kappeli 588",
     "sg:city":"Saanen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220100151,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466209740,
     "wof:name":"Hauswirth Gebr\u00fcder Schreinerei Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.270929,46.486828,7.270929,46.486828],
+  "bbox": [
+    7.270929,
+    46.486828,
+    7.270929,
+    46.486828
+],
   "geometry": {"coordinates":[7.270929,46.486828],"type":"Point"}
 }

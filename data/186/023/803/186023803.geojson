@@ -2,13 +2,14 @@
   "id": 186023803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.271215,47.437241,9.271215,47.437241",
     "geom:latitude":47.437241,
     "geom:longitude":9.271215,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schiltstrasse 38",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186023803,
-    "wof:lastmodified":1449052759,
+    "wof:lastmodified":1466209623,
     "wof:name":"Bianchi & Co, Baugesch\u00e4ft, Andwil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.271215,47.437241,9.271215,47.437241],
+  "bbox": [
+    9.271215,
+    47.437241,
+    9.271215,
+    47.437241
+],
   "geometry": {"coordinates":[9.271215,47.437241],"type":"Point"}
 }

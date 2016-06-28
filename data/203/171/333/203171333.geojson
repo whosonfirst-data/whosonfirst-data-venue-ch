@@ -2,13 +2,14 @@
   "id": 203171333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.62996,46.530422,6.62996,46.530422",
     "geom:latitude":46.530422,
     "geom:longitude":6.62996,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Pontaise 40",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203171333,
-    "wof:lastmodified":1449026872,
+    "wof:lastmodified":1466209152,
     "wof:name":"Dr M\u00e9d. Eric Zimmermann M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85799753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.62996,46.530422,6.62996,46.530422],
+  "bbox": [
+    6.62996,
+    46.530422,
+    6.62996,
+    46.530422
+],
   "geometry": {"coordinates":[6.62996,46.530422],"type":"Point"}
 }

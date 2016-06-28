@@ -2,13 +2,14 @@
   "id": 236097011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.227521,47.550762,9.227521,47.550762",
     "geom:latitude":47.550762,
     "geom:longitude":9.227521,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aachstrasse 16 8586 Erlen. Postfach 276",
     "sg:city":"Erlen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236097011,
-    "wof:lastmodified":1449002861,
+    "wof:lastmodified":1466209768,
     "wof:name":"Boretti Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.227521,47.550762,9.227521,47.550762],
+  "bbox": [
+    9.227521,
+    47.550762,
+    9.227521,
+    47.550762
+],
   "geometry": {"coordinates":[9.227521,47.550762],"type":"Point"}
 }

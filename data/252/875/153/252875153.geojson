@@ -2,13 +2,14 @@
   "id": 252875153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.953812,46.010242,8.953812,46.010242",
     "geom:latitude":46.010242,
     "geom:longitude":8.953812,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Stefano Franscini 17",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252875153,
-    "wof:lastmodified":1449006215,
+    "wof:lastmodified":1466210718,
     "wof:name":"Trm Abbigliamento Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.953812,46.010242,8.953812,46.010242],
+  "bbox": [
+    8.953812,
+    46.010242,
+    8.953812,
+    46.010242
+],
   "geometry": {"coordinates":[8.953812,46.010242],"type":"Point"}
 }

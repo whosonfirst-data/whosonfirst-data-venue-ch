@@ -2,13 +2,14 @@
   "id": 236652977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.070356,47.058018,8.070356,47.058018",
     "geom:latitude":47.058018,
     "geom:longitude":8.070356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Entlebucherstrasse 38",
     "sg:city":"Wolhusen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236652977,
-    "wof:lastmodified":1449003845,
+    "wof:lastmodified":1466212747,
     "wof:name":"Stewo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carrier"
     ]
 },
-  "bbox": [8.070356,47.058018,8.070356,47.058018],
+  "bbox": [
+    8.070356,
+    47.058018,
+    8.070356,
+    47.058018
+],
   "geometry": {"coordinates":[8.070356,47.058018],"type":"Point"}
 }

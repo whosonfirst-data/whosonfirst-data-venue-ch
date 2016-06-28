@@ -2,13 +2,14 @@
   "id": 236429243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.591333,47.178673,8.591333,47.178673",
     "geom:latitude":47.178673,
     "geom:longitude":8.591333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenmatt 2",
     "sg:city":"Menzingen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236429243,
-    "wof:lastmodified":1449005036,
+    "wof:lastmodified":1466212341,
     "wof:name":"Gemeindebibliothek Zentrum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [8.591333,47.178673,8.591333,47.178673],
+  "bbox": [
+    8.591333,
+    47.178673,
+    8.591333,
+    47.178673
+],
   "geometry": {"coordinates":[8.591333,47.178673],"type":"Point"}
 }

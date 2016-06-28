@@ -2,13 +2,14 @@
   "id": 236810915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.851522,47.179794,7.851522,47.179794",
     "geom:latitude":47.179794,
     "geom:longitude":7.851522,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4mpfligasse 8",
     "sg:city":"Melchnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236810915,
-    "wof:lastmodified":1449002435,
+    "wof:lastmodified":1466212912,
     "wof:name":"Wyss Bedachungen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.851522,47.179794,7.851522,47.179794],
+  "bbox": [
+    7.851522,
+    47.179794,
+    7.851522,
+    47.179794
+],
   "geometry": {"coordinates":[7.851522,47.179794],"type":"Point"}
 }

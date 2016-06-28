@@ -2,13 +2,14 @@
   "id": 202802205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.0419,46.880714,7.0419,46.880714",
     "geom:latitude":46.880714,
     "geom:longitude":7.0419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place De La Foire 1 1580 Avenches. Postfach",
     "sg:city":"Avenches",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202802205,
-    "wof:lastmodified":1449062193,
+    "wof:lastmodified":1466211541,
     "wof:name":"Atelier Des Architectes Diserens-chanez Et Associ\u00e9s Sa, Succursale D'avenches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.0419,46.880714,7.0419,46.880714],
+  "bbox": [
+    7.0419,
+    46.880714,
+    7.0419,
+    46.880714
+],
   "geometry": {"coordinates":[7.0419,46.880714],"type":"Point"}
 }

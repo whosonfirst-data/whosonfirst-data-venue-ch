@@ -2,13 +2,14 @@
   "id": 202925219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.528961,47.438915,9.528961,47.438915",
     "geom:latitude":47.438915,
     "geom:longitude":9.528961,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzengasse 38",
     "sg:city":"Heiden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202925219,
-    "wof:lastmodified":1449060134,
+    "wof:lastmodified":1466212237,
     "wof:name":"Beco Engineering Company Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.528961,47.438915,9.528961,47.438915],
+  "bbox": [
+    9.528961,
+    47.438915,
+    9.528961,
+    47.438915
+],
   "geometry": {"coordinates":[9.528961,47.438915],"type":"Point"}
 }

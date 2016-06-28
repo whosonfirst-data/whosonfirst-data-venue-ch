@@ -2,13 +2,14 @@
   "id": 253149117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.615188,47.513283,7.615188,47.513283",
     "geom:latitude":47.513283,
     "geom:longitude":7.615188,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiligholzstrasse 8 4142 M\u00fcnchenstein. Postfach",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253149117,
-    "wof:lastmodified":1449062833,
+    "wof:lastmodified":1466210500,
     "wof:name":"B\u00e4ckerei Gyger Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.615188,47.513283,7.615188,47.513283],
+  "bbox": [
+    7.615188,
+    47.513283,
+    7.615188,
+    47.513283
+],
   "geometry": {"coordinates":[7.615188,47.513283],"type":"Point"}
 }

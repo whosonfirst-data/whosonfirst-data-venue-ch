@@ -2,13 +2,14 @@
   "id": 253234645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.384425,47.434334,9.384425,47.434334",
     "geom:latitude":47.434334,
     "geom:longitude":9.384425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinerstrasse 1",
     "sg:city":"Diessenhofen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253234645,
-    "wof:lastmodified":1449065634,
+    "wof:lastmodified":1466211337,
     "wof:name":"Peter Moor B\u00e4ckerei-konditorei Biberhus",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.384425,47.434334,9.384425,47.434334],
+  "bbox": [
+    9.384425,
+    47.434334,
+    9.384425,
+    47.434334
+],
   "geometry": {"coordinates":[9.384425,47.434334],"type":"Point"}
 }

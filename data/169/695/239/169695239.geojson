@@ -2,13 +2,14 @@
   "id": 169695239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.675747,46.549423,6.675747,46.549423",
     "geom:latitude":46.549423,
     "geom:longitude":6.675747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Berne 211 1066 Epalinges Case Postale 1460",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169695239,
-    "wof:lastmodified":1449033943,
+    "wof:lastmodified":1466210905,
     "wof:name":"Thonney Jean-paul Sa",
     "wof:parent_id":85800119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.675747,46.549423,6.675747,46.549423],
+  "bbox": [
+    6.675747,
+    46.549423,
+    6.675747,
+    46.549423
+],
   "geometry": {"coordinates":[6.675747,46.549423],"type":"Point"}
 }

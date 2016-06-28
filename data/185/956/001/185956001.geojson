@@ -2,13 +2,14 @@
   "id": 185956001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.515114,46.299751,7.515114,46.299751",
     "geom:latitude":46.299751,
     "geom:longitude":7.515114,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Roches Bluche",
     "sg:city":"Bluche-randogne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185956001,
-    "wof:lastmodified":1449006883,
+    "wof:lastmodified":1466210345,
     "wof:name":"Clivaz Marcel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.515114,46.299751,7.515114,46.299751],
+  "bbox": [
+    7.515114,
+    46.299751,
+    7.515114,
+    46.299751
+],
   "geometry": {"coordinates":[7.515114,46.299751],"type":"Point"}
 }

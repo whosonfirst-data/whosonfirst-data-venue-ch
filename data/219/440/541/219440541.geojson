@@ -2,13 +2,14 @@
   "id": 219440541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.898574,46.526539,6.898574,46.526539",
     "geom:latitude":46.526539,
     "geom:longitude":6.898574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 60",
     "sg:city":"Ch\u00e2tel-st-denis",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219440541,
-    "wof:lastmodified":1449071635,
+    "wof:lastmodified":1466210550,
     "wof:name":"Buffet De La Gare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.898574,46.526539,6.898574,46.526539],
+  "bbox": [
+    6.898574,
+    46.526539,
+    6.898574,
+    46.526539
+],
   "geometry": {"coordinates":[6.898574,46.526539],"type":"Point"}
 }

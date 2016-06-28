@@ -2,13 +2,14 @@
   "id": 220056595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.372805,47.138775,7.372805,47.138775",
     "geom:latitude":47.138775,
     "geom:longitude":7.372805,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorfstrasse 12",
     "sg:city":"Birr",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220056595,
-    "wof:lastmodified":1449074244,
+    "wof:lastmodified":1466209363,
     "wof:name":"Modellbau Schreyer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.372805,47.138775,7.372805,47.138775],
+  "bbox": [
+    7.372805,
+    47.138775,
+    7.372805,
+    47.138775
+],
   "geometry": {"coordinates":[7.372805,47.138775],"type":"Point"}
 }

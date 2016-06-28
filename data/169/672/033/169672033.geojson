@@ -2,13 +2,14 @@
   "id": 169672033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.30746,46.991562,8.30746,46.991562",
     "geom:latitude":46.991562,
     "geom:longitude":8.30746,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bourg Rue De 27 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169672033,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466211669,
     "wof:name":"Grapha-holding Ag",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.30746,46.991562,8.30746,46.991562],
+  "bbox": [
+    8.30746,
+    46.991562,
+    8.30746,
+    46.991562
+],
   "geometry": {"coordinates":[8.30746,46.991562],"type":"Point"}
 }

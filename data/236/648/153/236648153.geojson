@@ -2,13 +2,14 @@
   "id": 236648153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.608093,47.559017,7.608093,47.559017",
     "geom:latitude":47.559017,
     "geom:longitude":7.608093,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grenzacherstrasse 124",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236648153,
-    "wof:lastmodified":1449002364,
+    "wof:lastmodified":1466212742,
     "wof:name":"Roche Vitamins Ag",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "stimulant"
     ]
 },
-  "bbox": [7.608093,47.559017,7.608093,47.559017],
+  "bbox": [
+    7.608093,
+    47.559017,
+    7.608093,
+    47.559017
+],
   "geometry": {"coordinates":[7.608093,47.559017],"type":"Point"}
 }

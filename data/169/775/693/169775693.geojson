@@ -2,13 +2,14 @@
   "id": 169775693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.476165,46.955601,7.476165,46.955601",
     "geom:latitude":46.955601,
     "geom:longitude":7.476165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentweg 25",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169775693,
-    "wof:lastmodified":1449035117,
+    "wof:lastmodified":1466211595,
     "wof:name":"Yellowworld Ag",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.476165,46.955601,7.476165,46.955601],
+  "bbox": [
+    7.476165,
+    46.955601,
+    7.476165,
+    46.955601
+],
   "geometry": {"coordinates":[7.476165,46.955601],"type":"Point"}
 }

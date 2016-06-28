@@ -2,13 +2,14 @@
   "id": 202695487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.299238,47.023933,8.299238,47.023933",
     "geom:latitude":47.023933,
     "geom:longitude":8.299238,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 13 6010 Kriens. Postfach",
     "sg:city":"Kriens",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202695487,
-    "wof:lastmodified":1449061072,
+    "wof:lastmodified":1466210545,
     "wof:name":"Sa Retoura Projektierung, Schl\u00fcsselfertige Erstellung Von Hotels, Hotelanlagen",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.299238,47.023933,8.299238,47.023933],
+  "bbox": [
+    8.299238,
+    47.023933,
+    8.299238,
+    47.023933
+],
   "geometry": {"coordinates":[8.299238,47.023933],"type":"Point"}
 }

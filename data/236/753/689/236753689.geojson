@@ -2,13 +2,14 @@
   "id": 236753689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.249928,47.131454,7.249928,47.131454",
     "geom:latitude":47.131454,
     "geom:longitude":7.249928,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Alfred-aebi 82",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236753689,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466212865,
     "wof:name":"Antenen Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clock"
     ]
 },
-  "bbox": [7.249928,47.131454,7.249928,47.131454],
+  "bbox": [
+    7.249928,
+    47.131454,
+    7.249928,
+    47.131454
+],
   "geometry": {"coordinates":[7.249928,47.131454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202972215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.230461,46.208805,6.230461,46.208805",
     "geom:latitude":46.208805,
     "geom:longitude":6.230461,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Graman 11bis",
     "sg:city":"Puplinge",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202972215,
-    "wof:lastmodified":1449061394,
+    "wof:lastmodified":1466212379,
     "wof:name":"Dominique Leuba Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.230461,46.208805,6.230461,46.208805],
+  "bbox": [
+    6.230461,
+    46.208805,
+    6.230461,
+    46.208805
+],
   "geometry": {"coordinates":[6.230461,46.208805],"type":"Point"}
 }

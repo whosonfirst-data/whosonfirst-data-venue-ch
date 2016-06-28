@@ -2,13 +2,14 @@
   "id": 202480025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.473965,46.288441,7.473965,46.288441",
     "geom:latitude":46.288441,
     "geom:longitude":7.473965,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chalet Vernaziet 3971 Chermignon. Postfach",
     "sg:city":"Lens",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202480025,
-    "wof:lastmodified":1449060931,
+    "wof:lastmodified":1466211695,
     "wof:name":"Electroplan, Michel Borgeat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.473965,46.288441,7.473965,46.288441],
+  "bbox": [
+    7.473965,
+    46.288441,
+    7.473965,
+    46.288441
+],
   "geometry": {"coordinates":[7.473965,46.288441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186524503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.496299,46.509399,6.496299,46.509399",
     "geom:latitude":46.509399,
     "geom:longitude":6.496299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Charpentiers 32",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186524503,
-    "wof:lastmodified":1449050227,
+    "wof:lastmodified":1466211882,
     "wof:name":"Etablissement M\u00e9dico-social La Diligence",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.496299,46.509399,6.496299,46.509399],
+  "bbox": [
+    6.496299,
+    46.509399,
+    6.496299,
+    46.509399
+],
   "geometry": {"coordinates":[6.496299,46.509399],"type":"Point"}
 }

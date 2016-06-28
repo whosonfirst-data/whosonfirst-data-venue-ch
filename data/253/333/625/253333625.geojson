@@ -2,13 +2,14 @@
   "id": 253333625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.35908,46.232712,7.35908,46.232712",
     "geom:latitude":46.232712,
     "geom:longitude":7.35908,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Lausanne 12",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253333625,
-    "wof:lastmodified":1449065586,
+    "wof:lastmodified":1466211919,
     "wof:name":"Mussler, Charles-antoine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.35908,46.232712,7.35908,46.232712],
+  "bbox": [
+    7.35908,
+    46.232712,
+    7.35908,
+    46.232712
+],
   "geometry": {"coordinates":[7.35908,46.232712],"type":"Point"}
 }

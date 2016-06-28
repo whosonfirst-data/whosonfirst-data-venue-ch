@@ -2,13 +2,14 @@
   "id": 202749501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.37633,47.426056,9.37633,47.426056",
     "geom:latitude":47.426056,
     "geom:longitude":9.37633,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aeussere Ringstrasse 36",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202749501,
-    "wof:lastmodified":1449060848,
+    "wof:lastmodified":1466211048,
     "wof:name":"Ulf Matthiesen Projekt-support Und Planungsgrundlagen",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.37633,47.426056,9.37633,47.426056],
+  "bbox": [
+    9.37633,
+    47.426056,
+    9.37633,
+    47.426056
+],
   "geometry": {"coordinates":[9.37633,47.426056],"type":"Point"}
 }

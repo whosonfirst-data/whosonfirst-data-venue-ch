@@ -2,13 +2,14 @@
   "id": 219615373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.934838,47.519772,8.934838,47.519772",
     "geom:latitude":47.519772,
     "geom:longitude":8.934838,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stettfurterstrasse 6",
     "sg:city":"Matzingen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219615373,
-    "wof:lastmodified":1449071510,
+    "wof:lastmodified":1466211950,
     "wof:name":"Raiffeisenbank Matzingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.934838,47.519772,8.934838,47.519772],
+  "bbox": [
+    8.934838,
+    47.519772,
+    8.934838,
+    47.519772
+],
   "geometry": {"coordinates":[8.934838,47.519772],"type":"Point"}
 }

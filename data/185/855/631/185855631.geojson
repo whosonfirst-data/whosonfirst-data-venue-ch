@@ -2,13 +2,14 @@
   "id": 185855631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.149671,46.196537,6.149671,46.196537",
     "geom:latitude":46.196537,
     "geom:longitude":6.149671,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6distrasse 44 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185855631,
-    "wof:lastmodified":1449007783,
+    "wof:lastmodified":1466209529,
     "wof:name":"Hsbc Guyerzeller Bank Sa, Succursale De Gen\u00e8ve",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.149671,46.196537,6.149671,46.196537],
+  "bbox": [
+    6.149671,
+    46.196537,
+    6.149671,
+    46.196537
+],
   "geometry": {"coordinates":[6.149671,46.196537],"type":"Point"}
 }

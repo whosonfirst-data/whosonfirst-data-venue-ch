@@ -2,13 +2,14 @@
   "id": 236678973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535587,47.288769,8.535587,47.288769",
     "geom:latitude":47.288769,
     "geom:longitude":8.535587,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L' Ile Falcon 30",
     "sg:city":"Sierre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236678973,
-    "wof:lastmodified":1449003201,
+    "wof:lastmodified":1466212792,
     "wof:name":"Heinz Gresser",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "flooring"
     ]
 },
-  "bbox": [8.535587,47.288769,8.535587,47.288769],
+  "bbox": [
+    8.535587,
+    47.288769,
+    8.535587,
+    47.288769
+],
   "geometry": {"coordinates":[8.535587,47.288769],"type":"Point"}
 }

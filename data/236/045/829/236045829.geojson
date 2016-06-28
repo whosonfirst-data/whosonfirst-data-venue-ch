@@ -2,13 +2,14 @@
   "id": 236045829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.625111,47.332249,8.625111,47.332249",
     "geom:latitude":47.332249,
     "geom:longitude":8.625111,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chapfstrasse 8 8126 Zumikon. Postfach",
     "sg:city":"Zumikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236045829,
-    "wof:lastmodified":1449004783,
+    "wof:lastmodified":1466209295,
     "wof:name":"Fischer Sanit\u00e4r Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.625111,47.332249,8.625111,47.332249],
+  "bbox": [
+    8.625111,
+    47.332249,
+    8.625111,
+    47.332249
+],
   "geometry": {"coordinates":[8.625111,47.332249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236222205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.142431,46.201595,6.142431,46.201595",
     "geom:latitude":46.201595,
     "geom:longitude":6.142431,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Th\u00e9\u00e2tre Bvd Du 11 1204 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236222205,
-    "wof:lastmodified":1449003940,
+    "wof:lastmodified":1466211047,
     "wof:name":"Grand Th\u00e9\u00e2tre De Gen\u00e8ve",
     "wof:parent_id":85897661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.142431,46.201595,6.142431,46.201595],
+  "bbox": [
+    6.142431,
+    46.201595,
+    6.142431,
+    46.201595
+],
   "geometry": {"coordinates":[6.142431,46.201595],"type":"Point"}
 }

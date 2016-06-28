@@ -2,13 +2,14 @@
   "id": 202600261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.645645,47.410656,8.645645,47.410656",
     "geom:latitude":47.410656,
     "geom:longitude":8.645645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 12 8602 Wangen Zh. Postfach",
     "sg:city":"Br\u00fcttisellen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202600261,
-    "wof:lastmodified":1449060348,
+    "wof:lastmodified":1466209665,
     "wof:name":"Krucker Bruno, Architekt",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.645645,47.410656,8.645645,47.410656],
+  "bbox": [
+    8.645645,
+    47.410656,
+    8.645645,
+    47.410656
+],
   "geometry": {"coordinates":[8.645645,47.410656],"type":"Point"}
 }

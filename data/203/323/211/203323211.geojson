@@ -2,13 +2,14 @@
   "id": 203323211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63686,46.756687,7.63686,46.756687",
     "geom:latitude":46.756687,
     "geom:longitude":7.63686,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6ttibachweg 3",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203323211,
-    "wof:lastmodified":1449025095,
+    "wof:lastmodified":1466210768,
     "wof:name":"Dr.med.gerhard F. Rohrer Spezialarzt Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63686,46.756687,7.63686,46.756687],
+  "bbox": [
+    7.63686,
+    46.756687,
+    7.63686,
+    46.756687
+],
   "geometry": {"coordinates":[7.63686,46.756687],"type":"Point"}
 }

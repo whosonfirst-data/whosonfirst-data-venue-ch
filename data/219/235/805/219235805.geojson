@@ -2,13 +2,14 @@
   "id": 219235805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.463735,47.494255,9.463735,47.494255",
     "geom:latitude":47.494255,
     "geom:longitude":9.463735,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstrasse 10",
     "sg:city":"Horn",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219235805,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466211338,
     "wof:name":"Delinat Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wine"
     ]
 },
-  "bbox": [9.463735,47.494255,9.463735,47.494255],
+  "bbox": [
+    9.463735,
+    47.494255,
+    9.463735,
+    47.494255
+],
   "geometry": {"coordinates":[9.463735,47.494255],"type":"Point"}
 }

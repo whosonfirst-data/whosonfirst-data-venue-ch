@@ -2,13 +2,14 @@
   "id": 186065049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549459,47.365513,8.549459,47.365513",
     "geom:latitude":47.365513,
     "geom:longitude":8.549459,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlebachstrasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186065049,
-    "wof:lastmodified":1449053007,
+    "wof:lastmodified":1466210323,
     "wof:name":"Ernst R\u00fccker + Partner Generalunternehmung Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.549459,47.365513,8.549459,47.365513],
+  "bbox": [
+    8.549459,
+    47.365513,
+    8.549459,
+    47.365513
+],
   "geometry": {"coordinates":[8.549459,47.365513],"type":"Point"}
 }

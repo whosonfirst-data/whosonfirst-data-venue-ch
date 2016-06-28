@@ -2,13 +2,14 @@
   "id": 186472425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436507,46.945061,7.436507,46.945061",
     "geom:latitude":46.945061,
     "geom:longitude":7.436507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Monbijoustrasse 14 3011 Bern. Postfach 5236",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186472425,
-    "wof:lastmodified":1449050456,
+    "wof:lastmodified":1466211192,
     "wof:name":"Ausgleichskasse Des Bernischen Gesch\u00e4ftsinhaberverbandes",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436507,46.945061,7.436507,46.945061],
+  "bbox": [
+    7.436507,
+    46.945061,
+    7.436507,
+    46.945061
+],
   "geometry": {"coordinates":[7.436507,46.945061],"type":"Point"}
 }

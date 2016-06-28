@@ -2,13 +2,14 @@
   "id": 219242157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.159342,46.201897,6.159342,46.201897",
     "geom:latitude":46.201897,
     "geom:longitude":6.159342,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Soodstrasse 26",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219242157,
-    "wof:lastmodified":1449073505,
+    "wof:lastmodified":1466211450,
     "wof:name":"Etablissements Fleury & Cie Sa Garage",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.159342,46.201897,6.159342,46.201897],
+  "bbox": [
+    6.159342,
+    46.201897,
+    6.159342,
+    46.201897
+],
   "geometry": {"coordinates":[6.159342,46.201897],"type":"Point"}
 }

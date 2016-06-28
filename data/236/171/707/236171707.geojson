@@ -2,13 +2,14 @@
   "id": 236171707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.679045,47.594166,8.679045,47.594166",
     "geom:latitude":47.594166,
     "geom:longitude":8.679045,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 36 8450 Andelfingen. Postfach",
     "sg:city":"Andelfingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236171707,
-    "wof:lastmodified":1449005267,
+    "wof:lastmodified":1466210498,
     "wof:name":"Berufsberatung Bezirk Andelfingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.679045,47.594166,8.679045,47.594166],
+  "bbox": [
+    8.679045,
+    47.594166,
+    8.679045,
+    47.594166
+],
   "geometry": {"coordinates":[8.679045,47.594166],"type":"Point"}
 }

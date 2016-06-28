@@ -2,13 +2,14 @@
   "id": 202478947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.431156,46.957272,7.431156,46.957272",
     "geom:latitude":46.957272,
     "geom:longitude":7.431156,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ralligweg 10",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202478947,
-    "wof:lastmodified":1449060178,
+    "wof:lastmodified":1466211181,
     "wof:name":"Ekg Geo-science Eggenberger & Kurz",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.431156,46.957272,7.431156,46.957272],
+  "bbox": [
+    7.431156,
+    46.957272,
+    7.431156,
+    46.957272
+],
   "geometry": {"coordinates":[7.431156,46.957272],"type":"Point"}
 }

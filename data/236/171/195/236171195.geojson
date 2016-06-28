@@ -2,13 +2,14 @@
   "id": 236171195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.450885,47.480305,8.450885,47.480305",
     "geom:latitude":47.480305,
     "geom:longitude":8.450885,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalstrasse 11 8157 Dielsdorf. Postfach 218",
     "sg:city":"Dielsdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236171195,
-    "wof:lastmodified":1449005264,
+    "wof:lastmodified":1466210492,
     "wof:name":"Berufs-& Laufbahnberatung Des Bezirkes Dielsdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.450885,47.480305,8.450885,47.480305],
+  "bbox": [
+    8.450885,
+    47.480305,
+    8.450885,
+    47.480305
+],
   "geometry": {"coordinates":[8.450885,47.480305],"type":"Point"}
 }

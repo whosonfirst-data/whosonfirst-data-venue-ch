@@ -2,13 +2,14 @@
   "id": 202847785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.467779,46.936783,7.467779,46.936783",
     "geom:latitude":46.936783,
     "geom:longitude":7.467779,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringoltingenstrasse 25",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202847785,
-    "wof:lastmodified":1449061032,
+    "wof:lastmodified":1466211777,
     "wof:name":"Nauer & Scheurer Ag, Architekten Sia",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.467779,46.936783,7.467779,46.936783],
+  "bbox": [
+    7.467779,
+    46.936783,
+    7.467779,
+    46.936783
+],
   "geometry": {"coordinates":[7.467779,46.936783],"type":"Point"}
 }

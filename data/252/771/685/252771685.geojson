@@ -2,13 +2,14 @@
   "id": 252771685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.423972,46.928543,7.423972,46.928543",
     "geom:latitude":46.928543,
     "geom:longitude":7.423972,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wabersackerstrasse 55",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252771685,
-    "wof:lastmodified":1449006003,
+    "wof:lastmodified":1466209571,
     "wof:name":"Antik-shop Marzili",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.423972,46.928543,7.423972,46.928543],
+  "bbox": [
+    7.423972,
+    46.928543,
+    7.423972,
+    46.928543
+],
   "geometry": {"coordinates":[7.423972,46.928543],"type":"Point"}
 }

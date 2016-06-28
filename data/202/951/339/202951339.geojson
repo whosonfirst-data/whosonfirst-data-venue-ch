@@ -2,13 +2,14 @@
   "id": 202951339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.651765,46.525742,6.651765,46.525742",
     "geom:latitude":46.525742,
     "geom:longitude":6.651765,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Maupas 8bis",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202951339,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466212218,
     "wof:name":"Atelier Delta Ph. Buxcel & M. Flury",
     "wof:parent_id":85862301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.651765,46.525742,6.651765,46.525742],
+  "bbox": [
+    6.651765,
+    46.525742,
+    6.651765,
+    46.525742
+],
   "geometry": {"coordinates":[6.651765,46.525742],"type":"Point"}
 }

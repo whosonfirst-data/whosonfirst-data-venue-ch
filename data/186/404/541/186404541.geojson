@@ -2,13 +2,14 @@
   "id": 186404541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.5977,46.526367,6.5977,46.526367",
     "geom:latitude":46.526367,
     "geom:longitude":6.5977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rugenaustrasse 3",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186404541,
-    "wof:lastmodified":1449052147,
+    "wof:lastmodified":1466210634,
     "wof:name":"Frosio Roger Sa Succursale De Renens",
     "wof:parent_id":85862305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.5977,46.526367,6.5977,46.526367],
+  "bbox": [
+    6.5977,
+    46.526367,
+    6.5977,
+    46.526367
+],
   "geometry": {"coordinates":[6.5977,46.526367],"type":"Point"}
 }

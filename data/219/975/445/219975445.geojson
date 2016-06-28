@@ -2,13 +2,14 @@
   "id": 219975445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.441315,47.085278,8.441315,47.085278",
     "geom:latitude":47.085278,
     "geom:longitude":8.441315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Binzstrasse 15 8045 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219975445,
-    "wof:lastmodified":1449073423,
+    "wof:lastmodified":1466212758,
     "wof:name":"Ingenieurb\u00fcro Wettstein M. Ingenieurb\u00fcro F. Haustechnik U. Energiemanagement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.441315,47.085278,8.441315,47.085278],
+  "bbox": [
+    8.441315,
+    47.085278,
+    8.441315,
+    47.085278
+],
   "geometry": {"coordinates":[8.441315,47.085278],"type":"Point"}
 }

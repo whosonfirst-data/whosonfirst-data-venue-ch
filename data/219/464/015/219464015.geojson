@@ -2,13 +2,14 @@
   "id": 219464015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.602242,47.40168,8.602242,47.40168",
     "geom:latitude":47.40168,
     "geom:longitude":8.602242,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 28a",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219464015,
-    "wof:lastmodified":1449071353,
+    "wof:lastmodified":1466210795,
     "wof:name":"Aig Fund Management (switzerland) Ltd",
     "wof:parent_id":85862427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.602242,47.40168,8.602242,47.40168],
+  "bbox": [
+    8.602242,
+    47.40168,
+    8.602242,
+    47.40168
+],
   "geometry": {"coordinates":[8.602242,47.40168],"type":"Point"}
 }

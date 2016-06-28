@@ -2,13 +2,14 @@
   "id": 219642689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.414015,46.984383,8.414015,46.984383",
     "geom:latitude":46.984383,
     "geom:longitude":8.414015,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedenstr. 2",
     "sg:city":"Ennetb\u00fcrgen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219642689,
-    "wof:lastmodified":1449070587,
+    "wof:lastmodified":1466212113,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.414015,46.984383,8.414015,46.984383],
+  "bbox": [
+    8.414015,
+    46.984383,
+    8.414015,
+    46.984383
+],
   "geometry": {"coordinates":[8.414015,46.984383],"type":"Point"}
 }

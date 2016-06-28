@@ -2,13 +2,14 @@
   "id": 202785911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.319371,47.478794,8.319371,47.478794",
     "geom:latitude":47.478794,
     "geom:longitude":8.319371,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6htalstrasse 12",
     "sg:city":"Ennetbaden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202785911,
-    "wof:lastmodified":1449062228,
+    "wof:lastmodified":1466211395,
     "wof:name":"Architekten Lehner Meier Kost Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.319371,47.478794,8.319371,47.478794],
+  "bbox": [
+    8.319371,
+    47.478794,
+    8.319371,
+    47.478794
+],
   "geometry": {"coordinates":[8.319371,47.478794],"type":"Point"}
 }

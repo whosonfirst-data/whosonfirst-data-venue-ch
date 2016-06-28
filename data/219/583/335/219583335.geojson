@@ -2,13 +2,14 @@
   "id": 219583335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.427005,45.512054,10.427005,45.512054",
     "geom:latitude":45.512054,
     "geom:longitude":10.427005,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Roma",
     "sg:city":"Campione",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219583335,
-    "wof:lastmodified":1449073187,
+    "wof:lastmodified":1466211974,
     "wof:name":"Popolare Di Novara, Sportello Bancario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.427005,45.512054,10.427005,45.512054],
+  "bbox": [
+    10.427005,
+    45.512054,
+    10.427005,
+    45.512054
+],
   "geometry": {"coordinates":[10.427005,45.512054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186295701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63384,46.898979,7.63384,46.898979",
     "geom:latitude":46.898979,
     "geom:longitude":7.63384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenackerweg 4 3506 Grossh\u00f6chstetten. Postfach 130",
     "sg:city":"Grossh\u00f6chstetten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186295701,
-    "wof:lastmodified":1449051460,
+    "wof:lastmodified":1466209803,
     "wof:name":"Louis Brancher Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63384,46.898979,7.63384,46.898979],
+  "bbox": [
+    7.63384,
+    46.898979,
+    7.63384,
+    46.898979
+],
   "geometry": {"coordinates":[7.63384,46.898979],"type":"Point"}
 }

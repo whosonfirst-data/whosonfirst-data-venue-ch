@@ -2,13 +2,14 @@
   "id": 186632833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.415434,46.909615,7.415434,46.909615",
     "geom:latitude":46.909615,
     "geom:longitude":7.415434,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neudorfstrasse 2a",
     "sg:city":"Steinhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186632833,
-    "wof:lastmodified":1449052089,
+    "wof:lastmodified":1466212134,
     "wof:name":"Andreas Roduner Ingenieurb\u00fcro",
     "wof:parent_id":85800495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.415434,46.909615,7.415434,46.909615],
+  "bbox": [
+    7.415434,
+    46.909615,
+    7.415434,
+    46.909615
+],
   "geometry": {"coordinates":[7.415434,46.909615],"type":"Point"}
 }

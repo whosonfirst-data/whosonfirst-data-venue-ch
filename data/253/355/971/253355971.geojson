@@ -2,13 +2,14 @@
   "id": 253355971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.05107,47.306561,8.05107,47.306561",
     "geom:latitude":47.306561,
     "geom:longitude":8.05107,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 19",
     "sg:city":"Sch\u00f6ftland",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253355971,
-    "wof:lastmodified":1449063640,
+    "wof:lastmodified":1466212241,
     "wof:name":"Aleph & Tau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.05107,47.306561,8.05107,47.306561],
+  "bbox": [
+    8.05107,
+    47.306561,
+    8.05107,
+    47.306561
+],
   "geometry": {"coordinates":[8.05107,47.306561],"type":"Point"}
 }

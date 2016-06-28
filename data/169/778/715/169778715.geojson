@@ -2,13 +2,14 @@
   "id": 169778715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.4758,47.393948,8.4758,47.393948",
     "geom:latitude":47.393948,
     "geom:longitude":8.4758,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hermetschloostr. 73",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169778715,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466208904,
     "wof:name":"Hospitalis-buchverlag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.4758,47.393948,8.4758,47.393948],
+  "bbox": [
+    8.4758,
+    47.393948,
+    8.4758,
+    47.393948
+],
   "geometry": {"coordinates":[8.4758,47.393948],"type":"Point"}
 }

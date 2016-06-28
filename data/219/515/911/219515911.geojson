@@ -2,13 +2,14 @@
   "id": 219515911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.732215,47.486099,7.732215,47.486099",
     "geom:latitude":47.486099,
     "geom:longitude":7.732215,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 77/schulstr.",
     "sg:city":"Birsfelden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219515911,
-    "wof:lastmodified":1449071212,
+    "wof:lastmodified":1466211263,
     "wof:name":"Basellandschaftliche Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.732215,47.486099,7.732215,47.486099],
+  "bbox": [
+    7.732215,
+    47.486099,
+    7.732215,
+    47.486099
+],
   "geometry": {"coordinates":[7.732215,47.486099],"type":"Point"}
 }

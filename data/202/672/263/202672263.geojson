@@ -2,13 +2,14 @@
   "id": 202672263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600572,47.486229,7.600572,47.486229",
     "geom:latitude":47.486229,
     "geom:longitude":7.600572,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrgasse 15",
     "sg:city":"Breitenbach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202672263,
-    "wof:lastmodified":1449060274,
+    "wof:lastmodified":1466210332,
     "wof:name":"Procoba Reinach Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600572,47.486229,7.600572,47.486229],
+  "bbox": [
+    7.600572,
+    47.486229,
+    7.600572,
+    47.486229
+],
   "geometry": {"coordinates":[7.600572,47.486229],"type":"Point"}
 }

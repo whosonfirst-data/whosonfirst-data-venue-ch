@@ -2,13 +2,14 @@
   "id": 185668221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.303758,47.073208,7.303758,47.073208",
     "geom:latitude":47.073208,
     "geom:longitude":7.303758,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeughausstrasse 3a",
     "sg:city":"Lyss",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185668221,
-    "wof:lastmodified":1449007715,
+    "wof:lastmodified":1466210746,
     "wof:name":"Lyssbach Druck Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "poster"
     ]
 },
-  "bbox": [7.303758,47.073208,7.303758,47.073208],
+  "bbox": [
+    7.303758,
+    47.073208,
+    7.303758,
+    47.073208
+],
   "geometry": {"coordinates":[7.303758,47.073208],"type":"Point"}
 }

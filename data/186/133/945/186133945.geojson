@@ -2,13 +2,14 @@
   "id": 186133945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.941155,47.136292,7.941155,47.136292",
     "geom:latitude":47.136292,
     "geom:longitude":7.941155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zellburg 3",
     "sg:city":"Schenkon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186133945,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466211272,
     "wof:name":"Leuenberger Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.941155,47.136292,7.941155,47.136292],
+  "bbox": [
+    7.941155,
+    47.136292,
+    7.941155,
+    47.136292
+],
   "geometry": {"coordinates":[7.941155,47.136292],"type":"Point"}
 }

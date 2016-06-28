@@ -2,13 +2,14 @@
   "id": 186416331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.568039,47.567608,7.568039,47.567608",
     "geom:latitude":47.567608,
     "geom:longitude":7.568039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammerkirchstrasse 17",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186416331,
-    "wof:lastmodified":1449051582,
+    "wof:lastmodified":1466210728,
     "wof:name":"Dumas Albert, Fassaden",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.568039,47.567608,7.568039,47.567608],
+  "bbox": [
+    7.568039,
+    47.567608,
+    7.568039,
+    47.567608
+],
   "geometry": {"coordinates":[7.568039,47.567608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185721451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.24503,47.133167,7.24503,47.133167",
     "geom:latitude":47.133167,
     "geom:longitude":7.24503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hugistrasse 3",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185721451,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1466211280,
     "wof:name":"Kunz & Balmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.24503,47.133167,7.24503,47.133167],
+  "bbox": [
+    7.24503,
+    47.133167,
+    7.24503,
+    47.133167
+],
   "geometry": {"coordinates":[7.24503,47.133167],"type":"Point"}
 }

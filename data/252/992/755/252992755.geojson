@@ -2,13 +2,14 @@
   "id": 252992755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.677444,46.688805,7.677444,46.688805",
     "geom:latitude":46.688805,
     "geom:longitude":7.677444,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberlandstrasse 18 3700 Spiez. Postfach 9",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252992755,
-    "wof:lastmodified":1449005919,
+    "wof:lastmodified":1466211741,
     "wof:name":"Ulrich Aeberhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.677444,46.688805,7.677444,46.688805],
+  "bbox": [
+    7.677444,
+    46.688805,
+    7.677444,
+    46.688805
+],
   "geometry": {"coordinates":[7.677444,46.688805],"type":"Point"}
 }

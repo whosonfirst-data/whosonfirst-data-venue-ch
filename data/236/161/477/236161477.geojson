@@ -2,13 +2,14 @@
   "id": 236161477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.333,47.46883,8.333,47.46883",
     "geom:latitude":47.46883,
     "geom:longitude":8.333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weizenstrasse 18",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236161477,
-    "wof:lastmodified":1449002865,
+    "wof:lastmodified":1466210385,
     "wof:name":"Volkshochschule Wettingen Sekretariat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.333,47.46883,8.333,47.46883],
+  "bbox": [
+    8.333,
+    47.46883,
+    8.333,
+    47.46883
+],
   "geometry": {"coordinates":[8.333,47.46883],"type":"Point"}
 }

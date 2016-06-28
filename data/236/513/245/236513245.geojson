@@ -2,13 +2,14 @@
   "id": 236513245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.604933,47.212486,8.604933,47.212486",
     "geom:latitude":47.212486,
     "geom:longitude":8.604933,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstrasse 25",
     "sg:city":"Hirzel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236513245,
-    "wof:lastmodified":1449003913,
+    "wof:lastmodified":1466212477,
     "wof:name":"Blumen B\u00fcrgler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.604933,47.212486,8.604933,47.212486],
+  "bbox": [
+    8.604933,
+    47.212486,
+    8.604933,
+    47.212486
+],
   "geometry": {"coordinates":[8.604933,47.212486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185879721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.415056,46.941166,7.415056,46.941166",
     "geom:latitude":46.941166,
     "geom:longitude":7.415056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstrasse 1 4922 B\u00fctzberg. Postfach",
     "sg:city":"B\u00fctzberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185879721,
-    "wof:lastmodified":1449006615,
+    "wof:lastmodified":1466209709,
     "wof:name":"Imabau",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.415056,46.941166,7.415056,46.941166],
+  "bbox": [
+    7.415056,
+    46.941166,
+    7.415056,
+    46.941166
+],
   "geometry": {"coordinates":[7.415056,46.941166],"type":"Point"}
 }

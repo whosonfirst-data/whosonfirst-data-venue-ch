@@ -2,13 +2,14 @@
   "id": 202703441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.598497,47.504528,8.598497,47.504528",
     "geom:latitude":47.504528,
     "geom:longitude":8.598497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chliweg 24",
     "sg:city":"Embrach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202703441,
-    "wof:lastmodified":1449060884,
+    "wof:lastmodified":1466210619,
     "wof:name":"Schmid Kurt Und Partner, Inh. Schmid Kurt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.598497,47.504528,8.598497,47.504528],
+  "bbox": [
+    8.598497,
+    47.504528,
+    8.598497,
+    47.504528
+],
   "geometry": {"coordinates":[8.598497,47.504528],"type":"Point"}
 }

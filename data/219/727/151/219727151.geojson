@@ -2,13 +2,14 @@
   "id": 219727151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.313243,47.121548,9.313243,47.121548",
     "geom:latitude":47.121548,
     "geom:longitude":9.313243,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 31",
     "sg:city":"Walenstadt",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219727151,
-    "wof:lastmodified":1449070918,
+    "wof:lastmodified":1466212297,
     "wof:name":"St. Gallische Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.313243,47.121548,9.313243,47.121548],
+  "bbox": [
+    9.313243,
+    47.121548,
+    9.313243,
+    47.121548
+],
   "geometry": {"coordinates":[9.313243,47.121548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236539389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.492342,47.126556,9.492342,47.126556",
     "geom:latitude":47.126556,
     "geom:longitude":9.492342,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Guschastrasse 44",
     "sg:city":"Sevelen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236539389,
-    "wof:lastmodified":1449005328,
+    "wof:lastmodified":1466212579,
     "wof:name":"Alvier-druck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [9.492342,47.126556,9.492342,47.126556],
+  "bbox": [
+    9.492342,
+    47.126556,
+    9.492342,
+    47.126556
+],
   "geometry": {"coordinates":[9.492342,47.126556],"type":"Point"}
 }

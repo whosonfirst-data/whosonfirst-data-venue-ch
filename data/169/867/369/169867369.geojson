@@ -2,13 +2,14 @@
   "id": 169867369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.241356,46.380901,6.241356,46.380901",
     "geom:latitude":46.380901,
     "geom:longitude":6.241356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Rive 1260 Nyon Case Postale 265",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169867369,
-    "wof:lastmodified":1449034097,
+    "wof:lastmodified":1466209506,
     "wof:name":"Station D'\u00e9puration Des Eaux Administration Communale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.241356,46.380901,6.241356,46.380901],
+  "bbox": [
+    6.241356,
+    46.380901,
+    6.241356,
+    46.380901
+],
   "geometry": {"coordinates":[6.241356,46.380901],"type":"Point"}
 }

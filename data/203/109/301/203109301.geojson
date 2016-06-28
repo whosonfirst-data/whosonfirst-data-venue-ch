@@ -2,13 +2,14 @@
   "id": 203109301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529295,47.349419,8.529295,47.349419",
     "geom:latitude":47.349419,
     "geom:longitude":8.529295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellariastrasse 56",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203109301,
-    "wof:lastmodified":1449025578,
+    "wof:lastmodified":1466211203,
     "wof:name":"Bernard San",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529295,47.349419,8.529295,47.349419],
+  "bbox": [
+    8.529295,
+    47.349419,
+    8.529295,
+    47.349419
+],
   "geometry": {"coordinates":[8.529295,47.349419],"type":"Point"}
 }

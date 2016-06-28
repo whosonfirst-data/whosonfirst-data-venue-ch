@@ -2,13 +2,14 @@
   "id": 236046451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.583224,47.452839,8.583224,47.452839",
     "geom:latitude":47.452839,
     "geom:longitude":8.583224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 33",
     "sg:city":"Kloten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236046451,
-    "wof:lastmodified":1449003492,
+    "wof:lastmodified":1466209301,
     "wof:name":"Furrer Max Ag.",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.583224,47.452839,8.583224,47.452839],
+  "bbox": [
+    8.583224,
+    47.452839,
+    8.583224,
+    47.452839
+],
   "geometry": {"coordinates":[8.583224,47.452839],"type":"Point"}
 }

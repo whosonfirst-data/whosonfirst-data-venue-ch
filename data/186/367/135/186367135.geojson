@@ -2,13 +2,14 @@
   "id": 186367135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.599362,47.537579,7.599362,47.537579",
     "geom:latitude":47.537579,
     "geom:longitude":7.599362,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrstensteinerstrasse 59",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186367135,
-    "wof:lastmodified":1449051954,
+    "wof:lastmodified":1466210338,
     "wof:name":"J. Pohl Baugesch\u00e4ft",
     "wof:parent_id":85799909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.599362,47.537579,7.599362,47.537579],
+  "bbox": [
+    7.599362,
+    47.537579,
+    7.599362,
+    47.537579
+],
   "geometry": {"coordinates":[7.599362,47.537579],"type":"Point"}
 }

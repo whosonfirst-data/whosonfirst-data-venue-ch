@@ -2,13 +2,14 @@
   "id": 202897415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600062,46.914444,7.600062,46.914444",
     "geom:latitude":46.914444,
     "geom:longitude":7.600062,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrmoosweg 6",
     "sg:city":"Schlosswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202897415,
-    "wof:lastmodified":1449062250,
+    "wof:lastmodified":1466211996,
     "wof:name":"Meerstetter Engineering Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600062,46.914444,7.600062,46.914444],
+  "bbox": [
+    7.600062,
+    46.914444,
+    7.600062,
+    46.914444
+],
   "geometry": {"coordinates":[7.600062,46.914444],"type":"Point"}
 }

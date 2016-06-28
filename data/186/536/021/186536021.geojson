@@ -2,13 +2,14 @@
   "id": 186536021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.098724,47.361229,8.098724,47.361229",
     "geom:latitude":47.361229,
     "geom:longitude":8.098724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 15",
     "sg:city":"Gr\u00e4nichen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186536021,
-    "wof:lastmodified":1449051970,
+    "wof:lastmodified":1466211677,
     "wof:name":"Altersheim Schiffl\u00e4ndi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.098724,47.361229,8.098724,47.361229],
+  "bbox": [
+    8.098724,
+    47.361229,
+    8.098724,
+    47.361229
+],
   "geometry": {"coordinates":[8.098724,47.361229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220018587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.309879,46.849998,7.309879,46.849998",
     "geom:latitude":46.849998,
     "geom:longitude":7.309879,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Enetmoos",
     "sg:city":"Albligen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220018587,
-    "wof:lastmodified":1449074438,
+    "wof:lastmodified":1466209037,
     "wof:name":"Heinz Brunner Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.309879,46.849998,7.309879,46.849998],
+  "bbox": [
+    7.309879,
+    46.849998,
+    7.309879,
+    46.849998
+],
   "geometry": {"coordinates":[7.309879,46.849998],"type":"Point"}
 }

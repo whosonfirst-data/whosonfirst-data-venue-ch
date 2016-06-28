@@ -2,13 +2,14 @@
   "id": 236445013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.486187,46.971497,7.486187,46.971497",
     "geom:latitude":46.971497,
     "geom:longitude":7.486187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Zollgasse 99",
     "sg:city":"Ittigen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236445013,
-    "wof:lastmodified":1449002007,
+    "wof:lastmodified":1466212387,
     "wof:name":"Kinderpsych.klinik Neuhaus",
     "wof:parent_id":85800083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.486187,46.971497,7.486187,46.971497],
+  "bbox": [
+    7.486187,
+    46.971497,
+    7.486187,
+    46.971497
+],
   "geometry": {"coordinates":[7.486187,46.971497],"type":"Point"}
 }

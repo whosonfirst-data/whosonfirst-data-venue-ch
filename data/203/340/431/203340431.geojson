@@ -2,13 +2,14 @@
   "id": 203340431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.603326,47.415169,8.603326,47.415169",
     "geom:latitude":47.415169,
     "geom:longitude":8.603326,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zielackerstrasse 5",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203340431,
-    "wof:lastmodified":1449026403,
+    "wof:lastmodified":1466210932,
     "wof:name":"Dr.med.heinrich Haldi Spezialarzt Fmh",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.603326,47.415169,8.603326,47.415169],
+  "bbox": [
+    8.603326,
+    47.415169,
+    8.603326,
+    47.415169
+],
   "geometry": {"coordinates":[8.603326,47.415169],"type":"Point"}
 }

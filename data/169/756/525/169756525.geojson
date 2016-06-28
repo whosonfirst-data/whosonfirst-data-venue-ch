@@ -2,13 +2,14 @@
   "id": 169756525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.798615,46.166817,8.798615,46.166817",
     "geom:latitude":46.166817,
     "geom:longitude":8.798615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elfenstrasse 14 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169756525,
-    "wof:lastmodified":1449034664,
+    "wof:lastmodified":1466211403,
     "wof:name":"Italian Vice Consulate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [8.798615,46.166817,8.798615,46.166817],
+  "bbox": [
+    8.798615,
+    46.166817,
+    8.798615,
+    46.166817
+],
   "geometry": {"coordinates":[8.798615,46.166817],"type":"Point"}
 }

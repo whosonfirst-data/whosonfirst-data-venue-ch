@@ -2,13 +2,14 @@
   "id": 185984215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52884,47.3349,8.52884,47.3349",
     "geom:latitude":47.3349,
     "geom:longitude":8.52884,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dangelweg 1 8038 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185984215,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1466210659,
     "wof:name":"Wu's Gr\u00fcne Welt, Worni Ueli Innen- U. Aussenbegr\u00fcnung. B\u00fcrodienstleistungen",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52884,47.3349,8.52884,47.3349],
+  "bbox": [
+    8.52884,
+    47.3349,
+    8.52884,
+    47.3349
+],
   "geometry": {"coordinates":[8.52884,47.3349],"type":"Point"}
 }

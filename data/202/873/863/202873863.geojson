@@ -2,13 +2,14 @@
   "id": 202873863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.645649,46.511528,6.645649,46.511528",
     "geom:latitude":46.511528,
     "geom:longitude":6.645649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Fantaisie 3b 1009 Pully Case Postale 555",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202873863,
-    "wof:lastmodified":1449060647,
+    "wof:lastmodified":1466212025,
     "wof:name":"Wurlod Architectes Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.645649,46.511528,6.645649,46.511528],
+  "bbox": [
+    6.645649,
+    46.511528,
+    6.645649,
+    46.511528
+],
   "geometry": {"coordinates":[6.645649,46.511528],"type":"Point"}
 }

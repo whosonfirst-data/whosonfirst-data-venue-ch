@@ -2,13 +2,14 @@
   "id": 185885501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.728998,47.504353,8.728998,47.504353",
     "geom:latitude":47.504353,
     "geom:longitude":8.728998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Theaterstrasse 29 8400 Winterthur. Postfach 621",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185885501,
-    "wof:lastmodified":1449007480,
+    "wof:lastmodified":1466209746,
     "wof:name":"Prefadom Ag F\u00fcr Bauplanung Und Bauorganisation",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.728998,47.504353,8.728998,47.504353],
+  "bbox": [
+    8.728998,
+    47.504353,
+    8.728998,
+    47.504353
+],
   "geometry": {"coordinates":[8.728998,47.504353],"type":"Point"}
 }

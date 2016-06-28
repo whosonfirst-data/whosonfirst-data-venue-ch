@@ -2,13 +2,14 @@
   "id": 203369273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.641768,47.578289,7.641768,47.578289",
     "geom:latitude":47.578289,
     "geom:longitude":7.641768,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6rklingasse 60",
     "sg:city":"Riehen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203369273,
-    "wof:lastmodified":1449026778,
+    "wof:lastmodified":1466211222,
     "wof:name":"Dr.med.madeleine Von Wolff Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.641768,47.578289,7.641768,47.578289],
+  "bbox": [
+    7.641768,
+    47.578289,
+    7.641768,
+    47.578289
+],
   "geometry": {"coordinates":[7.641768,47.578289],"type":"Point"}
 }

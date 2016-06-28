@@ -2,13 +2,14 @@
   "id": 252798275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.536914,47.20657,7.536914,47.20657",
     "geom:latitude":47.20657,
     "geom:longitude":7.536914,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wengasse 16",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252798275,
-    "wof:lastmodified":1449005618,
+    "wof:lastmodified":1466209890,
     "wof:name":"Peter W\u00e4lchli Antiquit\u00e4ten & Stiche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.536914,47.20657,7.536914,47.20657],
+  "bbox": [
+    7.536914,
+    47.20657,
+    7.536914,
+    47.20657
+],
   "geometry": {"coordinates":[7.536914,47.20657],"type":"Point"}
 }

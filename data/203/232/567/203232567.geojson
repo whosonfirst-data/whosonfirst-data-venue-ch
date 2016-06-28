@@ -2,13 +2,14 @@
   "id": 203232567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.193395,46.194962,6.193395,46.194962",
     "geom:latitude":46.194962,
     "geom:longitude":6.193395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc Dinu-lipatti 1",
     "sg:city":"Ch\u00eane-bourg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203232567,
-    "wof:lastmodified":1449025531,
+    "wof:lastmodified":1466209832,
     "wof:name":"Dr M\u00e9d. Yves Gaudin M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.193395,46.194962,6.193395,46.194962],
+  "bbox": [
+    6.193395,
+    46.194962,
+    6.193395,
+    46.194962
+],
   "geometry": {"coordinates":[6.193395,46.194962],"type":"Point"}
 }

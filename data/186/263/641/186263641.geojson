@@ -2,13 +2,14 @@
   "id": 186263641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.215226,47.397545,8.215226,47.397545",
     "geom:latitude":47.397545,
     "geom:longitude":8.215226,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hendschikerstrasse 14",
     "sg:city":"Othmarsingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186263641,
-    "wof:lastmodified":1449052956,
+    "wof:lastmodified":1466209575,
     "wof:name":"Alfred Marti Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.215226,47.397545,8.215226,47.397545],
+  "bbox": [
+    8.215226,
+    47.397545,
+    8.215226,
+    47.397545
+],
   "geometry": {"coordinates":[8.215226,47.397545],"type":"Point"}
 }

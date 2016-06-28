@@ -2,13 +2,14 @@
   "id": 202680417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.345569,47.431004,8.345569,47.431004",
     "geom:latitude":47.431004,
     "geom:longitude":8.345569,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 21 8956 Killwangen. Postfach",
     "sg:city":"Killwangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202680417,
-    "wof:lastmodified":1449061872,
+    "wof:lastmodified":1466210409,
     "wof:name":"Refoba Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.345569,47.431004,8.345569,47.431004],
+  "bbox": [
+    8.345569,
+    47.431004,
+    8.345569,
+    47.431004
+],
   "geometry": {"coordinates":[8.345569,47.431004],"type":"Point"}
 }

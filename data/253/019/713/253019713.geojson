@@ -2,13 +2,14 @@
   "id": 253019713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.419911,46.97398,8.419911,46.97398",
     "geom:latitude":46.97398,
     "geom:longitude":8.419911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattstrasse 2",
     "sg:city":"Buochs",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253019713,
-    "wof:lastmodified":1449064523,
+    "wof:lastmodified":1466209148,
     "wof:name":"Gebr\u00fcder Kuster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.419911,46.97398,8.419911,46.97398],
+  "bbox": [
+    8.419911,
+    46.97398,
+    8.419911,
+    46.97398
+],
   "geometry": {"coordinates":[8.419911,46.97398],"type":"Point"}
 }

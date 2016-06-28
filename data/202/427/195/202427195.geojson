@@ -2,13 +2,14 @@
   "id": 202427195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.629267,46.525803,6.629267,46.525803",
     "geom:latitude":46.525803,
     "geom:longitude":6.629267,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Vinet 25",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202427195,
-    "wof:lastmodified":1449060876,
+    "wof:lastmodified":1466210213,
     "wof:name":"Bureau D'ing\u00e9nieur Monay Gilbert",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.629267,46.525803,6.629267,46.525803],
+  "bbox": [
+    6.629267,
+    46.525803,
+    6.629267,
+    46.525803
+],
   "geometry": {"coordinates":[6.629267,46.525803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236914913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.670315,47.384483,8.670315,47.384483",
     "geom:latitude":47.384483,
     "geom:longitude":8.670315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6hacher-weg 3",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236914913,
-    "wof:lastmodified":1449002807,
+    "wof:lastmodified":1466213022,
     "wof:name":"Reich Engineering Informatik Beratung",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.670315,47.384483,8.670315,47.384483],
+  "bbox": [
+    8.670315,
+    47.384483,
+    8.670315,
+    47.384483
+],
   "geometry": {"coordinates":[8.670315,47.384483],"type":"Point"}
 }

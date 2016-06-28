@@ -2,13 +2,14 @@
   "id": 220033255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.293839,47.030956,8.293839,47.030956",
     "geom:latitude":47.030956,
     "geom:longitude":8.293839,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werkstrasse 9",
     "sg:city":"Kriens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220033255,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466209159,
     "wof:name":"Paul Rutz Schreinerei",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.293839,47.030956,8.293839,47.030956],
+  "bbox": [
+    8.293839,
+    47.030956,
+    8.293839,
+    47.030956
+],
   "geometry": {"coordinates":[8.293839,47.030956],"type":"Point"}
 }

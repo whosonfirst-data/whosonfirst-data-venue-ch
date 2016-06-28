@@ -2,13 +2,14 @@
   "id": 203152925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.23886,46.383179,6.23886,46.383179",
     "geom:latitude":46.383179,
     "geom:longitude":6.23886,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Neuve 6",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203152925,
-    "wof:lastmodified":1449026389,
+    "wof:lastmodified":1466208942,
     "wof:name":"Dr M\u00e9d. Aldo Stanislas Roux M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.23886,46.383179,6.23886,46.383179],
+  "bbox": [
+    6.23886,
+    46.383179,
+    6.23886,
+    46.383179
+],
   "geometry": {"coordinates":[6.23886,46.383179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219187459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.647367,47.526207,7.647367,47.526207",
     "geom:latitude":47.526207,
     "geom:longitude":7.647367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 68",
     "sg:city":"Muttenz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219187459,
-    "wof:lastmodified":1449070912,
+    "wof:lastmodified":1466210782,
     "wof:name":"L\u00fcdin Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.647367,47.526207,7.647367,47.526207],
+  "bbox": [
+    7.647367,
+    47.526207,
+    7.647367,
+    47.526207
+],
   "geometry": {"coordinates":[7.647367,47.526207],"type":"Point"}
 }

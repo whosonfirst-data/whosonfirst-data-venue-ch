@@ -2,13 +2,14 @@
   "id": 202504417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.527041,46.51828,6.527041,46.51828",
     "geom:latitude":46.51828,
     "geom:longitude":6.527041,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lausanne Rue De 5",
     "sg:city":"Pr\u00e9verenges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202504417,
-    "wof:lastmodified":1449060544,
+    "wof:lastmodified":1466211484,
     "wof:name":"Ftt Sa",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.527041,46.51828,6.527041,46.51828],
+  "bbox": [
+    6.527041,
+    46.51828,
+    6.527041,
+    46.51828
+],
   "geometry": {"coordinates":[6.527041,46.51828],"type":"Point"}
 }

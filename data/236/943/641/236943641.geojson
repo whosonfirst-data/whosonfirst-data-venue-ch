@@ -2,13 +2,14 @@
   "id": 236943641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587762,47.576538,7.587762,47.576538",
     "geom:latitude":47.576538,
     "geom:longitude":7.587762,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altrheinweg 42",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236943641,
-    "wof:lastmodified":1449002334,
+    "wof:lastmodified":1466213035,
     "wof:name":"Foerderer Datenanalyse Und Informatik Gmbh",
     "wof:parent_id":85800031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587762,47.576538,7.587762,47.576538],
+  "bbox": [
+    7.587762,
+    47.576538,
+    7.587762,
+    47.576538
+],
   "geometry": {"coordinates":[7.587762,47.576538],"type":"Point"}
 }

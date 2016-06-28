@@ -2,13 +2,14 @@
   "id": 202459511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.735669,47.342007,8.735669,47.342007",
     "geom:latitude":47.342007,
     "geom:longitude":8.735669,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lambergstrasse 8",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202459511,
-    "wof:lastmodified":1449061144,
+    "wof:lastmodified":1466210934,
     "wof:name":"D'aujourd'hui & Partners Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.735669,47.342007,8.735669,47.342007],
+  "bbox": [
+    8.735669,
+    47.342007,
+    8.735669,
+    47.342007
+],
   "geometry": {"coordinates":[8.735669,47.342007],"type":"Point"}
 }

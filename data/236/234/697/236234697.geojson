@@ -2,13 +2,14 @@
   "id": 236234697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.535135,47.207382,7.535135,47.207382",
     "geom:latitude":47.207382,
     "geom:longitude":7.535135,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmiedengasse 11 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236234697,
-    "wof:lastmodified":1449005032,
+    "wof:lastmodified":1466211189,
     "wof:name":"Schmiedengasse 11 Ag Solothurn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.535135,47.207382,7.535135,47.207382],
+  "bbox": [
+    7.535135,
+    47.207382,
+    7.535135,
+    47.207382
+],
   "geometry": {"coordinates":[7.535135,47.207382],"type":"Point"}
 }

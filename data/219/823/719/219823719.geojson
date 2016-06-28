@@ -2,13 +2,14 @@
   "id": 219823719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.760649,47.483402,8.760649,47.483402",
     "geom:latitude":47.483402,
     "geom:longitude":8.760649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6sstalstrasse 254 8405 Seen. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219823719,
-    "wof:lastmodified":1449073876,
+    "wof:lastmodified":1466212503,
     "wof:name":"Rocco Gmbh",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.760649,47.483402,8.760649,47.483402],
+  "bbox": [
+    8.760649,
+    47.483402,
+    8.760649,
+    47.483402
+],
   "geometry": {"coordinates":[8.760649,47.483402],"type":"Point"}
 }

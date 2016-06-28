@@ -2,13 +2,14 @@
   "id": 236124437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.561472,47.230099,7.561472,47.230099",
     "geom:latitude":47.230099,
     "geom:longitude":7.561472,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedweg 14 4533 Riedholz. Postfach",
     "sg:city":"Riedholz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236124437,
-    "wof:lastmodified":1449004943,
+    "wof:lastmodified":1466210010,
     "wof:name":"H. + U. Roos Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.561472,47.230099,7.561472,47.230099],
+  "bbox": [
+    7.561472,
+    47.230099,
+    7.561472,
+    47.230099
+],
   "geometry": {"coordinates":[7.561472,47.230099],"type":"Point"}
 }

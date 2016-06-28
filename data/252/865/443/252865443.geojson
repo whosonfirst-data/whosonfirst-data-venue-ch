@@ -2,13 +2,14 @@
   "id": 252865443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.802751,47.32972,8.802751,47.32972",
     "geom:latitude":47.32972,
     "geom:longitude":8.802751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Effingerstrasse 20 3008 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252865443,
-    "wof:lastmodified":1449006237,
+    "wof:lastmodified":1466210620,
     "wof:name":"Salvatore Dimitri Atelier Dimitri Ledermode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.802751,47.32972,8.802751,47.32972],
+  "bbox": [
+    8.802751,
+    47.32972,
+    8.802751,
+    47.32972
+],
   "geometry": {"coordinates":[8.802751,47.32972],"type":"Point"}
 }

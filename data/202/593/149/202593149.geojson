@@ -2,13 +2,14 @@
   "id": 202593149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.818372,47.443928,8.818372,47.443928",
     "geom:latitude":47.443928,
     "geom:longitude":8.818372,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochbordstrasse 9 8600 D\u00fcbendorf. Postfach 443",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202593149,
-    "wof:lastmodified":1449061766,
+    "wof:lastmodified":1466209600,
     "wof:name":"Keller Ren\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.818372,47.443928,8.818372,47.443928],
+  "bbox": [
+    8.818372,
+    47.443928,
+    8.818372,
+    47.443928
+],
   "geometry": {"coordinates":[8.818372,47.443928],"type":"Point"}
 }

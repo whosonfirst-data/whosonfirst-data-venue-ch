@@ -2,13 +2,14 @@
   "id": 253081839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.045033,46.753918,8.045033,46.753918",
     "geom:latitude":46.753918,
     "geom:longitude":8.045033,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Tombet 24a",
     "sg:city":"Peseux",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253081839,
-    "wof:lastmodified":1449063738,
+    "wof:lastmodified":1466209735,
     "wof:name":"Ueli Hulliger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.045033,46.753918,8.045033,46.753918],
+  "bbox": [
+    8.045033,
+    46.753918,
+    8.045033,
+    46.753918
+],
   "geometry": {"coordinates":[8.045033,46.753918],"type":"Point"}
 }

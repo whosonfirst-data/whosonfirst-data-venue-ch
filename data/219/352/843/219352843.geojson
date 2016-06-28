@@ -2,13 +2,14 @@
   "id": 219352843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540083,47.317188,8.540083,47.317188",
     "geom:latitude":47.317188,
     "geom:longitude":8.540083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eistrasse",
     "sg:city":"Malters",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219352843,
-    "wof:lastmodified":1449072564,
+    "wof:lastmodified":1466209717,
     "wof:name":"Heinz Kendzia Autospritzwerk",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540083,47.317188,8.540083,47.317188],
+  "bbox": [
+    8.540083,
+    47.317188,
+    8.540083,
+    47.317188
+],
   "geometry": {"coordinates":[8.540083,47.317188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203328771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.085453,47.301479,9.085453,47.301479",
     "geom:latitude":47.301479,
     "geom:longitude":9.085453,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Susann-m\u00fcller-strasse 6",
     "sg:city":"Wattwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203328771,
-    "wof:lastmodified":1449026061,
+    "wof:lastmodified":1466210821,
     "wof:name":"Dr.med.hans Gammeter Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.085453,47.301479,9.085453,47.301479],
+  "bbox": [
+    9.085453,
+    47.301479,
+    9.085453,
+    47.301479
+],
   "geometry": {"coordinates":[9.085453,47.301479],"type":"Point"}
 }

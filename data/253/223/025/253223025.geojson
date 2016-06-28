@@ -2,13 +2,14 @@
   "id": 253223025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.306569,47.074902,7.306569,47.074902",
     "geom:latitude":47.074902,
     "geom:longitude":7.306569,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 2",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253223025,
-    "wof:lastmodified":1449063024,
+    "wof:lastmodified":1466211233,
     "wof:name":"Michael Rogen Lyssbach Beck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.306569,47.074902,7.306569,47.074902],
+  "bbox": [
+    7.306569,
+    47.074902,
+    7.306569,
+    47.074902
+],
   "geometry": {"coordinates":[7.306569,47.074902],"type":"Point"}
 }

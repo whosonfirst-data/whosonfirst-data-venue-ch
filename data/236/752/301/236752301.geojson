@@ -2,13 +2,14 @@
   "id": 236752301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.468494,46.945141,7.468494,46.945141",
     "geom:latitude":46.945141,
     "geom:longitude":7.468494,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrglenstrasse 25",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236752301,
-    "wof:lastmodified":1449002089,
+    "wof:lastmodified":1466212863,
     "wof:name":"Fit-in Software Ag",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "client-server"
     ]
 },
-  "bbox": [7.468494,46.945141,7.468494,46.945141],
+  "bbox": [
+    7.468494,
+    46.945141,
+    7.468494,
+    46.945141
+],
   "geometry": {"coordinates":[7.468494,46.945141],"type":"Point"}
 }

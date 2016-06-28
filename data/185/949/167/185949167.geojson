@@ -2,13 +2,14 @@
   "id": 185949167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.159166,46.20359,6.159166,46.20359",
     "geom:latitude":46.20359,
     "geom:longitude":6.159166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Henri-blanvalet 23",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185949167,
-    "wof:lastmodified":1449007603,
+    "wof:lastmodified":1466210273,
     "wof:name":"Ab Auto",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [6.159166,46.20359,6.159166,46.20359],
+  "bbox": [
+    6.159166,
+    46.20359,
+    6.159166,
+    46.20359
+],
   "geometry": {"coordinates":[6.159166,46.20359],"type":"Point"}
 }

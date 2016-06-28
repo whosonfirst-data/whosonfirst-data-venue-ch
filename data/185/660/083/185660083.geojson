@@ -2,13 +2,14 @@
   "id": 185660083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.161166,46.204655,6.161166,46.204655",
     "geom:latitude":46.204655,
     "geom:longitude":6.161166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Vollandes 23",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185660083,
-    "wof:lastmodified":1449008056,
+    "wof:lastmodified":1466210537,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale D'affichage",
     "wof:parent_id":85799915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "public"
     ]
 },
-  "bbox": [6.161166,46.204655,6.161166,46.204655],
+  "bbox": [
+    6.161166,
+    46.204655,
+    6.161166,
+    46.204655
+],
   "geometry": {"coordinates":[6.161166,46.204655],"type":"Point"}
 }

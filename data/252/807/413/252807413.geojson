@@ -2,13 +2,14 @@
   "id": 252807413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.144366,46.79895,7.144366,46.79895",
     "geom:latitude":46.79895,
     "geom:longitude":7.144366,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Vignettaz 51",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252807413,
-    "wof:lastmodified":1449005695,
+    "wof:lastmodified":1466209995,
     "wof:name":"Barras M.l. Madame.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.144366,46.79895,7.144366,46.79895],
+  "bbox": [
+    7.144366,
+    46.79895,
+    7.144366,
+    46.79895
+],
   "geometry": {"coordinates":[7.144366,46.79895],"type":"Point"}
 }

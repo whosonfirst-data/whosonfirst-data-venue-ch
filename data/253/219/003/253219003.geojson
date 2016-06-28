@@ -2,13 +2,14 @@
   "id": 253219003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.249497,47.309875,8.249497,47.309875",
     "geom:latitude":47.309875,
     "geom:longitude":8.249497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstrasse 11",
     "sg:city":"Sarmenstorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253219003,
-    "wof:lastmodified":1449065681,
+    "wof:lastmodified":1466211197,
     "wof:name":"Markus & Lucia Ruckli B\u00e4ckerei-konditorei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.249497,47.309875,8.249497,47.309875],
+  "bbox": [
+    8.249497,
+    47.309875,
+    8.249497,
+    47.309875
+],
   "geometry": {"coordinates":[8.249497,47.309875],"type":"Point"}
 }

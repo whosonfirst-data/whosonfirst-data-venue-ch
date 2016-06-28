@@ -2,13 +2,14 @@
   "id": 202756865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.586588,47.056751,8.586588,47.056751",
     "geom:latitude":47.056751,
     "geom:longitude":8.586588,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Husmattstrasse 17",
     "sg:city":"Steinerberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202756865,
-    "wof:lastmodified":1449061638,
+    "wof:lastmodified":1466211122,
     "wof:name":"Vogel Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.586588,47.056751,8.586588,47.056751],
+  "bbox": [
+    8.586588,
+    47.056751,
+    8.586588,
+    47.056751
+],
   "geometry": {"coordinates":[8.586588,47.056751],"type":"Point"}
 }

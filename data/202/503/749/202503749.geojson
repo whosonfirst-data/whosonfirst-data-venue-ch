@@ -2,13 +2,14 @@
   "id": 202503749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.748608,47.672287,8.748608,47.672287",
     "geom:latitude":47.672287,
     "geom:longitude":8.748608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 57",
     "sg:city":"Basadingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202503749,
-    "wof:lastmodified":1449062653,
+    "wof:lastmodified":1466211473,
     "wof:name":"Frey Innenarchitektur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.748608,47.672287,8.748608,47.672287],
+  "bbox": [
+    8.748608,
+    47.672287,
+    8.748608,
+    47.672287
+],
   "geometry": {"coordinates":[8.748608,47.672287],"type":"Point"}
 }

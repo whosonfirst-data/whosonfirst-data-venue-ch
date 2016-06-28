@@ -2,13 +2,14 @@
   "id": 219367013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.527638,47.164337,7.527638,47.164337",
     "geom:latitude":47.164337,
     "geom:longitude":7.527638,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 6",
     "sg:city":"Lohn-ammannsegg",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219367013,
-    "wof:lastmodified":1449072471,
+    "wof:lastmodified":1466209841,
     "wof:name":"Erlox Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automatic"
     ]
 },
-  "bbox": [7.527638,47.164337,7.527638,47.164337],
+  "bbox": [
+    7.527638,
+    47.164337,
+    7.527638,
+    47.164337
+],
   "geometry": {"coordinates":[7.527638,47.164337],"type":"Point"}
 }

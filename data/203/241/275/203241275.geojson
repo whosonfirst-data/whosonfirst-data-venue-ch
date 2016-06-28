@@ -2,13 +2,14 @@
   "id": 203241275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.445759,46.94799,7.445759,46.94799",
     "geom:latitude":46.94799,
     "geom:longitude":7.445759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 28",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203241275,
-    "wof:lastmodified":1449026834,
+    "wof:lastmodified":1466209924,
     "wof:name":"Dr.med. Berchtold Elmiger Spezialarzt Fmh",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.445759,46.94799,7.445759,46.94799],
+  "bbox": [
+    7.445759,
+    46.94799,
+    7.445759,
+    46.94799
+],
   "geometry": {"coordinates":[7.445759,46.94799],"type":"Point"}
 }

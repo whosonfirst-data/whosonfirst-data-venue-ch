@@ -2,13 +2,14 @@
   "id": 202418101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.798999,46.669392,6.798999,46.669392",
     "geom:latitude":46.669392,
     "geom:longitude":6.798999,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Grenade 30",
     "sg:city":"Moudon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202418101,
-    "wof:lastmodified":1449062108,
+    "wof:lastmodified":1466210030,
     "wof:name":"Bosson Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.798999,46.669392,6.798999,46.669392],
+  "bbox": [
+    6.798999,
+    46.669392,
+    6.798999,
+    46.669392
+],
   "geometry": {"coordinates":[6.798999,46.669392],"type":"Point"}
 }

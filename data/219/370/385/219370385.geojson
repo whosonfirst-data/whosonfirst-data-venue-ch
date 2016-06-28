@@ -2,13 +2,14 @@
   "id": 219370385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.604544,47.67606,8.604544,47.67606",
     "geom:latitude":47.67606,
     "geom:longitude":8.604544,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 10",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219370385,
-    "wof:lastmodified":1449072301,
+    "wof:lastmodified":1466209873,
     "wof:name":"Robisys Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "automation"
     ]
 },
-  "bbox": [8.604544,47.67606,8.604544,47.67606],
+  "bbox": [
+    8.604544,
+    47.67606,
+    8.604544,
+    47.67606
+],
   "geometry": {"coordinates":[8.604544,47.67606],"type":"Point"}
 }

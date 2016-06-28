@@ -2,13 +2,14 @@
   "id": 203107089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.506565,47.006042,9.506565,47.006042",
     "geom:latitude":47.006042,
     "geom:longitude":9.506565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laubgasse 30",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203107089,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1466211175,
     "wof:name":"Aaa Architektur Atelier Agosti Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.506565,47.006042,9.506565,47.006042],
+  "bbox": [
+    9.506565,
+    47.006042,
+    9.506565,
+    47.006042
+],
   "geometry": {"coordinates":[9.506565,47.006042],"type":"Point"}
 }

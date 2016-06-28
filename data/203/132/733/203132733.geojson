@@ -2,13 +2,14 @@
   "id": 203132733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.945233,46.012871,8.945233,46.012871",
     "geom:latitude":46.012871,
     "geom:longitude":8.945233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Gottardo 83",
     "sg:city":"Massagno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203132733,
-    "wof:lastmodified":1449025838,
+    "wof:lastmodified":1466211454,
     "wof:name":"Dott.med. Marcello Roccasalva Medico Generico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.945233,46.012871,8.945233,46.012871],
+  "bbox": [
+    8.945233,
+    46.012871,
+    8.945233,
+    46.012871
+],
   "geometry": {"coordinates":[8.945233,46.012871],"type":"Point"}
 }

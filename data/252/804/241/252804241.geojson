@@ -2,13 +2,14 @@
   "id": 252804241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80105,47.63171,8.80105,47.63171",
     "geom:latitude":47.63171,
     "geom:longitude":8.80105,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 511",
     "sg:city":"Oberstammheim",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252804241,
-    "wof:lastmodified":1449006154,
+    "wof:lastmodified":1466209958,
     "wof:name":"Amoda Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.80105,47.63171,8.80105,47.63171],
+  "bbox": [
+    8.80105,
+    47.63171,
+    8.80105,
+    47.63171
+],
   "geometry": {"coordinates":[8.80105,47.63171],"type":"Point"}
 }

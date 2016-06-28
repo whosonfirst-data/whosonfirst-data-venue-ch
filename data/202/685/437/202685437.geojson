@@ -2,13 +2,14 @@
   "id": 202685437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.164164,46.619221,7.164164,46.619221",
     "geom:latitude":46.619221,
     "geom:longitude":7.164164,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin D'entre-bois 2bis",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202685437,
-    "wof:lastmodified":1449062570,
+    "wof:lastmodified":1466210452,
     "wof:name":"Rime Bernard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.164164,46.619221,7.164164,46.619221],
+  "bbox": [
+    7.164164,
+    46.619221,
+    7.164164,
+    46.619221
+],
   "geometry": {"coordinates":[7.164164,46.619221],"type":"Point"}
 }

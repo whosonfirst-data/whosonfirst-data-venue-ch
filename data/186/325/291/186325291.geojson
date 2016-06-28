@@ -2,13 +2,14 @@
   "id": 186325291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.638253,46.774506,7.638253,46.774506",
     "geom:latitude":46.774506,
     "geom:longitude":7.638253,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstrasse 34",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186325291,
-    "wof:lastmodified":1449051413,
+    "wof:lastmodified":1466210017,
     "wof:name":"Rychener + Partner Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.638253,46.774506,7.638253,46.774506],
+  "bbox": [
+    7.638253,
+    46.774506,
+    7.638253,
+    46.774506
+],
   "geometry": {"coordinates":[7.638253,46.774506],"type":"Point"}
 }

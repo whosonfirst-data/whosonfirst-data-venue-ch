@@ -2,13 +2,14 @@
   "id": 202860357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.484319,47.197773,8.484319,47.197773",
     "geom:latitude":47.197773,
     "geom:longitude":8.484319,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstrasse 5",
     "sg:city":"Steinhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202860357,
-    "wof:lastmodified":1449061254,
+    "wof:lastmodified":1466211958,
     "wof:name":"Schleiss + Z\u00fcrcher Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.484319,47.197773,8.484319,47.197773],
+  "bbox": [
+    8.484319,
+    47.197773,
+    8.484319,
+    47.197773
+],
   "geometry": {"coordinates":[8.484319,47.197773],"type":"Point"}
 }

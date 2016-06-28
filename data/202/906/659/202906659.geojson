@@ -2,13 +2,14 @@
   "id": 202906659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.349441,47.429646,8.349441,47.429646",
     "geom:latitude":47.429646,
     "geom:longitude":8.349441,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctirain 12",
     "sg:city":"Killwangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202906659,
-    "wof:lastmodified":1449061074,
+    "wof:lastmodified":1466212147,
     "wof:name":"Keel Baukonzept Bauherrenvertretungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.349441,47.429646,8.349441,47.429646],
+  "bbox": [
+    8.349441,
+    47.429646,
+    8.349441,
+    47.429646
+],
   "geometry": {"coordinates":[8.349441,47.429646],"type":"Point"}
 }

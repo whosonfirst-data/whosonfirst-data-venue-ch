@@ -2,13 +2,14 @@
   "id": 185748735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.050612,47.389336,8.050612,47.389336",
     "geom:latitude":47.389336,
     "geom:longitude":8.050612,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachstrasse 57 5000 Aarau. Postfach",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185748735,
-    "wof:lastmodified":1449007815,
+    "wof:lastmodified":1466211488,
     "wof:name":"Wyser & M\u00fcller Advokaturb\u00fcro",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.050612,47.389336,8.050612,47.389336],
+  "bbox": [
+    8.050612,
+    47.389336,
+    8.050612,
+    47.389336
+],
   "geometry": {"coordinates":[8.050612,47.389336],"type":"Point"}
 }

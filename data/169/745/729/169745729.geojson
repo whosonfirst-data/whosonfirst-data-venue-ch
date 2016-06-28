@@ -2,13 +2,14 @@
   "id": 169745729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.725963,47.238243,8.725963,47.238243",
     "geom:latitude":47.238243,
     "geom:longitude":8.725963,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 101",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169745729,
-    "wof:lastmodified":1449035812,
+    "wof:lastmodified":1466211295,
     "wof:name":"Sprachschule St\u00e4fa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.725963,47.238243,8.725963,47.238243],
+  "bbox": [
+    8.725963,
+    47.238243,
+    8.725963,
+    47.238243
+],
   "geometry": {"coordinates":[8.725963,47.238243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185650671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51641,47.360199,8.51641,47.360199",
     "geom:latitude":47.360199,
     "geom:longitude":8.51641,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Uetlibergstrasse 132",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185650671,
-    "wof:lastmodified":1449007594,
+    "wof:lastmodified":1466210290,
     "wof:name":"Wirz Werbung Ag",
     "wof:parent_id":85800635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [8.51641,47.360199,8.51641,47.360199],
+  "bbox": [
+    8.51641,
+    47.360199,
+    8.51641,
+    47.360199
+],
   "geometry": {"coordinates":[8.51641,47.360199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202908847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.556746,47.379974,9.556746,47.379974",
     "geom:latitude":47.379974,
     "geom:longitude":9.556746,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reinacherstrasse 62 4053 Basel. Postfach",
     "sg:city":"Allschwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202908847,
-    "wof:lastmodified":1449061543,
+    "wof:lastmodified":1466212165,
     "wof:name":"Ibg Graf B. Ag, Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.556746,47.379974,9.556746,47.379974],
+  "bbox": [
+    9.556746,
+    47.379974,
+    9.556746,
+    47.379974
+],
   "geometry": {"coordinates":[9.556746,47.379974],"type":"Point"}
 }

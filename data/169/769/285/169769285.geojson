@@ -2,13 +2,14 @@
   "id": 169769285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.987568,47.465065,8.987568,47.465065",
     "geom:latitude":47.465065,
     "geom:longitude":8.987568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstrasse 8",
     "sg:city":"Sirnach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169769285,
-    "wof:lastmodified":1449033783,
+    "wof:lastmodified":1466211502,
     "wof:name":"Beropur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.987568,47.465065,8.987568,47.465065],
+  "bbox": [
+    8.987568,
+    47.465065,
+    8.987568,
+    47.465065
+],
   "geometry": {"coordinates":[8.987568,47.465065],"type":"Point"}
 }

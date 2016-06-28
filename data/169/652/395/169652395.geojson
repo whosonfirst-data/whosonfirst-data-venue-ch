@@ -2,13 +2,14 @@
   "id": 169652395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58405,47.554996,7.58405,47.554996",
     "geom:latitude":47.554996,
     "geom:longitude":7.58405,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holbeinstrasse 6",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169652395,
-    "wof:lastmodified":1449034808,
+    "wof:lastmodified":1466210132,
     "wof:name":"Morf & Co Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.58405,47.554996,7.58405,47.554996],
+  "bbox": [
+    7.58405,
+    47.554996,
+    7.58405,
+    47.554996
+],
   "geometry": {"coordinates":[7.58405,47.554996],"type":"Point"}
 }

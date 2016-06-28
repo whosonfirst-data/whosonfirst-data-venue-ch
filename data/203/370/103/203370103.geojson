@@ -2,13 +2,14 @@
   "id": 203370103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.724363,47.49947,8.724363,47.49947",
     "geom:latitude":47.49947,
     "geom:longitude":8.724363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadthausstrasse 143",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203370103,
-    "wof:lastmodified":1449025978,
+    "wof:lastmodified":1466211231,
     "wof:name":"Dr.med.marc A. Peter Spezialarzt Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.724363,47.49947,8.724363,47.49947],
+  "bbox": [
+    8.724363,
+    47.49947,
+    8.724363,
+    47.49947
+],
   "geometry": {"coordinates":[8.724363,47.49947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235985739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.099445,46.748989,9.099445,46.748989",
     "geom:latitude":46.748989,
     "geom:longitude":9.099445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenmattstrasse 10",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235985739,
-    "wof:lastmodified":1449008414,
+    "wof:lastmodified":1466209387,
     "wof:name":"Sax Hans Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.099445,46.748989,9.099445,46.748989],
+  "bbox": [
+    9.099445,
+    46.748989,
+    9.099445,
+    46.748989
+],
   "geometry": {"coordinates":[9.099445,46.748989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253203185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.626258,46.51226,6.626258,46.51226",
     "geom:latitude":46.51226,
     "geom:longitude":6.626258,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Cour 6a",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253203185,
-    "wof:lastmodified":1449064140,
+    "wof:lastmodified":1466211049,
     "wof:name":"Jos\u00e9 Ferreira Tea-room",
     "wof:parent_id":85862335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.626258,46.51226,6.626258,46.51226],
+  "bbox": [
+    6.626258,
+    46.51226,
+    6.626258,
+    46.51226
+],
   "geometry": {"coordinates":[6.626258,46.51226],"type":"Point"}
 }

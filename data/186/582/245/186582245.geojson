@@ -2,13 +2,14 @@
   "id": 186582245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588206,47.556831,7.588206,47.556831",
     "geom:latitude":47.556831,
     "geom:longitude":7.588206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerbergasse 26 4001 Basel. Postfach 644",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186582245,
-    "wof:lastmodified":1449051824,
+    "wof:lastmodified":1466211876,
     "wof:name":"Angestelltenvereinig.region Bs",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.588206,47.556831,7.588206,47.556831],
+  "bbox": [
+    7.588206,
+    47.556831,
+    7.588206,
+    47.556831
+],
   "geometry": {"coordinates":[7.588206,47.556831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169753879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.13993,46.203819,6.13993,46.203819",
     "geom:latitude":46.203819,
     "geom:longitude":6.13993,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Fins 2 - Po Box 172 -",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169753879,
-    "wof:lastmodified":1449033071,
+    "wof:lastmodified":1466211384,
     "wof:name":"Austria Embassy",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [6.13993,46.203819,6.13993,46.203819],
+  "bbox": [
+    6.13993,
+    46.203819,
+    6.13993,
+    46.203819
+],
   "geometry": {"coordinates":[6.13993,46.203819],"type":"Point"}
 }

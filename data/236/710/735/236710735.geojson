@@ -2,13 +2,14 @@
   "id": 236710735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516185,47.167122,8.516185,47.167122",
     "geom:latitude":47.167122,
     "geom:longitude":8.516185,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeughausgasse 7a",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236710735,
-    "wof:lastmodified":1449001833,
+    "wof:lastmodified":1466212826,
     "wof:name":"Sonuba Chemical Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516185,47.167122,8.516185,47.167122],
+  "bbox": [
+    8.516185,
+    47.167122,
+    8.516185,
+    47.167122
+],
   "geometry": {"coordinates":[8.516185,47.167122],"type":"Point"}
 }

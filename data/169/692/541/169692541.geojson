@@ -2,13 +2,14 @@
   "id": 169692541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436045,46.94289,7.436045,46.94289",
     "geom:latitude":46.94289,
     "geom:longitude":7.436045,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarztorstrasse 11",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169692541,
-    "wof:lastmodified":1449033560,
+    "wof:lastmodified":1466210847,
     "wof:name":"Ambassade Du Costa Rica",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436045,46.94289,7.436045,46.94289],
+  "bbox": [
+    7.436045,
+    46.94289,
+    7.436045,
+    46.94289
+],
   "geometry": {"coordinates":[7.436045,46.94289],"type":"Point"}
 }

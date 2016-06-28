@@ -2,13 +2,14 @@
   "id": 186137485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.555068,47.219379,7.555068,47.219379",
     "geom:latitude":47.219379,
     "geom:longitude":7.555068,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frank Buchser Strasse 10 4532 Feldbrunnen. Postfach",
     "sg:city":"Feldbrunnen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186137485,
-    "wof:lastmodified":1449052646,
+    "wof:lastmodified":1466211370,
     "wof:name":"Luba Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.555068,47.219379,7.555068,47.219379],
+  "bbox": [
+    7.555068,
+    47.219379,
+    7.555068,
+    47.219379
+],
   "geometry": {"coordinates":[7.555068,47.219379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185637363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.504813,47.363564,8.504813,47.363564",
     "geom:latitude":47.363564,
     "geom:longitude":8.504813,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jakob Peter-weg 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185637363,
-    "wof:lastmodified":1449006596,
+    "wof:lastmodified":1466210041,
     "wof:name":"Teachsoft",
     "wof:parent_id":85799993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [8.504813,47.363564,8.504813,47.363564],
+  "bbox": [
+    8.504813,
+    47.363564,
+    8.504813,
+    47.363564
+],
   "geometry": {"coordinates":[8.504813,47.363564],"type":"Point"}
 }

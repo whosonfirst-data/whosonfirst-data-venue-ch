@@ -2,13 +2,14 @@
   "id": 219371413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.346717,47.359154,7.346717,47.359154",
     "geom:latitude":47.359154,
     "geom:longitude":7.346717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Saint-randoald 6",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219371413,
-    "wof:lastmodified":1449073149,
+    "wof:lastmodified":1466209884,
     "wof:name":"Humard Automation Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automation"
     ]
 },
-  "bbox": [7.346717,47.359154,7.346717,47.359154],
+  "bbox": [
+    7.346717,
+    47.359154,
+    7.346717,
+    47.359154
+],
   "geometry": {"coordinates":[7.346717,47.359154],"type":"Point"}
 }

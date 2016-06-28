@@ -2,13 +2,14 @@
   "id": 253413903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.076419,46.101841,7.076419,46.101841",
     "geom:latitude":46.101841,
     "geom:longitude":7.076419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Borde 19",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253413903,
-    "wof:lastmodified":1449063281,
+    "wof:lastmodified":1466212252,
     "wof:name":"Au Lilas Blanc Lingerie Fine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.076419,46.101841,7.076419,46.101841],
+  "bbox": [
+    7.076419,
+    46.101841,
+    7.076419,
+    46.101841
+],
   "geometry": {"coordinates":[7.076419,46.101841],"type":"Point"}
 }

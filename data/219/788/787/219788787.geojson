@@ -2,13 +2,14 @@
   "id": 219788787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.825195,47.101765,6.825195,47.101765",
     "geom:latitude":47.101765,
     "geom:longitude":6.825195,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Portone 1",
     "sg:city":"Bellinzona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219788787,
-    "wof:lastmodified":1449072199,
+    "wof:lastmodified":1466212431,
     "wof:name":"Bar Wall Street Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.825195,47.101765,6.825195,47.101765],
+  "bbox": [
+    6.825195,
+    47.101765,
+    6.825195,
+    47.101765
+],
   "geometry": {"coordinates":[6.825195,47.101765],"type":"Point"}
 }

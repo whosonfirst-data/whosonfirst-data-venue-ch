@@ -2,13 +2,14 @@
   "id": 203205693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.156804,46.805286,7.156804,46.805286",
     "geom:latitude":46.805286,
     "geom:longitude":7.156804,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Lausanne 87",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203205693,
-    "wof:lastmodified":1449026075,
+    "wof:lastmodified":1466209536,
     "wof:name":"Dr M\u00e9d. Martin Ganslmayer M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.156804,46.805286,7.156804,46.805286],
+  "bbox": [
+    7.156804,
+    46.805286,
+    7.156804,
+    46.805286
+],
   "geometry": {"coordinates":[7.156804,46.805286],"type":"Point"}
 }

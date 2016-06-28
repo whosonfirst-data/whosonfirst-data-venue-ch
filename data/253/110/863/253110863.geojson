@@ -2,13 +2,14 @@
   "id": 253110863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.291169,47.437126,8.291169,47.437126",
     "geom:latitude":47.437126,
     "geom:longitude":8.291169,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Birmensdorferstrasse 3",
     "sg:city":"Fislisbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253110863,
-    "wof:lastmodified":1449063799,
+    "wof:lastmodified":1466210045,
     "wof:name":"Hoch Optik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.291169,47.437126,8.291169,47.437126],
+  "bbox": [
+    8.291169,
+    47.437126,
+    8.291169,
+    47.437126
+],
   "geometry": {"coordinates":[8.291169,47.437126],"type":"Point"}
 }

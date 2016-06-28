@@ -2,13 +2,14 @@
   "id": 219234615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.444022,46.958214,7.444022,46.958214",
     "geom:latitude":46.958214,
     "geom:longitude":7.444022,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmiedweg 6",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219234615,
-    "wof:lastmodified":1449073716,
+    "wof:lastmodified":1466211332,
     "wof:name":"Wenger & Zurfl\u00fch Gestaltung Gmbh",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.444022,46.958214,7.444022,46.958214],
+  "bbox": [
+    7.444022,
+    46.958214,
+    7.444022,
+    46.958214
+],
   "geometry": {"coordinates":[7.444022,46.958214],"type":"Point"}
 }

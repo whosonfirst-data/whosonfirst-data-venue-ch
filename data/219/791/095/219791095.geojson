@@ -2,13 +2,14 @@
   "id": 219791095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526813,47.378395,8.526813,47.378395",
     "geom:latitude":47.378395,
     "geom:longitude":8.526813,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langstrasse 97",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219791095,
-    "wof:lastmodified":1449073112,
+    "wof:lastmodified":1466212425,
     "wof:name":"Bistro Pub Aladin",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526813,47.378395,8.526813,47.378395],
+  "bbox": [
+    8.526813,
+    47.378395,
+    8.526813,
+    47.378395
+],
   "geometry": {"coordinates":[8.526813,47.378395],"type":"Point"}
 }

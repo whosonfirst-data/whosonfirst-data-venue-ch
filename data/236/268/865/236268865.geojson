@@ -2,13 +2,14 @@
   "id": 236268865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.076121,46.584492,7.076121,46.584492",
     "geom:latitude":46.584492,
     "geom:longitude":7.076121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mol\u00e9son-gruy\u00e8res",
     "sg:city":"Gruy\u00e8res",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236268865,
-    "wof:lastmodified":1449003541,
+    "wof:lastmodified":1466211543,
     "wof:name":"Soci\u00e9t\u00e9 Coop\u00e9rative Mol\u00e9son-sport.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.076121,46.584492,7.076121,46.584492],
+  "bbox": [
+    7.076121,
+    46.584492,
+    7.076121,
+    46.584492
+],
   "geometry": {"coordinates":[7.076121,46.584492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219938503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.131786,47.385933,8.131786,47.385933",
     "geom:latitude":47.385933,
     "geom:longitude":8.131786,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Korbackerweg 21 5502 Hunzenschwil. Postfach 133",
     "sg:city":"Hunzenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219938503,
-    "wof:lastmodified":1449073036,
+    "wof:lastmodified":1466212695,
     "wof:name":"Moor Ag Strassen Und Tiefbauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.131786,47.385933,8.131786,47.385933],
+  "bbox": [
+    8.131786,
+    47.385933,
+    8.131786,
+    47.385933
+],
   "geometry": {"coordinates":[8.131786,47.385933],"type":"Point"}
 }

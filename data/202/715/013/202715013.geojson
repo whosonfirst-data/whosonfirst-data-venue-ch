@@ -2,13 +2,14 @@
   "id": 202715013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.1732,46.816925,7.1732,46.816925",
     "geom:latitude":46.816925,
     "geom:longitude":7.1732,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Schiffenen 8",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202715013,
-    "wof:lastmodified":1449062153,
+    "wof:lastmodified":1466210735,
     "wof:name":"Softconcept Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.1732,46.816925,7.1732,46.816925],
+  "bbox": [
+    7.1732,
+    46.816925,
+    7.1732,
+    46.816925
+],
   "geometry": {"coordinates":[7.1732,46.816925],"type":"Point"}
 }

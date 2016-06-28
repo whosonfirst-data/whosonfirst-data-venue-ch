@@ -2,13 +2,14 @@
   "id": 236148781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.442377,47.357643,8.442377,47.357643",
     "geom:latitude":47.357643,
     "geom:longitude":8.442377,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstrasse 3",
     "sg:city":"Attiswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236148781,
-    "wof:lastmodified":1449004625,
+    "wof:lastmodified":1466210249,
     "wof:name":"Mineralienmarkt, Brunner Und Lampen Ag",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.442377,47.357643,8.442377,47.357643],
+  "bbox": [
+    8.442377,
+    47.357643,
+    8.442377,
+    47.357643
+],
   "geometry": {"coordinates":[8.442377,47.357643],"type":"Point"}
 }

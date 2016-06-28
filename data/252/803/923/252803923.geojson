@@ -2,13 +2,14 @@
   "id": 252803923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.330964,47.45834,8.330964,47.45834",
     "geom:latitude":47.45834,
     "geom:longitude":8.330964,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jurastrasse 48",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252803923,
-    "wof:lastmodified":1449006526,
+    "wof:lastmodified":1466209956,
     "wof:name":"Amadeo Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.330964,47.45834,8.330964,47.45834],
+  "bbox": [
+    8.330964,
+    47.45834,
+    8.330964,
+    47.45834
+],
   "geometry": {"coordinates":[8.330964,47.45834],"type":"Point"}
 }

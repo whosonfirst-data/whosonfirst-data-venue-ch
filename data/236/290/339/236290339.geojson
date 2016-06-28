@@ -2,13 +2,14 @@
   "id": 236290339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.664741,47.383404,8.664741,47.383404",
     "geom:latitude":47.383404,
     "geom:longitude":8.664741,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctiwisstrasse 3 8604 Volketswil. Postfach",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236290339,
-    "wof:lastmodified":1449003004,
+    "wof:lastmodified":1466211795,
     "wof:name":"Cb-service Bernhard Chr. Vermietung Von Chauffeuren. Transporte. Reiseorganisation",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.664741,47.383404,8.664741,47.383404],
+  "bbox": [
+    8.664741,
+    47.383404,
+    8.664741,
+    47.383404
+],
   "geometry": {"coordinates":[8.664741,47.383404],"type":"Point"}
 }

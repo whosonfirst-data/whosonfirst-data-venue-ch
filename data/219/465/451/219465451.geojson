@@ -2,13 +2,14 @@
   "id": 219465451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62334,46.752579,7.62334,46.752579",
     "geom:latitude":46.752579,
     "geom:longitude":7.62334,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 43a",
     "sg:city":"Uetendorf",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219465451,
-    "wof:lastmodified":1449072760,
+    "wof:lastmodified":1466210809,
     "wof:name":"Amtsersparniskasse Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62334,46.752579,7.62334,46.752579],
+  "bbox": [
+    7.62334,
+    46.752579,
+    7.62334,
+    46.752579
+],
   "geometry": {"coordinates":[7.62334,46.752579],"type":"Point"}
 }

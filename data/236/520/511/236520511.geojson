@@ -2,13 +2,14 @@
   "id": 236520511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.47508,46.912415,7.47508,46.912415",
     "geom:latitude":46.912415,
     "geom:longitude":7.47508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flugplatzstrasse 40",
     "sg:city":"Kehrsatz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236520511,
-    "wof:lastmodified":1449002590,
+    "wof:lastmodified":1466212648,
     "wof:name":"Maurer Peter, G\u00e4rtnerei Und Blumengesch\u00e4ft",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.47508,46.912415,7.47508,46.912415],
+  "bbox": [
+    7.47508,
+    46.912415,
+    7.47508,
+    46.912415
+],
   "geometry": {"coordinates":[7.47508,46.912415],"type":"Point"}
 }

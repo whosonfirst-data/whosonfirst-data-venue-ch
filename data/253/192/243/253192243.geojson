@@ -2,13 +2,14 @@
   "id": 253192243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.710012,47.493389,8.710012,47.493389",
     "geom:latitude":47.493389,
     "geom:longitude":8.710012,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserfurristrasse 51",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253192243,
-    "wof:lastmodified":1449064927,
+    "wof:lastmodified":1466210952,
     "wof:name":"Hellmut Wiget Konditorei",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.710012,47.493389,8.710012,47.493389],
+  "bbox": [
+    8.710012,
+    47.493389,
+    8.710012,
+    47.493389
+],
   "geometry": {"coordinates":[8.710012,47.493389],"type":"Point"}
 }

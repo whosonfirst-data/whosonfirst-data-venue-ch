@@ -2,13 +2,14 @@
   "id": 186553291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.268332,47.121147,7.268332,47.121147",
     "geom:latitude":47.121147,
     "geom:longitude":7.268332,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserstrasse 10",
     "sg:city":"Br\u00fcgg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186553291,
-    "wof:lastmodified":1449050269,
+    "wof:lastmodified":1466211736,
     "wof:name":"Fritz Hartmann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturing"
     ]
 },
-  "bbox": [7.268332,47.121147,7.268332,47.121147],
+  "bbox": [
+    7.268332,
+    47.121147,
+    7.268332,
+    47.121147
+],
   "geometry": {"coordinates":[7.268332,47.121147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236454727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.400565,46.81176,9.400565,46.81176",
     "geom:latitude":46.81176,
     "geom:longitude":9.400565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstrasse",
     "sg:city":"Bonaduz",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236454727,
-    "wof:lastmodified":1449004870,
+    "wof:lastmodified":1466212339,
     "wof:name":"Schul-& Gemeinde- Bibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [9.400565,46.81176,9.400565,46.81176],
+  "bbox": [
+    9.400565,
+    46.81176,
+    9.400565,
+    46.81176
+],
   "geometry": {"coordinates":[9.400565,46.81176],"type":"Point"}
 }

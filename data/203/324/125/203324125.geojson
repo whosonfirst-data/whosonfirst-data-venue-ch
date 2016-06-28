@@ -2,13 +2,14 @@
   "id": 203324125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.670564,47.228851,8.670564,47.228851",
     "geom:latitude":47.228851,
     "geom:longitude":8.670564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blumenstrasse 10",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203324125,
-    "wof:lastmodified":1449026053,
+    "wof:lastmodified":1466210776,
     "wof:name":"Dr.med.gerhard W. Schick Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.670564,47.228851,8.670564,47.228851],
+  "bbox": [
+    8.670564,
+    47.228851,
+    8.670564,
+    47.228851
+],
   "geometry": {"coordinates":[8.670564,47.228851],"type":"Point"}
 }

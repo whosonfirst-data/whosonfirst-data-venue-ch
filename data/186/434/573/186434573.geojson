@@ -2,13 +2,14 @@
   "id": 186434573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.678797,47.389565,8.678797,47.389565",
     "geom:latitude":47.389565,
     "geom:longitude":8.678797,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Etzelweg 9",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186434573,
-    "wof:lastmodified":1449050980,
+    "wof:lastmodified":1466210880,
     "wof:name":"Robert Weber Malergesch\u00e4ft",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.678797,47.389565,8.678797,47.389565],
+  "bbox": [
+    8.678797,
+    47.389565,
+    8.678797,
+    47.389565
+],
   "geometry": {"coordinates":[8.678797,47.389565],"type":"Point"}
 }

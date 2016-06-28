@@ -2,13 +2,14 @@
   "id": 169658601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.579842,47.469589,9.579842,47.469589",
     "geom:latitude":47.469589,
     "geom:longitude":9.579842,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buhofstr. 37",
     "sg:city":"Rheineck",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169658601,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466210258,
     "wof:name":"Kelly Mode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "by-product"
     ]
 },
-  "bbox": [9.579842,47.469589,9.579842,47.469589],
+  "bbox": [
+    9.579842,
+    47.469589,
+    9.579842,
+    47.469589
+],
   "geometry": {"coordinates":[9.579842,47.469589],"type":"Point"}
 }

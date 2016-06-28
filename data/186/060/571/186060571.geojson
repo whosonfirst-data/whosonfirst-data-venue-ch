@@ -2,13 +2,14 @@
   "id": 186060571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.354412,47.419319,9.354412,47.419319",
     "geom:latitude":47.419319,
     "geom:longitude":9.354412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcher Strasse 33",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186060571,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466210225,
     "wof:name":"Elan Bauunternehmung Aliagic Adilj",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.354412,47.419319,9.354412,47.419319],
+  "bbox": [
+    9.354412,
+    47.419319,
+    9.354412,
+    47.419319
+],
   "geometry": {"coordinates":[9.354412,47.419319],"type":"Point"}
 }

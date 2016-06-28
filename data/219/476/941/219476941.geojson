@@ -2,13 +2,14 @@
   "id": 219476941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.99245,45.921951,8.99245,45.921951",
     "geom:latitude":45.921951,
     "geom:longitude":8.99245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Melano",
     "sg:city":"Melano",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219476941,
-    "wof:lastmodified":1449071816,
+    "wof:lastmodified":1466210909,
     "wof:name":"Banca Raiffeisen, Di Melano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.99245,45.921951,8.99245,45.921951],
+  "bbox": [
+    8.99245,
+    45.921951,
+    8.99245,
+    45.921951
+],
   "geometry": {"coordinates":[8.99245,45.921951],"type":"Point"}
 }

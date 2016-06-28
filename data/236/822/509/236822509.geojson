@@ -2,13 +2,14 @@
   "id": 236822509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.560967,47.567562,7.560967,47.567562",
     "geom:latitude":47.567562,
     "geom:longitude":7.560967,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bollweilerstrasse 21",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236822509,
-    "wof:lastmodified":1449005124,
+    "wof:lastmodified":1466212915,
     "wof:name":"Buchli M. Gmbh",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.560967,47.567562,7.560967,47.567562],
+  "bbox": [
+    7.560967,
+    47.567562,
+    7.560967,
+    47.567562
+],
   "geometry": {"coordinates":[7.560967,47.567562],"type":"Point"}
 }

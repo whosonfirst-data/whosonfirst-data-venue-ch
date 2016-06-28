@@ -2,13 +2,14 @@
   "id": 203262397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.899569,47.175949,8.899569,47.175949",
     "geom:latitude":47.175949,
     "geom:longitude":8.899569,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Adlerstrasse 10",
     "sg:city":"Siebnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203262397,
-    "wof:lastmodified":1449026122,
+    "wof:lastmodified":1466210150,
     "wof:name":"Dr.med. Thomas Fabian Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.899569,47.175949,8.899569,47.175949],
+  "bbox": [
+    8.899569,
+    47.175949,
+    8.899569,
+    47.175949
+],
   "geometry": {"coordinates":[8.899569,47.175949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220130029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.799315,46.873096,7.799315,46.873096",
     "geom:latitude":46.873096,
     "geom:longitude":7.799315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heidb\u00fchl",
     "sg:city":"Eggiwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220130029,
-    "wof:lastmodified":1449074291,
+    "wof:lastmodified":1466209997,
     "wof:name":"Ramseier & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.799315,46.873096,7.799315,46.873096],
+  "bbox": [
+    7.799315,
+    46.873096,
+    7.799315,
+    46.873096
+],
   "geometry": {"coordinates":[7.799315,46.873096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236391113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53313,47.143951,8.53313,47.143951",
     "geom:latitude":47.143951,
     "geom:longitude":8.53313,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6300",
     "sg:city":"Zugerberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236391113,
-    "wof:lastmodified":1449003823,
+    "wof:lastmodified":1466212216,
     "wof:name":"Institut Montana Zugerberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53313,47.143951,8.53313,47.143951],
+  "bbox": [
+    8.53313,
+    47.143951,
+    8.53313,
+    47.143951
+],
   "geometry": {"coordinates":[8.53313,47.143951],"type":"Point"}
 }

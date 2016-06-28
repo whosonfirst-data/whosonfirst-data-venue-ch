@@ -2,13 +2,14 @@
   "id": 219593451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.442824,47.283726,7.442824,47.283726",
     "geom:latitude":47.283726,
     "geom:longitude":7.442824,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De Corcelles 112",
     "sg:city":"Cr\u00e9mines",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219593451,
-    "wof:lastmodified":1449072726,
+    "wof:lastmodified":1466211755,
     "wof:name":"Raiffeisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.442824,47.283726,7.442824,47.283726],
+  "bbox": [
+    7.442824,
+    47.283726,
+    7.442824,
+    47.283726
+],
   "geometry": {"coordinates":[7.442824,47.283726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202928025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.36356,46.967201,8.36356,46.967201",
     "geom:latitude":46.967201,
     "geom:longitude":8.36356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichli 6370 Stans. Postfach 344",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202928025,
-    "wof:lastmodified":1449062304,
+    "wof:lastmodified":1466212125,
     "wof:name":"Pharmaplan Ag, Beratung, Planung, Anlagenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.36356,46.967201,8.36356,46.967201],
+  "bbox": [
+    8.36356,
+    46.967201,
+    8.36356,
+    46.967201
+],
   "geometry": {"coordinates":[8.36356,46.967201],"type":"Point"}
 }

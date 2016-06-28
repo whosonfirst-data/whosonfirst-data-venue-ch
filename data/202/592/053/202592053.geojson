@@ -2,13 +2,14 @@
   "id": 202592053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.86024,47.254181,8.86024,47.254181",
     "geom:latitude":47.254181,
     "geom:longitude":8.86024,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 134",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202592053,
-    "wof:lastmodified":1449061556,
+    "wof:lastmodified":1466209588,
     "wof:name":"Keewee Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.86024,47.254181,8.86024,47.254181],
+  "bbox": [
+    8.86024,
+    47.254181,
+    8.86024,
+    47.254181
+],
   "geometry": {"coordinates":[8.86024,47.254181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203412675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.641855,46.711086,7.641855,46.711086",
     "geom:latitude":46.711086,
     "geom:longitude":7.641855,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weekendweg 2",
     "sg:city":"Einigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203412675,
-    "wof:lastmodified":1449025319,
+    "wof:lastmodified":1466211646,
     "wof:name":"Dr.med.stephan Henking Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.641855,46.711086,7.641855,46.711086],
+  "bbox": [
+    7.641855,
+    46.711086,
+    7.641855,
+    46.711086
+],
   "geometry": {"coordinates":[7.641855,46.711086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186614183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.560398,46.52483,6.560398,46.52483",
     "geom:latitude":46.52483,
     "geom:longitude":6.560398,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Faubourg De L'h\u00f4pital 27",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186614183,
-    "wof:lastmodified":1449053094,
+    "wof:lastmodified":1466212253,
     "wof:name":"Office Communal Du Travail",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.560398,46.52483,6.560398,46.52483],
+  "bbox": [
+    6.560398,
+    46.52483,
+    6.560398,
+    46.52483
+],
   "geometry": {"coordinates":[6.560398,46.52483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169700921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.83832,47.11322,7.83832,47.11322",
     "geom:latitude":47.11322,
     "geom:longitude":7.83832,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 18",
     "sg:city":"Huttwil",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169700921,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1466210928,
     "wof:name":"Walter Leuenberger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mustard"
     ]
 },
-  "bbox": [7.83832,47.11322,7.83832,47.11322],
+  "bbox": [
+    7.83832,
+    47.11322,
+    7.83832,
+    47.11322
+],
   "geometry": {"coordinates":[7.83832,47.11322],"type":"Point"}
 }

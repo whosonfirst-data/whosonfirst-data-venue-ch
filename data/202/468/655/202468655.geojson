@@ -2,13 +2,14 @@
   "id": 202468655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.429752,47.388775,8.429752,47.388775",
     "geom:latitude":47.388775,
     "geom:longitude":8.429752,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Baurenacker 19 8902 Urdorf. Postfach",
     "sg:city":"Urdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202468655,
-    "wof:lastmodified":1449061916,
+    "wof:lastmodified":1466211037,
     "wof:name":"Doctor Dany Lightweight, Piazza Daniele Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.429752,47.388775,8.429752,47.388775],
+  "bbox": [
+    8.429752,
+    47.388775,
+    8.429752,
+    47.388775
+],
   "geometry": {"coordinates":[8.429752,47.388775],"type":"Point"}
 }

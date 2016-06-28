@@ -2,13 +2,14 @@
   "id": 202798069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.621542,46.755871,7.621542,46.755871",
     "geom:latitude":46.755871,
     "geom:longitude":7.621542,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stockhornstrasse 19",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202798069,
-    "wof:lastmodified":1449060583,
+    "wof:lastmodified":1466211500,
     "wof:name":"Atelier 7, Hans U. Balsiger, Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.621542,46.755871,7.621542,46.755871],
+  "bbox": [
+    7.621542,
+    46.755871,
+    7.621542,
+    46.755871
+],
   "geometry": {"coordinates":[7.621542,46.755871],"type":"Point"}
 }

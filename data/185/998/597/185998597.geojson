@@ -2,13 +2,14 @@
   "id": 185998597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.396696,47.440083,9.396696,47.440083",
     "geom:latitude":47.440083,
     "geom:longitude":9.396696,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stampfenbachstrasse 57 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185998597,
-    "wof:lastmodified":1449007125,
+    "wof:lastmodified":1466210791,
     "wof:name":"Ag F\u00fcr Energiebewusstes Bauen Ageb",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.396696,47.440083,9.396696,47.440083],
+  "bbox": [
+    9.396696,
+    47.440083,
+    9.396696,
+    47.440083
+],
   "geometry": {"coordinates":[9.396696,47.440083],"type":"Point"}
 }

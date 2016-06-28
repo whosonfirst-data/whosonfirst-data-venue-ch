@@ -2,13 +2,14 @@
   "id": 253023307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.419974,47.469734,9.419974,47.469734",
     "geom:latitude":47.469734,
     "geom:longitude":9.419974,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 17 9402 M\u00f6rschwil. Postfach 15",
     "sg:city":"M\u00f6rschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253023307,
-    "wof:lastmodified":1449065492,
+    "wof:lastmodified":1466209181,
     "wof:name":"Jacqueline Kistler Blumenst\u00fcbli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.419974,47.469734,9.419974,47.469734],
+  "bbox": [
+    9.419974,
+    47.469734,
+    9.419974,
+    47.469734
+],
   "geometry": {"coordinates":[9.419974,47.469734],"type":"Point"}
 }

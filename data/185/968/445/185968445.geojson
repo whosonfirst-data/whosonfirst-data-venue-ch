@@ -2,13 +2,14 @@
   "id": 185968445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436127,46.943966,7.436127,46.943966",
     "geom:latitude":46.943966,
     "geom:longitude":7.436127,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Monbijoustrasse 27 3011 Bern. Postfach 7314",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185968445,
-    "wof:lastmodified":1449006698,
+    "wof:lastmodified":1466210492,
     "wof:name":"Musische Schule H\u00f6glhammer H.",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436127,46.943966,7.436127,46.943966],
+  "bbox": [
+    7.436127,
+    46.943966,
+    7.436127,
+    46.943966
+],
   "geometry": {"coordinates":[7.436127,46.943966],"type":"Point"}
 }

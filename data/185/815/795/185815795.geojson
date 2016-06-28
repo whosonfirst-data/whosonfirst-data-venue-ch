@@ -2,13 +2,14 @@
   "id": 185815795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.497724,46.974804,7.497724,46.974804",
     "geom:latitude":46.974804,
     "geom:longitude":7.497724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bolligenstr. 124",
     "sg:city":"Bolligen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185815795,
-    "wof:lastmodified":1449007406,
+    "wof:lastmodified":1466209220,
     "wof:name":"Dynco Ag",
     "wof:parent_id":85800605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [7.497724,46.974804,7.497724,46.974804],
+  "bbox": [
+    7.497724,
+    46.974804,
+    7.497724,
+    46.974804
+],
   "geometry": {"coordinates":[7.497724,46.974804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253312563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.1396,46.18399,6.1396,46.18399",
     "geom:latitude":46.18399,
     "geom:longitude":6.1396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Madeleine",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253312563,
-    "wof:lastmodified":1449064317,
+    "wof:lastmodified":1466211787,
     "wof:name":"Carfora Anna",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.1396,46.18399,6.1396,46.18399],
+  "bbox": [
+    6.1396,
+    46.18399,
+    6.1396,
+    46.18399
+],
   "geometry": {"coordinates":[6.1396,46.18399],"type":"Point"}
 }

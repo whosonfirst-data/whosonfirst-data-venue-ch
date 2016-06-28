@@ -2,13 +2,14 @@
   "id": 202647763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.345693,47.056423,8.345693,47.056423",
     "geom:latitude":47.056423,
     "geom:longitude":8.345693,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4dr\u00fctistrasse 29 6006 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202647763,
-    "wof:lastmodified":1449061327,
+    "wof:lastmodified":1466210106,
     "wof:name":"Oekotech Schweighauser Georges Engineering, Bes. Im Bahnbereich Usw",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.345693,47.056423,8.345693,47.056423],
+  "bbox": [
+    8.345693,
+    47.056423,
+    8.345693,
+    47.056423
+],
   "geometry": {"coordinates":[8.345693,47.056423],"type":"Point"}
 }

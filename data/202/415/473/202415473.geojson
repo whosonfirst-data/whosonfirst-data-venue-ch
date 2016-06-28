@@ -2,13 +2,14 @@
   "id": 202415473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.758235,47.684326,8.758235,47.684326",
     "geom:latitude":47.684326,
     "geom:longitude":8.758235,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapfstrasse 3",
     "sg:city":"Diessenhofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202415473,
-    "wof:lastmodified":1449061928,
+    "wof:lastmodified":1466209972,
     "wof:name":"Boller Erich Ingenieurb\u00fcro Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.758235,47.684326,8.758235,47.684326],
+  "bbox": [
+    8.758235,
+    47.684326,
+    8.758235,
+    47.684326
+],
   "geometry": {"coordinates":[8.758235,47.684326],"type":"Point"}
 }

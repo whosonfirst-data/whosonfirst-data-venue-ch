@@ -2,13 +2,14 @@
   "id": 219544213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.446395,46.947796,7.446395,46.947796",
     "geom:latitude":46.947796,
     "geom:longitude":7.446395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 32",
     "sg:city":"Sch\u00fcpfheim",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219544213,
-    "wof:lastmodified":1449073911,
+    "wof:lastmodified":1466211543,
     "wof:name":"Eek Beteiligungen",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.446395,46.947796,7.446395,46.947796],
+  "bbox": [
+    7.446395,
+    46.947796,
+    7.446395,
+    46.947796
+],
   "geometry": {"coordinates":[7.446395,46.947796],"type":"Point"}
 }

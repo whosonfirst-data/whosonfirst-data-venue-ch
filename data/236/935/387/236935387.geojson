@@ -2,13 +2,14 @@
   "id": 236935387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.497563,47.235226,7.497563,47.235226",
     "geom:latitude":47.235226,
     "geom:longitude":7.497563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Pavement 14",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236935387,
-    "wof:lastmodified":1449004541,
+    "wof:lastmodified":1466213029,
     "wof:name":"Bbi Software Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.497563,47.235226,7.497563,47.235226],
+  "bbox": [
+    7.497563,
+    47.235226,
+    7.497563,
+    47.235226
+],
   "geometry": {"coordinates":[7.497563,47.235226],"type":"Point"}
 }

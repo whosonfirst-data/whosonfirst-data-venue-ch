@@ -2,13 +2,14 @@
   "id": 203054393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.607239,46.783688,7.607239,46.783688",
     "geom:latitude":46.783688,
     "geom:longitude":7.607239,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenstrasse 119 3627 Heimberg. Postfach 18",
     "sg:city":"Heimberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203054393,
-    "wof:lastmodified":1449025813,
+    "wof:lastmodified":1466210233,
     "wof:name":"Paul Geissb\u00fchler Architekturb\u00fcro",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.607239,46.783688,7.607239,46.783688],
+  "bbox": [
+    7.607239,
+    46.783688,
+    7.607239,
+    46.783688
+],
   "geometry": {"coordinates":[7.607239,46.783688],"type":"Point"}
 }

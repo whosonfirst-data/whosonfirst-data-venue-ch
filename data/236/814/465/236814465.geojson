@@ -2,13 +2,14 @@
   "id": 236814465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.192368,46.316517,6.192368,46.316517",
     "geom:latitude":46.316517,
     "geom:longitude":6.192368,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Perron 10",
     "sg:city":"Coppet",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236814465,
-    "wof:lastmodified":1449002130,
+    "wof:lastmodified":1466212913,
     "wof:name":"Scherzinger Jean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.192368,46.316517,6.192368,46.316517],
+  "bbox": [
+    6.192368,
+    46.316517,
+    6.192368,
+    46.316517
+],
   "geometry": {"coordinates":[6.192368,46.316517],"type":"Point"}
 }

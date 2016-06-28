@@ -2,13 +2,14 @@
   "id": 202826819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.345704,47.365902,7.345704,47.365902",
     "geom:latitude":47.365902,
     "geom:longitude":7.345704,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De B\u00e2le 2",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202826819,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466211949,
     "wof:name":"Gobat Architectes Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.345704,47.365902,7.345704,47.365902],
+  "bbox": [
+    7.345704,
+    47.365902,
+    7.345704,
+    47.365902
+],
   "geometry": {"coordinates":[7.345704,47.365902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203400085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.802011,46.176888,7.802011,46.176888",
     "geom:latitude":46.176888,
     "geom:longitude":7.802011,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pilatusstrasse 26",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203400085,
-    "wof:lastmodified":1449025118,
+    "wof:lastmodified":1466211539,
     "wof:name":"Dr.med.robert Rumpf Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.802011,46.176888,7.802011,46.176888],
+  "bbox": [
+    7.802011,
+    46.176888,
+    7.802011,
+    46.176888
+],
   "geometry": {"coordinates":[7.802011,46.176888],"type":"Point"}
 }

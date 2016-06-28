@@ -2,13 +2,14 @@
   "id": 219294601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.340874,47.232025,8.340874,47.232025",
     "geom:latitude":47.232025,
     "geom:longitude":8.340874,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Linthlistrasse 8",
     "sg:city":"Oberurnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219294601,
-    "wof:lastmodified":1449072913,
+    "wof:lastmodified":1466209193,
     "wof:name":"Josef Suter Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.340874,47.232025,8.340874,47.232025],
+  "bbox": [
+    8.340874,
+    47.232025,
+    8.340874,
+    47.232025
+],
   "geometry": {"coordinates":[8.340874,47.232025],"type":"Point"}
 }

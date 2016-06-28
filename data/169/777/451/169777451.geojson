@@ -2,13 +2,14 @@
   "id": 169777451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.579492,47.557987,7.579492,47.557987",
     "geom:latitude":47.557987,
     "geom:longitude":7.579492,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Socinstrasse 5",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169777451,
-    "wof:lastmodified":1449034427,
+    "wof:lastmodified":1466208891,
     "wof:name":"Corporate Sound Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.579492,47.557987,7.579492,47.557987],
+  "bbox": [
+    7.579492,
+    47.557987,
+    7.579492,
+    47.557987
+],
   "geometry": {"coordinates":[7.579492,47.557987],"type":"Point"}
 }

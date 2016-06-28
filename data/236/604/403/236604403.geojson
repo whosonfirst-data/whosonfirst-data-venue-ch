@@ -2,13 +2,14 @@
   "id": 236604403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.075266,46.102943,7.075266,46.102943",
     "geom:latitude":46.102943,
     "geom:longitude":7.075266,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 22 1920 Martigny Case Postale 605",
     "sg:city":"Gueuroz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236604403,
-    "wof:lastmodified":1449004785,
+    "wof:lastmodified":1466212782,
     "wof:name":"St\u00e9fan Jacqu\u00e9rioz Boulangerie & P\u00e2tisserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.075266,46.102943,7.075266,46.102943],
+  "bbox": [
+    7.075266,
+    46.102943,
+    7.075266,
+    46.102943
+],
   "geometry": {"coordinates":[7.075266,46.102943],"type":"Point"}
 }

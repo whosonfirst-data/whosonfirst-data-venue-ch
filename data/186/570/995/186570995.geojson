@@ -2,13 +2,14 @@
   "id": 186570995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.711045,47.189857,8.711045,47.189857",
     "geom:latitude":47.189857,
     "geom:longitude":8.711045,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00fcrtistrasse 11",
     "sg:city":"Wollerau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186570995,
-    "wof:lastmodified":1449051960,
+    "wof:lastmodified":1466211944,
     "wof:name":"Elysator Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.711045,47.189857,8.711045,47.189857],
+  "bbox": [
+    8.711045,
+    47.189857,
+    8.711045,
+    47.189857
+],
   "geometry": {"coordinates":[8.711045,47.189857],"type":"Point"}
 }

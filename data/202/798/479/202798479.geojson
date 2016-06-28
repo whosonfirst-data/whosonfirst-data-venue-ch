@@ -2,13 +2,14 @@
   "id": 202798479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.561519,47.297749,8.561519,47.297749",
     "geom:latitude":47.297749,
     "geom:longitude":8.561519,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstrasse 47 8800 Thalwil. Postfach 1665",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202798479,
-    "wof:lastmodified":1449060583,
+    "wof:lastmodified":1466211504,
     "wof:name":"Atelier B\u00e4chtiger",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.561519,47.297749,8.561519,47.297749],
+  "bbox": [
+    8.561519,
+    47.297749,
+    8.561519,
+    47.297749
+],
   "geometry": {"coordinates":[8.561519,47.297749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202400625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.403902,47.437904,9.403902,47.437904",
     "geom:latitude":47.437904,
     "geom:longitude":9.403902,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bleiki 24",
     "sg:city":"Willisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202400625,
-    "wof:lastmodified":1449060365,
+    "wof:lastmodified":1466209741,
     "wof:name":"Baumesse Schmidli R. Baumesse, Beratung In Umwelt, Bau- U Energiefragen",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.403902,47.437904,9.403902,47.437904],
+  "bbox": [
+    9.403902,
+    47.437904,
+    9.403902,
+    47.437904
+],
   "geometry": {"coordinates":[9.403902,47.437904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219249525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.82999,46.798946,9.82999,46.798946",
     "geom:latitude":46.798946,
     "geom:longitude":9.82999,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Poya",
     "sg:city":"Oron-la-ville",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219249525,
-    "wof:lastmodified":1449070561,
+    "wof:lastmodified":1466211521,
     "wof:name":"Albert Henderson Tal-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.82999,46.798946,9.82999,46.798946],
+  "bbox": [
+    9.82999,
+    46.798946,
+    9.82999,
+    46.798946
+],
   "geometry": {"coordinates":[9.82999,46.798946],"type":"Point"}
 }

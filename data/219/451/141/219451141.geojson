@@ -2,13 +2,14 @@
   "id": 219451141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.405146,47.432449,9.405146,47.432449",
     "geom:latitude":47.432449,
     "geom:longitude":9.405146,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Johanns-vorstadt 17",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219451141,
-    "wof:lastmodified":1449071932,
+    "wof:lastmodified":1466210644,
     "wof:name":"Willy Jenny Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.405146,47.432449,9.405146,47.432449],
+  "bbox": [
+    9.405146,
+    47.432449,
+    9.405146,
+    47.432449
+],
   "geometry": {"coordinates":[9.405146,47.432449],"type":"Point"}
 }

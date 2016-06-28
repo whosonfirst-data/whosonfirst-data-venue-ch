@@ -2,13 +2,14 @@
   "id": 202388375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.130098,46.173237,6.130098,46.173237",
     "geom:latitude":46.173237,
     "geom:longitude":6.130098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Guy 9a",
     "sg:city":"Grand-lancy",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202388375,
-    "wof:lastmodified":1449060190,
+    "wof:lastmodified":1466209544,
     "wof:name":"Atelier D'architecture Wicht J.-y.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.130098,46.173237,6.130098,46.173237],
+  "bbox": [
+    6.130098,
+    46.173237,
+    6.130098,
+    46.173237
+],
   "geometry": {"coordinates":[6.130098,46.173237],"type":"Point"}
 }

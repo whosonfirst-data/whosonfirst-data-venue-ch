@@ -2,13 +2,14 @@
   "id": 169759641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65279,47.397709,7.65279,47.397709",
     "geom:latitude":47.397709,
     "geom:longitude":7.65279,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse29",
     "sg:city":"Bretzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169759641,
-    "wof:lastmodified":1449036020,
+    "wof:lastmodified":1466211433,
     "wof:name":"Brodbeck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65279,47.397709,7.65279,47.397709],
+  "bbox": [
+    7.65279,
+    47.397709,
+    7.65279,
+    47.397709
+],
   "geometry": {"coordinates":[7.65279,47.397709],"type":"Point"}
 }

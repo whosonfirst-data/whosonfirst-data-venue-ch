@@ -2,13 +2,14 @@
   "id": 202653475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.440696,47.086441,8.440696,47.086441",
     "geom:latitude":47.086441,
     "geom:longitude":8.440696,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Wendelin 3",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202653475,
-    "wof:lastmodified":1449060295,
+    "wof:lastmodified":1466210156,
     "wof:name":"Pan Bau Diagnostik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.440696,47.086441,8.440696,47.086441],
+  "bbox": [
+    8.440696,
+    47.086441,
+    8.440696,
+    47.086441
+],
   "geometry": {"coordinates":[8.440696,47.086441],"type":"Point"}
 }

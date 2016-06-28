@@ -2,13 +2,14 @@
   "id": 186394119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.679611,45.551617,-122.679611,45.551617",
     "geom:latitude":45.551617,
     "geom:longitude":-122.679611,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3962",
     "sg:city":"Montana",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186394119,
-    "wof:lastmodified":1449050927,
+    "wof:lastmodified":1466210546,
     "wof:name":"Roland & Marie-th. Cordonier Marie-th\u00e9r\u00e8se Cordonier Succ.",
     "wof:parent_id":85802599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.679611,45.551617,-122.679611,45.551617],
-  "geometry": {"coordinates":[-122.679611,45.551617],"type":"Point"}
+  "bbox": [
+    -122.679611,
+    45.551617,
+    -122.679611,
+    45.551617
+],
+  "geometry": {"coordinates":[-122.67961099999999,45.551617],"type":"Point"}
 }

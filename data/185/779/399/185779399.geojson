@@ -2,13 +2,14 @@
   "id": 185779399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.64871,46.50647,6.64871,46.50647",
     "geom:latitude":46.50647,
     "geom:longitude":6.64871,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue G\u00e9n\u00e9ral-guisan 85",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185779399,
-    "wof:lastmodified":1449006855,
+    "wof:lastmodified":1466208976,
     "wof:name":"Jean-fran\u00e7ois Rodoni Etude D'avocat & Notaire",
     "wof:parent_id":85799869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.64871,46.50647,6.64871,46.50647],
+  "bbox": [
+    6.64871,
+    46.50647,
+    6.64871,
+    46.50647
+],
   "geometry": {"coordinates":[6.64871,46.50647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219152801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.546447,47.390854,8.546447,47.390854",
     "geom:latitude":47.390854,
     "geom:longitude":8.546447,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6hrlistrasse 69",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219152801,
-    "wof:lastmodified":1449073121,
+    "wof:lastmodified":1466209884,
     "wof:name":"Dr.med.urs Eiholzer Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.546447,47.390854,8.546447,47.390854],
+  "bbox": [
+    8.546447,
+    47.390854,
+    8.546447,
+    47.390854
+],
   "geometry": {"coordinates":[8.546447,47.390854],"type":"Point"}
 }

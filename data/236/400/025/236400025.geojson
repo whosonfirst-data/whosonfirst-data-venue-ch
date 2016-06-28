@@ -2,13 +2,14 @@
   "id": 236400025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.254695,47.143257,7.254695,47.143257",
     "geom:latitude":47.143257,
     "geom:longitude":7.254695,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General-dufour-strasse 105",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236400025,
-    "wof:lastmodified":1449001916,
+    "wof:lastmodified":1466212117,
     "wof:name":"Bibliothek Der Christkath.pfarrgemeinde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.254695,47.143257,7.254695,47.143257],
+  "bbox": [
+    7.254695,
+    47.143257,
+    7.254695,
+    47.143257
+],
   "geometry": {"coordinates":[7.254695,47.143257],"type":"Point"}
 }

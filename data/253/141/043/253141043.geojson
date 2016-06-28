@@ -2,13 +2,14 @@
   "id": 253141043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.129691,46.200615,6.129691,46.200615",
     "geom:latitude":46.200615,
     "geom:longitude":6.129691,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Deux-ponts 27 1200 Genf. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253141043,
-    "wof:lastmodified":1449063860,
+    "wof:lastmodified":1466210400,
     "wof:name":"Boulangerie - Tea-room Deux-ponts, Martins",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.129691,46.200615,6.129691,46.200615],
+  "bbox": [
+    6.129691,
+    46.200615,
+    6.129691,
+    46.200615
+],
   "geometry": {"coordinates":[6.129691,46.200615],"type":"Point"}
 }

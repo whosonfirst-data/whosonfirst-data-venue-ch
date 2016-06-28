@@ -2,13 +2,14 @@
   "id": 186264253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.985711,46.612823,9.985711,46.612823",
     "geom:latitude":46.612823,
     "geom:longitude":9.985711,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Maistra 67",
     "sg:city":"S-chanf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186264253,
-    "wof:lastmodified":1449052117,
+    "wof:lastmodified":1466209579,
     "wof:name":"Angelini Hoch- & Tiefbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.985711,46.612823,9.985711,46.612823],
+  "bbox": [
+    9.985711,
+    46.612823,
+    9.985711,
+    46.612823
+],
   "geometry": {"coordinates":[9.985711,46.612823],"type":"Point"}
 }

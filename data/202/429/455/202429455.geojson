@@ -2,13 +2,14 @@
   "id": 202429455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.17851,46.202621,6.17851,46.202621",
     "geom:latitude":46.202621,
     "geom:longitude":6.17851,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Pierre-brasier 5",
     "sg:city":"Ch\u00eane-bougeries",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202429455,
-    "wof:lastmodified":1449062511,
+    "wof:lastmodified":1466210256,
     "wof:name":"Bureau D'\u00e9tudes Mottier Sa",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.17851,46.202621,6.17851,46.202621],
+  "bbox": [
+    6.17851,
+    46.202621,
+    6.17851,
+    46.202621
+],
   "geometry": {"coordinates":[6.17851,46.202621],"type":"Point"}
 }

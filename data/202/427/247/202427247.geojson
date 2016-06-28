@@ -2,13 +2,14 @@
   "id": 202427247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.531589,46.292786,7.531589,46.292786",
     "geom:latitude":46.292786,
     "geom:longitude":7.531589,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue G\u00e9n\u00e9ral-guisan 12 3960 Sierre. Postfach 309",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202427247,
-    "wof:lastmodified":1449060877,
+    "wof:lastmodified":1466210215,
     "wof:name":"Bureau D'ingenieurs, Teysseire Et Candolfi Sa, Dipl Ing. Epf/sia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.531589,46.292786,7.531589,46.292786],
+  "bbox": [
+    7.531589,
+    46.292786,
+    7.531589,
+    46.292786
+],
   "geometry": {"coordinates":[7.531589,46.292786],"type":"Point"}
 }

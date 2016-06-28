@@ -2,13 +2,14 @@
   "id": 185858221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.154183,46.198074,6.154183,46.198074",
     "geom:latitude":46.198074,
     "geom:longitude":6.154183,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riva Caccia 1a",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185858221,
-    "wof:lastmodified":1449006771,
+    "wof:lastmodified":1466209549,
     "wof:name":"Morval & Cie Sa, Banque",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.154183,46.198074,6.154183,46.198074],
+  "bbox": [
+    6.154183,
+    46.198074,
+    6.154183,
+    46.198074
+],
   "geometry": {"coordinates":[6.154183,46.198074],"type":"Point"}
 }

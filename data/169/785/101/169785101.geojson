@@ -2,13 +2,14 @@
   "id": 169785101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516126,47.172092,8.516126,47.172092",
     "geom:latitude":47.172092,
     "geom:longitude":8.516126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 19",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169785101,
-    "wof:lastmodified":1449035399,
+    "wof:lastmodified":1466208953,
     "wof:name":"Sony Center Elsener",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516126,47.172092,8.516126,47.172092],
+  "bbox": [
+    8.516126,
+    47.172092,
+    8.516126,
+    47.172092
+],
   "geometry": {"coordinates":[8.516126,47.172092],"type":"Point"}
 }

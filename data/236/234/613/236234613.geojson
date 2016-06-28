@@ -2,13 +2,14 @@
   "id": 236234613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.456276,46.946743,7.456276,46.946743",
     "geom:latitude":46.946743,
     "geom:longitude":7.456276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlenplatz 11",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236234613,
-    "wof:lastmodified":1449005032,
+    "wof:lastmodified":1466211188,
     "wof:name":"Silo Gmbh",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.456276,46.946743,7.456276,46.946743],
+  "bbox": [
+    7.456276,
+    46.946743,
+    7.456276,
+    46.946743
+],
   "geometry": {"coordinates":[7.456276,46.946743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253310327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62072,47.493412,7.62072,47.493412",
     "geom:latitude":47.493412,
     "geom:longitude":7.62072,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 8 4144 Arlesheim. Postfach 408",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253310327,
-    "wof:lastmodified":1449064632,
+    "wof:lastmodified":1466211906,
     "wof:name":"Buchhandlung Gysel Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62072,47.493412,7.62072,47.493412],
+  "bbox": [
+    7.62072,
+    47.493412,
+    7.62072,
+    47.493412
+],
   "geometry": {"coordinates":[7.62072,47.493412],"type":"Point"}
 }

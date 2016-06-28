@@ -2,13 +2,14 @@
   "id": 169690045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465519,47.005047,7.465519,47.005047",
     "geom:latitude":47.005047,
     "geom:longitude":7.465519,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 29",
     "sg:city":"Zollikofen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169690045,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1466210726,
     "wof:name":"Schmid-storen",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465519,47.005047,7.465519,47.005047],
+  "bbox": [
+    7.465519,
+    47.005047,
+    7.465519,
+    47.005047
+],
   "geometry": {"coordinates":[7.465519,47.005047],"type":"Point"}
 }

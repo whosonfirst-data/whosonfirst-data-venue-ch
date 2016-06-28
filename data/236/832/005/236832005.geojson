@@ -2,13 +2,14 @@
   "id": 236832005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.363525,47.434914,8.363525,47.434914",
     "geom:latitude":47.434914,
     "geom:longitude":8.363525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenweg 12c",
     "sg:city":"W\u00fcrenlos",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236832005,
-    "wof:lastmodified":1449001689,
+    "wof:lastmodified":1466212998,
     "wof:name":"Hausherr Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.363525,47.434914,8.363525,47.434914],
+  "bbox": [
+    8.363525,
+    47.434914,
+    8.363525,
+    47.434914
+],
   "geometry": {"coordinates":[8.363525,47.434914],"type":"Point"}
 }

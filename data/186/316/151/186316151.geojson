@@ -2,13 +2,14 @@
   "id": 186316151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.061027,46.196922,6.061027,46.196922",
     "geom:latitude":46.196922,
     "geom:longitude":6.061027,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Pr\u00e9-salomon 10 1242 Satigny. Postfach",
     "sg:city":"Satigny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186316151,
-    "wof:lastmodified":1449052187,
+    "wof:lastmodified":1466209950,
     "wof:name":"Walo Bertschinger Sa, Lausanne, Succursale De Satigny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.061027,46.196922,6.061027,46.196922],
+  "bbox": [
+    6.061027,
+    46.196922,
+    6.061027,
+    46.196922
+],
   "geometry": {"coordinates":[6.061027,46.196922],"type":"Point"}
 }

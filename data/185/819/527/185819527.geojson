@@ -2,13 +2,14 @@
   "id": 185819527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.855031,47.575317,7.855031,47.575317",
     "geom:latitude":47.575317,
     "geom:longitude":7.855031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4umlimattstr.",
     "sg:city":"M\u00f6hlin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185819527,
-    "wof:lastmodified":1449006992,
+    "wof:lastmodified":1466209249,
     "wof:name":"Rodi Fructus Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [7.855031,47.575317,7.855031,47.575317],
+  "bbox": [
+    7.855031,
+    47.575317,
+    7.855031,
+    47.575317
+],
   "geometry": {"coordinates":[7.855031,47.575317],"type":"Point"}
 }

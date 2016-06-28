@@ -2,13 +2,14 @@
   "id": 186615131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.24795,47.136246,7.24795,47.136246",
     "geom:latitude":47.136246,
     "geom:longitude":7.24795,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexander-sch\u00f6ni-strasse 18 2503 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186615131,
-    "wof:lastmodified":1449051232,
+    "wof:lastmodified":1466212140,
     "wof:name":"St\u00e4dtisches Arbeitsamt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.24795,47.136246,7.24795,47.136246],
+  "bbox": [
+    7.24795,
+    47.136246,
+    7.24795,
+    47.136246
+],
   "geometry": {"coordinates":[7.24795,47.136246],"type":"Point"}
 }

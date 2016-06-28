@@ -2,13 +2,14 @@
   "id": 186025173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.664822,46.539001,6.664822,46.539001",
     "geom:latitude":46.539001,
     "geom:longitude":6.664822,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Praz-s\u00e9chaud Chemin De 14 1010 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186025173,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1466209648,
     "wof:name":"Bitra Lausanne, Perrenoud Yves Rev\u00eatement Et Isolation De Fa\u00e7ades",
     "wof:parent_id":85862431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.664822,46.539001,6.664822,46.539001],
+  "bbox": [
+    6.664822,
+    46.539001,
+    6.664822,
+    46.539001
+],
   "geometry": {"coordinates":[6.664822,46.539001],"type":"Point"}
 }

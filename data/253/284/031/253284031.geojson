@@ -2,13 +2,14 @@
   "id": 253284031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.914875,47.084496,7.914875,47.084496",
     "geom:latitude":47.084496,
     "geom:longitude":7.914875,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenblick Dorf",
     "sg:city":"Hofstatt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253284031,
-    "wof:lastmodified":1449064650,
+    "wof:lastmodified":1466211671,
     "wof:name":"Kaspar Hodel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.914875,47.084496,7.914875,47.084496],
+  "bbox": [
+    7.914875,
+    47.084496,
+    7.914875,
+    47.084496
+],
   "geometry": {"coordinates":[7.914875,47.084496],"type":"Point"}
 }

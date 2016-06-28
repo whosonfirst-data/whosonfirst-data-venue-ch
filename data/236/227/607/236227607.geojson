@@ -2,13 +2,14 @@
   "id": 236227607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.845606,47.225735,8.845606,47.225735",
     "geom:latitude":47.225735,
     "geom:longitude":8.845606,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldeggstrasse 6 8645 Jona. Postfach",
     "sg:city":"Jona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236227607,
-    "wof:lastmodified":1449002220,
+    "wof:lastmodified":1466211110,
     "wof:name":"Matrix Schweizer A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.845606,47.225735,8.845606,47.225735],
+  "bbox": [
+    8.845606,
+    47.225735,
+    8.845606,
+    47.225735
+],
   "geometry": {"coordinates":[8.845606,47.225735],"type":"Point"}
 }

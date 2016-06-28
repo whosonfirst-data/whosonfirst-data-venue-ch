@@ -2,13 +2,14 @@
   "id": 236039623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.132345,46.188015,6.132345,46.188015",
     "geom:latitude":46.188015,
     "geom:longitude":6.132345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammstrasse 8 6438 Ibach. Postfach 29",
     "sg:city":"Ibach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236039623,
-    "wof:lastmodified":1449004753,
+    "wof:lastmodified":1466209238,
     "wof:name":"Bergmann H.",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.132345,46.188015,6.132345,46.188015],
+  "bbox": [
+    6.132345,
+    46.188015,
+    6.132345,
+    46.188015
+],
   "geometry": {"coordinates":[6.132345,46.188015],"type":"Point"}
 }

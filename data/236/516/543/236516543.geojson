@@ -2,13 +2,14 @@
   "id": 236516543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.183098,47.257622,8.183098,47.257622",
     "geom:latitude":47.257622,
     "geom:longitude":8.183098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstrasse 4",
     "sg:city":"Zurzach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236516543,
-    "wof:lastmodified":1449002150,
+    "wof:lastmodified":1466212552,
     "wof:name":"Gartenbau Imholz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.183098,47.257622,8.183098,47.257622],
+  "bbox": [
+    8.183098,
+    47.257622,
+    8.183098,
+    47.257622
+],
   "geometry": {"coordinates":[8.183098,47.257622],"type":"Point"}
 }

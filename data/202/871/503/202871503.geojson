@@ -2,13 +2,14 @@
   "id": 202871503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.482907,47.467777,9.482907,47.467777",
     "geom:latitude":47.467777,
     "geom:longitude":9.482907,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4deliweg 21",
     "sg:city":"Rorschacherberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202871503,
-    "wof:lastmodified":1449060940,
+    "wof:lastmodified":1466211899,
     "wof:name":"Wagnerplan Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.482907,47.467777,9.482907,47.467777],
+  "bbox": [
+    9.482907,
+    47.467777,
+    9.482907,
+    47.467777
+],
   "geometry": {"coordinates":[9.482907,47.467777],"type":"Point"}
 }

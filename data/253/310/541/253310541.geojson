@@ -2,13 +2,14 @@
   "id": 253310541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.467597,47.364822,8.467597,47.364822",
     "geom:latitude":47.364822,
     "geom:longitude":8.467597,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Tiergarten 47",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253310541,
-    "wof:lastmodified":1449064632,
+    "wof:lastmodified":1466211909,
     "wof:name":"Buchhandlung Todesco",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.467597,47.364822,8.467597,47.364822],
+  "bbox": [
+    8.467597,
+    47.364822,
+    8.467597,
+    47.364822
+],
   "geometry": {"coordinates":[8.467597,47.364822],"type":"Point"}
 }

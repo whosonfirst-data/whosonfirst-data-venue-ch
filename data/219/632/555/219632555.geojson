@@ -2,13 +2,14 @@
   "id": 219632555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.935267,47.497543,7.935267,47.497543",
     "geom:latitude":47.497543,
     "geom:longitude":7.935267,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkel 119",
     "sg:city":"Wegenstetten",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219632555,
-    "wof:lastmodified":1449072641,
+    "wof:lastmodified":1466211873,
     "wof:name":"Raiffeisenbank Wegenstetten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.935267,47.497543,7.935267,47.497543],
+  "bbox": [
+    7.935267,
+    47.497543,
+    7.935267,
+    47.497543
+],
   "geometry": {"coordinates":[7.935267,47.497543],"type":"Point"}
 }

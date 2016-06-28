@@ -2,13 +2,14 @@
   "id": 219267751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.568835,47.289307,8.568835,47.289307",
     "geom:latitude":47.289307,
     "geom:longitude":8.568835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Landstrasse 83",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219267751,
-    "wof:lastmodified":1449073595,
+    "wof:lastmodified":1466208954,
     "wof:name":"Eugen Dubach Garage",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.568835,47.289307,8.568835,47.289307],
+  "bbox": [
+    8.568835,
+    47.289307,
+    8.568835,
+    47.289307
+],
   "geometry": {"coordinates":[8.568835,47.289307],"type":"Point"}
 }

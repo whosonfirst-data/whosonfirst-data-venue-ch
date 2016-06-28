@@ -2,13 +2,14 @@
   "id": 185882333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.564089,47.544964,7.564089,47.544964",
     "geom:latitude":47.544964,
     "geom:longitude":7.564089,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neubadrain 6",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185882333,
-    "wof:lastmodified":1449006901,
+    "wof:lastmodified":1466209725,
     "wof:name":"Madex Ag",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.564089,47.544964,7.564089,47.544964],
+  "bbox": [
+    7.564089,
+    47.544964,
+    7.564089,
+    47.544964
+],
   "geometry": {"coordinates":[7.564089,47.544964],"type":"Point"}
 }

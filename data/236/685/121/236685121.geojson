@@ -2,13 +2,14 @@
   "id": 236685121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43615,46.945587,7.43615,46.945587",
     "geom:latitude":46.945587,
     "geom:longitude":7.43615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Austrian Trade Delegation",
     "sg:city":"Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236685121,
-    "wof:lastmodified":1449005154,
+    "wof:lastmodified":1466212799,
     "wof:name":"Bern Chamber Of Commerce And Industry (handels- Und Industrieverein Des Kantons Bern)",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [7.43615,46.945587,7.43615,46.945587],
+  "bbox": [
+    7.43615,
+    46.945587,
+    7.43615,
+    46.945587
+],
   "geometry": {"coordinates":[7.43615,46.945587],"type":"Point"}
 }

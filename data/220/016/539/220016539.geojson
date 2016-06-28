@@ -2,13 +2,14 @@
   "id": 220016539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.695814,46.776443,7.695814,46.776443",
     "geom:latitude":46.776443,
     "geom:longitude":7.695814,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aegertenstrasse 69",
     "sg:city":"Zetzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220016539,
-    "wof:lastmodified":1449074186,
+    "wof:lastmodified":1466209021,
     "wof:name":"Hans Stettler Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.695814,46.776443,7.695814,46.776443],
+  "bbox": [
+    7.695814,
+    46.776443,
+    7.695814,
+    46.776443
+],
   "geometry": {"coordinates":[7.695814,46.776443],"type":"Point"}
 }

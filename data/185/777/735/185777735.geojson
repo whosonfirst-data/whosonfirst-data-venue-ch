@@ -2,13 +2,14 @@
   "id": 185777735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.415388,46.922958,7.415388,46.922958",
     "geom:latitude":46.922958,
     "geom:longitude":7.415388,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stapfenstrasse 5 3098 K\u00f6niz. Postfach",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185777735,
-    "wof:lastmodified":1449007474,
+    "wof:lastmodified":1466208965,
     "wof:name":"Huber & Braunschweig Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.415388,46.922958,7.415388,46.922958],
+  "bbox": [
+    7.415388,
+    46.922958,
+    7.415388,
+    46.922958
+],
   "geometry": {"coordinates":[7.415388,46.922958],"type":"Point"}
 }

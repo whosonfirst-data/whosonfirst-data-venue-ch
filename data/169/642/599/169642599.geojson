@@ -2,13 +2,14 @@
   "id": 169642599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.634255,46.340172,7.634255,46.340172",
     "geom:latitude":46.340172,
     "geom:longitude":7.634255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albinen",
     "sg:city":"Albinen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169642599,
-    "wof:lastmodified":1449032877,
+    "wof:lastmodified":1466209938,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.634255,46.340172,7.634255,46.340172],
+  "bbox": [
+    7.634255,
+    46.340172,
+    7.634255,
+    46.340172
+],
   "geometry": {"coordinates":[7.634255,46.340172],"type":"Point"}
 }

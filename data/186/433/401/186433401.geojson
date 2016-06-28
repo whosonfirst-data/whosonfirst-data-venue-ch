@@ -2,13 +2,14 @@
   "id": 186433401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.382219,47.368393,8.382219,47.368393",
     "geom:latitude":47.368393,
     "geom:longitude":8.382219,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buechholzstrasse 219",
     "sg:city":"Rudolfstetten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186433401,
-    "wof:lastmodified":1449050561,
+    "wof:lastmodified":1466210870,
     "wof:name":"Helmut Rolle Malergesch\u00e4ft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.382219,47.368393,8.382219,47.368393],
+  "bbox": [
+    8.382219,
+    47.368393,
+    8.382219,
+    47.368393
+],
   "geometry": {"coordinates":[8.382219,47.368393],"type":"Point"}
 }

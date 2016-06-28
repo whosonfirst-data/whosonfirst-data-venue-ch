@@ -2,13 +2,14 @@
   "id": 186518145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.518036,47.395348,8.518036,47.395348",
     "geom:latitude":47.395348,
     "geom:longitude":8.518036,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6nggerstrasse 119",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186518145,
-    "wof:lastmodified":1449051897,
+    "wof:lastmodified":1466211597,
     "wof:name":"Sydef\u00e4deli St\u00e4dt.altersheim",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [8.518036,47.395348,8.518036,47.395348],
+  "bbox": [
+    8.518036,
+    47.395348,
+    8.518036,
+    47.395348
+],
   "geometry": {"coordinates":[8.518036,47.395348],"type":"Point"}
 }

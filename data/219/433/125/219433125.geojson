@@ -2,13 +2,14 @@
   "id": 219433125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.629449,47.327839,8.629449,47.327839",
     "geom:latitude":47.327839,
     "geom:longitude":8.629449,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thesenacher 44",
     "sg:city":"Zumikon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219433125,
-    "wof:lastmodified":1449070798,
+    "wof:lastmodified":1466210490,
     "wof:name":"Utzinger Handel & Technik",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "avionics"
     ]
 },
-  "bbox": [8.629449,47.327839,8.629449,47.327839],
+  "bbox": [
+    8.629449,
+    47.327839,
+    8.629449,
+    47.327839
+],
   "geometry": {"coordinates":[8.629449,47.327839],"type":"Point"}
 }

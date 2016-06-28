@@ -2,13 +2,14 @@
   "id": 220172307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451292,46.948624,7.451292,46.948624",
     "geom:latitude":46.948624,
     "geom:longitude":7.451292,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausgasse 12",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220172307,
-    "wof:lastmodified":1449074362,
+    "wof:lastmodified":1466210352,
     "wof:name":"Daniel Gerber",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.451292,46.948624,7.451292,46.948624],
+  "bbox": [
+    7.451292,
+    46.948624,
+    7.451292,
+    46.948624
+],
   "geometry": {"coordinates":[7.451292,46.948624],"type":"Point"}
 }

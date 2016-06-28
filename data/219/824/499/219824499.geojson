@@ -2,13 +2,14 @@
   "id": 219824499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.530395,46.848988,9.530395,46.848988",
     "geom:latitude":46.848988,
     "geom:longitude":9.530395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Goldgasse 3",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219824499,
-    "wof:lastmodified":1449071647,
+    "wof:lastmodified":1466212503,
     "wof:name":"Rock'me Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.530395,46.848988,9.530395,46.848988],
+  "bbox": [
+    9.530395,
+    46.848988,
+    9.530395,
+    46.848988
+],
   "geometry": {"coordinates":[9.530395,46.848988],"type":"Point"}
 }

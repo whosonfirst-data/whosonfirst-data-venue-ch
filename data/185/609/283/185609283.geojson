@@ -2,13 +2,14 @@
   "id": 185609283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.035123,47.461109,9.035123,47.461109",
     "geom:latitude":47.461109,
     "geom:longitude":9.035123,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 15",
     "sg:city":"Rupperswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185609283,
-    "wof:lastmodified":1449007205,
+    "wof:lastmodified":1466209519,
     "wof:name":"I.c.e. Industrial Contractors And Engineers Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.035123,47.461109,9.035123,47.461109],
+  "bbox": [
+    9.035123,
+    47.461109,
+    9.035123,
+    47.461109
+],
   "geometry": {"coordinates":[9.035123,47.461109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219471305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53801,47.369091,8.53801,47.369091",
     "geom:latitude":47.369091,
     "geom:longitude":8.53801,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cantonale 1",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219471305,
-    "wof:lastmodified":1449071803,
+    "wof:lastmodified":1466210867,
     "wof:name":"Banca Novara (suisse)",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53801,47.369091,8.53801,47.369091],
+  "bbox": [
+    8.53801,
+    47.369091,
+    8.53801,
+    47.369091
+],
   "geometry": {"coordinates":[8.53801,47.369091],"type":"Point"}
 }

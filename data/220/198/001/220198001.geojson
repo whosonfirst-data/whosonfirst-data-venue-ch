@@ -2,13 +2,14 @@
   "id": 220198001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56455,47.359474,8.56455,47.359474",
     "geom:latitude":47.359474,
     "geom:longitude":8.56455,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Drahtzugstrasse 76",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220198001,
-    "wof:lastmodified":1449074315,
+    "wof:lastmodified":1466210582,
     "wof:name":"Primo Lorenzetti M\u00f6belbau",
     "wof:parent_id":85800057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.56455,47.359474,8.56455,47.359474],
+  "bbox": [
+    8.56455,
+    47.359474,
+    8.56455,
+    47.359474
+],
   "geometry": {"coordinates":[8.56455,47.359474],"type":"Point"}
 }

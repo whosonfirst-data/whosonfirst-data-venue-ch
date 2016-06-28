@@ -2,13 +2,14 @@
   "id": 236759231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.209756,46.774185,9.209756,46.774185",
     "geom:latitude":46.774185,
     "geom:longitude":9.209756,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Glennerstr. 30",
     "sg:city":"Ilanz",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236759231,
-    "wof:lastmodified":1449005308,
+    "wof:lastmodified":1466212869,
     "wof:name":"Menzli Sport Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "clothes"
     ]
 },
-  "bbox": [9.209756,46.774185,9.209756,46.774185],
+  "bbox": [
+    9.209756,
+    46.774185,
+    9.209756,
+    46.774185
+],
   "geometry": {"coordinates":[9.209756,46.774185],"type":"Point"}
 }

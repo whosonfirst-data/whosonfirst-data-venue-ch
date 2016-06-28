@@ -2,13 +2,14 @@
   "id": 253235659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.396196,47.392029,9.396196,47.392029",
     "geom:latitude":47.392029,
     "geom:longitude":9.396196,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sinerstrasse 5",
     "sg:city":"Auw",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253235659,
-    "wof:lastmodified":1449063324,
+    "wof:lastmodified":1466211346,
     "wof:name":"Peter Wick-hanselmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.396196,47.392029,9.396196,47.392029],
+  "bbox": [
+    9.396196,
+    47.392029,
+    9.396196,
+    47.392029
+],
   "geometry": {"coordinates":[9.396196,47.392029],"type":"Point"}
 }

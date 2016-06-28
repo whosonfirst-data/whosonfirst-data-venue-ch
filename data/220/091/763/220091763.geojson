@@ -2,13 +2,14 @@
   "id": 220091763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.784744,47.465324,7.784744,47.465324",
     "geom:latitude":47.465324,
     "geom:longitude":7.784744,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 20",
     "sg:city":"Itingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220091763,
-    "wof:lastmodified":1449074109,
+    "wof:lastmodified":1466209669,
     "wof:name":"Fredi Buser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.784744,47.465324,7.784744,47.465324],
+  "bbox": [
+    7.784744,
+    47.465324,
+    7.784744,
+    47.465324
+],
   "geometry": {"coordinates":[7.784744,47.465324],"type":"Point"}
 }

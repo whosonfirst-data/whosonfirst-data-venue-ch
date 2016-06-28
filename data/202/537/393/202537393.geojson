@@ -2,13 +2,14 @@
   "id": 202537393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.362686,47.415428,9.362686,47.415428",
     "geom:latitude":47.415428,
     "geom:longitude":9.362686,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Treuackerstrasse 32",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202537393,
-    "wof:lastmodified":1449060742,
+    "wof:lastmodified":1466209072,
     "wof:name":"Hellraum Gmbh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.362686,47.415428,9.362686,47.415428],
+  "bbox": [
+    9.362686,
+    47.415428,
+    9.362686,
+    47.415428
+],
   "geometry": {"coordinates":[9.362686,47.415428],"type":"Point"}
 }

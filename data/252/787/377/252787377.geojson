@@ -2,13 +2,14 @@
   "id": 252787377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.636123,46.523201,6.636123,46.523201",
     "geom:latitude":46.523201,
     "geom:longitude":6.636123,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Cit\u00e9-derri\u00e8re 10",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252787377,
-    "wof:lastmodified":1449005906,
+    "wof:lastmodified":1466209759,
     "wof:name":"Librairie Lehmann M. Comm. De Livres Anciens Et Rares",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.636123,46.523201,6.636123,46.523201],
+  "bbox": [
+    6.636123,
+    46.523201,
+    6.636123,
+    46.523201
+],
   "geometry": {"coordinates":[6.636123,46.523201],"type":"Point"}
 }

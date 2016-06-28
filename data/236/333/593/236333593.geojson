@@ -2,13 +2,14 @@
   "id": 236333593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.149114,46.220501,6.149114,46.220501",
     "geom:latitude":46.220501,
     "geom:longitude":6.149114,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zielstrasse 25",
     "sg:city":"Appenzell",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236333593,
-    "wof:lastmodified":1449004975,
+    "wof:lastmodified":1466211898,
     "wof:name":"Natural Le Coultre Sa",
     "wof:parent_id":85897657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.149114,46.220501,6.149114,46.220501],
+  "bbox": [
+    6.149114,
+    46.220501,
+    6.149114,
+    46.220501
+],
   "geometry": {"coordinates":[6.149114,46.220501],"type":"Point"}
 }

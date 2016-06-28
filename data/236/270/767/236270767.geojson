@@ -2,13 +2,14 @@
   "id": 236270767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.603665,47.062092,7.603665,47.062092",
     "geom:latitude":47.062092,
     "geom:longitude":7.603665,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Meieriedstrasse 9",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236270767,
-    "wof:lastmodified":1449002114,
+    "wof:lastmodified":1466211561,
     "wof:name":"Sportplatzgenossenschaft Burgdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.603665,47.062092,7.603665,47.062092],
+  "bbox": [
+    7.603665,
+    47.062092,
+    7.603665,
+    47.062092
+],
   "geometry": {"coordinates":[7.603665,47.062092],"type":"Point"}
 }

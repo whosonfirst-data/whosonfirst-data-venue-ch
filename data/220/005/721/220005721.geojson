@@ -2,13 +2,14 @@
   "id": 220005721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.3194,47.570602,8.3194,47.570602",
     "geom:latitude":47.570602,
     "geom:longitude":8.3194,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fcckenstrasse",
     "sg:city":"Ibach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220005721,
-    "wof:lastmodified":1449074818,
+    "wof:lastmodified":1466208927,
     "wof:name":"Daniel K\u00e4ser Kreatives Holzhandwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.3194,47.570602,8.3194,47.570602],
+  "bbox": [
+    8.3194,
+    47.570602,
+    8.3194,
+    47.570602
+],
   "geometry": {"coordinates":[8.3194,47.570602],"type":"Point"}
 }

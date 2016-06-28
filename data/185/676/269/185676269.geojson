@@ -2,13 +2,14 @@
   "id": 185676269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.574125,47.327305,8.574125,47.327305",
     "geom:latitude":47.327305,
     "geom:longitude":8.574125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergergasse 29 3011 Bern. Postfach 6161",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185676269,
-    "wof:lastmodified":1449007625,
+    "wof:lastmodified":1466210866,
     "wof:name":"Altenburger & Partner Rechtsanw\u00e4lte",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.574125,47.327305,8.574125,47.327305],
+  "bbox": [
+    8.574125,
+    47.327305,
+    8.574125,
+    47.327305
+],
   "geometry": {"coordinates":[8.574125,47.327305],"type":"Point"}
 }

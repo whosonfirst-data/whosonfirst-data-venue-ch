@@ -2,13 +2,14 @@
   "id": 202683529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.993143,47.514111,8.993143,47.514111",
     "geom:latitude":47.514111,
     "geom:longitude":8.993143,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Banneggstrasse 25",
     "sg:city":"Lommis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202683529,
-    "wof:lastmodified":1449061043,
+    "wof:lastmodified":1466210436,
     "wof:name":"Rey Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.993143,47.514111,8.993143,47.514111],
+  "bbox": [
+    8.993143,
+    47.514111,
+    8.993143,
+    47.514111
+],
   "geometry": {"coordinates":[8.993143,47.514111],"type":"Point"}
 }

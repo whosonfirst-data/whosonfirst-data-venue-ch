@@ -2,13 +2,14 @@
   "id": 253201701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.36713,47.36948,9.36713,47.36948",
     "geom:latitude":47.36948,
     "geom:longitude":9.36713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3917",
     "sg:city":"Kippel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253201701,
-    "wof:lastmodified":1449065380,
+    "wof:lastmodified":1466211036,
     "wof:name":"Johann Rechsteiner B\u00e4ckerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.36713,47.36948,9.36713,47.36948],
+  "bbox": [
+    9.36713,
+    47.36948,
+    9.36713,
+    47.36948
+],
   "geometry": {"coordinates":[9.36713,47.36948],"type":"Point"}
 }

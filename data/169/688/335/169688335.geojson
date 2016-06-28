@@ -2,13 +2,14 @@
   "id": 169688335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536636,47.503094,8.536636,47.503094",
     "geom:latitude":47.503094,
     "geom:longitude":8.536636,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kasernenstrasse 1 8184 Bachenb\u00fclach. Postfach 15",
     "sg:city":"Bachenb\u00fclach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169688335,
-    "wof:lastmodified":1449033924,
+    "wof:lastmodified":1466210661,
     "wof:name":"Wagner Visuell Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536636,47.503094,8.536636,47.503094],
+  "bbox": [
+    8.536636,
+    47.503094,
+    8.536636,
+    47.503094
+],
   "geometry": {"coordinates":[8.536636,47.503094],"type":"Point"}
 }

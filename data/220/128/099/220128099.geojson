@@ -2,13 +2,14 @@
   "id": 220128099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.292559,47.440735,8.292559,47.440735",
     "geom:latitude":47.440735,
     "geom:longitude":8.292559,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 42",
     "sg:city":"Fislisbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220128099,
-    "wof:lastmodified":1449074344,
+    "wof:lastmodified":1466209980,
     "wof:name":"Peterhans, Schibli & Cie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.292559,47.440735,8.292559,47.440735],
+  "bbox": [
+    8.292559,
+    47.440735,
+    8.292559,
+    47.440735
+],
   "geometry": {"coordinates":[8.292559,47.440735],"type":"Point"}
 }

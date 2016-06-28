@@ -2,13 +2,14 @@
   "id": 186059341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.443515,47.439369,8.443515,47.439369",
     "geom:latitude":47.439369,
     "geom:longitude":8.443515,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagenwiesenstrasse 5",
     "sg:city":"D\u00e4llikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186059341,
-    "wof:lastmodified":1449051119,
+    "wof:lastmodified":1466210205,
     "wof:name":"Egger D\u00e4mmtech Consulting",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.443515,47.439369,8.443515,47.439369],
+  "bbox": [
+    8.443515,
+    47.439369,
+    8.443515,
+    47.439369
+],
   "geometry": {"coordinates":[8.443515,47.439369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202607387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.410114,47.421879,8.410114,47.421879",
     "geom:latitude":47.421879,
     "geom:longitude":8.410114,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Huebweisenstr. 34 8954 Geroldswil. Postfach 123",
     "sg:city":"Geroldswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202607387,
-    "wof:lastmodified":1449060442,
+    "wof:lastmodified":1466209727,
     "wof:name":"Landis Hans, Ingenieur + Planungs Ag, Filiale Geroldswil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.410114,47.421879,8.410114,47.421879],
+  "bbox": [
+    8.410114,
+    47.421879,
+    8.410114,
+    47.421879
+],
   "geometry": {"coordinates":[8.410114,47.421879],"type":"Point"}
 }

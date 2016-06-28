@@ -2,13 +2,14 @@
   "id": 219902905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.567537,46.927639,7.567537,46.927639",
     "geom:latitude":46.927639,
     "geom:longitude":7.567537,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 33",
     "sg:city":"Worb",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219902905,
-    "wof:lastmodified":1449073017,
+    "wof:lastmodified":1466212718,
     "wof:name":"Wohnungsbaugen.worb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.567537,46.927639,7.567537,46.927639],
+  "bbox": [
+    7.567537,
+    46.927639,
+    7.567537,
+    46.927639
+],
   "geometry": {"coordinates":[7.567537,46.927639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236540627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.697094,47.511028,8.697094,47.511028",
     "geom:latitude":47.511028,
     "geom:longitude":8.697094,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00fclflingerstrasse 224",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236540627,
-    "wof:lastmodified":1449002859,
+    "wof:lastmodified":1466212581,
     "wof:name":"Gr\u00f6gli Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "book"
     ]
 },
-  "bbox": [8.697094,47.511028,8.697094,47.511028],
+  "bbox": [
+    8.697094,
+    47.511028,
+    8.697094,
+    47.511028
+],
   "geometry": {"coordinates":[8.697094,47.511028],"type":"Point"}
 }

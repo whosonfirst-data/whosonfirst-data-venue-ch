@@ -2,13 +2,14 @@
   "id": 252927013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587551,47.552483,7.587551,47.552483",
     "geom:latitude":47.552483,
     "geom:longitude":7.587551,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinbachg\u00e4sslein 30",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252927013,
-    "wof:lastmodified":1449006399,
+    "wof:lastmodified":1466211291,
     "wof:name":"Arte Flamenco Navarro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587551,47.552483,7.587551,47.552483],
+  "bbox": [
+    7.587551,
+    47.552483,
+    7.587551,
+    47.552483
+],
   "geometry": {"coordinates":[7.587551,47.552483],"type":"Point"}
 }

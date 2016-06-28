@@ -2,13 +2,14 @@
   "id": 220035651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.646651,46.51236,6.646651,46.51236",
     "geom:latitude":46.51236,
     "geom:longitude":6.646651,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Des Deux-ponts 4",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220035651,
-    "wof:lastmodified":1449074687,
+    "wof:lastmodified":1466209180,
     "wof:name":"Philippe Herzig Menuiserie",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.646651,46.51236,6.646651,46.51236],
+  "bbox": [
+    6.646651,
+    46.51236,
+    6.646651,
+    46.51236
+],
   "geometry": {"coordinates":[6.646651,46.51236],"type":"Point"}
 }

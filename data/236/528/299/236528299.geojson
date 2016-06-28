@@ -2,13 +2,14 @@
   "id": 236528299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.634645,46.781528,7.634645,46.781528",
     "geom:latitude":46.781528,
     "geom:longitude":7.634645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Schwarzeneggstrasse 3 3612 Steffisburg. Postfach 144",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236528299,
-    "wof:lastmodified":1449002345,
+    "wof:lastmodified":1466212662,
     "wof:name":"Kurt Kr\u00fcsi",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.634645,46.781528,7.634645,46.781528],
+  "bbox": [
+    7.634645,
+    46.781528,
+    7.634645,
+    46.781528
+],
   "geometry": {"coordinates":[7.634645,46.781528],"type":"Point"}
 }

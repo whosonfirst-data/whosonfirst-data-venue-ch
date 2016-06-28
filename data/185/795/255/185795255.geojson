@@ -2,13 +2,14 @@
   "id": 185795255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.242853,47.133751,7.242853,47.133751",
     "geom:latitude":47.133751,
     "geom:longitude":7.242853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 7 2502 Biel/bienne Case Postale 307",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185795255,
-    "wof:lastmodified":1449007565,
+    "wof:lastmodified":1466209079,
     "wof:name":"Renggli & Schenk Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.242853,47.133751,7.242853,47.133751],
+  "bbox": [
+    7.242853,
+    47.133751,
+    7.242853,
+    47.133751
+],
   "geometry": {"coordinates":[7.242853,47.133751],"type":"Point"}
 }

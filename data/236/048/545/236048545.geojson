@@ -2,13 +2,14 @@
   "id": 236048545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.194546,47.371006,9.194546,47.371006",
     "geom:latitude":47.371006,
     "geom:longitude":9.194546,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 97",
     "sg:city":"Degersheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236048545,
-    "wof:lastmodified":1449002663,
+    "wof:lastmodified":1466209319,
     "wof:name":"H\u00e4mmerle Paul Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.194546,47.371006,9.194546,47.371006],
+  "bbox": [
+    9.194546,
+    47.371006,
+    9.194546,
+    47.371006
+],
   "geometry": {"coordinates":[9.194546,47.371006],"type":"Point"}
 }

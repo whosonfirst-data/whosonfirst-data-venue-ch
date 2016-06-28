@@ -2,13 +2,14 @@
   "id": 236733523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522876,47.459587,8.522876,47.459587",
     "geom:latitude":47.459587,
     "geom:longitude":8.522876,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wibachstrasse 8",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236733523,
-    "wof:lastmodified":1449002020,
+    "wof:lastmodified":1466212978,
     "wof:name":"Emporitz Ag",
     "wof:parent_id":85862429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chimney"
     ]
 },
-  "bbox": [8.522876,47.459587,8.522876,47.459587],
+  "bbox": [
+    8.522876,
+    47.459587,
+    8.522876,
+    47.459587
+],
   "geometry": {"coordinates":[8.522876,47.459587],"type":"Point"}
 }

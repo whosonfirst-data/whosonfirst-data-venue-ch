@@ -2,13 +2,14 @@
   "id": 202501581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.841724,46.966034,6.841724,46.966034",
     "geom:latitude":46.966034,
     "geom:longitude":6.841724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Croix 15a 2014 B\u00f4le Case Postale",
     "sg:city":"B\u00f4le",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202501581,
-    "wof:lastmodified":1449062672,
+    "wof:lastmodified":1466211444,
     "wof:name":"Frank Rindelaub Bureau Technique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.841724,46.966034,6.841724,46.966034],
+  "bbox": [
+    6.841724,
+    46.966034,
+    6.841724,
+    46.966034
+],
   "geometry": {"coordinates":[6.841724,46.966034],"type":"Point"}
 }

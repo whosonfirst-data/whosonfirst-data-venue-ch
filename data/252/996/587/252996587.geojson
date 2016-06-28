@@ -2,13 +2,14 @@
   "id": 252996587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451939,46.948143,7.451939,46.948143",
     "geom:latitude":46.948143,
     "geom:longitude":7.451939,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kramgasse 6",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252996587,
-    "wof:lastmodified":1449005712,
+    "wof:lastmodified":1466211771,
     "wof:name":"Kitch'n'cook Ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.451939,46.948143,7.451939,46.948143],
+  "bbox": [
+    7.451939,
+    46.948143,
+    7.451939,
+    46.948143
+],
   "geometry": {"coordinates":[7.451939,46.948143],"type":"Point"}
 }

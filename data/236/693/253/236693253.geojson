@@ -2,13 +2,14 @@
   "id": 236693253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.61773,46.536221,6.61773,46.536221",
     "geom:latitude":46.536221,
     "geom:longitude":6.61773,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Av Gratta-paille",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236693253,
-    "wof:lastmodified":1449001819,
+    "wof:lastmodified":1466212805,
     "wof:name":"Agip Sa",
     "wof:parent_id":85862343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "by-product"
     ]
 },
-  "bbox": [6.61773,46.536221,6.61773,46.536221],
+  "bbox": [
+    6.61773,
+    46.536221,
+    6.61773,
+    46.536221
+],
   "geometry": {"coordinates":[6.61773,46.536221],"type":"Point"}
 }

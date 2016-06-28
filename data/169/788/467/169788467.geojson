@@ -2,13 +2,14 @@
   "id": 169788467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.393503,47.404728,8.393503,47.404728",
     "geom:latitude":47.404728,
     "geom:longitude":8.393503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinm\u00fcrlistr.48a",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169788467,
-    "wof:lastmodified":1449034384,
+    "wof:lastmodified":1466208980,
     "wof:name":"Stadt Dietikon",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.393503,47.404728,8.393503,47.404728],
+  "bbox": [
+    8.393503,
+    47.404728,
+    8.393503,
+    47.404728
+],
   "geometry": {"coordinates":[8.393503,47.404728],"type":"Point"}
 }

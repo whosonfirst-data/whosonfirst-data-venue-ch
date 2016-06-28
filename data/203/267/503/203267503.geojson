@@ -2,13 +2,14 @@
   "id": 203267503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.479594,46.935146,7.479594,46.935146",
     "geom:latitude":46.935146,
     "geom:longitude":7.479594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beim Coop-center",
     "sg:city":"Fiesch",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203267503,
-    "wof:lastmodified":1449026698,
+    "wof:lastmodified":1466210201,
     "wof:name":"Dr.med.alex Ammann Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.479594,46.935146,7.479594,46.935146],
+  "bbox": [
+    7.479594,
+    46.935146,
+    7.479594,
+    46.935146
+],
   "geometry": {"coordinates":[7.479594,46.935146],"type":"Point"}
 }

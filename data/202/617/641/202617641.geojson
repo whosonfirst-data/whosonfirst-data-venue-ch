@@ -2,13 +2,14 @@
   "id": 202617641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.3795,46.963459,8.3795,46.963459",
     "geom:latitude":46.963459,
     "geom:longitude":8.3795,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Breitenhaus 6370 Stans. Postfach 1235",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202617641,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1466209824,
     "wof:name":"M. Gut Kantonsingenieur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.3795,46.963459,8.3795,46.963459],
+  "bbox": [
+    8.3795,
+    46.963459,
+    8.3795,
+    46.963459
+],
   "geometry": {"coordinates":[8.3795,46.963459],"type":"Point"}
 }

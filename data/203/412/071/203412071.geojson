@@ -2,13 +2,14 @@
   "id": 203412071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.635157,46.781303,7.635157,46.781303",
     "geom:latitude":46.781303,
     "geom:longitude":7.635157,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Schwarzeneggstrasse 6",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203412071,
-    "wof:lastmodified":1449025318,
+    "wof:lastmodified":1466211736,
     "wof:name":"Dr.med.stefan Schacke Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.635157,46.781303,7.635157,46.781303],
+  "bbox": [
+    7.635157,
+    46.781303,
+    7.635157,
+    46.781303
+],
   "geometry": {"coordinates":[7.635157,46.781303],"type":"Point"}
 }

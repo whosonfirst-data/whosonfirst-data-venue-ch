@@ -2,13 +2,14 @@
   "id": 220017149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.995544,47.480869,8.995544,47.480869",
     "geom:latitude":47.480869,
     "geom:longitude":8.995544,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Austrasse 19",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220017149,
-    "wof:lastmodified":1449074472,
+    "wof:lastmodified":1466209026,
     "wof:name":"Hansfred Leutenegger Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.995544,47.480869,8.995544,47.480869],
+  "bbox": [
+    8.995544,
+    47.480869,
+    8.995544,
+    47.480869
+],
   "geometry": {"coordinates":[8.995544,47.480869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169766215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.080927,47.112991,8.080927,47.112991",
     "geom:latitude":47.112991,
     "geom:longitude":8.080927,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbezone 82",
     "sg:city":"Buttisholz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169766215,
-    "wof:lastmodified":1449032641,
+    "wof:lastmodified":1466211499,
     "wof:name":"Beck Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.080927,47.112991,8.080927,47.112991],
+  "bbox": [
+    8.080927,
+    47.112991,
+    8.080927,
+    47.112991
+],
   "geometry": {"coordinates":[8.080927,47.112991],"type":"Point"}
 }

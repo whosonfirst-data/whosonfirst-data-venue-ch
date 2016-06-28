@@ -2,13 +2,14 @@
   "id": 252796929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.148677,46.215179,6.148677,46.215179",
     "geom:latitude":46.215179,
     "geom:longitude":6.148677,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Rothschild 32",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252796929,
-    "wof:lastmodified":1449005921,
+    "wof:lastmodified":1466209871,
     "wof:name":"Jardin Des Arts Marl\u00e8ne Ponce",
     "wof:parent_id":85800155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.148677,46.215179,6.148677,46.215179],
+  "bbox": [
+    6.148677,
+    46.215179,
+    6.148677,
+    46.215179
+],
   "geometry": {"coordinates":[6.148677,46.215179],"type":"Point"}
 }

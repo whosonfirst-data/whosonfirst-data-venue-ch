@@ -2,13 +2,14 @@
   "id": 202495723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.387245,47.37571,8.387245,47.37571",
     "geom:latitude":47.37571,
     "geom:longitude":8.387245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grossmattstrasse 19 8964 Rudolfstetten. Postfach 92",
     "sg:city":"Rudolfstetten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202495723,
-    "wof:lastmodified":1449061240,
+    "wof:lastmodified":1466211372,
     "wof:name":"Ferratec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.387245,47.37571,8.387245,47.37571],
+  "bbox": [
+    8.387245,
+    47.37571,
+    8.387245,
+    47.37571
+],
   "geometry": {"coordinates":[8.387245,47.37571],"type":"Point"}
 }

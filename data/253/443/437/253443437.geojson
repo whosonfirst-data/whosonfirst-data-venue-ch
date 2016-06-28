@@ -2,13 +2,14 @@
   "id": 253443437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.501548,47.368095,8.501548,47.368095",
     "geom:latitude":47.368095,
     "geom:longitude":8.501548,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schweighofstrasse 424 8055 Z\u00fcrich. Postfach 186",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253443437,
-    "wof:lastmodified":1449065220,
+    "wof:lastmodified":1466212470,
     "wof:name":"Zwi Spitzer Textilwaren",
     "wof:parent_id":85799993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.501548,47.368095,8.501548,47.368095],
+  "bbox": [
+    8.501548,
+    47.368095,
+    8.501548,
+    47.368095
+],
   "geometry": {"coordinates":[8.501548,47.368095],"type":"Point"}
 }

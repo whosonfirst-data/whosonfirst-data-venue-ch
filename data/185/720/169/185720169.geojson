@@ -2,13 +2,14 @@
   "id": 185720169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.63655,47.696205,8.63655,47.696205",
     "geom:latitude":47.696205,
     "geom:longitude":8.63655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vordergasse 34 8200 Schaffhausen. Postfach",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185720169,
-    "wof:lastmodified":1449006995,
+    "wof:lastmodified":1466211272,
     "wof:name":"J\u00fcrg Stahel Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.63655,47.696205,8.63655,47.696205],
+  "bbox": [
+    8.63655,
+    47.696205,
+    8.63655,
+    47.696205
+],
   "geometry": {"coordinates":[8.63655,47.696205],"type":"Point"}
 }

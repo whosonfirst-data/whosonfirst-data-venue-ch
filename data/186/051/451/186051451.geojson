@@ -2,13 +2,14 @@
   "id": 186051451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.648384,46.506611,6.648384,46.506611",
     "geom:latitude":46.506611,
     "geom:longitude":6.648384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue G\u00e9n\u00e9ral-guisan 46 1009 Pully. Postfach",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186051451,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1466210077,
     "wof:name":"Demaro Sa",
     "wof:parent_id":85799869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.648384,46.506611,6.648384,46.506611],
+  "bbox": [
+    6.648384,
+    46.506611,
+    6.648384,
+    46.506611
+],
   "geometry": {"coordinates":[6.648384,46.506611],"type":"Point"}
 }

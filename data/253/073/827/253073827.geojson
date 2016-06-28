@@ -2,13 +2,14 @@
   "id": 253073827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.142276,46.207996,6.142276,46.207996",
     "geom:latitude":46.207996,
     "geom:longitude":6.142276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Iles",
     "sg:city":"Aigle",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253073827,
-    "wof:lastmodified":1449063226,
+    "wof:lastmodified":1466209663,
     "wof:name":"Extensible Sa Combustibles",
     "wof:parent_id":85800395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.142276,46.207996,6.142276,46.207996],
+  "bbox": [
+    6.142276,
+    46.207996,
+    6.142276,
+    46.207996
+],
   "geometry": {"coordinates":[6.142276,46.207996],"type":"Point"}
 }

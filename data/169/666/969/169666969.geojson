@@ -2,13 +2,14 @@
   "id": 169666969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.264045,47.15094,7.264045,47.15094",
     "geom:latitude":47.15094,
     "geom:longitude":7.264045,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6zingenstrasse 122",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169666969,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1466210394,
     "wof:name":"Cendres & M\u00e9taux Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dental"
     ]
 },
-  "bbox": [7.264045,47.15094,7.264045,47.15094],
+  "bbox": [
+    7.264045,
+    47.15094,
+    7.264045,
+    47.15094
+],
   "geometry": {"coordinates":[7.264045,47.15094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236261983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.617098,47.05368,7.617098,47.05368",
     "geom:latitude":47.05368,
     "geom:longitude":7.617098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Minderweg 9",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236261983,
-    "wof:lastmodified":1449001719,
+    "wof:lastmodified":1466211476,
     "wof:name":"Kunsteisbahn Ag Burgdorf (keb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.617098,47.05368,7.617098,47.05368],
+  "bbox": [
+    7.617098,
+    47.05368,
+    7.617098,
+    47.05368
+],
   "geometry": {"coordinates":[7.617098,47.05368],"type":"Point"}
 }

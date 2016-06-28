@@ -2,13 +2,14 @@
   "id": 202864483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.552709,47.355022,8.552709,47.355022",
     "geom:latitude":47.355022,
     "geom:longitude":8.552709,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellerivestrasse 67 8000 Z\u00fcrich. Postfach 420",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202864483,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466211867,
     "wof:name":"Stierli Christoph & Partner Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.552709,47.355022,8.552709,47.355022],
+  "bbox": [
+    8.552709,
+    47.355022,
+    8.552709,
+    47.355022
+],
   "geometry": {"coordinates":[8.552709,47.355022],"type":"Point"}
 }

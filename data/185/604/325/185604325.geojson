@@ -2,13 +2,14 @@
   "id": 185604325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.67915,46.631481,6.67915,46.631481",
     "geom:latitude":46.631481,
     "geom:longitude":6.67915,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Oulens-echallens Case Postale 26",
     "sg:city":"Oulens-echallens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185604325,
-    "wof:lastmodified":1449008036,
+    "wof:lastmodified":1466209101,
     "wof:name":"Isds Oulens Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.67915,46.631481,6.67915,46.631481],
+  "bbox": [
+    6.67915,
+    46.631481,
+    6.67915,
+    46.631481
+],
   "geometry": {"coordinates":[6.67915,46.631481],"type":"Point"}
 }

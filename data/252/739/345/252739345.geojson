@@ -2,13 +2,14 @@
   "id": 252739345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.900107,47.482788,8.900107,47.482788",
     "geom:latitude":47.482788,
     "geom:longitude":8.900107,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stichstrasse 3",
     "sg:city":"Ettenhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252739345,
-    "wof:lastmodified":1449005868,
+    "wof:lastmodified":1466209216,
     "wof:name":"Hkm-service Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.900107,47.482788,8.900107,47.482788],
+  "bbox": [
+    8.900107,
+    47.482788,
+    8.900107,
+    47.482788
+],
   "geometry": {"coordinates":[8.900107,47.482788],"type":"Point"}
 }

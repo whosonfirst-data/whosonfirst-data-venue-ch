@@ -2,13 +2,14 @@
   "id": 219591555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.9876,47.098782,6.9876,47.098782",
     "geom:latitude":47.098782,
     "geom:longitude":6.9876,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le P\u00e2quier",
     "sg:city":"Le P\u00e2quier",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219591555,
-    "wof:lastmodified":1449072268,
+    "wof:lastmodified":1466211999,
     "wof:name":"Raiffeisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.9876,47.098782,6.9876,47.098782],
+  "bbox": [
+    6.9876,
+    47.098782,
+    6.9876,
+    47.098782
+],
   "geometry": {"coordinates":[6.9876,47.098782],"type":"Point"}
 }

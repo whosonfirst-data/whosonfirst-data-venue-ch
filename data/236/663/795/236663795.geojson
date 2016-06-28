@@ -2,13 +2,14 @@
   "id": 236663795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517425,47.381596,8.517425,47.381596",
     "geom:latitude":47.381596,
     "geom:longitude":8.517425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohlstrasse 204",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236663795,
-    "wof:lastmodified":1449004195,
+    "wof:lastmodified":1466212772,
     "wof:name":"Pizza Kurier Spk Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.517425,47.381596,8.517425,47.381596],
+  "bbox": [
+    8.517425,
+    47.381596,
+    8.517425,
+    47.381596
+],
   "geometry": {"coordinates":[8.517425,47.381596],"type":"Point"}
 }

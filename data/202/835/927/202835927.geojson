@@ -2,13 +2,14 @@
   "id": 202835927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522119,47.362766,8.522119,47.362766",
     "geom:latitude":47.362766,
     "geom:longitude":8.522119,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Manessestrasse 152 8045 Z\u00fcrich. Postfach 8045 Z\u00fcrich",
     "sg:city":"Zust",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202835927,
-    "wof:lastmodified":1449060472,
+    "wof:lastmodified":1466211852,
     "wof:name":"J\u00e4ger Z\u00e4h Architekten Gmbh Hochbauten; Planung, Projektierung, Realisation",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522119,47.362766,8.522119,47.362766],
+  "bbox": [
+    8.522119,
+    47.362766,
+    8.522119,
+    47.362766
+],
   "geometry": {"coordinates":[8.522119,47.362766],"type":"Point"}
 }

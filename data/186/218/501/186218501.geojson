@@ -2,13 +2,14 @@
   "id": 186218501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.710869,47.330784,8.710869,47.330784",
     "geom:latitude":47.330784,
     "geom:longitude":8.710869,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedikerstrasse 94 8616 Riedikon. Postfach",
     "sg:city":"Riedikon",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186218501,
-    "wof:lastmodified":1449052076,
+    "wof:lastmodified":1466209229,
     "wof:name":"Steiger Bauconsulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.710869,47.330784,8.710869,47.330784],
+  "bbox": [
+    8.710869,
+    47.330784,
+    8.710869,
+    47.330784
+],
   "geometry": {"coordinates":[8.710869,47.330784],"type":"Point"}
 }

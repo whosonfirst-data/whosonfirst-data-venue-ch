@@ -2,13 +2,14 @@
   "id": 202800745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.359433,46.232563,7.359433,46.232563",
     "geom:latitude":46.232563,
     "geom:longitude":7.359433,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Lausanne 15",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202800745,
-    "wof:lastmodified":1449060317,
+    "wof:lastmodified":1466211525,
     "wof:name":"Atelier D'architecture Meier Hans Et Linus Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.359433,46.232563,7.359433,46.232563],
+  "bbox": [
+    7.359433,
+    46.232563,
+    7.359433,
+    46.232563
+],
   "geometry": {"coordinates":[7.359433,46.232563],"type":"Point"}
 }

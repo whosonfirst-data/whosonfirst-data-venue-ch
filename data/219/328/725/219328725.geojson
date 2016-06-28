@@ -2,13 +2,14 @@
   "id": 219328725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.212551,46.818913,7.212551,46.818913",
     "geom:latitude":46.818913,
     "geom:longitude":7.212551,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mariahilfstrasse 15",
     "sg:city":"Tafers",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219328725,
-    "wof:lastmodified":1449072464,
+    "wof:lastmodified":1466209512,
     "wof:name":"Hans Stoll Garage & Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.212551,46.818913,7.212551,46.818913],
+  "bbox": [
+    7.212551,
+    46.818913,
+    7.212551,
+    46.818913
+],
   "geometry": {"coordinates":[7.212551,46.818913],"type":"Point"}
 }

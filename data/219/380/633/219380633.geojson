@@ -2,13 +2,14 @@
   "id": 219380633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.095832,47.215313,8.095832,47.215313",
     "geom:latitude":47.215313,
     "geom:longitude":8.095832,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterbach 1",
     "sg:city":"B\u00fcron",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219380633,
-    "wof:lastmodified":1449072031,
+    "wof:lastmodified":1466209990,
     "wof:name":"Bachmann & Egger Carreisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.095832,47.215313,8.095832,47.215313],
+  "bbox": [
+    8.095832,
+    47.215313,
+    8.095832,
+    47.215313
+],
   "geometry": {"coordinates":[8.095832,47.215313],"type":"Point"}
 }

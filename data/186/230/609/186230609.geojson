@@ -2,13 +2,14 @@
   "id": 186230609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.588338,47.34761,8.588338,47.34761",
     "geom:latitude":47.34761,
     "geom:longitude":8.588338,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Forchstrasse 456",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186230609,
-    "wof:lastmodified":1449052341,
+    "wof:lastmodified":1466209325,
     "wof:name":"Trias Wohnbau Ag",
     "wof:parent_id":85800647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.588338,47.34761,8.588338,47.34761],
+  "bbox": [
+    8.588338,
+    47.34761,
+    8.588338,
+    47.34761
+],
   "geometry": {"coordinates":[8.588338,47.34761],"type":"Point"}
 }

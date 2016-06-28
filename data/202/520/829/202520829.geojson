@@ -2,13 +2,14 @@
   "id": 202520829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.155096,46.255169,6.155096,46.255169",
     "geom:latitude":46.255169,
     "geom:longitude":6.155096,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lausanne Route De 337",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202520829,
-    "wof:lastmodified":1449060943,
+    "wof:lastmodified":1466208916,
     "wof:name":"Gp Services Sa, Port-louis, Succursale De Bellevue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.155096,46.255169,6.155096,46.255169],
+  "bbox": [
+    6.155096,
+    46.255169,
+    6.155096,
+    46.255169
+],
   "geometry": {"coordinates":[6.155096,46.255169],"type":"Point"}
 }

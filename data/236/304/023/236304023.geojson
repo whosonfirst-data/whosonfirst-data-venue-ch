@@ -2,13 +2,14 @@
   "id": 236304023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536776,47.40192,8.536776,47.40192",
     "geom:latitude":47.40192,
     "geom:longitude":8.536776,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenwies 17",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236304023,
-    "wof:lastmodified":1449004232,
+    "wof:lastmodified":1466211735,
     "wof:name":"Karoly Tanacs Taxi Allenmoos",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536776,47.40192,8.536776,47.40192],
+  "bbox": [
+    8.536776,
+    47.40192,
+    8.536776,
+    47.40192
+],
   "geometry": {"coordinates":[8.536776,47.40192],"type":"Point"}
 }

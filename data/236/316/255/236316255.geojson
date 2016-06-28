@@ -2,13 +2,14 @@
   "id": 236316255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.653333,47.70047,8.653333,47.70047",
     "geom:latitude":47.70047,
     "geom:longitude":8.653333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkelriedstrasse 16",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236316255,
-    "wof:lastmodified":1449003972,
+    "wof:lastmodified":1466211825,
     "wof:name":"Schulbus Klingler H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.653333,47.70047,8.653333,47.70047],
+  "bbox": [
+    8.653333,
+    47.70047,
+    8.653333,
+    47.70047
+],
   "geometry": {"coordinates":[8.653333,47.70047],"type":"Point"}
 }

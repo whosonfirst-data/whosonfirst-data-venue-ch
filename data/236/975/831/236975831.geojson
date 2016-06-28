@@ -2,13 +2,14 @@
   "id": 236975831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.541176,47.409111,8.541176,47.409111",
     "geom:latitude":47.409111,
     "geom:longitude":8.541176,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gubelstrasse 59",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236975831,
-    "wof:lastmodified":1449004696,
+    "wof:lastmodified":1466213057,
     "wof:name":"One Net Gmbh",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.541176,47.409111,8.541176,47.409111],
+  "bbox": [
+    8.541176,
+    47.409111,
+    8.541176,
+    47.409111
+],
   "geometry": {"coordinates":[8.541176,47.409111],"type":"Point"}
 }

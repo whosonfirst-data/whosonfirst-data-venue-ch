@@ -2,13 +2,14 @@
   "id": 185793143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.94376,46.017159,8.94376,46.017159",
     "geom:latitude":46.017159,
     "geom:longitude":8.94376,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Maraini 27",
     "sg:city":"Savosa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185793143,
-    "wof:lastmodified":1449007499,
+    "wof:lastmodified":1466209064,
     "wof:name":"Piero Rusca Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.94376,46.017159,8.94376,46.017159],
+  "bbox": [
+    8.94376,
+    46.017159,
+    8.94376,
+    46.017159
+],
   "geometry": {"coordinates":[8.94376,46.017159],"type":"Point"}
 }

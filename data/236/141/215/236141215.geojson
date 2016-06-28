@@ -2,13 +2,14 @@
   "id": 236141215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.946348,46.248344,6.946348,46.248344",
     "geom:latitude":46.248344,
     "geom:longitude":6.946348,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Chili 29",
     "sg:city":"Monthey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236141215,
-    "wof:lastmodified":1449002671,
+    "wof:lastmodified":1466210170,
     "wof:name":"Rithner & Cie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beekeeping"
     ]
 },
-  "bbox": [6.946348,46.248344,6.946348,46.248344],
+  "bbox": [
+    6.946348,
+    46.248344,
+    6.946348,
+    46.248344
+],
   "geometry": {"coordinates":[6.946348,46.248344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185645257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.33856,47.076244,8.33856,47.076244",
     "geom:latitude":47.076244,
     "geom:longitude":8.33856,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sagenstrasse 5",
     "sg:city":"Ebikon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185645257,
-    "wof:lastmodified":1449006775,
+    "wof:lastmodified":1466211661,
     "wof:name":"Inform Pr B\u00fcro",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [8.33856,47.076244,8.33856,47.076244],
+  "bbox": [
+    8.33856,
+    47.076244,
+    8.33856,
+    47.076244
+],
   "geometry": {"coordinates":[8.33856,47.076244],"type":"Point"}
 }

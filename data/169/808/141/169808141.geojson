@@ -2,13 +2,14 @@
   "id": 169808141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.317385,47.297852,8.317385,47.297852",
     "geom:latitude":47.297852,
     "geom:longitude":8.317385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grundweg 5",
     "sg:city":"Boswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169808141,
-    "wof:lastmodified":1449032846,
+    "wof:lastmodified":1466209127,
     "wof:name":"Ruepp Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.317385,47.297852,8.317385,47.297852],
+  "bbox": [
+    8.317385,
+    47.297852,
+    8.317385,
+    47.297852
+],
   "geometry": {"coordinates":[8.317385,47.297852],"type":"Point"}
 }

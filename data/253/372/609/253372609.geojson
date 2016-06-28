@@ -2,13 +2,14 @@
   "id": 253372609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.158647,46.804382,7.158647,46.804382",
     "geom:latitude":46.804382,
     "geom:longitude":7.158647,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue La Grand-fontaine 38",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253372609,
-    "wof:lastmodified":1449064600,
+    "wof:lastmodified":1466212169,
     "wof:name":"Nueva Utopia, Jung Wilma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.158647,46.804382,7.158647,46.804382],
+  "bbox": [
+    7.158647,
+    46.804382,
+    7.158647,
+    46.804382
+],
   "geometry": {"coordinates":[7.158647,46.804382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169806743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.792085,47.132145,8.792085,47.132145",
     "geom:latitude":47.132145,
     "geom:longitude":8.792085,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuchsbergstrasse 14 8846 Willerzell. Postfach",
     "sg:city":"Willerzell",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169806743,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466209117,
     "wof:name":"Peter Sch\u00f6nb\u00e4chler-betschart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.792085,47.132145,8.792085,47.132145],
+  "bbox": [
+    8.792085,
+    47.132145,
+    8.792085,
+    47.132145
+],
   "geometry": {"coordinates":[8.792085,47.132145],"type":"Point"}
 }

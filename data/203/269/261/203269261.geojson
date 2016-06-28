@@ -2,13 +2,14 @@
   "id": 203269261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.246626,46.897121,8.246626,46.897121",
     "geom:latitude":46.897121,
     "geom:longitude":8.246626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenhof 2",
     "sg:city":"Sarnen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203269261,
-    "wof:lastmodified":1449026148,
+    "wof:lastmodified":1466210219,
     "wof:name":"Dr.med.alfons F\u00e4ssler Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.246626,46.897121,8.246626,46.897121],
+  "bbox": [
+    8.246626,
+    46.897121,
+    8.246626,
+    46.897121
+],
   "geometry": {"coordinates":[8.246626,46.897121],"type":"Point"}
 }

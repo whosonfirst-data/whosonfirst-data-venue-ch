@@ -2,13 +2,14 @@
   "id": 236480169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.105718,46.229107,6.105718,46.229107",
     "geom:latitude":46.229107,
     "geom:longitude":6.105718,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De L'a\u00e9roport 10 1217 Meyrin. Postfach",
     "sg:city":"Meyrin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236480169,
-    "wof:lastmodified":1449002576,
+    "wof:lastmodified":1466212390,
     "wof:name":"Cssa Chartering And Shipping Services Sa Affr\u00e9ter Et Fr\u00e9ter \u00e0 Terme Ou Au Voyage Des Navires Pour Le Transport D'hydrocarbures, De Produits Chimiques Ou De Marchandises Appartenant \u00e0 Des Soci\u00e9t\u00e9s Etc",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.105718,46.229107,6.105718,46.229107],
+  "bbox": [
+    6.105718,
+    46.229107,
+    6.105718,
+    46.229107
+],
   "geometry": {"coordinates":[6.105718,46.229107],"type":"Point"}
 }

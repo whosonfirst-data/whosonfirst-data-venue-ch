@@ -2,13 +2,14 @@
   "id": 236500541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.893171,46.979836,6.893171,46.979836",
     "geom:latitude":46.979836,
     "geom:longitude":6.893171,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Clos 154",
     "sg:city":"Auvernier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236500541,
-    "wof:lastmodified":1449002297,
+    "wof:lastmodified":1466212525,
     "wof:name":"Claude Botteron Horticulteur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.893171,46.979836,6.893171,46.979836],
+  "bbox": [
+    6.893171,
+    46.979836,
+    6.893171,
+    46.979836
+],
   "geometry": {"coordinates":[6.893171,46.979836],"type":"Point"}
 }

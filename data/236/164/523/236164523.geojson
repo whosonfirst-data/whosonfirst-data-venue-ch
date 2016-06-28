@@ -2,13 +2,14 @@
   "id": 236164523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.434015,46.943935,7.434015,46.943935",
     "geom:latitude":46.943935,
     "geom:longitude":7.434015,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarztorstrasse 26 3007 Bern. Postfach 8166",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236164523,
-    "wof:lastmodified":1449001971,
+    "wof:lastmodified":1466210417,
     "wof:name":"Schweizerisches Institut F\u00fcr Unternehmerschulung Im Gewerbe",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.434015,46.943935,7.434015,46.943935],
+  "bbox": [
+    7.434015,
+    46.943935,
+    7.434015,
+    46.943935
+],
   "geometry": {"coordinates":[7.434015,46.943935],"type":"Point"}
 }

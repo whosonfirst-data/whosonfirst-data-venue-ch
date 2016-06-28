@@ -2,13 +2,14 @@
   "id": 252795795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.546146,47.370735,8.546146,47.370735",
     "geom:latitude":47.370735,
     "geom:longitude":8.546146,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 31",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252795795,
-    "wof:lastmodified":1449006070,
+    "wof:lastmodified":1466209859,
     "wof:name":"Galerie Fortuna, Sz\u00e9ch\u00e9nyi Margrit Galerie F\u00fcr Alte Kunst",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.546146,47.370735,8.546146,47.370735],
+  "bbox": [
+    8.546146,
+    47.370735,
+    8.546146,
+    47.370735
+],
   "geometry": {"coordinates":[8.546146,47.370735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236243235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.558832,47.41848,8.558832,47.41848",
     "geom:latitude":47.41848,
     "geom:longitude":8.558832,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4renmoosstrasse 105 8052 Z\u00fcrich. Postfach",
     "sg:city":"Seebach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236243235,
-    "wof:lastmodified":1449002567,
+    "wof:lastmodified":1466211291,
     "wof:name":"Audiokraftwerk Grasmugg & Filaferro",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.558832,47.41848,8.558832,47.41848],
+  "bbox": [
+    8.558832,
+    47.41848,
+    8.558832,
+    47.41848
+],
   "geometry": {"coordinates":[8.558832,47.41848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186366011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585329,47.546196,7.585329,47.546196",
     "geom:latitude":47.546196,
     "geom:longitude":7.585329,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcterstrasse 88 4053 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186366011,
-    "wof:lastmodified":1449052315,
+    "wof:lastmodified":1466210330,
     "wof:name":"Hydrojet Ag",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.585329,47.546196,7.585329,47.546196],
+  "bbox": [
+    7.585329,
+    47.546196,
+    7.585329,
+    47.546196
+],
   "geometry": {"coordinates":[7.585329,47.546196],"type":"Point"}
 }

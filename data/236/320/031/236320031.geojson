@@ -2,13 +2,14 @@
   "id": 236320031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.957225,47.367935,7.957225,47.367935",
     "geom:latitude":47.367935,
     "geom:longitude":7.957225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenzackerweg 10 4653 Oberg\u00f6sgen. Postfach",
     "sg:city":"Oberg\u00f6sgen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236320031,
-    "wof:lastmodified":1449002306,
+    "wof:lastmodified":1466211855,
     "wof:name":"Taxi Falke Turrian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.957225,47.367935,7.957225,47.367935],
+  "bbox": [
+    7.957225,
+    47.367935,
+    7.957225,
+    47.367935
+],
   "geometry": {"coordinates":[7.957225,47.367935],"type":"Point"}
 }

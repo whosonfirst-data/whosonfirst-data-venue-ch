@@ -2,13 +2,14 @@
   "id": 202508449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.57653,46.536366,6.57653,46.536366",
     "geom:latitude":46.536366,
     "geom:longitude":6.57653,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Tir F\u00e9d\u00e9ral 12",
     "sg:city":"Chavannes-renens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202508449,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466211529,
     "wof:name":"Gapany Fr\u00e8res, Ing\u00e9nieurs E.p.f.z.",
     "wof:parent_id":85800443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.57653,46.536366,6.57653,46.536366],
+  "bbox": [
+    6.57653,
+    46.536366,
+    6.57653,
+    46.536366
+],
   "geometry": {"coordinates":[6.57653,46.536366],"type":"Point"}
 }

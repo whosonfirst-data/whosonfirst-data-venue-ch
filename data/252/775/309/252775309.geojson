@@ -2,13 +2,14 @@
   "id": 252775309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545347,47.370159,8.545347,47.370159",
     "geom:latitude":47.370159,
     "geom:longitude":8.545347,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 26",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252775309,
-    "wof:lastmodified":1449006203,
+    "wof:lastmodified":1466209614,
     "wof:name":"Elisabeth Anderegg Antiquit\u00e4ten",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545347,47.370159,8.545347,47.370159],
+  "bbox": [
+    8.545347,
+    47.370159,
+    8.545347,
+    47.370159
+],
   "geometry": {"coordinates":[8.545347,47.370159],"type":"Point"}
 }

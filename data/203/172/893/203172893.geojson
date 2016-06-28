@@ -2,13 +2,14 @@
   "id": 203172893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.133281,46.187801,6.133281,46.187801",
     "geom:latitude":46.187801,
     "geom:longitude":6.133281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 5",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203172893,
-    "wof:lastmodified":1449025683,
+    "wof:lastmodified":1466209170,
     "wof:name":"Dr M\u00e9d. Fran\u00e7ois Aud\u00e9tat M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.133281,46.187801,6.133281,46.187801],
+  "bbox": [
+    6.133281,
+    46.187801,
+    6.133281,
+    46.187801
+],
   "geometry": {"coordinates":[6.133281,46.187801],"type":"Point"}
 }

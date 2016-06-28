@@ -2,13 +2,14 @@
   "id": 203033505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.442278,46.949745,7.442278,46.949745",
     "geom:latitude":46.949745,
     "geom:longitude":7.442278,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergergasse 40",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203033505,
-    "wof:lastmodified":1449025330,
+    "wof:lastmodified":1466209834,
     "wof:name":"Leserf Architekten Htl/stv",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.442278,46.949745,7.442278,46.949745],
+  "bbox": [
+    7.442278,
+    46.949745,
+    7.442278,
+    46.949745
+],
   "geometry": {"coordinates":[7.442278,46.949745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236922261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.022199,45.838135,9.022199,45.838135",
     "geom:latitude":45.838135,
     "geom:longitude":9.022199,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso San Gottardo 110",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236922261,
-    "wof:lastmodified":1449001897,
+    "wof:lastmodified":1466212901,
     "wof:name":"Lurati Dante Eredi Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.022199,45.838135,9.022199,45.838135],
+  "bbox": [
+    9.022199,
+    45.838135,
+    9.022199,
+    45.838135
+],
   "geometry": {"coordinates":[9.022199,45.838135],"type":"Point"}
 }

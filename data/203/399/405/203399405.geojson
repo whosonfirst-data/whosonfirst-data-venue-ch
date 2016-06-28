@@ -2,13 +2,14 @@
   "id": 203399405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.46922,47.434349,8.46922,47.434349",
     "geom:latitude":47.434349,
     "geom:longitude":8.46922,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stationsstrasse 20",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203399405,
-    "wof:lastmodified":1449025283,
+    "wof:lastmodified":1466211533,
     "wof:name":"Dr.med.robert Putzi Spezialarzt Fmh",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.46922,47.434349,8.46922,47.434349],
+  "bbox": [
+    8.46922,
+    47.434349,
+    8.46922,
+    47.434349
+],
   "geometry": {"coordinates":[8.46922,47.434349],"type":"Point"}
 }

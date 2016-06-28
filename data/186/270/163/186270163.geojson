@@ -2,13 +2,14 @@
   "id": 186270163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.510353,47.325348,8.510353,47.325348",
     "geom:latitude":47.325348,
     "geom:longitude":8.510353,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grossackerstrasse 62",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186270163,
-    "wof:lastmodified":1449050897,
+    "wof:lastmodified":1466209624,
     "wof:name":"Bissig Max Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.510353,47.325348,8.510353,47.325348],
+  "bbox": [
+    8.510353,
+    47.325348,
+    8.510353,
+    47.325348
+],
   "geometry": {"coordinates":[8.510353,47.325348],"type":"Point"}
 }

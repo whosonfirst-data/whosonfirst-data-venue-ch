@@ -2,13 +2,14 @@
   "id": 236207121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453467,46.948292,7.453467,46.948292",
     "geom:latitude":46.948292,
     "geom:longitude":7.453467,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerechtigkeitsgasse 58",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236207121,
-    "wof:lastmodified":1449004059,
+    "wof:lastmodified":1466210879,
     "wof:name":"Utiger & Ryf Bestattungs Ag Bestattungen, Beerdigungen Usw",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453467,46.948292,7.453467,46.948292],
+  "bbox": [
+    7.453467,
+    46.948292,
+    7.453467,
+    46.948292
+],
   "geometry": {"coordinates":[7.453467,46.948292],"type":"Point"}
 }

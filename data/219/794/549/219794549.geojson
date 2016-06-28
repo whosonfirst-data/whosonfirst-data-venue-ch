@@ -2,13 +2,14 @@
   "id": 219794549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.961571,46.00695,8.961571,46.00695",
     "geom:latitude":46.00695,
     "geom:longitude":8.961571,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Campo Marzio 3",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219794549,
-    "wof:lastmodified":1449072085,
+    "wof:lastmodified":1466212450,
     "wof:name":"Campo Marzio Bar Quadranti Elda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.961571,46.00695,8.961571,46.00695],
+  "bbox": [
+    8.961571,
+    46.00695,
+    8.961571,
+    46.00695
+],
   "geometry": {"coordinates":[8.961571,46.00695],"type":"Point"}
 }

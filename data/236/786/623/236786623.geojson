@@ -2,13 +2,14 @@
   "id": 236786623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.464539,47.449203,8.464539,47.449203",
     "geom:latitude":47.449203,
     "geom:longitude":8.464539,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grubenstr. 12",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236786623,
-    "wof:lastmodified":1449001998,
+    "wof:lastmodified":1466212892,
     "wof:name":"Landi Regensdorf Und Umgebung",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [8.464539,47.449203,8.464539,47.449203],
+  "bbox": [
+    8.464539,
+    47.449203,
+    8.464539,
+    47.449203
+],
   "geometry": {"coordinates":[8.464539,47.449203],"type":"Point"}
 }

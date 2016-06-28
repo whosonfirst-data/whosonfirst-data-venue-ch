@@ -2,13 +2,14 @@
   "id": 186032861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.326409,47.15131,8.326409,47.15131",
     "geom:latitude":47.15131,
     "geom:longitude":8.326409,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mettenwil 8",
     "sg:city":"Ballwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186032861,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1466209751,
     "wof:name":"Burch Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.326409,47.15131,8.326409,47.15131],
+  "bbox": [
+    8.326409,
+    47.15131,
+    8.326409,
+    47.15131
+],
   "geometry": {"coordinates":[8.326409,47.15131],"type":"Point"}
 }

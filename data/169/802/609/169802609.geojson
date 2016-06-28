@@ -2,13 +2,14 @@
   "id": 169802609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.262887,47.056942,7.262887,47.056942",
     "geom:latitude":47.056942,
     "geom:longitude":7.262887,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberzelgli 4 3273 Kappelen. Postfach",
     "sg:city":"Kappelen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169802609,
-    "wof:lastmodified":1449035341,
+    "wof:lastmodified":1466209089,
     "wof:name":"Hofmann Kappelen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.262887,47.056942,7.262887,47.056942],
+  "bbox": [
+    7.262887,
+    47.056942,
+    7.262887,
+    47.056942
+],
   "geometry": {"coordinates":[7.262887,47.056942],"type":"Point"}
 }

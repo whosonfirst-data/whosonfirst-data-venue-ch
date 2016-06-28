@@ -2,13 +2,14 @@
   "id": 219339843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.245317,47.584633,8.245317,47.584633",
     "geom:latitude":47.584633,
     "geom:longitude":8.245317,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Koblenzerstrasse 40",
     "sg:city":"Klingnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219339843,
-    "wof:lastmodified":1449071969,
+    "wof:lastmodified":1466209610,
     "wof:name":"Arte Garage Gervasoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.245317,47.584633,8.245317,47.584633],
+  "bbox": [
+    8.245317,
+    47.584633,
+    8.245317,
+    47.584633
+],
   "geometry": {"coordinates":[8.245317,47.584633],"type":"Point"}
 }

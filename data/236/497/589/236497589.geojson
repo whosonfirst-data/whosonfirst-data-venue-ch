@@ -2,13 +2,14 @@
   "id": 236497589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.342391,47.081192,8.342391,47.081192",
     "geom:latitude":47.081192,
     "geom:longitude":8.342391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Annastrasse 4",
     "sg:city":"Ebikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236497589,
-    "wof:lastmodified":1449005194,
+    "wof:lastmodified":1466212450,
     "wof:name":"Franz Ziswyler",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.342391,47.081192,8.342391,47.081192],
+  "bbox": [
+    8.342391,
+    47.081192,
+    8.342391,
+    47.081192
+],
   "geometry": {"coordinates":[8.342391,47.081192],"type":"Point"}
 }

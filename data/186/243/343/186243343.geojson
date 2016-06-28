@@ -2,13 +2,14 @@
   "id": 186243343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.11629,47.38274,8.11629,47.38274",
     "geom:latitude":47.38274,
     "geom:longitude":8.11629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"5502",
     "sg:city":"Hunzenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186243343,
-    "wof:lastmodified":1449051262,
+    "wof:lastmodified":1466209421,
     "wof:name":"Walo Bertschinger Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.11629,47.38274,8.11629,47.38274],
+  "bbox": [
+    8.11629,
+    47.38274,
+    8.11629,
+    47.38274
+],
   "geometry": {"coordinates":[8.11629,47.38274],"type":"Point"}
 }

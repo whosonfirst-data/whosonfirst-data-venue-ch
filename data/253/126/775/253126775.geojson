@@ -2,13 +2,14 @@
   "id": 253126775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.370694,46.939781,7.370694,46.939781",
     "geom:latitude":46.939781,
     "geom:longitude":7.370694,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Br\u00fcnnenstrasse 126 Zentrum B\u00fcmpliz",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253126775,
-    "wof:lastmodified":1449063922,
+    "wof:lastmodified":1466210221,
     "wof:name":"H\u00f6rger\u00e4te-akustik R.a.schmid",
     "wof:parent_id":85800343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.370694,46.939781,7.370694,46.939781],
+  "bbox": [
+    7.370694,
+    46.939781,
+    7.370694,
+    46.939781
+],
   "geometry": {"coordinates":[7.370694,46.939781],"type":"Point"}
 }

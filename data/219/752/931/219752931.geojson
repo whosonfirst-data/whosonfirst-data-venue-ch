@@ -2,13 +2,14 @@
   "id": 219752931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.796742,46.169533,8.796742,46.169533",
     "geom:latitude":46.169533,
     "geom:longitude":8.796742,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Grande 1",
     "sg:city":"Locarno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219752931,
-    "wof:lastmodified":1449070982,
+    "wof:lastmodified":1466212284,
     "wof:name":"Unione Di Banche Svizzere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.796742,46.169533,8.796742,46.169533],
+  "bbox": [
+    8.796742,
+    46.169533,
+    8.796742,
+    46.169533
+],
   "geometry": {"coordinates":[8.796742,46.169533],"type":"Point"}
 }

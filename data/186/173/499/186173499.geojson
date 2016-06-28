@@ -2,13 +2,14 @@
   "id": 186173499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539947,47.307056,8.539947,47.307056",
     "geom:latitude":47.307056,
     "geom:longitude":8.539947,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Kopfholzstrasse 12",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186173499,
-    "wof:lastmodified":1449050922,
+    "wof:lastmodified":1466211583,
     "wof:name":"Piller & Co",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.539947,47.307056,8.539947,47.307056],
+  "bbox": [
+    8.539947,
+    47.307056,
+    8.539947,
+    47.307056
+],
   "geometry": {"coordinates":[8.539947,47.307056],"type":"Point"}
 }

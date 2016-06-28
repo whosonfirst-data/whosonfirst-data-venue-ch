@@ -2,13 +2,14 @@
   "id": 185907633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.490612,47.375187,8.490612,47.375187",
     "geom:latitude":47.375187,
     "geom:longitude":8.490612,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fellenbergstrasse 289",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185907633,
-    "wof:lastmodified":1449008096,
+    "wof:lastmodified":1466209905,
     "wof:name":"Max Sch\u00f6nenberg & Partner Ag",
     "wof:parent_id":85799695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.490612,47.375187,8.490612,47.375187],
+  "bbox": [
+    8.490612,
+    47.375187,
+    8.490612,
+    47.375187
+],
   "geometry": {"coordinates":[8.490612,47.375187],"type":"Point"}
 }

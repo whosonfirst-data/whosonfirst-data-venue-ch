@@ -2,13 +2,14 @@
   "id": 252920905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.882426,46.865002,9.882426,46.865002",
     "geom:latitude":46.865002,
     "geom:longitude":9.882426,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 201",
     "sg:city":"Klosters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252920905,
-    "wof:lastmodified":1449006262,
+    "wof:lastmodified":1466211229,
     "wof:name":"Pierre Wunderlin Wunderlin Sport & Mode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.882426,46.865002,9.882426,46.865002],
+  "bbox": [
+    9.882426,
+    46.865002,
+    9.882426,
+    46.865002
+],
   "geometry": {"coordinates":[9.882426,46.865002],"type":"Point"}
 }

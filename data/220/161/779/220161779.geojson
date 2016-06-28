@@ -2,13 +2,14 @@
   "id": 220161779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.767974,47.134602,7.767974,47.134602",
     "geom:latitude":47.134602,
     "geom:longitude":7.767974,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Breiten 161",
     "sg:city":"Ursenbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220161779,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466210259,
     "wof:name":"Walter Thomann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.767974,47.134602,7.767974,47.134602],
+  "bbox": [
+    7.767974,
+    47.134602,
+    7.767974,
+    47.134602
+],
   "geometry": {"coordinates":[7.767974,47.134602],"type":"Point"}
 }

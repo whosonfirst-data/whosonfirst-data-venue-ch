@@ -2,13 +2,14 @@
   "id": 186605335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455271,46.948864,7.455271,46.948864",
     "geom:latitude":46.948864,
     "geom:longitude":7.455271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hungerbergstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186605335,
-    "wof:lastmodified":1449051678,
+    "wof:lastmodified":1466211984,
     "wof:name":"Sekretariat Sfdml",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455271,46.948864,7.455271,46.948864],
+  "bbox": [
+    7.455271,
+    46.948864,
+    7.455271,
+    46.948864
+],
   "geometry": {"coordinates":[7.455271,46.948864],"type":"Point"}
 }

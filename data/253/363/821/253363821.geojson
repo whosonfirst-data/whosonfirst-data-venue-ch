@@ -2,13 +2,14 @@
   "id": 253363821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048523,47.282486,8.048523,47.282486",
     "geom:latitude":47.282486,
     "geom:longitude":8.048523,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenweg 312",
     "sg:city":"Staffelbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253363821,
-    "wof:lastmodified":1449065417,
+    "wof:lastmodified":1466212146,
     "wof:name":"Scompas Kern Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.048523,47.282486,8.048523,47.282486],
+  "bbox": [
+    8.048523,
+    47.282486,
+    8.048523,
+    47.282486
+],
   "geometry": {"coordinates":[8.048523,47.282486],"type":"Point"}
 }

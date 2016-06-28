@@ -2,13 +2,14 @@
   "id": 236489331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.754252,47.49638,8.754252,47.49638",
     "geom:latitude":47.49638,
     "geom:longitude":8.754252,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 24",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236489331,
-    "wof:lastmodified":1449003464,
+    "wof:lastmodified":1466212564,
     "wof:name":"Eric Schweizer Samen Ag",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.754252,47.49638,8.754252,47.49638],
+  "bbox": [
+    8.754252,
+    47.49638,
+    8.754252,
+    47.49638
+],
   "geometry": {"coordinates":[8.754252,47.49638],"type":"Point"}
 }

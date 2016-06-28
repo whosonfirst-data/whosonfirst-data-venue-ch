@@ -2,13 +2,14 @@
   "id": 203178503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5315,46.29361,7.5315,46.29361",
     "geom:latitude":46.29361,
     "geom:longitude":7.5315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Rothorn 20",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203178503,
-    "wof:lastmodified":1449026329,
+    "wof:lastmodified":1466209232,
     "wof:name":"Dr M\u00e9d. Etienne Coquoz M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.5315,46.29361,7.5315,46.29361],
+  "bbox": [
+    7.5315,
+    46.29361,
+    7.5315,
+    46.29361
+],
   "geometry": {"coordinates":[7.5315,46.29361],"type":"Point"}
 }

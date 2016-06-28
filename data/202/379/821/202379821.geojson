@@ -2,13 +2,14 @@
   "id": 202379821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.44298,46.832516,9.44298,46.832516",
     "geom:latitude":46.832516,
     "geom:longitude":9.44298,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Montalin Via 12",
     "sg:city":"Domat/ems",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202379821,
-    "wof:lastmodified":1449061592,
+    "wof:lastmodified":1466209161,
     "wof:name":"Archobau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.44298,46.832516,9.44298,46.832516],
+  "bbox": [
+    9.44298,
+    46.832516,
+    9.44298,
+    46.832516
+],
   "geometry": {"coordinates":[9.44298,46.832516],"type":"Point"}
 }

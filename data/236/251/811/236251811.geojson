@@ -2,13 +2,14 @@
   "id": 236251811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627574,46.761627,7.627574,46.761627",
     "geom:latitude":46.761627,
     "geom:longitude":7.627574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenstrasse 6 3600 Thun. Postfach 1112",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236251811,
-    "wof:lastmodified":1449001724,
+    "wof:lastmodified":1466211382,
     "wof:name":"Curlinghalle Grabengut Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627574,46.761627,7.627574,46.761627],
+  "bbox": [
+    7.627574,
+    46.761627,
+    7.627574,
+    46.761627
+],
   "geometry": {"coordinates":[7.627574,46.761627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219753937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44821,46.948021,7.44821,46.948021",
     "geom:latitude":46.948021,
     "geom:longitude":7.44821,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 5333 Bundesplatz 4",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219753937,
-    "wof:lastmodified":1449070804,
+    "wof:lastmodified":1466212291,
     "wof:name":"Valiant Bank",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44821,46.948021,7.44821,46.948021],
+  "bbox": [
+    7.44821,
+    46.948021,
+    7.44821,
+    46.948021
+],
   "geometry": {"coordinates":[7.44821,46.948021],"type":"Point"}
 }

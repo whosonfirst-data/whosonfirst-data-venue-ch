@@ -2,13 +2,14 @@
   "id": 203262431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.625215,47.054756,7.625215,47.054756",
     "geom:latitude":47.054756,
     "geom:longitude":7.625215,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Emmentalstrasse 14",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203262431,
-    "wof:lastmodified":1449026119,
+    "wof:lastmodified":1466210150,
     "wof:name":"Dr.med. Thomas Huber Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.625215,47.054756,7.625215,47.054756],
+  "bbox": [
+    7.625215,
+    47.054756,
+    7.625215,
+    47.054756
+],
   "geometry": {"coordinates":[7.625215,47.054756],"type":"Point"}
 }

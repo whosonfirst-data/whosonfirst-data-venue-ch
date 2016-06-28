@@ -2,13 +2,14 @@
   "id": 219443479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.429153,47.203869,8.429153,47.203869",
     "geom:latitude":47.203869,
     "geom:longitude":8.429153,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenthalstrasse 3",
     "sg:city":"Hagendorn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219443479,
-    "wof:lastmodified":1449073273,
+    "wof:lastmodified":1466210575,
     "wof:name":"Workfashion.com Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.429153,47.203869,8.429153,47.203869],
+  "bbox": [
+    8.429153,
+    47.203869,
+    8.429153,
+    47.203869
+],
   "geometry": {"coordinates":[8.429153,47.203869],"type":"Point"}
 }

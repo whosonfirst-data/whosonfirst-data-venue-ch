@@ -2,13 +2,14 @@
   "id": 169738057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551544,47.362385,8.551544,47.362385",
     "geom:latitude":47.362385,
     "geom:longitude":8.551544,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zimmergasse 17",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169738057,
-    "wof:lastmodified":1449035095,
+    "wof:lastmodified":1466211217,
     "wof:name":"Aeberli Treuhand Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "insurance"
     ]
 },
-  "bbox": [8.551544,47.362385,8.551544,47.362385],
+  "bbox": [
+    8.551544,
+    47.362385,
+    8.551544,
+    47.362385
+],
   "geometry": {"coordinates":[8.551544,47.362385],"type":"Point"}
 }

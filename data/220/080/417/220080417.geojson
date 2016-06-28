@@ -2,13 +2,14 @@
   "id": 220080417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.987692,46.740993,8.987692,46.740993",
     "geom:latitude":46.740993,
     "geom:longitude":8.987692,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pustget",
     "sg:city":"Trun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220080417,
-    "wof:lastmodified":1449074852,
+    "wof:lastmodified":1466209572,
     "wof:name":"Cagienard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.987692,46.740993,8.987692,46.740993],
+  "bbox": [
+    8.987692,
+    46.740993,
+    8.987692,
+    46.740993
+],
   "geometry": {"coordinates":[8.987692,46.740993],"type":"Point"}
 }

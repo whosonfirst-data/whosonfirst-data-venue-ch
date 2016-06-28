@@ -2,13 +2,14 @@
   "id": 236324903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.49249,46.51215,6.49249,46.51215",
     "geom:latitude":46.51215,
     "geom:longitude":6.49249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Marcelin 1bis",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236324903,
-    "wof:lastmodified":1449003595,
+    "wof:lastmodified":1466212091,
     "wof:name":"Taxis Sandor",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.49249,46.51215,6.49249,46.51215],
+  "bbox": [
+    6.49249,
+    46.51215,
+    6.49249,
+    46.51215
+],
   "geometry": {"coordinates":[6.49249,46.51215],"type":"Point"}
 }

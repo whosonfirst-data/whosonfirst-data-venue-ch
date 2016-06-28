@@ -2,13 +2,14 @@
   "id": 186472911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.454849,47.400753,8.454849,47.400753",
     "geom:latitude":47.400753,
     "geom:longitude":8.454849,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ifangstrasse 8",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186472911,
-    "wof:lastmodified":1449050458,
+    "wof:lastmodified":1466211196,
     "wof:name":"Ausgleichskasse Eisenwaren",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.454849,47.400753,8.454849,47.400753],
+  "bbox": [
+    8.454849,
+    47.400753,
+    8.454849,
+    47.400753
+],
   "geometry": {"coordinates":[8.454849,47.400753],"type":"Point"}
 }

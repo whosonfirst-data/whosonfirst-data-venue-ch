@@ -2,13 +2,14 @@
   "id": 220087793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.602675,47.57375,8.602675,47.57375",
     "geom:latitude":47.57375,
     "geom:longitude":8.602675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 4",
     "sg:city":"Flaach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220087793,
-    "wof:lastmodified":1449074393,
+    "wof:lastmodified":1466209636,
     "wof:name":"Erb Matthias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.602675,47.57375,8.602675,47.57375],
+  "bbox": [
+    8.602675,
+    47.57375,
+    8.602675,
+    47.57375
+],
   "geometry": {"coordinates":[8.602675,47.57375],"type":"Point"}
 }

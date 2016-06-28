@@ -2,13 +2,14 @@
   "id": 219348843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.883818,47.128216,7.883818,47.128216",
     "geom:latitude":47.128216,
     "geom:longitude":7.883818,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haltestelle 175",
     "sg:city":"Gondiswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219348843,
-    "wof:lastmodified":1449070525,
+    "wof:lastmodified":1466209681,
     "wof:name":"Thomas W\u00fcest Pneu W\u00fcest/garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.883818,47.128216,7.883818,47.128216],
+  "bbox": [
+    7.883818,
+    47.128216,
+    7.883818,
+    47.128216
+],
   "geometry": {"coordinates":[7.883818,47.128216],"type":"Point"}
 }

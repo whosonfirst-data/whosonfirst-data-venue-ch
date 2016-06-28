@@ -2,13 +2,14 @@
   "id": 185815157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.790224,47.636818,8.790224,47.636818",
     "geom:latitude":47.636818,
     "geom:longitude":8.790224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Schlat 477",
     "sg:city":"Unterstammheim",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185815157,
-    "wof:lastmodified":1449007406,
+    "wof:lastmodified":1466209214,
     "wof:name":"Brack Landmaschinen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "agriculture"
     ]
 },
-  "bbox": [8.790224,47.636818,8.790224,47.636818],
+  "bbox": [
+    8.790224,
+    47.636818,
+    8.790224,
+    47.636818
+],
   "geometry": {"coordinates":[8.790224,47.636818],"type":"Point"}
 }

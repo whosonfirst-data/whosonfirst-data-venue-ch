@@ -2,13 +2,14 @@
   "id": 253439455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587651,47.556561,7.587651,47.556561",
     "geom:latitude":47.556561,
     "geom:longitude":7.587651,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcmelinsplatz 1 4001 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253439455,
-    "wof:lastmodified":1449063632,
+    "wof:lastmodified":1466212361,
     "wof:name":"R\u00fcmelin La Mode Ag Textilien, Bes. Damenkonfektion Usw; Herst., Handel Beteiligungen Usw",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587651,47.556561,7.587651,47.556561],
+  "bbox": [
+    7.587651,
+    47.556561,
+    7.587651,
+    47.556561
+],
   "geometry": {"coordinates":[7.587651,47.556561],"type":"Point"}
 }

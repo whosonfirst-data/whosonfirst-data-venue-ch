@@ -2,13 +2,14 @@
   "id": 202953027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.624701,46.521782,6.624701,46.521782",
     "geom:latitude":46.521782,
     "geom:longitude":6.624701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Vigie 3",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202953027,
-    "wof:lastmodified":1449061833,
+    "wof:lastmodified":1466212324,
     "wof:name":"B. Tardin & J. Pittet Bureau D'architecture",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.624701,46.521782,6.624701,46.521782],
+  "bbox": [
+    6.624701,
+    46.521782,
+    6.624701,
+    46.521782
+],
   "geometry": {"coordinates":[6.624701,46.521782],"type":"Point"}
 }

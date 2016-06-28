@@ -2,13 +2,14 @@
   "id": 219656575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.847098,47.436733,8.847098,47.436733",
     "geom:latitude":47.436733,
     "geom:longitude":8.847098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6sstalstrasse 107",
     "sg:city":"Turbenthal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219656575,
-    "wof:lastmodified":1449072681,
+    "wof:lastmodified":1466212167,
     "wof:name":"Raiffeisenbank, Sitzberg-turbental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.847098,47.436733,8.847098,47.436733],
+  "bbox": [
+    8.847098,
+    47.436733,
+    8.847098,
+    47.436733
+],
   "geometry": {"coordinates":[8.847098,47.436733],"type":"Point"}
 }

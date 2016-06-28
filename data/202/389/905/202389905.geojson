@@ -2,13 +2,14 @@
   "id": 202389905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.386299,47.192665,7.386299,47.192665",
     "geom:latitude":47.192665,
     "geom:longitude":7.386299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4hlenstrasse 21",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202389905,
-    "wof:lastmodified":1449062151,
+    "wof:lastmodified":1466209575,
     "wof:name":"Atelier Sedlacek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.386299,47.192665,7.386299,47.192665],
+  "bbox": [
+    7.386299,
+    47.192665,
+    7.386299,
+    47.192665
+],
   "geometry": {"coordinates":[7.386299,47.192665],"type":"Point"}
 }

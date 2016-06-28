@@ -2,13 +2,14 @@
   "id": 185985465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.074608,47.383835,8.074608,47.383835",
     "geom:latitude":47.383835,
     "geom:longitude":8.074608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00fcttigerstrasse 3",
     "sg:city":"Rombach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185985465,
-    "wof:lastmodified":1449007428,
+    "wof:lastmodified":1466210672,
     "wof:name":"Bircher Rolf Gartenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.074608,47.383835,8.074608,47.383835],
+  "bbox": [
+    8.074608,
+    47.383835,
+    8.074608,
+    47.383835
+],
   "geometry": {"coordinates":[8.074608,47.383835],"type":"Point"}
 }

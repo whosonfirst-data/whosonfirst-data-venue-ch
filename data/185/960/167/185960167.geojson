@@ -2,13 +2,14 @@
   "id": 185960167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.521568,47.36002,8.521568,47.36002",
     "geom:latitude":47.36002,
     "geom:longitude":8.521568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Edenstrasse 12",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185960167,
-    "wof:lastmodified":1449007749,
+    "wof:lastmodified":1466210395,
     "wof:name":"La Cuisine Kochschule Gmbh",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.521568,47.36002,8.521568,47.36002],
+  "bbox": [
+    8.521568,
+    47.36002,
+    8.521568,
+    47.36002
+],
   "geometry": {"coordinates":[8.521568,47.36002],"type":"Point"}
 }

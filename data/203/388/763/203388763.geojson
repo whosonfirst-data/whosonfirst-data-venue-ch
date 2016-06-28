@@ -2,13 +2,14 @@
   "id": 203388763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.73257,47.485371,7.73257,47.485371",
     "geom:latitude":47.485371,
     "geom:longitude":7.73257,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 3a",
     "sg:city":"Liestal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203388763,
-    "wof:lastmodified":1449025030,
+    "wof:lastmodified":1466211413,
     "wof:name":"Dr.med.peter Schmid Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.73257,47.485371,7.73257,47.485371],
+  "bbox": [
+    7.73257,
+    47.485371,
+    7.73257,
+    47.485371
+],
   "geometry": {"coordinates":[7.73257,47.485371],"type":"Point"}
 }

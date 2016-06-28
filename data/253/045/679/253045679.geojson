@@ -2,13 +2,14 @@
   "id": 253045679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.589151,47.556248,7.589151,47.556248",
     "geom:latitude":47.556248,
     "geom:longitude":7.589151,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Falknerstrasse 9 4001 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253045679,
-    "wof:lastmodified":1449065429,
+    "wof:lastmodified":1466209382,
     "wof:name":"Blumen Dufour Bei Der Hauptpost Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.589151,47.556248,7.589151,47.556248],
+  "bbox": [
+    7.589151,
+    47.556248,
+    7.589151,
+    47.556248
+],
   "geometry": {"coordinates":[7.589151,47.556248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186350107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.313743,47.139847,7.313743,47.139847",
     "geom:latitude":47.139847,
     "geom:longitude":7.313743,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 228",
     "sg:city":"Orpund",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186350107,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466210211,
     "wof:name":"Bauunternehmung A.wenk-favre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.313743,47.139847,7.313743,47.139847],
+  "bbox": [
+    7.313743,
+    47.139847,
+    7.313743,
+    47.139847
+],
   "geometry": {"coordinates":[7.313743,47.139847],"type":"Point"}
 }

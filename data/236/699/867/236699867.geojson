@@ -2,13 +2,14 @@
   "id": 236699867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.460638,47.001362,7.460638,47.001362",
     "geom:latitude":47.001362,
     "geom:longitude":7.460638,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenblickstr. 13",
     "sg:city":"Zollikofen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236699867,
-    "wof:lastmodified":1449002014,
+    "wof:lastmodified":1466212945,
     "wof:name":"Werner Stricker Ag",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pharmacy"
     ]
 },
-  "bbox": [7.460638,47.001362,7.460638,47.001362],
+  "bbox": [
+    7.460638,
+    47.001362,
+    7.460638,
+    47.001362
+],
   "geometry": {"coordinates":[7.460638,47.001362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253430719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53583,47.374706,8.53583,47.374706",
     "geom:latitude":47.374706,
     "geom:longitude":8.53583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 29",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253430719,
-    "wof:lastmodified":1449064713,
+    "wof:lastmodified":1466212423,
     "wof:name":"Latino Sa Mode Zebra",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53583,47.374706,8.53583,47.374706],
+  "bbox": [
+    8.53583,
+    47.374706,
+    8.53583,
+    47.374706
+],
   "geometry": {"coordinates":[8.53583,47.374706],"type":"Point"}
 }

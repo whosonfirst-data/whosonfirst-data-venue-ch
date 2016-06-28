@@ -2,13 +2,14 @@
   "id": 202446263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.666006,46.506939,6.666006,46.506939",
     "geom:latitude":46.506939,
     "geom:longitude":6.666006,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Allamans",
     "sg:city":"Rougemont",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202446263,
-    "wof:lastmodified":1449062440,
+    "wof:lastmodified":1466210639,
     "wof:name":"Chammartin Et Spicher Sa",
     "wof:parent_id":85800419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.666006,46.506939,6.666006,46.506939],
+  "bbox": [
+    6.666006,
+    46.506939,
+    6.666006,
+    46.506939
+],
   "geometry": {"coordinates":[6.666006,46.506939],"type":"Point"}
 }

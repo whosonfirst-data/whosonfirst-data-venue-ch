@@ -2,13 +2,14 @@
   "id": 219835547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.623964,46.759796,7.623964,46.759796",
     "geom:latitude":46.759796,
     "geom:longitude":7.623964,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 14",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219835547,
-    "wof:lastmodified":1449070898,
+    "wof:lastmodified":1466212464,
     "wof:name":"Bar Caf\u00e9-mokka",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.623964,46.759796,7.623964,46.759796],
+  "bbox": [
+    7.623964,
+    46.759796,
+    7.623964,
+    46.759796
+],
   "geometry": {"coordinates":[7.623964,46.759796],"type":"Point"}
 }

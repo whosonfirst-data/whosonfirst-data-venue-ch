@@ -2,13 +2,14 @@
   "id": 236700431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.358778,47.553848,9.358778,47.553848",
     "geom:latitude":47.553848,
     "geom:longitude":9.358778,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstr. 50",
     "sg:city":"Romanshorn",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236700431,
-    "wof:lastmodified":1449004902,
+    "wof:lastmodified":1466212820,
     "wof:name":"Voigt Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmacy"
     ]
 },
-  "bbox": [9.358778,47.553848,9.358778,47.553848],
+  "bbox": [
+    9.358778,
+    47.553848,
+    9.358778,
+    47.553848
+],
   "geometry": {"coordinates":[9.358778,47.553848],"type":"Point"}
 }

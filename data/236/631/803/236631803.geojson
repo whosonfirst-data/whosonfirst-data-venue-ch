@@ -2,13 +2,14 @@
   "id": 236631803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.640296,46.581486,7.640296,46.581486",
     "geom:latitude":46.581486,
     "geom:longitude":7.640296,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grassiweg 60",
     "sg:city":"Frutigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236631803,
-    "wof:lastmodified":1449002511,
+    "wof:lastmodified":1466212727,
     "wof:name":"Campingplatz Walter Glausen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.640296,46.581486,7.640296,46.581486],
+  "bbox": [
+    7.640296,
+    46.581486,
+    7.640296,
+    46.581486
+],
   "geometry": {"coordinates":[7.640296,46.581486],"type":"Point"}
 }

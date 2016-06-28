@@ -2,13 +2,14 @@
   "id": 252929605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.535421,47.208115,7.535421,47.208115",
     "geom:latitude":47.208115,
     "geom:longitude":7.535421,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gurzelngasse 38 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252929605,
-    "wof:lastmodified":1449005822,
+    "wof:lastmodified":1466211317,
     "wof:name":"Jecker Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.535421,47.208115,7.535421,47.208115],
+  "bbox": [
+    7.535421,
+    47.208115,
+    7.535421,
+    47.208115
+],
   "geometry": {"coordinates":[7.535421,47.208115],"type":"Point"}
 }

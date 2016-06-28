@@ -2,13 +2,14 @@
   "id": 169649693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.316502,47.04623,8.316502,47.04623",
     "geom:latitude":47.04623,
     "geom:longitude":8.316502,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landenbergstrasse 36",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169649693,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466210073,
     "wof:name":"Rena Bauspezialit\u00e4ten Ag Luzern",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bench"
     ]
 },
-  "bbox": [8.316502,47.04623,8.316502,47.04623],
+  "bbox": [
+    8.316502,
+    47.04623,
+    8.316502,
+    47.04623
+],
   "geometry": {"coordinates":[8.316502,47.04623],"type":"Point"}
 }

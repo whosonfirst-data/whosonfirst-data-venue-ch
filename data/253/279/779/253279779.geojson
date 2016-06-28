@@ -2,13 +2,14 @@
   "id": 253279779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.196362,47.070477,8.196362,47.070477",
     "geom:latitude":47.070477,
     "geom:longitude":8.196362,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruswilstrasse 2",
     "sg:city":"Hellb\u00fchl",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253279779,
-    "wof:lastmodified":1449064174,
+    "wof:lastmodified":1466211764,
     "wof:name":"Franz Willi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.196362,47.070477,8.196362,47.070477],
+  "bbox": [
+    8.196362,
+    47.070477,
+    8.196362,
+    47.070477
+],
   "geometry": {"coordinates":[8.196362,47.070477],"type":"Point"}
 }

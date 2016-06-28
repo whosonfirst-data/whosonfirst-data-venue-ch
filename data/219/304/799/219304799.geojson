@@ -2,13 +2,14 @@
   "id": 219304799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.566668,46.874672,7.566668,46.874672",
     "geom:latitude":46.874672,
     "geom:longitude":7.566668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Krankenhausweg 2",
     "sg:city":"M\u00fcnsingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219304799,
-    "wof:lastmodified":1449073030,
+    "wof:lastmodified":1466209289,
     "wof:name":"P. Neuenschwander & A. Moser Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.566668,46.874672,7.566668,46.874672],
+  "bbox": [
+    7.566668,
+    46.874672,
+    7.566668,
+    46.874672
+],
   "geometry": {"coordinates":[7.566668,46.874672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169692323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.12256,46.793526,7.12256,46.793526",
     "geom:latitude":46.793526,
     "geom:longitude":7.12256,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Belle-croix 9",
     "sg:city":"Villars-sur-gl\u00e2ne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169692323,
-    "wof:lastmodified":1449033559,
+    "wof:lastmodified":1466210828,
     "wof:name":"Laner Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cold"
     ]
 },
-  "bbox": [7.12256,46.793526,7.12256,46.793526],
+  "bbox": [
+    7.12256,
+    46.793526,
+    7.12256,
+    46.793526
+],
   "geometry": {"coordinates":[7.12256,46.793526],"type":"Point"}
 }

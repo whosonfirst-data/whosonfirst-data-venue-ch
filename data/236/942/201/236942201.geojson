@@ -2,13 +2,14 @@
   "id": 236942201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.56212,46.959141,9.56212,46.959141",
     "geom:latitude":46.959141,
     "geom:longitude":9.56212,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 76 7302 Landquart. Postfach",
     "sg:city":"Landquart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236942201,
-    "wof:lastmodified":1449003100,
+    "wof:lastmodified":1466213034,
     "wof:name":"Ecl Informatik Andeer Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.56212,46.959141,9.56212,46.959141],
+  "bbox": [
+    9.56212,
+    46.959141,
+    9.56212,
+    46.959141
+],
   "geometry": {"coordinates":[9.56212,46.959141],"type":"Point"}
 }

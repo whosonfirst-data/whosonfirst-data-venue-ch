@@ -2,13 +2,14 @@
   "id": 202622645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.460796,47.409191,8.460796,47.409191",
     "geom:latitude":47.409191,
     "geom:longitude":8.460796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rauchackerstrasse 4 8102 Oberengstringen. Postfach 116",
     "sg:city":"Oberengstringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202622645,
-    "wof:lastmodified":1449062202,
+    "wof:lastmodified":1466209870,
     "wof:name":"Marumatic, Ursprung Georges Technischen Neuheiten; Entwicklung, Herstellung, Vertrieb",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.460796,47.409191,8.460796,47.409191],
+  "bbox": [
+    8.460796,
+    47.409191,
+    8.460796,
+    47.409191
+],
   "geometry": {"coordinates":[8.460796,47.409191],"type":"Point"}
 }

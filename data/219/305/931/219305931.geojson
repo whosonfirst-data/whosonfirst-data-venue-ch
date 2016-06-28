@@ -2,13 +2,14 @@
   "id": 219305931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.495796,47.418564,9.495796,47.418564",
     "geom:latitude":47.418564,
     "geom:longitude":9.495796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7184",
     "sg:city":"Curaglia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219305931,
-    "wof:lastmodified":1449070926,
+    "wof:lastmodified":1466209300,
     "wof:name":"Paul Studerus Ebni-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.495796,47.418564,9.495796,47.418564],
+  "bbox": [
+    9.495796,
+    47.418564,
+    9.495796,
+    47.418564
+],
   "geometry": {"coordinates":[9.495796,47.418564],"type":"Point"}
 }

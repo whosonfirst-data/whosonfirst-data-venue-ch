@@ -2,13 +2,14 @@
   "id": 203306941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.836306,47.190243,8.836306,47.190243",
     "geom:latitude":47.190243,
     "geom:longitude":8.836306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Churerstrasse 36",
     "sg:city":"Altendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203306941,
-    "wof:lastmodified":1449026786,
+    "wof:lastmodified":1466210610,
     "wof:name":"Dr.med.egmont Burkhardt Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.836306,47.190243,8.836306,47.190243],
+  "bbox": [
+    8.836306,
+    47.190243,
+    8.836306,
+    47.190243
+],
   "geometry": {"coordinates":[8.836306,47.190243],"type":"Point"}
 }

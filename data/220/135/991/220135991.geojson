@@ -2,13 +2,14 @@
   "id": 220135991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.006845,46.154114,6.006845,46.154114",
     "geom:latitude":46.154114,
     "geom:longitude":6.006845,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Risweg 54",
     "sg:city":"H\u00e4rkingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220135991,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466210046,
     "wof:name":"Schlatter Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.006845,46.154114,6.006845,46.154114],
+  "bbox": [
+    6.006845,
+    46.154114,
+    6.006845,
+    46.154114
+],
   "geometry": {"coordinates":[6.006845,46.154114],"type":"Point"}
 }

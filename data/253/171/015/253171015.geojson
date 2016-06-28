@@ -2,13 +2,14 @@
   "id": 253171015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.807572,47.45023,7.807572,47.45023",
     "geom:latitude":47.45023,
     "geom:longitude":7.807572,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 58",
     "sg:city":"Zunzgen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253171015,
-    "wof:lastmodified":1449065820,
+    "wof:lastmodified":1466210753,
     "wof:name":"Ernst Schmid-pfeiffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.807572,47.45023,7.807572,47.45023],
+  "bbox": [
+    7.807572,
+    47.45023,
+    7.807572,
+    47.45023
+],
   "geometry": {"coordinates":[7.807572,47.45023],"type":"Point"}
 }

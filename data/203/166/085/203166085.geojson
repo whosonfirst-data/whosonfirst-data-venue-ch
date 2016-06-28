@@ -2,13 +2,14 @@
   "id": 203166085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.987289,32.745949,-105.987289,32.745949",
     "geom:latitude":32.745949,
     "geom:longitude":-105.987289,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route D'hauteville 2",
     "sg:city":"St-l\u00e9gier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203166085,
-    "wof:lastmodified":1449026008,
+    "wof:lastmodified":1466209095,
     "wof:name":"Dr M\u00e9d. Claude Rossel M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.987289,32.745949,-105.987289,32.745949],
+  "bbox": [
+    -105.987289,
+    32.745949,
+    -105.987289,
+    32.745949
+],
   "geometry": {"coordinates":[-105.987289,32.745949],"type":"Point"}
 }

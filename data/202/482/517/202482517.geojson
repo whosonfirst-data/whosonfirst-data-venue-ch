@@ -2,13 +2,14 @@
   "id": 202482517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.417408,46.948399,7.417408,46.948399",
     "geom:latitude":46.948399,
     "geom:longitude":7.417408,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weyermannstrasse 20 3008 Bern. Postfach 6022",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202482517,
-    "wof:lastmodified":1449061004,
+    "wof:lastmodified":1466211231,
     "wof:name":"Enerconom Ag",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.417408,46.948399,7.417408,46.948399],
+  "bbox": [
+    7.417408,
+    46.948399,
+    7.417408,
+    46.948399
+],
   "geometry": {"coordinates":[7.417408,46.948399],"type":"Point"}
 }

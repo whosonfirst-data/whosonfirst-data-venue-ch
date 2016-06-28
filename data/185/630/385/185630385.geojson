@@ -2,13 +2,14 @@
   "id": 185630385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.590224,47.476173,7.590224,47.476173",
     "geom:latitude":47.476173,
     "geom:longitude":7.590224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfeffingerring 201",
     "sg:city":"Aesch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185630385,
-    "wof:lastmodified":1449007162,
+    "wof:lastmodified":1466209914,
     "wof:name":"Stralfors Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "label"
     ]
 },
-  "bbox": [7.590224,47.476173,7.590224,47.476173],
+  "bbox": [
+    7.590224,
+    47.476173,
+    7.590224,
+    47.476173
+],
   "geometry": {"coordinates":[7.590224,47.476173],"type":"Point"}
 }

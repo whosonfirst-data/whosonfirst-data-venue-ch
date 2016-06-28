@@ -2,13 +2,14 @@
   "id": 236414507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.936381,46.994297,6.936381,46.994297",
     "geom:latitude":46.994297,
     "geom:longitude":6.936381,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Faubourg De L'h\u00f4pital 41",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236414507,
-    "wof:lastmodified":1449003145,
+    "wof:lastmodified":1466212303,
     "wof:name":"Biblioth\u00e8que Des Pasteurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [6.936381,46.994297,6.936381,46.994297],
+  "bbox": [
+    6.936381,
+    46.994297,
+    6.936381,
+    46.994297
+],
   "geometry": {"coordinates":[6.936381,46.994297],"type":"Point"}
 }

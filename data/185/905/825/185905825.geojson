@@ -2,13 +2,14 @@
   "id": 185905825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.499115,47.06086,9.499115,47.06086",
     "geom:latitude":47.06086,
     "geom:longitude":9.499115,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Prafatell 23 9496 Balzers. Postfach 118",
     "sg:city":"Balzers",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185905825,
-    "wof:lastmodified":1449007251,
+    "wof:lastmodified":1466209890,
     "wof:name":"Adrian Frick Ag Architektur & Generaluntern.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.499115,47.06086,9.499115,47.06086],
+  "bbox": [
+    9.499115,
+    47.06086,
+    9.499115,
+    47.06086
+],
   "geometry": {"coordinates":[9.499115,47.06086],"type":"Point"}
 }

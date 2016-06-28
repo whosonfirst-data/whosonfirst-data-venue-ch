@@ -2,13 +2,14 @@
   "id": 186524719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.538828,46.870972,9.538828,46.870972",
     "geom:latitude":46.870972,
     "geom:longitude":9.538828,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cadonaustrasse 64",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186524719,
-    "wof:lastmodified":1449050225,
+    "wof:lastmodified":1466211739,
     "wof:name":"B\u00fcrgerheim Chur-masans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.538828,46.870972,9.538828,46.870972],
+  "bbox": [
+    9.538828,
+    46.870972,
+    9.538828,
+    46.870972
+],
   "geometry": {"coordinates":[9.538828,46.870972],"type":"Point"}
 }

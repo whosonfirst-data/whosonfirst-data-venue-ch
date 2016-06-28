@@ -2,13 +2,14 @@
   "id": 219909945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.70279,45.88036,4.70279,45.88036",
     "geom:latitude":45.88036,
     "geom:longitude":4.70279,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Rh\u00f4ne 27 1907 Mayens-de-saxon. Postfach",
     "sg:city":"Mayens-de-saxon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219909945,
-    "wof:lastmodified":1449073052,
+    "wof:lastmodified":1466212554,
     "wof:name":"Plaisir Sa Piscines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.70279,45.88036,4.70279,45.88036],
+  "bbox": [
+    4.70279,
+    45.88036,
+    4.70279,
+    45.88036
+],
   "geometry": {"coordinates":[4.70279,45.88036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253278179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.940648,45.850273,8.940648,45.850273",
     "geom:latitude":45.850273,
     "geom:longitude":8.940648,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cesarea 14a",
     "sg:city":"Stabio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253278179,
-    "wof:lastmodified":1449064462,
+    "wof:lastmodified":1466211655,
     "wof:name":"Costanzo Quadranti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.940648,45.850273,8.940648,45.850273],
+  "bbox": [
+    8.940648,
+    45.850273,
+    8.940648,
+    45.850273
+],
   "geometry": {"coordinates":[8.940648,45.850273],"type":"Point"}
 }

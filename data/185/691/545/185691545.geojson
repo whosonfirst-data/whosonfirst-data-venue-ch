@@ -2,13 +2,14 @@
   "id": 185691545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.476657,47.159798,9.476657,47.159798",
     "geom:latitude":47.159798,
     "geom:longitude":9.476657,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 17 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185691545,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1466211041,
     "wof:name":"Dr. Jakob Rhyner Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.476657,47.159798,9.476657,47.159798],
+  "bbox": [
+    9.476657,
+    47.159798,
+    9.476657,
+    47.159798
+],
   "geometry": {"coordinates":[9.476657,47.159798],"type":"Point"}
 }

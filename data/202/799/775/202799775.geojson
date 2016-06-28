@@ -2,13 +2,14 @@
   "id": 202799775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154432,46.794361,7.154432,46.794361",
     "geom:latitude":46.794361,
     "geom:longitude":7.154432,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Fonderie 2 1700 Fribourg Case Postale 9",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202799775,
-    "wof:lastmodified":1449062658,
+    "wof:lastmodified":1466211518,
     "wof:name":"Atelier D'architecture Dominique Rosset Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154432,46.794361,7.154432,46.794361],
+  "bbox": [
+    7.154432,
+    46.794361,
+    7.154432,
+    46.794361
+],
   "geometry": {"coordinates":[7.154432,46.794361],"type":"Point"}
 }

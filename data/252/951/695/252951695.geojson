@@ -2,13 +2,14 @@
   "id": 252951695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.619867,46.524441,6.619867,46.524441",
     "geom:latitude":46.524441,
     "geom:longitude":6.619867,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Morges 11",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252951695,
-    "wof:lastmodified":1449005444,
+    "wof:lastmodified":1466211542,
     "wof:name":"Claude Villy Lustrerie L'echoppe",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.619867,46.524441,6.619867,46.524441],
+  "bbox": [
+    6.619867,
+    46.524441,
+    6.619867,
+    46.524441
+],
   "geometry": {"coordinates":[6.619867,46.524441],"type":"Point"}
 }

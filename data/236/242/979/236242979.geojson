@@ -2,13 +2,14 @@
   "id": 236242979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.501003,47.385532,8.501003,47.385532",
     "geom:latitude":47.385532,
     "geom:longitude":8.501003,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freihofstrasse 14 8048 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236242979,
-    "wof:lastmodified":1449004776,
+    "wof:lastmodified":1466211287,
     "wof:name":"Momenti Con Mezzi Pia & Taverna Mirella Fest- U. Anlassorganisation",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.501003,47.385532,8.501003,47.385532],
+  "bbox": [
+    8.501003,
+    47.385532,
+    8.501003,
+    47.385532
+],
   "geometry": {"coordinates":[8.501003,47.385532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236792939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.755649,47.516369,8.755649,47.516369",
     "geom:latitude":47.516369,
     "geom:longitude":8.755649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Morgenweg 3",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236792939,
-    "wof:lastmodified":1449002208,
+    "wof:lastmodified":1466212901,
     "wof:name":"Ortho Hofmann",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "crown"
     ]
 },
-  "bbox": [8.755649,47.516369,8.755649,47.516369],
+  "bbox": [
+    8.755649,
+    47.516369,
+    8.755649,
+    47.516369
+],
   "geometry": {"coordinates":[8.755649,47.516369],"type":"Point"}
 }

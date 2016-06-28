@@ -2,13 +2,14 @@
   "id": 252923147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.520093,46.856174,9.520093,46.856174",
     "geom:latitude":46.856174,
     "geom:longitude":9.520093,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinstrasse 85-87 7000 Chur. Postfach",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252923147,
-    "wof:lastmodified":1449006464,
+    "wof:lastmodified":1466211254,
     "wof:name":"Bettenstudio Gero Georg Roffler & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.520093,46.856174,9.520093,46.856174],
+  "bbox": [
+    9.520093,
+    46.856174,
+    9.520093,
+    46.856174
+],
   "geometry": {"coordinates":[9.520093,46.856174],"type":"Point"}
 }

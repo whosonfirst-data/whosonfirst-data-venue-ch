@@ -2,13 +2,14 @@
   "id": 185847821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.155975,46.203747,6.155975,46.203747",
     "geom:latitude":46.203747,
     "geom:longitude":6.155975,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Fribourg 9",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185847821,
-    "wof:lastmodified":1449007179,
+    "wof:lastmodified":1466209461,
     "wof:name":"Banco De Sabadell",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.155975,46.203747,6.155975,46.203747],
+  "bbox": [
+    6.155975,
+    46.203747,
+    6.155975,
+    46.203747
+],
   "geometry": {"coordinates":[6.155975,46.203747],"type":"Point"}
 }

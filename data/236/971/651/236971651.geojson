@@ -2,13 +2,14 @@
   "id": 236971651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.550781,47.316113,8.550781,47.316113",
     "geom:latitude":47.316113,
     "geom:longitude":8.550781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lielistrasse 4",
     "sg:city":"Oberwil-lieli",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236971651,
-    "wof:lastmodified":1449003294,
+    "wof:lastmodified":1466213054,
     "wof:name":"Frey Consulting & Co",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.550781,47.316113,8.550781,47.316113],
+  "bbox": [
+    8.550781,
+    47.316113,
+    8.550781,
+    47.316113
+],
   "geometry": {"coordinates":[8.550781,47.316113],"type":"Point"}
 }

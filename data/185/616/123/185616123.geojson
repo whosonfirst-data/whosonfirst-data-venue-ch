@@ -2,13 +2,14 @@
   "id": 185616123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.457622,47.019405,7.457622,47.019405",
     "geom:latitude":47.019405,
     "geom:longitude":7.457622,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammweg 53 3053 M\u00fcnchenbuchsee. Postfach 204",
     "sg:city":"M\u00fcnchenbuchsee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185616123,
-    "wof:lastmodified":1449007773,
+    "wof:lastmodified":1466209612,
     "wof:name":"Abar Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.457622,47.019405,7.457622,47.019405],
+  "bbox": [
+    7.457622,
+    47.019405,
+    7.457622,
+    47.019405
+],
   "geometry": {"coordinates":[7.457622,47.019405],"type":"Point"}
 }

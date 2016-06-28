@@ -2,13 +2,14 @@
   "id": 202947593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.31569,47.463795,8.31569,47.463795",
     "geom:latitude":47.463795,
     "geom:longitude":8.31569,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkelriedstrasse 61",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202947593,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466212318,
     "wof:name":"Architekturb\u00fcro Andr\u00e9 Sch\u00e4r",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.31569,47.463795,8.31569,47.463795],
+  "bbox": [
+    8.31569,
+    47.463795,
+    8.31569,
+    47.463795
+],
   "geometry": {"coordinates":[8.31569,47.463795],"type":"Point"}
 }

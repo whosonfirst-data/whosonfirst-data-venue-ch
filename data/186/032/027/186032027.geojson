@@ -2,13 +2,14 @@
   "id": 186032027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.621466,46.529774,6.621466,46.529774",
     "geom:latitude":46.529774,
     "geom:longitude":6.621466,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Barberine Chemin De 1 1004 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186032027,
-    "wof:lastmodified":1449051688,
+    "wof:lastmodified":1466211646,
     "wof:name":"Bugnon A. Fils Sa Entreprise G\u00e9n\u00e9rale Dans Le Dom. Du B\u00e2timent",
     "wof:parent_id":85862325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.621466,46.529774,6.621466,46.529774],
+  "bbox": [
+    6.621466,
+    46.529774,
+    6.621466,
+    46.529774
+],
   "geometry": {"coordinates":[6.621466,46.529774],"type":"Point"}
 }

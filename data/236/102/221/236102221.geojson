@@ -2,13 +2,14 @@
   "id": 236102221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.870361,43.107113,-76.870361,43.107113",
     "geom:latitude":43.107113,
     "geom:longitude":-76.870361,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Georgen-strasse 49",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236102221,
-    "wof:lastmodified":1449004951,
+    "wof:lastmodified":1466209812,
     "wof:name":"Gabler's Walter S\u00f6hne Ag",
     "wof:parent_id":85832423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.870361,43.107113,-76.870361,43.107113],
+  "bbox": [
+    -76.870361,
+    43.107113,
+    -76.870361,
+    43.107113
+],
   "geometry": {"coordinates":[-76.870361,43.107113],"type":"Point"}
 }

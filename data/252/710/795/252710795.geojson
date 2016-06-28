@@ -2,13 +2,14 @@
   "id": 252710795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.81234,47.413239,7.81234,47.413239",
     "geom:latitude":47.413239,
     "geom:longitude":7.81234,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00e4nerkinderstrasse 9",
     "sg:city":"Diegten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252710795,
-    "wof:lastmodified":1449005476,
+    "wof:lastmodified":1466208958,
     "wof:name":"Fiedler Consulting Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.81234,47.413239,7.81234,47.413239],
+  "bbox": [
+    7.81234,
+    47.413239,
+    7.81234,
+    47.413239
+],
   "geometry": {"coordinates":[7.81234,47.413239],"type":"Point"}
 }

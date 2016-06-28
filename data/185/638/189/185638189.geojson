@@ -2,13 +2,14 @@
   "id": 185638189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.650314,47.529949,7.650314,47.529949",
     "geom:latitude":47.529949,
     "geom:longitude":7.650314,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenmattstrasse 11",
     "sg:city":"Muttenz",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185638189,
-    "wof:lastmodified":1449006674,
+    "wof:lastmodified":1466210042,
     "wof:name":"Camag Chemie-erzeugnisse Und Adsorptionstechnik Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "adsorption"
     ]
 },
-  "bbox": [7.650314,47.529949,7.650314,47.529949],
+  "bbox": [
+    7.650314,
+    47.529949,
+    7.650314,
+    47.529949
+],
   "geometry": {"coordinates":[7.650314,47.529949],"type":"Point"}
 }

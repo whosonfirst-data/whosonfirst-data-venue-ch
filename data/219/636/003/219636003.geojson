@@ -2,13 +2,14 @@
   "id": 219636003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.851784,46.315098,7.851784,46.315098",
     "geom:latitude":46.315098,
     "geom:longitude":7.851784,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ausserberg",
     "sg:city":"Ausserberg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219636003,
-    "wof:lastmodified":1449071786,
+    "wof:lastmodified":1466211885,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.851784,46.315098,7.851784,46.315098],
+  "bbox": [
+    7.851784,
+    46.315098,
+    7.851784,
+    46.315098
+],
   "geometry": {"coordinates":[7.851784,46.315098],"type":"Point"}
 }

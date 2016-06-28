@@ -2,13 +2,14 @@
   "id": 219823981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.800394,46.170574,8.800394,46.170574",
     "geom:latitude":46.170574,
     "geom:longitude":8.800394,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chiara Vicolo Dei 1",
     "sg:city":"Muralto",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219823981,
-    "wof:lastmodified":1449073882,
+    "wof:lastmodified":1466212505,
     "wof:name":"Ristochiara Sagl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.800394,46.170574,8.800394,46.170574],
+  "bbox": [
+    8.800394,
+    46.170574,
+    8.800394,
+    46.170574
+],
   "geometry": {"coordinates":[8.800394,46.170574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253406631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526437,47.199078,8.526437,47.199078",
     "geom:latitude":47.199078,
     "geom:longitude":8.526437,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegasse 19",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253406631,
-    "wof:lastmodified":1449064411,
+    "wof:lastmodified":1466212197,
     "wof:name":"Franz Minder Informatik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526437,47.199078,8.526437,47.199078],
+  "bbox": [
+    8.526437,
+    47.199078,
+    8.526437,
+    47.199078
+],
   "geometry": {"coordinates":[8.526437,47.199078],"type":"Point"}
 }

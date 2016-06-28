@@ -2,13 +2,14 @@
   "id": 202389565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.264002,47.146969,7.264002,47.146969",
     "geom:latitude":47.146969,
     "geom:longitude":7.264002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pr\u00e9-fleuri 13 2500 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202389565,
-    "wof:lastmodified":1449062151,
+    "wof:lastmodified":1466209572,
     "wof:name":"Atelier Perrel S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.264002,47.146969,7.264002,47.146969],
+  "bbox": [
+    7.264002,
+    47.146969,
+    7.264002,
+    47.146969
+],
   "geometry": {"coordinates":[7.264002,47.146969],"type":"Point"}
 }

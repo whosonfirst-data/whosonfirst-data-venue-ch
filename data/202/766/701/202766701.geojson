@@ -2,13 +2,14 @@
   "id": 202766701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048819,47.385899,8.048819,47.385899",
     "geom:latitude":47.385899,
     "geom:longitude":8.048819,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohlgasse 45 5000 Aarau. Postfach",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202766701,
-    "wof:lastmodified":1449060076,
+    "wof:lastmodified":1466211215,
     "wof:name":"Wewo Bauingenieure Ag Aarau",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.048819,47.385899,8.048819,47.385899],
+  "bbox": [
+    8.048819,
+    47.385899,
+    8.048819,
+    47.385899
+],
   "geometry": {"coordinates":[8.048819,47.385899],"type":"Point"}
 }

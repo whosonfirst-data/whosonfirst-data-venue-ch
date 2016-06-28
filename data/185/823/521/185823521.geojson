@@ -2,13 +2,14 @@
   "id": 185823521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.05387,47.33654,8.05387,47.33654",
     "geom:latitude":47.33654,
     "geom:longitude":8.05387,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 35",
     "sg:city":"Muhen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185823521,
-    "wof:lastmodified":1449008183,
+    "wof:lastmodified":1466209274,
     "wof:name":"Schaffner Blumen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "livestock"
     ]
 },
-  "bbox": [8.05387,47.33654,8.05387,47.33654],
+  "bbox": [
+    8.05387,
+    47.33654,
+    8.05387,
+    47.33654
+],
   "geometry": {"coordinates":[8.05387,47.33654],"type":"Point"}
 }

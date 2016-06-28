@@ -2,13 +2,14 @@
   "id": 253065275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545005,47.416573,8.545005,47.416573",
     "geom:latitude":47.416573,
     "geom:longitude":8.545005,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 435",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253065275,
-    "wof:lastmodified":1449065774,
+    "wof:lastmodified":1466209578,
     "wof:name":"Gabriela Leemann Blueme Cosmos",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545005,47.416573,8.545005,47.416573],
+  "bbox": [
+    8.545005,
+    47.416573,
+    8.545005,
+    47.416573
+],
   "geometry": {"coordinates":[8.545005,47.416573],"type":"Point"}
 }

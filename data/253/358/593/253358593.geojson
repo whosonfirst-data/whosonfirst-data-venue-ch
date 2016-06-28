@@ -2,13 +2,14 @@
   "id": 253358593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526691,47.377579,8.526691,47.377579",
     "geom:latitude":47.377579,
     "geom:longitude":8.526691,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langstrasse 80",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253358593,
-    "wof:lastmodified":1449064068,
+    "wof:lastmodified":1466212118,
     "wof:name":"Kiosk Lollypop Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526691,47.377579,8.526691,47.377579],
+  "bbox": [
+    8.526691,
+    47.377579,
+    8.526691,
+    47.377579
+],
   "geometry": {"coordinates":[8.526691,47.377579],"type":"Point"}
 }

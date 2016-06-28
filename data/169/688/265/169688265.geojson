@@ -2,13 +2,14 @@
   "id": 169688265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545731,47.497601,8.545731,47.497601",
     "geom:latitude":47.497601,
     "geom:longitude":8.545731,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bitziberg 1 8184 Bachenb\u00fclach. Postfach",
     "sg:city":"Bachenb\u00fclach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169688265,
-    "wof:lastmodified":1449033923,
+    "wof:lastmodified":1466210647,
     "wof:name":"Gardena Kress + Kastner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545731,47.497601,8.545731,47.497601],
+  "bbox": [
+    8.545731,
+    47.497601,
+    8.545731,
+    47.497601
+],
   "geometry": {"coordinates":[8.545731,47.497601],"type":"Point"}
 }

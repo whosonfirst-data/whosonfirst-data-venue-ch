@@ -2,13 +2,14 @@
   "id": 185805079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.300552,32.235329,77.300552,32.235329",
     "geom:latitude":32.235329,
     "geom:longitude":77.300552,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seetalstr. 175 Postfach 301",
     "sg:city":"Emmen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185805079,
-    "wof:lastmodified":1449007139,
+    "wof:lastmodified":1466209157,
     "wof:name":"Ruag Aerospace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vehicle"
     ]
 },
-  "bbox": [77.300552,32.235329,77.300552,32.235329],
+  "bbox": [
+    77.300552,
+    32.235329,
+    77.300552,
+    32.235329
+],
   "geometry": {"coordinates":[77.300552,32.235329],"type":"Point"}
 }

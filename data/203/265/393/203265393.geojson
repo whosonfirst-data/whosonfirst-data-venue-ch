@@ -2,13 +2,14 @@
   "id": 203265393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544477,47.369083,8.544477,47.369083",
     "geom:latitude":47.369083,
     "geom:longitude":8.544477,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6ssligasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203265393,
-    "wof:lastmodified":1449025560,
+    "wof:lastmodified":1466210180,
     "wof:name":"Dr.med.adnan Ser\u00e7e Spezialarzt Fmh",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544477,47.369083,8.544477,47.369083],
+  "bbox": [
+    8.544477,
+    47.369083,
+    8.544477,
+    47.369083
+],
   "geometry": {"coordinates":[8.544477,47.369083],"type":"Point"}
 }

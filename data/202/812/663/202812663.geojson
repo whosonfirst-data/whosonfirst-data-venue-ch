@@ -2,13 +2,14 @@
   "id": 202812663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.380166,47.56765,9.380166,47.56765",
     "geom:latitude":47.56765,
     "geom:longitude":9.380166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafenstrasse 23",
     "sg:city":"Romanshorn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202812663,
-    "wof:lastmodified":1449060168,
+    "wof:lastmodified":1466211723,
     "wof:name":"B\u00f6tschi Dieter, Dipl. Architekt Eth/sia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.380166,47.56765,9.380166,47.56765],
+  "bbox": [
+    9.380166,
+    47.56765,
+    9.380166,
+    47.56765
+],
   "geometry": {"coordinates":[9.380166,47.56765],"type":"Point"}
 }

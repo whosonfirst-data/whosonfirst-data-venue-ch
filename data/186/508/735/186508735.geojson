@@ -2,13 +2,14 @@
   "id": 186508735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.561675,47.51181,7.561675,47.51181",
     "geom:latitude":47.51181,
     "geom:longitude":7.561675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 54",
     "sg:city":"Amden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186508735,
-    "wof:lastmodified":1449051887,
+    "wof:lastmodified":1466211509,
     "wof:name":"Johanneshaus Alters- U. Pflegeheim",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [7.561675,47.51181,7.561675,47.51181],
+  "bbox": [
+    7.561675,
+    47.51181,
+    7.561675,
+    47.51181
+],
   "geometry": {"coordinates":[7.561675,47.51181],"type":"Point"}
 }

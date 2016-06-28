@@ -2,13 +2,14 @@
   "id": 186248001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.386537,47.383678,9.386537,47.383678",
     "geom:latitude":47.383678,
     "geom:longitude":9.386537,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Greibengasse 4 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186248001,
-    "wof:lastmodified":1449051850,
+    "wof:lastmodified":1466209459,
     "wof:name":"Wesago Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.386537,47.383678,9.386537,47.383678],
+  "bbox": [
+    9.386537,
+    47.383678,
+    9.386537,
+    47.383678
+],
   "geometry": {"coordinates":[9.386537,47.383678],"type":"Point"}
 }

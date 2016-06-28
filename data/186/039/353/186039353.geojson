@@ -2,13 +2,14 @@
   "id": 186039353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.930912,45.978058,8.930912,45.978058",
     "geom:latitude":45.978058,
     "geom:longitude":8.930912,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mola 14",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186039353,
-    "wof:lastmodified":1449052681,
+    "wof:lastmodified":1466209865,
     "wof:name":"Cavadini Arturo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.930912,45.978058,8.930912,45.978058],
+  "bbox": [
+    8.930912,
+    45.978058,
+    8.930912,
+    45.978058
+],
   "geometry": {"coordinates":[8.930912,45.978058],"type":"Point"}
 }

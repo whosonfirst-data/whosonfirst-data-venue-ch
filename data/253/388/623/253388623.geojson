@@ -2,13 +2,14 @@
   "id": 253388623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.617612,46.521137,6.617612,46.521137",
     "geom:latitude":46.521137,
     "geom:longitude":6.617612,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Tivoli 58",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253388623,
-    "wof:lastmodified":1449062935,
+    "wof:lastmodified":1466212330,
     "wof:name":"Thierry Rapin Mbs Machines De Bureau",
     "wof:parent_id":85862435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.617612,46.521137,6.617612,46.521137],
+  "bbox": [
+    6.617612,
+    46.521137,
+    6.617612,
+    46.521137
+],
   "geometry": {"coordinates":[6.617612,46.521137],"type":"Point"}
 }

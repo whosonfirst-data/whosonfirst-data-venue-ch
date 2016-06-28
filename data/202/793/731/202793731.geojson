@@ -2,13 +2,14 @@
   "id": 202793731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.075101,47.367142,9.075101,47.367142",
     "geom:latitude":47.367142,
     "geom:longitude":9.075101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiler Strasse 15",
     "sg:city":"B\u00fctschwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202793731,
-    "wof:lastmodified":1449061508,
+    "wof:lastmodified":1466211463,
     "wof:name":"Architekturb\u00fcro Raschle & Egli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.075101,47.367142,9.075101,47.367142],
+  "bbox": [
+    9.075101,
+    47.367142,
+    9.075101,
+    47.367142
+],
   "geometry": {"coordinates":[9.075101,47.367142],"type":"Point"}
 }

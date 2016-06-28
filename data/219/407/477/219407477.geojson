@@ -2,13 +2,14 @@
   "id": 219407477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.407593,47.3353,9.407593,47.3353",
     "geom:latitude":47.3353,
     "geom:longitude":9.407593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zielstrasse 50",
     "sg:city":"Appenzell",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219407477,
-    "wof:lastmodified":1449072331,
+    "wof:lastmodified":1466210250,
     "wof:name":"Robert Rechsteiner Autospenglerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.407593,47.3353,9.407593,47.3353],
+  "bbox": [
+    9.407593,
+    47.3353,
+    9.407593,
+    47.3353
+],
   "geometry": {"coordinates":[9.407593,47.3353],"type":"Point"}
 }

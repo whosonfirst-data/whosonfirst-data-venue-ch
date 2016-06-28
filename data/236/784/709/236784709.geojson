@@ -2,13 +2,14 @@
   "id": 236784709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.854396,47.392857,8.854396,47.392857",
     "geom:latitude":47.392857,
     "geom:longitude":8.854396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6sstaustr. 134",
     "sg:city":"Saland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236784709,
-    "wof:lastmodified":1449003931,
+    "wof:lastmodified":1466212894,
     "wof:name":"Baubit Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [8.854396,47.392857,8.854396,47.392857],
+  "bbox": [
+    8.854396,
+    47.392857,
+    8.854396,
+    47.392857
+],
   "geometry": {"coordinates":[8.854396,47.392857],"type":"Point"}
 }

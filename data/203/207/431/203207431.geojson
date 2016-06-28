@@ -2,13 +2,14 @@
   "id": 203207431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.815747,46.930004,6.815747,46.930004",
     "geom:latitude":46.930004,
     "geom:longitude":6.815747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Cure 8",
     "sg:city":"Bevaix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203207431,
-    "wof:lastmodified":1449026295,
+    "wof:lastmodified":1466209553,
     "wof:name":"Dr M\u00e9d. Michail Stantchev M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.815747,46.930004,6.815747,46.930004],
+  "bbox": [
+    6.815747,
+    46.930004,
+    6.815747,
+    46.930004
+],
   "geometry": {"coordinates":[6.815747,46.930004],"type":"Point"}
 }

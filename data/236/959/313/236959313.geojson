@@ -2,13 +2,14 @@
   "id": 236959313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.148878,47.290924,8.148878,47.290924",
     "geom:latitude":47.290924,
     "geom:longitude":8.148878,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Libellenstrasse 495",
     "sg:city":"Zetzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236959313,
-    "wof:lastmodified":1449004849,
+    "wof:lastmodified":1466213044,
     "wof:name":"Rolf Hartmann Sunstep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.148878,47.290924,8.148878,47.290924],
+  "bbox": [
+    8.148878,
+    47.290924,
+    8.148878,
+    47.290924
+],
   "geometry": {"coordinates":[8.148878,47.290924],"type":"Point"}
 }

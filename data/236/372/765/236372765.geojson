@@ -2,13 +2,14 @@
   "id": 236372765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80395,47.320808,8.80395,47.320808",
     "geom:latitude":47.320808,
     "geom:longitude":8.80395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wegackerstrasse 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236372765,
-    "wof:lastmodified":1449003694,
+    "wof:lastmodified":1466212053,
     "wof:name":"Sekundarschule Lendenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.80395,47.320808,8.80395,47.320808],
+  "bbox": [
+    8.80395,
+    47.320808,
+    8.80395,
+    47.320808
+],
   "geometry": {"coordinates":[8.80395,47.320808],"type":"Point"}
 }

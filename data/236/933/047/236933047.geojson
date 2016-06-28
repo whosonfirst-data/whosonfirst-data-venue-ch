@@ -2,13 +2,14 @@
   "id": 236933047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.489102,46.959961,7.489102,46.959961",
     "geom:latitude":46.959961,
     "geom:longitude":7.489102,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Paracelsusstrasse 1 B",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236933047,
-    "wof:lastmodified":1449002187,
+    "wof:lastmodified":1466213028,
     "wof:name":"Afca Informatik Gmbh",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.489102,46.959961,7.489102,46.959961],
+  "bbox": [
+    7.489102,
+    46.959961,
+    7.489102,
+    46.959961
+],
   "geometry": {"coordinates":[7.489102,46.959961],"type":"Point"}
 }

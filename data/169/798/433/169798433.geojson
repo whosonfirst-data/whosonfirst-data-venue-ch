@@ -2,13 +2,14 @@
   "id": 169798433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.129583,47.264465,9.129583,47.264465",
     "geom:latitude":47.264465,
     "geom:longitude":9.129583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmittlistrasse 19",
     "sg:city":"Ebnat",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169798433,
-    "wof:lastmodified":1449033299,
+    "wof:lastmodified":1466209061,
     "wof:name":"Bsa Burtscher Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.129583,47.264465,9.129583,47.264465],
+  "bbox": [
+    9.129583,
+    47.264465,
+    9.129583,
+    47.264465
+],
   "geometry": {"coordinates":[9.129583,47.264465],"type":"Point"}
 }

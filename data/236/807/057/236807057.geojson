@@ -2,13 +2,14 @@
   "id": 236807057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.790348,47.044304,7.790348,47.044304",
     "geom:latitude":47.044304,
     "geom:longitude":7.790348,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wydenstrasse 4",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236807057,
-    "wof:lastmodified":1449002314,
+    "wof:lastmodified":1466212906,
     "wof:name":"Manfred Schenk Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.790348,47.044304,7.790348,47.044304],
+  "bbox": [
+    7.790348,
+    47.044304,
+    7.790348,
+    47.044304
+],
   "geometry": {"coordinates":[7.790348,47.044304],"type":"Point"}
 }

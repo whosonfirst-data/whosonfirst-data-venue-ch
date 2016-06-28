@@ -2,13 +2,14 @@
   "id": 186588721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.246675,47.134865,7.246675,47.134865",
     "geom:latitude":47.134865,
     "geom:longitude":7.246675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Murtenstrasse 33",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186588721,
-    "wof:lastmodified":1449052485,
+    "wof:lastmodified":1466212020,
     "wof:name":"Gewerkschaft Bau & Industrie Gbi Sektion Biel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.246675,47.134865,7.246675,47.134865],
+  "bbox": [
+    7.246675,
+    47.134865,
+    7.246675,
+    47.134865
+],
   "geometry": {"coordinates":[7.246675,47.134865],"type":"Point"}
 }

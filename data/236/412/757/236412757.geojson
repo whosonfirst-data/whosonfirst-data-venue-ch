@@ -2,13 +2,14 @@
   "id": 236412757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628104,46.509815,6.628104,46.509815",
     "geom:latitude":46.509815,
     "geom:longitude":6.628104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Place-d'armes 17",
     "sg:city":"Fleurier",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236412757,
-    "wof:lastmodified":1449002181,
+    "wof:lastmodified":1466212185,
     "wof:name":"Biblioth\u00e8que De La Maison Du Paysan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "archive"
     ]
 },
-  "bbox": [6.628104,46.509815,6.628104,46.509815],
+  "bbox": [
+    6.628104,
+    46.509815,
+    6.628104,
+    46.509815
+],
   "geometry": {"coordinates":[6.628104,46.509815],"type":"Point"}
 }

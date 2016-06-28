@@ -2,13 +2,14 @@
   "id": 236884315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.913226,47.346367,7.913226,47.346367",
     "geom:latitude":47.346367,
     "geom:longitude":7.913226,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reiserstrasse 75",
     "sg:city":"Olten",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236884315,
-    "wof:lastmodified":1449004476,
+    "wof:lastmodified":1466212955,
     "wof:name":"Clarus Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "database"
     ]
 },
-  "bbox": [7.913226,47.346367,7.913226,47.346367],
+  "bbox": [
+    7.913226,
+    47.346367,
+    7.913226,
+    47.346367
+],
   "geometry": {"coordinates":[7.913226,47.346367],"type":"Point"}
 }

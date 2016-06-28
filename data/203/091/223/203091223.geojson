@@ -2,13 +2,14 @@
   "id": 203091223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.609046,47.519249,7.609046,47.519249",
     "geom:latitude":47.519249,
     "geom:longitude":7.609046,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstrasse 5",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203091223,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466210980,
     "wof:name":"Urs Berger Architekturb\u00fcro",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.609046,47.519249,7.609046,47.519249],
+  "bbox": [
+    7.609046,
+    47.519249,
+    7.609046,
+    47.519249
+],
   "geometry": {"coordinates":[7.609046,47.519249],"type":"Point"}
 }

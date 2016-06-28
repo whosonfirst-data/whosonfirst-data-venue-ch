@@ -2,13 +2,14 @@
   "id": 236843353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.658635,47.721794,8.658635,47.721794",
     "geom:latitude":47.721794,
     "geom:longitude":8.658635,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Surbeckstieg 2 8207 Schaffhausen. Postfach 1124",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236843353,
-    "wof:lastmodified":1449001892,
+    "wof:lastmodified":1466212929,
     "wof:name":"Schneider August Dachdeckergesch\u00e4ft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.658635,47.721794,8.658635,47.721794],
+  "bbox": [
+    8.658635,
+    47.721794,
+    8.658635,
+    47.721794
+],
   "geometry": {"coordinates":[8.658635,47.721794],"type":"Point"}
 }

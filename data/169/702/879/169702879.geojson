@@ -2,13 +2,14 @@
   "id": 169702879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.959033,46.010086,8.959033,46.010086",
     "geom:latitude":46.010086,
     "geom:longitude":8.959033,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giuseppe Buffi 10",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169702879,
-    "wof:lastmodified":1449034336,
+    "wof:lastmodified":1466210947,
     "wof:name":"Dick & Figli Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "file"
     ]
 },
-  "bbox": [8.959033,46.010086,8.959033,46.010086],
+  "bbox": [
+    8.959033,
+    46.010086,
+    8.959033,
+    46.010086
+],
   "geometry": {"coordinates":[8.959033,46.010086],"type":"Point"}
 }

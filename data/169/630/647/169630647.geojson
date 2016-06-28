@@ -2,13 +2,14 @@
   "id": 169630647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.538424,47.373528,8.538424,47.373528",
     "geom:latitude":47.373528,
     "geom:longitude":8.538424,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 62",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169630647,
-    "wof:lastmodified":1449033870,
+    "wof:lastmodified":1466209782,
     "wof:name":"Bordier & Cie Banquiers Priv\u00e9s",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.538424,47.373528,8.538424,47.373528],
+  "bbox": [
+    8.538424,
+    47.373528,
+    8.538424,
+    47.373528
+],
   "geometry": {"coordinates":[8.538424,47.373528],"type":"Point"}
 }

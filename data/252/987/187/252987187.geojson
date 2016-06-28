@@ -2,13 +2,14 @@
   "id": 252987187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.399004,47.426758,8.399004,47.426758",
     "geom:latitude":47.426758,
     "geom:longitude":8.399004,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 2",
     "sg:city":"Oetwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252987187,
-    "wof:lastmodified":1449006019,
+    "wof:lastmodified":1466211726,
     "wof:name":"Elektro M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.399004,47.426758,8.399004,47.426758],
+  "bbox": [
+    8.399004,
+    47.426758,
+    8.399004,
+    47.426758
+],
   "geometry": {"coordinates":[8.399004,47.426758],"type":"Point"}
 }

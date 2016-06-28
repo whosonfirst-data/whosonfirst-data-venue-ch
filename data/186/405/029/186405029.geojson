@@ -2,13 +2,14 @@
   "id": 186405029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.852001,46.680172,7.852001,46.680172",
     "geom:latitude":46.680172,
     "geom:longitude":7.852001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rugenaustrasse 3",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186405029,
-    "wof:lastmodified":1449052797,
+    "wof:lastmodified":1466210638,
     "wof:name":"Fritz Steiner Ag, Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.852001,46.680172,7.852001,46.680172],
+  "bbox": [
+    7.852001,
+    46.680172,
+    7.852001,
+    46.680172
+],
   "geometry": {"coordinates":[7.852001,46.680172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253437815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62823,46.760578,7.62823,46.760578",
     "geom:latitude":46.760578,
     "geom:longitude":7.62823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 1",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253437815,
-    "wof:lastmodified":1449064969,
+    "wof:lastmodified":1466212515,
     "wof:name":"Popken & Co Ulla Popken Mode",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62823,46.760578,7.62823,46.760578],
+  "bbox": [
+    7.62823,
+    46.760578,
+    7.62823,
+    46.760578
+],
   "geometry": {"coordinates":[7.62823,46.760578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186593471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449981,46.960972,7.449981,46.960972",
     "geom:latitude":46.960972,
     "geom:longitude":7.449981,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stauffacherstrasse 60 8004 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186593471,
-    "wof:lastmodified":1449052145,
+    "wof:lastmodified":1466212032,
     "wof:name":"Hebammenverband",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449981,46.960972,7.449981,46.960972],
+  "bbox": [
+    7.449981,
+    46.960972,
+    7.449981,
+    46.960972
+],
   "geometry": {"coordinates":[7.449981,46.960972],"type":"Point"}
 }

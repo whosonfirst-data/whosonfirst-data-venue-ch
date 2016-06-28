@@ -2,13 +2,14 @@
   "id": 186634941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51562,47.170288,8.51562,47.170288",
     "geom:latitude":47.170288,
     "geom:longitude":8.51562,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 27",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186634941,
-    "wof:lastmodified":1449051660,
+    "wof:lastmodified":1466212350,
     "wof:name":"Antipa Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.51562,47.170288,8.51562,47.170288],
+  "bbox": [
+    8.51562,
+    47.170288,
+    8.51562,
+    47.170288
+],
   "geometry": {"coordinates":[8.51562,47.170288],"type":"Point"}
 }

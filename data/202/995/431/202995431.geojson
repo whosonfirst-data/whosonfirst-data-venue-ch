@@ -2,13 +2,14 @@
   "id": 202995431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560704,47.351757,8.560704,47.351757",
     "geom:latitude":47.351757,
     "geom:longitude":8.560704,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 219",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202995431,
-    "wof:lastmodified":1449062364,
+    "wof:lastmodified":1466212517,
     "wof:name":"Gremli & Partner Architekten",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560704,47.351757,8.560704,47.351757],
+  "bbox": [
+    8.560704,
+    47.351757,
+    8.560704,
+    47.351757
+],
   "geometry": {"coordinates":[8.560704,47.351757],"type":"Point"}
 }

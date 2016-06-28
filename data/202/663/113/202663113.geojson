@@ -2,13 +2,14 @@
   "id": 202663113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63806,46.763279,7.63806,46.763279",
     "geom:latitude":46.763279,
     "geom:longitude":7.63806,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lauenenweg 51h",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202663113,
-    "wof:lastmodified":1449061965,
+    "wof:lastmodified":1466210251,
     "wof:name":"Pierre Schwalm Ingenieurb\u00fcro",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63806,46.763279,7.63806,46.763279],
+  "bbox": [
+    7.63806,
+    46.763279,
+    7.63806,
+    46.763279
+],
   "geometry": {"coordinates":[7.63806,46.763279],"type":"Point"}
 }

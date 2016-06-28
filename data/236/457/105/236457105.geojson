@@ -2,13 +2,14 @@
   "id": 236457105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449747,46.94125,7.449747,46.94125",
     "geom:latitude":46.94125,
     "geom:longitude":7.449747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hallwylstrasse 15 3003 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236457105,
-    "wof:lastmodified":1449003947,
+    "wof:lastmodified":1466212439,
     "wof:name":"Schweiz.landesbibliothek Schweiz.literaturarchiv",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.449747,46.94125,7.449747,46.94125],
+  "bbox": [
+    7.449747,
+    46.94125,
+    7.449747,
+    46.94125
+],
   "geometry": {"coordinates":[7.449747,46.94125],"type":"Point"}
 }

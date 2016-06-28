@@ -2,13 +2,14 @@
   "id": 252743653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.275388,47.151493,7.275388,47.151493",
     "geom:latitude":47.151493,
     "geom:longitude":7.275388,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4nggasse 60",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252743653,
-    "wof:lastmodified":1449006502,
+    "wof:lastmodified":1466209260,
     "wof:name":"Bien-airdental Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [7.275388,47.151493,7.275388,47.151493],
+  "bbox": [
+    7.275388,
+    47.151493,
+    7.275388,
+    47.151493
+],
   "geometry": {"coordinates":[7.275388,47.151493],"type":"Point"}
 }

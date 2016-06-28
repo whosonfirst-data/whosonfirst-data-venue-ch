@@ -2,13 +2,14 @@
   "id": 169615227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.392927,46.935299,7.392927,46.935299",
     "geom:latitude":46.935299,
     "geom:longitude":7.392927,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 384",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169615227,
-    "wof:lastmodified":1449033731,
+    "wof:lastmodified":1466209530,
     "wof:name":"Wabco (schweiz) Gmbh",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [7.392927,46.935299,7.392927,46.935299],
+  "bbox": [
+    7.392927,
+    46.935299,
+    7.392927,
+    46.935299
+],
   "geometry": {"coordinates":[7.392927,46.935299],"type":"Point"}
 }

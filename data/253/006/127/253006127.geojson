@@ -2,13 +2,14 @@
   "id": 253006127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.454149,46.948376,7.454149,46.948376",
     "geom:latitude":46.948376,
     "geom:longitude":7.454149,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerechtigkeitsgasse 48",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253006127,
-    "wof:lastmodified":1449065192,
+    "wof:lastmodified":1466209005,
     "wof:name":"Art Floral Gafner Marianne Blumengesch\u00e4ft",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.454149,46.948376,7.454149,46.948376],
+  "bbox": [
+    7.454149,
+    46.948376,
+    7.454149,
+    46.948376
+],
   "geometry": {"coordinates":[7.454149,46.948376],"type":"Point"}
 }

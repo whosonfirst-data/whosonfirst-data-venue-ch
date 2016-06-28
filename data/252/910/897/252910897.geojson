@@ -2,13 +2,14 @@
   "id": 252910897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633089,46.52145,6.633089,46.52145",
     "geom:latitude":46.52145,
     "geom:longitude":6.633089,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Pont 4 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252910897,
-    "wof:lastmodified":1449005861,
+    "wof:lastmodified":1466211117,
     "wof:name":"Pkz Burger-kehl & Cie Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.633089,46.52145,6.633089,46.52145],
+  "bbox": [
+    6.633089,
+    46.52145,
+    6.633089,
+    46.52145
+],
   "geometry": {"coordinates":[6.633089,46.52145],"type":"Point"}
 }

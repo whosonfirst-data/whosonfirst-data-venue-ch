@@ -2,13 +2,14 @@
   "id": 202525219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543092,47.374203,8.543092,47.374203",
     "geom:latitude":47.374203,
     "geom:longitude":8.543092,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatquai 94 8025 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202525219,
-    "wof:lastmodified":1449062138,
+    "wof:lastmodified":1466208957,
     "wof:name":"Gu Bau & Projekt Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543092,47.374203,8.543092,47.374203],
+  "bbox": [
+    8.543092,
+    47.374203,
+    8.543092,
+    47.374203
+],
   "geometry": {"coordinates":[8.543092,47.374203],"type":"Point"}
 }

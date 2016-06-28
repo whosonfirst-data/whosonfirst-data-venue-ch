@@ -2,13 +2,14 @@
   "id": 236422001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.88933,47.055859,6.88933,47.055859",
     "geom:latitude":47.055859,
     "geom:longitude":6.88933,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"2052",
     "sg:city":"Fontainemelon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236422001,
-    "wof:lastmodified":1449001848,
+    "wof:lastmodified":1466212227,
     "wof:name":"Biblioth\u00e8que Populaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "archive"
     ]
 },
-  "bbox": [6.88933,47.055859,6.88933,47.055859],
+  "bbox": [
+    6.88933,
+    47.055859,
+    6.88933,
+    47.055859
+],
   "geometry": {"coordinates":[6.88933,47.055859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202568435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.364515,47.357658,8.364515,47.357658",
     "geom:latitude":47.357658,
     "geom:longitude":8.364515,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchlfeldstrasse 8",
     "sg:city":"Berikon",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202568435,
-    "wof:lastmodified":1449060052,
+    "wof:lastmodified":1466209367,
     "wof:name":"Ingenieurb\u00fcro M\u00fcller Georg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.364515,47.357658,8.364515,47.357658],
+  "bbox": [
+    8.364515,
+    47.357658,
+    8.364515,
+    47.357658
+],
   "geometry": {"coordinates":[8.364515,47.357658],"type":"Point"}
 }

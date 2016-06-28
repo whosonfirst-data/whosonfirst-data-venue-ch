@@ -2,13 +2,14 @@
   "id": 186130987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.880835,45.975681,8.880835,45.975681",
     "geom:latitude":45.975681,
     "geom:longitude":8.880835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Chiesuola 22",
     "sg:city":"Caslano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186130987,
-    "wof:lastmodified":1449051317,
+    "wof:lastmodified":1466211218,
     "wof:name":"Lachat Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.880835,45.975681,8.880835,45.975681],
+  "bbox": [
+    8.880835,
+    45.975681,
+    8.880835,
+    45.975681
+],
   "geometry": {"coordinates":[8.880835,45.975681],"type":"Point"}
 }

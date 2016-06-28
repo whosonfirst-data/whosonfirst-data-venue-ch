@@ -2,13 +2,14 @@
   "id": 203249891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.473903,46.943119,7.473903,46.943119",
     "geom:latitude":46.943119,
     "geom:longitude":7.473903,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchserstrasse 26",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203249891,
-    "wof:lastmodified":1449025051,
+    "wof:lastmodified":1466210019,
     "wof:name":"Dr.med. Jean-jacques Moser Spezialarzt Fmh",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.473903,46.943119,7.473903,46.943119],
+  "bbox": [
+    7.473903,
+    46.943119,
+    7.473903,
+    46.943119
+],
   "geometry": {"coordinates":[7.473903,46.943119],"type":"Point"}
 }

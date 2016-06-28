@@ -2,13 +2,14 @@
   "id": 186348941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.107103,47.47028,9.107103,47.47028",
     "geom:latitude":47.47028,
     "geom:longitude":9.107103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Arbostra 33",
     "sg:city":"Pregassona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186348941,
-    "wof:lastmodified":1449050395,
+    "wof:lastmodified":1466210202,
     "wof:name":"Bau-ac Fellner Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.107103,47.47028,9.107103,47.47028],
+  "bbox": [
+    9.107103,
+    47.47028,
+    9.107103,
+    47.47028
+],
   "geometry": {"coordinates":[9.107103,47.47028],"type":"Point"}
 }

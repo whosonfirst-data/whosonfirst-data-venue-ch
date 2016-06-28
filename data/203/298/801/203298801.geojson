@@ -2,13 +2,14 @@
   "id": 203298801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.635801,46.885345,8.635801,46.885345",
     "geom:latitude":46.885345,
     "geom:longitude":8.635801,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Museggstrasse 3",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203298801,
-    "wof:lastmodified":1449025425,
+    "wof:lastmodified":1466210525,
     "wof:name":"Dr.med.clemens Della Pietra Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.635801,46.885345,8.635801,46.885345],
+  "bbox": [
+    8.635801,
+    46.885345,
+    8.635801,
+    46.885345
+],
   "geometry": {"coordinates":[8.635801,46.885345],"type":"Point"}
 }

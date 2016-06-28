@@ -2,13 +2,14 @@
   "id": 253144959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.613828,46.51598,6.613828,46.51598",
     "geom:latitude":46.51598,
     "geom:longitude":6.613828,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Cour 101",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253144959,
-    "wof:lastmodified":1449064995,
+    "wof:lastmodified":1466210450,
     "wof:name":"Boulaz Michel",
     "wof:parent_id":85799887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.613828,46.51598,6.613828,46.51598],
+  "bbox": [
+    6.613828,
+    46.51598,
+    6.613828,
+    46.51598
+],
   "geometry": {"coordinates":[6.613828,46.51598],"type":"Point"}
 }

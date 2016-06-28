@@ -2,13 +2,14 @@
   "id": 202392263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.46406,46.505711,6.46406,46.505711",
     "geom:latitude":46.505711,
     "geom:longitude":6.46406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzbergstrasse 4",
     "sg:city":"Grabs",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202392263,
-    "wof:lastmodified":1449062160,
+    "wof:lastmodified":1466209625,
     "wof:name":"Avenir Immo S\u00e0rl Conseils Et R\u00e9alisations En Mati\u00e8re De Construction, Transformation Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.46406,46.505711,6.46406,46.505711],
+  "bbox": [
+    6.46406,
+    46.505711,
+    6.46406,
+    46.505711
+],
   "geometry": {"coordinates":[6.46406,46.505711],"type":"Point"}
 }

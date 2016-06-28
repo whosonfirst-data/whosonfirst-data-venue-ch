@@ -2,13 +2,14 @@
   "id": 253208179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.051585,47.390739,8.051585,47.390739",
     "geom:latitude":47.390739,
     "geom:longitude":8.051585,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintere Bahnhofstrasse 42",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253208179,
-    "wof:lastmodified":1449063169,
+    "wof:lastmodified":1466211093,
     "wof:name":"Konditorei-b\u00e4ckerei Zubler, Caf\u00e9 M\u00e9tro Aarau",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.051585,47.390739,8.051585,47.390739],
+  "bbox": [
+    8.051585,
+    47.390739,
+    8.051585,
+    47.390739
+],
   "geometry": {"coordinates":[8.051585,47.390739],"type":"Point"}
 }

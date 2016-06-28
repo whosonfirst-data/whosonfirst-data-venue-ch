@@ -2,13 +2,14 @@
   "id": 219400255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448743,47.174416,7.448743,47.174416",
     "geom:latitude":47.174416,
     "geom:longitude":7.448743,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrenstrasse 43",
     "sg:city":"Leuzigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219400255,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466210183,
     "wof:name":"Ivo Bosco Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448743,47.174416,7.448743,47.174416],
+  "bbox": [
+    7.448743,
+    47.174416,
+    7.448743,
+    47.174416
+],
   "geometry": {"coordinates":[7.448743,47.174416],"type":"Point"}
 }

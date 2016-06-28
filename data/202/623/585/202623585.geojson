@@ -2,13 +2,14 @@
   "id": 202623585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.963567,47.246807,8.963567,47.246807",
     "geom:latitude":47.246807,
     "geom:longitude":8.963567,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Immeuble Alz\u00e9s B",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202623585,
-    "wof:lastmodified":1449061875,
+    "wof:lastmodified":1466209875,
     "wof:name":"Mas Engineering Group Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.963567,47.246807,8.963567,47.246807],
+  "bbox": [
+    8.963567,
+    47.246807,
+    8.963567,
+    47.246807
+],
   "geometry": {"coordinates":[8.963567,47.246807],"type":"Point"}
 }

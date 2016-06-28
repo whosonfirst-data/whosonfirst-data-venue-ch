@@ -2,13 +2,14 @@
   "id": 219153739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.487588,46.932392,7.487588,46.932392",
     "geom:latitude":46.932392,
     "geom:longitude":7.487588,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachstrasse 20",
     "sg:city":"Villmergen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219153739,
-    "wof:lastmodified":1449072819,
+    "wof:lastmodified":1466209912,
     "wof:name":"Dr.med.urs H\u00fcgli Spezialarzt Fmh",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.487588,46.932392,7.487588,46.932392],
+  "bbox": [
+    7.487588,
+    46.932392,
+    7.487588,
+    46.932392
+],
   "geometry": {"coordinates":[7.487588,46.932392],"type":"Point"}
 }

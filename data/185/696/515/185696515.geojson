@@ -2,13 +2,14 @@
   "id": 185696515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536881,47.37587,8.536881,47.37587",
     "geom:latitude":47.37587,
     "geom:longitude":8.536881,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Usteristrasse 10 8001 Z\u00fcrich. Postfach 7080",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185696515,
-    "wof:lastmodified":1449006727,
+    "wof:lastmodified":1466211058,
     "wof:name":"Dr.klaus Hery Anwaltsb\u00fcro",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536881,47.37587,8.536881,47.37587],
+  "bbox": [
+    8.536881,
+    47.37587,
+    8.536881,
+    47.37587
+],
   "geometry": {"coordinates":[8.536881,47.37587],"type":"Point"}
 }

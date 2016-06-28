@@ -2,13 +2,14 @@
   "id": 186558087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.555352,47.510944,7.555352,47.510944",
     "geom:latitude":47.510944,
     "geom:longitude":7.555352,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattstrasse 8",
     "sg:city":"Oberwil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186558087,
-    "wof:lastmodified":1449051113,
+    "wof:lastmodified":1466211755,
     "wof:name":"Egrolyt Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "analysis"
     ]
 },
-  "bbox": [7.555352,47.510944,7.555352,47.510944],
+  "bbox": [
+    7.555352,
+    47.510944,
+    7.555352,
+    47.510944
+],
   "geometry": {"coordinates":[7.555352,47.510944],"type":"Point"}
 }

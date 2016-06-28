@@ -2,13 +2,14 @@
   "id": 219349615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.899386,46.440582,6.899386,46.440582",
     "geom:latitude":46.440582,
     "geom:longitude":6.899386,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Jean-jacques-rousseau 5",
     "sg:city":"Clarens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219349615,
-    "wof:lastmodified":1449071721,
+    "wof:lastmodified":1466209689,
     "wof:name":"Garage J.-c. Falcy S\u00e0rl",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.899386,46.440582,6.899386,46.440582],
+  "bbox": [
+    6.899386,
+    46.440582,
+    6.899386,
+    46.440582
+],
   "geometry": {"coordinates":[6.899386,46.440582],"type":"Point"}
 }

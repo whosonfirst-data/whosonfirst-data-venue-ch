@@ -2,13 +2,14 @@
   "id": 186568009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.459977,47.008877,7.459977,47.008877",
     "geom:latitude":47.008877,
     "geom:longitude":7.459977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 110",
     "sg:city":"M\u00fcnchenbuchsee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186568009,
-    "wof:lastmodified":1449050176,
+    "wof:lastmodified":1466211795,
     "wof:name":"Spicher Gmbh",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coating"
     ]
 },
-  "bbox": [7.459977,47.008877,7.459977,47.008877],
+  "bbox": [
+    7.459977,
+    47.008877,
+    7.459977,
+    47.008877
+],
   "geometry": {"coordinates":[7.459977,47.008877],"type":"Point"}
 }

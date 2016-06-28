@@ -2,13 +2,14 @@
   "id": 185645845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548968,47.36018,8.548968,47.36018",
     "geom:latitude":47.36018,
     "geom:longitude":8.548968,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mainaustrasse 12",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185645845,
-    "wof:lastmodified":1449006775,
+    "wof:lastmodified":1466210191,
     "wof:name":"Korolnik Werbeagentur Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [8.548968,47.36018,8.548968,47.36018],
+  "bbox": [
+    8.548968,
+    47.36018,
+    8.548968,
+    47.36018
+],
   "geometry": {"coordinates":[8.548968,47.36018],"type":"Point"}
 }

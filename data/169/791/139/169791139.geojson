@@ -2,13 +2,14 @@
   "id": 169791139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.630565,47.41357,9.630565,47.41357",
     "geom:latitude":47.41357,
     "geom:longitude":9.630565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Auerstrasse 20",
     "sg:city":"Heerbrugg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169791139,
-    "wof:lastmodified":1449035190,
+    "wof:lastmodified":1466209002,
     "wof:name":"Central Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.630565,47.41357,9.630565,47.41357],
+  "bbox": [
+    9.630565,
+    47.41357,
+    9.630565,
+    47.41357
+],
   "geometry": {"coordinates":[9.630565,47.41357],"type":"Point"}
 }

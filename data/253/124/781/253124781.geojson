@@ -2,13 +2,14 @@
   "id": 253124781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.802615,47.0882,6.802615,47.0882",
     "geom:latitude":47.0882,
     "geom:longitude":6.802615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Caroline 6",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253124781,
-    "wof:lastmodified":1449065563,
+    "wof:lastmodified":1466210188,
     "wof:name":"Visilab La Chaux-de-fonds Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.802615,47.0882,6.802615,47.0882],
+  "bbox": [
+    6.802615,
+    47.0882,
+    6.802615,
+    47.0882
+],
   "geometry": {"coordinates":[6.802615,47.0882],"type":"Point"}
 }

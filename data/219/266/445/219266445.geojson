@@ -2,13 +2,14 @@
   "id": 219266445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564965,47.212658,8.564965,47.212658",
     "geom:latitude":47.212658,
     "geom:longitude":8.564965,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruessenstrasse 22",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219266445,
-    "wof:lastmodified":1449070476,
+    "wof:lastmodified":1466208943,
     "wof:name":"Ernst Andermatt Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564965,47.212658,8.564965,47.212658],
+  "bbox": [
+    8.564965,
+    47.212658,
+    8.564965,
+    47.212658
+],
   "geometry": {"coordinates":[8.564965,47.212658],"type":"Point"}
 }

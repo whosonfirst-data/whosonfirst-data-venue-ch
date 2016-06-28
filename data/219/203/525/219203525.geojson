@@ -2,13 +2,14 @@
   "id": 219203525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.295129,47.070976,7.295129,47.070976",
     "geom:latitude":47.070976,
     "geom:longitude":7.295129,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werkstrasse 36",
     "sg:city":"Lyss",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219203525,
-    "wof:lastmodified":1449071965,
+    "wof:lastmodified":1466210994,
     "wof:name":"Rasel Electronic Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "board"
     ]
 },
-  "bbox": [7.295129,47.070976,7.295129,47.070976],
+  "bbox": [
+    7.295129,
+    47.070976,
+    7.295129,
+    47.070976
+],
   "geometry": {"coordinates":[7.295129,47.070976],"type":"Point"}
 }

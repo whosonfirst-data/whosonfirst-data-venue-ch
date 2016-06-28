@@ -2,13 +2,14 @@
   "id": 202529747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49734,47.441319,7.49734,47.441319",
     "geom:latitude":47.441319,
     "geom:longitude":7.49734,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 45 4243 Dittingen. Postfach",
     "sg:city":"Dittingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202529747,
-    "wof:lastmodified":1449061232,
+    "wof:lastmodified":1466208998,
     "wof:name":"H & S Voluntas Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.49734,47.441319,7.49734,47.441319],
+  "bbox": [
+    7.49734,
+    47.441319,
+    7.49734,
+    47.441319
+],
   "geometry": {"coordinates":[7.49734,47.441319],"type":"Point"}
 }

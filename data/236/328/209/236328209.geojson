@@ -2,13 +2,14 @@
   "id": 236328209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54641,47.389194,8.54641,47.389194",
     "geom:latitude":47.389194,
     "geom:longitude":8.54641,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterthurerstrasse 62",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236328209,
-    "wof:lastmodified":1449003623,
+    "wof:lastmodified":1466211886,
     "wof:name":"Vilic Taxi",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54641,47.389194,8.54641,47.389194],
+  "bbox": [
+    8.54641,
+    47.389194,
+    8.54641,
+    47.389194
+],
   "geometry": {"coordinates":[8.54641,47.389194],"type":"Point"}
 }

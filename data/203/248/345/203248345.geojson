@@ -2,13 +2,14 @@
   "id": 203248345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.816461,47.337811,8.816461,47.337811",
     "geom:latitude":47.337811,
     "geom:longitude":8.816461,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schl\u00fcsselstrasse 46",
     "sg:city":"Zurzach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203248345,
-    "wof:lastmodified":1449025986,
+    "wof:lastmodified":1466210001,
     "wof:name":"Dr.med. Hanne Gunsch Spezial\u00e4rztin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.816461,47.337811,8.816461,47.337811],
+  "bbox": [
+    8.816461,
+    47.337811,
+    8.816461,
+    47.337811
+],
   "geometry": {"coordinates":[8.816461,47.337811],"type":"Point"}
 }

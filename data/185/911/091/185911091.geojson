@@ -2,13 +2,14 @@
   "id": 185911091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.742861,47.390182,8.742861,47.390182",
     "geom:latitude":47.390182,
     "geom:longitude":8.742861,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fclistrasse 18",
     "sg:city":"Fehraltorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185911091,
-    "wof:lastmodified":1449007967,
+    "wof:lastmodified":1466209937,
     "wof:name":"Are-system-bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.742861,47.390182,8.742861,47.390182],
+  "bbox": [
+    8.742861,
+    47.390182,
+    8.742861,
+    47.390182
+],
   "geometry": {"coordinates":[8.742861,47.390182],"type":"Point"}
 }

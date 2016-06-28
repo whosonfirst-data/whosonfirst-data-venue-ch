@@ -2,13 +2,14 @@
   "id": 202464695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.515003,47.393356,8.515003,47.393356",
     "geom:latitude":47.393356,
     "geom:longitude":8.515003,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardturmstrasse 122 8005 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202464695,
-    "wof:lastmodified":1449060806,
+    "wof:lastmodified":1466211013,
     "wof:name":"Dga Deplazes + Grab Architekten",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.515003,47.393356,8.515003,47.393356],
+  "bbox": [
+    8.515003,
+    47.393356,
+    8.515003,
+    47.393356
+],
   "geometry": {"coordinates":[8.515003,47.393356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252768097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.340391,47.351833,8.340391,47.351833",
     "geom:latitude":47.351833,
     "geom:longitude":8.340391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosengasse 10 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252768097,
-    "wof:lastmodified":1449005827,
+    "wof:lastmodified":1466209524,
     "wof:name":"Antiquariat Bader Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.340391,47.351833,8.340391,47.351833],
+  "bbox": [
+    8.340391,
+    47.351833,
+    8.340391,
+    47.351833
+],
   "geometry": {"coordinates":[8.340391,47.351833],"type":"Point"}
 }

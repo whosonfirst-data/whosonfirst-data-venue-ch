@@ -2,13 +2,14 @@
   "id": 219803089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.528864,46.84737,9.528864,46.84737",
     "geom:latitude":46.84737,
     "geom:longitude":9.528864,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Margrethenstrasse 2",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219803089,
-    "wof:lastmodified":1449073962,
+    "wof:lastmodified":1466212471,
     "wof:name":"Gerardo Pennella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.528864,46.84737,9.528864,46.84737],
+  "bbox": [
+    9.528864,
+    46.84737,
+    9.528864,
+    46.84737
+],
   "geometry": {"coordinates":[9.528864,46.84737],"type":"Point"}
 }

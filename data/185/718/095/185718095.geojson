@@ -2,13 +2,14 @@
   "id": 185718095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54137,47.381378,8.54137,47.381378",
     "geom:latitude":47.381378,
     "geom:longitude":8.54137,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Walchestrasse 27 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185718095,
-    "wof:lastmodified":1449006965,
+    "wof:lastmodified":1466211264,
     "wof:name":"Jean-rodolphe Spahr Advokaturb\u00fcro",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54137,47.381378,8.54137,47.381378],
+  "bbox": [
+    8.54137,
+    47.381378,
+    8.54137,
+    47.381378
+],
   "geometry": {"coordinates":[8.54137,47.381378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202600489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.601105,46.769115,7.601105,46.769115",
     "geom:latitude":46.769115,
     "geom:longitude":7.601105,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Siedlungsstrasse 14",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202600489,
-    "wof:lastmodified":1449060347,
+    "wof:lastmodified":1466209667,
     "wof:name":"Krebs Sanibia 2000 Technisches B\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.601105,46.769115,7.601105,46.769115],
+  "bbox": [
+    7.601105,
+    46.769115,
+    7.601105,
+    46.769115
+],
   "geometry": {"coordinates":[7.601105,46.769115],"type":"Point"}
 }

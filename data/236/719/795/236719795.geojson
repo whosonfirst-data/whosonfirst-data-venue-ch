@@ -2,13 +2,14 @@
   "id": 236719795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.940913,46.008083,8.940913,46.008083",
     "geom:latitude":46.008083,
     "geom:longitude":8.940913,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Besso 72",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236719795,
-    "wof:lastmodified":1449001997,
+    "wof:lastmodified":1466212838,
     "wof:name":"Lavanderia Reale Ottavio Bernardinello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.940913,46.008083,8.940913,46.008083],
+  "bbox": [
+    8.940913,
+    46.008083,
+    8.940913,
+    46.008083
+],
   "geometry": {"coordinates":[8.940913,46.008083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219950017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.626892,47.549511,7.626892,47.549511",
     "geom:latitude":47.549511,
     "geom:longitude":7.626892,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchenstrasse 6 4127 Birsfelden. Postfach 728",
     "sg:city":"Birsfelden",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219950017,
-    "wof:lastmodified":1449071764,
+    "wof:lastmodified":1466212631,
     "wof:name":"T. Stetter, Montage-unternehmen",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.626892,47.549511,7.626892,47.549511],
+  "bbox": [
+    7.626892,
+    47.549511,
+    7.626892,
+    47.549511
+],
   "geometry": {"coordinates":[7.626892,47.549511],"type":"Point"}
 }

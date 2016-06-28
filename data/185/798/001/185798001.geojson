@@ -2,13 +2,14 @@
   "id": 185798001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587382,47.556896,7.587382,47.556896",
     "geom:latitude":47.556896,
     "geom:longitude":7.587382,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcmelinsplatz 14 4001 Basel. Postfach 1012",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185798001,
-    "wof:lastmodified":1449006917,
+    "wof:lastmodified":1466209099,
     "wof:name":"Strenger & Lyssy Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587382,47.556896,7.587382,47.556896],
+  "bbox": [
+    7.587382,
+    47.556896,
+    7.587382,
+    47.556896
+],
   "geometry": {"coordinates":[7.587382,47.556896],"type":"Point"}
 }

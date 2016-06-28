@@ -2,13 +2,14 @@
   "id": 219922197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.522799,47.344383,9.522799,47.344383",
     "geom:latitude":47.344383,
     "geom:longitude":9.522799,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 7",
     "sg:city":"Eichberg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219922197,
-    "wof:lastmodified":1449070708,
+    "wof:lastmodified":1466212674,
     "wof:name":"Oeler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.522799,47.344383,9.522799,47.344383],
+  "bbox": [
+    9.522799,
+    47.344383,
+    9.522799,
+    47.344383
+],
   "geometry": {"coordinates":[9.522799,47.344383],"type":"Point"}
 }

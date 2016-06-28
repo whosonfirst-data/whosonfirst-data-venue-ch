@@ -2,13 +2,14 @@
   "id": 219965353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.626152,46.895924,8.626152,46.895924",
     "geom:latitude":46.895924,
     "geom:longitude":8.626152,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riva Paradiso 15",
     "sg:city":"Paradiso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219965353,
-    "wof:lastmodified":1449072859,
+    "wof:lastmodified":1466212739,
     "wof:name":"B & S Ingenieur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.626152,46.895924,8.626152,46.895924],
+  "bbox": [
+    8.626152,
+    46.895924,
+    8.626152,
+    46.895924
+],
   "geometry": {"coordinates":[8.626152,46.895924],"type":"Point"}
 }

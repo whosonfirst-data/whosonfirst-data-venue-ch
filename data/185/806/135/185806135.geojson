@@ -2,13 +2,14 @@
   "id": 185806135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.133425,47.041451,8.133425,47.041451",
     "geom:latitude":47.041451,
     "geom:longitude":8.133425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse",
     "sg:city":"Schachen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185806135,
-    "wof:lastmodified":1449006593,
+    "wof:lastmodified":1466209163,
     "wof:name":"Arnold Ag Umwelttechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.133425,47.041451,8.133425,47.041451],
+  "bbox": [
+    8.133425,
+    47.041451,
+    8.133425,
+    47.041451
+],
   "geometry": {"coordinates":[8.133425,47.041451],"type":"Point"}
 }

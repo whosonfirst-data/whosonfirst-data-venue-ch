@@ -2,13 +2,14 @@
   "id": 219682553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.557423,47.129402,7.557423,47.129402",
     "geom:latitude":47.129402,
     "geom:longitude":7.557423,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 14",
     "sg:city":"Utzenstorf",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219682553,
-    "wof:lastmodified":1449071004,
+    "wof:lastmodified":1466212028,
     "wof:name":"Schweiz. Bankverein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.557423,47.129402,7.557423,47.129402],
+  "bbox": [
+    7.557423,
+    47.129402,
+    7.557423,
+    47.129402
+],
   "geometry": {"coordinates":[7.557423,47.129402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186544903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.670018,46.509647,6.670018,46.509647",
     "geom:latitude":46.509647,
     "geom:longitude":6.670018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. Des Anciens-moulins 16",
     "sg:city":"Pully",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186544903,
-    "wof:lastmodified":1449053018,
+    "wof:lastmodified":1466211847,
     "wof:name":"Fonderie Arber Pully",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "casting"
     ]
 },
-  "bbox": [6.670018,46.509647,6.670018,46.509647],
+  "bbox": [
+    6.670018,
+    46.509647,
+    6.670018,
+    46.509647
+],
   "geometry": {"coordinates":[6.670018,46.509647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219846349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564631,47.349461,8.564631,47.349461",
     "geom:latitude":47.349461,
     "geom:longitude":8.564631,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollikerstrasse 214",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219846349,
-    "wof:lastmodified":1449073141,
+    "wof:lastmodified":1466212544,
     "wof:name":"Restaurant & Bar Fl\u00fchgasse",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.564631,47.349461,8.564631,47.349461],
+  "bbox": [
+    8.564631,
+    47.349461,
+    8.564631,
+    47.349461
+],
   "geometry": {"coordinates":[8.564631,47.349461],"type":"Point"}
 }

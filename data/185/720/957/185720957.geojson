@@ -2,13 +2,14 @@
   "id": 185720957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.546448,47.410858,8.546448,47.410858",
     "geom:latitude":47.410858,
     "geom:longitude":8.546448,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 361",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185720957,
-    "wof:lastmodified":1449006995,
+    "wof:lastmodified":1466211281,
     "wof:name":"Kurt Gr\u00fcnig Advokaturb\u00fcro",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.546448,47.410858,8.546448,47.410858],
+  "bbox": [
+    8.546448,
+    47.410858,
+    8.546448,
+    47.410858
+],
   "geometry": {"coordinates":[8.546448,47.410858],"type":"Point"}
 }

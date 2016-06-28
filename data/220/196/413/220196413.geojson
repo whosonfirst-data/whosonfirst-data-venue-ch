@@ -2,13 +2,14 @@
   "id": 220196413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.26555,47.04884,8.26555,47.04884",
     "geom:latitude":47.04884,
     "geom:longitude":8.26555,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grossmatte 19b",
     "sg:city":"Littau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220196413,
-    "wof:lastmodified":1449074220,
+    "wof:lastmodified":1466210566,
     "wof:name":"Peter Egloff Restaurierungen",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.26555,47.04884,8.26555,47.04884],
+  "bbox": [
+    8.26555,
+    47.04884,
+    8.26555,
+    47.04884
+],
   "geometry": {"coordinates":[8.26555,47.04884],"type":"Point"}
 }

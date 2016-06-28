@@ -2,13 +2,14 @@
   "id": 253105291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.620286,47.493568,7.620286,47.493568",
     "geom:latitude":47.493568,
     "geom:longitude":7.620286,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 34 4144 Arlesheim. Postfach 248",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253105291,
-    "wof:lastmodified":1449063962,
+    "wof:lastmodified":1466209987,
     "wof:name":"Bitterli Optik Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.620286,47.493568,7.620286,47.493568],
+  "bbox": [
+    7.620286,
+    47.493568,
+    7.620286,
+    47.493568
+],
   "geometry": {"coordinates":[7.620286,47.493568],"type":"Point"}
 }

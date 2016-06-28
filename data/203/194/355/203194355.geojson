@@ -2,13 +2,14 @@
   "id": 203194355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.149119,46.191021,6.149119,46.191021",
     "geom:latitude":46.191021,
     "geom:longitude":6.149119,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Roseraie 72",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203194355,
-    "wof:lastmodified":1449026581,
+    "wof:lastmodified":1466209407,
     "wof:name":"Dr M\u00e9d. Jean-philippe Corsat M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.149119,46.191021,6.149119,46.191021],
+  "bbox": [
+    6.149119,
+    46.191021,
+    6.149119,
+    46.191021
+],
   "geometry": {"coordinates":[6.149119,46.191021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253140043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.678455,47.003632,7.678455,47.003632",
     "geom:latitude":47.003632,
     "geom:longitude":7.678455,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gare Avenue De La 42 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253140043,
-    "wof:lastmodified":1449063247,
+    "wof:lastmodified":1466210388,
     "wof:name":"Bichsel Remo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.678455,47.003632,7.678455,47.003632],
+  "bbox": [
+    7.678455,
+    47.003632,
+    7.678455,
+    47.003632
+],
   "geometry": {"coordinates":[7.678455,47.003632],"type":"Point"}
 }

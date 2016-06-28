@@ -2,13 +2,14 @@
   "id": 252958847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44404,46.45443,7.44404,46.45443",
     "geom:latitude":46.45443,
     "geom:longitude":7.44404,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schauenburgerstrasse 27",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252958847,
-    "wof:lastmodified":1449006273,
+    "wof:lastmodified":1466211614,
     "wof:name":"Albert R\u00f6sti Haushaltapparate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44404,46.45443,7.44404,46.45443],
+  "bbox": [
+    7.44404,
+    46.45443,
+    7.44404,
+    46.45443
+],
   "geometry": {"coordinates":[7.44404,46.45443],"type":"Point"}
 }

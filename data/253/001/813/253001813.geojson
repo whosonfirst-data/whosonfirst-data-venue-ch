@@ -2,13 +2,14 @@
   "id": 253001813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.249837,47.581135,8.249837,47.581135",
     "geom:latitude":47.581135,
     "geom:longitude":8.249837,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnengasse 46",
     "sg:city":"Klingnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253001813,
-    "wof:lastmodified":1449063479,
+    "wof:lastmodified":1466208963,
     "wof:name":"Wohntextil Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.249837,47.581135,8.249837,47.581135],
+  "bbox": [
+    8.249837,
+    47.581135,
+    8.249837,
+    47.581135
+],
   "geometry": {"coordinates":[8.249837,47.581135],"type":"Point"}
 }

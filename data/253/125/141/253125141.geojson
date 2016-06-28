@@ -2,13 +2,14 @@
   "id": 253125141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517457,47.370747,8.517457,47.370747",
     "geom:latitude":47.370747,
     "geom:longitude":8.517457,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birmensdorferstrasse 188 8003 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253125141,
-    "wof:lastmodified":1449065697,
+    "wof:lastmodified":1466210193,
     "wof:name":"Vohdin Optik Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.517457,47.370747,8.517457,47.370747],
+  "bbox": [
+    8.517457,
+    47.370747,
+    8.517457,
+    47.370747
+],
   "geometry": {"coordinates":[8.517457,47.370747],"type":"Point"}
 }

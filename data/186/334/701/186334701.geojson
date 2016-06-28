@@ -2,13 +2,14 @@
   "id": 186334701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.547623,46.551846,6.547623,46.551846",
     "geom:latitude":46.551846,
     "geom:longitude":6.547623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Gravernay 19 1030 Bussigny-lausanne Case Postale 461",
     "sg:city":"Bussigny-lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186334701,
-    "wof:lastmodified":1449051160,
+    "wof:lastmodified":1466210096,
     "wof:name":"Ambroise Tissot Entreprise De Terrassement",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.547623,46.551846,6.547623,46.551846],
+  "bbox": [
+    6.547623,
+    46.551846,
+    6.547623,
+    46.551846
+],
   "geometry": {"coordinates":[6.547623,46.551846],"type":"Point"}
 }

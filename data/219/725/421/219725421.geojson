@@ -2,13 +2,14 @@
   "id": 219725421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.720911,47.241531,8.720911,47.241531",
     "geom:latitude":47.241531,
     "geom:longitude":8.720911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstr. 13",
     "sg:city":"Goldau",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219725421,
-    "wof:lastmodified":1449071254,
+    "wof:lastmodified":1466212296,
     "wof:name":"Sparkasse St\u00e4fa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.720911,47.241531,8.720911,47.241531],
+  "bbox": [
+    8.720911,
+    47.241531,
+    8.720911,
+    47.241531
+],
   "geometry": {"coordinates":[8.720911,47.241531],"type":"Point"}
 }

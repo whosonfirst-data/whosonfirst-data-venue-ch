@@ -2,13 +2,14 @@
   "id": 202673677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.257949,47.459232,8.257949,47.459232",
     "geom:latitude":47.459232,
     "geom:longitude":8.257949,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Universit\u00e4tstrasse 9",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202673677,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466210344,
     "wof:name":"Project Engineering W\u00c4lty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.257949,47.459232,8.257949,47.459232],
+  "bbox": [
+    8.257949,
+    47.459232,
+    8.257949,
+    47.459232
+],
   "geometry": {"coordinates":[8.257949,47.459232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185814155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.528049,47.340866,9.528049,47.340866",
     "geom:latitude":47.340866,
     "geom:longitude":9.528049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gehrlistrasse 2",
     "sg:city":"Eichberg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185814155,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466209207,
     "wof:name":"Br\u00fclisauer Landmaschinen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "machinery"
     ]
 },
-  "bbox": [9.528049,47.340866,9.528049,47.340866],
+  "bbox": [
+    9.528049,
+    47.340866,
+    9.528049,
+    47.340866
+],
   "geometry": {"coordinates":[9.528049,47.340866],"type":"Point"}
 }

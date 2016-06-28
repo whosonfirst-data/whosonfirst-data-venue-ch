@@ -2,13 +2,14 @@
   "id": 185859715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545732,47.367565,8.545732,47.367565",
     "geom:latitude":47.367565,
     "geom:longitude":8.545732,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4mistrasse 4 8001 Z\u00fcrich. Postfach 454",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185859715,
-    "wof:lastmodified":1449007744,
+    "wof:lastmodified":1466209566,
     "wof:name":"Instinet (schweiz) Ag Wertschriften; Handel. Finanzielle, Finanztechn. Dienstleistungen Usw",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545732,47.367565,8.545732,47.367565],
+  "bbox": [
+    8.545732,
+    47.367565,
+    8.545732,
+    47.367565
+],
   "geometry": {"coordinates":[8.545732,47.367565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202874591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.748584,47.215153,7.748584,47.215153",
     "geom:latitude":47.215153,
     "geom:longitude":7.748584,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossstrasse 12 4922 B\u00fctzberg. Postfach",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202874591,
-    "wof:lastmodified":1449062485,
+    "wof:lastmodified":1466211913,
     "wof:name":"Ww Architektur + Bauleitungen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.748584,47.215153,7.748584,47.215153],
+  "bbox": [
+    7.748584,
+    47.215153,
+    7.748584,
+    47.215153
+],
   "geometry": {"coordinates":[7.748584,47.215153],"type":"Point"}
 }

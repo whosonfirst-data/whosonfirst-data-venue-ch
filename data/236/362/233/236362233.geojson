@@ -2,13 +2,14 @@
   "id": 236362233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.333212,47.412189,9.333212,47.412189",
     "geom:latitude":47.412189,
     "geom:longitude":9.333212,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waisenhausstrasse 1",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236362233,
-    "wof:lastmodified":1449003854,
+    "wof:lastmodified":1466212025,
     "wof:name":"Realschule Engelwies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.333212,47.412189,9.333212,47.412189],
+  "bbox": [
+    9.333212,
+    47.412189,
+    9.333212,
+    47.412189
+],
   "geometry": {"coordinates":[9.333212,47.412189],"type":"Point"}
 }

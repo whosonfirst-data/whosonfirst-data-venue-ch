@@ -2,13 +2,14 @@
   "id": 252707255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.03523,47.67363,9.03523,47.67363",
     "geom:latitude":47.67363,
     "geom:longitude":9.03523,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 439",
     "sg:city":"Berlingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252707255,
-    "wof:lastmodified":1449006351,
+    "wof:lastmodified":1466208921,
     "wof:name":"Sch\u00e4llibaum Ulrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.03523,47.67363,9.03523,47.67363],
+  "bbox": [
+    9.03523,
+    47.67363,
+    9.03523,
+    47.67363
+],
   "geometry": {"coordinates":[9.03523,47.67363],"type":"Point"}
 }

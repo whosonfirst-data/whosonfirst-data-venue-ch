@@ -2,13 +2,14 @@
   "id": 219462419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.202725,47.436172,8.202725,47.436172",
     "geom:latitude":47.436172,
     "geom:longitude":8.202725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langgasse",
     "sg:city":"Birrhard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219462419,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466210778,
     "wof:name":"Aargauische Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.202725,47.436172,8.202725,47.436172],
+  "bbox": [
+    8.202725,
+    47.436172,
+    8.202725,
+    47.436172
+],
   "geometry": {"coordinates":[8.202725,47.436172],"type":"Point"}
 }

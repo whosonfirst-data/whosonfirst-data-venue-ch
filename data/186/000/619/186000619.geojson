@@ -2,13 +2,14 @@
   "id": 186000619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.193574,47.112816,7.193574,47.112816",
     "geom:latitude":47.112816,
     "geom:longitude":7.193574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorf 12",
     "sg:city":"T\u00fcscherz-alferm\u00e9e",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186000619,
-    "wof:lastmodified":1449050830,
+    "wof:lastmodified":1466208896,
     "wof:name":"Alfred Hirt Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.193574,47.112816,7.193574,47.112816],
+  "bbox": [
+    7.193574,
+    47.112816,
+    7.193574,
+    47.112816
+],
   "geometry": {"coordinates":[7.193574,47.112816],"type":"Point"}
 }

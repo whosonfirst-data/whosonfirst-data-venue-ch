@@ -2,13 +2,14 @@
   "id": 186131149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.576613,47.699997,8.576613,47.699997",
     "geom:latitude":47.699997,
     "geom:longitude":8.576613,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haargasse 14",
     "sg:city":"Beringen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186131149,
-    "wof:lastmodified":1449051187,
+    "wof:lastmodified":1466211214,
     "wof:name":"Lainatec Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.576613,47.699997,8.576613,47.699997],
+  "bbox": [
+    8.576613,
+    47.699997,
+    8.576613,
+    47.699997
+],
   "geometry": {"coordinates":[8.576613,47.699997],"type":"Point"}
 }

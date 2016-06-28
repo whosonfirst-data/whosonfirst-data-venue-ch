@@ -2,13 +2,14 @@
   "id": 252997903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.269223,47.287048,8.269223,47.287048",
     "geom:latitude":47.287048,
     "geom:longitude":8.269223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gass\u00e4ckerstrasse 264 5618 Bettwil. Postfach 10",
     "sg:city":"Bettwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252997903,
-    "wof:lastmodified":1449006322,
+    "wof:lastmodified":1466211908,
     "wof:name":"B + M Elektro-ger\u00e4te Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.269223,47.287048,8.269223,47.287048],
+  "bbox": [
+    8.269223,
+    47.287048,
+    8.269223,
+    47.287048
+],
   "geometry": {"coordinates":[8.269223,47.287048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202910521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.987193,46.325001,7.987193,46.325001",
     "geom:latitude":46.325001,
     "geom:longitude":7.987193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Belalpstrasse 9",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202910521,
-    "wof:lastmodified":1449061172,
+    "wof:lastmodified":1466212165,
     "wof:name":"Architekturb\u00fcro Lochmatter Beat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.987193,46.325001,7.987193,46.325001],
+  "bbox": [
+    7.987193,
+    46.325001,
+    7.987193,
+    46.325001
+],
   "geometry": {"coordinates":[7.987193,46.325001],"type":"Point"}
 }

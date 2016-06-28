@@ -2,13 +2,14 @@
   "id": 219261659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.634314,47.415604,9.634314,47.415604",
     "geom:latitude":47.415604,
     "geom:longitude":9.634314,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorfstrasse 85",
     "sg:city":"Widnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219261659,
-    "wof:lastmodified":1449070426,
+    "wof:lastmodified":1466208902,
     "wof:name":"Christian Jakob Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.634314,47.415604,9.634314,47.415604],
+  "bbox": [
+    9.634314,
+    47.415604,
+    9.634314,
+    47.415604
+],
   "geometry": {"coordinates":[9.634314,47.415604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236002481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402248,47.50211,8.402248,47.50211",
     "geom:latitude":47.50211,
     "geom:longitude":8.402248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 52",
     "sg:city":"Oberweningen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236002481,
-    "wof:lastmodified":1449004529,
+    "wof:lastmodified":1466208915,
     "wof:name":"Surber Alwin Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.402248,47.50211,8.402248,47.50211],
+  "bbox": [
+    8.402248,
+    47.50211,
+    8.402248,
+    47.50211
+],
   "geometry": {"coordinates":[8.402248,47.50211],"type":"Point"}
 }

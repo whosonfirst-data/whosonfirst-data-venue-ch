@@ -2,13 +2,14 @@
   "id": 236581487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.59397,47.569435,7.59397,47.569435",
     "geom:latitude":47.569435,
     "geom:longitude":7.59397,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Amerbachstrasse 55a 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236581487,
-    "wof:lastmodified":1449002199,
+    "wof:lastmodified":1466212652,
     "wof:name":"Isw Verlags Ag",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.59397,47.569435,7.59397,47.569435],
+  "bbox": [
+    7.59397,
+    47.569435,
+    7.59397,
+    47.569435
+],
   "geometry": {"coordinates":[7.59397,47.569435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219531649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.799007,46.170658,8.799007,46.170658",
     "geom:latitude":46.170658,
     "geom:longitude":8.799007,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ramogna 14",
     "sg:city":"Locarno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219531649,
-    "wof:lastmodified":1449071227,
+    "wof:lastmodified":1466211415,
     "wof:name":"Corner Bank Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.799007,46.170658,8.799007,46.170658],
+  "bbox": [
+    8.799007,
+    46.170658,
+    8.799007,
+    46.170658
+],
   "geometry": {"coordinates":[8.799007,46.170658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253003605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655173,47.233482,7.655173,47.233482",
     "geom:latitude":47.233482,
     "geom:longitude":7.655173,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 186",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253003605,
-    "wof:lastmodified":1449065562,
+    "wof:lastmodified":1466208978,
     "wof:name":"J\u00e4ggi Ag Handwerk Haushalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.655173,47.233482,7.655173,47.233482],
+  "bbox": [
+    7.655173,
+    47.233482,
+    7.655173,
+    47.233482
+],
   "geometry": {"coordinates":[7.655173,47.233482],"type":"Point"}
 }

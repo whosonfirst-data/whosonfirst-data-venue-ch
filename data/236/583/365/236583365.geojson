@@ -2,13 +2,14 @@
   "id": 236583365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40111,47.427601,8.40111,47.427601",
     "geom:latitude":47.427601,
     "geom:longitude":8.40111,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Soodstrasse 20",
     "sg:city":"Oetwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236583365,
-    "wof:lastmodified":1449004411,
+    "wof:lastmodified":1466212655,
     "wof:name":"Sailer + Co, Mega Verlag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40111,47.427601,8.40111,47.427601],
+  "bbox": [
+    8.40111,
+    47.427601,
+    8.40111,
+    47.427601
+],
   "geometry": {"coordinates":[8.40111,47.427601],"type":"Point"}
 }

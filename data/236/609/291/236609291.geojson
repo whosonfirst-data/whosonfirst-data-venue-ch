@@ -2,13 +2,14 @@
   "id": 236609291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.641365,47.579529,7.641365,47.579529",
     "geom:latitude":47.579529,
     "geom:longitude":7.641365,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aeussere Baselstrasse 109",
     "sg:city":"Riehen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236609291,
-    "wof:lastmodified":1449002768,
+    "wof:lastmodified":1466212616,
     "wof:name":"Cadiware Ag",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cad"
     ]
 },
-  "bbox": [7.641365,47.579529,7.641365,47.579529],
+  "bbox": [
+    7.641365,
+    47.579529,
+    7.641365,
+    47.579529
+],
   "geometry": {"coordinates":[7.641365,47.579529],"type":"Point"}
 }

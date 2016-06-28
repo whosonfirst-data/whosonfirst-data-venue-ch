@@ -2,13 +2,14 @@
   "id": 186119047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.848323,46.684708,7.848323,46.684708",
     "geom:latitude":46.684708,
     "geom:longitude":7.848323,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 7",
     "sg:city":"Unterseen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186119047,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466211068,
     "wof:name":"J\u00fcrgen Severi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.848323,46.684708,7.848323,46.684708],
+  "bbox": [
+    7.848323,
+    46.684708,
+    7.848323,
+    46.684708
+],
   "geometry": {"coordinates":[7.848323,46.684708],"type":"Point"}
 }

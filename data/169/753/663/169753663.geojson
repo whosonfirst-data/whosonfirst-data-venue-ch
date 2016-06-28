@@ -2,13 +2,14 @@
   "id": 169753663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435219,46.939857,7.435219,46.939857",
     "geom:latitude":46.939857,
     "geom:longitude":7.435219,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eigerstrasse 46 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169753663,
-    "wof:lastmodified":1449033071,
+    "wof:lastmodified":1466211381,
     "wof:name":"Albania Embassy",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.435219,46.939857,7.435219,46.939857],
+  "bbox": [
+    7.435219,
+    46.939857,
+    7.435219,
+    46.939857
+],
   "geometry": {"coordinates":[7.435219,46.939857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236352811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.519781,47.138546,9.519781,47.138546",
     "geom:latitude":47.138546,
     "geom:longitude":9.519781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Giessenstrasse 20",
     "sg:city":"Vaduz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236352811,
-    "wof:lastmodified":1449003722,
+    "wof:lastmodified":1466212092,
     "wof:name":"Oberschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.519781,47.138546,9.519781,47.138546],
+  "bbox": [
+    9.519781,
+    47.138546,
+    9.519781,
+    47.138546
+],
   "geometry": {"coordinates":[9.519781,47.138546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236553513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53542,47.362362,8.53542,47.362362",
     "geom:latitude":47.362362,
     "geom:longitude":8.53542,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mythenquai 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236553513,
-    "wof:lastmodified":1449001691,
+    "wof:lastmodified":1466212590,
     "wof:name":"Voli\u00e8re",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53542,47.362362,8.53542,47.362362],
+  "bbox": [
+    8.53542,
+    47.362362,
+    8.53542,
+    47.362362
+],
   "geometry": {"coordinates":[8.53542,47.362362],"type":"Point"}
 }

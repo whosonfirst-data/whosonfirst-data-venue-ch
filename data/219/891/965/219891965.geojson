@@ -2,13 +2,14 @@
   "id": 219891965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.412041,46.924469,7.412041,46.924469",
     "geom:latitude":46.924469,
     "geom:longitude":7.412041,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4gestrasse 66 3098 K\u00f6niz. Postfach 556",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219891965,
-    "wof:lastmodified":1449072521,
+    "wof:lastmodified":1466212691,
     "wof:name":"Wohnbaugen.bodenrain C/o Pirit Ag",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.412041,46.924469,7.412041,46.924469],
+  "bbox": [
+    7.412041,
+    46.924469,
+    7.412041,
+    46.924469
+],
   "geometry": {"coordinates":[7.412041,46.924469],"type":"Point"}
 }

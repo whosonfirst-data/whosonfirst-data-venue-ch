@@ -2,13 +2,14 @@
   "id": 219432419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.186613,47.642452,9.186613,47.642452",
     "geom:latitude":47.642452,
     "geom:longitude":9.186613,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Romanshorner Strasse 16",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219432419,
-    "wof:lastmodified":1449070321,
+    "wof:lastmodified":1466210483,
     "wof:name":"Schlauri Transport Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.186613,47.642452,9.186613,47.642452],
+  "bbox": [
+    9.186613,
+    47.642452,
+    9.186613,
+    47.642452
+],
   "geometry": {"coordinates":[9.186613,47.642452],"type":"Point"}
 }

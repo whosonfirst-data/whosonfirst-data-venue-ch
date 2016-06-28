@@ -2,13 +2,14 @@
   "id": 236739905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.791677,47.043682,7.791677,47.043682",
     "geom:latitude":47.043682,
     "geom:longitude":7.791677,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holbeinstrasse 65",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236739905,
-    "wof:lastmodified":1449002969,
+    "wof:lastmodified":1466212854,
     "wof:name":"Pb Baumann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.791677,47.043682,7.791677,47.043682],
+  "bbox": [
+    7.791677,
+    47.043682,
+    7.791677,
+    47.043682
+],
   "geometry": {"coordinates":[7.791677,47.043682],"type":"Point"}
 }

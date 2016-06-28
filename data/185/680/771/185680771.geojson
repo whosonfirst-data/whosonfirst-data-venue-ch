@@ -2,13 +2,14 @@
   "id": 185680771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.569302,47.361992,8.569302,47.361992",
     "geom:latitude":47.361992,
     "geom:longitude":8.569302,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Witikonerstrasse 61 8032 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185680771,
-    "wof:lastmodified":1449007723,
+    "wof:lastmodified":1466210938,
     "wof:name":"Bill Isenegger & Ackermann Advokaturb\u00fcro Und Notariat",
     "wof:parent_id":85800057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.569302,47.361992,8.569302,47.361992],
+  "bbox": [
+    8.569302,
+    47.361992,
+    8.569302,
+    47.361992
+],
   "geometry": {"coordinates":[8.569302,47.361992],"type":"Point"}
 }

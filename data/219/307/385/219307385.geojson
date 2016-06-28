@@ -2,13 +2,14 @@
   "id": 219307385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.415485,46.483383,6.415485,46.483383",
     "geom:latitude":46.483383,
     "geom:longitude":6.415485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Maudry",
     "sg:city":"Etoy",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219307385,
-    "wof:lastmodified":1449071312,
+    "wof:lastmodified":1466209314,
     "wof:name":"Philippe Favre Garage Des Vignes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.415485,46.483383,6.415485,46.483383],
+  "bbox": [
+    6.415485,
+    46.483383,
+    6.415485,
+    46.483383
+],
   "geometry": {"coordinates":[6.415485,46.483383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236544427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528707,47.3727,8.528707,47.3727",
     "geom:latitude":47.3727,
     "geom:longitude":8.528707,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strassburgstrasse 10",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236544427,
-    "wof:lastmodified":1449005243,
+    "wof:lastmodified":1466212578,
     "wof:name":"Beat Jakob Offsetdruck",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.528707,47.3727,8.528707,47.3727],
+  "bbox": [
+    8.528707,
+    47.3727,
+    8.528707,
+    47.3727
+],
   "geometry": {"coordinates":[8.528707,47.3727],"type":"Point"}
 }

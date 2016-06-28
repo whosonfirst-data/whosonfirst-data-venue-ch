@@ -2,13 +2,14 @@
   "id": 219508099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.39541,46.205479,7.39541,46.205479",
     "geom:latitude":46.205479,
     "geom:longitude":7.39541,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Case Postale 228",
     "sg:city":"Versoix",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219508099,
-    "wof:lastmodified":1449072355,
+    "wof:lastmodified":1466211199,
     "wof:name":"Banque Raiffeisen Vex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.39541,46.205479,7.39541,46.205479],
+  "bbox": [
+    7.39541,
+    46.205479,
+    7.39541,
+    46.205479
+],
   "geometry": {"coordinates":[7.39541,46.205479],"type":"Point"}
 }

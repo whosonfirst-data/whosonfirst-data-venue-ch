@@ -2,13 +2,14 @@
   "id": 252935393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.563997,46.535061,6.563997,46.535061",
     "geom:latitude":46.535061,
     "geom:longitude":6.563997,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafenstrasse 50",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252935393,
-    "wof:lastmodified":1449006317,
+    "wof:lastmodified":1466211373,
     "wof:name":"Cedrico Sa",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.563997,46.535061,6.563997,46.535061],
+  "bbox": [
+    6.563997,
+    46.535061,
+    6.563997,
+    46.535061
+],
   "geometry": {"coordinates":[6.563997,46.535061],"type":"Point"}
 }

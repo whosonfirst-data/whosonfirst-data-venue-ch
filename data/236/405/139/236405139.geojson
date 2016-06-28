@@ -2,13 +2,14 @@
   "id": 236405139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80263,47.256905,8.80263,47.256905",
     "geom:latitude":47.256905,
     "geom:longitude":8.80263,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 6",
     "sg:city":"Wolfhausen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236405139,
-    "wof:lastmodified":1449004914,
+    "wof:lastmodified":1466212138,
     "wof:name":"Bibliothek Geissberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [8.80263,47.256905,8.80263,47.256905],
+  "bbox": [
+    8.80263,
+    47.256905,
+    8.80263,
+    47.256905
+],
   "geometry": {"coordinates":[8.80263,47.256905],"type":"Point"}
 }

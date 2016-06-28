@@ -2,13 +2,14 @@
   "id": 253213037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.144377,46.031067,7.144377,46.031067",
     "geom:latitude":46.031067,
     "geom:longitude":7.144377,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Bourgeal",
     "sg:city":"Orsi\u00e8res",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253213037,
-    "wof:lastmodified":1449062856,
+    "wof:lastmodified":1466211140,
     "wof:name":"Laurent Joris Boulangerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.144377,46.031067,7.144377,46.031067],
+  "bbox": [
+    7.144377,
+    46.031067,
+    7.144377,
+    46.031067
+],
   "geometry": {"coordinates":[7.144377,46.031067],"type":"Point"}
 }

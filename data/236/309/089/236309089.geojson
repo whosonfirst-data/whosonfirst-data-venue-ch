@@ -2,13 +2,14 @@
   "id": 236309089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.865909,47.506481,7.865909,47.506481",
     "geom:latitude":47.506481,
     "geom:longitude":7.865909,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hellikerstrasse 39",
     "sg:city":"Buus",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236309089,
-    "wof:lastmodified":1449002228,
+    "wof:lastmodified":1466211911,
     "wof:name":"Michi Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.865909,47.506481,7.865909,47.506481],
+  "bbox": [
+    7.865909,
+    47.506481,
+    7.865909,
+    47.506481
+],
   "geometry": {"coordinates":[7.865909,47.506481],"type":"Point"}
 }

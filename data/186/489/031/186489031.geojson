@@ -2,13 +2,14 @@
   "id": 186489031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.370155,47.420231,9.370155,47.420231",
     "geom:latitude":47.420231,
     "geom:longitude":9.370155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-vorstadt 85",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186489031,
-    "wof:lastmodified":1449051847,
+    "wof:lastmodified":1466211343,
     "wof:name":"Altersheim Marthaheim",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [9.370155,47.420231,9.370155,47.420231],
+  "bbox": [
+    9.370155,
+    47.420231,
+    9.370155,
+    47.420231
+],
   "geometry": {"coordinates":[9.370155,47.420231],"type":"Point"}
 }

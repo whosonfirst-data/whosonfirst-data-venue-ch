@@ -2,13 +2,14 @@
   "id": 219804033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.842652,47.333,7.842652,47.333",
     "geom:latitude":47.333,
     "geom:longitude":7.842652,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnerstrasse 4",
     "sg:city":"H\u00e4gendorf",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219804033,
-    "wof:lastmodified":1449072848,
+    "wof:lastmodified":1466212382,
     "wof:name":"Green-life Bar Fellmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.842652,47.333,7.842652,47.333],
+  "bbox": [
+    7.842652,
+    47.333,
+    7.842652,
+    47.333
+],
   "geometry": {"coordinates":[7.842652,47.333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236486801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.200895,46.339355,6.200895,46.339355",
     "geom:latitude":46.339355,
     "geom:longitude":6.200895,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Verneys 1297 Founex. Postfach",
     "sg:city":"Founex",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236486801,
-    "wof:lastmodified":1449003505,
+    "wof:lastmodified":1466212563,
     "wof:name":"Soci\u00e9t\u00e9 Coop\u00e9rative Du Port De Founex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.200895,46.339355,6.200895,46.339355],
+  "bbox": [
+    6.200895,
+    46.339355,
+    6.200895,
+    46.339355
+],
   "geometry": {"coordinates":[6.200895,46.339355],"type":"Point"}
 }

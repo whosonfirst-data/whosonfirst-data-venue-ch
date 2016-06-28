@@ -2,13 +2,14 @@
   "id": 203403493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.5444,47.378777,8.5444,47.378777",
     "geom:latitude":47.378777,
     "geom:longitude":8.5444,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinbergstrasse 26",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203403493,
-    "wof:lastmodified":1449026594,
+    "wof:lastmodified":1466211572,
     "wof:name":"Dr.med.roman Buxbaum Spezialarzt Fmh",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.5444,47.378777,8.5444,47.378777],
+  "bbox": [
+    8.5444,
+    47.378777,
+    8.5444,
+    47.378777
+],
   "geometry": {"coordinates":[8.5444,47.378777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219189471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.622305,46.519897,6.622305,46.519897",
     "geom:latitude":46.519897,
     "geom:longitude":6.622305,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Marc-dufour 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219189471,
-    "wof:lastmodified":1449072894,
+    "wof:lastmodified":1466210843,
     "wof:name":"Prof. Dr M\u00e9d. L\u00e9o Eckmann M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.622305,46.519897,6.622305,46.519897],
+  "bbox": [
+    6.622305,
+    46.519897,
+    6.622305,
+    46.519897
+],
   "geometry": {"coordinates":[6.622305,46.519897],"type":"Point"}
 }

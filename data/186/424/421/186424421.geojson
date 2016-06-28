@@ -2,13 +2,14 @@
   "id": 186424421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.274097,47.042294,7.274097,47.042294",
     "geom:latitude":47.042294,
     "geom:longitude":7.274097,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 16",
     "sg:city":"Aarberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186424421,
-    "wof:lastmodified":1449052864,
+    "wof:lastmodified":1466210796,
     "wof:name":"K\u00fcffer Bau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.274097,47.042294,7.274097,47.042294],
+  "bbox": [
+    7.274097,
+    47.042294,
+    7.274097,
+    47.042294
+],
   "geometry": {"coordinates":[7.274097,47.042294],"type":"Point"}
 }

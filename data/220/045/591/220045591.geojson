@@ -2,13 +2,14 @@
   "id": 220045591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.499298,46.92617,7.499298,46.92617",
     "geom:latitude":46.92617,
     "geom:longitude":7.499298,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altbruggweg 4",
     "sg:city":"Felsberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220045591,
-    "wof:lastmodified":1449074779,
+    "wof:lastmodified":1466209269,
     "wof:name":"Werner Gilgen Schreinerei",
     "wof:parent_id":85800239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.499298,46.92617,7.499298,46.92617],
+  "bbox": [
+    7.499298,
+    46.92617,
+    7.499298,
+    46.92617
+],
   "geometry": {"coordinates":[7.499298,46.92617],"type":"Point"}
 }

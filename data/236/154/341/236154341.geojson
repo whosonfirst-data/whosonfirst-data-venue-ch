@@ -2,13 +2,14 @@
   "id": 236154341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.443406,46.949337,7.443406,46.949337",
     "geom:latitude":46.949337,
     "geom:longitude":7.443406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergergasse 5",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236154341,
-    "wof:lastmodified":1449005307,
+    "wof:lastmodified":1466210307,
     "wof:name":"Berner Seminar F?r Erwachsenenbildung Bse",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.443406,46.949337,7.443406,46.949337],
+  "bbox": [
+    7.443406,
+    46.949337,
+    7.443406,
+    46.949337
+],
   "geometry": {"coordinates":[7.443406,46.949337],"type":"Point"}
 }

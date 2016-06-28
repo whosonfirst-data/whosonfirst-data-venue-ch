@@ -2,13 +2,14 @@
   "id": 202650503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.37398,47.440163,9.37398,47.440163",
     "geom:latitude":47.440163,
     "geom:longitude":9.37398,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heideggweg 6",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202650503,
-    "wof:lastmodified":1449061671,
+    "wof:lastmodified":1466210131,
     "wof:name":"Oscar Lanfranconi Ingenieurb\u00fcro",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.37398,47.440163,9.37398,47.440163],
+  "bbox": [
+    9.37398,
+    47.440163,
+    9.37398,
+    47.440163
+],
   "geometry": {"coordinates":[9.37398,47.440163],"type":"Point"}
 }

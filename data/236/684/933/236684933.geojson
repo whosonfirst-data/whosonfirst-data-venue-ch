@@ -2,13 +2,14 @@
   "id": 236684933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629389,47.049423,7.629389,47.049423",
     "geom:latitude":47.049423,
     "geom:longitude":7.629389,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grunerstrasse 11",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236684933,
-    "wof:lastmodified":1449002295,
+    "wof:lastmodified":1466212887,
     "wof:name":"Gfeller & Friedli Holzbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629389,47.049423,7.629389,47.049423],
+  "bbox": [
+    7.629389,
+    47.049423,
+    7.629389,
+    47.049423
+],
   "geometry": {"coordinates":[7.629389,47.049423],"type":"Point"}
 }

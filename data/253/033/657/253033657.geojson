@@ -2,13 +2,14 @@
   "id": 253033657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.860771,46.966183,6.860771,46.966183",
     "geom:latitude":46.966183,
     "geom:longitude":6.860771,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 5c",
     "sg:city":"Fislisbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253033657,
-    "wof:lastmodified":1449063421,
+    "wof:lastmodified":1466209273,
     "wof:name":"Schiesser Fleurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.860771,46.966183,6.860771,46.966183],
+  "bbox": [
+    6.860771,
+    46.966183,
+    6.860771,
+    46.966183
+],
   "geometry": {"coordinates":[6.860771,46.966183],"type":"Point"}
 }

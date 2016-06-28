@@ -2,13 +2,14 @@
   "id": 236167471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551697,47.302124,8.551697,47.302124",
     "geom:latitude":47.302124,
     "geom:longitude":8.551697,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langhaldenstrasse 21 8803 R\u00fcschlikon. Postfach 531",
     "sg:city":"R\u00fcschlikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236167471,
-    "wof:lastmodified":1449003351,
+    "wof:lastmodified":1466210449,
     "wof:name":"Stiftung Im Gr\u00fcene F\u00fcr Wirtschaft Und Gesellschaft",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.551697,47.302124,8.551697,47.302124],
+  "bbox": [
+    8.551697,
+    47.302124,
+    8.551697,
+    47.302124
+],
   "geometry": {"coordinates":[8.551697,47.302124],"type":"Point"}
 }

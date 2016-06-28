@@ -2,13 +2,14 @@
   "id": 219324821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.625726,46.778721,6.625726,46.778721",
     "geom:latitude":46.778721,
     "geom:longitude":6.625726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chauss\u00e9e De Treycovagnes 5 1400 Yverdon-les-bains. Postfach",
     "sg:city":"Yverdon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219324821,
-    "wof:lastmodified":1449072443,
+    "wof:lastmodified":1466209478,
     "wof:name":"Carrosserie Des Moulins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.625726,46.778721,6.625726,46.778721],
+  "bbox": [
+    6.625726,
+    46.778721,
+    6.625726,
+    46.778721
+],
   "geometry": {"coordinates":[6.625726,46.778721],"type":"Point"}
 }

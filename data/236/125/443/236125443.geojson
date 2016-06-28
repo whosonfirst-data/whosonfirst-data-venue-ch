@@ -2,13 +2,14 @@
   "id": 236125443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.780672,47.25317,8.780672,47.25317",
     "geom:latitude":47.25317,
     "geom:longitude":8.780672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnengasse 10",
     "sg:city":"Hombrechtikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236125443,
-    "wof:lastmodified":1449005110,
+    "wof:lastmodified":1466210019,
     "wof:name":"U. Blum, B\u00f6den Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.780672,47.25317,8.780672,47.25317],
+  "bbox": [
+    8.780672,
+    47.25317,
+    8.780672,
+    47.25317
+],
   "geometry": {"coordinates":[8.780672,47.25317],"type":"Point"}
 }

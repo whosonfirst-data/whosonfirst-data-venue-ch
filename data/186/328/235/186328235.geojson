@@ -2,13 +2,14 @@
   "id": 186328235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.630713,46.759136,7.630713,46.759136",
     "geom:latitude":46.759136,
     "geom:longitude":7.630713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossberg 11",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186328235,
-    "wof:lastmodified":1449051945,
+    "wof:lastmodified":1466210044,
     "wof:name":"Weber Hans Baumanagement Gmbh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.630713,46.759136,7.630713,46.759136],
+  "bbox": [
+    7.630713,
+    46.759136,
+    7.630713,
+    46.759136
+],
   "geometry": {"coordinates":[7.630713,46.759136],"type":"Point"}
 }

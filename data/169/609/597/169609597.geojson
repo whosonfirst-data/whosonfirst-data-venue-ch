@@ -2,13 +2,14 @@
   "id": 169609597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.650612,47.325352,8.650612,47.325352",
     "geom:latitude":47.325352,
     "geom:longitude":8.650612,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Chur",
     "sg:classifiers":[],
     "sg:orig_category":"Verkehrsmittel, Automobil, Sonstige Automobilthemen",
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169609597,
-    "wof:lastmodified":1449033921,
+    "wof:lastmodified":1466209281,
     "wof:name":"Oneshare.com",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.650612,47.325352,8.650612,47.325352],
+  "bbox": [
+    8.650612,
+    47.325352,
+    8.650612,
+    47.325352
+],
   "geometry": {"coordinates":[8.650612,47.325352],"type":"Point"}
 }

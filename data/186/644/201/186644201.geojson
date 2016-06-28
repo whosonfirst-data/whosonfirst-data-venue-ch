@@ -2,13 +2,14 @@
   "id": 186644201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543963,47.389603,8.543963,47.389603",
     "geom:latitude":47.389603,
     "geom:longitude":8.543963,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheuchzerstrasse 114 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186644201,
-    "wof:lastmodified":1449051921,
+    "wof:lastmodified":1466212282,
     "wof:name":"Architekturb\u00fcro Hans Meier + Partner",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543963,47.389603,8.543963,47.389603],
+  "bbox": [
+    8.543963,
+    47.389603,
+    8.543963,
+    47.389603
+],
   "geometry": {"coordinates":[8.543963,47.389603],"type":"Point"}
 }

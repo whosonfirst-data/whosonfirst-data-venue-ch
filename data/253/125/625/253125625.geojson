@@ -2,13 +2,14 @@
   "id": 253125625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.543421,47.405704,7.543421,47.405704",
     "geom:latitude":47.405704,
     "geom:longitude":7.543421,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Passwangstrasse 23 4226 Breitenbach. Postfach 332",
     "sg:city":"Breitenbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253125625,
-    "wof:lastmodified":1449065700,
+    "wof:lastmodified":1466210201,
     "wof:name":"Waldner Augenoptik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.543421,47.405704,7.543421,47.405704],
+  "bbox": [
+    7.543421,
+    47.405704,
+    7.543421,
+    47.405704
+],
   "geometry": {"coordinates":[7.543421,47.405704],"type":"Point"}
 }

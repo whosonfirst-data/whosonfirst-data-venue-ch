@@ -2,13 +2,14 @@
   "id": 220131295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.005557,46.326794,8.005557,46.326794",
     "geom:latitude":46.326794,
     "geom:longitude":8.005557,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weingartenstrasse 52",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220131295,
-    "wof:lastmodified":1449074258,
+    "wof:lastmodified":1466210008,
     "wof:name":"Ricco Amherd Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.005557,46.326794,8.005557,46.326794],
+  "bbox": [
+    8.005557,
+    46.326794,
+    8.005557,
+    46.326794
+],
   "geometry": {"coordinates":[8.005557,46.326794],"type":"Point"}
 }

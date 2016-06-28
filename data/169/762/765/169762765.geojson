@@ -2,13 +2,14 @@
   "id": 169762765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.480088,47.390034,8.480088,47.390034",
     "geom:latitude":47.390034,
     "geom:longitude":8.480088,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 739",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169762765,
-    "wof:lastmodified":1449035006,
+    "wof:lastmodified":1466211455,
     "wof:name":"Lotto-center Altstetten",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.480088,47.390034,8.480088,47.390034],
+  "bbox": [
+    8.480088,
+    47.390034,
+    8.480088,
+    47.390034
+],
   "geometry": {"coordinates":[8.480088,47.390034],"type":"Point"}
 }

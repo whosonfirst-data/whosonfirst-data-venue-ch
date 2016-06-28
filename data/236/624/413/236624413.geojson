@@ -2,13 +2,14 @@
   "id": 236624413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.103413,47.039268,7.103413,47.039268",
     "geom:latitude":47.039268,
     "geom:longitude":7.103413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrandweg 109",
     "sg:city":"Erlach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236624413,
-    "wof:lastmodified":1449004006,
+    "wof:lastmodified":1466212795,
     "wof:name":"Westside Camping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.103413,47.039268,7.103413,47.039268],
+  "bbox": [
+    7.103413,
+    47.039268,
+    7.103413,
+    47.039268
+],
   "geometry": {"coordinates":[7.103413,47.039268],"type":"Point"}
 }

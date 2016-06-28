@@ -2,13 +2,14 @@
   "id": 202951169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.610374,46.545433,6.610374,46.545433",
     "geom:latitude":46.545433,
     "geom:longitude":6.610374,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Pommier 5",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202951169,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466212314,
     "wof:name":"Atelier D'architecture Favre Et Weber Sa",
     "wof:parent_id":85800433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.610374,46.545433,6.610374,46.545433],
+  "bbox": [
+    6.610374,
+    46.545433,
+    6.610374,
+    46.545433
+],
   "geometry": {"coordinates":[6.610374,46.545433],"type":"Point"}
 }

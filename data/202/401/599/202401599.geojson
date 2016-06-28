@@ -2,13 +2,14 @@
   "id": 202401599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.437396,47.438572,8.437396,47.438572",
     "geom:latitude":47.438572,
     "geom:longitude":8.437396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 10",
     "sg:city":"D\u00e4llikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202401599,
-    "wof:lastmodified":1449062284,
+    "wof:lastmodified":1466209741,
     "wof:name":"Bauphysik Meier Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.437396,47.438572,8.437396,47.438572],
+  "bbox": [
+    8.437396,
+    47.438572,
+    8.437396,
+    47.438572
+],
   "geometry": {"coordinates":[8.437396,47.438572],"type":"Point"}
 }

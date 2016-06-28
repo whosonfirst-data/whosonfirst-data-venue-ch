@@ -2,13 +2,14 @@
   "id": 202901065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.282135,46.787575,9.282135,46.787575",
     "geom:latitude":46.787575,
     "geom:longitude":9.282135,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bossi Via 4",
     "sg:city":"Valendas",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202901065,
-    "wof:lastmodified":1449061181,
+    "wof:lastmodified":1466212015,
     "wof:name":"Studio D'ingegneria Civile E Strutturale Ing. Marco Bernasconi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.282135,46.787575,9.282135,46.787575],
+  "bbox": [
+    9.282135,
+    46.787575,
+    9.282135,
+    46.787575
+],
   "geometry": {"coordinates":[9.282135,46.787575],"type":"Point"}
 }

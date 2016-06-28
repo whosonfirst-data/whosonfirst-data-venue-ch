@@ -2,13 +2,14 @@
   "id": 252835977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.259921,46.489792,7.259921,46.489792",
     "geom:latitude":46.489792,
     "geom:longitude":7.259921,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chalet Central Gstaad 3792 Saanen. Postfach",
     "sg:city":"Gstaad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252835977,
-    "wof:lastmodified":1449005564,
+    "wof:lastmodified":1466210302,
     "wof:name":"Herrmann Maya",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.259921,46.489792,7.259921,46.489792],
+  "bbox": [
+    7.259921,
+    46.489792,
+    7.259921,
+    46.489792
+],
   "geometry": {"coordinates":[7.259921,46.489792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219966535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.418795,46.930767,7.418795,46.930767",
     "geom:latitude":46.930767,
     "geom:longitude":7.418795,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stationsstrasse 12 3098 K\u00f6niz. Postfach 171",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219966535,
-    "wof:lastmodified":1449070395,
+    "wof:lastmodified":1466212744,
     "wof:name":"Helbling Technik Ag",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.418795,46.930767,7.418795,46.930767],
+  "bbox": [
+    7.418795,
+    46.930767,
+    7.418795,
+    46.930767
+],
   "geometry": {"coordinates":[7.418795,46.930767],"type":"Point"}
 }

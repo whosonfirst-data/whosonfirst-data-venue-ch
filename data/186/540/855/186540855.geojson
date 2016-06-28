@@ -2,13 +2,14 @@
   "id": 186540855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.30499,47.069538,7.30499,47.069538",
     "geom:latitude":47.069538,
     "geom:longitude":7.30499,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfrundackerweg 7",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186540855,
-    "wof:lastmodified":1449051420,
+    "wof:lastmodified":1466211809,
     "wof:name":"Privataltersheim Im Pfrundacker Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.30499,47.069538,7.30499,47.069538],
+  "bbox": [
+    7.30499,
+    47.069538,
+    7.30499,
+    47.069538
+],
   "geometry": {"coordinates":[7.30499,47.069538],"type":"Point"}
 }

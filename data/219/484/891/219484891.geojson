@@ -2,13 +2,14 @@
   "id": 219484891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.531621,47.371284,8.531621,47.371284",
     "geom:latitude":47.371284,
     "geom:longitude":8.531621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Selnaustr 32",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219484891,
-    "wof:lastmodified":1449073705,
+    "wof:lastmodified":1466210996,
     "wof:name":"Bank Sarasin & Cie",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.531621,47.371284,8.531621,47.371284],
+  "bbox": [
+    8.531621,
+    47.371284,
+    8.531621,
+    47.371284
+],
   "geometry": {"coordinates":[8.531621,47.371284],"type":"Point"}
 }

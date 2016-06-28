@@ -2,13 +2,14 @@
   "id": 186239725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.961303,47.225491,7.961303,47.225491",
     "geom:latitude":47.225491,
     "geom:longitude":7.961303,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 1",
     "sg:city":"Obermumpf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186239725,
-    "wof:lastmodified":1449050498,
+    "wof:lastmodified":1466209396,
     "wof:name":"Vogel Gebr. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.961303,47.225491,7.961303,47.225491],
+  "bbox": [
+    7.961303,
+    47.225491,
+    7.961303,
+    47.225491
+],
   "geometry": {"coordinates":[7.961303,47.225491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236100131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.220977,46.218536,6.220977,46.218536",
     "geom:latitude":46.218536,
     "geom:longitude":6.220977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Chevrier 40",
     "sg:city":"Choulex",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236100131,
-    "wof:lastmodified":1449004218,
+    "wof:lastmodified":1466209795,
     "wof:name":"Entreprise Schambacher.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.220977,46.218536,6.220977,46.218536],
+  "bbox": [
+    6.220977,
+    46.218536,
+    6.220977,
+    46.218536
+],
   "geometry": {"coordinates":[6.220977,46.218536],"type":"Point"}
 }

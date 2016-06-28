@@ -2,13 +2,14 @@
   "id": 253124429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.852146,46.68364,7.852146,46.68364",
     "geom:latitude":46.68364,
     "geom:longitude":7.852146,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 29 3800 Interlaken. Postfach 340",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253124429,
-    "wof:lastmodified":1449065569,
+    "wof:lastmodified":1466210183,
     "wof:name":"Urfer Optik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.852146,46.68364,7.852146,46.68364],
+  "bbox": [
+    7.852146,
+    46.68364,
+    7.852146,
+    46.68364
+],
   "geometry": {"coordinates":[7.852146,46.68364],"type":"Point"}
 }

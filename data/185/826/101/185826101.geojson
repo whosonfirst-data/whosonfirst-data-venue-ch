@@ -2,13 +2,14 @@
   "id": 185826101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.705984,47.357239,8.705984,47.357239",
     "geom:latitude":47.357239,
     "geom:longitude":8.705984,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ackerstrasse 54",
     "sg:city":"Uster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185826101,
-    "wof:lastmodified":1449007762,
+    "wof:lastmodified":1466209293,
     "wof:name":"Baumgartner K\u00fchlanlagen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dehumidification"
     ]
 },
-  "bbox": [8.705984,47.357239,8.705984,47.357239],
+  "bbox": [
+    8.705984,
+    47.357239,
+    8.705984,
+    47.357239
+],
   "geometry": {"coordinates":[8.705984,47.357239],"type":"Point"}
 }

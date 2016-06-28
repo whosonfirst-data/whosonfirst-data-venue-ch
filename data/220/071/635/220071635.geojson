@@ -2,13 +2,14 @@
   "id": 220071635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.503485,46.890572,7.503485,46.890572",
     "geom:latitude":46.890572,
     "geom:longitude":7.503485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohburgstrasse 10",
     "sg:city":"Belp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220071635,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1466209500,
     "wof:name":"Bachmann Schreinerei",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.503485,46.890572,7.503485,46.890572],
+  "bbox": [
+    7.503485,
+    46.890572,
+    7.503485,
+    46.890572
+],
   "geometry": {"coordinates":[7.503485,46.890572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253114269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.280048,47.033257,8.280048,47.033257",
     "geom:latitude":47.033257,
     "geom:longitude":8.280048,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gallusstrasse 10",
     "sg:city":"Kriens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253114269,
-    "wof:lastmodified":1449064059,
+    "wof:lastmodified":1466210080,
     "wof:name":"Mc Optik Kriens Gmbh",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.280048,47.033257,8.280048,47.033257],
+  "bbox": [
+    8.280048,
+    47.033257,
+    8.280048,
+    47.033257
+],
   "geometry": {"coordinates":[8.280048,47.033257],"type":"Point"}
 }

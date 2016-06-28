@@ -2,13 +2,14 @@
   "id": 219234443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.525353,47.505215,7.525353,47.505215",
     "geom:latitude":47.505215,
     "geom:longitude":7.525353,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lauetstrasse 9",
     "sg:city":"Otelfingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219234443,
-    "wof:lastmodified":1449073718,
+    "wof:lastmodified":1466211330,
     "wof:name":"Uniplan Switzerland Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.525353,47.505215,7.525353,47.505215],
+  "bbox": [
+    7.525353,
+    47.505215,
+    7.525353,
+    47.505215
+],
   "geometry": {"coordinates":[7.525353,47.505215],"type":"Point"}
 }

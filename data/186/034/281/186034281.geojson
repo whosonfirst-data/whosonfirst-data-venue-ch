@@ -2,13 +2,14 @@
   "id": 186034281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.301768,47.04797,8.301768,47.04797",
     "geom:latitude":47.04797,
     "geom:longitude":8.301768,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruchstrasse 62 6003 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186034281,
-    "wof:lastmodified":1449050547,
+    "wof:lastmodified":1466209777,
     "wof:name":"B\u00fchlmann Bauberatungen Gmbh Bauleitungen. Erstellung V. Bauten Usw",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.301768,47.04797,8.301768,47.04797],
+  "bbox": [
+    8.301768,
+    47.04797,
+    8.301768,
+    47.04797
+],
   "geometry": {"coordinates":[8.301768,47.04797],"type":"Point"}
 }

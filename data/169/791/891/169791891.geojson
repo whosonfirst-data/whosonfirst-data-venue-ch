@@ -2,13 +2,14 @@
   "id": 169791891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.74167,47.533146,8.74167,47.533146",
     "geom:latitude":47.533146,
     "geom:longitude":8.74167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadlerstr.59",
     "sg:city":"Seuzach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169791891,
-    "wof:lastmodified":1449035191,
+    "wof:lastmodified":1466209007,
     "wof:name":"V.i.p.cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.74167,47.533146,8.74167,47.533146],
+  "bbox": [
+    8.74167,
+    47.533146,
+    8.74167,
+    47.533146
+],
   "geometry": {"coordinates":[8.74167,47.533146],"type":"Point"}
 }

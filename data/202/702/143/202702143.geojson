@@ -2,13 +2,14 @@
   "id": 202702143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.646118,47.570499,8.646118,47.570499",
     "geom:latitude":47.570499,
     "geom:longitude":8.646118,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strehlgasse 17",
     "sg:city":"Dorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202702143,
-    "wof:lastmodified":1449061387,
+    "wof:lastmodified":1466210608,
     "wof:name":"Schiltknecht Akustik + Bauphysik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.646118,47.570499,8.646118,47.570499],
+  "bbox": [
+    8.646118,
+    47.570499,
+    8.646118,
+    47.570499
+],
   "geometry": {"coordinates":[8.646118,47.570499],"type":"Point"}
 }

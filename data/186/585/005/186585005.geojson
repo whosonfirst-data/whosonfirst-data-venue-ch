@@ -2,13 +2,14 @@
   "id": 186585005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.218777,47.526596,8.218777,47.526596",
     "geom:latitude":47.526596,
     "geom:longitude":8.218777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kumetstrasse 35",
     "sg:city":"Villigen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186585005,
-    "wof:lastmodified":1449052154,
+    "wof:lastmodified":1466211884,
     "wof:name":"Bezirksfeuerwehrverband Brugg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.218777,47.526596,8.218777,47.526596],
+  "bbox": [
+    8.218777,
+    47.526596,
+    8.218777,
+    47.526596
+],
   "geometry": {"coordinates":[8.218777,47.526596],"type":"Point"}
 }

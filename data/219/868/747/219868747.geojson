@@ -2,13 +2,14 @@
   "id": 219868747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.085579,46.539486,7.085579,46.539486",
     "geom:latitude":46.539486,
     "geom:longitude":7.085579,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Principale",
     "sg:city":"Villars-sous-mont",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219868747,
-    "wof:lastmodified":1449070534,
+    "wof:lastmodified":1466212680,
     "wof:name":"Ecosa S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.085579,46.539486,7.085579,46.539486],
+  "bbox": [
+    7.085579,
+    46.539486,
+    7.085579,
+    46.539486
+],
   "geometry": {"coordinates":[7.085579,46.539486],"type":"Point"}
 }

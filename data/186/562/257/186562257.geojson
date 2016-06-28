@@ -2,13 +2,14 @@
   "id": 186562257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.935317,46.917641,7.935317,46.917641",
     "geom:latitude":46.917641,
     "geom:longitude":7.935317,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Althusstrasse 6",
     "sg:city":"Escholzmatt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186562257,
-    "wof:lastmodified":1449051792,
+    "wof:lastmodified":1466211785,
     "wof:name":"Dr. Schreiber Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "additive"
     ]
 },
-  "bbox": [7.935317,46.917641,7.935317,46.917641],
+  "bbox": [
+    7.935317,
+    46.917641,
+    7.935317,
+    46.917641
+],
   "geometry": {"coordinates":[7.935317,46.917641],"type":"Point"}
 }

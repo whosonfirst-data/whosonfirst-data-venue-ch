@@ -2,13 +2,14 @@
   "id": 252842059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.321538,47.467953,8.321538,47.467953",
     "geom:latitude":47.467953,
     "geom:longitude":8.321538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 48 5430 Wettingen. Postfach 3112",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252842059,
-    "wof:lastmodified":1449005490,
+    "wof:lastmodified":1466210366,
     "wof:name":"Kleider M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.321538,47.467953,8.321538,47.467953],
+  "bbox": [
+    8.321538,
+    47.467953,
+    8.321538,
+    47.467953
+],
   "geometry": {"coordinates":[8.321538,47.467953],"type":"Point"}
 }

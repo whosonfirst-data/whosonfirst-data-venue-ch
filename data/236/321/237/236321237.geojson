@@ -2,13 +2,14 @@
   "id": 236321237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.5992,47.362228,8.5992,47.362228",
     "geom:latitude":47.362228,
     "geom:longitude":8.5992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8053",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236321237,
-    "wof:lastmodified":1449001736,
+    "wof:lastmodified":1466211971,
     "wof:name":"Taxi Sonne Fejes",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.5992,47.362228,8.5992,47.362228],
+  "bbox": [
+    8.5992,
+    47.362228,
+    8.5992,
+    47.362228
+],
   "geometry": {"coordinates":[8.5992,47.362228],"type":"Point"}
 }

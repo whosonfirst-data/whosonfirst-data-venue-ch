@@ -2,13 +2,14 @@
   "id": 219542585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.045482,47.393757,8.045482,47.393757",
     "geom:latitude":47.393757,
     "geom:longitude":8.045482,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlosspl. 1",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219542585,
-    "wof:lastmodified":1449073148,
+    "wof:lastmodified":1466211524,
     "wof:name":"Denaro Hypo Bank Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.045482,47.393757,8.045482,47.393757],
+  "bbox": [
+    8.045482,
+    47.393757,
+    8.045482,
+    47.393757
+],
   "geometry": {"coordinates":[8.045482,47.393757],"type":"Point"}
 }

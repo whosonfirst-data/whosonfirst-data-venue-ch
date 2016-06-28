@@ -2,13 +2,14 @@
   "id": 186568877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.619157,47.68203,8.619157,47.68203",
     "geom:latitude":47.68203,
     "geom:longitude":8.619157,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Wiltisgasse 26",
     "sg:city":"K\u00fcsnacht",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186568877,
-    "wof:lastmodified":1449050177,
+    "wof:lastmodified":1466211934,
     "wof:name":"Norline Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "anti-graffiti"
     ]
 },
-  "bbox": [8.619157,47.68203,8.619157,47.68203],
+  "bbox": [
+    8.619157,
+    47.68203,
+    8.619157,
+    47.68203
+],
   "geometry": {"coordinates":[8.619157,47.68203],"type":"Point"}
 }

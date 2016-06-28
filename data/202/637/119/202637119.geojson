@@ -2,13 +2,14 @@
   "id": 202637119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.605586,47.679893,8.605586,47.679893",
     "geom:latitude":47.679893,
     "geom:longitude":8.605586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstrasse 17",
     "sg:city":"Neuhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202637119,
-    "wof:lastmodified":1449060117,
+    "wof:lastmodified":1466210005,
     "wof:name":"Mr Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.605586,47.679893,8.605586,47.679893],
+  "bbox": [
+    8.605586,
+    47.679893,
+    8.605586,
+    47.679893
+],
   "geometry": {"coordinates":[8.605586,47.679893],"type":"Point"}
 }

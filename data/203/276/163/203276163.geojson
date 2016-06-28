@@ -2,13 +2,14 @@
   "id": 203276163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.445193,46.956017,7.445193,46.956017",
     "geom:latitude":46.956017,
     "geom:longitude":7.445193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lorrainestrasse 16",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203276163,
-    "wof:lastmodified":1449025024,
+    "wof:lastmodified":1466210291,
     "wof:name":"Dr.med.anita Wyss Spezial\u00e4rztin Fmh",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.445193,46.956017,7.445193,46.956017],
+  "bbox": [
+    7.445193,
+    46.956017,
+    7.445193,
+    46.956017
+],
   "geometry": {"coordinates":[7.445193,46.956017],"type":"Point"}
 }

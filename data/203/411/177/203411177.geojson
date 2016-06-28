@@ -2,13 +2,14 @@
   "id": 203411177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564402,47.295242,8.564402,47.295242",
     "geom:latitude":47.295242,
     "geom:longitude":8.564402,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstrasse 18",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203411177,
-    "wof:lastmodified":1449025044,
+    "wof:lastmodified":1466211735,
     "wof:name":"Dr.med.sotirios Samartzis Spezialarzt Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564402,47.295242,8.564402,47.295242],
+  "bbox": [
+    8.564402,
+    47.295242,
+    8.564402,
+    47.295242
+],
   "geometry": {"coordinates":[8.564402,47.295242],"type":"Point"}
 }

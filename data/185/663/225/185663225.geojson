@@ -2,13 +2,14 @@
   "id": 185663225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.5261,47.351341,8.5261,47.351341",
     "geom:latitude":47.351341,
     "geom:longitude":8.5261,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 11",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185663225,
-    "wof:lastmodified":1449007778,
+    "wof:lastmodified":1466210597,
     "wof:name":"Hermann L\u00f6hrli Druck",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postcard"
     ]
 },
-  "bbox": [8.5261,47.351341,8.5261,47.351341],
+  "bbox": [
+    8.5261,
+    47.351341,
+    8.5261,
+    47.351341
+],
   "geometry": {"coordinates":[8.5261,47.351341],"type":"Point"}
 }

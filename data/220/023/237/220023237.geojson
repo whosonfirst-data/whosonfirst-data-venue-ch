@@ -2,13 +2,14 @@
   "id": 220023237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.507423,47.149933,9.507423,47.149933",
     "geom:latitude":47.149933,
     "geom:longitude":9.507423,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaanerstrasse 37",
     "sg:city":"Vaduz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220023237,
-    "wof:lastmodified":1449074796,
+    "wof:lastmodified":1466209076,
     "wof:name":"Josef Ospelt Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.507423,47.149933,9.507423,47.149933],
+  "bbox": [
+    9.507423,
+    47.149933,
+    9.507423,
+    47.149933
+],
   "geometry": {"coordinates":[9.507423,47.149933],"type":"Point"}
 }

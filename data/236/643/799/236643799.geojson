@@ -2,13 +2,14 @@
   "id": 236643799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.287912,47.068455,8.287912,47.068455",
     "geom:latitude":47.068455,
     "geom:longitude":8.287912,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schachenstrasse 10a/14a",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236643799,
-    "wof:lastmodified":1449004720,
+    "wof:lastmodified":1466212740,
     "wof:name":"Rudolf Glauser Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [8.287912,47.068455,8.287912,47.068455],
+  "bbox": [
+    8.287912,
+    47.068455,
+    8.287912,
+    47.068455
+],
   "geometry": {"coordinates":[8.287912,47.068455],"type":"Point"}
 }

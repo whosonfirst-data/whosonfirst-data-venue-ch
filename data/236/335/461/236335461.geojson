@@ -2,13 +2,14 @@
   "id": 236335461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.21466,47.475548,8.21466,47.475548",
     "geom:latitude":47.475548,
     "geom:longitude":8.21466,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 1",
     "sg:city":"Windisch",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236335461,
-    "wof:lastmodified":1449003903,
+    "wof:lastmodified":1466211906,
     "wof:name":"Oldrich Havlicek Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.21466,47.475548,8.21466,47.475548],
+  "bbox": [
+    8.21466,
+    47.475548,
+    8.21466,
+    47.475548
+],
   "geometry": {"coordinates":[8.21466,47.475548],"type":"Point"}
 }

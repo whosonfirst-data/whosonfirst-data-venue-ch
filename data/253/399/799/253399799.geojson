@@ -2,13 +2,14 @@
   "id": 253399799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.785325,47.308105,7.785325,47.308105",
     "geom:latitude":47.308105,
     "geom:longitude":7.785325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neustrasse 71",
     "sg:city":"Neuendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253399799,
-    "wof:lastmodified":1449063345,
+    "wof:lastmodified":1466212273,
     "wof:name":"Roth-computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.785325,47.308105,7.785325,47.308105],
+  "bbox": [
+    7.785325,
+    47.308105,
+    7.785325,
+    47.308105
+],
   "geometry": {"coordinates":[7.785325,47.308105],"type":"Point"}
 }

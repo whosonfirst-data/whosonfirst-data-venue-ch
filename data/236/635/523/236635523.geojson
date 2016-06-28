@@ -2,13 +2,14 @@
   "id": 236635523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.472691,46.953838,7.472691,46.953838",
     "geom:latitude":46.953838,
     "geom:longitude":7.472691,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostermundigenstrasse 73",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236635523,
-    "wof:lastmodified":1449003018,
+    "wof:lastmodified":1466212725,
     "wof:name":"K\u00e4stli & Co Ag",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "canopy"
     ]
 },
-  "bbox": [7.472691,46.953838,7.472691,46.953838],
+  "bbox": [
+    7.472691,
+    46.953838,
+    7.472691,
+    46.953838
+],
   "geometry": {"coordinates":[7.472691,46.953838],"type":"Point"}
 }

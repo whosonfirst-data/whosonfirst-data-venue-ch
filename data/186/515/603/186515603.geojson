@@ -2,13 +2,14 @@
   "id": 186515603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.546808,47.213512,7.546808,47.213512",
     "geom:latitude":47.213512,
     "geom:longitude":7.546808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 73 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186515603,
-    "wof:lastmodified":1449051025,
+    "wof:lastmodified":1466211568,
     "wof:name":"Rosengarten Alters-pflegeheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alters"
     ]
 },
-  "bbox": [7.546808,47.213512,7.546808,47.213512],
+  "bbox": [
+    7.546808,
+    47.213512,
+    7.546808,
+    47.213512
+],
   "geometry": {"coordinates":[7.546808,47.213512],"type":"Point"}
 }

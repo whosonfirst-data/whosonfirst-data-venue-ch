@@ -2,13 +2,14 @@
   "id": 236062673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.32128,47.479816,8.32128,47.479816",
     "geom:latitude":47.479816,
     "geom:longitude":8.32128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6htalstrasse 32",
     "sg:city":"Ennetbaden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236062673,
-    "wof:lastmodified":1449004966,
+    "wof:lastmodified":1466209448,
     "wof:name":"Josef Wetzel Spenglerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.32128,47.479816,8.32128,47.479816],
+  "bbox": [
+    8.32128,
+    47.479816,
+    8.32128,
+    47.479816
+],
   "geometry": {"coordinates":[8.32128,47.479816],"type":"Point"}
 }

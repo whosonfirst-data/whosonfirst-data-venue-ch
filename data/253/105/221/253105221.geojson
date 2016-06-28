@@ -2,13 +2,14 @@
   "id": 253105221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.554929,47.509212,7.554929,47.509212",
     "geom:latitude":47.509212,
     "geom:longitude":7.554929,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Theaterstrasse 9 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253105221,
-    "wof:lastmodified":1449063963,
+    "wof:lastmodified":1466209986,
     "wof:name":"Birgelen Optik",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.554929,47.509212,7.554929,47.509212],
+  "bbox": [
+    7.554929,
+    47.509212,
+    7.554929,
+    47.509212
+],
   "geometry": {"coordinates":[7.554929,47.509212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236394571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51185,47.356781,8.51185,47.356781",
     "geom:latitude":47.356781,
     "geom:longitude":8.51185,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Malzstrasse 13 8045 Z\u00fcrich",
     "sg:city":"Zust",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236394571,
-    "wof:lastmodified":1449002157,
+    "wof:lastmodified":1466212231,
     "wof:name":"Arc-en-ciel Tisa Francini",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.51185,47.356781,8.51185,47.356781],
+  "bbox": [
+    8.51185,
+    47.356781,
+    8.51185,
+    47.356781
+],
   "geometry": {"coordinates":[8.51185,47.356781],"type":"Point"}
 }

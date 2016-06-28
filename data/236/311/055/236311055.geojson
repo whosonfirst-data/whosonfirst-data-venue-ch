@@ -2,13 +2,14 @@
   "id": 236311055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.566434,47.53363,7.566434,47.53363",
     "geom:latitude":47.53363,
     "geom:longitude":7.566434,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Kugelfang 6",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236311055,
-    "wof:lastmodified":1449002260,
+    "wof:lastmodified":1466211782,
     "wof:name":"Pero Jovanovic Taxi",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.566434,47.53363,7.566434,47.53363],
+  "bbox": [
+    7.566434,
+    47.53363,
+    7.566434,
+    47.53363
+],
   "geometry": {"coordinates":[7.566434,47.53363],"type":"Point"}
 }

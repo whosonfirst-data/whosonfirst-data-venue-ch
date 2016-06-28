@@ -2,13 +2,14 @@
   "id": 186403011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.066739,46.100197,7.066739,46.100197",
     "geom:latitude":46.100197,
     "geom:longitude":7.066739,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Fusion 48",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186403011,
-    "wof:lastmodified":1449052644,
+    "wof:lastmodified":1466210622,
     "wof:name":"Carenbit Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.066739,46.100197,7.066739,46.100197],
+  "bbox": [
+    7.066739,
+    46.100197,
+    7.066739,
+    46.100197
+],
   "geometry": {"coordinates":[7.066739,46.100197],"type":"Point"}
 }

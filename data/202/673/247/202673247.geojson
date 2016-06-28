@@ -2,13 +2,14 @@
   "id": 202673247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.04877,47.470196,9.04877,47.470196",
     "geom:latitude":47.470196,
     "geom:longitude":9.04877,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Antonio Olgiati 6",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202673247,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466210340,
     "wof:name":"Progeo Sch\u00e4ppi & Schmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.04877,47.470196,9.04877,47.470196],
+  "bbox": [
+    9.04877,
+    47.470196,
+    9.04877,
+    47.470196
+],
   "geometry": {"coordinates":[9.04877,47.470196],"type":"Point"}
 }

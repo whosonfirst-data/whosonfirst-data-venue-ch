@@ -2,13 +2,14 @@
   "id": 169692091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.630406,46.571377,6.630406,46.571377",
     "geom:latitude":46.571377,
     "geom:longitude":6.630406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Trollstr. 19",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169692091,
-    "wof:lastmodified":1449033560,
+    "wof:lastmodified":1466210807,
     "wof:name":"Sage",
     "wof:parent_id":85800183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "software"
     ]
 },
-  "bbox": [6.630406,46.571377,6.630406,46.571377],
+  "bbox": [
+    6.630406,
+    46.571377,
+    6.630406,
+    46.571377
+],
   "geometry": {"coordinates":[6.630406,46.571377],"type":"Point"}
 }

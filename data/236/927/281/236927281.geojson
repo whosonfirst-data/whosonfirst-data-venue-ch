@@ -2,13 +2,14 @@
   "id": 236927281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54796,47.420002,8.54796,47.420002",
     "geom:latitude":47.420002,
     "geom:longitude":8.54796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seebacherstrasse 4",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236927281,
-    "wof:lastmodified":1449004831,
+    "wof:lastmodified":1466212934,
     "wof:name":"Netlink Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54796,47.420002,8.54796,47.420002],
+  "bbox": [
+    8.54796,
+    47.420002,
+    8.54796,
+    47.420002
+],
   "geometry": {"coordinates":[8.54796,47.420002],"type":"Point"}
 }

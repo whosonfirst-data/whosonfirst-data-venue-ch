@@ -2,13 +2,14 @@
   "id": 220087479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.255201,47.439495,9.255201,47.439495",
     "geom:latitude":47.439495,
     "geom:longitude":9.255201,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bettenstrasse 1",
     "sg:city":"Arnegg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220087479,
-    "wof:lastmodified":1449074391,
+    "wof:lastmodified":1466209633,
     "wof:name":"Eisenring & Scheiwiller Mesi Schreinermontagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.255201,47.439495,9.255201,47.439495],
+  "bbox": [
+    9.255201,
+    47.439495,
+    9.255201,
+    47.439495
+],
   "geometry": {"coordinates":[9.255201,47.439495],"type":"Point"}
 }

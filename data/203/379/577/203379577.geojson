@@ -2,13 +2,14 @@
   "id": 203379577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.621034,47.395351,8.621034,47.395351",
     "geom:latitude":47.395351,
     "geom:longitude":8.621034,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuhausstrasse 15",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203379577,
-    "wof:lastmodified":1449026049,
+    "wof:lastmodified":1466211322,
     "wof:name":"Dr.med.martin Gallmann Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.621034,47.395351,8.621034,47.395351],
+  "bbox": [
+    8.621034,
+    47.395351,
+    8.621034,
+    47.395351
+],
   "geometry": {"coordinates":[8.621034,47.395351],"type":"Point"}
 }

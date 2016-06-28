@@ -2,13 +2,14 @@
   "id": 236700353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.156103,46.201817,6.156103,46.201817",
     "geom:latitude":46.201817,
     "geom:longitude":6.156103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Des Eaux-vives 7",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236700353,
-    "wof:lastmodified":1449004903,
+    "wof:lastmodified":1466212819,
     "wof:name":"Araign\u00e9e Rouge",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industry"
     ]
 },
-  "bbox": [6.156103,46.201817,6.156103,46.201817],
+  "bbox": [
+    6.156103,
+    46.201817,
+    6.156103,
+    46.201817
+],
   "geometry": {"coordinates":[6.156103,46.201817],"type":"Point"}
 }

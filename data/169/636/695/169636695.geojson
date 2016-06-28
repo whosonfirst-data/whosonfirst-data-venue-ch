@@ -2,13 +2,14 @@
   "id": 169636695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.83882,45.992702,8.83882,45.992702",
     "geom:latitude":45.992702,
     "geom:longitude":8.83882,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Castelrotto",
     "sg:city":"Castelrotto",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169636695,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466209861,
     "wof:name":"Raiffeisen Di Castelrotto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.83882,45.992702,8.83882,45.992702],
+  "bbox": [
+    8.83882,
+    45.992702,
+    8.83882,
+    45.992702
+],
   "geometry": {"coordinates":[8.83882,45.992702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202805051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.496817,47.473461,9.496817,47.473461",
     "geom:latitude":47.473461,
     "geom:longitude":9.496817,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seminarstrasse 12",
     "sg:city":"Rorschach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202805051,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1466211567,
     "wof:name":"Bauatelier Ren\u00e9 Nater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.496817,47.473461,9.496817,47.473461],
+  "bbox": [
+    9.496817,
+    47.473461,
+    9.496817,
+    47.473461
+],
   "geometry": {"coordinates":[9.496817,47.473461],"type":"Point"}
 }

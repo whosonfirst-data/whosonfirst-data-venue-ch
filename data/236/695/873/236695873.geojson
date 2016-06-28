@@ -2,13 +2,14 @@
   "id": 236695873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.444345,46.832298,9.444345,46.832298",
     "geom:latitude":46.832298,
     "geom:longitude":9.444345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichenauerstr.",
     "sg:city":"Domat/ems",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236695873,
-    "wof:lastmodified":1449002797,
+    "wof:lastmodified":1466212811,
     "wof:name":"Ems-chemie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chemistry"
     ]
 },
-  "bbox": [9.444345,46.832298,9.444345,46.832298],
+  "bbox": [
+    9.444345,
+    46.832298,
+    9.444345,
+    46.832298
+],
   "geometry": {"coordinates":[9.444345,46.832298],"type":"Point"}
 }

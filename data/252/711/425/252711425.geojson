@@ -2,13 +2,14 @@
   "id": 252711425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604439,47.521282,7.604439,47.521282",
     "geom:latitude":47.521282,
     "geom:longitude":7.604439,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bettlistrasse 28 8600 D\u00fcbendorf. Postfach 1198",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252711425,
-    "wof:lastmodified":1449006310,
+    "wof:lastmodified":1466208966,
     "wof:name":"Bkm Beat Koller Management Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604439,47.521282,7.604439,47.521282],
+  "bbox": [
+    7.604439,
+    47.521282,
+    7.604439,
+    47.521282
+],
   "geometry": {"coordinates":[7.604439,47.521282],"type":"Point"}
 }

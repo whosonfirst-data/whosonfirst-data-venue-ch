@@ -2,13 +2,14 @@
   "id": 219416849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.438307,47.091591,8.438307,47.091591",
     "geom:latitude":47.091591,
     "geom:longitude":8.438307,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wartenbergstrasse 70",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219416849,
-    "wof:lastmodified":1449071983,
+    "wof:lastmodified":1466210335,
     "wof:name":"Anton Hauser Internationale Transporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.438307,47.091591,8.438307,47.091591],
+  "bbox": [
+    8.438307,
+    47.091591,
+    8.438307,
+    47.091591
+],
   "geometry": {"coordinates":[8.438307,47.091591],"type":"Point"}
 }

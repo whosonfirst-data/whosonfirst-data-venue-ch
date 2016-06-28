@@ -2,13 +2,14 @@
   "id": 186119611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.630225,47.429096,9.630225,47.429096",
     "geom:latitude":47.429096,
     "geom:longitude":9.630225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flugfeld 1",
     "sg:city":"Ennetb\u00fcrgen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186119611,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466211071,
     "wof:name":"Kaju Au Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.630225,47.429096,9.630225,47.429096],
+  "bbox": [
+    9.630225,
+    47.429096,
+    9.630225,
+    47.429096
+],
   "geometry": {"coordinates":[9.630225,47.429096],"type":"Point"}
 }

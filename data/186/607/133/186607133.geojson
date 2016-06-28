@@ -2,13 +2,14 @@
   "id": 186607133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.100302,47.223145,7.100302,47.223145",
     "geom:latitude":47.223145,
     "geom:longitude":7.100302,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"2720",
     "sg:city":"Tramelan",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186607133,
-    "wof:lastmodified":1449050666,
+    "wof:lastmodified":1466212092,
     "wof:name":"St\u00e9 Suisse Des Employ\u00e9s De Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.100302,47.223145,7.100302,47.223145],
+  "bbox": [
+    7.100302,
+    47.223145,
+    7.100302,
+    47.223145
+],
   "geometry": {"coordinates":[7.100302,47.223145],"type":"Point"}
 }

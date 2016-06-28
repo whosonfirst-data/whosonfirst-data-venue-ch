@@ -2,13 +2,14 @@
   "id": 203263827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629621,46.756016,7.629621,46.756016",
     "geom:latitude":46.756016,
     "geom:longitude":7.629621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 6",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203263827,
-    "wof:lastmodified":1449026820,
+    "wof:lastmodified":1466210162,
     "wof:name":"Dr.med. Ursula Klein Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629621,46.756016,7.629621,46.756016],
+  "bbox": [
+    7.629621,
+    46.756016,
+    7.629621,
+    46.756016
+],
   "geometry": {"coordinates":[7.629621,46.756016],"type":"Point"}
 }

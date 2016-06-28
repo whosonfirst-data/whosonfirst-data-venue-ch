@@ -2,13 +2,14 @@
   "id": 202592083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.989611,46.317928,7.989611,46.317928",
     "geom:latitude":46.317928,
     "geom:longitude":7.989611,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Belalpstrasse 10 3900 Brig. Postfach",
     "sg:city":"Brig",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202592083,
-    "wof:lastmodified":1449061555,
+    "wof:lastmodified":1466209589,
     "wof:name":"Kelchbach Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.989611,46.317928,7.989611,46.317928],
+  "bbox": [
+    7.989611,
+    46.317928,
+    7.989611,
+    46.317928
+],
   "geometry": {"coordinates":[7.989611,46.317928],"type":"Point"}
 }

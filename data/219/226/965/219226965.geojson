@@ -2,13 +2,14 @@
   "id": 219226965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.289015,47.238346,8.289015,47.238346",
     "geom:latitude":47.238346,
     "geom:longitude":8.289015,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 6289 M\u00fcswangen. Postfach",
     "sg:city":"M\u00fcswangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219226965,
-    "wof:lastmodified":1449072960,
+    "wof:lastmodified":1466211268,
     "wof:name":"Arotec Schnarwiler Philipp L\u00fcftungsdecken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.289015,47.238346,8.289015,47.238346],
+  "bbox": [
+    8.289015,
+    47.238346,
+    8.289015,
+    47.238346
+],
   "geometry": {"coordinates":[8.289015,47.238346],"type":"Point"}
 }

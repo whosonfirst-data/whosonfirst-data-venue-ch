@@ -2,13 +2,14 @@
   "id": 202696343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.128542,47.660004,9.128542,47.660004",
     "geom:latitude":47.660004,
     "geom:longitude":9.128542,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnstrasse 1",
     "sg:city":"T\u00e4gerwilen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202696343,
-    "wof:lastmodified":1449060302,
+    "wof:lastmodified":1466210552,
     "wof:name":"Saf Simulation, Analysis And Forecasting Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.128542,47.660004,9.128542,47.660004],
+  "bbox": [
+    9.128542,
+    47.660004,
+    9.128542,
+    47.660004
+],
   "geometry": {"coordinates":[9.128542,47.660004],"type":"Point"}
 }

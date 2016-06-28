@@ -2,13 +2,14 @@
   "id": 203052385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.816604,46.793751,9.816604,46.793751",
     "geom:latitude":46.793751,
     "geom:longitude":9.816604,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ausserdorf 8 6147 Altb\u00fcron. Postfach",
     "sg:city":"Altb\u00fcron",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203052385,
-    "wof:lastmodified":1449025766,
+    "wof:lastmodified":1466210196,
     "wof:name":"Othmar Br\u00fcgger Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.816604,46.793751,9.816604,46.793751],
+  "bbox": [
+    9.816604,
+    46.793751,
+    9.816604,
+    46.793751
+],
   "geometry": {"coordinates":[9.816604,46.793751],"type":"Point"}
 }

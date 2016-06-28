@@ -2,13 +2,14 @@
   "id": 253164489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.64142,46.778633,6.64142,46.778633",
     "geom:latitude":46.778633,
     "geom:longitude":6.64142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lausanne Route De 1400 Cheseaux-nor\u00e9az. Postfach",
     "sg:city":"Cheseaux-nor\u00e9az",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253164489,
-    "wof:lastmodified":1449063177,
+    "wof:lastmodified":1466210686,
     "wof:name":"Delifood Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.64142,46.778633,6.64142,46.778633],
+  "bbox": [
+    6.64142,
+    46.778633,
+    6.64142,
+    46.778633
+],
   "geometry": {"coordinates":[6.64142,46.778633],"type":"Point"}
 }

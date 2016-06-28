@@ -2,13 +2,14 @@
   "id": 169623217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.510525,47.478119,7.510525,47.478119",
     "geom:latitude":47.478119,
     "geom:longitude":7.510525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schl\u00f6ssliweg 4a",
     "sg:city":"Hofstetten",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169623217,
-    "wof:lastmodified":1449035000,
+    "wof:lastmodified":1466209668,
     "wof:name":"Ziltener Antriebstechnik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "actuator"
     ]
 },
-  "bbox": [7.510525,47.478119,7.510525,47.478119],
+  "bbox": [
+    7.510525,
+    47.478119,
+    7.510525,
+    47.478119
+],
   "geometry": {"coordinates":[7.510525,47.478119],"type":"Point"}
 }

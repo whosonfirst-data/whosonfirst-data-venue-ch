@@ -2,13 +2,14 @@
   "id": 203135725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.950003,46.004185,8.950003,46.004185",
     "geom:latitude":46.004185,
     "geom:longitude":8.950003,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giuseppe Motta 1",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203135725,
-    "wof:lastmodified":1449025646,
+    "wof:lastmodified":1466211492,
     "wof:name":"Dott.med.barbara Moccetti Specialista Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.950003,46.004185,8.950003,46.004185],
+  "bbox": [
+    8.950003,
+    46.004185,
+    8.950003,
+    46.004185
+],
   "geometry": {"coordinates":[8.950003,46.004185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252904411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.541049,47.288475,8.541049,47.288475",
     "geom:latitude":47.288475,
     "geom:longitude":8.541049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcntenackerweg 4",
     "sg:city":"Ziefen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252904411,
-    "wof:lastmodified":1449006542,
+    "wof:lastmodified":1466211041,
     "wof:name":"Brigittes Shop, B. Larcher-krause",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.541049,47.288475,8.541049,47.288475],
+  "bbox": [
+    8.541049,
+    47.288475,
+    8.541049,
+    47.288475
+],
   "geometry": {"coordinates":[8.541049,47.288475],"type":"Point"}
 }

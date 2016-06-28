@@ -2,13 +2,14 @@
   "id": 185600351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.636583,47.362209,8.636583,47.362209",
     "geom:latitude":47.362209,
     "geom:longitude":8.636583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bodenacherstrasse 32",
     "sg:city":"Benglen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185600351,
-    "wof:lastmodified":1449006762,
+    "wof:lastmodified":1466208919,
     "wof:name":"Buchheim Engineering",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.636583,47.362209,8.636583,47.362209],
+  "bbox": [
+    8.636583,
+    47.362209,
+    8.636583,
+    47.362209
+],
   "geometry": {"coordinates":[8.636583,47.362209],"type":"Point"}
 }

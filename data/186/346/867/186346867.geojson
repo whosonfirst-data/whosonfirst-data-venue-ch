@@ -2,13 +2,14 @@
   "id": 186346867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.081979,47.055676,8.081979,47.055676",
     "geom:latitude":47.055676,
     "geom:longitude":8.081979,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruswilerstrasse 1 6110 Wolhusen. Postfach 61",
     "sg:city":"Wolhusen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186346867,
-    "wof:lastmodified":1449050240,
+    "wof:lastmodified":1466210189,
     "wof:name":"Anliker S\u00f6hne Ag Baugesch\u00e4ft Wolhusen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.081979,47.055676,8.081979,47.055676],
+  "bbox": [
+    8.081979,
+    47.055676,
+    8.081979,
+    47.055676
+],
   "geometry": {"coordinates":[8.081979,47.055676],"type":"Point"}
 }

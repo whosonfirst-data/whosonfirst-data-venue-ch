@@ -2,13 +2,14 @@
   "id": 253365195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575709,46.849865,7.575709,46.849865",
     "geom:latitude":46.849865,
     "geom:longitude":7.575709,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 12",
     "sg:city":"Niederwichtrach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253365195,
-    "wof:lastmodified":1449063291,
+    "wof:lastmodified":1466212147,
     "wof:name":"Institut F.indologie Wichtrach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.575709,46.849865,7.575709,46.849865],
+  "bbox": [
+    7.575709,
+    46.849865,
+    7.575709,
+    46.849865
+],
   "geometry": {"coordinates":[7.575709,46.849865],"type":"Point"}
 }

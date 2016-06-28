@@ -2,13 +2,14 @@
   "id": 219874009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.353054,47.097778,8.353054,47.097778",
     "geom:latitude":47.097778,
     "geom:longitude":8.353054,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rigiweg 5",
     "sg:city":"Buchrain",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219874009,
-    "wof:lastmodified":1449073683,
+    "wof:lastmodified":1466212680,
     "wof:name":"Baugenossenschaft Fildern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.353054,47.097778,8.353054,47.097778],
+  "bbox": [
+    8.353054,
+    47.097778,
+    8.353054,
+    47.097778
+],
   "geometry": {"coordinates":[8.353054,47.097778],"type":"Point"}
 }

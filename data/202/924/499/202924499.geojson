@@ -2,13 +2,14 @@
   "id": 202924499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598777,46.766582,7.598777,46.766582",
     "geom:latitude":46.766582,
     "geom:longitude":7.598777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4hlenweg 11 3603 Thun. Postfach",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202924499,
-    "wof:lastmodified":1449060826,
+    "wof:lastmodified":1466212238,
     "wof:name":"Sium Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.598777,46.766582,7.598777,46.766582],
+  "bbox": [
+    7.598777,
+    46.766582,
+    7.598777,
+    46.766582
+],
   "geometry": {"coordinates":[7.598777,46.766582],"type":"Point"}
 }

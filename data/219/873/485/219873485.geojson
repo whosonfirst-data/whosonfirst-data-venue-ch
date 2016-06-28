@@ -2,13 +2,14 @@
   "id": 219873485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.550286,47.046566,8.550286,47.046566",
     "geom:latitude":47.046566,
     "geom:longitude":8.550286,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zaystrasse 16",
     "sg:city":"Goldau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219873485,
-    "wof:lastmodified":1449071134,
+    "wof:lastmodified":1466212599,
     "wof:name":"Baugen.sonnegg Goldau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.550286,47.046566,8.550286,47.046566],
+  "bbox": [
+    8.550286,
+    47.046566,
+    8.550286,
+    47.046566
+],
   "geometry": {"coordinates":[8.550286,47.046566],"type":"Point"}
 }

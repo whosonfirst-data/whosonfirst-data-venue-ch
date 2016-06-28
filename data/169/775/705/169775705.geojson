@@ -2,13 +2,14 @@
   "id": 169775705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.557313,47.369686,8.557313,47.369686",
     "geom:latitude":47.369686,
     "geom:longitude":8.557313,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nb\u00fchlstrasse 4",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169775705,
-    "wof:lastmodified":1449035119,
+    "wof:lastmodified":1466211596,
     "wof:name":"Young Culture Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.557313,47.369686,8.557313,47.369686],
+  "bbox": [
+    8.557313,
+    47.369686,
+    8.557313,
+    47.369686
+],
   "geometry": {"coordinates":[8.557313,47.369686],"type":"Point"}
 }

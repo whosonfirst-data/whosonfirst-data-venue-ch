@@ -2,13 +2,14 @@
   "id": 219631369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.90266,46.259338,7.90266,46.259338",
     "geom:latitude":46.259338,
     "geom:longitude":7.90266,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintergasse 5",
     "sg:city":"Villnachern",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219631369,
-    "wof:lastmodified":1449071493,
+    "wof:lastmodified":1466212086,
     "wof:name":"Raiffeisenbank Visperterminen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.90266,46.259338,7.90266,46.259338],
+  "bbox": [
+    7.90266,
+    46.259338,
+    7.90266,
+    46.259338
+],
   "geometry": {"coordinates":[7.90266,46.259338],"type":"Point"}
 }

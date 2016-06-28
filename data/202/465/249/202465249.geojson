@@ -2,13 +2,14 @@
   "id": 202465249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.745049,47.045635,7.745049,47.045635",
     "geom:latitude":47.045635,
     "geom:longitude":7.745049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Griesbach 752 3454 Sumiswald. Postfach",
     "sg:city":"Sumiswald",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202465249,
-    "wof:lastmodified":1449061795,
+    "wof:lastmodified":1466211013,
     "wof:name":"Dexcon Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.745049,47.045635,7.745049,47.045635],
+  "bbox": [
+    7.745049,
+    47.045635,
+    7.745049,
+    47.045635
+],
   "geometry": {"coordinates":[7.745049,47.045635],"type":"Point"}
 }

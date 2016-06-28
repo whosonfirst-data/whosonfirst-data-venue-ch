@@ -2,13 +2,14 @@
   "id": 203322665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.31574,47.055176,8.31574,47.055176",
     "geom:latitude":47.055176,
     "geom:longitude":8.31574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenstrasse 25",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203322665,
-    "wof:lastmodified":1449024923,
+    "wof:lastmodified":1466210762,
     "wof:name":"Dr.med.george Nager Spezialarzt Fmh",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.31574,47.055176,8.31574,47.055176],
+  "bbox": [
+    8.31574,
+    47.055176,
+    8.31574,
+    47.055176
+],
   "geometry": {"coordinates":[8.31574,47.055176],"type":"Point"}
 }

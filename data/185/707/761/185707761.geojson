@@ -2,13 +2,14 @@
   "id": 185707761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.425363,46.943813,7.425363,46.943813",
     "geom:latitude":46.943813,
     "geom:longitude":7.425363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Konsumstrasse 16a",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185707761,
-    "wof:lastmodified":1449007983,
+    "wof:lastmodified":1466211190,
     "wof:name":"Fuhrer Marbach & Partner Advokaturb\u00fcro",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.425363,46.943813,7.425363,46.943813],
+  "bbox": [
+    7.425363,
+    46.943813,
+    7.425363,
+    46.943813
+],
   "geometry": {"coordinates":[7.425363,46.943813],"type":"Point"}
 }

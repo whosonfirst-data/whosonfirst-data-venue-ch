@@ -2,13 +2,14 @@
   "id": 169741797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.10609,47.564041,9.10609,47.564041",
     "geom:latitude":47.564041,
     "geom:longitude":9.10609,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse",
     "sg:city":"Weinfelden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169741797,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1466211248,
     "wof:name":"Model Holding Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [9.10609,47.564041,9.10609,47.564041],
+  "bbox": [
+    9.10609,
+    47.564041,
+    9.10609,
+    47.564041
+],
   "geometry": {"coordinates":[9.10609,47.564041],"type":"Point"}
 }

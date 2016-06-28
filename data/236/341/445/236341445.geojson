@@ -2,13 +2,14 @@
   "id": 236341445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.244809,47.13385,7.244809,47.13385",
     "geom:latitude":47.13385,
     "geom:longitude":7.244809,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thomas-wyttenbach-strasse 4",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236341445,
-    "wof:lastmodified":1449005073,
+    "wof:lastmodified":1466211942,
     "wof:name":"Fondation Du Th\u00e9\u00e2tre D'expression Fran\u00e7aise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.244809,47.13385,7.244809,47.13385],
+  "bbox": [
+    7.244809,
+    47.13385,
+    7.244809,
+    47.13385
+],
   "geometry": {"coordinates":[7.244809,47.13385],"type":"Point"}
 }

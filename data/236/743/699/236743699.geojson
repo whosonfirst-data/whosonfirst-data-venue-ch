@@ -2,13 +2,14 @@
   "id": 236743699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.900336,47.553493,8.900336,47.553493",
     "geom:latitude":47.553493,
     "geom:longitude":8.900336,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstrasse 10",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236743699,
-    "wof:lastmodified":1449005223,
+    "wof:lastmodified":1466212981,
     "wof:name":"Komedia Verlags Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.900336,47.553493,8.900336,47.553493],
+  "bbox": [
+    8.900336,
+    47.553493,
+    8.900336,
+    47.553493
+],
   "geometry": {"coordinates":[8.900336,47.553493],"type":"Point"}
 }

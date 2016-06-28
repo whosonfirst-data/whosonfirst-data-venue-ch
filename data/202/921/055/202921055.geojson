@@ -2,13 +2,14 @@
   "id": 202921055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68009,47.473461,8.68009,47.473461",
     "geom:latitude":47.473461,
     "geom:longitude":8.68009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinlerstrasse 8",
     "sg:city":"Br\u00fctten",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202921055,
-    "wof:lastmodified":1449061719,
+    "wof:lastmodified":1466212101,
     "wof:name":"Oxyg\u00e8ne Gmbh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.68009,47.473461,8.68009,47.473461],
+  "bbox": [
+    8.68009,
+    47.473461,
+    8.68009,
+    47.473461
+],
   "geometry": {"coordinates":[8.68009,47.473461],"type":"Point"}
 }

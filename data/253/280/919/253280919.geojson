@@ -2,13 +2,14 @@
   "id": 253280919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.549296,46.95536,7.549296,46.95536",
     "geom:latitude":46.95536,
     "geom:longitude":7.549296,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindentalstrasse 9",
     "sg:city":"Boll",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253280919,
-    "wof:lastmodified":1449064276,
+    "wof:lastmodified":1466211665,
     "wof:name":"Hansueli Sch\u00fcpbach",
     "wof:parent_id":85800475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.549296,46.95536,7.549296,46.95536],
+  "bbox": [
+    7.549296,
+    46.95536,
+    7.549296,
+    46.95536
+],
   "geometry": {"coordinates":[7.549296,46.95536],"type":"Point"}
 }

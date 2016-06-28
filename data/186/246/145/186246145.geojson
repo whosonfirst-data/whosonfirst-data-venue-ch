@@ -2,13 +2,14 @@
   "id": 186246145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.131345,47.664303,9.131345,47.664303",
     "geom:latitude":47.664303,
     "geom:longitude":9.131345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weiherstrasse 1 8274 Gottlieben. Postfach",
     "sg:city":"Gottlieben",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186246145,
-    "wof:lastmodified":1449050434,
+    "wof:lastmodified":1466209441,
     "wof:name":"Weda Festzeltvermietung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.131345,47.664303,9.131345,47.664303],
+  "bbox": [
+    9.131345,
+    47.664303,
+    9.131345,
+    47.664303
+],
   "geometry": {"coordinates":[9.131345,47.664303],"type":"Point"}
 }

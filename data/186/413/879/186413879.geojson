@@ -2,13 +2,14 @@
   "id": 186413879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.316611,46.223396,7.316611,46.223396",
     "geom:latitude":46.223396,
     "geom:longitude":7.316611,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Pommiers 29 1962 Pont-de-la-morge Case Postale 65",
     "sg:city":"Pont-de-la-morge",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186413879,
-    "wof:lastmodified":1449050813,
+    "wof:lastmodified":1466210706,
     "wof:name":"Soci\u00e9t\u00e9 De Travaux Publics, Carron Joseph Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.316611,46.223396,7.316611,46.223396],
+  "bbox": [
+    7.316611,
+    46.223396,
+    7.316611,
+    46.223396
+],
   "geometry": {"coordinates":[7.316611,46.223396],"type":"Point"}
 }

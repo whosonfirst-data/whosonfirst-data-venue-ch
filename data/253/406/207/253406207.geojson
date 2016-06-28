@@ -2,13 +2,14 @@
   "id": 253406207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.622209,47.062199,7.622209,47.062199",
     "geom:latitude":47.062199,
     "geom:longitude":7.622209,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchbergstrasse 24",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253406207,
-    "wof:lastmodified":1449064413,
+    "wof:lastmodified":1466212193,
     "wof:name":"Cerebellum Computer Ruch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.622209,47.062199,7.622209,47.062199],
+  "bbox": [
+    7.622209,
+    47.062199,
+    7.622209,
+    47.062199
+],
   "geometry": {"coordinates":[7.622209,47.062199],"type":"Point"}
 }

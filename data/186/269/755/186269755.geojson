@@ -2,13 +2,14 @@
   "id": 186269755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.878942,46.882381,9.878942,46.882381",
     "geom:latitude":46.882381,
     "geom:longitude":9.878942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Sauge 18 1030 Bussigny-lausanne Case Postale 43",
     "sg:city":"Bussigny-lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186269755,
-    "wof:lastmodified":1449052054,
+    "wof:lastmodified":1466209619,
     "wof:name":"Bettinaglio + K\u00fcng Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.878942,46.882381,9.878942,46.882381],
+  "bbox": [
+    9.878942,
+    46.882381,
+    9.878942,
+    46.882381
+],
   "geometry": {"coordinates":[9.878942,46.882381],"type":"Point"}
 }

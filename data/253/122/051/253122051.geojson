@@ -2,13 +2,14 @@
   "id": 253122051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525985,47.376431,8.525985,47.376431",
     "geom:latitude":47.376431,
     "geom:longitude":8.525985,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stauffacherstrasse 94 8004 Z\u00fcrich. Postfach 2149",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253122051,
-    "wof:lastmodified":1449064502,
+    "wof:lastmodified":1466210160,
     "wof:name":"Roth Optik Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525985,47.376431,8.525985,47.376431],
+  "bbox": [
+    8.525985,
+    47.376431,
+    8.525985,
+    47.376431
+],
   "geometry": {"coordinates":[8.525985,47.376431],"type":"Point"}
 }

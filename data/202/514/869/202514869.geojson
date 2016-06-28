@@ -2,13 +2,14 @@
   "id": 202514869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597666,47.094009,7.597666,47.094009",
     "geom:latitude":47.094009,
     "geom:longitude":7.597666,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rumendingenstrasse 5",
     "sg:city":"Ersigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202514869,
-    "wof:lastmodified":1449061397,
+    "wof:lastmodified":1466211577,
     "wof:name":"Gerber Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.597666,47.094009,7.597666,47.094009],
+  "bbox": [
+    7.597666,
+    47.094009,
+    7.597666,
+    47.094009
+],
   "geometry": {"coordinates":[7.597666,47.094009],"type":"Point"}
 }

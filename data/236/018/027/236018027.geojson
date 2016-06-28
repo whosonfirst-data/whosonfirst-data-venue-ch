@@ -2,13 +2,14 @@
   "id": 236018027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.541818,47.609776,8.541818,47.609776",
     "geom:latitude":47.609776,
     "geom:longitude":8.541818,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 11 8197 Rafz. Postfach 37",
     "sg:city":"Rafz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236018027,
-    "wof:lastmodified":1449003261,
+    "wof:lastmodified":1466209043,
     "wof:name":"Sigrist Rafz Holz + Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.541818,47.609776,8.541818,47.609776],
+  "bbox": [
+    8.541818,
+    47.609776,
+    8.541818,
+    47.609776
+],
   "geometry": {"coordinates":[8.541818,47.609776],"type":"Point"}
 }

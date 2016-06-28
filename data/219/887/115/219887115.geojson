@@ -2,13 +2,14 @@
   "id": 219887115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.600386,46.567242,6.600386,46.567242",
     "geom:latitude":46.567242,
     "geom:longitude":6.600386,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Esserpys 14 1032 Romanel-s-lausanne Case Postale 1373",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219887115,
-    "wof:lastmodified":1449073231,
+    "wof:lastmodified":1466212689,
     "wof:name":"St\u00e9 Coop.d'hab.bellerive",
     "wof:parent_id":85862381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.600386,46.567242,6.600386,46.567242],
+  "bbox": [
+    6.600386,
+    46.567242,
+    6.600386,
+    46.567242
+],
   "geometry": {"coordinates":[6.600386,46.567242],"type":"Point"}
 }

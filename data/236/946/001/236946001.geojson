@@ -2,13 +2,14 @@
   "id": 236946001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.610307,46.53553,6.610307,46.53553",
     "geom:latitude":46.53553,
     "geom:longitude":6.610307,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Chantegrive 11",
     "sg:city":"Prilly",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236946001,
-    "wof:lastmodified":1449004768,
+    "wof:lastmodified":1466213037,
     "wof:name":"Hs Development S\u00e0rl",
     "wof:parent_id":85800433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.610307,46.53553,6.610307,46.53553],
+  "bbox": [
+    6.610307,
+    46.53553,
+    6.610307,
+    46.53553
+],
   "geometry": {"coordinates":[6.610307,46.53553],"type":"Point"}
 }

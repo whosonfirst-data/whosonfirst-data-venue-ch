@@ -2,13 +2,14 @@
   "id": 220000999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.632768,46.858883,8.632768,46.858883",
     "geom:latitude":46.858883,
     "geom:longitude":8.632768,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochweg 9",
     "sg:city":"Attinghausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220000999,
-    "wof:lastmodified":1449074167,
+    "wof:lastmodified":1466211624,
     "wof:name":"Arthur Aschwanden Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.632768,46.858883,8.632768,46.858883],
+  "bbox": [
+    8.632768,
+    46.858883,
+    8.632768,
+    46.858883
+],
   "geometry": {"coordinates":[8.632768,46.858883],"type":"Point"}
 }

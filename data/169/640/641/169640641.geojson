@@ -2,13 +2,14 @@
   "id": 169640641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.43193,47.140961,8.43193,47.140961",
     "geom:latitude":47.140961,
     "geom:longitude":8.43193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilenstrasse 23",
     "sg:city":"Rickenbach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169640641,
-    "wof:lastmodified":1449034104,
+    "wof:lastmodified":1466209897,
     "wof:name":"Raiffeisenbank Risch-rotkreuz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.43193,47.140961,8.43193,47.140961],
+  "bbox": [
+    8.43193,
+    47.140961,
+    8.43193,
+    47.140961
+],
   "geometry": {"coordinates":[8.43193,47.140961],"type":"Point"}
 }

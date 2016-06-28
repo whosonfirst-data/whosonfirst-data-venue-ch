@@ -2,13 +2,14 @@
   "id": 219160779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465458,46.946732,7.465458,46.946732",
     "geom:latitude":46.946732,
     "geom:longitude":7.465458,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obstgartenstrasse 4",
     "sg:city":"Andelfingen",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219160779,
-    "wof:lastmodified":1449073353,
+    "wof:lastmodified":1466210067,
     "wof:name":"Dr.med.walter Sommer Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465458,46.946732,7.465458,46.946732],
+  "bbox": [
+    7.465458,
+    46.946732,
+    7.465458,
+    46.946732
+],
   "geometry": {"coordinates":[7.465458,46.946732],"type":"Point"}
 }

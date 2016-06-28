@@ -2,13 +2,14 @@
   "id": 186588971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.645579,46.880924,8.645579,46.880924",
     "geom:latitude":46.880924,
     "geom:longitude":8.645579,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 12",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186588971,
-    "wof:lastmodified":1449052484,
+    "wof:lastmodified":1466212122,
     "wof:name":"Gewerkschaft Bau & Industrie Sekretariat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.645579,46.880924,8.645579,46.880924],
+  "bbox": [
+    8.645579,
+    46.880924,
+    8.645579,
+    46.880924
+],
   "geometry": {"coordinates":[8.645579,46.880924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203322379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.486571,47.387886,8.486571,47.387886",
     "geom:latitude":47.387886,
     "geom:longitude":8.486571,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 672",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203322379,
-    "wof:lastmodified":1449024925,
+    "wof:lastmodified":1466210759,
     "wof:name":"Dr.med.georg Sarkany Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.486571,47.387886,8.486571,47.387886],
+  "bbox": [
+    8.486571,
+    47.387886,
+    8.486571,
+    47.387886
+],
   "geometry": {"coordinates":[8.486571,47.387886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252715195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60017,47.464176,7.60017,47.464176",
     "geom:latitude":47.464176,
     "geom:longitude":7.60017,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintermettlen 2",
     "sg:city":"Walchwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252715195,
-    "wof:lastmodified":1449006284,
+    "wof:lastmodified":1466209004,
     "wof:name":"Orgadat Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.60017,47.464176,7.60017,47.464176],
+  "bbox": [
+    7.60017,
+    47.464176,
+    7.60017,
+    47.464176
+],
   "geometry": {"coordinates":[7.60017,47.464176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.94368,46.01965,8.94368,46.01965",
     "geom:latitude":46.01965,
     "geom:longitude":8.94368,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Principale",
     "sg:city":"San Carlo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169626631,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466209724,
     "wof:name":"Banca Raiffeisen Savosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.94368,46.01965,8.94368,46.01965],
+  "bbox": [
+    8.94368,
+    46.01965,
+    8.94368,
+    46.01965
+],
   "geometry": {"coordinates":[8.94368,46.01965],"type":"Point"}
 }

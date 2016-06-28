@@ -2,13 +2,14 @@
   "id": 186007507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.550583,47.284298,8.550583,47.284298",
     "geom:latitude":47.284298,
     "geom:longitude":8.550583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obstgartenzentrum 19",
     "sg:city":"Gattikon",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186007507,
-    "wof:lastmodified":1449052548,
+    "wof:lastmodified":1466209120,
     "wof:name":"Atmo Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.550583,47.284298,8.550583,47.284298],
+  "bbox": [
+    8.550583,
+    47.284298,
+    8.550583,
+    47.284298
+],
   "geometry": {"coordinates":[8.550583,47.284298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169826645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.512777,47.173367,8.512777,47.173367",
     "geom:latitude":47.173367,
     "geom:longitude":8.512777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisstrasse 1 6300 Zug. Postfach 4553",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169826645,
-    "wof:lastmodified":1449035070,
+    "wof:lastmodified":1466209252,
     "wof:name":"Landis Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.512777,47.173367,8.512777,47.173367],
+  "bbox": [
+    8.512777,
+    47.173367,
+    8.512777,
+    47.173367
+],
   "geometry": {"coordinates":[8.512777,47.173367],"type":"Point"}
 }

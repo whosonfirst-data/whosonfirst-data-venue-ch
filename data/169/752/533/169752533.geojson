@@ -2,13 +2,14 @@
   "id": 169752533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.404979,47.400372,8.404979,47.400372",
     "geom:latitude":47.400372,
     "geom:longitude":8.404979,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Dorfli 23",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169752533,
-    "wof:lastmodified":1449033248,
+    "wof:lastmodified":1466211351,
     "wof:name":"Eco Services International",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.404979,47.400372,8.404979,47.400372],
+  "bbox": [
+    8.404979,
+    47.400372,
+    8.404979,
+    47.400372
+],
   "geometry": {"coordinates":[8.404979,47.400372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236633503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.364904,47.045963,7.364904,47.045963",
     "geom:latitude":47.045963,
     "geom:longitude":7.364904,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundkofen",
     "sg:city":"Sch\u00fcpfen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236633503,
-    "wof:lastmodified":1449005220,
+    "wof:lastmodified":1466212725,
     "wof:name":"Campingplatz Bundkofen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.364904,47.045963,7.364904,47.045963],
+  "bbox": [
+    7.364904,
+    47.045963,
+    7.364904,
+    47.045963
+],
   "geometry": {"coordinates":[7.364904,47.045963],"type":"Point"}
 }

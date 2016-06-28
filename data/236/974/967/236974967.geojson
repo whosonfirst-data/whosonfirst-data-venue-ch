@@ -2,13 +2,14 @@
   "id": 236974967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.676382,47.440388,8.676382,47.440388",
     "geom:latitude":47.440388,
     "geom:longitude":8.676382,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuhofstrasse 43",
     "sg:city":"Lindau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236974967,
-    "wof:lastmodified":1449004728,
+    "wof:lastmodified":1466213018,
     "wof:name":"Loget Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.676382,47.440388,8.676382,47.440388],
+  "bbox": [
+    8.676382,
+    47.440388,
+    8.676382,
+    47.440388
+],
   "geometry": {"coordinates":[8.676382,47.440388],"type":"Point"}
 }

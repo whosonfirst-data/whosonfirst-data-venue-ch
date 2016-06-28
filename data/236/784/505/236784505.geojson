@@ -2,13 +2,14 @@
   "id": 236784505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.53235,47.205379,7.53235,47.205379",
     "geom:latitude":47.205379,
     "geom:longitude":7.53235,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obachstr. 10",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236784505,
-    "wof:lastmodified":1449003934,
+    "wof:lastmodified":1466212891,
     "wof:name":"Astrada Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [7.53235,47.205379,7.53235,47.205379],
+  "bbox": [
+    7.53235,
+    47.205379,
+    7.53235,
+    47.205379
+],
   "geometry": {"coordinates":[7.53235,47.205379],"type":"Point"}
 }

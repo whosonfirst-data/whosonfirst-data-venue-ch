@@ -2,13 +2,14 @@
   "id": 203180017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.951796,46.254036,6.951796,46.254036",
     "geom:latitude":46.254036,
     "geom:longitude":6.951796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 36",
     "sg:city":"Monthey",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203180017,
-    "wof:lastmodified":1449025032,
+    "wof:lastmodified":1466209250,
     "wof:name":"Dr M\u00e9d. Fran\u00e7ois Kuntschen M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.951796,46.254036,6.951796,46.254036],
+  "bbox": [
+    6.951796,
+    46.254036,
+    6.951796,
+    46.254036
+],
   "geometry": {"coordinates":[6.951796,46.254036],"type":"Point"}
 }

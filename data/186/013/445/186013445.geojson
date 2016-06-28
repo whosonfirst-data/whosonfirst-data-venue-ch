@@ -2,13 +2,14 @@
   "id": 186013445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.24779,47.131622,7.24779,47.131622",
     "geom:latitude":47.131622,
     "geom:longitude":7.24779,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 14 2503 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186013445,
-    "wof:lastmodified":1449052183,
+    "wof:lastmodified":1466209382,
     "wof:name":"Bau-top 2001 Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.24779,47.131622,7.24779,47.131622],
+  "bbox": [
+    7.24779,
+    47.131622,
+    7.24779,
+    47.131622
+],
   "geometry": {"coordinates":[7.24779,47.131622],"type":"Point"}
 }

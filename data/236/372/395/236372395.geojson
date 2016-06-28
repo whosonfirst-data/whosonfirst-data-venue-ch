@@ -2,13 +2,14 @@
   "id": 236372395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533803,47.383083,8.533803,47.383083",
     "geom:latitude":47.383083,
     "geom:longitude":8.533803,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatstrasse 90 8005 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236372395,
-    "wof:lastmodified":1449003694,
+    "wof:lastmodified":1466212170,
     "wof:name":"Sekundarschule Limmat A",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533803,47.383083,8.533803,47.383083],
+  "bbox": [
+    8.533803,
+    47.383083,
+    8.533803,
+    47.383083
+],
   "geometry": {"coordinates":[8.533803,47.383083],"type":"Point"}
 }

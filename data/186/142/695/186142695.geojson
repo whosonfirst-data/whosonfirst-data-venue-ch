@@ -2,13 +2,14 @@
   "id": 186142695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63126,47.059834,7.63126,47.059834",
     "geom:latitude":47.059834,
     "geom:longitude":7.63126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strandweg 1a 3400 Burgdorf. Postfach",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186142695,
-    "wof:lastmodified":1449052474,
+    "wof:lastmodified":1466211390,
     "wof:name":"Marti Ag Bern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63126,47.059834,7.63126,47.059834],
+  "bbox": [
+    7.63126,
+    47.059834,
+    7.63126,
+    47.059834
+],
   "geometry": {"coordinates":[7.63126,47.059834],"type":"Point"}
 }

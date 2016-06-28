@@ -2,13 +2,14 @@
   "id": 236695877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.624109,47.415203,8.624109,47.415203",
     "geom:latitude":47.415203,
     "geom:longitude":8.624109,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestr. 9",
     "sg:city":"Dietlikon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236695877,
-    "wof:lastmodified":1449002797,
+    "wof:lastmodified":1466212754,
     "wof:name":"Luzi Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chemistry"
     ]
 },
-  "bbox": [8.624109,47.415203,8.624109,47.415203],
+  "bbox": [
+    8.624109,
+    47.415203,
+    8.624109,
+    47.415203
+],
   "geometry": {"coordinates":[8.624109,47.415203],"type":"Point"}
 }

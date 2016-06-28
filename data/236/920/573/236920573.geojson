@@ -2,13 +2,14 @@
   "id": 236920573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.471229,47.185787,8.471229,47.185787",
     "geom:latitude":47.185787,
     "geom:longitude":8.471229,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenstrasse 14 6330 Cham. Postfach",
     "sg:city":"Cham",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236920573,
-    "wof:lastmodified":1449004347,
+    "wof:lastmodified":1466212988,
     "wof:name":"Venaris Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.471229,47.185787,8.471229,47.185787],
+  "bbox": [
+    8.471229,
+    47.185787,
+    8.471229,
+    47.185787
+],
   "geometry": {"coordinates":[8.471229,47.185787],"type":"Point"}
 }

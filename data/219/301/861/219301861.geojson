@@ -2,13 +2,14 @@
   "id": 219301861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.053104,47.3433,8.053104,47.3433",
     "geom:latitude":47.3433,
     "geom:longitude":8.053104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 11",
     "sg:city":"Muhen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219301861,
-    "wof:lastmodified":1449071302,
+    "wof:lastmodified":1466209259,
     "wof:name":"Max K\u00e4ppeli Touring-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.053104,47.3433,8.053104,47.3433],
+  "bbox": [
+    8.053104,
+    47.3433,
+    8.053104,
+    47.3433
+],
   "geometry": {"coordinates":[8.053104,47.3433],"type":"Point"}
 }

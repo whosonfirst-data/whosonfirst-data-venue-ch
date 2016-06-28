@@ -2,13 +2,14 @@
   "id": 202828979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.736893,47.025078,7.736893,47.025078",
     "geom:latitude":47.025078,
     "geom:longitude":7.736893,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eystrasse 3 3455 Gr\u00fcnen. Postfach 112",
     "sg:city":"Gr\u00fcnen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202828979,
-    "wof:lastmodified":1449061409,
+    "wof:lastmodified":1466211954,
     "wof:name":"H. Tschanz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.736893,47.025078,7.736893,47.025078],
+  "bbox": [
+    7.736893,
+    47.025078,
+    7.736893,
+    47.025078
+],
   "geometry": {"coordinates":[7.736893,47.025078],"type":"Point"}
 }

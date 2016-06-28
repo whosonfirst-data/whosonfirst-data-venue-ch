@@ -2,13 +2,14 @@
   "id": 236768789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.200002,47.409512,9.200002,47.409512",
     "geom:latitude":47.409512,
     "geom:longitude":9.200002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4ndrichstrasse 8",
     "sg:city":"Flawil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236768789,
-    "wof:lastmodified":1449002821,
+    "wof:lastmodified":1466212876,
     "wof:name":"Koller + Morger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cnc"
     ]
 },
-  "bbox": [9.200002,47.409512,9.200002,47.409512],
+  "bbox": [
+    9.200002,
+    47.409512,
+    9.200002,
+    47.409512
+],
   "geometry": {"coordinates":[9.200002,47.409512],"type":"Point"}
 }

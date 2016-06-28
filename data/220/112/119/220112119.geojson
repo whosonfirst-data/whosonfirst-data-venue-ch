@@ -2,13 +2,14 @@
   "id": 220112119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.259141,47.037479,7.259141,47.037479",
     "geom:latitude":47.037479,
     "geom:longitude":7.259141,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstrasse 70",
     "sg:city":"Schmerikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220112119,
-    "wof:lastmodified":1449074387,
+    "wof:lastmodified":1466209842,
     "wof:name":"K\u00e4nel Schreinerei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.259141,47.037479,7.259141,47.037479],
+  "bbox": [
+    7.259141,
+    47.037479,
+    7.259141,
+    47.037479
+],
   "geometry": {"coordinates":[7.259141,47.037479],"type":"Point"}
 }

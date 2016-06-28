@@ -2,13 +2,14 @@
   "id": 169692247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.141425,46.183311,6.141425,46.183311",
     "geom:latitude":46.183311,
     "geom:longitude":6.141425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Guldenenstrasse 6",
     "sg:city":"Uster",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169692247,
-    "wof:lastmodified":1449033562,
+    "wof:lastmodified":1466210821,
     "wof:name":"Isolation Franz Fuchsgruber",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cold"
     ]
 },
-  "bbox": [6.141425,46.183311,6.141425,46.183311],
+  "bbox": [
+    6.141425,
+    46.183311,
+    6.141425,
+    46.183311
+],
   "geometry": {"coordinates":[6.141425,46.183311],"type":"Point"}
 }

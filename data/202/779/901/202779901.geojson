@@ -2,13 +2,14 @@
   "id": 202779901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.690677,46.503098,6.690677,46.503098",
     "geom:latitude":46.503098,
     "geom:longitude":6.690677,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Savuit 38 1095 Ch\u00e2telard-lutry Case Postale 57",
     "sg:city":"Ch\u00e2telard-lutry",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202779901,
-    "wof:lastmodified":1449060492,
+    "wof:lastmodified":1466211339,
     "wof:name":"Ac Architecture Et Concept Reichert Bernard Et Partners Sa",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.690677,46.503098,6.690677,46.503098],
+  "bbox": [
+    6.690677,
+    46.503098,
+    6.690677,
+    46.503098
+],
   "geometry": {"coordinates":[6.690677,46.503098],"type":"Point"}
 }

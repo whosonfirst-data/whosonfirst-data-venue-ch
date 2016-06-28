@@ -2,13 +2,14 @@
   "id": 219273641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.881068,47.47131,7.881068,47.47131",
     "geom:latitude":47.47131,
     "geom:longitude":7.881068,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hemmikerstrasse",
     "sg:city":"Ormalingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219273641,
-    "wof:lastmodified":1449072213,
+    "wof:lastmodified":1466209004,
     "wof:name":"Garage Anton Naef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.881068,47.47131,7.881068,47.47131],
+  "bbox": [
+    7.881068,
+    47.47131,
+    7.881068,
+    47.47131
+],
   "geometry": {"coordinates":[7.881068,47.47131],"type":"Point"}
 }

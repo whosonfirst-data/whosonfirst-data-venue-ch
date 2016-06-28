@@ -2,13 +2,14 @@
   "id": 186565021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.08661,46.994923,9.08661,46.994923",
     "geom:latitude":46.994923,
     "geom:longitude":9.08661,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Underm\u00fclistrasse 24",
     "sg:city":"Fehraltorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186565021,
-    "wof:lastmodified":1449052786,
+    "wof:lastmodified":1466211924,
     "wof:name":"Kartenverlag Kiener Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.08661,46.994923,9.08661,46.994923],
+  "bbox": [
+    9.08661,
+    46.994923,
+    9.08661,
+    46.994923
+],
   "geometry": {"coordinates":[9.08661,46.994923],"type":"Point"}
 }

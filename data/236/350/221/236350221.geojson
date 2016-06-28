@@ -2,13 +2,14 @@
   "id": 236350221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.1674,47.26268,7.1674,47.26268",
     "geom:latitude":47.26268,
     "geom:longitude":7.1674,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"2713",
     "sg:city":"Bellelay",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236350221,
-    "wof:lastmodified":1449003313,
+    "wof:lastmodified":1466211973,
     "wof:name":"Ecole Secondaire De La Courtine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.1674,47.26268,7.1674,47.26268],
+  "bbox": [
+    7.1674,
+    47.26268,
+    7.1674,
+    47.26268
+],
   "geometry": {"coordinates":[7.1674,47.26268],"type":"Point"}
 }

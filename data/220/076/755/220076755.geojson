@@ -2,13 +2,14 @@
   "id": 220076755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.545252,47.393658,7.545252,47.393658",
     "geom:latitude":47.393658,
     "geom:longitude":7.545252,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gehrenstrasse 25",
     "sg:city":"B\u00fcsserach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220076755,
-    "wof:lastmodified":1449074668,
+    "wof:lastmodified":1466209543,
     "wof:name":"Borer Germann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.545252,47.393658,7.545252,47.393658],
+  "bbox": [
+    7.545252,
+    47.393658,
+    7.545252,
+    47.393658
+],
   "geometry": {"coordinates":[7.545252,47.393658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236094235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.659977,47.231331,8.659977,47.231331",
     "geom:latitude":47.231331,
     "geom:longitude":8.659977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerstrasse 91 8820 W\u00e4denswil. Postfach 104",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236094235,
-    "wof:lastmodified":1449003770,
+    "wof:lastmodified":1466209743,
     "wof:name":"Brenner Haustechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.659977,47.231331,8.659977,47.231331],
+  "bbox": [
+    8.659977,
+    47.231331,
+    8.659977,
+    47.231331
+],
   "geometry": {"coordinates":[8.659977,47.231331],"type":"Point"}
 }

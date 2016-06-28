@@ -2,13 +2,14 @@
   "id": 253291719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.243322,47.41832,9.243322,47.41832",
     "geom:latitude":47.41832,
     "geom:longitude":9.243322,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlest\u00fctzli 2 3507 Biglen. Postfach",
     "sg:city":"Biglen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253291719,
-    "wof:lastmodified":1449063729,
+    "wof:lastmodified":1466211818,
     "wof:name":"Freiburghaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.243322,47.41832,9.243322,47.41832],
+  "bbox": [
+    9.243322,
+    47.41832,
+    9.243322,
+    47.41832
+],
   "geometry": {"coordinates":[9.243322,47.41832],"type":"Point"}
 }

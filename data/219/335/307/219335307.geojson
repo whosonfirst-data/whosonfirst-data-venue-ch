@@ -2,13 +2,14 @@
   "id": 219335307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.179105,47.258953,8.179105,47.258953",
     "geom:latitude":47.258953,
     "geom:longitude":8.179105,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Martigny 41",
     "sg:city":"Fully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219335307,
-    "wof:lastmodified":1449072713,
+    "wof:lastmodified":1466209570,
     "wof:name":"Haller Autocenter Reinach Ag Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.179105,47.258953,8.179105,47.258953],
+  "bbox": [
+    8.179105,
+    47.258953,
+    8.179105,
+    47.258953
+],
   "geometry": {"coordinates":[8.179105,47.258953],"type":"Point"}
 }

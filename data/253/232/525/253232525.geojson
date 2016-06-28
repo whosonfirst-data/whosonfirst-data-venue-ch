@@ -2,13 +2,14 @@
   "id": 253232525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.640668,47.26799,8.640668,47.26799",
     "geom:latitude":47.26799,
     "geom:longitude":8.640668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrhausgasse 5",
     "sg:city":"Meilen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253232525,
-    "wof:lastmodified":1449063779,
+    "wof:lastmodified":1466211317,
     "wof:name":"Paul Kocher B\u00e4ckerei-konditorei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.640668,47.26799,8.640668,47.26799],
+  "bbox": [
+    8.640668,
+    47.26799,
+    8.640668,
+    47.26799
+],
   "geometry": {"coordinates":[8.640668,47.26799],"type":"Point"}
 }

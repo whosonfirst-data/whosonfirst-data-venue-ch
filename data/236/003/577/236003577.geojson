@@ -2,13 +2,14 @@
   "id": 236003577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.211043,47.095627,8.211043,47.095627",
     "geom:latitude":47.095627,
     "geom:longitude":8.211043,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luzernstrasse 37",
     "sg:city":"Neuenkirch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236003577,
-    "wof:lastmodified":1449004941,
+    "wof:lastmodified":1466208925,
     "wof:name":"Wiederkehr Hans Holzbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.211043,47.095627,8.211043,47.095627],
+  "bbox": [
+    8.211043,
+    47.095627,
+    8.211043,
+    47.095627
+],
   "geometry": {"coordinates":[8.211043,47.095627],"type":"Point"}
 }

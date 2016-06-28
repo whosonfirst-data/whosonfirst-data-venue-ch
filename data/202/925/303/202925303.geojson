@@ -2,13 +2,14 @@
   "id": 202925303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64399,46.88195,8.64399,46.88195",
     "geom:latitude":46.88195,
     "geom:longitude":8.64399,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachstrasse 9",
     "sg:city":"M\u00f6nchaltorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202925303,
-    "wof:lastmodified":1449060130,
+    "wof:lastmodified":1466212239,
     "wof:name":"Basler & Hofmann Ag Altdorf, Beratende Ingenieure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.64399,46.88195,8.64399,46.88195],
+  "bbox": [
+    8.64399,
+    46.88195,
+    8.64399,
+    46.88195
+],
   "geometry": {"coordinates":[8.64399,46.88195],"type":"Point"}
 }

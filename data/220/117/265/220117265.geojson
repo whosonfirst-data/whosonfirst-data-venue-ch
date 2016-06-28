@@ -2,13 +2,14 @@
   "id": 220117265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619356,47.505413,7.619356,47.505413",
     "geom:latitude":47.505413,
     "geom:longitude":7.619356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 85-87 4144 Arlesheim. Postfach 440",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220117265,
-    "wof:lastmodified":1449074600,
+    "wof:lastmodified":1466209885,
     "wof:name":"Max J\u00e4ggi Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.619356,47.505413,7.619356,47.505413],
+  "bbox": [
+    7.619356,
+    47.505413,
+    7.619356,
+    47.505413
+],
   "geometry": {"coordinates":[7.619356,47.505413],"type":"Point"}
 }

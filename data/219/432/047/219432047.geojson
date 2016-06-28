@@ -2,13 +2,14 @@
   "id": 219432047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548176,47.385006,8.548176,47.385006",
     "geom:latitude":47.385006,
     "geom:longitude":8.548176,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Universit\u00e4tstrasse 111",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219432047,
-    "wof:lastmodified":1449070319,
+    "wof:lastmodified":1466210480,
     "wof:name":"Invento-team Peter & H\u00e4fliger",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548176,47.385006,8.548176,47.385006],
+  "bbox": [
+    8.548176,
+    47.385006,
+    8.548176,
+    47.385006
+],
   "geometry": {"coordinates":[8.548176,47.385006],"type":"Point"}
 }

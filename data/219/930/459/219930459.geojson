@@ -2,13 +2,14 @@
   "id": 219930459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.80548,46.39275,6.80548,46.39275",
     "geom:latitude":46.39275,
     "geom:longitude":6.80548,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sur L'herbette",
     "sg:city":"St-gingolph",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219930459,
-    "wof:lastmodified":1449071523,
+    "wof:lastmodified":1466212608,
     "wof:name":"Alfred Mocellini Terrassements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.80548,46.39275,6.80548,46.39275],
+  "bbox": [
+    6.80548,
+    46.39275,
+    6.80548,
+    46.39275
+],
   "geometry": {"coordinates":[6.80548,46.39275],"type":"Point"}
 }

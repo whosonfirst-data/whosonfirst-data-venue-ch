@@ -2,13 +2,14 @@
   "id": 236100001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.198456,46.19529,6.198456,46.19529",
     "geom:latitude":46.19529,
     "geom:longitude":6.198456,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Peillonnex 36",
     "sg:city":"Ch\u00eane-bourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236100001,
-    "wof:lastmodified":1449004213,
+    "wof:lastmodified":1466209792,
     "wof:name":"Entreprise Monney Bernard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.198456,46.19529,6.198456,46.19529],
+  "bbox": [
+    6.198456,
+    46.19529,
+    6.198456,
+    46.19529
+],
   "geometry": {"coordinates":[6.198456,46.19529],"type":"Point"}
 }

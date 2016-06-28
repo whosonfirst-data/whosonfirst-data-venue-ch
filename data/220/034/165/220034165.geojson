@@ -2,13 +2,14 @@
   "id": 220034165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.123635,47.528797,9.123635,47.528797",
     "geom:latitude":47.528797,
     "geom:longitude":9.123635,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiler Strasse 7",
     "sg:city":"Mettlen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220034165,
-    "wof:lastmodified":1449074125,
+    "wof:lastmodified":1466209167,
     "wof:name":"Paul Widler Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.123635,47.528797,9.123635,47.528797],
+  "bbox": [
+    9.123635,
+    47.528797,
+    9.123635,
+    47.528797
+],
   "geometry": {"coordinates":[9.123635,47.528797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186548671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.856587,47.652309,8.856587,47.652309",
     "geom:latitude":47.652309,
     "geom:longitude":8.856587,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Bahnhofstrasse 13",
     "sg:city":"Mellingen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186548671,
-    "wof:lastmodified":1449052223,
+    "wof:lastmodified":1466211860,
     "wof:name":"Phoenix Mecano Komponenten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "housing"
     ]
 },
-  "bbox": [8.856587,47.652309,8.856587,47.652309],
+  "bbox": [
+    8.856587,
+    47.652309,
+    8.856587,
+    47.652309
+],
   "geometry": {"coordinates":[8.856587,47.652309],"type":"Point"}
 }

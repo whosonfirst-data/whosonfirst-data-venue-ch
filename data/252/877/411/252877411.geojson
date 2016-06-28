@@ -2,13 +2,14 @@
   "id": 252877411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.453386,47.027977,8.453386,47.027977",
     "geom:latitude":47.027977,
     "geom:longitude":8.453386,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedsortstrasse 69",
     "sg:city":"Weggis",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252877411,
-    "wof:lastmodified":1449006161,
+    "wof:lastmodified":1466210744,
     "wof:name":"Vorsteher Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.453386,47.027977,8.453386,47.027977],
+  "bbox": [
+    8.453386,
+    47.027977,
+    8.453386,
+    47.027977
+],
   "geometry": {"coordinates":[8.453386,47.027977],"type":"Point"}
 }

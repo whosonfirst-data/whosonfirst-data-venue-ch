@@ -2,13 +2,14 @@
   "id": 202645319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.291411,47.068096,7.291411,47.068096",
     "geom:latitude":47.068096,
     "geom:longitude":7.291411,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grenzstrasse 24",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202645319,
-    "wof:lastmodified":1449060370,
+    "wof:lastmodified":1466210081,
     "wof:name":"Nivo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.291411,47.068096,7.291411,47.068096],
+  "bbox": [
+    7.291411,
+    47.068096,
+    7.291411,
+    47.068096
+],
   "geometry": {"coordinates":[7.291411,47.068096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186625205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.224043,46.880661,8.224043,46.880661",
     "geom:latitude":46.880661,
     "geom:longitude":8.224043,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 9 8274 T\u00e4gerwilen. Postfach",
     "sg:city":"T\u00e4gerwilen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186625205,
-    "wof:lastmodified":1449053063,
+    "wof:lastmodified":1466212085,
     "wof:name":"Agraplan Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.224043,46.880661,8.224043,46.880661],
+  "bbox": [
+    8.224043,
+    46.880661,
+    8.224043,
+    46.880661
+],
   "geometry": {"coordinates":[8.224043,46.880661],"type":"Point"}
 }

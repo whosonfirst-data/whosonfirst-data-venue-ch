@@ -2,13 +2,14 @@
   "id": 186631457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.348259,46.22456,7.348259,46.22456",
     "geom:latitude":46.22456,
     "geom:longitude":7.348259,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Blancherie 61",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186631457,
-    "wof:lastmodified":1449051208,
+    "wof:lastmodified":1466212123,
     "wof:name":"Ambrosetti Ingenierie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.348259,46.22456,7.348259,46.22456],
+  "bbox": [
+    7.348259,
+    46.22456,
+    7.348259,
+    46.22456
+],
   "geometry": {"coordinates":[7.348259,46.22456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220110971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.797787,46.670956,6.797787,46.670956",
     "geom:latitude":46.670956,
     "geom:longitude":6.797787,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Bussy 2 1510 Moudon Case Postale 148",
     "sg:city":"Moudon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220110971,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466209832,
     "wof:name":"Kovinger Antoine Et Fils.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.797787,46.670956,6.797787,46.670956],
+  "bbox": [
+    6.797787,
+    46.670956,
+    6.797787,
+    46.670956
+],
   "geometry": {"coordinates":[6.797787,46.670956],"type":"Point"}
 }

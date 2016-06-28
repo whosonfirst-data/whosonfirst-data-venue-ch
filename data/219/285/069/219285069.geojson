@@ -2,13 +2,14 @@
   "id": 219285069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.643734,47.015297,8.643734,47.015297",
     "geom:latitude":47.015297,
     "geom:longitude":8.643734,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstrasse 109 6438 Ibach. Postfach 156",
     "sg:city":"Ibach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219285069,
-    "wof:lastmodified":1449070467,
+    "wof:lastmodified":1466209108,
     "wof:name":"Hans Hediger Autogarage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.643734,47.015297,8.643734,47.015297],
+  "bbox": [
+    8.643734,
+    47.015297,
+    8.643734,
+    47.015297
+],
   "geometry": {"coordinates":[8.643734,47.015297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202885645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.678617,47.517422,8.678617,47.517422",
     "geom:latitude":47.517422,
     "geom:longitude":8.678617,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haltenrebenstrasse 156",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202885645,
-    "wof:lastmodified":1449061455,
+    "wof:lastmodified":1466212070,
     "wof:name":"Braun Brandsicherheit",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.678617,47.517422,8.678617,47.517422],
+  "bbox": [
+    8.678617,
+    47.517422,
+    8.678617,
+    47.517422
+],
   "geometry": {"coordinates":[8.678617,47.517422],"type":"Point"}
 }

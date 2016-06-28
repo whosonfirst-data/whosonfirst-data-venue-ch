@@ -2,13 +2,14 @@
   "id": 203214611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.855739,46.45314,6.855739,46.45314",
     "geom:latitude":46.45314,
     "geom:longitude":6.855739,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruelle Rousseau 10",
     "sg:city":"Fleurier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203214611,
-    "wof:lastmodified":1449026817,
+    "wof:lastmodified":1466209632,
     "wof:name":"Dr M\u00e9d. Paul Van Saanen M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.855739,46.45314,6.855739,46.45314],
+  "bbox": [
+    6.855739,
+    46.45314,
+    6.855739,
+    46.45314
+],
   "geometry": {"coordinates":[6.855739,46.45314],"type":"Point"}
 }

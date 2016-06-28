@@ -2,13 +2,14 @@
   "id": 219574901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.970053,46.359989,8.970053,46.359989",
     "geom:latitude":46.359989,
     "geom:longitude":8.970053,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Pini",
     "sg:city":"Biasca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219574901,
-    "wof:lastmodified":1449070355,
+    "wof:lastmodified":1466211700,
     "wof:name":"Mobiliare Svizzera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.970053,46.359989,8.970053,46.359989],
+  "bbox": [
+    8.970053,
+    46.359989,
+    8.970053,
+    46.359989
+],
   "geometry": {"coordinates":[8.970053,46.359989],"type":"Point"}
 }

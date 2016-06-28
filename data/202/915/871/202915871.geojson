@@ -2,13 +2,14 @@
   "id": 202915871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.374811,47.280006,7.374811,47.280006",
     "geom:latitude":47.280006,
     "geom:longitude":7.374811,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Centrale 38",
     "sg:city":"Montagne-moutier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202915871,
-    "wof:lastmodified":1449062609,
+    "wof:lastmodified":1466212193,
     "wof:name":"L'artisan, Schaffter Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.374811,47.280006,7.374811,47.280006],
+  "bbox": [
+    7.374811,
+    47.280006,
+    7.374811,
+    47.280006
+],
   "geometry": {"coordinates":[7.374811,47.280006],"type":"Point"}
 }

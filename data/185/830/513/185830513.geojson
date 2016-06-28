@@ -2,13 +2,14 @@
   "id": 185830513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532208,47.336979,8.532208,47.336979",
     "geom:latitude":47.336979,
     "geom:longitude":8.532208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heinrich Federer-strasse",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185830513,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466209322,
     "wof:name":"Air Malta Plc Terminal B",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "air"
     ]
 },
-  "bbox": [8.532208,47.336979,8.532208,47.336979],
+  "bbox": [
+    8.532208,
+    47.336979,
+    8.532208,
+    47.336979
+],
   "geometry": {"coordinates":[8.532208,47.336979],"type":"Point"}
 }

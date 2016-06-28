@@ -2,13 +2,14 @@
   "id": 203106649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.461878,47.406506,8.461878,47.406506",
     "geom:latitude":47.406506,
     "geom:longitude":8.461878,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fabrikstrasse 4 8102 Oberengstringen. Postfach Postfach 5",
     "sg:city":"Oberengstringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203106649,
-    "wof:lastmodified":1449024917,
+    "wof:lastmodified":1466211173,
     "wof:name":"2connex Telecommunications Gmbh",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.461878,47.406506,8.461878,47.406506],
+  "bbox": [
+    8.461878,
+    47.406506,
+    8.461878,
+    47.406506
+],
   "geometry": {"coordinates":[8.461878,47.406506],"type":"Point"}
 }

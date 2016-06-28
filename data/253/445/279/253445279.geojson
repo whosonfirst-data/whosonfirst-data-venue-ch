@@ -2,13 +2,14 @@
   "id": 253445279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.150473,46.203293,6.150473,46.203293",
     "geom:latitude":46.203293,
     "geom:longitude":6.150473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Longemalle 7",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253445279,
-    "wof:lastmodified":1449063215,
+    "wof:lastmodified":1466212387,
     "wof:name":"Battista Uomo",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.150473,46.203293,6.150473,46.203293],
+  "bbox": [
+    6.150473,
+    46.203293,
+    6.150473,
+    46.203293
+],
   "geometry": {"coordinates":[6.150473,46.203293],"type":"Point"}
 }

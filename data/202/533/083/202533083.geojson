@@ -2,13 +2,14 @@
   "id": 202533083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.29209,47.05587,8.29209,47.05587",
     "geom:latitude":47.05587,
     "geom:longitude":8.29209,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Karli-strasse 3",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202533083,
-    "wof:lastmodified":1449060078,
+    "wof:lastmodified":1466209032,
     "wof:name":"Hansen & Blaser Baurealisation Gmbh",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.29209,47.05587,8.29209,47.05587],
+  "bbox": [
+    8.29209,
+    47.05587,
+    8.29209,
+    47.05587
+],
   "geometry": {"coordinates":[8.29209,47.05587],"type":"Point"}
 }

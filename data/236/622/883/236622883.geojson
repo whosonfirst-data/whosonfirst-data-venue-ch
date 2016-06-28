@@ -2,13 +2,14 @@
   "id": 236622883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.806979,46.954929,7.806979,46.954929",
     "geom:latitude":46.954929,
     "geom:longitude":7.806979,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mettlen",
     "sg:city":"Gohl",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236622883,
-    "wof:lastmodified":1449004532,
+    "wof:lastmodified":1466212713,
     "wof:name":"Mettlen Camping Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.806979,46.954929,7.806979,46.954929],
+  "bbox": [
+    7.806979,
+    46.954929,
+    7.806979,
+    46.954929
+],
   "geometry": {"coordinates":[7.806979,46.954929],"type":"Point"}
 }

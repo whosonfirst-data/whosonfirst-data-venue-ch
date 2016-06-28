@@ -2,13 +2,14 @@
   "id": 219907105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.511688,47.404289,7.511688,47.404289",
     "geom:latitude":47.404289,
     "geom:longitude":7.511688,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Habsburgerstrasse 20 6003 Luzern. Postfach 4166",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219907105,
-    "wof:lastmodified":1449073640,
+    "wof:lastmodified":1466212543,
     "wof:name":"Liberale Baugenoss.wahlen C/o Steg & Hersberger Revision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.511688,47.404289,7.511688,47.404289],
+  "bbox": [
+    7.511688,
+    47.404289,
+    7.511688,
+    47.404289
+],
   "geometry": {"coordinates":[7.511688,47.404289],"type":"Point"}
 }

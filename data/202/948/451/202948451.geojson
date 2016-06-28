@@ -2,13 +2,14 @@
   "id": 202948451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.21403,47.488411,8.21403,47.488411",
     "geom:latitude":47.488411,
     "geom:longitude":8.21403,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Murbacherstrasse 34",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202948451,
-    "wof:lastmodified":1449062138,
+    "wof:lastmodified":1466212409,
     "wof:name":"Architheke Dietiker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.21403,47.488411,8.21403,47.488411],
+  "bbox": [
+    8.21403,
+    47.488411,
+    8.21403,
+    47.488411
+],
   "geometry": {"coordinates":[8.21403,47.488411],"type":"Point"}
 }

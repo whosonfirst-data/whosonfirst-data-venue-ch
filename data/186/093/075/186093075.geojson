@@ -2,13 +2,14 @@
   "id": 186093075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.65177,47.65398,8.65177,47.65398",
     "geom:latitude":47.65398,
     "geom:longitude":8.65177,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 202 Erzenholz 8500 Frauenfeld. Postfach",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186093075,
-    "wof:lastmodified":1449050257,
+    "wof:lastmodified":1466211677,
     "wof:name":"G\u00e4ggeler, Marty & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.65177,47.65398,8.65177,47.65398],
+  "bbox": [
+    8.65177,
+    47.65398,
+    8.65177,
+    47.65398
+],
   "geometry": {"coordinates":[8.65177,47.65398],"type":"Point"}
 }

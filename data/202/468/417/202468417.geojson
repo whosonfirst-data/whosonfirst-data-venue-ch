@@ -2,13 +2,14 @@
   "id": 202468417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.039784,46.879696,7.039784,46.879696",
     "geom:latitude":46.879696,
     "geom:longitude":7.039784,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Centrale 32",
     "sg:city":"Avenches",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202468417,
-    "wof:lastmodified":1449061915,
+    "wof:lastmodified":1466211035,
     "wof:name":"Dmd Constructeurs, Meuwly D'agostino, Dessibourg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.039784,46.879696,7.039784,46.879696],
+  "bbox": [
+    7.039784,
+    46.879696,
+    7.039784,
+    46.879696
+],
   "geometry": {"coordinates":[7.039784,46.879696],"type":"Point"}
 }

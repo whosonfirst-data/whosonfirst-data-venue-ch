@@ -2,13 +2,14 @@
   "id": 236299895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.947147,46.251629,6.947147,46.251629",
     "geom:latitude":46.251629,
     "geom:longitude":6.947147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Octodure 11 1870 Monthey. Postfach",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236299895,
-    "wof:lastmodified":1449002308,
+    "wof:lastmodified":1466211856,
     "wof:name":"Groupement De Services Officiels D'ambulances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.947147,46.251629,6.947147,46.251629],
+  "bbox": [
+    6.947147,
+    46.251629,
+    6.947147,
+    46.251629
+],
   "geometry": {"coordinates":[6.947147,46.251629],"type":"Point"}
 }

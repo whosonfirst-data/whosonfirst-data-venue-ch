@@ -2,13 +2,14 @@
   "id": 219888579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.949361,47.216335,6.949361,47.216335",
     "geom:latitude":47.216335,
     "geom:longitude":6.949361,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219888579,
-    "wof:lastmodified":1449072595,
+    "wof:lastmodified":1466212690,
     "wof:name":"St\u00e9 Coop.d'habit.le Noirmont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.949361,47.216335,6.949361,47.216335],
+  "bbox": [
+    6.949361,
+    47.216335,
+    6.949361,
+    47.216335
+],
   "geometry": {"coordinates":[6.949361,47.216335],"type":"Point"}
 }

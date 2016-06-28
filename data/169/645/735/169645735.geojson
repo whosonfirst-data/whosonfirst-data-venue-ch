@@ -2,13 +2,14 @@
   "id": 169645735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.27651,48.831989,5.27651,48.831989",
     "geom:latitude":48.831989,
     "geom:longitude":5.27651,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Rumont",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169645735,
-    "wof:lastmodified":1449033006,
+    "wof:lastmodified":1466209987,
     "wof:name":"Schweizerische Volksbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.27651,48.831989,5.27651,48.831989],
+  "bbox": [
+    5.27651,
+    48.831989,
+    5.27651,
+    48.831989
+],
   "geometry": {"coordinates":[5.27651,48.831989],"type":"Point"}
 }

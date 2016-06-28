@@ -2,13 +2,14 @@
   "id": 219196149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.309825,47.058933,8.309825,47.058933",
     "geom:latitude":47.058933,
     "geom:longitude":8.309825,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Denkmalstrasse 21",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219196149,
-    "wof:lastmodified":1449071193,
+    "wof:lastmodified":1466210912,
     "wof:name":"Hans Lustenberger Elektromotoren",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.309825,47.058933,8.309825,47.058933],
+  "bbox": [
+    8.309825,
+    47.058933,
+    8.309825,
+    47.058933
+],
   "geometry": {"coordinates":[8.309825,47.058933],"type":"Point"}
 }

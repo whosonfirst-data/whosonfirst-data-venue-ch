@@ -2,13 +2,14 @@
   "id": 186107047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.38275,47.188526,7.38275,47.188526",
     "geom:latitude":47.188526,
     "geom:longitude":7.38275,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hubelweg 5",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186107047,
-    "wof:lastmodified":1449050268,
+    "wof:lastmodified":1466210960,
     "wof:name":"Ihly Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.38275,47.188526,7.38275,47.188526],
+  "bbox": [
+    7.38275,
+    47.188526,
+    7.38275,
+    47.188526
+],
   "geometry": {"coordinates":[7.38275,47.188526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202627081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.474205,46.505306,6.474205,46.505306",
     "geom:latitude":46.505306,
     "geom:longitude":6.474205,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gare Rue De La 15",
     "sg:city":"Tolochenaz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202627081,
-    "wof:lastmodified":1449062716,
+    "wof:lastmodified":1466209907,
     "wof:name":"Mct Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.474205,46.505306,6.474205,46.505306],
+  "bbox": [
+    6.474205,
+    46.505306,
+    6.474205,
+    46.505306
+],
   "geometry": {"coordinates":[6.474205,46.505306],"type":"Point"}
 }

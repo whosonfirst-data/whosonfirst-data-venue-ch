@@ -2,13 +2,14 @@
   "id": 202461469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.46688,47.444489,8.46688,47.444489",
     "geom:latitude":47.444489,
     "geom:longitude":8.46688,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 200",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202461469,
-    "wof:lastmodified":1449061070,
+    "wof:lastmodified":1466210968,
     "wof:name":"De Luigi M., Ingenieurb\u00fcro Und Bauleitungen",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.46688,47.444489,8.46688,47.444489],
+  "bbox": [
+    8.46688,
+    47.444489,
+    8.46688,
+    47.444489
+],
   "geometry": {"coordinates":[8.46688,47.444489],"type":"Point"}
 }

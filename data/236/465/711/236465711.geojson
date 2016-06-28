@@ -2,13 +2,14 @@
   "id": 236465711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72616,47.499882,8.72616,47.499882",
     "geom:latitude":47.499882,
     "geom:longitude":8.72616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Winterthur. Postfach 335",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236465711,
-    "wof:lastmodified":1449003951,
+    "wof:lastmodified":1466212363,
     "wof:name":"Vsttb Sektion Winterthur",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.72616,47.499882,8.72616,47.499882],
+  "bbox": [
+    8.72616,
+    47.499882,
+    8.72616,
+    47.499882
+],
   "geometry": {"coordinates":[8.72616,47.499882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219927679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.880262,46.976513,6.880262,46.976513",
     "geom:latitude":46.976513,
     "geom:longitude":6.880262,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Fontenettes 14",
     "sg:city":"Auvernier",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219927679,
-    "wof:lastmodified":1449073549,
+    "wof:lastmodified":1466212679,
     "wof:name":"Vanoli Ag Zofingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.880262,46.976513,6.880262,46.976513],
+  "bbox": [
+    6.880262,
+    46.976513,
+    6.880262,
+    46.976513
+],
   "geometry": {"coordinates":[6.880262,46.976513],"type":"Point"}
 }

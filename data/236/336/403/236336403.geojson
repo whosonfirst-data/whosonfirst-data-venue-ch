@@ -2,13 +2,14 @@
   "id": 236336403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.501552,47.423798,7.501552,47.423798",
     "geom:latitude":47.423798,
     "geom:longitude":7.501552,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 15",
     "sg:city":"Laufen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236336403,
-    "wof:lastmodified":1449001630,
+    "wof:lastmodified":1466211913,
     "wof:name":"Rudolf Sutter, Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.501552,47.423798,7.501552,47.423798],
+  "bbox": [
+    7.501552,
+    47.423798,
+    7.501552,
+    47.423798
+],
   "geometry": {"coordinates":[7.501552,47.423798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252868457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.577161,47.33596,8.577161,47.33596",
     "geom:latitude":47.33596,
     "geom:longitude":8.577161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Landstrasse 111",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252868457,
-    "wof:lastmodified":1449005448,
+    "wof:lastmodified":1466210651,
     "wof:name":"Spazio Immagine Gmbh",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.577161,47.33596,8.577161,47.33596],
+  "bbox": [
+    8.577161,
+    47.33596,
+    8.577161,
+    47.33596
+],
   "geometry": {"coordinates":[8.577161,47.33596],"type":"Point"}
 }

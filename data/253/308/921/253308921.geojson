@@ -2,13 +2,14 @@
   "id": 253308921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606586,47.534363,7.606586,47.534363",
     "geom:latitude":47.534363,
     "geom:longitude":7.606586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyon-strasse 30",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253308921,
-    "wof:lastmodified":1449065875,
+    "wof:lastmodified":1466211764,
     "wof:name":"Blumer B\u00fccher-sammelverkehr Ag",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.606586,47.534363,7.606586,47.534363],
+  "bbox": [
+    7.606586,
+    47.534363,
+    7.606586,
+    47.534363
+],
   "geometry": {"coordinates":[7.606586,47.534363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220057251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.641437,46.540752,6.641437,46.540752",
     "geom:latitude":46.540752,
     "geom:longitude":6.641437,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Boissonnet 90",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220057251,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466209369,
     "wof:name":"Jean-claude Delafontaine Atelier De Maquettes",
     "wof:parent_id":85800121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.641437,46.540752,6.641437,46.540752],
+  "bbox": [
+    6.641437,
+    46.540752,
+    6.641437,
+    46.540752
+],
   "geometry": {"coordinates":[6.641437,46.540752],"type":"Point"}
 }

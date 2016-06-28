@@ -2,13 +2,14 @@
   "id": 203399875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.457458,47.283592,8.457458,47.283592",
     "geom:latitude":47.283592,
     "geom:longitude":8.457458,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisriederplatz 10 8004 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203399875,
-    "wof:lastmodified":1449025282,
+    "wof:lastmodified":1466211537,
     "wof:name":"Dr.med.robert L\u00fcchinger Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.457458,47.283592,8.457458,47.283592],
+  "bbox": [
+    8.457458,
+    47.283592,
+    8.457458,
+    47.283592
+],
   "geometry": {"coordinates":[8.457458,47.283592],"type":"Point"}
 }

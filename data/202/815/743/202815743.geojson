@@ -2,13 +2,14 @@
   "id": 202815743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.511911,46.521915,6.511911,46.521915",
     "geom:latitude":46.521915,
     "geom:longitude":6.511911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Morges 100 1027 Lonay Case Postale 43",
     "sg:city":"Lonay",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202815743,
-    "wof:lastmodified":1449061365,
+    "wof:lastmodified":1466211653,
     "wof:name":"Dambach-dubreuil Sa",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.511911,46.521915,6.511911,46.521915],
+  "bbox": [
+    6.511911,
+    46.521915,
+    6.511911,
+    46.521915
+],
   "geometry": {"coordinates":[6.511911,46.521915],"type":"Point"}
 }

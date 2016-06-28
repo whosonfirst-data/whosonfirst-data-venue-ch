@@ -2,13 +2,14 @@
   "id": 185862383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.454728,46.948566,7.454728,46.948566",
     "geom:latitude":46.948566,
     "geom:longitude":7.454728,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerechtigkeitsgasse 36",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185862383,
-    "wof:lastmodified":1449008265,
+    "wof:lastmodified":1466209594,
     "wof:name":"Abs Atelier F\u00fcr Architektur & Altbausanierung Ag",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.454728,46.948566,7.454728,46.948566],
+  "bbox": [
+    7.454728,
+    46.948566,
+    7.454728,
+    46.948566
+],
   "geometry": {"coordinates":[7.454728,46.948566],"type":"Point"}
 }

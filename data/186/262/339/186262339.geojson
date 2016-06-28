@@ -2,13 +2,14 @@
   "id": 186262339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.222188,47.493759,8.222188,47.493759",
     "geom:latitude":47.493759,
     "geom:longitude":8.222188,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Siewerdtstrasse 7 8050 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186262339,
-    "wof:lastmodified":1449052026,
+    "wof:lastmodified":1466209567,
     "wof:name":"Spaltenstein Hoch-& Tiefbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.222188,47.493759,8.222188,47.493759],
+  "bbox": [
+    8.222188,
+    47.493759,
+    8.222188,
+    47.493759
+],
   "geometry": {"coordinates":[8.222188,47.493759],"type":"Point"}
 }

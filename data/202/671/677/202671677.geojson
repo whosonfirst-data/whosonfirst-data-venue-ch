@@ -2,13 +2,14 @@
   "id": 202671677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.142095,46.18364,6.142095,46.18364",
     "geom:latitude":46.18364,
     "geom:longitude":6.142095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seehaldenstrasse 23b 9404 Rorschacherberg. Postfach",
     "sg:city":"Rorschacherberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202671677,
-    "wof:lastmodified":1449060687,
+    "wof:lastmodified":1466210326,
     "wof:name":"Proarch Sa",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.142095,46.18364,6.142095,46.18364],
+  "bbox": [
+    6.142095,
+    46.18364,
+    6.142095,
+    46.18364
+],
   "geometry": {"coordinates":[6.142095,46.18364],"type":"Point"}
 }

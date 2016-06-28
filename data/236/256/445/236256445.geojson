@@ -2,13 +2,14 @@
   "id": 236256445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.088023,47.309227,9.088023,47.309227",
     "geom:latitude":47.309227,
     "geom:longitude":9.088023,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Berglistrasse 56",
     "sg:city":"Wattwil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236256445,
-    "wof:lastmodified":1449004293,
+    "wof:lastmodified":1466211426,
     "wof:name":"Genossenschaft Skatepark Alley-oop Wattwil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.088023,47.309227,9.088023,47.309227],
+  "bbox": [
+    9.088023,
+    47.309227,
+    9.088023,
+    47.309227
+],
   "geometry": {"coordinates":[9.088023,47.309227],"type":"Point"}
 }

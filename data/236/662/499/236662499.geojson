@@ -2,13 +2,14 @@
   "id": 236662499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.506406,46.518021,6.506406,46.518021",
     "geom:latitude":46.518021,
     "geom:longitude":6.506406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Plan 20",
     "sg:city":"Morges",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236662499,
-    "wof:lastmodified":1449003961,
+    "wof:lastmodified":1466212771,
     "wof:name":"Party-service Frank Pizza",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [6.506406,46.518021,6.506406,46.518021],
+  "bbox": [
+    6.506406,
+    46.518021,
+    6.506406,
+    46.518021
+],
   "geometry": {"coordinates":[6.506406,46.518021],"type":"Point"}
 }

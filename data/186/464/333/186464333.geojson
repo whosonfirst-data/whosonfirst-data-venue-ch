@@ -2,13 +2,14 @@
   "id": 186464333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.059558,46.747269,8.059558,46.747269",
     "geom:latitude":46.747269,
     "geom:longitude":8.059558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 68",
     "sg:city":"Cormondr\u00e8che",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186464333,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1466211123,
     "wof:name":"Siegrist Urspeter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.059558,46.747269,8.059558,46.747269],
+  "bbox": [
+    8.059558,
+    46.747269,
+    8.059558,
+    46.747269
+],
   "geometry": {"coordinates":[8.059558,46.747269],"type":"Point"}
 }

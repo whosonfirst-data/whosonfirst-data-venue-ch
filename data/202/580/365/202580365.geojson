@@ -2,13 +2,14 @@
   "id": 202580365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.317844,47.157219,7.317844,47.157219",
     "geom:latitude":47.157219,
     "geom:longitude":7.317844,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haselweg 3",
     "sg:city":"Safnern",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202580365,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466209480,
     "wof:name":"Iselin Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.317844,47.157219,7.317844,47.157219],
+  "bbox": [
+    7.317844,
+    47.157219,
+    7.317844,
+    47.157219
+],
   "geometry": {"coordinates":[7.317844,47.157219],"type":"Point"}
 }

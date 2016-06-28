@@ -2,13 +2,14 @@
   "id": 236123571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.917608,47.343559,7.917608,47.343559",
     "geom:latitude":47.343559,
     "geom:longitude":7.917608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6henstrasse West 39",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236123571,
-    "wof:lastmodified":1449002469,
+    "wof:lastmodified":1466210002,
     "wof:name":"Cemfloor Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.917608,47.343559,7.917608,47.343559],
+  "bbox": [
+    7.917608,
+    47.343559,
+    7.917608,
+    47.343559
+],
   "geometry": {"coordinates":[7.917608,47.343559],"type":"Point"}
 }

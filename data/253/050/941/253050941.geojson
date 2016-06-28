@@ -2,13 +2,14 @@
   "id": 253050941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.253137,47.493004,8.253137,47.493004",
     "geom:latitude":47.493004,
     "geom:longitude":8.253137,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 12",
     "sg:city":"Turgi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253050941,
-    "wof:lastmodified":1449064456,
+    "wof:lastmodified":1466209429,
     "wof:name":"Blumenhaus Monika Bill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.253137,47.493004,8.253137,47.493004],
+  "bbox": [
+    8.253137,
+    47.493004,
+    8.253137,
+    47.493004
+],
   "geometry": {"coordinates":[8.253137,47.493004],"type":"Point"}
 }

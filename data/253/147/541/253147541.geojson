@@ -2,13 +2,14 @@
   "id": 253147541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.1686,46.803909,7.1686,46.803909",
     "geom:latitude":46.803909,
     "geom:longitude":7.1686,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl. Du Petit-saint-jean 47",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253147541,
-    "wof:lastmodified":1449065456,
+    "wof:lastmodified":1466210483,
     "wof:name":"Burri Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.1686,46.803909,7.1686,46.803909],
+  "bbox": [
+    7.1686,
+    46.803909,
+    7.1686,
+    46.803909
+],
   "geometry": {"coordinates":[7.1686,46.803909],"type":"Point"}
 }

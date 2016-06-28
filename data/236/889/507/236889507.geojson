@@ -2,13 +2,14 @@
   "id": 236889507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52836,47.363735,8.52836,47.363735",
     "geom:latitude":47.363735,
     "geom:longitude":8.52836,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bederstrasse 51",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236889507,
-    "wof:lastmodified":1449001632,
+    "wof:lastmodified":1466212963,
     "wof:name":"Nexus Media Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52836,47.363735,8.52836,47.363735],
+  "bbox": [
+    8.52836,
+    47.363735,
+    8.52836,
+    47.363735
+],
   "geometry": {"coordinates":[8.52836,47.363735],"type":"Point"}
 }

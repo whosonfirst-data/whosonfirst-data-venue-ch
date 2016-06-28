@@ -2,13 +2,14 @@
   "id": 219573157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.515925,47.16869,8.515925,47.16869",
     "geom:latitude":47.16869,
     "geom:longitude":8.515925,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 10",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219573157,
-    "wof:lastmodified":1449073008,
+    "wof:lastmodified":1466211690,
     "wof:name":"Medi Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.515925,47.16869,8.515925,47.16869],
+  "bbox": [
+    8.515925,
+    47.16869,
+    8.515925,
+    47.16869
+],
   "geometry": {"coordinates":[8.515925,47.16869],"type":"Point"}
 }

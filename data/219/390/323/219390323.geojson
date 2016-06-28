@@ -2,13 +2,14 @@
   "id": 219390323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.608627,47.536438,7.608627,47.536438",
     "geom:latitude":47.536438,
     "geom:longitude":7.608627,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyon-strasse 5",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219390323,
-    "wof:lastmodified":1449073956,
+    "wof:lastmodified":1466210090,
     "wof:name":"Carrosserie Dalipi",
     "wof:parent_id":85799987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.608627,47.536438,7.608627,47.536438],
+  "bbox": [
+    7.608627,
+    47.536438,
+    7.608627,
+    47.536438
+],
   "geometry": {"coordinates":[7.608627,47.536438],"type":"Point"}
 }

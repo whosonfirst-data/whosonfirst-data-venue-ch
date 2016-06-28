@@ -2,13 +2,14 @@
   "id": 169647585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56797,47.36684,8.56797,47.36684",
     "geom:latitude":47.36684,
     "geom:longitude":8.56797,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
     "sg:orig_category":"Banks:Trust Companies",
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169647585,
-    "wof:lastmodified":1449034240,
+    "wof:lastmodified":1466210027,
     "wof:name":"Overland Trust Bank",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.56797,47.36684,8.56797,47.36684],
+  "bbox": [
+    8.56797,
+    47.36684,
+    8.56797,
+    47.36684
+],
   "geometry": {"coordinates":[8.56797,47.36684],"type":"Point"}
 }

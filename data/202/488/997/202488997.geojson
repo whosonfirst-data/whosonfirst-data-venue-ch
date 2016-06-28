@@ -2,13 +2,14 @@
   "id": 202488997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.304707,47.076546,7.304707,47.076546",
     "geom:latitude":47.076546,
     "geom:longitude":7.304707,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 26 3250 Lyss. Postfach 381",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202488997,
-    "wof:lastmodified":1449062565,
+    "wof:lastmodified":1466211312,
     "wof:name":"Ete-hager Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.304707,47.076546,7.304707,47.076546],
+  "bbox": [
+    7.304707,
+    47.076546,
+    7.304707,
+    47.076546
+],
   "geometry": {"coordinates":[7.304707,47.076546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253255587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.559271,47.192326,7.559271,47.192326",
     "geom:latitude":47.192326,
     "geom:longitude":7.559271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bleichenbergstrasse 50",
     "sg:city":"Biberist",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253255587,
-    "wof:lastmodified":1449064165,
+    "wof:lastmodified":1466211523,
     "wof:name":"Staudenmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.559271,47.192326,7.559271,47.192326],
+  "bbox": [
+    7.559271,
+    47.192326,
+    7.559271,
+    47.192326
+],
   "geometry": {"coordinates":[7.559271,47.192326],"type":"Point"}
 }

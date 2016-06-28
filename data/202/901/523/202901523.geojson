@@ -2,13 +2,14 @@
   "id": 202901523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.440392,47.501221,9.440392,47.501221",
     "geom:latitude":47.501221,
     "geom:longitude":9.440392,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegutstrasse 8",
     "sg:city":"Steinach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202901523,
-    "wof:lastmodified":1449061178,
+    "wof:lastmodified":1466212116,
     "wof:name":"Metaplan Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.440392,47.501221,9.440392,47.501221],
+  "bbox": [
+    9.440392,
+    47.501221,
+    9.440392,
+    47.501221
+],
   "geometry": {"coordinates":[9.440392,47.501221],"type":"Point"}
 }

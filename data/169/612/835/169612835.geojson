@@ -2,13 +2,14 @@
   "id": 169612835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451548,46.956844,7.451548,46.956844",
     "geom:latitude":46.956844,
     "geom:longitude":7.451548,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalackerstrasse 63",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169612835,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466209426,
     "wof:name":"Pandinavia Ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "articles"
     ]
 },
-  "bbox": [7.451548,46.956844,7.451548,46.956844],
+  "bbox": [
+    7.451548,
+    46.956844,
+    7.451548,
+    46.956844
+],
   "geometry": {"coordinates":[7.451548,46.956844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236313901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.638602,46.532417,6.638602,46.532417",
     "geom:latitude":46.532417,
     "geom:longitude":6.638602,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Signal 32",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236313901,
-    "wof:lastmodified":1449001751,
+    "wof:lastmodified":1466211804,
     "wof:name":"Roland Ramuz Taxis",
     "wof:parent_id":85800121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.638602,46.532417,6.638602,46.532417],
+  "bbox": [
+    6.638602,
+    46.532417,
+    6.638602,
+    46.532417
+],
   "geometry": {"coordinates":[6.638602,46.532417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220087513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.282104,47.38821,9.282104,47.38821",
     "geom:latitude":47.38821,
     "geom:longitude":9.282104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzstrasse 6",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220087513,
-    "wof:lastmodified":1449074392,
+    "wof:lastmodified":1466209634,
     "wof:name":"Emil Rohner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.282104,47.38821,9.282104,47.38821],
+  "bbox": [
+    9.282104,
+    47.38821,
+    9.282104,
+    47.38821
+],
   "geometry": {"coordinates":[9.282104,47.38821],"type":"Point"}
 }

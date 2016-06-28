@@ -2,13 +2,14 @@
   "id": 253220285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.541301,47.040188,7.541301,47.040188",
     "geom:latitude":47.040188,
     "geom:longitude":7.541301,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegasse 10",
     "sg:city":"Hindelbank",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253220285,
-    "wof:lastmodified":1449065691,
+    "wof:lastmodified":1466211209,
     "wof:name":"Martin & Marianne Hirsiger Holzofenb\u00e4ckerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.541301,47.040188,7.541301,47.040188],
+  "bbox": [
+    7.541301,
+    47.040188,
+    7.541301,
+    47.040188
+],
   "geometry": {"coordinates":[7.541301,47.040188],"type":"Point"}
 }

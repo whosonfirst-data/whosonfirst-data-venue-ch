@@ -2,13 +2,14 @@
   "id": 169645999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.215622,29.630194,-95.215622,29.630194",
     "geom:latitude":29.630194,
     "geom:longitude":-95.215622,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Wald",
     "sg:classifiers":[
         {
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169645999,
-    "wof:lastmodified":1449033006,
+    "wof:lastmodified":1466209991,
     "wof:name":"Sparkasse Des Bezirkes Hinwil",
     "wof:parent_id":85869209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.215622,29.630194,-95.215622,29.630194],
+  "bbox": [
+    -95.215622,
+    29.630194,
+    -95.215622,
+    29.630194
+],
   "geometry": {"coordinates":[-95.215622,29.630194],"type":"Point"}
 }

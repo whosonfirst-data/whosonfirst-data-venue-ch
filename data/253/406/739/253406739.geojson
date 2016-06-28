@@ -2,13 +2,14 @@
   "id": 253406739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532396,47.35577,8.532396,47.35577",
     "geom:latitude":47.35577,
     "geom:longitude":8.532396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 161",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253406739,
-    "wof:lastmodified":1449064412,
+    "wof:lastmodified":1466212198,
     "wof:name":"Insite Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532396,47.35577,8.532396,47.35577],
+  "bbox": [
+    8.532396,
+    47.35577,
+    8.532396,
+    47.35577
+],
   "geometry": {"coordinates":[8.532396,47.35577],"type":"Point"}
 }

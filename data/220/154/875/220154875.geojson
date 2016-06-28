@@ -2,13 +2,14 @@
   "id": 220154875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.469735,46.255539,7.469735,46.255539",
     "geom:latitude":46.255539,
     "geom:longitude":7.469735,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Mine",
     "sg:city":"Gr\u00f4ne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220154875,
-    "wof:lastmodified":1449074891,
+    "wof:lastmodified":1466210202,
     "wof:name":"Vuigner Jo\u00ebl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.469735,46.255539,7.469735,46.255539],
+  "bbox": [
+    7.469735,
+    46.255539,
+    7.469735,
+    46.255539
+],
   "geometry": {"coordinates":[7.469735,46.255539],"type":"Point"}
 }

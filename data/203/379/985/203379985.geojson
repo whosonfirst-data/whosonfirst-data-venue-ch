@@ -2,13 +2,14 @@
   "id": 203379985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.767724,47.555126,8.767724,47.555126",
     "geom:latitude":47.555126,
     "geom:longitude":8.767724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Welsikerstrasse 13",
     "sg:city":"Dinhard",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203379985,
-    "wof:lastmodified":1449026043,
+    "wof:lastmodified":1466211326,
     "wof:name":"Dr.med.martin Eidenbenz Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.767724,47.555126,8.767724,47.555126],
+  "bbox": [
+    8.767724,
+    47.555126,
+    8.767724,
+    47.555126
+],
   "geometry": {"coordinates":[8.767724,47.555126],"type":"Point"}
 }

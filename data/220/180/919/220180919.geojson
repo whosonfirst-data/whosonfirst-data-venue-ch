@@ -2,13 +2,14 @@
   "id": 220180919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.485293,47.215096,7.485293,47.215096",
     "geom:latitude":47.215096,
     "geom:longitude":7.485293,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hangenmoosstrasse 4",
     "sg:city":"Bellach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220180919,
-    "wof:lastmodified":1449074089,
+    "wof:lastmodified":1466210425,
     "wof:name":"Gertrud Siegrist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.485293,47.215096,7.485293,47.215096],
+  "bbox": [
+    7.485293,
+    47.215096,
+    7.485293,
+    47.215096
+],
   "geometry": {"coordinates":[7.485293,47.215096],"type":"Point"}
 }

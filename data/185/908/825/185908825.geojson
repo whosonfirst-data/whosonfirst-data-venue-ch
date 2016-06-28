@@ -2,13 +2,14 @@
   "id": 185908825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.374541,47.42569,9.374541,47.42569",
     "geom:latitude":47.42569,
     "geom:longitude":9.374541,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberg\u00fctschrain 2",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185908825,
-    "wof:lastmodified":1449007516,
+    "wof:lastmodified":1466209917,
     "wof:name":"Mobag Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.374541,47.42569,9.374541,47.42569],
+  "bbox": [
+    9.374541,
+    47.42569,
+    9.374541,
+    47.42569
+],
   "geometry": {"coordinates":[9.374541,47.42569],"type":"Point"}
 }

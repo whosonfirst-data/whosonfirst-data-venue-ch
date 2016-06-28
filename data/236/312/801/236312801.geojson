@@ -2,13 +2,14 @@
   "id": 236312801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51435,47.32674,8.51435,47.32674",
     "geom:latitude":47.32674,
     "geom:longitude":8.51435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leimbachstrasse 215/155",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236312801,
-    "wof:lastmodified":1449003292,
+    "wof:lastmodified":1466211930,
     "wof:name":"Ren\u00e9 Forster Taxi",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.51435,47.32674,8.51435,47.32674],
+  "bbox": [
+    8.51435,
+    47.32674,
+    8.51435,
+    47.32674
+],
   "geometry": {"coordinates":[8.51435,47.32674],"type":"Point"}
 }

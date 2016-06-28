@@ -2,13 +2,14 @@
   "id": 252938287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.572996,47.335495,8.572996,47.335495",
     "geom:latitude":47.335495,
     "geom:longitude":8.572996,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Goldhaldenstrasse 29",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252938287,
-    "wof:lastmodified":1449006216,
+    "wof:lastmodified":1466211407,
     "wof:name":"Western Accessoires Ks Ltd",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.572996,47.335495,8.572996,47.335495],
+  "bbox": [
+    8.572996,
+    47.335495,
+    8.572996,
+    47.335495
+],
   "geometry": {"coordinates":[8.572996,47.335495],"type":"Point"}
 }

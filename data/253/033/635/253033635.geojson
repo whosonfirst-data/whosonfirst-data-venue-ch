@@ -2,13 +2,14 @@
   "id": 253033635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.557718,46.726173,9.557718,46.726173",
     "geom:latitude":46.726173,
     "geom:longitude":9.557718,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Voa Principala",
     "sg:city":"Lenzerheide/lai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253033635,
-    "wof:lastmodified":1449063421,
+    "wof:lastmodified":1466209272,
     "wof:name":"Schutz Gartenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.557718,46.726173,9.557718,46.726173],
+  "bbox": [
+    9.557718,
+    46.726173,
+    9.557718,
+    46.726173
+],
   "geometry": {"coordinates":[9.557718,46.726173],"type":"Point"}
 }

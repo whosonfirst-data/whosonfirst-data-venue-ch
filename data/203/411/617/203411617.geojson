@@ -2,13 +2,14 @@
   "id": 203411617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5945,47.562294,7.5945,47.562294",
     "geom:latitude":47.562294,
     "geom:longitude":7.5945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Claragraben 78",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203411617,
-    "wof:lastmodified":1449025038,
+    "wof:lastmodified":1466211738,
     "wof:name":"Dr.med.stefan Hoch Spezialarzt Fmh",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.5945,47.562294,7.5945,47.562294],
+  "bbox": [
+    7.5945,
+    47.562294,
+    7.5945,
+    47.562294
+],
   "geometry": {"coordinates":[7.5945,47.562294],"type":"Point"}
 }

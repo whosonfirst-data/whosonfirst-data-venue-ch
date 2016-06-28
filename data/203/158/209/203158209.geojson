@@ -2,13 +2,14 @@
   "id": 203158209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.926056,36.217854,-78.926056,36.217854",
     "geom:latitude":36.217854,
     "geom:longitude":-78.926056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chalet Le Pommier Les Mourets",
     "sg:city":"Rougemont",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203158209,
-    "wof:lastmodified":1449026244,
+    "wof:lastmodified":1466209004,
     "wof:name":"Dr M\u00e9d. Benoit Zurkinden M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.926056,36.217854,-78.926056,36.217854],
+  "bbox": [
+    -78.926056,
+    36.217854,
+    -78.926056,
+    36.217854
+],
   "geometry": {"coordinates":[-78.926056,36.217854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219370727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.696251,47.31987,7.696251,47.31987",
     "geom:latitude":47.31987,
     "geom:longitude":7.696251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrmatt 1",
     "sg:city":"Balsthal",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219370727,
-    "wof:lastmodified":1449072302,
+    "wof:lastmodified":1466209877,
     "wof:name":"Westfalia Systemtechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automation"
     ]
 },
-  "bbox": [7.696251,47.31987,7.696251,47.31987],
+  "bbox": [
+    7.696251,
+    47.31987,
+    7.696251,
+    47.31987
+],
   "geometry": {"coordinates":[7.696251,47.31987],"type":"Point"}
 }

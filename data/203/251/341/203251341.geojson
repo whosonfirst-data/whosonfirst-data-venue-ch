@@ -2,13 +2,14 @@
   "id": 203251341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.628233,46.753941,7.628233,46.753941",
     "geom:latitude":46.753941,
     "geom:longitude":7.628233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 18",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203251341,
-    "wof:lastmodified":1449024988,
+    "wof:lastmodified":1466210034,
     "wof:name":"Dr.med. Krystyna Kalogerakis Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.628233,46.753941,7.628233,46.753941],
+  "bbox": [
+    7.628233,
+    46.753941,
+    7.628233,
+    46.753941
+],
   "geometry": {"coordinates":[7.628233,46.753941],"type":"Point"}
 }

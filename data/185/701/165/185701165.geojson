@@ -2,13 +2,14 @@
   "id": 185701165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54917,47.36108,8.54917,47.36108",
     "geom:latitude":47.36108,
     "geom:longitude":8.54917,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Florastrasse 11 8008 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185701165,
-    "wof:lastmodified":1449007891,
+    "wof:lastmodified":1466211690,
     "wof:name":"Dr.thomas R\u00fcede Advokaturb\u00fcro",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54917,47.36108,8.54917,47.36108],
+  "bbox": [
+    8.54917,
+    47.36108,
+    8.54917,
+    47.36108
+],
   "geometry": {"coordinates":[8.54917,47.36108],"type":"Point"}
 }

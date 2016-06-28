@@ -2,13 +2,14 @@
   "id": 219661489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.850619,47.465782,7.850619,47.465782",
     "geom:latitude":47.465782,
     "geom:longitude":7.850619,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sissacherstrasse 4",
     "sg:city":"Gelterkinden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219661489,
-    "wof:lastmodified":1449073539,
+    "wof:lastmodified":1466212057,
     "wof:name":"Regiobank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.850619,47.465782,7.850619,47.465782],
+  "bbox": [
+    7.850619,
+    47.465782,
+    7.850619,
+    47.465782
+],
   "geometry": {"coordinates":[7.850619,47.465782],"type":"Point"}
 }

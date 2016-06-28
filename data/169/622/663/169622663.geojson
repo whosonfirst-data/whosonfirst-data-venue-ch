@@ -2,13 +2,14 @@
   "id": 169622663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.626182,46.519264,6.626182,46.519264",
     "geom:latitude":46.519264,
     "geom:longitude":6.626182,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Mornex 34 1003 Lausanne Case Postale",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169622663,
-    "wof:lastmodified":1449035367,
+    "wof:lastmodified":1466209659,
     "wof:name":"Desa Autoglass Nord Ag",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.626182,46.519264,6.626182,46.519264],
+  "bbox": [
+    6.626182,
+    46.519264,
+    6.626182,
+    46.519264
+],
   "geometry": {"coordinates":[6.626182,46.519264],"type":"Point"}
 }

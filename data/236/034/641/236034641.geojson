@@ -2,13 +2,14 @@
   "id": 236034641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.605564,46.525421,6.605564,46.525421",
     "geom:latitude":46.525421,
     "geom:longitude":6.605564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Martinet 10",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236034641,
-    "wof:lastmodified":1449001952,
+    "wof:lastmodified":1466209194,
     "wof:name":"Ricksan Sa",
     "wof:parent_id":85800425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.605564,46.525421,6.605564,46.525421],
+  "bbox": [
+    6.605564,
+    46.525421,
+    6.605564,
+    46.525421
+],
   "geometry": {"coordinates":[6.605564,46.525421],"type":"Point"}
 }

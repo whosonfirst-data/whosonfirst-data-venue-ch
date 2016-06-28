@@ -2,13 +2,14 @@
   "id": 252986907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.135936,47.416565,8.135936,47.416565",
     "geom:latitude":47.416565,
     "geom:longitude":8.135936,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 19 5105 Auenstein. Postfach 10",
     "sg:city":"Auenstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252986907,
-    "wof:lastmodified":1449006298,
+    "wof:lastmodified":1466211725,
     "wof:name":"Elektro H.frei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.135936,47.416565,8.135936,47.416565],
+  "bbox": [
+    8.135936,
+    47.416565,
+    8.135936,
+    47.416565
+],
   "geometry": {"coordinates":[8.135936,47.416565],"type":"Point"}
 }

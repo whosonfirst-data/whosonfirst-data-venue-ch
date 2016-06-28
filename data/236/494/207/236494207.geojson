@@ -2,13 +2,14 @@
   "id": 236494207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5313,47.50359,7.5313,47.50359",
     "geom:latitude":47.50359,
     "geom:longitude":7.5313,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbestrasse 18",
     "sg:city":"Biel-benken",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236494207,
-    "wof:lastmodified":1449004805,
+    "wof:lastmodified":1466212508,
     "wof:name":"Sch\u00e4rferei Kleiber Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dy"
     ]
 },
-  "bbox": [7.5313,47.50359,7.5313,47.50359],
+  "bbox": [
+    7.5313,
+    47.50359,
+    7.5313,
+    47.50359
+],
   "geometry": {"coordinates":[7.5313,47.50359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236748769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.451561,47.454815,9.451561,47.454815",
     "geom:latitude":47.454815,
     "geom:longitude":9.451561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbezone B\u00f6hler 4",
     "sg:city":"Untereggen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236748769,
-    "wof:lastmodified":1449004253,
+    "wof:lastmodified":1466212866,
     "wof:name":"J. Sonderegger & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clean-room"
     ]
 },
-  "bbox": [9.451561,47.454815,9.451561,47.454815],
+  "bbox": [
+    9.451561,
+    47.454815,
+    9.451561,
+    47.454815
+],
   "geometry": {"coordinates":[9.451561,47.454815],"type":"Point"}
 }

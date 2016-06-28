@@ -2,13 +2,14 @@
   "id": 186252763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.774029,46.571121,6.774029,46.571121",
     "geom:latitude":46.571121,
     "geom:longitude":6.774029,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aux Planches",
     "sg:city":"Servion",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186252763,
-    "wof:lastmodified":1449050660,
+    "wof:lastmodified":1466209496,
     "wof:name":"Wolter Gabriel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.774029,46.571121,6.774029,46.571121],
+  "bbox": [
+    6.774029,
+    46.571121,
+    6.774029,
+    46.571121
+],
   "geometry": {"coordinates":[6.774029,46.571121],"type":"Point"}
 }

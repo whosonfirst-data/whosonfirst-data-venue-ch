@@ -2,13 +2,14 @@
   "id": 236099067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.152542,46.778606,9.152542,46.778606",
     "geom:latitude":46.778606,
     "geom:longitude":9.152542,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Davos Baselgia 62b",
     "sg:city":"Rueun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236099067,
-    "wof:lastmodified":1449003867,
+    "wof:lastmodified":1466209785,
     "wof:name":"Dermont Luis.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.152542,46.778606,9.152542,46.778606],
+  "bbox": [
+    9.152542,
+    46.778606,
+    9.152542,
+    46.778606
+],
   "geometry": {"coordinates":[9.152542,46.778606],"type":"Point"}
 }

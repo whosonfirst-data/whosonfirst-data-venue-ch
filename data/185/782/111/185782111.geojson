@@ -2,13 +2,14 @@
   "id": 185782111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.323775,47.055653,8.323775,47.055653",
     "geom:latitude":47.055653,
     "geom:longitude":8.323775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenstrasse 57",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185782111,
-    "wof:lastmodified":1449006590,
+    "wof:lastmodified":1466208994,
     "wof:name":"Kummer B\u00fchler & Bolzern Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.323775,47.055653,8.323775,47.055653],
+  "bbox": [
+    8.323775,
+    47.055653,
+    8.323775,
+    47.055653
+],
   "geometry": {"coordinates":[8.323775,47.055653],"type":"Point"}
 }

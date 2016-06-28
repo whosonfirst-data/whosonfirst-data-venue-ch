@@ -2,13 +2,14 @@
   "id": 252980769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.472881,47.165909,9.472881,47.165909",
     "geom:latitude":47.165909,
     "geom:longitude":9.472881,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 32",
     "sg:city":"Kollbrunn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252980769,
-    "wof:lastmodified":1449005487,
+    "wof:lastmodified":1466211701,
     "wof:name":"Giger & Co Haushaltartikel Spielwaren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.472881,47.165909,9.472881,47.165909],
+  "bbox": [
+    9.472881,
+    47.165909,
+    9.472881,
+    47.165909
+],
   "geometry": {"coordinates":[9.472881,47.165909],"type":"Point"}
 }

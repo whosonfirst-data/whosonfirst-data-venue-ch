@@ -2,13 +2,14 @@
   "id": 185957473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.541837,47.385876,8.541837,47.385876",
     "geom:latitude":47.385876,
     "geom:longitude":8.541837,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinbergstrasse 109",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185957473,
-    "wof:lastmodified":1449007988,
+    "wof:lastmodified":1466210361,
     "wof:name":"Ganzheitliche Schule Nach Alfred Adler Des Instituts F\u00fcr Psychologische P\u00e4dagogik Ipp, M\u00fcller-gaulis Denise",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.541837,47.385876,8.541837,47.385876],
+  "bbox": [
+    8.541837,
+    47.385876,
+    8.541837,
+    47.385876
+],
   "geometry": {"coordinates":[8.541837,47.385876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203150089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.87205,46.1782,8.87205,46.1782",
     "geom:latitude":46.1782,
     "geom:longitude":8.87205,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Gottardo 47",
     "sg:city":"Gordola",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203150089,
-    "wof:lastmodified":1449024964,
+    "wof:lastmodified":1466208913,
     "wof:name":"Dott.med.wafic Moslemani Medico Generico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.87205,46.1782,8.87205,46.1782],
+  "bbox": [
+    8.87205,
+    46.1782,
+    8.87205,
+    46.1782
+],
   "geometry": {"coordinates":[8.87205,46.1782],"type":"Point"}
 }

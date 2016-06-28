@@ -2,13 +2,14 @@
   "id": 169660801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.153186,46.814205,7.153186,46.814205",
     "geom:latitude":46.814205,
     "geom:longitude":7.153186,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De L' Aurore 9",
     "sg:city":"Fribourg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169660801,
-    "wof:lastmodified":1449035613,
+    "wof:lastmodified":1466210280,
     "wof:name":"Adeva Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clock"
     ]
 },
-  "bbox": [7.153186,46.814205,7.153186,46.814205],
+  "bbox": [
+    7.153186,
+    46.814205,
+    7.153186,
+    46.814205
+],
   "geometry": {"coordinates":[7.153186,46.814205],"type":"Point"}
 }

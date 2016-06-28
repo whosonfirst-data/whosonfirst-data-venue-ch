@@ -2,13 +2,14 @@
   "id": 169817731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.572735,46.9631,8.572735,46.9631",
     "geom:latitude":46.9631,
     "geom:longitude":8.572735,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Geissweg",
     "sg:city":"Seelisberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169817731,
-    "wof:lastmodified":1449035315,
+    "wof:lastmodified":1466209187,
     "wof:name":"Truttmann Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.572735,46.9631,8.572735,46.9631],
+  "bbox": [
+    8.572735,
+    46.9631,
+    8.572735,
+    46.9631
+],
   "geometry": {"coordinates":[8.572735,46.9631],"type":"Point"}
 }

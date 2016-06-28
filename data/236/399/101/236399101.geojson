@@ -2,13 +2,14 @@
   "id": 236399101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.558864,46.49342,7.558864,46.49342",
     "geom:latitude":46.49342,
     "geom:longitude":7.558864,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Dorfstrasse 4",
     "sg:city":"Adelboden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236399101,
-    "wof:lastmodified":1449002113,
+    "wof:lastmodified":1466212240,
     "wof:name":"Bibliothek Adelboden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.558864,46.49342,7.558864,46.49342],
+  "bbox": [
+    7.558864,
+    46.49342,
+    7.558864,
+    46.49342
+],
   "geometry": {"coordinates":[7.558864,46.49342],"type":"Point"}
 }

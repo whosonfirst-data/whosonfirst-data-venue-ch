@@ -2,13 +2,14 @@
   "id": 219903659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.573811,47.278618,8.573811,47.278618",
     "geom:latitude":47.278618,
     "geom:longitude":8.573811,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hubstrasse 9",
     "sg:city":"Oberrieden",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219903659,
-    "wof:lastmodified":1449070593,
+    "wof:lastmodified":1466212539,
     "wof:name":"Baugenossenschaft Oberrieden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.573811,47.278618,8.573811,47.278618],
+  "bbox": [
+    8.573811,
+    47.278618,
+    8.573811,
+    47.278618
+],
   "geometry": {"coordinates":[8.573811,47.278618],"type":"Point"}
 }

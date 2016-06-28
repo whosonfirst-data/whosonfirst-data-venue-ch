@@ -2,13 +2,14 @@
   "id": 253362313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.107954,46.165581,6.107954,46.165581",
     "geom:latitude":46.165581,
     "geom:longitude":6.107954,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De P\u00e9rolles 14 1700 Fribourg Case Postale 573",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253362313,
-    "wof:lastmodified":1449064745,
+    "wof:lastmodified":1466212144,
     "wof:name":"Propapex Sa",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.107954,46.165581,6.107954,46.165581],
+  "bbox": [
+    6.107954,
+    46.165581,
+    6.107954,
+    46.165581
+],
   "geometry": {"coordinates":[6.107954,46.165581],"type":"Point"}
 }

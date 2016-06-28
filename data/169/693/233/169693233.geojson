@@ -2,13 +2,14 @@
   "id": 169693233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.703186,47.192379,7.703186,47.192379",
     "geom:latitude":47.192379,
     "geom:longitude":7.703186,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lagerstrasse 41 3360 Herzogenbuchsee. Postfach",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169693233,
-    "wof:lastmodified":1449032877,
+    "wof:lastmodified":1466210841,
     "wof:name":"D\u00e4twyler Fertigungs-technologie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.703186,47.192379,7.703186,47.192379],
+  "bbox": [
+    7.703186,
+    47.192379,
+    7.703186,
+    47.192379
+],
   "geometry": {"coordinates":[7.703186,47.192379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186239373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.560165,47.202271,7.560165,47.202271",
     "geom:latitude":47.202271,
     "geom:longitude":7.560165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfackerstrasse 5",
     "sg:city":"Zuchwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186239373,
-    "wof:lastmodified":1449050498,
+    "wof:lastmodified":1466209393,
     "wof:name":"Vitelli & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.560165,47.202271,7.560165,47.202271],
+  "bbox": [
+    7.560165,
+    47.202271,
+    7.560165,
+    47.202271
+],
   "geometry": {"coordinates":[7.560165,47.202271],"type":"Point"}
 }

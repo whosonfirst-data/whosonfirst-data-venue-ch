@@ -2,13 +2,14 @@
   "id": 236781427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.595955,46.539143,6.595955,46.539143",
     "geom:latitude":46.539143,
     "geom:longitude":6.595955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheuchzerstr 18",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236781427,
-    "wof:lastmodified":1449002140,
+    "wof:lastmodified":1466212893,
     "wof:name":"Editions Probatima Sarl",
     "wof:parent_id":85800433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [6.595955,46.539143,6.595955,46.539143],
+  "bbox": [
+    6.595955,
+    46.539143,
+    6.595955,
+    46.539143
+],
   "geometry": {"coordinates":[6.595955,46.539143],"type":"Point"}
 }

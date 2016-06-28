@@ -2,13 +2,14 @@
   "id": 253105595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.049203,47.391674,8.049203,47.391674",
     "geom:latitude":47.391674,
     "geom:longitude":8.049203,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 55 5000 Aarau. Postfach",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253105595,
-    "wof:lastmodified":1449063967,
+    "wof:lastmodified":1466209991,
     "wof:name":"Brillen Trotter Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.049203,47.391674,8.049203,47.391674],
+  "bbox": [
+    8.049203,
+    47.391674,
+    8.049203,
+    47.391674
+],
   "geometry": {"coordinates":[8.049203,47.391674],"type":"Point"}
 }

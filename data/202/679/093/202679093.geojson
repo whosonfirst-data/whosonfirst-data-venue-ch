@@ -2,13 +2,14 @@
   "id": 202679093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.13574,46.815693,7.13574,46.815693",
     "geom:latitude":46.815693,
     "geom:longitude":7.13574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Yerly Rue Pierre 1",
     "sg:city":"Givisiez",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202679093,
-    "wof:lastmodified":1449061723,
+    "wof:lastmodified":1466210395,
     "wof:name":"Ray Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.13574,46.815693,7.13574,46.815693],
+  "bbox": [
+    7.13574,
+    46.815693,
+    7.13574,
+    46.815693
+],
   "geometry": {"coordinates":[7.13574,46.815693],"type":"Point"}
 }

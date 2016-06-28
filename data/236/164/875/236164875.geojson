@@ -2,13 +2,14 @@
   "id": 236164875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.542021,47.411194,8.542021,47.411194",
     "geom:latitude":47.411194,
     "geom:longitude":8.542021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Affolternstrasse 52",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236164875,
-    "wof:lastmodified":1449001971,
+    "wof:lastmodified":1466210421,
     "wof:name":"Abb Lernzentren",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.542021,47.411194,8.542021,47.411194],
+  "bbox": [
+    8.542021,
+    47.411194,
+    8.542021,
+    47.411194
+],
   "geometry": {"coordinates":[8.542021,47.411194],"type":"Point"}
 }

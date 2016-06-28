@@ -2,13 +2,14 @@
   "id": 220004115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.494538,47.244789,8.494538,47.244789",
     "geom:latitude":47.244789,
     "geom:longitude":8.494538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jonenbachstrasse 18",
     "sg:city":"Rifferswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220004115,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1466208915,
     "wof:name":"Christian Kuster Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.494538,47.244789,8.494538,47.244789],
+  "bbox": [
+    8.494538,
+    47.244789,
+    8.494538,
+    47.244789
+],
   "geometry": {"coordinates":[8.494538,47.244789],"type":"Point"}
 }

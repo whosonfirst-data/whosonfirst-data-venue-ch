@@ -2,13 +2,14 @@
   "id": 236781725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.455469,47.398926,8.455469,47.398926",
     "geom:latitude":47.398926,
     "geom:longitude":8.455469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wagistr. 2",
     "sg:city":"Schlieren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236781725,
-    "wof:lastmodified":1449002139,
+    "wof:lastmodified":1466212898,
     "wof:name":"Primetime Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [8.455469,47.398926,8.455469,47.398926],
+  "bbox": [
+    8.455469,
+    47.398926,
+    8.455469,
+    47.398926
+],
   "geometry": {"coordinates":[8.455469,47.398926],"type":"Point"}
 }

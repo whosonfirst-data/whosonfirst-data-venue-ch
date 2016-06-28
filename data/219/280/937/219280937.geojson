@@ -2,13 +2,14 @@
   "id": 219280937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.599001,46.523563,6.599001,46.523563",
     "geom:latitude":46.523563,
     "geom:longitude":6.599001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 9",
     "sg:city":"Widnau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219280937,
-    "wof:lastmodified":1449072115,
+    "wof:lastmodified":1466209070,
     "wof:name":"Georges Bakker Garage",
     "wof:parent_id":85862305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.599001,46.523563,6.599001,46.523563],
+  "bbox": [
+    6.599001,
+    46.523563,
+    6.599001,
+    46.523563
+],
   "geometry": {"coordinates":[6.599001,46.523563],"type":"Point"}
 }

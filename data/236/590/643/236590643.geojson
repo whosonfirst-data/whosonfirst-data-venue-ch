@@ -2,13 +2,14 @@
   "id": 236590643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.518867,47.156971,8.518867,47.156971",
     "geom:latitude":47.156971,
     "geom:longitude":8.518867,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerbergstr. 46",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236590643,
-    "wof:lastmodified":1449003646,
+    "wof:lastmodified":1466212571,
     "wof:name":"Hotel-restaurant Guggital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "restaurant"
     ]
 },
-  "bbox": [8.518867,47.156971,8.518867,47.156971],
+  "bbox": [
+    8.518867,
+    47.156971,
+    8.518867,
+    47.156971
+],
   "geometry": {"coordinates":[8.518867,47.156971],"type":"Point"}
 }

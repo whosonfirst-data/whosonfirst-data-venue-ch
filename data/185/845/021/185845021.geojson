@@ -2,13 +2,14 @@
   "id": 185845021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535773,47.374481,8.535773,47.374481",
     "geom:latitude":47.374481,
     "geom:longitude":8.535773,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185845021,
-    "wof:lastmodified":1449006875,
+    "wof:lastmodified":1466209438,
     "wof:name":"El Al - Israel Airlines Ltd.",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [8.535773,47.374481,8.535773,47.374481],
+  "bbox": [
+    8.535773,
+    47.374481,
+    8.535773,
+    47.374481
+],
   "geometry": {"coordinates":[8.535773,47.374481],"type":"Point"}
 }

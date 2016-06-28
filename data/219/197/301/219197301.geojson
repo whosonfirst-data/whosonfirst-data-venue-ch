@@ -2,13 +2,14 @@
   "id": 219197301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.385559,40.977608,-106.385559,40.977608",
     "geom:latitude":40.977608,
     "geom:longitude":-106.385559,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spittelgasse 4",
     "sg:city":"Wald",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219197301,
-    "wof:lastmodified":1449073474,
+    "wof:lastmodified":1466210916,
     "wof:name":"B.m.a. Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "roof"
     ]
 },
-  "bbox": [-106.385559,40.977608,-106.385559,40.977608],
+  "bbox": [
+    -106.385559,
+    40.977608,
+    -106.385559,
+    40.977608
+],
   "geometry": {"coordinates":[-106.385559,40.977608],"type":"Point"}
 }

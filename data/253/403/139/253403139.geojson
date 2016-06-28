@@ -2,13 +2,14 @@
   "id": 253403139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304696,47.42086,8.304696,47.42086",
     "geom:latitude":47.42086,
     "geom:longitude":8.304696,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Esterlistrasse 1",
     "sg:city":"Niederrohrdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253403139,
-    "wof:lastmodified":1449065362,
+    "wof:lastmodified":1466212284,
     "wof:name":"Huser S. Edv-service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304696,47.42086,8.304696,47.42086],
+  "bbox": [
+    8.304696,
+    47.42086,
+    8.304696,
+    47.42086
+],
   "geometry": {"coordinates":[8.304696,47.42086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219651267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.0172,46.316803,8.0172,46.316803",
     "geom:latitude":46.316803,
     "geom:longitude":8.0172,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Simplonstrasse 57",
     "sg:city":"Ried Brig",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219651267,
-    "wof:lastmodified":1449071096,
+    "wof:lastmodified":1466212032,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.0172,46.316803,8.0172,46.316803],
+  "bbox": [
+    8.0172,
+    46.316803,
+    8.0172,
+    46.316803
+],
   "geometry": {"coordinates":[8.0172,46.316803],"type":"Point"}
 }

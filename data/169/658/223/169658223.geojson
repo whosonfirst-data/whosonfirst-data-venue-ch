@@ -2,13 +2,14 @@
   "id": 169658223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.589998,47.543427,7.589998,47.543427",
     "geom:latitude":47.543427,
     "geom:longitude":7.589998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurner Str. 57",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169658223,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466210251,
     "wof:name":"Paul Welker Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "by-product"
     ]
 },
-  "bbox": [7.589998,47.543427,7.589998,47.543427],
+  "bbox": [
+    7.589998,
+    47.543427,
+    7.589998,
+    47.543427
+],
   "geometry": {"coordinates":[7.589998,47.543427],"type":"Point"}
 }

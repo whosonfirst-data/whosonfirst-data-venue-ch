@@ -2,13 +2,14 @@
   "id": 219276569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.736335,43.42733,6.736335,43.42733",
     "geom:latitude":43.42733,
     "geom:longitude":6.736335,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Rosex",
     "sg:city":"Vers-l'eglise",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219276569,
-    "wof:lastmodified":1449070502,
+    "wof:lastmodified":1466209031,
     "wof:name":"Garage Du Rosex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.736335,43.42733,6.736335,43.42733],
+  "bbox": [
+    6.736335,
+    43.42733,
+    6.736335,
+    43.42733
+],
   "geometry": {"coordinates":[6.736335,43.42733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236664645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.302574,47.470493,8.302574,47.470493",
     "geom:latitude":47.470493,
     "geom:longitude":8.302574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mellingerstrasse 52",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236664645,
-    "wof:lastmodified":1449002751,
+    "wof:lastmodified":1466212769,
     "wof:name":"Pizza-blitz, Meier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.302574,47.470493,8.302574,47.470493],
+  "bbox": [
+    8.302574,
+    47.470493,
+    8.302574,
+    47.470493
+],
   "geometry": {"coordinates":[8.302574,47.470493],"type":"Point"}
 }

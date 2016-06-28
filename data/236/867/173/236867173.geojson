@@ -2,13 +2,14 @@
   "id": 236867173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580089,47.453156,8.580089,47.453156",
     "geom:latitude":47.453156,
     "geom:longitude":8.580089,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 151",
     "sg:city":"Kloten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236867173,
-    "wof:lastmodified":1449003010,
+    "wof:lastmodified":1466212944,
     "wof:name":"Raiffeisenbank Embrach-kloten",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580089,47.453156,8.580089,47.453156],
+  "bbox": [
+    8.580089,
+    47.453156,
+    8.580089,
+    47.453156
+],
   "geometry": {"coordinates":[8.580089,47.453156],"type":"Point"}
 }

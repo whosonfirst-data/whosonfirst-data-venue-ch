@@ -2,13 +2,14 @@
   "id": 186488795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.062524,47.562111,8.062524,47.562111",
     "geom:latitude":47.562111,
     "geom:longitude":8.062524,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalstrasse",
     "sg:city":"Laufenburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186488795,
-    "wof:lastmodified":1449052974,
+    "wof:lastmodified":1466211342,
     "wof:name":"Altersheim Klostermatte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.062524,47.562111,8.062524,47.562111],
+  "bbox": [
+    8.062524,
+    47.562111,
+    8.062524,
+    47.562111
+],
   "geometry": {"coordinates":[8.062524,47.562111],"type":"Point"}
 }

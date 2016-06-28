@@ -2,13 +2,14 @@
   "id": 202812371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.36792,46.968102,7.36792,46.968102",
     "geom:latitude":46.968102,
     "geom:longitude":7.36792,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofenstrasse 59",
     "sg:city":"Hinterkappelen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202812371,
-    "wof:lastmodified":1449060167,
+    "wof:lastmodified":1466211722,
     "wof:name":"B\u00fcro F\u00fcr Architektur Blum M. Ag",
     "wof:parent_id":85800049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.36792,46.968102,7.36792,46.968102],
+  "bbox": [
+    7.36792,
+    46.968102,
+    7.36792,
+    46.968102
+],
   "geometry": {"coordinates":[7.36792,46.968102],"type":"Point"}
 }

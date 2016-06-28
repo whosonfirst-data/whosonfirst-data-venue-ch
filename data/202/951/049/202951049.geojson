@@ -2,13 +2,14 @@
   "id": 202951049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.612343,46.534729,6.612343,46.534729",
     "geom:latitude":46.534729,
     "geom:longitude":6.612343,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Guiguer-de-prangins 21",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202951049,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466212216,
     "wof:name":"Atelier D'architecture Crausaz Jean-paul",
     "wof:parent_id":85862343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.612343,46.534729,6.612343,46.534729],
+  "bbox": [
+    6.612343,
+    46.534729,
+    6.612343,
+    46.534729
+],
   "geometry": {"coordinates":[6.612343,46.534729],"type":"Point"}
 }

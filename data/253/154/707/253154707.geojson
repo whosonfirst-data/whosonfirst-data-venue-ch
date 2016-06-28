@@ -2,13 +2,14 @@
   "id": 253154707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.068155,47.042198,9.068155,47.042198",
     "geom:latitude":47.042198,
     "geom:longitude":9.068155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerichtshausstrasse 12",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253154707,
-    "wof:lastmodified":1449065844,
+    "wof:lastmodified":1466210563,
     "wof:name":"B\u00e4ckerei-konditorei Reichmuth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.068155,47.042198,9.068155,47.042198],
+  "bbox": [
+    9.068155,
+    47.042198,
+    9.068155,
+    47.042198
+],
   "geometry": {"coordinates":[9.068155,47.042198],"type":"Point"}
 }

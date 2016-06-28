@@ -2,13 +2,14 @@
   "id": 236847959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.280562,47.187477,8.280562,47.187477",
     "geom:latitude":47.187477,
     "geom:longitude":8.280562,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 20",
     "sg:city":"Baldegg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236847959,
-    "wof:lastmodified":1449002725,
+    "wof:lastmodified":1466212936,
     "wof:name":"Wangler Louis Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.280562,47.187477,8.280562,47.187477],
+  "bbox": [
+    8.280562,
+    47.187477,
+    8.280562,
+    47.187477
+],
   "geometry": {"coordinates":[8.280562,47.187477],"type":"Point"}
 }

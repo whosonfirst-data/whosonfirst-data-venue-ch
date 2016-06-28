@@ -2,13 +2,14 @@
   "id": 219286111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.683831,47.565311,8.683831,47.565311",
     "geom:latitude":47.565311,
     "geom:longitude":8.683831,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Andelfingerstrasse 10",
     "sg:city":"Henggart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219286111,
-    "wof:lastmodified":1449071324,
+    "wof:lastmodified":1466209117,
     "wof:name":"Hans Weiersm\u00fcller Opel-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.683831,47.565311,8.683831,47.565311],
+  "bbox": [
+    8.683831,
+    47.565311,
+    8.683831,
+    47.565311
+],
   "geometry": {"coordinates":[8.683831,47.565311],"type":"Point"}
 }

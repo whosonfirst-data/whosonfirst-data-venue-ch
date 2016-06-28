@@ -2,13 +2,14 @@
   "id": 220018951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.916234,47.508125,7.916234,47.508125",
     "geom:latitude":47.508125,
     "geom:longitude":7.916234,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorf 195",
     "sg:city":"Hellikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220018951,
-    "wof:lastmodified":1449074437,
+    "wof:lastmodified":1466209041,
     "wof:name":"Heinz Hasler Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.916234,47.508125,7.916234,47.508125],
+  "bbox": [
+    7.916234,
+    47.508125,
+    7.916234,
+    47.508125
+],
   "geometry": {"coordinates":[7.916234,47.508125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186348803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.973023,46.026161,8.973023,46.026161",
     "geom:latitude":46.026161,
     "geom:longitude":8.973023,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Arbostra 33",
     "sg:city":"Pregassona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186348803,
-    "wof:lastmodified":1449050395,
+    "wof:lastmodified":1466210200,
     "wof:name":"Bassi Ugo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.973023,46.026161,8.973023,46.026161],
+  "bbox": [
+    8.973023,
+    46.026161,
+    8.973023,
+    46.026161
+],
   "geometry": {"coordinates":[8.973023,46.026161],"type":"Point"}
 }

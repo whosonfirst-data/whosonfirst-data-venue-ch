@@ -2,13 +2,14 @@
   "id": 236502401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5502,47.136791,7.5502,47.136791",
     "geom:latitude":47.136791,
     "geom:longitude":7.5502,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossstrasse 1 3427 Utzenstorf. Postfach",
     "sg:city":"Utzenstorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236502401,
-    "wof:lastmodified":1449003109,
+    "wof:lastmodified":1466212528,
     "wof:name":"Fritz Wyler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.5502,47.136791,7.5502,47.136791],
+  "bbox": [
+    7.5502,
+    47.136791,
+    7.5502,
+    47.136791
+],
   "geometry": {"coordinates":[7.5502,47.136791],"type":"Point"}
 }

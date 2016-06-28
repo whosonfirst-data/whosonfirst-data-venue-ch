@@ -2,13 +2,14 @@
   "id": 185748303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.536759,47.207283,7.536759,47.207283",
     "geom:latitude":47.207283,
     "geom:longitude":7.536759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptgasse 35 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185748303,
-    "wof:lastmodified":1449007813,
+    "wof:lastmodified":1466211485,
     "wof:name":"Wehrle & Abegglen Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.536759,47.207283,7.536759,47.207283],
+  "bbox": [
+    7.536759,
+    47.207283,
+    7.536759,
+    47.207283
+],
   "geometry": {"coordinates":[7.536759,47.207283],"type":"Point"}
 }

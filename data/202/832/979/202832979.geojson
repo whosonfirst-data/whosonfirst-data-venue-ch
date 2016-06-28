@@ -2,13 +2,14 @@
   "id": 202832979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.984776,47.467415,8.984776,47.467415",
     "geom:latitude":47.467415,
     "geom:longitude":8.984776,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchlstrasse 40 8370 Sirnach. Postfach",
     "sg:city":"Sirnach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202832979,
-    "wof:lastmodified":1449060122,
+    "wof:lastmodified":1466211844,
     "wof:name":"H\u00e4ne + St\u00e4heli Ag Architekten Htl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.984776,47.467415,8.984776,47.467415],
+  "bbox": [
+    8.984776,
+    47.467415,
+    8.984776,
+    47.467415
+],
   "geometry": {"coordinates":[8.984776,47.467415],"type":"Point"}
 }

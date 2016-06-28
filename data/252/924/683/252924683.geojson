@@ -2,13 +2,14 @@
   "id": 252924683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.472862,46.138039,-93.472862,46.138039",
     "geom:latitude":46.138039,
     "geom:longitude":-93.472862,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1148",
     "sg:city":"L'isle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252924683,
-    "wof:lastmodified":1449005717,
+    "wof:lastmodified":1466211269,
     "wof:name":"Ida Freymond Boutique Tital Mercerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.472862,46.138039,-93.472862,46.138039],
-  "geometry": {"coordinates":[-93.472862,46.138039],"type":"Point"}
+  "bbox": [
+    -93.472862,
+    46.138039,
+    -93.472862,
+    46.138039
+],
+  "geometry": {"coordinates":[-93.47286200000001,46.138039],"type":"Point"}
 }

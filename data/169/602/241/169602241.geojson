@@ -2,13 +2,14 @@
   "id": 169602241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.951305,46.002975,8.951305,46.002975",
     "geom:latitude":46.002975,
     "geom:longitude":8.951305,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Lugano",
     "sg:classifiers":[],
     "sg:orig_category":"Immobilien U Baugewerbe, Immobilienmarkt U Kleinanzeigen",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169602241,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1466208945,
     "wof:name":"Auswahl Schweiz, Tessin, Lugano Am See Immobilien: Iri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.951305,46.002975,8.951305,46.002975],
+  "bbox": [
+    8.951305,
+    46.002975,
+    8.951305,
+    46.002975
+],
   "geometry": {"coordinates":[8.951305,46.002975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252737733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.647355,47.572868,8.647355,47.572868",
     "geom:latitude":47.572868,
     "geom:longitude":8.647355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schloss Goldenberg",
     "sg:city":"Dorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252737733,
-    "wof:lastmodified":1449005668,
+    "wof:lastmodified":1466209201,
     "wof:name":"Kindhauser Heinrich Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.647355,47.572868,8.647355,47.572868],
+  "bbox": [
+    8.647355,
+    47.572868,
+    8.647355,
+    47.572868
+],
   "geometry": {"coordinates":[8.647355,47.572868],"type":"Point"}
 }

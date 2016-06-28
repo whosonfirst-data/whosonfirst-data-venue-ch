@@ -2,13 +2,14 @@
   "id": 236112577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604812,47.130554,7.604812,47.130554",
     "geom:latitude":47.130554,
     "geom:longitude":7.604812,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosg\u00e4ssli 12",
     "sg:city":"Koppigen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236112577,
-    "wof:lastmodified":1449003117,
+    "wof:lastmodified":1466209904,
     "wof:name":"Peter Baumberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604812,47.130554,7.604812,47.130554],
+  "bbox": [
+    7.604812,
+    47.130554,
+    7.604812,
+    47.130554
+],
   "geometry": {"coordinates":[7.604812,47.130554],"type":"Point"}
 }

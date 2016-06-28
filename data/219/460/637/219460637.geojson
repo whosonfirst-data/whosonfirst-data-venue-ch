@@ -2,13 +2,14 @@
   "id": 219460637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.247257,47.140888,7.247257,47.140888",
     "geom:latitude":47.140888,
     "geom:longitude":7.247257,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nidaug. 8",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219460637,
-    "wof:lastmodified":1449073711,
+    "wof:lastmodified":1466210764,
     "wof:name":"Ernst & Young Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [7.247257,47.140888,7.247257,47.140888],
+  "bbox": [
+    7.247257,
+    47.140888,
+    7.247257,
+    47.140888
+],
   "geometry": {"coordinates":[7.247257,47.140888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219251595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.278879,47.380108,9.278879,47.380108",
     "geom:latitude":47.380108,
     "geom:longitude":9.278879,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpsteinstrasse 1b 9100 Herisau. Postfach",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219251595,
-    "wof:lastmodified":1449070435,
+    "wof:lastmodified":1466211569,
     "wof:name":"Andreas Bruderer Autogarage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.278879,47.380108,9.278879,47.380108],
+  "bbox": [
+    9.278879,
+    47.380108,
+    9.278879,
+    47.380108
+],
   "geometry": {"coordinates":[9.278879,47.380108],"type":"Point"}
 }

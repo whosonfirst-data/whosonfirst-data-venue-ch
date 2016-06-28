@@ -2,13 +2,14 @@
   "id": 220010599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.664358,47.187283,7.664358,47.187283",
     "geom:latitude":47.187283,
     "geom:longitude":7.664358,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kohlgrubenweg 2",
     "sg:city":"Bolken",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220010599,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466208971,
     "wof:name":"Franz Berger Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.664358,47.187283,7.664358,47.187283],
+  "bbox": [
+    7.664358,
+    47.187283,
+    7.664358,
+    47.187283
+],
   "geometry": {"coordinates":[7.664358,47.187283],"type":"Point"}
 }

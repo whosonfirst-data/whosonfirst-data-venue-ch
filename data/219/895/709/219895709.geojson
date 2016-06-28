@@ -2,13 +2,14 @@
   "id": 219895709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.619386,47.701019,8.619386,47.701019",
     "geom:latitude":47.701019,
     "geom:longitude":8.619386,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rietstrasse 95",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219895709,
-    "wof:lastmodified":1449071882,
+    "wof:lastmodified":1466212625,
     "wof:name":"Wohnbaugen.kolping Sh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.619386,47.701019,8.619386,47.701019],
+  "bbox": [
+    8.619386,
+    47.701019,
+    8.619386,
+    47.701019
+],
   "geometry": {"coordinates":[8.619386,47.701019],"type":"Point"}
 }

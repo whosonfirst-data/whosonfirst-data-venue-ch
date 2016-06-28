@@ -2,13 +2,14 @@
   "id": 219482529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.589773,47.414925,8.589773,47.414925",
     "geom:latitude":47.414925,
     "geom:longitude":8.589773,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 1",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219482529,
-    "wof:lastmodified":1449071642,
+    "wof:lastmodified":1466210971,
     "wof:name":"Bank Leu Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.589773,47.414925,8.589773,47.414925],
+  "bbox": [
+    8.589773,
+    47.414925,
+    8.589773,
+    47.414925
+],
   "geometry": {"coordinates":[8.589773,47.414925],"type":"Point"}
 }

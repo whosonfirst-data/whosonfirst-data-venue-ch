@@ -2,13 +2,14 @@
   "id": 236462929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58889,47.439121,7.58889,47.439121",
     "geom:latitude":47.439121,
     "geom:longitude":7.58889,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"4203",
     "sg:city":"Grellingen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236462929,
-    "wof:lastmodified":1449005093,
+    "wof:lastmodified":1466212515,
     "wof:name":"Volksbibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "archive"
     ]
 },
-  "bbox": [7.58889,47.439121,7.58889,47.439121],
+  "bbox": [
+    7.58889,
+    47.439121,
+    7.58889,
+    47.439121
+],
   "geometry": {"coordinates":[7.58889,47.439121],"type":"Point"}
 }

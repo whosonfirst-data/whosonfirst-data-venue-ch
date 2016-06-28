@@ -2,13 +2,14 @@
   "id": 202480981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449869,47.021061,7.449869,47.021061",
     "geom:latitude":47.021061,
     "geom:longitude":7.449869,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fellenbergstrasse 2",
     "sg:city":"M\u00fcnchenbuchsee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202480981,
-    "wof:lastmodified":1449060932,
+    "wof:lastmodified":1466211209,
     "wof:name":"Elektroplanung Schneider Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449869,47.021061,7.449869,47.021061],
+  "bbox": [
+    7.449869,
+    47.021061,
+    7.449869,
+    47.021061
+],
   "geometry": {"coordinates":[7.449869,47.021061],"type":"Point"}
 }

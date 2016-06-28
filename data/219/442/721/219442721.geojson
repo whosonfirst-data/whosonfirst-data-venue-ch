@@ -2,13 +2,14 @@
   "id": 219442721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.296084,47.055283,8.296084,47.055283",
     "geom:latitude":47.055283,
     "geom:longitude":8.296084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-karli-strasse 22",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219442721,
-    "wof:lastmodified":1449071941,
+    "wof:lastmodified":1466210568,
     "wof:name":"Vermo Tiefk\u00fchl Pool Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "baked"
     ]
 },
-  "bbox": [8.296084,47.055283,8.296084,47.055283],
+  "bbox": [
+    8.296084,
+    47.055283,
+    8.296084,
+    47.055283
+],
   "geometry": {"coordinates":[8.296084,47.055283],"type":"Point"}
 }

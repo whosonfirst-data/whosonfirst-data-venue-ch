@@ -2,13 +2,14 @@
   "id": 219203051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.48332,47.072803,9.48332,47.072803",
     "geom:latitude":47.072803,
     "geom:longitude":9.48332,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4hrh\u00fcttenstrasse 21",
     "sg:city":"Tr\u00fcbbach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219203051,
-    "wof:lastmodified":1449071964,
+    "wof:lastmodified":1466211685,
     "wof:name":"Elatron Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "board"
     ]
 },
-  "bbox": [9.48332,47.072803,9.48332,47.072803],
+  "bbox": [
+    9.48332,
+    47.072803,
+    9.48332,
+    47.072803
+],
   "geometry": {"coordinates":[9.48332,47.072803],"type":"Point"}
 }

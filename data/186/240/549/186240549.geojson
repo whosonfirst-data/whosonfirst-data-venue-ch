@@ -2,13 +2,14 @@
   "id": 186240549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.179269,46.74844,8.179269,46.74844",
     "geom:latitude":46.74844,
     "geom:longitude":8.179269,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorf 128",
     "sg:city":"Obererlinsbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186240549,
-    "wof:lastmodified":1449050524,
+    "wof:lastmodified":1466209400,
     "wof:name":"Von Bergen Fritz Ag, Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.179269,46.74844,8.179269,46.74844],
+  "bbox": [
+    8.179269,
+    46.74844,
+    8.179269,
+    46.74844
+],
   "geometry": {"coordinates":[8.179269,46.74844],"type":"Point"}
 }

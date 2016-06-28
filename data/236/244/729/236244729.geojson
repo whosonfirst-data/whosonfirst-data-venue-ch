@@ -2,13 +2,14 @@
   "id": 236244729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.587456,47.308315,8.587456,47.308315",
     "geom:latitude":47.308315,
     "geom:longitude":8.587456,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 3",
     "sg:city":"Romanshorn",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236244729,
-    "wof:lastmodified":1449002875,
+    "wof:lastmodified":1466211308,
     "wof:name":"Bonnot Event House",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.587456,47.308315,8.587456,47.308315],
+  "bbox": [
+    8.587456,
+    47.308315,
+    8.587456,
+    47.308315
+],
   "geometry": {"coordinates":[8.587456,47.308315],"type":"Point"}
 }

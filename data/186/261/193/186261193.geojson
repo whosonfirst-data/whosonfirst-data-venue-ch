@@ -2,13 +2,14 @@
   "id": 186261193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627486,46.735916,7.627486,46.735916",
     "geom:latitude":46.735916,
     "geom:longitude":7.627486,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gwattstrasse 41",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186261193,
-    "wof:lastmodified":1449050301,
+    "wof:lastmodified":1466209558,
     "wof:name":"L\u00e4derach Ernst Bau Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627486,46.735916,7.627486,46.735916],
+  "bbox": [
+    7.627486,
+    46.735916,
+    7.627486,
+    46.735916
+],
   "geometry": {"coordinates":[7.627486,46.735916],"type":"Point"}
 }

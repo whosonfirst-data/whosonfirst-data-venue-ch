@@ -2,13 +2,14 @@
   "id": 236909429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.159338,46.19545,6.159338,46.19545",
     "geom:latitude":46.19545,
     "geom:longitude":6.159338,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Crespin 12",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236909429,
-    "wof:lastmodified":1449004263,
+    "wof:lastmodified":1466213018,
     "wof:name":"Laurent Schneider Informatique",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.159338,46.19545,6.159338,46.19545],
+  "bbox": [
+    6.159338,
+    46.19545,
+    6.159338,
+    46.19545
+],
   "geometry": {"coordinates":[6.159338,46.19545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236464751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.663785,46.875626,8.663785,46.875626",
     "geom:latitude":46.875626,
     "geom:longitude":8.663785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6374 Buochs. Postfach 347",
     "sg:city":"Buochs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236464751,
-    "wof:lastmodified":1449002349,
+    "wof:lastmodified":1466212449,
     "wof:name":"Volksbibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "archive"
     ]
 },
-  "bbox": [8.663785,46.875626,8.663785,46.875626],
+  "bbox": [
+    8.663785,
+    46.875626,
+    8.663785,
+    46.875626
+],
   "geometry": {"coordinates":[8.663785,46.875626],"type":"Point"}
 }

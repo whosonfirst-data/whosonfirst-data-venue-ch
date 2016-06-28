@@ -2,13 +2,14 @@
   "id": 220097433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.61469,46.739719,7.61469,46.739719",
     "geom:latitude":46.739719,
     "geom:longitude":7.61469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fichtenweg 3",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220097433,
-    "wof:lastmodified":1449074348,
+    "wof:lastmodified":1466209715,
     "wof:name":"Gyger Franz",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.61469,46.739719,7.61469,46.739719],
+  "bbox": [
+    7.61469,
+    46.739719,
+    7.61469,
+    46.739719
+],
   "geometry": {"coordinates":[7.61469,46.739719],"type":"Point"}
 }

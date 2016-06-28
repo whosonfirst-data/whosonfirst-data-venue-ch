@@ -2,13 +2,14 @@
   "id": 203169433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154223,46.808125,7.154223,46.808125",
     "geom:latitude":46.808125,
     "geom:longitude":7.154223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Marcello 9",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203169433,
-    "wof:lastmodified":1449026111,
+    "wof:lastmodified":1466209131,
     "wof:name":"Dr M\u00e9d. Didier Stadler M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154223,46.808125,7.154223,46.808125],
+  "bbox": [
+    7.154223,
+    46.808125,
+    7.154223,
+    46.808125
+],
   "geometry": {"coordinates":[7.154223,46.808125],"type":"Point"}
 }

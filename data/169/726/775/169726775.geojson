@@ -2,13 +2,14 @@
   "id": 169726775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.108081,46.170498,6.108081,46.170498",
     "geom:latitude":46.170498,
     "geom:longitude":6.108081,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. Pont-du-centenaire 109a",
     "sg:city":"Plan-les-ouates",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169726775,
-    "wof:lastmodified":1449034954,
+    "wof:lastmodified":1466211146,
     "wof:name":"Surcotec Sa",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surface"
     ]
 },
-  "bbox": [6.108081,46.170498,6.108081,46.170498],
+  "bbox": [
+    6.108081,
+    46.170498,
+    6.108081,
+    46.170498
+],
   "geometry": {"coordinates":[6.108081,46.170498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185931691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.865421,47.490032,8.865421,47.490032",
     "geom:latitude":47.490032,
     "geom:longitude":8.865421,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untergasse 11a",
     "sg:city":"Elgg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185931691,
-    "wof:lastmodified":1449008072,
+    "wof:lastmodified":1466210109,
     "wof:name":"Spitex-zentrum Haus Zum Zirkel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.865421,47.490032,8.865421,47.490032],
+  "bbox": [
+    8.865421,
+    47.490032,
+    8.865421,
+    47.490032
+],
   "geometry": {"coordinates":[8.865421,47.490032],"type":"Point"}
 }

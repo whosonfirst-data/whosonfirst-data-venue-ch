@@ -2,13 +2,14 @@
   "id": 253243577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.154846,46.254555,6.154846,46.254555",
     "geom:latitude":46.254555,
     "geom:longitude":6.154846,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Lausanne 322",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253243577,
-    "wof:lastmodified":1449063788,
+    "wof:lastmodified":1466211421,
     "wof:name":"Rieben, M. Et Mme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.154846,46.254555,6.154846,46.254555],
+  "bbox": [
+    6.154846,
+    46.254555,
+    6.154846,
+    46.254555
+],
   "geometry": {"coordinates":[6.154846,46.254555],"type":"Point"}
 }

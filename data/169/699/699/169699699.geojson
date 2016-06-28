@@ -2,13 +2,14 @@
   "id": 169699699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.440835,46.93959,7.440835,46.93959",
     "geom:latitude":46.93959,
     "geom:longitude":7.440835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchberstr. 18",
     "sg:city":"Hindelbank",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169699699,
-    "wof:lastmodified":1449033138,
+    "wof:lastmodified":1466210925,
     "wof:name":"Bellevue Garage Ag",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "transport"
     ]
 },
-  "bbox": [7.440835,46.93959,7.440835,46.93959],
+  "bbox": [
+    7.440835,
+    46.93959,
+    7.440835,
+    46.93959
+],
   "geometry": {"coordinates":[7.440835,46.93959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253123331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.844908,47.114079,7.844908,47.114079",
     "geom:latitude":47.114079,
     "geom:longitude":7.844908,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 24 4950 Huttwil. Postfach 345",
     "sg:city":"Huttwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253123331,
-    "wof:lastmodified":1449063699,
+    "wof:lastmodified":1466210173,
     "wof:name":"Sch\u00e4r Optik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.844908,47.114079,7.844908,47.114079],
+  "bbox": [
+    7.844908,
+    47.114079,
+    7.844908,
+    47.114079
+],
   "geometry": {"coordinates":[7.844908,47.114079],"type":"Point"}
 }

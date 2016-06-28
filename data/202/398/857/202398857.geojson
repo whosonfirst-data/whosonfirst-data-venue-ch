@@ -2,13 +2,14 @@
   "id": 202398857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.642794,47.34885,8.642794,47.34885",
     "geom:latitude":47.34885,
     "geom:longitude":8.642794,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinm\u00fcristrasse 9",
     "sg:city":"Maur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202398857,
-    "wof:lastmodified":1449060319,
+    "wof:lastmodified":1466209715,
     "wof:name":"Bauer Engineering Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.642794,47.34885,8.642794,47.34885],
+  "bbox": [
+    8.642794,
+    47.34885,
+    8.642794,
+    47.34885
+],
   "geometry": {"coordinates":[8.642794,47.34885],"type":"Point"}
 }

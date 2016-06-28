@@ -2,13 +2,14 @@
   "id": 202947405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.814295,47.527004,7.814295,47.527004",
     "geom:latitude":47.527004,
     "geom:longitude":7.814295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 10-12",
     "sg:city":"Magden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202947405,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466212316,
     "wof:name":"Architektur & Informatik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.814295,47.527004,7.814295,47.527004],
+  "bbox": [
+    7.814295,
+    47.527004,
+    7.814295,
+    47.527004
+],
   "geometry": {"coordinates":[7.814295,47.527004],"type":"Point"}
 }

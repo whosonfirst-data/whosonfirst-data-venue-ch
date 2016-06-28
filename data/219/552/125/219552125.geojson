@@ -2,13 +2,14 @@
   "id": 219552125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.546926,47.368446,8.546926,47.368446",
     "geom:latitude":47.368446,
     "geom:longitude":8.546926,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4mistr. 23",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219552125,
-    "wof:lastmodified":1449071862,
+    "wof:lastmodified":1466211619,
     "wof:name":"Gewerbebank Z\u00fcrich",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.546926,47.368446,8.546926,47.368446],
+  "bbox": [
+    8.546926,
+    47.368446,
+    8.546926,
+    47.368446
+],
   "geometry": {"coordinates":[8.546926,47.368446],"type":"Point"}
 }

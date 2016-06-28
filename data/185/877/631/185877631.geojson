@@ -2,13 +2,14 @@
   "id": 185877631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402363,47.404804,8.402363,47.404804",
     "geom:latitude":47.404804,
     "geom:longitude":8.402363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentralstrasse 19 8953 Dietikon. Postfach",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185877631,
-    "wof:lastmodified":1449007730,
+    "wof:lastmodified":1466209697,
     "wof:name":"Forwo Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.402363,47.404804,8.402363,47.404804],
+  "bbox": [
+    8.402363,
+    47.404804,
+    8.402363,
+    47.404804
+],
   "geometry": {"coordinates":[8.402363,47.404804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236695831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.441811,47.443115,8.441811,47.443115",
     "geom:latitude":47.443115,
     "geom:longitude":8.441811,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnenwiesenstr. 14",
     "sg:city":"D\u00e4llikon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236695831,
-    "wof:lastmodified":1449002797,
+    "wof:lastmodified":1466212753,
     "wof:name":"D\u00dcring Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chemistry"
     ]
 },
-  "bbox": [8.441811,47.443115,8.441811,47.443115],
+  "bbox": [
+    8.441811,
+    47.443115,
+    8.441811,
+    47.443115
+],
   "geometry": {"coordinates":[8.441811,47.443115],"type":"Point"}
 }

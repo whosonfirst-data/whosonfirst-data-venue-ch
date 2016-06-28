@@ -2,13 +2,14 @@
   "id": 202565939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.85069,47.344997,7.85069,47.344997",
     "geom:latitude":47.344997,
     "geom:longitude":7.85069,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Esc. Du Court-chemin 6",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202565939,
-    "wof:lastmodified":1449062427,
+    "wof:lastmodified":1466209345,
     "wof:name":"Ingenieurb\u00fcro Kapp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.85069,47.344997,7.85069,47.344997],
+  "bbox": [
+    7.85069,
+    47.344997,
+    7.85069,
+    47.344997
+],
   "geometry": {"coordinates":[7.85069,47.344997],"type":"Point"}
 }

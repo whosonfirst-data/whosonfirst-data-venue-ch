@@ -2,13 +2,14 @@
   "id": 185970857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.53739,47.208302,7.53739,47.208302",
     "geom:latitude":47.208302,
     "geom:longitude":7.53739,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathaus 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185970857,
-    "wof:lastmodified":1449008162,
+    "wof:lastmodified":1466210520,
     "wof:name":"Staatskanzlei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.53739,47.208302,7.53739,47.208302],
+  "bbox": [
+    7.53739,
+    47.208302,
+    7.53739,
+    47.208302
+],
   "geometry": {"coordinates":[7.53739,47.208302],"type":"Point"}
 }

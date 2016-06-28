@@ -2,13 +2,14 @@
   "id": 253386877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63157,46.522602,6.63157,46.522602",
     "geom:latitude":46.522602,
     "geom:longitude":6.63157,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Haldimand 5 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253386877,
-    "wof:lastmodified":1449064376,
+    "wof:lastmodified":1466212326,
     "wof:name":"Kramer - Krieg Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63157,46.522602,6.63157,46.522602],
+  "bbox": [
+    6.63157,
+    46.522602,
+    6.63157,
+    46.522602
+],
   "geometry": {"coordinates":[6.63157,46.522602],"type":"Point"}
 }

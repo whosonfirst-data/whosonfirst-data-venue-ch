@@ -2,13 +2,14 @@
   "id": 186309501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.3351,47.104259,7.3351,47.104259",
     "geom:latitude":47.104259,
     "geom:longitude":7.3351,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Busswilstrasse 27",
     "sg:city":"B\u00fcetigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186309501,
-    "wof:lastmodified":1449050993,
+    "wof:lastmodified":1466209904,
     "wof:name":"Serraglia Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.3351,47.104259,7.3351,47.104259],
+  "bbox": [
+    7.3351,
+    47.104259,
+    7.3351,
+    47.104259
+],
   "geometry": {"coordinates":[7.3351,47.104259],"type":"Point"}
 }

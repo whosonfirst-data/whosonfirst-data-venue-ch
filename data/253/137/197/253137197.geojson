@@ -2,13 +2,14 @@
   "id": 253137197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.464253,47.430519,8.464253,47.430519",
     "geom:latitude":47.430519,
     "geom:longitude":8.464253,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere M\u00fchlestrasse 1",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253137197,
-    "wof:lastmodified":1449065367,
+    "wof:lastmodified":1466210351,
     "wof:name":"Beck Keller Ag",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.464253,47.430519,8.464253,47.430519],
+  "bbox": [
+    8.464253,
+    47.430519,
+    8.464253,
+    47.430519
+],
   "geometry": {"coordinates":[8.464253,47.430519],"type":"Point"}
 }

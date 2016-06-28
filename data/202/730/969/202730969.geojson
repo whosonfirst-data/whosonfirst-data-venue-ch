@@ -2,13 +2,14 @@
   "id": 202730969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.694775,46.554588,6.694775,46.554588",
     "geom:latitude":46.554588,
     "geom:longitude":6.694775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Dapples 21. 1000 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202730969,
-    "wof:lastmodified":1449062251,
+    "wof:lastmodified":1466210874,
     "wof:name":"Synth\u00e8se Atelier D'architecture, Chich\u00e9 P.",
     "wof:parent_id":85800119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.694775,46.554588,6.694775,46.554588],
+  "bbox": [
+    6.694775,
+    46.554588,
+    6.694775,
+    46.554588
+],
   "geometry": {"coordinates":[6.694775,46.554588],"type":"Point"}
 }

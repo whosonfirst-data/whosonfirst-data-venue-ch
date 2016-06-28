@@ -2,13 +2,14 @@
   "id": 202756951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.024665,47.037266,7.024665,47.037266",
     "geom:latitude":47.037266,
     "geom:longitude":7.024665,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eggwilstrasse 16a",
     "sg:city":"Bronschhofen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202756951,
-    "wof:lastmodified":1449061637,
+    "wof:lastmodified":1466211124,
     "wof:name":"Vogel-rocano Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.024665,47.037266,7.024665,47.037266],
+  "bbox": [
+    7.024665,
+    47.037266,
+    7.024665,
+    47.037266
+],
   "geometry": {"coordinates":[7.024665,47.037266],"type":"Point"}
 }

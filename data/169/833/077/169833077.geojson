@@ -2,13 +2,14 @@
   "id": 169833077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574225,46.82008,7.574225,46.82008",
     "geom:latitude":46.82008,
     "geom:longitude":7.574225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ara-weg 2",
     "sg:city":"Kiesen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169833077,
-    "wof:lastmodified":1449033105,
+    "wof:lastmodified":1466209298,
     "wof:name":"Ara Unteres Kiesental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.574225,46.82008,7.574225,46.82008],
+  "bbox": [
+    7.574225,
+    46.82008,
+    7.574225,
+    46.82008
+],
   "geometry": {"coordinates":[7.574225,46.82008],"type":"Point"}
 }

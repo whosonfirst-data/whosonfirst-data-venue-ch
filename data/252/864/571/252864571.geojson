@@ -2,13 +2,14 @@
   "id": 252864571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.149647,46.202221,6.149647,46.202221",
     "geom:latitude":46.202221,
     "geom:longitude":6.149647,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Purgatoire Rue Du 3 1204 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252864571,
-    "wof:lastmodified":1449006528,
+    "wof:lastmodified":1466210610,
     "wof:name":"Sabine Braun S\u00e0rl",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.149647,46.202221,6.149647,46.202221],
+  "bbox": [
+    6.149647,
+    46.202221,
+    6.149647,
+    46.202221
+],
   "geometry": {"coordinates":[6.149647,46.202221],"type":"Point"}
 }

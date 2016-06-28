@@ -2,13 +2,14 @@
   "id": 219787519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.85895,45.967636,8.85895,45.967636",
     "geom:latitude":45.967636,
     "geom:longitude":8.85895,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6780",
     "sg:city":"Airolo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219787519,
-    "wof:lastmodified":1449071995,
+    "wof:lastmodified":1466212428,
     "wof:name":"Bar Sport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.85895,45.967636,8.85895,45.967636],
+  "bbox": [
+    8.85895,
+    45.967636,
+    8.85895,
+    45.967636
+],
   "geometry": {"coordinates":[8.85895,45.967636],"type":"Point"}
 }

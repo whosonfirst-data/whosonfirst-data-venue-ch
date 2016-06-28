@@ -2,13 +2,14 @@
   "id": 236425937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.639018,46.520737,6.639018,46.520737",
     "geom:latitude":46.520737,
     "geom:longitude":6.639018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sainte-beuve Rue 2",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236425937,
-    "wof:lastmodified":1449002681,
+    "wof:lastmodified":1466212251,
     "wof:name":"Fondation Des Archives Suisses De La Danse",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [6.639018,46.520737,6.639018,46.520737],
+  "bbox": [
+    6.639018,
+    46.520737,
+    6.639018,
+    46.520737
+],
   "geometry": {"coordinates":[6.639018,46.520737],"type":"Point"}
 }

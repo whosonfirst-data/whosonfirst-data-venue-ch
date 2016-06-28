@@ -2,13 +2,14 @@
   "id": 219576191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.520036,46.316448,7.520036,46.316448",
     "geom:latitude":46.316448,
     "geom:longitude":7.520036,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mollens",
     "sg:city":"Mollens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219576191,
-    "wof:lastmodified":1449073119,
+    "wof:lastmodified":1466211835,
     "wof:name":"National Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.520036,46.316448,7.520036,46.316448],
+  "bbox": [
+    7.520036,
+    46.316448,
+    7.520036,
+    46.316448
+],
   "geometry": {"coordinates":[7.520036,46.316448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236489821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.144426,46.801994,7.144426,46.801994",
     "geom:latitude":46.801994,
     "geom:longitude":7.144426,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Bertigny",
     "sg:city":"Fribourg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236489821,
-    "wof:lastmodified":1449003463,
+    "wof:lastmodified":1466212564,
     "wof:name":"Laboratoire Hcf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "analysis"
     ]
 },
-  "bbox": [7.144426,46.801994,7.144426,46.801994],
+  "bbox": [
+    7.144426,
+    46.801994,
+    7.144426,
+    46.801994
+],
   "geometry": {"coordinates":[7.144426,46.801994],"type":"Point"}
 }

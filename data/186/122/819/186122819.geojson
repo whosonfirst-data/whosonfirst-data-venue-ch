@@ -2,13 +2,14 @@
   "id": 186122819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.485475,47.267689,8.485475,47.267689",
     "geom:latitude":47.267689,
     "geom:longitude":8.485475,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schuelweidweg",
     "sg:city":"Aeugstertal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186122819,
-    "wof:lastmodified":1449051902,
+    "wof:lastmodified":1466211113,
     "wof:name":"Keller Umbau Ausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.485475,47.267689,8.485475,47.267689],
+  "bbox": [
+    8.485475,
+    47.267689,
+    8.485475,
+    47.267689
+],
   "geometry": {"coordinates":[8.485475,47.267689],"type":"Point"}
 }

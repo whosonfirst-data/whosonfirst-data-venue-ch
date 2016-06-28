@@ -2,13 +2,14 @@
   "id": 253384987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.62675,46.543682,6.62675,46.543682",
     "geom:latitude":46.543682,
     "geom:longitude":6.62675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Petit-flon 31 1052 Mont-sur-lausanne Case Postale 188",
     "sg:city":"Mont-sur-lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253384987,
-    "wof:lastmodified":1449063192,
+    "wof:lastmodified":1466212229,
     "wof:name":"Cardinaux Machines De Bureau Sa",
     "wof:parent_id":85862309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.62675,46.543682,6.62675,46.543682],
+  "bbox": [
+    6.62675,
+    46.543682,
+    6.62675,
+    46.543682
+],
   "geometry": {"coordinates":[6.62675,46.543682],"type":"Point"}
 }

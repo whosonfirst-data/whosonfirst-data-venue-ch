@@ -2,13 +2,14 @@
   "id": 236888265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600496,47.487083,7.600496,47.487083",
     "geom:latitude":47.487083,
     "geom:longitude":7.600496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Clochettes 14 1200 Genf. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236888265,
-    "wof:lastmodified":1449003756,
+    "wof:lastmodified":1466212958,
     "wof:name":"Probase Gmbh",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600496,47.487083,7.600496,47.487083],
+  "bbox": [
+    7.600496,
+    47.487083,
+    7.600496,
+    47.487083
+],
   "geometry": {"coordinates":[7.600496,47.487083],"type":"Point"}
 }

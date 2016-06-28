@@ -2,13 +2,14 @@
   "id": 219872131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.479608,47.413609,8.479608,47.413609",
     "geom:latitude":47.413609,
     "geom:longitude":8.479608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctihofstrasse 12",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219872131,
-    "wof:lastmodified":1449070705,
+    "wof:lastmodified":1466212595,
     "wof:name":"Baugen.des Kaufm\u00e4nnischen Verbandes Z\u00fcrich",
     "wof:parent_id":85800481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.479608,47.413609,8.479608,47.413609],
+  "bbox": [
+    8.479608,
+    47.413609,
+    8.479608,
+    47.413609
+],
   "geometry": {"coordinates":[8.479608,47.413609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236630011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.214517,46.710178,8.214517,46.710178",
     "geom:latitude":46.710178,
     "geom:longitude":8.214517,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuhren 3862 Innertkirchen. Postfach 79",
     "sg:city":"Innertkirchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236630011,
-    "wof:lastmodified":1449002699,
+    "wof:lastmodified":1466212641,
     "wof:name":"Campingplatz Aareschlucht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.214517,46.710178,8.214517,46.710178],
+  "bbox": [
+    8.214517,
+    46.710178,
+    8.214517,
+    46.710178
+],
   "geometry": {"coordinates":[8.214517,46.710178],"type":"Point"}
 }

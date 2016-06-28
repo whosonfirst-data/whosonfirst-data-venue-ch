@@ -2,13 +2,14 @@
   "id": 236363271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.433121,47.514771,9.433121,47.514771",
     "geom:latitude":47.514771,
     "geom:longitude":9.433121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebenstrasse 4",
     "sg:city":"Arbon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236363271,
-    "wof:lastmodified":1449004764,
+    "wof:lastmodified":1466212134,
     "wof:name":"Realschule Rebenschulhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.433121,47.514771,9.433121,47.514771],
+  "bbox": [
+    9.433121,
+    47.514771,
+    9.433121,
+    47.514771
+],
   "geometry": {"coordinates":[9.433121,47.514771],"type":"Point"}
 }

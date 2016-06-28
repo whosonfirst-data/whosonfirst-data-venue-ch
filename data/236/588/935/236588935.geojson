@@ -2,13 +2,14 @@
   "id": 236588935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.443467,46.947556,7.443467,46.947556",
     "geom:latitude":46.947556,
     "geom:longitude":7.443467,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schauplatzg. 4",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236588935,
-    "wof:lastmodified":1449004465,
+    "wof:lastmodified":1466212660,
     "wof:name":"Hotel B\u00c4ren",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "restaurant"
     ]
 },
-  "bbox": [7.443467,46.947556,7.443467,46.947556],
+  "bbox": [
+    7.443467,
+    46.947556,
+    7.443467,
+    46.947556
+],
   "geometry": {"coordinates":[7.443467,46.947556],"type":"Point"}
 }

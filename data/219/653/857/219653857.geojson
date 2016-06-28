@@ -2,13 +2,14 @@
   "id": 219653857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312607,47.301273,8.312607,47.301273",
     "geom:latitude":47.301273,
     "geom:longitude":8.312607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentralstr. 18",
     "sg:city":"Boswil",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219653857,
-    "wof:lastmodified":1449070643,
+    "wof:lastmodified":1466211937,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.312607,47.301273,8.312607,47.301273],
+  "bbox": [
+    8.312607,
+    47.301273,
+    8.312607,
+    47.301273
+],
   "geometry": {"coordinates":[8.312607,47.301273],"type":"Point"}
 }

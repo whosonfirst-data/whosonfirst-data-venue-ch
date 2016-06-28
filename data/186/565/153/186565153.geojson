@@ -2,13 +2,14 @@
   "id": 186565153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.97669,47.244781,7.97669,47.244781",
     "geom:latitude":47.244781,
     "geom:longitude":7.97669,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberfeldstrasse 9",
     "sg:city":"Reiden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186565153,
-    "wof:lastmodified":1449052785,
+    "wof:lastmodified":1466211925,
     "wof:name":"Bucher Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "answering"
     ]
 },
-  "bbox": [7.97669,47.244781,7.97669,47.244781],
+  "bbox": [
+    7.97669,
+    47.244781,
+    7.97669,
+    47.244781
+],
   "geometry": {"coordinates":[7.97669,47.244781],"type":"Point"}
 }

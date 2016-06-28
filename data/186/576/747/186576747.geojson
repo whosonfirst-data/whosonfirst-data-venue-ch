@@ -2,13 +2,14 @@
   "id": 186576747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.616114,46.756767,7.616114,46.756767",
     "geom:latitude":46.756767,
     "geom:longitude":7.616114,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Milit\u00e4rstrasse 6",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186576747,
-    "wof:lastmodified":1449052381,
+    "wof:lastmodified":1466211843,
     "wof:name":"S & M Kunststoffe Gmbh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apparatus"
     ]
 },
-  "bbox": [7.616114,46.756767,7.616114,46.756767],
+  "bbox": [
+    7.616114,
+    46.756767,
+    7.616114,
+    46.756767
+],
   "geometry": {"coordinates":[7.616114,46.756767],"type":"Point"}
 }

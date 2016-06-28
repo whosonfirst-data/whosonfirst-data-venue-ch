@@ -2,13 +2,14 @@
   "id": 236274639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.618119,47.423161,8.618119,47.423161",
     "geom:latitude":47.423161,
     "geom:longitude":8.618119,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dienstagwiesen. 8305 Dietlikon. Postfach 458",
     "sg:city":"Dietlikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236274639,
-    "wof:lastmodified":1449001982,
+    "wof:lastmodified":1466211595,
     "wof:name":"Tennishalle Dietlikon Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.618119,47.423161,8.618119,47.423161],
+  "bbox": [
+    8.618119,
+    47.423161,
+    8.618119,
+    47.423161
+],
   "geometry": {"coordinates":[8.618119,47.423161],"type":"Point"}
 }

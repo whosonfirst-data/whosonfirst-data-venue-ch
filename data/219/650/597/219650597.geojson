@@ -2,13 +2,14 @@
   "id": 219650597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.072119,47.199535,8.072119,47.199535",
     "geom:latitude":47.199535,
     "geom:longitude":8.072119,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6sslimatte 2",
     "sg:city":"Knutwil",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219650597,
-    "wof:lastmodified":1449072552,
+    "wof:lastmodified":1466211926,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.072119,47.199535,8.072119,47.199535],
+  "bbox": [
+    8.072119,
+    47.199535,
+    8.072119,
+    47.199535
+],
   "geometry": {"coordinates":[8.072119,47.199535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236123639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.452839,47.484352,8.452839,47.484352",
     "geom:latitude":47.484352,
     "geom:longitude":8.452839,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 17 8157 Dielsdorf. Postfach",
     "sg:city":"Dielsdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236123639,
-    "wof:lastmodified":1449002474,
+    "wof:lastmodified":1466210003,
     "wof:name":"Deari Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.452839,47.484352,8.452839,47.484352],
+  "bbox": [
+    8.452839,
+    47.484352,
+    8.452839,
+    47.484352
+],
   "geometry": {"coordinates":[8.452839,47.484352],"type":"Point"}
 }

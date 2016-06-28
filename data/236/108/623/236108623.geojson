@@ -2,13 +2,14 @@
   "id": 236108623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.549402,46.820587,7.549402,46.820587",
     "geom:latitude":46.820587,
     "geom:longitude":7.549402,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 20",
     "sg:city":"Boll",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236108623,
-    "wof:lastmodified":1449001722,
+    "wof:lastmodified":1466209868,
     "wof:name":"Krebs Karl Kirchdorf Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.549402,46.820587,7.549402,46.820587],
+  "bbox": [
+    7.549402,
+    46.820587,
+    7.549402,
+    46.820587
+],
   "geometry": {"coordinates":[7.549402,46.820587],"type":"Point"}
 }

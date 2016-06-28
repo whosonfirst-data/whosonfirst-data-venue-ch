@@ -2,13 +2,14 @@
   "id": 185802249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.556747,47.430706,8.556747,47.430706",
     "geom:latitude":47.430706,
     "geom:longitude":8.556747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 32",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185802249,
-    "wof:lastmodified":1449007926,
+    "wof:lastmodified":1466209135,
     "wof:name":"Hirzel Haustechnik Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aerator"
     ]
 },
-  "bbox": [8.556747,47.430706,8.556747,47.430706],
+  "bbox": [
+    8.556747,
+    47.430706,
+    8.556747,
+    47.430706
+],
   "geometry": {"coordinates":[8.556747,47.430706],"type":"Point"}
 }

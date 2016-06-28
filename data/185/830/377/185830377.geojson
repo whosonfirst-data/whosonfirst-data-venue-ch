@@ -2,13 +2,14 @@
   "id": 185830377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.075635,47.388073,8.075635,47.388073",
     "geom:latitude":47.388073,
     "geom:longitude":8.075635,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neubuchsstrasse 2",
     "sg:city":"Buchs",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185830377,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466209322,
     "wof:name":"Svoboda & Egli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [8.075635,47.388073,8.075635,47.388073],
+  "bbox": [
+    8.075635,
+    47.388073,
+    8.075635,
+    47.388073
+],
   "geometry": {"coordinates":[8.075635,47.388073],"type":"Point"}
 }

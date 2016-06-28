@@ -2,13 +2,14 @@
   "id": 169771423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.259509,47.413071,9.259509,47.413071",
     "geom:latitude":47.413071,
     "geom:longitude":9.259509,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mooswiesstrasse 36",
     "sg:city":"Gossau Sg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169771423,
-    "wof:lastmodified":1449034483,
+    "wof:lastmodified":1466211552,
     "wof:name":"Maier Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.259509,47.413071,9.259509,47.413071],
+  "bbox": [
+    9.259509,
+    47.413071,
+    9.259509,
+    47.413071
+],
   "geometry": {"coordinates":[9.259509,47.413071],"type":"Point"}
 }

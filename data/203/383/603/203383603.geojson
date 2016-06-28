@@ -2,13 +2,14 @@
   "id": 203383603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.573097,47.3633,8.573097,47.3633",
     "geom:latitude":47.3633,
     "geom:longitude":8.573097,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldschulweg 5",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203383603,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466211362,
     "wof:name":"Dr.med.peter Eisler Spezialarzt Fmh",
     "wof:parent_id":85800057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.573097,47.3633,8.573097,47.3633],
+  "bbox": [
+    8.573097,
+    47.3633,
+    8.573097,
+    47.3633
+],
   "geometry": {"coordinates":[8.573097,47.3633],"type":"Point"}
 }

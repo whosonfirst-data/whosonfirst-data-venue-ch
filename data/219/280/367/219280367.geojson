@@ -2,13 +2,14 @@
   "id": 219280367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.114671,46.219475,6.114671,46.219475",
     "geom:latitude":46.219475,
     "geom:longitude":6.114671,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Louis-casai 110 1215 Gen\u00e8ve Case Postale 323 1215 Gen\u00e8ve",
     "sg:city":"D\u00e9p\u00f4t",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219280367,
-    "wof:lastmodified":1449072120,
+    "wof:lastmodified":1466209064,
     "wof:name":"Garep Sa Garage",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.114671,46.219475,6.114671,46.219475],
+  "bbox": [
+    6.114671,
+    46.219475,
+    6.114671,
+    46.219475
+],
   "geometry": {"coordinates":[6.114671,46.219475],"type":"Point"}
 }

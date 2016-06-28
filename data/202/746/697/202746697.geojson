@@ -2,13 +2,14 @@
   "id": 202746697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.311734,46.987858,8.311734,46.987858",
     "geom:latitude":46.987858,
     "geom:longitude":8.311734,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Br\u00fcckenmoos",
     "sg:city":"Raron",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202746697,
-    "wof:lastmodified":1449060089,
+    "wof:lastmodified":1466211025,
     "wof:name":"Tschopp + Wespi Ag, Bauingenieure + Planer",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.311734,46.987858,8.311734,46.987858],
+  "bbox": [
+    8.311734,
+    46.987858,
+    8.311734,
+    46.987858
+],
   "geometry": {"coordinates":[8.311734,46.987858],"type":"Point"}
 }

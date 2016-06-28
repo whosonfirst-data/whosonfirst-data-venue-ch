@@ -2,13 +2,14 @@
   "id": 253140107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.04946,46.978844,8.04946,46.978844",
     "geom:latitude":46.978844,
     "geom:longitude":8.04946,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand'rue 1071 Chexbres. Postfach",
     "sg:city":"Chexbres",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253140107,
-    "wof:lastmodified":1449063244,
+    "wof:lastmodified":1466210389,
     "wof:name":"Bieri-steiner Pius",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.04946,46.978844,8.04946,46.978844],
+  "bbox": [
+    8.04946,
+    46.978844,
+    8.04946,
+    46.978844
+],
   "geometry": {"coordinates":[8.04946,46.978844],"type":"Point"}
 }

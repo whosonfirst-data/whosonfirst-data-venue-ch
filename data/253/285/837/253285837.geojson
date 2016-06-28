@@ -2,13 +2,14 @@
   "id": 253285837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.77983,46.573509,6.77983,46.573509",
     "geom:latitude":46.573509,
     "geom:longitude":6.77983,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1077",
     "sg:city":"Servion",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253285837,
-    "wof:lastmodified":1449062905,
+    "wof:lastmodified":1466211680,
     "wof:name":"Max D\u00e9nervaud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.77983,46.573509,6.77983,46.573509],
+  "bbox": [
+    6.77983,
+    46.573509,
+    6.77983,
+    46.573509
+],
   "geometry": {"coordinates":[6.77983,46.573509],"type":"Point"}
 }

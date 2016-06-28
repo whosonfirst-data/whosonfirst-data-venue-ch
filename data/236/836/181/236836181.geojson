@@ -2,13 +2,14 @@
   "id": 236836181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.297203,47.608345,9.297203,47.608345",
     "geom:latitude":47.608345,
     "geom:longitude":9.297203,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerhofstrasse 6",
     "sg:city":"G\u00fcttingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236836181,
-    "wof:lastmodified":1449003909,
+    "wof:lastmodified":1466212924,
     "wof:name":"K\u00f6fer Johann.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.297203,47.608345,9.297203,47.608345],
+  "bbox": [
+    9.297203,
+    47.608345,
+    9.297203,
+    47.608345
+],
   "geometry": {"coordinates":[9.297203,47.608345],"type":"Point"}
 }

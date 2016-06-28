@@ -2,13 +2,14 @@
   "id": 219318585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.03166,47.46558,9.03166,47.46558",
     "geom:latitude":47.46558,
     "geom:longitude":9.03166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ey",
     "sg:city":"Wattenwil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219318585,
-    "wof:lastmodified":1449071179,
+    "wof:lastmodified":1466209422,
     "wof:name":"Von Rotz Holding Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.03166,47.46558,9.03166,47.46558],
+  "bbox": [
+    9.03166,
+    47.46558,
+    9.03166,
+    47.46558
+],
   "geometry": {"coordinates":[9.03166,47.46558],"type":"Point"}
 }

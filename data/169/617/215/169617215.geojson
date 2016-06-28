@@ -2,13 +2,14 @@
   "id": 169617215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.94598,47.290581,7.94598,47.290581",
     "geom:latitude":47.290581,
     "geom:longitude":7.94598,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General Guisan-strasse 22",
     "sg:city":"Zofingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169617215,
-    "wof:lastmodified":1449032803,
+    "wof:lastmodified":1466209565,
     "wof:name":"Leutenegger Hans Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.94598,47.290581,7.94598,47.290581],
+  "bbox": [
+    7.94598,
+    47.290581,
+    7.94598,
+    47.290581
+],
   "geometry": {"coordinates":[7.94598,47.290581],"type":"Point"}
 }

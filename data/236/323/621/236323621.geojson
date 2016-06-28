@@ -2,13 +2,14 @@
   "id": 236323621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.560161,47.546097,7.560161,47.546097",
     "geom:latitude":47.546097,
     "geom:longitude":7.560161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuweilerstrasse 65",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236323621,
-    "wof:lastmodified":1449001887,
+    "wof:lastmodified":1466211980,
     "wof:name":"Taxibetrieb Trevisan B.",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.560161,47.546097,7.560161,47.546097],
+  "bbox": [
+    7.560161,
+    47.546097,
+    7.560161,
+    47.546097
+],
   "geometry": {"coordinates":[7.560161,47.546097],"type":"Point"}
 }

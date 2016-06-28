@@ -2,13 +2,14 @@
   "id": 220125309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.8132,47.136276,7.8132,47.136276",
     "geom:latitude":47.136276,
     "geom:longitude":7.8132,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 286",
     "sg:city":"Rohrbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220125309,
-    "wof:lastmodified":1449074845,
+    "wof:lastmodified":1466209958,
     "wof:name":"Nyffeler Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.8132,47.136276,7.8132,47.136276],
+  "bbox": [
+    7.8132,
+    47.136276,
+    7.8132,
+    47.136276
+],
   "geometry": {"coordinates":[7.8132,47.136276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236195881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.674308,46.689968,7.674308,46.689968",
     "geom:latitude":46.689968,
     "geom:longitude":7.674308,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 8 3700 Spiez. Postfach 13",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236195881,
-    "wof:lastmodified":1449003894,
+    "wof:lastmodified":1466210770,
     "wof:name":"Allgemeine Bestattungs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.674308,46.689968,7.674308,46.689968],
+  "bbox": [
+    7.674308,
+    46.689968,
+    7.674308,
+    46.689968
+],
   "geometry": {"coordinates":[7.674308,46.689968],"type":"Point"}
 }

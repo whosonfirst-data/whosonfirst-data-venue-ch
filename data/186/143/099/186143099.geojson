@@ -2,13 +2,14 @@
   "id": 186143099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.950355,47.390335,7.950355,47.390335",
     "geom:latitude":47.390335,
     "geom:longitude":7.950355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Paradiesstrasse 6 4654 Lostorf. Postfach",
     "sg:city":"Lostorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186143099,
-    "wof:lastmodified":1449052553,
+    "wof:lastmodified":1466211391,
     "wof:name":"Marti Bau Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.950355,47.390335,7.950355,47.390335],
+  "bbox": [
+    7.950355,
+    47.390335,
+    7.950355,
+    47.390335
+],
   "geometry": {"coordinates":[7.950355,47.390335],"type":"Point"}
 }

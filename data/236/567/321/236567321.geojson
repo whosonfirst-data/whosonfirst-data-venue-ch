@@ -2,13 +2,14 @@
   "id": 236567321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.524252,47.373055,8.524252,47.373055",
     "geom:latitude":47.373055,
     "geom:longitude":8.524252,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankerstrasse 16a",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236567321,
-    "wof:lastmodified":1449005278,
+    "wof:lastmodified":1466212631,
     "wof:name":"Genopress Media Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "production"
     ]
 },
-  "bbox": [8.524252,47.373055,8.524252,47.373055],
+  "bbox": [
+    8.524252,
+    47.373055,
+    8.524252,
+    47.373055
+],
   "geometry": {"coordinates":[8.524252,47.373055],"type":"Point"}
 }

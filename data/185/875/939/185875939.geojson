@@ -2,13 +2,14 @@
   "id": 185875939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.37305,47.41951,8.37305,47.41951",
     "geom:latitude":47.41951,
     "geom:longitude":8.37305,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grab\u00e4ckerstrasse 27 8957 Spreitenbach. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185875939,
-    "wof:lastmodified":1449007796,
+    "wof:lastmodified":1466209686,
     "wof:name":"Confida Generalunternehmung Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.37305,47.41951,8.37305,47.41951],
+  "bbox": [
+    8.37305,
+    47.41951,
+    8.37305,
+    47.41951
+],
   "geometry": {"coordinates":[8.37305,47.41951],"type":"Point"}
 }

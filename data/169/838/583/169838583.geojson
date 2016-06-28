@@ -2,13 +2,14 @@
   "id": 169838583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575687,47.536682,7.575687,47.536682",
     "geom:latitude":47.536682,
     "geom:longitude":7.575687,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bottmingerstrasse 9",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169838583,
-    "wof:lastmodified":1449033083,
+    "wof:lastmodified":1466209338,
     "wof:name":"A-ablaufentstopfungen Ark",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.575687,47.536682,7.575687,47.536682],
+  "bbox": [
+    7.575687,
+    47.536682,
+    7.575687,
+    47.536682
+],
   "geometry": {"coordinates":[7.575687,47.536682],"type":"Point"}
 }

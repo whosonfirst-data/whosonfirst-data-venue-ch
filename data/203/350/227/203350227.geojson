@@ -2,13 +2,14 @@
   "id": 203350227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62295,47.05899,7.62295,47.05899",
     "geom:latitude":47.05899,
     "geom:longitude":7.62295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 7",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203350227,
-    "wof:lastmodified":1449025894,
+    "wof:lastmodified":1466211035,
     "wof:name":"Dr.med.jean-marc Sulliger Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62295,47.05899,7.62295,47.05899],
+  "bbox": [
+    7.62295,
+    47.05899,
+    7.62295,
+    47.05899
+],
   "geometry": {"coordinates":[7.62295,47.05899],"type":"Point"}
 }

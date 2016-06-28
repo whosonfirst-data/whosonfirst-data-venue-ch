@@ -2,13 +2,14 @@
   "id": 185843343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.635188,47.534916,7.635188,47.534916",
     "geom:latitude":47.534916,
     "geom:longitude":7.635188,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kriegackerstrasse 91",
     "sg:city":"Muttenz",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185843343,
-    "wof:lastmodified":1449006747,
+    "wof:lastmodified":1466209423,
     "wof:name":"Spedag Speditions Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "forwarders"
     ]
 },
-  "bbox": [7.635188,47.534916,7.635188,47.534916],
+  "bbox": [
+    7.635188,
+    47.534916,
+    7.635188,
+    47.534916
+],
   "geometry": {"coordinates":[7.635188,47.534916],"type":"Point"}
 }

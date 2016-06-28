@@ -2,13 +2,14 @@
   "id": 236485739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.140071,46.22036,6.140071,46.22036",
     "geom:latitude":46.22036,
     "geom:longitude":6.140071,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vermont Rue De 60 1202 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236485739,
-    "wof:lastmodified":1449003703,
+    "wof:lastmodified":1466212495,
     "wof:name":"Seaway Sa",
     "wof:parent_id":85862455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.140071,46.22036,6.140071,46.22036],
+  "bbox": [
+    6.140071,
+    46.22036,
+    6.140071,
+    46.22036
+],
   "geometry": {"coordinates":[6.140071,46.22036],"type":"Point"}
 }

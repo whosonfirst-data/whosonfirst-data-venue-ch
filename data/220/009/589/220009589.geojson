@@ -2,13 +2,14 @@
   "id": 220009589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.239095,47.491634,9.239095,47.491634",
     "geom:latitude":47.491634,
     "geom:longitude":9.239095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenstrasse 3",
     "sg:city":"Bischofszell",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220009589,
-    "wof:lastmodified":1449074864,
+    "wof:lastmodified":1466208962,
     "wof:name":"Felix Frei Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.239095,47.491634,9.239095,47.491634],
+  "bbox": [
+    9.239095,
+    47.491634,
+    9.239095,
+    47.491634
+],
   "geometry": {"coordinates":[9.239095,47.491634],"type":"Point"}
 }

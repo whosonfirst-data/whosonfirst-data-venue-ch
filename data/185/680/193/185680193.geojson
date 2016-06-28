@@ -2,13 +2,14 @@
   "id": 185680193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633777,46.518105,6.633777,46.518105",
     "geom:latitude":46.518105,
     "geom:longitude":6.633777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Midi 15 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185680193,
-    "wof:lastmodified":1449007721,
+    "wof:lastmodified":1466210931,
     "wof:name":"Bernard Zahnd Etude D'avocat",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.633777,46.518105,6.633777,46.518105],
+  "bbox": [
+    6.633777,
+    46.518105,
+    6.633777,
+    46.518105
+],
   "geometry": {"coordinates":[6.633777,46.518105],"type":"Point"}
 }

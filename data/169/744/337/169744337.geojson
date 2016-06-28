@@ -2,13 +2,14 @@
   "id": 169744337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.817368,46.789639,9.817368,46.789639",
     "geom:latitude":46.789639,
     "geom:longitude":9.817368,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grischunaweg 4",
     "sg:city":"Davos Platz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169744337,
-    "wof:lastmodified":1449033878,
+    "wof:lastmodified":1466211273,
     "wof:name":"Corona-davos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.817368,46.789639,9.817368,46.789639],
+  "bbox": [
+    9.817368,
+    46.789639,
+    9.817368,
+    46.789639
+],
   "geometry": {"coordinates":[9.817368,46.789639],"type":"Point"}
 }

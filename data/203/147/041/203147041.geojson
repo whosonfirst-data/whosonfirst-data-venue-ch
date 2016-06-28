@@ -2,13 +2,14 @@
   "id": 203147041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.982049,45.870708,8.982049,45.870708",
     "geom:latitude":45.870708,
     "geom:longitude":8.982049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pollini 29",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203147041,
-    "wof:lastmodified":1449026660,
+    "wof:lastmodified":1466208889,
     "wof:name":"Dott.med.pierluigi Bernasconi Medico Generico Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.982049,45.870708,8.982049,45.870708],
+  "bbox": [
+    8.982049,
+    45.870708,
+    8.982049,
+    45.870708
+],
   "geometry": {"coordinates":[8.982049,45.870708],"type":"Point"}
 }

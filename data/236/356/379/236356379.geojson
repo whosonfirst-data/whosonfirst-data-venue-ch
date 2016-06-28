@@ -2,13 +2,14 @@
   "id": 236356379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.618435,46.741863,7.618435,46.741863",
     "geom:latitude":46.741863,
     "geom:longitude":7.618435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hallerstrasse 28",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236356379,
-    "wof:lastmodified":1449004545,
+    "wof:lastmodified":1466211993,
     "wof:name":"Oberstufenschule Str\u00e4ttligen",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.618435,46.741863,7.618435,46.741863],
+  "bbox": [
+    7.618435,
+    46.741863,
+    7.618435,
+    46.741863
+],
   "geometry": {"coordinates":[7.618435,46.741863],"type":"Point"}
 }

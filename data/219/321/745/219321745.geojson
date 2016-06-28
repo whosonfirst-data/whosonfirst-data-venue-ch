@@ -2,13 +2,14 @@
   "id": 219321745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.788635,47.363823,8.788635,47.363823",
     "geom:latitude":47.363823,
     "geom:longitude":8.788635,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waagstrasse 4",
     "sg:city":"Sarnen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219321745,
-    "wof:lastmodified":1449070452,
+    "wof:lastmodified":1466209451,
     "wof:name":"Willi K\u00fcnzi Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.788635,47.363823,8.788635,47.363823],
+  "bbox": [
+    8.788635,
+    47.363823,
+    8.788635,
+    47.363823
+],
   "geometry": {"coordinates":[8.788635,47.363823],"type":"Point"}
 }

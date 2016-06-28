@@ -2,13 +2,14 @@
   "id": 253340285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.444928,46.95789,7.444928,46.95789",
     "geom:latitude":46.95789,
     "geom:longitude":7.444928,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quartiergasse 31 3013 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253340285,
-    "wof:lastmodified":1449065082,
+    "wof:lastmodified":1466212040,
     "wof:name":"Schmid Kiosk Lorraine Kiosk",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.444928,46.95789,7.444928,46.95789],
+  "bbox": [
+    7.444928,
+    46.95789,
+    7.444928,
+    46.95789
+],
   "geometry": {"coordinates":[7.444928,46.95789],"type":"Point"}
 }

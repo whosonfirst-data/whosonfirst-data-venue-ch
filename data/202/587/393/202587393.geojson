@@ -2,13 +2,14 @@
   "id": 202587393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.795307,47.323158,8.795307,47.323158",
     "geom:latitude":47.323158,
     "geom:longitude":8.795307,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Acacias 6",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202587393,
-    "wof:lastmodified":1449060980,
+    "wof:lastmodified":1466209543,
     "wof:name":"Josef Werner Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.795307,47.323158,8.795307,47.323158],
+  "bbox": [
+    8.795307,
+    47.323158,
+    8.795307,
+    47.323158
+],
   "geometry": {"coordinates":[8.795307,47.323158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169651921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.862031,46.969063,6.862031,46.969063",
     "geom:latitude":46.969063,
     "geom:longitude":6.862031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Battieux 3",
     "sg:city":"Colombier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169651921,
-    "wof:lastmodified":1449033347,
+    "wof:lastmodified":1466210117,
     "wof:name":"Duvoisin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [6.862031,46.969063,6.862031,46.969063],
+  "bbox": [
+    6.862031,
+    46.969063,
+    6.862031,
+    46.969063
+],
   "geometry": {"coordinates":[6.862031,46.969063],"type":"Point"}
 }

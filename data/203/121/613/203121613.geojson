@@ -2,13 +2,14 @@
   "id": 203121613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.60575,47.530758,7.60575,47.530758",
     "geom:latitude":47.530758,
     "geom:longitude":7.60575,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reinacherstrasse 271",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203121613,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466211308,
     "wof:name":"William Hollinger",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aromatic"
     ]
 },
-  "bbox": [7.60575,47.530758,7.60575,47.530758],
+  "bbox": [
+    7.60575,
+    47.530758,
+    7.60575,
+    47.530758
+],
   "geometry": {"coordinates":[7.60575,47.530758],"type":"Point"}
 }

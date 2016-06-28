@@ -2,13 +2,14 @@
   "id": 186567105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.133125,46.185928,6.133125,46.185928",
     "geom:latitude":46.185928,
     "geom:longitude":6.133125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Bois-des-fr\u00e8res 2a 1219 Le Lignon. Postfach",
     "sg:city":"Vernier",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186567105,
-    "wof:lastmodified":1449053044,
+    "wof:lastmodified":1466211925,
     "wof:name":"Piotton Com. S\u00e0rl",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.133125,46.185928,6.133125,46.185928],
+  "bbox": [
+    6.133125,
+    46.185928,
+    6.133125,
+    46.185928
+],
   "geometry": {"coordinates":[6.133125,46.185928],"type":"Point"}
 }

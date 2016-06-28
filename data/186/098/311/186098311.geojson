@@ -2,13 +2,14 @@
   "id": 186098311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.253345,47.498901,8.253345,47.498901",
     "geom:latitude":47.498901,
     "geom:longitude":8.253345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Breitensteinstrasse 61",
     "sg:city":"Untersiggenthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186098311,
-    "wof:lastmodified":1449052738,
+    "wof:lastmodified":1466210848,
     "wof:name":"Heinrich Kern Ag Hoch Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.253345,47.498901,8.253345,47.498901],
+  "bbox": [
+    8.253345,
+    47.498901,
+    8.253345,
+    47.498901
+],
   "geometry": {"coordinates":[8.253345,47.498901],"type":"Point"}
 }

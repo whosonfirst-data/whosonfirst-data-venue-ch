@@ -2,13 +2,14 @@
   "id": 186121171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.945332,47.581493,8.945332,47.581493",
     "geom:latitude":47.581493,
     "geom:longitude":8.945332,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 63",
     "sg:city":"Felben",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186121171,
-    "wof:lastmodified":1449052413,
+    "wof:lastmodified":1466211092,
     "wof:name":"Karl Geiges Ag Tiefbauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.945332,47.581493,8.945332,47.581493],
+  "bbox": [
+    8.945332,
+    47.581493,
+    8.945332,
+    47.581493
+],
   "geometry": {"coordinates":[8.945332,47.581493],"type":"Point"}
 }

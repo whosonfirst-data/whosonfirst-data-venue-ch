@@ -2,13 +2,14 @@
   "id": 219995149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.725158,47.50045,8.725158,47.50045",
     "geom:latitude":47.50045,
     "geom:longitude":8.725158,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Turnerstrasse 1 8400 Winterthur. Postfach 290",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219995149,
-    "wof:lastmodified":1449073529,
+    "wof:lastmodified":1466212785,
     "wof:name":"Volcot Switzerland Ltd",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.725158,47.50045,8.725158,47.50045],
+  "bbox": [
+    8.725158,
+    47.50045,
+    8.725158,
+    47.50045
+],
   "geometry": {"coordinates":[8.725158,47.50045],"type":"Point"}
 }

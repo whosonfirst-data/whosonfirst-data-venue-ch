@@ -2,13 +2,14 @@
   "id": 186558679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.540134,47.204548,7.540134,47.204548",
     "geom:latitude":47.204548,
     "geom:longitude":7.540134,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Niklaus-konrad-strasse 8",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186558679,
-    "wof:lastmodified":1449051115,
+    "wof:lastmodified":1466211761,
     "wof:name":"Geotechnisches Institut Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contaminated"
     ]
 },
-  "bbox": [7.540134,47.204548,7.540134,47.204548],
+  "bbox": [
+    7.540134,
+    47.204548,
+    7.540134,
+    47.204548
+],
   "geometry": {"coordinates":[7.540134,47.204548],"type":"Point"}
 }

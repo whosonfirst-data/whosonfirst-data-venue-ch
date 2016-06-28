@@ -2,13 +2,14 @@
   "id": 186086615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.75031,46.18396,8.75031,46.18396",
     "geom:latitude":46.18396,
     "geom:longitude":8.75031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Al Pozzo",
     "sg:city":"Tegna",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186086615,
-    "wof:lastmodified":1449052164,
+    "wof:lastmodified":1466210664,
     "wof:name":"Gitema Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.75031,46.18396,8.75031,46.18396],
+  "bbox": [
+    8.75031,
+    46.18396,
+    8.75031,
+    46.18396
+],
   "geometry": {"coordinates":[8.75031,46.18396],"type":"Point"}
 }

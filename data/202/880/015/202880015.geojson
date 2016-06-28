@@ -2,13 +2,14 @@
   "id": 202880015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52918,47.37875,8.52918,47.37875",
     "geom:latitude":47.37875,
     "geom:longitude":8.52918,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Milit\u00e4rstrasse 90",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202880015,
-    "wof:lastmodified":1449062674,
+    "wof:lastmodified":1466211953,
     "wof:name":"Talotti Bauingenieurb\u00fcro",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52918,47.37875,8.52918,47.37875],
+  "bbox": [
+    8.52918,
+    47.37875,
+    8.52918,
+    47.37875
+],
   "geometry": {"coordinates":[8.52918,47.37875],"type":"Point"}
 }

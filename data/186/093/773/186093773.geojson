@@ -2,13 +2,14 @@
   "id": 186093773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.323321,47.46714,8.323321,47.46714",
     "geom:latitude":47.46714,
     "geom:longitude":8.323321,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 64 5430 Wettingen. Postfach 2022",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186093773,
-    "wof:lastmodified":1449050257,
+    "wof:lastmodified":1466210812,
     "wof:name":"H. Brunner Ag, Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.323321,47.46714,8.323321,47.46714],
+  "bbox": [
+    8.323321,
+    47.46714,
+    8.323321,
+    47.46714
+],
   "geometry": {"coordinates":[8.323321,47.46714],"type":"Point"}
 }

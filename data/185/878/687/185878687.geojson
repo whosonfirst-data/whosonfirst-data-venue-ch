@@ -2,13 +2,14 @@
   "id": 185878687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.330713,47.059399,8.330713,47.059399",
     "geom:latitude":47.059399,
     "geom:longitude":8.330713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Vergnolet",
     "sg:city":"Puidoux-gare",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185878687,
-    "wof:lastmodified":1449007469,
+    "wof:lastmodified":1466209703,
     "wof:name":"Gks Generalunternehmung Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.330713,47.059399,8.330713,47.059399],
+  "bbox": [
+    8.330713,
+    47.059399,
+    8.330713,
+    47.059399
+],
   "geometry": {"coordinates":[8.330713,47.059399],"type":"Point"}
 }

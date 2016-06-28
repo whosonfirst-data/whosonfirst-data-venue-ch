@@ -2,13 +2,14 @@
   "id": 219846845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588589,47.552486,7.588589,47.552486",
     "geom:latitude":47.552486,
     "geom:longitude":7.588589,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinenvorstadt 55",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219846845,
-    "wof:lastmodified":1449073140,
+    "wof:lastmodified":1466212547,
     "wof:name":"Restaurant & Bar K\u00fcchlin",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.588589,47.552486,7.588589,47.552486],
+  "bbox": [
+    7.588589,
+    47.552486,
+    7.588589,
+    47.552486
+],
   "geometry": {"coordinates":[7.588589,47.552486],"type":"Point"}
 }

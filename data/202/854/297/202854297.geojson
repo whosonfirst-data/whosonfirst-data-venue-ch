@@ -2,13 +2,14 @@
   "id": 202854297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.462142,46.940578,7.462142,46.940578",
     "geom:latitude":46.940578,
     "geom:longitude":7.462142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterstadt 28",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202854297,
-    "wof:lastmodified":1449062550,
+    "wof:lastmodified":1466211803,
     "wof:name":"Rast R. Architekten Ag",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.462142,46.940578,7.462142,46.940578],
+  "bbox": [
+    7.462142,
+    46.940578,
+    7.462142,
+    46.940578
+],
   "geometry": {"coordinates":[7.462142,46.940578],"type":"Point"}
 }

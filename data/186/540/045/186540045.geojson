@@ -2,13 +2,14 @@
   "id": 186540045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.655336,47.722893,8.655336,47.722893",
     "geom:latitude":47.722893,
     "geom:longitude":8.655336,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stettemerstrasse 95",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186540045,
-    "wof:lastmodified":1449051420,
+    "wof:lastmodified":1466211802,
     "wof:name":"La R\u00e9sidence Alterswohnheim Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.655336,47.722893,8.655336,47.722893],
+  "bbox": [
+    8.655336,
+    47.722893,
+    8.655336,
+    47.722893
+],
   "geometry": {"coordinates":[8.655336,47.722893],"type":"Point"}
 }

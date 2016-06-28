@@ -2,13 +2,14 @@
   "id": 185655565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.863083,47.491493,8.863083,47.491493",
     "geom:latitude":47.491493,
     "geom:longitude":8.863083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gewerbe Oberm\u00fchle",
     "sg:city":"Elgg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185655565,
-    "wof:lastmodified":1449007528,
+    "wof:lastmodified":1466210423,
     "wof:name":"W\u00e4lchli Werbung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "articles"
     ]
 },
-  "bbox": [8.863083,47.491493,8.863083,47.491493],
+  "bbox": [
+    8.863083,
+    47.491493,
+    8.863083,
+    47.491493
+],
   "geometry": {"coordinates":[8.863083,47.491493],"type":"Point"}
 }

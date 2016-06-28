@@ -2,13 +2,14 @@
   "id": 219365099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.934595,45.855774,8.934595,45.855774",
     "geom:latitude":45.855774,
     "geom:longitude":8.934595,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Blancherie 61",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219365099,
-    "wof:lastmodified":1449070955,
+    "wof:lastmodified":1466209823,
     "wof:name":"Aptm Sa Impianti Industriali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.934595,45.855774,8.934595,45.855774],
+  "bbox": [
+    8.934595,
+    45.855774,
+    8.934595,
+    45.855774
+],
   "geometry": {"coordinates":[8.934595,45.855774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203069647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529835,47.452572,8.529835,47.452572",
     "geom:latitude":47.452572,
     "geom:longitude":8.529835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 1 8153 R\u00fcmlang. Postfach",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203069647,
-    "wof:lastmodified":1449026163,
+    "wof:lastmodified":1466210518,
     "wof:name":"Ren\u00e9 Bl\u00f6chliger Architekturb\u00fcro",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529835,47.452572,8.529835,47.452572],
+  "bbox": [
+    8.529835,
+    47.452572,
+    8.529835,
+    47.452572
+],
   "geometry": {"coordinates":[8.529835,47.452572],"type":"Point"}
 }

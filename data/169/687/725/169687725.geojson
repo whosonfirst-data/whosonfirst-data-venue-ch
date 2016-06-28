@@ -2,13 +2,14 @@
   "id": 169687725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.641973,46.541645,6.641973,46.541645",
     "geom:latitude":46.541645,
     "geom:longitude":6.641973,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boissonnet Chemin De 82 1010 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169687725,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466210688,
     "wof:name":"Protection S\u00e9curit\u00e9 Grangier Philippe Mat\u00e9riaux Anti-feu; Pose Etc",
     "wof:parent_id":85862347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.641973,46.541645,6.641973,46.541645],
+  "bbox": [
+    6.641973,
+    46.541645,
+    6.641973,
+    46.541645
+],
   "geometry": {"coordinates":[6.641973,46.541645],"type":"Point"}
 }

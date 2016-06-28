@@ -2,13 +2,14 @@
   "id": 186520089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.55975,47.519547,7.55975,47.519547",
     "geom:latitude":47.519547,
     "geom:longitude":7.55975,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Voltastrasse 14",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186520089,
-    "wof:lastmodified":1449051277,
+    "wof:lastmodified":1466211615,
     "wof:name":"Wohnbaugenossenschaft Langegasse Oberwil Alterssiedlungen",
     "wof:parent_id":85799843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.55975,47.519547,7.55975,47.519547],
+  "bbox": [
+    7.55975,
+    47.519547,
+    7.55975,
+    47.519547
+],
   "geometry": {"coordinates":[7.55975,47.519547],"type":"Point"}
 }

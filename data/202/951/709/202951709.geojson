@@ -2,13 +2,14 @@
   "id": 202951709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.299849,47.049919,8.299849,47.049919",
     "geom:latitude":47.049919,
     "geom:longitude":8.299849,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gibraltarstrasse 4",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202951709,
-    "wof:lastmodified":1449060204,
+    "wof:lastmodified":1466212222,
     "wof:name":"Atelier Portmann Architekturb\u00fcro",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.299849,47.049919,8.299849,47.049919],
+  "bbox": [
+    8.299849,
+    47.049919,
+    8.299849,
+    47.049919
+],
   "geometry": {"coordinates":[8.299849,47.049919],"type":"Point"}
 }

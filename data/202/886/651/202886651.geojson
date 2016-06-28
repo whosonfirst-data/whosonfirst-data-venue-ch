@@ -2,13 +2,14 @@
   "id": 202886651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.671762,47.439575,8.671762,47.439575",
     "geom:latitude":47.439575,
     "geom:longitude":8.671762,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tagelswangerstrasse 19 8315 Lindau. Postfach",
     "sg:city":"Lindau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202886651,
-    "wof:lastmodified":1449061507,
+    "wof:lastmodified":1466212072,
     "wof:name":"Geomechanik Ag Dienstleistungen Im Geologischen, Geophysischen U. Geochemischen Bereich Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.671762,47.439575,8.671762,47.439575],
+  "bbox": [
+    8.671762,
+    47.439575,
+    8.671762,
+    47.439575
+],
   "geometry": {"coordinates":[8.671762,47.439575],"type":"Point"}
 }

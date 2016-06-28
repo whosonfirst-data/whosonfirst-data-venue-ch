@@ -2,13 +2,14 @@
   "id": 252768693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.929295,46.992626,6.929295,46.992626",
     "geom:latitude":46.992626,
     "geom:longitude":6.929295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Chavannes 12",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252768693,
-    "wof:lastmodified":1449005825,
+    "wof:lastmodified":1466209532,
     "wof:name":"Sycomore, Soci\u00e9t\u00e9 Anonyme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.929295,46.992626,6.929295,46.992626],
+  "bbox": [
+    6.929295,
+    46.992626,
+    6.929295,
+    46.992626
+],
   "geometry": {"coordinates":[6.929295,46.992626],"type":"Point"}
 }

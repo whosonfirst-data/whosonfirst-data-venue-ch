@@ -2,13 +2,14 @@
   "id": 203039625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.58977,47.414612,8.58977,47.414612",
     "geom:latitude":47.414612,
     "geom:longitude":8.58977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 14",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203039625,
-    "wof:lastmodified":1449026626,
+    "wof:lastmodified":1466209954,
     "wof:name":"Margaroli Architekten",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.58977,47.414612,8.58977,47.414612],
+  "bbox": [
+    8.58977,
+    47.414612,
+    8.58977,
+    47.414612
+],
   "geometry": {"coordinates":[8.58977,47.414612],"type":"Point"}
 }

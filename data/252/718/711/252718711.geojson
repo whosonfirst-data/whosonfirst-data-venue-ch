@@ -2,13 +2,14 @@
   "id": 252718711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.170543,47.379189,8.170543,47.379189",
     "geom:latitude":47.379189,
     "geom:longitude":8.170543,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schr\u00e4gweg 10",
     "sg:city":"Staufen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252718711,
-    "wof:lastmodified":1449005658,
+    "wof:lastmodified":1466209043,
     "wof:name":"Beta Consult Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.170543,47.379189,8.170543,47.379189],
+  "bbox": [
+    8.170543,
+    47.379189,
+    8.170543,
+    47.379189
+],
   "geometry": {"coordinates":[8.170543,47.379189],"type":"Point"}
 }

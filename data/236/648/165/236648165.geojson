@@ -2,13 +2,14 @@
   "id": 236648165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.63031,47.39925,9.63031,47.39925",
     "geom:latitude":47.39925,
     "geom:longitude":9.63031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 2e",
     "sg:city":"Widnau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236648165,
-    "wof:lastmodified":1449002365,
+    "wof:lastmodified":1466212808,
     "wof:name":"E-pack Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cardboard"
     ]
 },
-  "bbox": [9.63031,47.39925,9.63031,47.39925],
+  "bbox": [
+    9.63031,
+    47.39925,
+    9.63031,
+    47.39925
+],
   "geometry": {"coordinates":[9.63031,47.39925],"type":"Point"}
 }

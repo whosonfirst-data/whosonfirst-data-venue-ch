@@ -2,13 +2,14 @@
   "id": 219192477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.156992,46.200924,6.156992,46.200924",
     "geom:latitude":46.200924,
     "geom:longitude":6.156992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Haldimand 5",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219192477,
-    "wof:lastmodified":1449072899,
+    "wof:lastmodified":1466210860,
     "wof:name":"Paschoud Dr Anca S\u00e0rl",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.156992,46.200924,6.156992,46.200924],
+  "bbox": [
+    6.156992,
+    46.200924,
+    6.156992,
+    46.200924
+],
   "geometry": {"coordinates":[6.156992,46.200924],"type":"Point"}
 }

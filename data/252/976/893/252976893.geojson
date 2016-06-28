@@ -2,13 +2,14 @@
   "id": 252976893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455955,46.948517,7.455955,46.948517",
     "geom:latitude":46.948517,
     "geom:longitude":7.455955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Junkerngasse 1",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252976893,
-    "wof:lastmodified":1449005857,
+    "wof:lastmodified":1466211698,
     "wof:name":"Roset (suisse) Sa Mobilier Contemporain",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455955,46.948517,7.455955,46.948517],
+  "bbox": [
+    7.455955,
+    46.948517,
+    7.455955,
+    46.948517
+],
   "geometry": {"coordinates":[7.455955,46.948517],"type":"Point"}
 }

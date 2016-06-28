@@ -2,13 +2,14 @@
   "id": 236295015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.046701,47.412525,8.046701,47.412525",
     "geom:latitude":47.412525,
     "geom:longitude":8.046701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttgasse 8 5024 K\u00fcttigen. Postfach",
     "sg:city":"K\u00fcttigen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236295015,
-    "wof:lastmodified":1449002903,
+    "wof:lastmodified":1466211951,
     "wof:name":"Eroticar Gmbh Fahrten Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.046701,47.412525,8.046701,47.412525],
+  "bbox": [
+    8.046701,
+    47.412525,
+    8.046701,
+    47.412525
+],
   "geometry": {"coordinates":[8.046701,47.412525],"type":"Point"}
 }

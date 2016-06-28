@@ -2,13 +2,14 @@
   "id": 186189761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.945953,45.998783,8.945953,45.998783",
     "geom:latitude":45.998783,
     "geom:longitude":8.945953,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Adamini 10",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186189761,
-    "wof:lastmodified":1449052249,
+    "wof:lastmodified":1466209006,
     "wof:name":"Risacem Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.945953,45.998783,8.945953,45.998783],
+  "bbox": [
+    8.945953,
+    45.998783,
+    8.945953,
+    45.998783
+],
   "geometry": {"coordinates":[8.945953,45.998783],"type":"Point"}
 }

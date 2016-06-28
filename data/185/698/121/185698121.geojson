@@ -2,13 +2,14 @@
   "id": 185698121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.531513,47.362785,8.531513,47.362785",
     "geom:latitude":47.362785,
     "geom:longitude":8.531513,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 41 8002 Z\u00fcrich. Postfach 38",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185698121,
-    "wof:lastmodified":1449008112,
+    "wof:lastmodified":1466211062,
     "wof:name":"Dr.martin L\u00fcscher Advokaturb\u00fcro",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.531513,47.362785,8.531513,47.362785],
+  "bbox": [
+    8.531513,
+    47.362785,
+    8.531513,
+    47.362785
+],
   "geometry": {"coordinates":[8.531513,47.362785],"type":"Point"}
 }

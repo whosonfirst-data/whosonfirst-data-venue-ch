@@ -2,13 +2,14 @@
   "id": 253193743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.347497,47.159603,7.347497,47.159603",
     "geom:latitude":47.159603,
     "geom:longitude":7.347497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 51",
     "sg:city":"Meinisberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253193743,
-    "wof:lastmodified":1449063298,
+    "wof:lastmodified":1466210963,
     "wof:name":"Hermann Kunz B\u00e4ckerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.347497,47.159603,7.347497,47.159603],
+  "bbox": [
+    7.347497,
+    47.159603,
+    7.347497,
+    47.159603
+],
   "geometry": {"coordinates":[7.347497,47.159603],"type":"Point"}
 }

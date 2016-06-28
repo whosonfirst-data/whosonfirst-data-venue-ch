@@ -2,13 +2,14 @@
   "id": 186612763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.887855,47.349506,7.887855,47.349506",
     "geom:latitude":47.349506,
     "geom:longitude":7.887855,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hombergstrasse 48",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186612763,
-    "wof:lastmodified":1449051564,
+    "wof:lastmodified":1466212132,
     "wof:name":"Vpod-gruppe Olten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.887855,47.349506,7.887855,47.349506],
+  "bbox": [
+    7.887855,
+    47.349506,
+    7.887855,
+    47.349506
+],
   "geometry": {"coordinates":[7.887855,47.349506],"type":"Point"}
 }

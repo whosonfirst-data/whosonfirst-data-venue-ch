@@ -2,13 +2,14 @@
   "id": 203173285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.003893,47.153793,7.003893,47.153793",
     "geom:latitude":47.153793,
     "geom:longitude":7.003893,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L'envers 19",
     "sg:city":"St-imier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203173285,
-    "wof:lastmodified":1449025297,
+    "wof:lastmodified":1466209175,
     "wof:name":"Dr M\u00e9d. Francis Saurer M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.003893,47.153793,7.003893,47.153793],
+  "bbox": [
+    7.003893,
+    47.153793,
+    7.003893,
+    47.153793
+],
   "geometry": {"coordinates":[7.003893,47.153793],"type":"Point"}
 }

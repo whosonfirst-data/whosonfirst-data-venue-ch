@@ -2,13 +2,14 @@
   "id": 220127019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.872145,46.833874,7.872145,46.833874",
     "geom:latitude":46.833874,
     "geom:longitude":7.872145,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldh\u00f6he",
     "sg:city":"Schangnau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220127019,
-    "wof:lastmodified":1449074811,
+    "wof:lastmodified":1466209971,
     "wof:name":"Paul Gerber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.872145,46.833874,7.872145,46.833874],
+  "bbox": [
+    7.872145,
+    46.833874,
+    7.872145,
+    46.833874
+],
   "geometry": {"coordinates":[7.872145,46.833874],"type":"Point"}
 }

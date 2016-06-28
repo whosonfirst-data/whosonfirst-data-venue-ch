@@ -2,13 +2,14 @@
   "id": 236459189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.248717,47.140198,7.248717,47.140198",
     "geom:latitude":47.140198,
     "geom:longitude":7.248717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Graben 15 5000 Aarau. Postfach",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236459189,
-    "wof:lastmodified":1449002909,
+    "wof:lastmodified":1466212438,
     "wof:name":"Stadtbibliothek Biel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.248717,47.140198,7.248717,47.140198],
+  "bbox": [
+    7.248717,
+    47.140198,
+    7.248717,
+    47.140198
+],
   "geometry": {"coordinates":[7.248717,47.140198],"type":"Point"}
 }

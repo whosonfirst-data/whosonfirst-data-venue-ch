@@ -2,13 +2,14 @@
   "id": 186135035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.026466,46.358593,7.026466,46.358593",
     "geom:latitude":46.358593,
     "geom:longitude":7.026466,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"En Esserts 1854 Leysin Case Postale 218",
     "sg:city":"Leysin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186135035,
-    "wof:lastmodified":1449051405,
+    "wof:lastmodified":1466211306,
     "wof:name":"Lietta Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.026466,46.358593,7.026466,46.358593],
+  "bbox": [
+    7.026466,
+    46.358593,
+    7.026466,
+    46.358593
+],
   "geometry": {"coordinates":[7.026466,46.358593],"type":"Point"}
 }

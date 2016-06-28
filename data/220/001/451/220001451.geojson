@@ -2,13 +2,14 @@
   "id": 220001451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.368945,47.515671,8.368945,47.515671",
     "geom:latitude":47.515671,
     "geom:longitude":8.368945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcnikerstrasse 19",
     "sg:city":"Schneisingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220001451,
-    "wof:lastmodified":1449074225,
+    "wof:lastmodified":1466208891,
     "wof:name":"August Meier Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.368945,47.515671,8.368945,47.515671],
+  "bbox": [
+    8.368945,
+    47.515671,
+    8.368945,
+    47.515671
+],
   "geometry": {"coordinates":[8.368945,47.515671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202410145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.418508,47.503094,8.418508,47.503094",
     "geom:latitude":47.503094,
     "geom:longitude":8.418508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Winkel 8 8165 Sch\u00f6fflisdorf. Postfach",
     "sg:city":"Sch\u00f6fflisdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202410145,
-    "wof:lastmodified":1449060140,
+    "wof:lastmodified":1466209873,
     "wof:name":"Bickel Walter Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.418508,47.503094,8.418508,47.503094],
+  "bbox": [
+    8.418508,
+    47.503094,
+    8.418508,
+    47.503094
+],
   "geometry": {"coordinates":[8.418508,47.503094],"type":"Point"}
 }

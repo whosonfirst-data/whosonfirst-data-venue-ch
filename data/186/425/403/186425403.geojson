@@ -2,13 +2,14 @@
   "id": 186425403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.291154,47.356606,7.291154,47.356606",
     "geom:latitude":47.356606,
     "geom:longitude":7.291154,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Tilleuls 1",
     "sg:city":"Develier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186425403,
-    "wof:lastmodified":1449051340,
+    "wof:lastmodified":1466210805,
     "wof:name":"Auguste Zamboni Entreprise De B\u00e2timent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.291154,47.356606,7.291154,47.356606],
+  "bbox": [
+    7.291154,
+    47.356606,
+    7.291154,
+    47.356606
+],
   "geometry": {"coordinates":[7.291154,47.356606],"type":"Point"}
 }

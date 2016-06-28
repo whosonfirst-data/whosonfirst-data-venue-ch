@@ -2,13 +2,14 @@
   "id": 202397159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.179042,47.255398,8.179042,47.255398",
     "geom:latitude":47.255398,
     "geom:longitude":8.179042,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 29 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202397159,
-    "wof:lastmodified":1449061127,
+    "wof:lastmodified":1466209699,
     "wof:name":"Basis Pro Domo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.179042,47.255398,8.179042,47.255398],
+  "bbox": [
+    8.179042,
+    47.255398,
+    8.179042,
+    47.255398
+],
   "geometry": {"coordinates":[8.179042,47.255398],"type":"Point"}
 }

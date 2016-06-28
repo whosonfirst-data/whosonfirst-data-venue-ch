@@ -2,13 +2,14 @@
   "id": 253163371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.23952,46.383018,6.23952,46.383018",
     "geom:latitude":46.383018,
     "geom:longitude":6.23952,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue St-jean 30",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253163371,
-    "wof:lastmodified":1449065742,
+    "wof:lastmodified":1466210674,
     "wof:name":"Cuendet Jean-louis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.23952,46.383018,6.23952,46.383018],
+  "bbox": [
+    6.23952,
+    46.383018,
+    6.23952,
+    46.383018
+],
   "geometry": {"coordinates":[6.23952,46.383018],"type":"Point"}
 }

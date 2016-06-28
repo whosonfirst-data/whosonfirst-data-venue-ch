@@ -2,13 +2,14 @@
   "id": 169689749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.104725,46.16806,6.104725,46.16806",
     "geom:latitude":46.16806,
     "geom:longitude":6.104725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Peillonex Rue 39 1225 Ch\u00eane-bourg Case Postale 143",
     "sg:city":"Ch\u00eane-bourg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169689749,
-    "wof:lastmodified":1449035409,
+    "wof:lastmodified":1466210712,
     "wof:name":"Liaisons Electroniques-m\u00e9caniques Lem Sa",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.104725,46.16806,6.104725,46.16806],
+  "bbox": [
+    6.104725,
+    46.16806,
+    6.104725,
+    46.16806
+],
   "geometry": {"coordinates":[6.104725,46.16806],"type":"Point"}
 }

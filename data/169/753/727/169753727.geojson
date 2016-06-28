@@ -2,13 +2,14 @@
   "id": 169753727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.151593,46.251709,6.151593,46.251709",
     "geom:latitude":46.251709,
     "geom:longitude":6.151593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eigerstrasse 46 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169753727,
-    "wof:lastmodified":1449033070,
+    "wof:lastmodified":1466211381,
     "wof:name":"Algeria Embassy",
     "wof:parent_id":85897669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [6.151593,46.251709,6.151593,46.251709],
+  "bbox": [
+    6.151593,
+    46.251709,
+    6.151593,
+    46.251709
+],
   "geometry": {"coordinates":[6.151593,46.251709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202536793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.432158,47.390545,8.432158,47.390545",
     "geom:latitude":47.390545,
     "geom:longitude":8.432158,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 11c",
     "sg:city":"Urdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202536793,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466209066,
     "wof:name":"Heinz Brenner Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.432158,47.390545,8.432158,47.390545],
+  "bbox": [
+    8.432158,
+    47.390545,
+    8.432158,
+    47.390545
+],
   "geometry": {"coordinates":[8.432158,47.390545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253410203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54525,47.374603,8.54525,47.374603",
     "geom:latitude":47.374603,
     "geom:longitude":8.54525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegasse 29",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253410203,
-    "wof:lastmodified":1449062860,
+    "wof:lastmodified":1466212321,
     "wof:name":"Portable Shop Z\u00fcrich Mobile Computer",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54525,47.374603,8.54525,47.374603],
+  "bbox": [
+    8.54525,
+    47.374603,
+    8.54525,
+    47.374603
+],
   "geometry": {"coordinates":[8.54525,47.374603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252879631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.946766,50.295719,1.946766,50.295719",
     "geom:latitude":50.295719,
     "geom:longitude":1.946766,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugasse 24",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252879631,
-    "wof:lastmodified":1449005418,
+    "wof:lastmodified":1466210766,
     "wof:name":"Wutrich Mme.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.946766,50.295719,1.946766,50.295719],
+  "bbox": [
+    1.946766,
+    50.295719,
+    1.946766,
+    50.295719
+],
   "geometry": {"coordinates":[1.946766,50.295719],"type":"Point"}
 }

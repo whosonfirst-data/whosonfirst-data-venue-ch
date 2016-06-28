@@ -2,13 +2,14 @@
   "id": 236486405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.317502,47.047199,8.317502,47.047199",
     "geom:latitude":47.047199,
     "geom:longitude":8.317502,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenquai 11",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236486405,
-    "wof:lastmodified":1449003504,
+    "wof:lastmodified":1466212497,
     "wof:name":"St. Niklausen-schiffgesellschaft",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.317502,47.047199,8.317502,47.047199],
+  "bbox": [
+    8.317502,
+    47.047199,
+    8.317502,
+    47.047199
+],
   "geometry": {"coordinates":[8.317502,47.047199],"type":"Point"}
 }

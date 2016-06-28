@@ -2,13 +2,14 @@
   "id": 202560319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.42379,47.5215,9.42379,47.5215",
     "geom:latitude":47.5215,
     "geom:longitude":9.42379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seemoosholzstrasse 22",
     "sg:city":"Arbon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202560319,
-    "wof:lastmodified":1449062056,
+    "wof:lastmodified":1466209293,
     "wof:name":"Ingenieurb\u00fcro Bww Wietasch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.42379,47.5215,9.42379,47.5215],
+  "bbox": [
+    9.42379,
+    47.5215,
+    9.42379,
+    47.5215
+],
   "geometry": {"coordinates":[9.42379,47.5215],"type":"Point"}
 }

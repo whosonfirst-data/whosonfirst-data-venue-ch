@@ -2,13 +2,14 @@
   "id": 186557223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.615415,47.510403,7.615415,47.510403",
     "geom:latitude":47.510403,
     "geom:longitude":7.615415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aliothstrasse 40",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186557223,
-    "wof:lastmodified":1449052271,
+    "wof:lastmodified":1466211894,
     "wof:name":"Max Bachmann",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.615415,47.510403,7.615415,47.510403],
+  "bbox": [
+    7.615415,
+    47.510403,
+    7.615415,
+    47.510403
+],
   "geometry": {"coordinates":[7.615415,47.510403],"type":"Point"}
 }

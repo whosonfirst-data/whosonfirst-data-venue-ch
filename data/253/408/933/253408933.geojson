@@ -2,13 +2,14 @@
   "id": 253408933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.500161,47.483425,7.500161,47.483425",
     "geom:latitude":47.483425,
     "geom:longitude":7.500161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstetterstrasse 16",
     "sg:city":"Fl\u00fch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253408933,
-    "wof:lastmodified":1449063186,
+    "wof:lastmodified":1466212316,
     "wof:name":"Deckert Informatik Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.500161,47.483425,7.500161,47.483425],
+  "bbox": [
+    7.500161,
+    47.483425,
+    7.500161,
+    47.483425
+],
   "geometry": {"coordinates":[7.500161,47.483425],"type":"Point"}
 }

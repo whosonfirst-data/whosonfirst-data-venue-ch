@@ -2,13 +2,14 @@
   "id": 186095791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.198746,47.293579,8.198746,47.293579",
     "geom:latitude":47.293579,
     "geom:longitude":8.198746,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seetalstr. 175 5708 Birrwil. Postfach",
     "sg:city":"Birrwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186095791,
-    "wof:lastmodified":1449051734,
+    "wof:lastmodified":1466210834,
     "wof:name":"Hans Gloor Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.198746,47.293579,8.198746,47.293579],
+  "bbox": [
+    8.198746,
+    47.293579,
+    8.198746,
+    47.293579
+],
   "geometry": {"coordinates":[8.198746,47.293579],"type":"Point"}
 }

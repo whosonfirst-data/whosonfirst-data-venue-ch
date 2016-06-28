@@ -2,13 +2,14 @@
   "id": 236590091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544484,47.375008,8.544484,47.375008",
     "geom:latitude":47.375008,
     "geom:longitude":8.544484,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00e4hringerstr. 21",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236590091,
-    "wof:lastmodified":1449003643,
+    "wof:lastmodified":1466212662,
     "wof:name":"Hotel Z\u00dcrcherhof",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "restaurant"
     ]
 },
-  "bbox": [8.544484,47.375008,8.544484,47.375008],
+  "bbox": [
+    8.544484,
+    47.375008,
+    8.544484,
+    47.375008
+],
   "geometry": {"coordinates":[8.544484,47.375008],"type":"Point"}
 }

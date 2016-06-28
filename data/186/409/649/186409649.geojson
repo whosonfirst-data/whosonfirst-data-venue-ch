@@ -2,13 +2,14 @@
   "id": 186409649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.524322,47.211609,7.524322,47.211609",
     "geom:latitude":47.211609,
     "geom:longitude":7.524322,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 102 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186409649,
-    "wof:lastmodified":1449051479,
+    "wof:lastmodified":1466210673,
     "wof:name":"Marti Ag Solothurn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.524322,47.211609,7.524322,47.211609],
+  "bbox": [
+    7.524322,
+    47.211609,
+    7.524322,
+    47.211609
+],
   "geometry": {"coordinates":[7.524322,47.211609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252719583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.503308,47.560612,8.503308,47.560612",
     "geom:latitude":47.560612,
     "geom:longitude":8.503308,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sunneweg 5",
     "sg:city":"Glattfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252719583,
-    "wof:lastmodified":1449005545,
+    "wof:lastmodified":1466209052,
     "wof:name":"Merki Und Henseler Treuhand Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.503308,47.560612,8.503308,47.560612],
+  "bbox": [
+    8.503308,
+    47.560612,
+    8.503308,
+    47.560612
+],
   "geometry": {"coordinates":[8.503308,47.560612],"type":"Point"}
 }

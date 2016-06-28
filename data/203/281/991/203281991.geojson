@@ -2,13 +2,14 @@
   "id": 203281991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.442146,46.947948,7.442146,46.947948",
     "geom:latitude":46.947948,
     "geom:longitude":7.442146,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 27",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203281991,
-    "wof:lastmodified":1449026557,
+    "wof:lastmodified":1466210355,
     "wof:name":"Dr.med.beat Herrmann Spezialarzt Fmh",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.442146,46.947948,7.442146,46.947948],
+  "bbox": [
+    7.442146,
+    46.947948,
+    7.442146,
+    46.947948
+],
   "geometry": {"coordinates":[7.442146,46.947948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236590559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.506694,46.845875,9.506694,46.845875",
     "geom:latitude":46.845875,
     "geom:longitude":9.506694,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Emserstr 4",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236590559,
-    "wof:lastmodified":1449003645,
+    "wof:lastmodified":1466212664,
     "wof:name":"Hotel Sommerau Ag Chur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "restaurant"
     ]
 },
-  "bbox": [9.506694,46.845875,9.506694,46.845875],
+  "bbox": [
+    9.506694,
+    46.845875,
+    9.506694,
+    46.845875
+],
   "geometry": {"coordinates":[9.506694,46.845875],"type":"Point"}
 }

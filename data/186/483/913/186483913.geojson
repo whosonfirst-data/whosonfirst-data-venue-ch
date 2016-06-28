@@ -2,13 +2,14 @@
   "id": 186483913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.197629,46.972557,7.197629,46.972557",
     "geom:latitude":46.972557,
     "geom:longitude":7.197629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 16",
     "sg:city":"Kerzers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186483913,
-    "wof:lastmodified":1449052437,
+    "wof:lastmodified":1466211298,
     "wof:name":"Alters-& Wohnheim Kerzers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [7.197629,46.972557,7.197629,46.972557],
+  "bbox": [
+    7.197629,
+    46.972557,
+    7.197629,
+    46.972557
+],
   "geometry": {"coordinates":[7.197629,46.972557],"type":"Point"}
 }

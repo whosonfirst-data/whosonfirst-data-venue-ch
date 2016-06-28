@@ -2,13 +2,14 @@
   "id": 186166875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.165147,47.341076,8.165147,47.341076",
     "geom:latitude":47.341076,
     "geom:longitude":8.165147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichbergweg 30",
     "sg:city":"Seon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186166875,
-    "wof:lastmodified":1449051880,
+    "wof:lastmodified":1466211561,
     "wof:name":"P + B Wernli Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.165147,47.341076,8.165147,47.341076],
+  "bbox": [
+    8.165147,
+    47.341076,
+    8.165147,
+    47.341076
+],
   "geometry": {"coordinates":[8.165147,47.341076],"type":"Point"}
 }

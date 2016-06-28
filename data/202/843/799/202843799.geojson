@@ -2,13 +2,14 @@
   "id": 202843799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574608,47.531338,7.574608,47.531338",
     "geom:latitude":47.531338,
     "geom:longitude":7.574608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Claridenstrasse 20",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202843799,
-    "wof:lastmodified":1449060339,
+    "wof:lastmodified":1466211748,
     "wof:name":"Max Schumacher Architektur + Verwaltung Ag",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.574608,47.531338,7.574608,47.531338],
+  "bbox": [
+    7.574608,
+    47.531338,
+    7.574608,
+    47.531338
+],
   "geometry": {"coordinates":[7.574608,47.531338],"type":"Point"}
 }

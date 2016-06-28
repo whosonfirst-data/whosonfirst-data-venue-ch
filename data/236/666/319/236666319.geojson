@@ -2,13 +2,14 @@
   "id": 236666319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.694039,47.524361,7.694039,47.524361",
     "geom:latitude":47.524361,
     "geom:longitude":7.694039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gallenweg 17",
     "sg:city":"Pratteln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236666319,
-    "wof:lastmodified":1449002737,
+    "wof:lastmodified":1466212772,
     "wof:name":"Wws Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [7.694039,47.524361,7.694039,47.524361],
+  "bbox": [
+    7.694039,
+    47.524361,
+    7.694039,
+    47.524361
+],
   "geometry": {"coordinates":[7.694039,47.524361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220108039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.351747,47.124123,8.351747,47.124123",
     "geom:latitude":47.124123,
     "geom:longitude":8.351747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctli 4",
     "sg:city":"Inwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220108039,
-    "wof:lastmodified":1449074081,
+    "wof:lastmodified":1466209808,
     "wof:name":"Jud Markus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.351747,47.124123,8.351747,47.124123],
+  "bbox": [
+    8.351747,
+    47.124123,
+    8.351747,
+    47.124123
+],
   "geometry": {"coordinates":[8.351747,47.124123],"type":"Point"}
 }

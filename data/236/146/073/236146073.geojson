@@ -2,13 +2,14 @@
   "id": 236146073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.844055,46.683201,7.844055,46.683201",
     "geom:latitude":46.683201,
     "geom:longitude":7.844055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 44",
     "sg:city":"Unterseen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236146073,
-    "wof:lastmodified":1449002937,
+    "wof:lastmodified":1466210217,
     "wof:name":"Kurheim Mon Bijou",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.844055,46.683201,7.844055,46.683201],
+  "bbox": [
+    7.844055,
+    46.683201,
+    7.844055,
+    46.683201
+],
   "geometry": {"coordinates":[7.844055,46.683201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219601015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.981076,46.312283,7.981076,46.312283",
     "geom:latitude":46.312283,
     "geom:longitude":7.981076,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gliserallee 119",
     "sg:city":"Glis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219601015,
-    "wof:lastmodified":1449071974,
+    "wof:lastmodified":1466211921,
     "wof:name":"Raiffeisenbank Brig-glis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.981076,46.312283,7.981076,46.312283],
+  "bbox": [
+    7.981076,
+    46.312283,
+    7.981076,
+    46.312283
+],
   "geometry": {"coordinates":[7.981076,46.312283],"type":"Point"}
 }

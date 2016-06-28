@@ -2,13 +2,14 @@
   "id": 202536985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.442121,47.403786,8.442121,47.403786",
     "geom:latitude":47.403786,
     "geom:longitude":8.442121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrstrasse 27",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202536985,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466209068,
     "wof:name":"Heitech Engineering & Service Eichenberger H.",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.442121,47.403786,8.442121,47.403786],
+  "bbox": [
+    8.442121,
+    47.403786,
+    8.442121,
+    47.403786
+],
   "geometry": {"coordinates":[8.442121,47.403786],"type":"Point"}
 }

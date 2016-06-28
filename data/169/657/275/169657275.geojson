@@ -2,13 +2,14 @@
   "id": 169657275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.646473,46.76495,6.646473,46.76495",
     "geom:latitude":46.76495,
     "geom:longitude":6.646473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Galil\u00e9e 9",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169657275,
-    "wof:lastmodified":1449033048,
+    "wof:lastmodified":1466210232,
     "wof:name":"Clipso S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "covering"
     ]
 },
-  "bbox": [6.646473,46.76495,6.646473,46.76495],
+  "bbox": [
+    6.646473,
+    46.76495,
+    6.646473,
+    46.76495
+],
   "geometry": {"coordinates":[6.646473,46.76495],"type":"Point"}
 }

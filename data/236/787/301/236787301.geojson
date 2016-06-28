@@ -2,13 +2,14 @@
   "id": 236787301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.456962,47.439865,8.456962,47.439865",
     "geom:latitude":47.439865,
     "geom:longitude":8.456962,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moos\u00e4ckerstr. 71",
     "sg:city":"Regensdorf",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236787301,
-    "wof:lastmodified":1449003084,
+    "wof:lastmodified":1466212989,
     "wof:name":"Richard Schiess Ag",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [8.456962,47.439865,8.456962,47.439865],
+  "bbox": [
+    8.456962,
+    47.439865,
+    8.456962,
+    47.439865
+],
   "geometry": {"coordinates":[8.456962,47.439865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202581591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.599976,47.55019,7.599976,47.55019",
     "geom:latitude":47.55019,
     "geom:longitude":7.599976,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Engelgasse 28",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202581591,
-    "wof:lastmodified":1449060654,
+    "wof:lastmodified":1466209488,
     "wof:name":"J&r Enterprise Services Gmbh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.599976,47.55019,7.599976,47.55019],
+  "bbox": [
+    7.599976,
+    47.55019,
+    7.599976,
+    47.55019
+],
   "geometry": {"coordinates":[7.599976,47.55019],"type":"Point"}
 }

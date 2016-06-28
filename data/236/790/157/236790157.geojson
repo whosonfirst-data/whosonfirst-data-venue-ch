@@ -2,13 +2,14 @@
   "id": 236790157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.973755,40.4305,-75.973755,40.4305",
     "geom:latitude":40.4305,
     "geom:longitude":-75.973755,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industrie Stelz",
     "sg:city":"Rickenbach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236790157,
-    "wof:lastmodified":1449004322,
+    "wof:lastmodified":1466212890,
     "wof:name":"Bollhalder Autokran Ag",
     "wof:parent_id":85844465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "crane"
     ]
 },
-  "bbox": [-75.973755,40.4305,-75.973755,40.4305],
+  "bbox": [
+    -75.973755,
+    40.4305,
+    -75.973755,
+    40.4305
+],
   "geometry": {"coordinates":[-75.973755,40.4305],"type":"Point"}
 }

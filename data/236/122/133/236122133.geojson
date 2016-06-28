@@ -2,13 +2,14 @@
   "id": 236122133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.254763,47.090595,8.254763,47.090595",
     "geom:latitude":47.090595,
     "geom:longitude":8.254763,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buzibachstrasse 40",
     "sg:city":"Rothenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236122133,
-    "wof:lastmodified":1449003537,
+    "wof:lastmodified":1466209989,
     "wof:name":"Wey Josef Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.254763,47.090595,8.254763,47.090595],
+  "bbox": [
+    8.254763,
+    47.090595,
+    8.254763,
+    47.090595
+],
   "geometry": {"coordinates":[8.254763,47.090595],"type":"Point"}
 }

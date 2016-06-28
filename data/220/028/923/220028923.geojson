@@ -2,13 +2,14 @@
   "id": 220028923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.849782,47.096561,7.849782,47.096561",
     "geom:latitude":47.096561,
     "geom:longitude":7.849782,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tsch\u00e4ppel",
     "sg:city":"Huttwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220028923,
-    "wof:lastmodified":1449074488,
+    "wof:lastmodified":1466209121,
     "wof:name":"Markus Fischer Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.849782,47.096561,7.849782,47.096561],
+  "bbox": [
+    7.849782,
+    47.096561,
+    7.849782,
+    47.096561
+],
   "geometry": {"coordinates":[7.849782,47.096561],"type":"Point"}
 }

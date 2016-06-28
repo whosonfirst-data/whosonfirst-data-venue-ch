@@ -2,13 +2,14 @@
   "id": 203015363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448898,46.947857,7.448898,46.947857",
     "geom:latitude":46.947857,
     "geom:longitude":7.448898,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchbergstrasse 105",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203015363,
-    "wof:lastmodified":1449025369,
+    "wof:lastmodified":1466209528,
     "wof:name":"Iaag Architekten Architekturb\u00fcro",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448898,46.947857,7.448898,46.947857],
+  "bbox": [
+    7.448898,
+    46.947857,
+    7.448898,
+    46.947857
+],
   "geometry": {"coordinates":[7.448898,46.947857],"type":"Point"}
 }

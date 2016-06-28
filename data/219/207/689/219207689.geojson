@@ -2,13 +2,14 @@
   "id": 219207689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.590342,47.477123,7.590342,47.477123",
     "geom:latitude":47.477123,
     "geom:longitude":7.590342,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langenhagstrasse 1",
     "sg:city":"Aesch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219207689,
-    "wof:lastmodified":1449072864,
+    "wof:lastmodified":1466211023,
     "wof:name":"V\u00f6gtlin Instruments Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electric"
     ]
 },
-  "bbox": [7.590342,47.477123,7.590342,47.477123],
+  "bbox": [
+    7.590342,
+    47.477123,
+    7.590342,
+    47.477123
+],
   "geometry": {"coordinates":[7.590342,47.477123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202815453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.817846,47.096912,6.817846,47.096912",
     "geom:latitude":47.096912,
     "geom:longitude":6.817846,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Riedelet 4",
     "sg:city":"Marly",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202815453,
-    "wof:lastmodified":1449061362,
+    "wof:lastmodified":1466211652,
     "wof:name":"Claude Fornachon Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.817846,47.096912,6.817846,47.096912],
+  "bbox": [
+    6.817846,
+    47.096912,
+    6.817846,
+    47.096912
+],
   "geometry": {"coordinates":[6.817846,47.096912],"type":"Point"}
 }

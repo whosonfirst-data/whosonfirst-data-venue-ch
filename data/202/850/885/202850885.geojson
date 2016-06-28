@@ -2,13 +2,14 @@
   "id": 202850885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.466639,46.906326,7.466639,46.906326",
     "geom:latitude":46.906326,
     "geom:longitude":7.466639,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagwiesenstrasse 13",
     "sg:city":"Kehrsatz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202850885,
-    "wof:lastmodified":1449061580,
+    "wof:lastmodified":1466211783,
     "wof:name":"Per Planer Gmbh",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.466639,46.906326,7.466639,46.906326],
+  "bbox": [
+    7.466639,
+    46.906326,
+    7.466639,
+    46.906326
+],
   "geometry": {"coordinates":[7.466639,46.906326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185806029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.445708,46.617802,10.445708,46.617802",
     "geom:latitude":46.617802,
     "geom:longitude":10.445708,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pal\u00fc Daint",
     "sg:city":"M\u00fcstair",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185806029,
-    "wof:lastmodified":1449006593,
+    "wof:lastmodified":1466209162,
     "wof:name":"Li & Co Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cork"
     ]
 },
-  "bbox": [10.445708,46.617802,10.445708,46.617802],
+  "bbox": [
+    10.445708,
+    46.617802,
+    10.445708,
+    46.617802
+],
   "geometry": {"coordinates":[10.445708,46.617802],"type":"Point"}
 }

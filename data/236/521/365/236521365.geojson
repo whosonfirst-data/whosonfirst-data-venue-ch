@@ -2,13 +2,14 @@
   "id": 236521365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43823,46.97039,7.43823,46.97039",
     "geom:latitude":46.97039,
     "geom:longitude":7.43823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollstrasse 27",
     "sg:city":"Vaduz",
     "sg:classifiers":[],
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":236521365,
-    "wof:lastmodified":1449005054,
+    "wof:lastmodified":1466212486,
     "wof:name":"Paul Stahlberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43823,46.97039,7.43823,46.97039],
+  "bbox": [
+    7.43823,
+    46.97039,
+    7.43823,
+    46.97039
+],
   "geometry": {"coordinates":[7.43823,46.97039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235989471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.688286,30.150234,-96.688286,30.150234",
     "geom:latitude":30.150234,
     "geom:longitude":-96.688286,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchackerweg 31",
     "sg:city":"Kehrsatz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235989471,
-    "wof:lastmodified":1449008504,
+    "wof:lastmodified":1466209421,
     "wof:name":"H. Schuwey & S\u00f6hne Ag Chalet-bau Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.688286,30.150234,-96.688286,30.150234],
-  "geometry": {"coordinates":[-96.688286,30.150234],"type":"Point"}
+  "bbox": [
+    -96.688286,
+    30.150234,
+    -96.688286,
+    30.150234
+],
+  "geometry": {"coordinates":[-96.68828600000001,30.150234],"type":"Point"}
 }

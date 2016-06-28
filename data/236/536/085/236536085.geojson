@@ -2,13 +2,14 @@
   "id": 236536085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.622429,47.685593,8.622429,47.685593",
     "geom:latitude":47.685593,
     "geom:longitude":8.622429,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Toggenburgerstrasse 104",
     "sg:city":"Wil",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236536085,
-    "wof:lastmodified":1449003648,
+    "wof:lastmodified":1466212574,
     "wof:name":"Felix Harzenmoser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [8.622429,47.685593,8.622429,47.685593],
+  "bbox": [
+    8.622429,
+    47.685593,
+    8.622429,
+    47.685593
+],
   "geometry": {"coordinates":[8.622429,47.685593],"type":"Point"}
 }

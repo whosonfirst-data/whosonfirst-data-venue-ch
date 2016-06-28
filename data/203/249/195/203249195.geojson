@@ -2,13 +2,14 @@
   "id": 203249195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.026748,47.212967,9.026748,47.212967",
     "geom:latitude":47.212967,
     "geom:longitude":9.026748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 5",
     "sg:city":"Kaltbrunn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203249195,
-    "wof:lastmodified":1449025052,
+    "wof:lastmodified":1466210008,
     "wof:name":"Dr.med. Hedi Meierhans \u00c4rztin F.allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.026748,47.212967,9.026748,47.212967],
+  "bbox": [
+    9.026748,
+    47.212967,
+    9.026748,
+    47.212967
+],
   "geometry": {"coordinates":[9.026748,47.212967],"type":"Point"}
 }

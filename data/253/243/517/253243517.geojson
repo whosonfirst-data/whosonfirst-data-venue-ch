@@ -2,13 +2,14 @@
   "id": 253243517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.266775,47.152721,7.266775,47.152721",
     "geom:latitude":47.152721,
     "geom:longitude":7.266775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6zingenstrasse 181 2500 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253243517,
-    "wof:lastmodified":1449063786,
+    "wof:lastmodified":1466211420,
     "wof:name":"Rihs & Pauli, B\u00e4ckerei-konditorei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.266775,47.152721,7.266775,47.152721],
+  "bbox": [
+    7.266775,
+    47.152721,
+    7.266775,
+    47.152721
+],
   "geometry": {"coordinates":[7.266775,47.152721],"type":"Point"}
 }

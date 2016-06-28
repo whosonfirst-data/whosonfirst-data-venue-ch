@@ -2,13 +2,14 @@
   "id": 169792377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.871039,47.606812,8.871039,47.606812",
     "geom:latitude":47.606812,
     "geom:longitude":8.871039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenplatz 2",
     "sg:city":"H\u00fcttwilen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169792377,
-    "wof:lastmodified":1449033392,
+    "wof:lastmodified":1466209012,
     "wof:name":"Navisoft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.871039,47.606812,8.871039,47.606812],
+  "bbox": [
+    8.871039,
+    47.606812,
+    8.871039,
+    47.606812
+],
   "geometry": {"coordinates":[8.871039,47.606812],"type":"Point"}
 }

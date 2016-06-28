@@ -2,13 +2,14 @@
   "id": 185601457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.839525,46.575287,6.839525,46.575287",
     "geom:latitude":46.575287,
     "geom:longitude":6.839525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Oron-le-ch\u00e2tel. Postfach",
     "sg:city":"Oron-le-ch\u00e2tel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185601457,
-    "wof:lastmodified":1449007334,
+    "wof:lastmodified":1466208935,
     "wof:name":"Corboz-dewarrat Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.839525,46.575287,6.839525,46.575287],
+  "bbox": [
+    6.839525,
+    46.575287,
+    6.839525,
+    46.575287
+],
   "geometry": {"coordinates":[6.839525,46.575287],"type":"Point"}
 }

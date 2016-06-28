@@ -2,13 +2,14 @@
   "id": 202653507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.33737,46.979565,8.33737,46.979565",
     "geom:latitude":46.979565,
     "geom:longitude":8.33737,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 6",
     "sg:city":"Stansstad",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202653507,
-    "wof:lastmodified":1449060294,
+    "wof:lastmodified":1466210157,
     "wof:name":"Pan San Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.33737,46.979565,8.33737,46.979565],
+  "bbox": [
+    8.33737,
+    46.979565,
+    8.33737,
+    46.979565
+],
   "geometry": {"coordinates":[8.33737,46.979565],"type":"Point"}
 }

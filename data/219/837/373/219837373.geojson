@@ -2,13 +2,14 @@
   "id": 219837373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.958364,46.021351,8.958364,46.021351",
     "geom:latitude":46.021351,
     "geom:longitude":8.958364,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trevano 93",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219837373,
-    "wof:lastmodified":1449070937,
+    "wof:lastmodified":1466212535,
     "wof:name":"Bar-pizzeria Stadio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.958364,46.021351,8.958364,46.021351],
+  "bbox": [
+    8.958364,
+    46.021351,
+    8.958364,
+    46.021351
+],
   "geometry": {"coordinates":[8.958364,46.021351],"type":"Point"}
 }

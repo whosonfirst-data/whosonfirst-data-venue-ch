@@ -2,13 +2,14 @@
   "id": 252896539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.080012,47.401745,8.080012,47.401745",
     "geom:latitude":47.401745,
     "geom:longitude":8.080012,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schluchtbachstrasse 1",
     "sg:city":"Derendingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252896539,
-    "wof:lastmodified":1449005808,
+    "wof:lastmodified":1466210944,
     "wof:name":"Mode Figura Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.080012,47.401745,8.080012,47.401745],
+  "bbox": [
+    8.080012,
+    47.401745,
+    8.080012,
+    47.401745
+],
   "geometry": {"coordinates":[8.080012,47.401745],"type":"Point"}
 }

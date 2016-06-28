@@ -2,13 +2,14 @@
   "id": 203338901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.190138,47.415916,9.190138,47.415916",
     "geom:latitude":47.415916,
     "geom:longitude":9.190138,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4ntisstrasse 10",
     "sg:city":"Flawil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203338901,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466210918,
     "wof:name":"Dr.med.hansueli Hofer Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.190138,47.415916,9.190138,47.415916],
+  "bbox": [
+    9.190138,
+    47.415916,
+    9.190138,
+    47.415916
+],
   "geometry": {"coordinates":[9.190138,47.415916],"type":"Point"}
 }

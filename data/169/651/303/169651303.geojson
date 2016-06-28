@@ -2,13 +2,14 @@
   "id": 169651303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.208681,47.482105,8.208681,47.482105",
     "geom:latitude":47.482105,
     "geom:longitude":8.208681,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Z\u00fcrcherstrasse 18",
     "sg:city":"Brugg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169651303,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466210109,
     "wof:name":"Microbeads Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blast"
     ]
 },
-  "bbox": [8.208681,47.482105,8.208681,47.482105],
+  "bbox": [
+    8.208681,
+    47.482105,
+    8.208681,
+    47.482105
+],
   "geometry": {"coordinates":[8.208681,47.482105],"type":"Point"}
 }

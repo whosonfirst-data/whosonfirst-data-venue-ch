@@ -2,13 +2,14 @@
   "id": 236232817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.144504,46.193123,6.144504,46.193123",
     "geom:latitude":46.193123,
     "geom:longitude":6.144504,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Pr\u00e9-j\u00e9r\u00f4me 5 1200 Genf. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":236232817,
-    "wof:lastmodified":1449002564,
+    "wof:lastmodified":1466211170,
     "wof:name":"Ressources Scoutes Internationales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.144504,46.193123,6.144504,46.193123],
+  "bbox": [
+    6.144504,
+    46.193123,
+    6.144504,
+    46.193123
+],
   "geometry": {"coordinates":[6.144504,46.193123],"type":"Point"}
 }

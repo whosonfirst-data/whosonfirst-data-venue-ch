@@ -2,13 +2,14 @@
   "id": 253013961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.651116,47.019524,8.651116,47.019524",
     "geom:latitude":47.019524,
     "geom:longitude":8.651116,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steisteg",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253013961,
-    "wof:lastmodified":1449064845,
+    "wof:lastmodified":1466209087,
     "wof:name":"Bruno Nideroest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.651116,47.019524,8.651116,47.019524],
+  "bbox": [
+    8.651116,
+    47.019524,
+    8.651116,
+    47.019524
+],
   "geometry": {"coordinates":[8.651116,47.019524],"type":"Point"}
 }

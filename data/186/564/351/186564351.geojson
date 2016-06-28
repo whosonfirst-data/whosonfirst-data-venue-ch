@@ -2,13 +2,14 @@
   "id": 186564351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.83176,47.335964,7.83176,47.335964",
     "geom:latitude":47.335964,
     "geom:longitude":7.83176,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Batterieweg 6",
     "sg:city":"H\u00e4gendorf",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186564351,
-    "wof:lastmodified":1449052875,
+    "wof:lastmodified":1466211927,
     "wof:name":"Nabertherm Schweiz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "annealing"
     ]
 },
-  "bbox": [7.83176,47.335964,7.83176,47.335964],
+  "bbox": [
+    7.83176,
+    47.335964,
+    7.83176,
+    47.335964
+],
   "geometry": {"coordinates":[7.83176,47.335964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220116667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.057013,47.463078,9.057013,47.463078",
     "geom:latitude":47.463078,
     "geom:longitude":9.057013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinhofstrasse 4-6",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220116667,
-    "wof:lastmodified":1449074149,
+    "wof:lastmodified":1466209880,
     "wof:name":"Markus Fust Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.057013,47.463078,9.057013,47.463078],
+  "bbox": [
+    9.057013,
+    47.463078,
+    9.057013,
+    47.463078
+],
   "geometry": {"coordinates":[9.057013,47.463078],"type":"Point"}
 }

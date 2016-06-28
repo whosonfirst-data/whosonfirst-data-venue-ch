@@ -2,13 +2,14 @@
   "id": 203241469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.041075,47.464218,9.041075,47.464218",
     "geom:latitude":47.464218,
     "geom:longitude":9.041075,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalstrasse 9",
     "sg:city":"Bauma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203241469,
-    "wof:lastmodified":1449026836,
+    "wof:lastmodified":1466209927,
     "wof:name":"Dr.med. Beat Z\u00fcrcher Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.041075,47.464218,9.041075,47.464218],
+  "bbox": [
+    9.041075,
+    47.464218,
+    9.041075,
+    47.464218
+],
   "geometry": {"coordinates":[9.041075,47.464218],"type":"Point"}
 }

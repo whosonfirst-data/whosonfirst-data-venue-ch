@@ -2,13 +2,14 @@
   "id": 203322619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.85259,46.683067,7.85259,46.683067",
     "geom:latitude":46.683067,
     "geom:longitude":7.85259,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarm\u00fchlestrasse 35",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203322619,
-    "wof:lastmodified":1449024924,
+    "wof:lastmodified":1466210761,
     "wof:name":"Dr.med.georg Hold Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.85259,46.683067,7.85259,46.683067],
+  "bbox": [
+    7.85259,
+    46.683067,
+    7.85259,
+    46.683067
+],
   "geometry": {"coordinates":[7.85259,46.683067],"type":"Point"}
 }

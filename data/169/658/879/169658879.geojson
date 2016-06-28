@@ -2,13 +2,14 @@
   "id": 169658879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575608,47.544525,7.575608,47.544525",
     "geom:latitude":47.544525,
     "geom:longitude":7.575608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberwilerstrasse 159",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169658879,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466210263,
     "wof:name":"Ha-co-ba Ag",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surface"
     ]
 },
-  "bbox": [7.575608,47.544525,7.575608,47.544525],
+  "bbox": [
+    7.575608,
+    47.544525,
+    7.575608,
+    47.544525
+],
   "geometry": {"coordinates":[7.575608,47.544525],"type":"Point"}
 }

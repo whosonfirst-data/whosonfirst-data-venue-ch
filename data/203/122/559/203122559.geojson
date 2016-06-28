@@ -2,13 +2,14 @@
   "id": 203122559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.251483,47.138699,7.251483,47.138699",
     "geom:latitude":47.138699,
     "geom:longitude":7.251483,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Diamantstrasse 11",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203122559,
-    "wof:lastmodified":1449026029,
+    "wof:lastmodified":1466211333,
     "wof:name":"Hugo Stalder Atelier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "polishing"
     ]
 },
-  "bbox": [7.251483,47.138699,7.251483,47.138699],
+  "bbox": [
+    7.251483,
+    47.138699,
+    7.251483,
+    47.138699
+],
   "geometry": {"coordinates":[7.251483,47.138699],"type":"Point"}
 }

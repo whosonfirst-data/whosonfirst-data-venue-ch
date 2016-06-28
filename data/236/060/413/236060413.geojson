@@ -2,13 +2,14 @@
   "id": 236060413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560284,47.430496,8.560284,47.430496",
     "geom:latitude":47.430496,
     "geom:longitude":8.560284,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4gereistrasse 1",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236060413,
-    "wof:lastmodified":1449004883,
+    "wof:lastmodified":1466209426,
     "wof:name":"Fritz Fr\u00f6hlich Bauspenglerei",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560284,47.430496,8.560284,47.430496],
+  "bbox": [
+    8.560284,
+    47.430496,
+    8.560284,
+    47.430496
+],
   "geometry": {"coordinates":[8.560284,47.430496],"type":"Point"}
 }

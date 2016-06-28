@@ -2,13 +2,14 @@
   "id": 253310001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.9384,47.36264,7.9384,47.36264",
     "geom:latitude":47.36264,
     "geom:longitude":7.9384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Michelmattstr. 461",
     "sg:city":"Winznau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253310001,
-    "wof:lastmodified":1449064633,
+    "wof:lastmodified":1466212016,
     "wof:name":"Brogle-kiosk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.9384,47.36264,7.9384,47.36264],
+  "bbox": [
+    7.9384,
+    47.36264,
+    7.9384,
+    47.36264
+],
   "geometry": {"coordinates":[7.9384,47.36264],"type":"Point"}
 }

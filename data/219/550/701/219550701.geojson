@@ -2,13 +2,14 @@
   "id": 219550701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.105711,46.228931,6.105711,46.228931",
     "geom:latitude":46.228931,
     "geom:longitude":6.105711,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentralstrasse 23",
     "sg:city":"Boswil",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219550701,
-    "wof:lastmodified":1449072285,
+    "wof:lastmodified":1466211606,
     "wof:name":"Fti Banque Fiduciary Trust",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.105711,46.228931,6.105711,46.228931],
+  "bbox": [
+    6.105711,
+    46.228931,
+    6.105711,
+    46.228931
+],
   "geometry": {"coordinates":[6.105711,46.228931],"type":"Point"}
 }

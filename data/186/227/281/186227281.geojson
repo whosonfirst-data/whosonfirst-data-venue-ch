@@ -2,13 +2,14 @@
   "id": 186227281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.195985,46.313126,9.195985,46.313126",
     "geom:latitude":46.313126,
     "geom:longitude":9.195985,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6558 Lostallo. Postfach",
     "sg:city":"Lostallo",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186227281,
-    "wof:lastmodified":1449050983,
+    "wof:lastmodified":1466209297,
     "wof:name":"Tetti Walzer Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.195985,46.313126,9.195985,46.313126],
+  "bbox": [
+    9.195985,
+    46.313126,
+    9.195985,
+    46.313126
+],
   "geometry": {"coordinates":[9.195985,46.313126],"type":"Point"}
 }

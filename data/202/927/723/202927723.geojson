@@ -2,13 +2,14 @@
   "id": 202927723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534496,47.40329,8.534496,47.40329",
     "geom:latitude":47.40329,
     "geom:longitude":8.534496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 115",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202927723,
-    "wof:lastmodified":1449062380,
+    "wof:lastmodified":1466212122,
     "wof:name":"Qs-engineering Z\u00fcrich Ag",
     "wof:parent_id":85799701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534496,47.40329,8.534496,47.40329],
+  "bbox": [
+    8.534496,
+    47.40329,
+    8.534496,
+    47.40329
+],
   "geometry": {"coordinates":[8.534496,47.40329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185927297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.186362,47.535702,9.186362,47.535702",
     "geom:latitude":47.535702,
     "geom:longitude":9.186362,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kradolfstrasse 34",
     "sg:city":"Sulgen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185927297,
-    "wof:lastmodified":1449008053,
+    "wof:lastmodified":1466210074,
     "wof:name":"Spitex Sulgen & Umgebung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.186362,47.535702,9.186362,47.535702],
+  "bbox": [
+    9.186362,
+    47.535702,
+    9.186362,
+    47.535702
+],
   "geometry": {"coordinates":[9.186362,47.535702],"type":"Point"}
 }

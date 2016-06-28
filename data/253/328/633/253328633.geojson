@@ -2,13 +2,14 @@
   "id": 253328633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.539352,47.378143,7.539352,47.378143",
     "geom:latitude":47.378143,
     "geom:longitude":7.539352,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wydenmattstrasse 97 4228 Erschwil. Postfach",
     "sg:city":"Erschwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253328633,
-    "wof:lastmodified":1449064556,
+    "wof:lastmodified":1466212000,
     "wof:name":"Kummer Manfred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.539352,47.378143,7.539352,47.378143],
+  "bbox": [
+    7.539352,
+    47.378143,
+    7.539352,
+    47.378143
+],
   "geometry": {"coordinates":[7.539352,47.378143],"type":"Point"}
 }

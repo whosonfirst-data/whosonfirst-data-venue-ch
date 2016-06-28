@@ -2,13 +2,14 @@
   "id": 186511669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.515046,47.32584,8.515046,47.32584",
     "geom:latitude":47.32584,
     "geom:longitude":8.515046,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leimbachstrasse 210",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186511669,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466211536,
     "wof:name":"Mittelleimbach Cafeteria",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [8.515046,47.32584,8.515046,47.32584],
+  "bbox": [
+    8.515046,
+    47.32584,
+    8.515046,
+    47.32584
+],
   "geometry": {"coordinates":[8.515046,47.32584],"type":"Point"}
 }

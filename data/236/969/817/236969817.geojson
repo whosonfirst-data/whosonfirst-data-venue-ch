@@ -2,13 +2,14 @@
   "id": 236969817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.867278,47.267284,8.867278,47.267284",
     "geom:latitude":47.267284,
     "geom:longitude":8.867278,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grundstrasse 66",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236969817,
-    "wof:lastmodified":1449002274,
+    "wof:lastmodified":1466213053,
     "wof:name":"Ctp Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.867278,47.267284,8.867278,47.267284],
+  "bbox": [
+    8.867278,
+    47.267284,
+    8.867278,
+    47.267284
+],
   "geometry": {"coordinates":[8.867278,47.267284],"type":"Point"}
 }

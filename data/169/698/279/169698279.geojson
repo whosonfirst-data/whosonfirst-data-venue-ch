@@ -2,13 +2,14 @@
   "id": 169698279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.849147,46.469555,6.849147,46.469555",
     "geom:latitude":46.469555,
     "geom:longitude":6.849147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zurcherstr. 350",
     "sg:city":"Sraoenseld",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169698279,
-    "wof:lastmodified":1449035754,
+    "wof:lastmodified":1466210915,
     "wof:name":"Tusa Sa",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sheet"
     ]
 },
-  "bbox": [6.849147,46.469555,6.849147,46.469555],
+  "bbox": [
+    6.849147,
+    46.469555,
+    6.849147,
+    46.469555
+],
   "geometry": {"coordinates":[6.849147,46.469555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236692641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.3247,38.09951,13.3247,38.09951",
     "geom:latitude":38.09951,
     "geom:longitude":13.3247,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemiestr. Postfach 233",
     "sg:city":"Dielsdorf",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236692641,
-    "wof:lastmodified":1449002341,
+    "wof:lastmodified":1466212909,
     "wof:name":"Syngenta Agro Ag",
     "wof:parent_id":85904839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "by-product"
     ]
 },
-  "bbox": [13.3247,38.09951,13.3247,38.09951],
+  "bbox": [
+    13.3247,
+    38.09951,
+    13.3247,
+    38.09951
+],
   "geometry": {"coordinates":[13.3247,38.09951],"type":"Point"}
 }

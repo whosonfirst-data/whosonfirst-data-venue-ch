@@ -2,13 +2,14 @@
   "id": 185954381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.112374,43.376957,-1.112374,43.376957",
     "geom:latitude":43.376957,
     "geom:longitude":-1.112374,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosb\u00fchlweg 2",
     "sg:city":"Linden",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185954381,
-    "wof:lastmodified":1449008014,
+    "wof:lastmodified":1466210325,
     "wof:name":"Ecole Montessori Allenbach Mme Claudine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.112374,43.376957,-1.112374,43.376957],
+  "bbox": [
+    -1.112374,
+    43.376957,
+    -1.112374,
+    43.376957
+],
   "geometry": {"coordinates":[-1.112374,43.376957],"type":"Point"}
 }

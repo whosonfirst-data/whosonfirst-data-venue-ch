@@ -2,13 +2,14 @@
   "id": 203248465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435683,46.945538,7.435683,46.945538",
     "geom:latitude":46.945538,
     "geom:longitude":7.435683,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstrasse 6",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203248465,
-    "wof:lastmodified":1449025983,
+    "wof:lastmodified":1466210003,
     "wof:name":"Dr.med. Harald Rigoni Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435683,46.945538,7.435683,46.945538],
+  "bbox": [
+    7.435683,
+    46.945538,
+    7.435683,
+    46.945538
+],
   "geometry": {"coordinates":[7.435683,46.945538],"type":"Point"}
 }

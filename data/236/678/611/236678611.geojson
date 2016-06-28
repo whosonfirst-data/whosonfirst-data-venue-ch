@@ -2,13 +2,14 @@
   "id": 236678611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.98461,47.179676,7.98461,47.179676",
     "geom:latitude":47.179676,
     "geom:longitude":7.98461,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilgestrasse 2",
     "sg:city":"Sch\u00f6tz",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236678611,
-    "wof:lastmodified":1449003202,
+    "wof:lastmodified":1466212857,
     "wof:name":"Hilge Pumpen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "centrifugal"
     ]
 },
-  "bbox": [7.98461,47.179676,7.98461,47.179676],
+  "bbox": [
+    7.98461,
+    47.179676,
+    7.98461,
+    47.179676
+],
   "geometry": {"coordinates":[7.98461,47.179676],"type":"Point"}
 }

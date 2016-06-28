@@ -2,13 +2,14 @@
   "id": 220105111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.090512,46.22176,6.090512,46.22176",
     "geom:latitude":46.22176,
     "geom:longitude":6.090512,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Champs-pr\u00e9vost 20",
     "sg:city":"Vernier",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220105111,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466209785,
     "wof:name":"Jacques Leclerc",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.090512,46.22176,6.090512,46.22176],
+  "bbox": [
+    6.090512,
+    46.22176,
+    6.090512,
+    46.22176
+],
   "geometry": {"coordinates":[6.090512,46.22176],"type":"Point"}
 }

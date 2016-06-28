@@ -2,13 +2,14 @@
   "id": 186081833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.428148,46.939594,7.428148,46.939594",
     "geom:latitude":46.939594,
     "geom:longitude":7.428148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lentulusstrasse 65",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186081833,
-    "wof:lastmodified":1449051209,
+    "wof:lastmodified":1466210557,
     "wof:name":"Gemi Baumanagement Gmbh",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.428148,46.939594,7.428148,46.939594],
+  "bbox": [
+    7.428148,
+    46.939594,
+    7.428148,
+    46.939594
+],
   "geometry": {"coordinates":[7.428148,46.939594],"type":"Point"}
 }

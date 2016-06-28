@@ -2,13 +2,14 @@
   "id": 186487519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.664011,47.229748,8.664011,47.229748",
     "geom:latitude":47.229748,
     "geom:longitude":8.664011,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuhrstrasse 42",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186487519,
-    "wof:lastmodified":1449051273,
+    "wof:lastmodified":1466211330,
     "wof:name":"Altersheim Fuhr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.664011,47.229748,8.664011,47.229748],
+  "bbox": [
+    8.664011,
+    47.229748,
+    8.664011,
+    47.229748
+],
   "geometry": {"coordinates":[8.664011,47.229748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186386883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.463546,47.471626,9.463546,47.471626",
     "geom:latitude":47.471626,
     "geom:longitude":9.463546,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unionstrasse 14 9403 Goldach. Postfach",
     "sg:city":"Goldach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186386883,
-    "wof:lastmodified":1449051782,
+    "wof:lastmodified":1466210488,
     "wof:name":"Zoller-frey Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.463546,47.471626,9.463546,47.471626],
+  "bbox": [
+    9.463546,
+    47.471626,
+    9.463546,
+    47.471626
+],
   "geometry": {"coordinates":[9.463546,47.471626],"type":"Point"}
 }

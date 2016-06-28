@@ -2,13 +2,14 @@
   "id": 219845437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.404419,47.280518,8.404419,47.280518",
     "geom:latitude":47.280518,
     "geom:longitude":8.404419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Affolternstrasse 7",
     "sg:city":"Ottenbach",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219845437,
-    "wof:lastmodified":1449070963,
+    "wof:lastmodified":1466212641,
     "wof:name":"Pub Neuhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.404419,47.280518,8.404419,47.280518],
+  "bbox": [
+    8.404419,
+    47.280518,
+    8.404419,
+    47.280518
+],
   "geometry": {"coordinates":[8.404419,47.280518],"type":"Point"}
 }

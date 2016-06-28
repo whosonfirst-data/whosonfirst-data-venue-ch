@@ -2,13 +2,14 @@
   "id": 236023775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588844,47.492088,7.588844,47.492088",
     "geom:latitude":47.492088,
     "geom:longitude":7.588844,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiler Strasse",
     "sg:city":"B\u00fctschwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236023775,
-    "wof:lastmodified":1449004861,
+    "wof:lastmodified":1466209097,
     "wof:name":"Ernst Messerli Messerli Spenglerei",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.588844,47.492088,7.588844,47.492088],
+  "bbox": [
+    7.588844,
+    47.492088,
+    7.588844,
+    47.492088
+],
   "geometry": {"coordinates":[7.588844,47.492088],"type":"Point"}
 }

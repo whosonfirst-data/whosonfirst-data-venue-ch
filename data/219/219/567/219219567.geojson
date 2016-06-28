@@ -2,13 +2,14 @@
   "id": 219219567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.596006,47.57357,7.596006,47.57357",
     "geom:latitude":47.57357,
     "geom:longitude":7.596006,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mauerstrasse 74 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219219567,
-    "wof:lastmodified":1449073770,
+    "wof:lastmodified":1466211159,
     "wof:name":"Egloff Chemin\u00e9ebau Ag Basel",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.596006,47.57357,7.596006,47.57357],
+  "bbox": [
+    7.596006,
+    47.57357,
+    7.596006,
+    47.57357
+],
   "geometry": {"coordinates":[7.596006,47.57357],"type":"Point"}
 }

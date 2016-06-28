@@ -2,13 +2,14 @@
   "id": 169609865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53155,47.340672,8.53155,47.340672",
     "geom:latitude":47.340672,
     "geom:longitude":8.53155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Zuerich",
     "sg:classifiers":[],
     "sg:orig_category":"Verkehrsmittel, Schiffahrt",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169609865,
-    "wof:lastmodified":1449033921,
+    "wof:lastmodified":1466209285,
     "wof:name":"Import Berger - Zuerich",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53155,47.340672,8.53155,47.340672],
+  "bbox": [
+    8.53155,
+    47.340672,
+    8.53155,
+    47.340672
+],
   "geometry": {"coordinates":[8.53155,47.340672],"type":"Point"}
 }

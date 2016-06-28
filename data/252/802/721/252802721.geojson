@@ -2,13 +2,14 @@
   "id": 252802721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.50117,47.419094,8.50117,47.419094",
     "geom:latitude":47.419094,
     "geom:longitude":8.50117,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hungerbergstrasse 27 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252802721,
-    "wof:lastmodified":1449006307,
+    "wof:lastmodified":1466209943,
     "wof:name":"Akg\u00dcl Kleider Und Geschenkartikel",
     "wof:parent_id":85800355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.50117,47.419094,8.50117,47.419094],
+  "bbox": [
+    8.50117,
+    47.419094,
+    8.50117,
+    47.419094
+],
   "geometry": {"coordinates":[8.50117,47.419094],"type":"Point"}
 }

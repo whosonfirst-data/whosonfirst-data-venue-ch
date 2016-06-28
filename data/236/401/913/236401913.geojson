@@ -2,13 +2,14 @@
   "id": 236401913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.971955,47.245281,7.971955,47.245281",
     "geom:latitude":47.245281,
     "geom:longitude":7.971955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse",
     "sg:city":"Reiden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236401913,
-    "wof:lastmodified":1449004658,
+    "wof:lastmodified":1466212251,
     "wof:name":"Bibliothek Der Theatergesellschaft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "archive"
     ]
 },
-  "bbox": [7.971955,47.245281,7.971955,47.245281],
+  "bbox": [
+    7.971955,
+    47.245281,
+    7.971955,
+    47.245281
+],
   "geometry": {"coordinates":[7.971955,47.245281],"type":"Point"}
 }

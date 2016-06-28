@@ -2,13 +2,14 @@
   "id": 219793281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525904,47.377419,8.525904,47.377419",
     "geom:latitude":47.377419,
     "geom:longitude":8.525904,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohlstrasse 47",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219793281,
-    "wof:lastmodified":1449072322,
+    "wof:lastmodified":1466212444,
     "wof:name":"Cabaret-bar Red Lips",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525904,47.377419,8.525904,47.377419],
+  "bbox": [
+    8.525904,
+    47.377419,
+    8.525904,
+    47.377419
+],
   "geometry": {"coordinates":[8.525904,47.377419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219754873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539848,47.367672,8.539848,47.367672",
     "geom:latitude":47.367672,
     "geom:longitude":8.539848,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 3",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219754873,
-    "wof:lastmodified":1449072692,
+    "wof:lastmodified":1466212294,
     "wof:name":"Vontobel Holding Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.539848,47.367672,8.539848,47.367672],
+  "bbox": [
+    8.539848,
+    47.367672,
+    8.539848,
+    47.367672
+],
   "geometry": {"coordinates":[8.539848,47.367672],"type":"Point"}
 }

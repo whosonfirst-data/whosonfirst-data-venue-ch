@@ -2,13 +2,14 @@
   "id": 220104961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.671464,47.471104,8.671464,47.471104",
     "geom:latitude":47.471104,
     "geom:longitude":8.671464,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorfstrasse 2",
     "sg:city":"Br\u00fctten",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220104961,
-    "wof:lastmodified":1449074370,
+    "wof:lastmodified":1466211649,
     "wof:name":"Isler + Ostertag Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.671464,47.471104,8.671464,47.471104],
+  "bbox": [
+    8.671464,
+    47.471104,
+    8.671464,
+    47.471104
+],
   "geometry": {"coordinates":[8.671464,47.471104],"type":"Point"}
 }

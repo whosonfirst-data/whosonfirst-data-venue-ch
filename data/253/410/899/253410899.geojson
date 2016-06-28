@@ -2,13 +2,14 @@
   "id": 253410899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.454413,47.482658,8.454413,47.482658",
     "geom:latitude":47.482658,
     "geom:longitude":8.454413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 7 8157 Dielsdorf. Postfach 53",
     "sg:city":"Dielsdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253410899,
-    "wof:lastmodified":1449062862,
+    "wof:lastmodified":1466212223,
     "wof:name":"Str\u00e4ssler Informatik, Computershop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.454413,47.482658,8.454413,47.482658],
+  "bbox": [
+    8.454413,
+    47.482658,
+    8.454413,
+    47.482658
+],
   "geometry": {"coordinates":[8.454413,47.482658],"type":"Point"}
 }

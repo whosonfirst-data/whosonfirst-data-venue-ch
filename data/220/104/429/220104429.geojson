@@ -2,13 +2,14 @@
   "id": 220104429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.48982,47.415581,9.48982,47.415581",
     "geom:latitude":47.415581,
     "geom:longitude":9.48982,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pradaweg 15",
     "sg:city":"Oberschan",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220104429,
-    "wof:lastmodified":1449074370,
+    "wof:lastmodified":1466209778,
     "wof:name":"H\u00f6hener Wald Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.48982,47.415581,9.48982,47.415581],
+  "bbox": [
+    9.48982,
+    47.415581,
+    9.48982,
+    47.415581
+],
   "geometry": {"coordinates":[9.48982,47.415581],"type":"Point"}
 }

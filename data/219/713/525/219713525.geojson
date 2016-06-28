@@ -2,13 +2,14 @@
   "id": 219713525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.35885,46.228088,7.35885,46.228088",
     "geom:latitude":46.228088,
     "geom:longitude":7.35885,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gen\u00e8ve",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219713525,
-    "wof:lastmodified":1449073589,
+    "wof:lastmodified":1466212256,
     "wof:name":"Si Fleur Des Monts Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.35885,46.228088,7.35885,46.228088],
+  "bbox": [
+    7.35885,
+    46.228088,
+    7.35885,
+    46.228088
+],
   "geometry": {"coordinates":[7.35885,46.228088],"type":"Point"}
 }

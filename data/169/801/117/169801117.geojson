@@ -2,13 +2,14 @@
   "id": 169801117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.186275,47.20892,8.186275,47.20892",
     "geom:latitude":47.20892,
     "geom:longitude":8.186275,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenhof",
     "sg:city":"Gunzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169801117,
-    "wof:lastmodified":1449035379,
+    "wof:lastmodified":1466209081,
     "wof:name":"Frischkopf Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.186275,47.20892,8.186275,47.20892],
+  "bbox": [
+    8.186275,
+    47.20892,
+    8.186275,
+    47.20892
+],
   "geometry": {"coordinates":[8.186275,47.20892],"type":"Point"}
 }

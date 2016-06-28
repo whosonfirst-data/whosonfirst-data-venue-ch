@@ -2,13 +2,14 @@
   "id": 219416663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.11052,46.235802,6.11052,46.235802",
     "geom:latitude":46.235802,
     "geom:longitude":6.11052,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"A\u00e9roport 1215 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219416663,
-    "wof:lastmodified":1449071985,
+    "wof:lastmodified":1466210333,
     "wof:name":"Alain Rieder Sa Transports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.11052,46.235802,6.11052,46.235802],
+  "bbox": [
+    6.11052,
+    46.235802,
+    6.11052,
+    46.235802
+],
   "geometry": {"coordinates":[6.11052,46.235802],"type":"Point"}
 }

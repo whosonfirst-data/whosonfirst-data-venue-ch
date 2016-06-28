@@ -2,13 +2,14 @@
   "id": 203164823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.135067,46.187096,6.135067,46.187096",
     "geom:latitude":46.187096,
     "geom:longitude":6.135067,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du 23 Juin 23",
     "sg:city":"Courroux",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203164823,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466209082,
     "wof:name":"Dr M\u00e9d. Claude Graemiger M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.135067,46.187096,6.135067,46.187096],
+  "bbox": [
+    6.135067,
+    46.187096,
+    6.135067,
+    46.187096
+],
   "geometry": {"coordinates":[6.135067,46.187096],"type":"Point"}
 }

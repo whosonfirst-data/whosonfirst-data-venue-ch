@@ -2,13 +2,14 @@
   "id": 203233549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.660197,46.511715,6.660197,46.511715",
     "geom:latitude":46.511715,
     "geom:longitude":6.660197,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Pr\u00e9-de-la-tour 4 1009 Pully Case Postale 494",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203233549,
-    "wof:lastmodified":1449026884,
+    "wof:lastmodified":1466209844,
     "wof:name":"Dr M\u00e9d.dominique-j. Vouillamoz M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85800439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.660197,46.511715,6.660197,46.511715],
+  "bbox": [
+    6.660197,
+    46.511715,
+    6.660197,
+    46.511715
+],
   "geometry": {"coordinates":[6.660197,46.511715],"type":"Point"}
 }

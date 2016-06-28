@@ -2,13 +2,14 @@
   "id": 252716359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.728071,47.502815,8.728071,47.502815",
     "geom:latitude":47.502815,
     "geom:longitude":8.728071,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Theaterstrasse 22 8400 Winterthur. Postfach 344",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252716359,
-    "wof:lastmodified":1449005557,
+    "wof:lastmodified":1466209018,
     "wof:name":"Truvag Informatik Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.728071,47.502815,8.728071,47.502815],
+  "bbox": [
+    8.728071,
+    47.502815,
+    8.728071,
+    47.502815
+],
   "geometry": {"coordinates":[8.728071,47.502815],"type":"Point"}
 }

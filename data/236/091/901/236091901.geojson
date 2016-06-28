@@ -2,13 +2,14 @@
   "id": 236091901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.90827,46.437771,6.90827,46.437771",
     "geom:latitude":46.437771,
     "geom:longitude":6.90827,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du M\u00fbrier 21",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236091901,
-    "wof:lastmodified":1449001920,
+    "wof:lastmodified":1466209724,
     "wof:name":"Willy Coendet Installations Sanitaires",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.90827,46.437771,6.90827,46.437771],
+  "bbox": [
+    6.90827,
+    46.437771,
+    6.90827,
+    46.437771
+],
   "geometry": {"coordinates":[6.90827,46.437771],"type":"Point"}
 }

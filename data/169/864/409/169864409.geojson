@@ -2,13 +2,14 @@
   "id": 169864409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.69591,47.429459,8.69591,47.429459",
     "geom:latitude":47.429459,
     "geom:longitude":8.69591,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 13",
     "sg:city":"Effretikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169864409,
-    "wof:lastmodified":1449036010,
+    "wof:lastmodified":1466209489,
     "wof:name":"Max Egolf Kanalreinigung",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.69591,47.429459,8.69591,47.429459],
+  "bbox": [
+    8.69591,
+    47.429459,
+    8.69591,
+    47.429459
+],
   "geometry": {"coordinates":[8.69591,47.429459],"type":"Point"}
 }

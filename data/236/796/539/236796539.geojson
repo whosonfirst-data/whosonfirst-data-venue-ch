@@ -2,13 +2,14 @@
   "id": 236796539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.57354,47.570049,7.57354,47.570049",
     "geom:latitude":47.570049,
     "geom:longitude":7.57354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogesenstrasse 551",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236796539,
-    "wof:lastmodified":1449003162,
+    "wof:lastmodified":1466212902,
     "wof:name":"Hofstetter Ag",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "customized"
     ]
 },
-  "bbox": [7.57354,47.570049,7.57354,47.570049],
+  "bbox": [
+    7.57354,
+    47.570049,
+    7.57354,
+    47.570049
+],
   "geometry": {"coordinates":[7.57354,47.570049],"type":"Point"}
 }

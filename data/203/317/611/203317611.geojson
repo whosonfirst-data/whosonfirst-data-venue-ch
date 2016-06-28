@@ -2,13 +2,14 @@
   "id": 203317611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.405675,47.401497,8.405675,47.401497",
     "geom:latitude":47.401497,
     "geom:longitude":8.405675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Asylstrasse 11",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203317611,
-    "wof:lastmodified":1449025776,
+    "wof:lastmodified":1466210711,
     "wof:name":"Dr.med.franz Heutschi Spezialarzt Fmh",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.405675,47.401497,8.405675,47.401497],
+  "bbox": [
+    8.405675,
+    47.401497,
+    8.405675,
+    47.401497
+],
   "geometry": {"coordinates":[8.405675,47.401497],"type":"Point"}
 }

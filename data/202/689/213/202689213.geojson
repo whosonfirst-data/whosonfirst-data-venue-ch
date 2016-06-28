@@ -2,13 +2,14 @@
   "id": 202689213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49541,46.854652,7.49541,46.854652",
     "geom:latitude":46.854652,
     "geom:longitude":7.49541,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcdstrasse 65",
     "sg:city":"Toffen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202689213,
-    "wof:lastmodified":1449062236,
+    "wof:lastmodified":1466210486,
     "wof:name":"Rolf Beck Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.49541,46.854652,7.49541,46.854652],
+  "bbox": [
+    7.49541,
+    46.854652,
+    7.49541,
+    46.854652
+],
   "geometry": {"coordinates":[7.49541,46.854652],"type":"Point"}
 }

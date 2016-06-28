@@ -2,13 +2,14 @@
   "id": 186082987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.766242,47.491528,8.766242,47.491528",
     "geom:latitude":47.491528,
     "geom:longitude":8.766242,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Etzbergstrasse 27",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186082987,
-    "wof:lastmodified":1449050334,
+    "wof:lastmodified":1466210562,
     "wof:name":"Gerber Alfred Ag, Winterthur",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.766242,47.491528,8.766242,47.491528],
+  "bbox": [
+    8.766242,
+    47.491528,
+    8.766242,
+    47.491528
+],
   "geometry": {"coordinates":[8.766242,47.491528],"type":"Point"}
 }

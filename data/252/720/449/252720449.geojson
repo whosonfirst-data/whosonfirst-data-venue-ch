@@ -2,13 +2,14 @@
   "id": 252720449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.732607,47.535175,8.732607,47.535175",
     "geom:latitude":47.535175,
     "geom:longitude":8.732607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Breitestrasse 21",
     "sg:city":"Seuzach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252720449,
-    "wof:lastmodified":1449005682,
+    "wof:lastmodified":1466209059,
     "wof:name":"Wudat, W\u00fcest Dataservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.732607,47.535175,8.732607,47.535175],
+  "bbox": [
+    8.732607,
+    47.535175,
+    8.732607,
+    47.535175
+],
   "geometry": {"coordinates":[8.732607,47.535175],"type":"Point"}
 }

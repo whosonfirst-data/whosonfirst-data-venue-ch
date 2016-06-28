@@ -2,13 +2,14 @@
   "id": 236048113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.126037,46.209625,6.126037,46.209625",
     "geom:latitude":46.209625,
     "geom:longitude":6.126037,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 1",
     "sg:city":"Pieterlen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236048113,
-    "wof:lastmodified":1449002666,
+    "wof:lastmodified":1466209316,
     "wof:name":"Imbert Gil",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.126037,46.209625,6.126037,46.209625],
+  "bbox": [
+    6.126037,
+    46.209625,
+    6.126037,
+    46.209625
+],
   "geometry": {"coordinates":[6.126037,46.209625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253275519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.07758,46.29501,10.07758,46.29501",
     "geom:latitude":46.29501,
     "geom:longitude":10.07758,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1525",
     "sg:city":"Henniez",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253275519,
-    "wof:lastmodified":1449063775,
+    "wof:lastmodified":1466211749,
     "wof:name":"Antonio Sertori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.07758,46.29501,10.07758,46.29501],
+  "bbox": [
+    10.07758,
+    46.29501,
+    10.07758,
+    46.29501
+],
   "geometry": {"coordinates":[10.07758,46.29501],"type":"Point"}
 }

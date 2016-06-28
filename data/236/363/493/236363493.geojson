@@ -2,13 +2,14 @@
   "id": 236363493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.338281,47.07877,8.338281,47.07877",
     "geom:latitude":47.07877,
     "geom:longitude":8.338281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 2",
     "sg:city":"Ebikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236363493,
-    "wof:lastmodified":1449004765,
+    "wof:lastmodified":1466212135,
     "wof:name":"Realschule Zentral",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.338281,47.07877,8.338281,47.07877],
+  "bbox": [
+    8.338281,
+    47.07877,
+    8.338281,
+    47.07877
+],
   "geometry": {"coordinates":[8.338281,47.07877],"type":"Point"}
 }

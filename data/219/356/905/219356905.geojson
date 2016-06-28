@@ -2,13 +2,14 @@
   "id": 219356905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.519331,46.744228,7.519331,46.744228",
     "geom:latitude":46.744228,
     "geom:longitude":7.519331,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gurnigelstrasse",
     "sg:city":"Blumenstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219356905,
-    "wof:lastmodified":1449073299,
+    "wof:lastmodified":1466209749,
     "wof:name":"Walter Winkler Autospritzwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.519331,46.744228,7.519331,46.744228],
+  "bbox": [
+    7.519331,
+    46.744228,
+    7.519331,
+    46.744228
+],
   "geometry": {"coordinates":[7.519331,46.744228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169692545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449248,46.939186,7.449248,46.939186",
     "geom:latitude":46.939186,
     "geom:longitude":7.449248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernastrasse 47",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169692545,
-    "wof:lastmodified":1449033560,
+    "wof:lastmodified":1466210848,
     "wof:name":"Ambassade Du Pakistan",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449248,46.939186,7.449248,46.939186],
+  "bbox": [
+    7.449248,
+    46.939186,
+    7.449248,
+    46.939186
+],
   "geometry": {"coordinates":[7.449248,46.939186],"type":"Point"}
 }

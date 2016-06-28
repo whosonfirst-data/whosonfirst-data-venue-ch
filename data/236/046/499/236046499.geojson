@@ -2,13 +2,14 @@
   "id": 236046499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.139617,46.185822,6.139617,46.185822",
     "geom:latitude":46.185822,
     "geom:longitude":6.139617,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruederstrasse 13",
     "sg:city":"Sch\u00f6ftland",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236046499,
-    "wof:lastmodified":1449003491,
+    "wof:lastmodified":1466209302,
     "wof:name":"G. Visconti",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.139617,46.185822,6.139617,46.185822],
+  "bbox": [
+    6.139617,
+    46.185822,
+    6.139617,
+    46.185822
+],
   "geometry": {"coordinates":[6.139617,46.185822],"type":"Point"}
 }

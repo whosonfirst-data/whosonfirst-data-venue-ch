@@ -2,13 +2,14 @@
   "id": 203421621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.719996,47.506561,8.719996,47.506561",
     "geom:latitude":47.506561,
     "geom:longitude":8.719996,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rundstrasse 43",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203421621,
-    "wof:lastmodified":1449026178,
+    "wof:lastmodified":1466211807,
     "wof:name":"Dr.med.ulrich Grob Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.719996,47.506561,8.719996,47.506561],
+  "bbox": [
+    8.719996,
+    47.506561,
+    8.719996,
+    47.506561
+],
   "geometry": {"coordinates":[8.719996,47.506561],"type":"Point"}
 }

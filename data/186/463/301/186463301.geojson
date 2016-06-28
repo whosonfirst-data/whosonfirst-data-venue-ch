@@ -2,13 +2,14 @@
   "id": 186463301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516828,47.380871,8.516828,47.380871",
     "geom:latitude":47.380871,
     "geom:longitude":8.516828,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ernastrasse 22",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186463301,
-    "wof:lastmodified":1449052232,
+    "wof:lastmodified":1466211115,
     "wof:name":"Gibon Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516828,47.380871,8.516828,47.380871],
+  "bbox": [
+    8.516828,
+    47.380871,
+    8.516828,
+    47.380871
+],
   "geometry": {"coordinates":[8.516828,47.380871],"type":"Point"}
 }

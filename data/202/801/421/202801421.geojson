@@ -2,13 +2,14 @@
   "id": 202801421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.596715,46.53421,6.596715,46.53421",
     "geom:latitude":46.53421,
     "geom:longitude":6.596715,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Tercier 8 1807 Blonay. Postfach",
     "sg:city":"Blonay",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202801421,
-    "wof:lastmodified":1449062223,
+    "wof:lastmodified":1466211532,
     "wof:name":"Atelier D'architecture, Peiry Germain",
     "wof:parent_id":85862441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.596715,46.53421,6.596715,46.53421],
+  "bbox": [
+    6.596715,
+    46.53421,
+    6.596715,
+    46.53421
+],
   "geometry": {"coordinates":[6.596715,46.53421],"type":"Point"}
 }

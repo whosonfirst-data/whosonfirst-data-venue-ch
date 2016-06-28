@@ -2,13 +2,14 @@
   "id": 236783643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.617853,47.277363,8.617853,47.277363",
     "geom:latitude":47.277363,
     "geom:longitude":8.617853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General Wille-str. 144",
     "sg:city":"Meilen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236783643,
-    "wof:lastmodified":1449001758,
+    "wof:lastmodified":1466212893,
     "wof:name":"Rbc Diasys Consulting Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [8.617853,47.277363,8.617853,47.277363],
+  "bbox": [
+    8.617853,
+    47.277363,
+    8.617853,
+    47.277363
+],
   "geometry": {"coordinates":[8.617853,47.277363],"type":"Point"}
 }

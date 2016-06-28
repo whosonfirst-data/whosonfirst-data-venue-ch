@@ -2,13 +2,14 @@
   "id": 236306487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.131427,46.215866,6.131427,46.215866",
     "geom:latitude":46.215866,
     "geom:longitude":6.131427,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-pr\u00e9 Rue Du 72 1202 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236306487,
-    "wof:lastmodified":1449005064,
+    "wof:lastmodified":1466211758,
     "wof:name":"Majestic Limousines Ltd",
     "wof:parent_id":85897671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.131427,46.215866,6.131427,46.215866],
+  "bbox": [
+    6.131427,
+    46.215866,
+    6.131427,
+    46.215866
+],
   "geometry": {"coordinates":[6.131427,46.215866],"type":"Point"}
 }

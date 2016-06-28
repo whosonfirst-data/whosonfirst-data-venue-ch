@@ -2,13 +2,14 @@
   "id": 220015571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.829615,47.189095,8.829615,47.189095",
     "geom:latitude":47.189095,
     "geom:longitude":8.829615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 16",
     "sg:city":"Altendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220015571,
-    "wof:lastmodified":1449074229,
+    "wof:lastmodified":1466209013,
     "wof:name":"Hans Knobel Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.829615,47.189095,8.829615,47.189095],
+  "bbox": [
+    8.829615,
+    47.189095,
+    8.829615,
+    47.189095
+],
   "geometry": {"coordinates":[8.829615,47.189095],"type":"Point"}
 }

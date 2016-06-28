@@ -2,13 +2,14 @@
   "id": 220164089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.923718,47.309013,7.923718,47.309013",
     "geom:latitude":47.309013,
     "geom:longitude":7.923718,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tychbodenstrasse 14",
     "sg:city":"Oftringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220164089,
-    "wof:lastmodified":1449074125,
+    "wof:lastmodified":1466210279,
     "wof:name":"Schneider Peter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.923718,47.309013,7.923718,47.309013],
+  "bbox": [
+    7.923718,
+    47.309013,
+    7.923718,
+    47.309013
+],
   "geometry": {"coordinates":[7.923718,47.309013],"type":"Point"}
 }

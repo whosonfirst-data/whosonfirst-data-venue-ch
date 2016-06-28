@@ -2,13 +2,14 @@
   "id": 186342473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.128008,46.817619,7.128008,46.817619",
     "geom:latitude":46.817619,
     "geom:longitude":7.128008,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Tir F\u00e9d\u00e9ral 12 1762 Givisiez. Postfach",
     "sg:city":"Givisiez",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186342473,
-    "wof:lastmodified":1449052838,
+    "wof:lastmodified":1466210151,
     "wof:name":"Remattus Sa Marques De Produits, Mat\u00e9riaux Destin\u00e9s \u00e0 L'\u00e9quipement De B\u00e2timents; Import., Export., Achat, Vente Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.128008,46.817619,7.128008,46.817619],
+  "bbox": [
+    7.128008,
+    46.817619,
+    7.128008,
+    46.817619
+],
   "geometry": {"coordinates":[7.128008,46.817619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185885561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.48898,48.13047,3.48898,48.13047",
     "geom:latitude":48.13047,
     "geom:longitude":3.48898,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cerisiers Chemin Des 13 A 1806 St-l\u00e9gier Case Postale 15",
     "sg:city":"St-l\u00e9gier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185885561,
-    "wof:lastmodified":1449007480,
+    "wof:lastmodified":1466209747,
     "wof:name":"Pg Construction Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.48898,48.13047,3.48898,48.13047],
+  "bbox": [
+    3.48898,
+    48.13047,
+    3.48898,
+    48.13047
+],
   "geometry": {"coordinates":[3.48898,48.13047],"type":"Point"}
 }

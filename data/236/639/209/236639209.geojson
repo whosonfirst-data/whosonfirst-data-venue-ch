@@ -2,13 +2,14 @@
   "id": 236639209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.394716,46.947433,7.394716,46.947433",
     "geom:latitude":46.947433,
     "geom:longitude":7.394716,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bethlehemstrasse 36",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236639209,
-    "wof:lastmodified":1449005231,
+    "wof:lastmodified":1466212724,
     "wof:name":"Roland Hofer Moto Bike",
     "wof:parent_id":85800063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [7.394716,46.947433,7.394716,46.947433],
+  "bbox": [
+    7.394716,
+    46.947433,
+    7.394716,
+    46.947433
+],
   "geometry": {"coordinates":[7.394716,46.947433],"type":"Point"}
 }

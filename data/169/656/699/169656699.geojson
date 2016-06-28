@@ -2,13 +2,14 @@
   "id": 169656699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.413354,46.926559,7.413354,46.926559",
     "geom:latitude":46.926559,
     "geom:longitude":7.413354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstadtstrasse 17",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169656699,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466210222,
     "wof:name":"Vetsch & Co Ag",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catalogue"
     ]
 },
-  "bbox": [7.413354,46.926559,7.413354,46.926559],
+  "bbox": [
+    7.413354,
+    46.926559,
+    7.413354,
+    46.926559
+],
   "geometry": {"coordinates":[7.413354,46.926559],"type":"Point"}
 }

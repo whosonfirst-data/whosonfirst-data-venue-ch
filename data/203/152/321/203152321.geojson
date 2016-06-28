@@ -2,13 +2,14 @@
   "id": 203152321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.475223,46.29446,7.475223,46.29446",
     "geom:latitude":46.29446,
     "geom:longitude":7.475223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chermignon-dessus",
     "sg:city":"Chermignon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203152321,
-    "wof:lastmodified":1449026390,
+    "wof:lastmodified":1466208934,
     "wof:name":"Dr M\u00e9d. Alain M\u00e9trailler M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.475223,46.29446,7.475223,46.29446],
+  "bbox": [
+    7.475223,
+    46.29446,
+    7.475223,
+    46.29446
+],
   "geometry": {"coordinates":[7.475223,46.29446],"type":"Point"}
 }

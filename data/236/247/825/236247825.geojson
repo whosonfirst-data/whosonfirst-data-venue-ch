@@ -2,13 +2,14 @@
   "id": 236247825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.47863,47.146629,7.47863,47.146629",
     "geom:latitude":47.146629,
     "geom:longitude":7.47863,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchledorfstrasse 27",
     "sg:city":"Tscheppach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236247825,
-    "wof:lastmodified":1449003604,
+    "wof:lastmodified":1466211345,
     "wof:name":"Tbm Tscheppach Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.47863,47.146629,7.47863,47.146629],
+  "bbox": [
+    7.47863,
+    47.146629,
+    7.47863,
+    47.146629
+],
   "geometry": {"coordinates":[7.47863,47.146629],"type":"Point"}
 }

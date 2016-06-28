@@ -2,13 +2,14 @@
   "id": 203268323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.362224,47.519791,8.362224,47.519791",
     "geom:latitude":47.519791,
     "geom:longitude":8.362224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 37",
     "sg:city":"Schneisingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203268323,
-    "wof:lastmodified":1449026028,
+    "wof:lastmodified":1466210209,
     "wof:name":"Dr.med.alex Berger Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.362224,47.519791,8.362224,47.519791],
+  "bbox": [
+    8.362224,
+    47.519791,
+    8.362224,
+    47.519791
+],
   "geometry": {"coordinates":[8.362224,47.519791],"type":"Point"}
 }

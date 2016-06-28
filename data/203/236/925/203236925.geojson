@@ -2,13 +2,14 @@
   "id": 203236925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.044645,47.463512,9.044645,47.463512",
     "geom:latitude":47.463512,
     "geom:longitude":9.044645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 96",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203236925,
-    "wof:lastmodified":1449025141,
+    "wof:lastmodified":1466209878,
     "wof:name":"Dr. Med.alexander Ilg Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.044645,47.463512,9.044645,47.463512],
+  "bbox": [
+    9.044645,
+    47.463512,
+    9.044645,
+    47.463512
+],
   "geometry": {"coordinates":[9.044645,47.463512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186127113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.204365,47.098995,8.204365,47.098995",
     "geom:latitude":47.098995,
     "geom:longitude":8.204365,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luzernstrasse 29 Hellb\u00fchl 6206 Neuenkirch. Postfach",
     "sg:city":"Hellb\u00fchl",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186127113,
-    "wof:lastmodified":1449052808,
+    "wof:lastmodified":1466211155,
     "wof:name":"Krummenacher Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.204365,47.098995,8.204365,47.098995],
+  "bbox": [
+    8.204365,
+    47.098995,
+    8.204365,
+    47.098995
+],
   "geometry": {"coordinates":[8.204365,47.098995],"type":"Point"}
 }

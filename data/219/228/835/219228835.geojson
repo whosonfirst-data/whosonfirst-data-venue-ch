@@ -2,13 +2,14 @@
   "id": 219228835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.59092,47.493305,7.59092,47.493305",
     "geom:latitude":47.493305,
     "geom:longitude":7.59092,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorf",
     "sg:city":"Blumenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219228835,
-    "wof:lastmodified":1449071496,
+    "wof:lastmodified":1466211276,
     "wof:name":"Isler Christian",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.59092,47.493305,7.59092,47.493305],
+  "bbox": [
+    7.59092,
+    47.493305,
+    7.59092,
+    47.493305
+],
   "geometry": {"coordinates":[7.59092,47.493305],"type":"Point"}
 }

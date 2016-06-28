@@ -2,13 +2,14 @@
   "id": 185806943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.811079,47.412697,7.811079,47.412697",
     "geom:latitude":47.412697,
     "geom:longitude":7.811079,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 62",
     "sg:city":"Diegten",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185806943,
-    "wof:lastmodified":1449006591,
+    "wof:lastmodified":1466209168,
     "wof:name":"Buchs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "implement"
     ]
 },
-  "bbox": [7.811079,47.412697,7.811079,47.412697],
+  "bbox": [
+    7.811079,
+    47.412697,
+    7.811079,
+    47.412697
+],
   "geometry": {"coordinates":[7.811079,47.412697],"type":"Point"}
 }

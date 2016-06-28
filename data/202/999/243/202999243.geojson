@@ -2,13 +2,14 @@
   "id": 202999243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.281312,47.147869,7.281312,47.147869",
     "geom:latitude":47.147869,
     "geom:longitude":7.281312,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langenthalstrasse 78",
     "sg:city":"Aarwangen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202999243,
-    "wof:lastmodified":1449062342,
+    "wof:lastmodified":1466212453,
     "wof:name":"Haller & Partner Architekten & Planer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.281312,47.147869,7.281312,47.147869],
+  "bbox": [
+    7.281312,
+    47.147869,
+    7.281312,
+    47.147869
+],
   "geometry": {"coordinates":[7.281312,47.147869],"type":"Point"}
 }

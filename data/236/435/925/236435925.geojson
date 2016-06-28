@@ -2,13 +2,14 @@
   "id": 236435925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.055305,47.386909,8.055305,47.386909",
     "geom:latitude":47.386909,
     "geom:longitude":8.055305,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weltistrasse",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236435925,
-    "wof:lastmodified":1449004879,
+    "wof:lastmodified":1466212276,
     "wof:name":"G\u00f6nhardschulhaus Bibliothek",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.055305,47.386909,8.055305,47.386909],
+  "bbox": [
+    8.055305,
+    47.386909,
+    8.055305,
+    47.386909
+],
   "geometry": {"coordinates":[8.055305,47.386909],"type":"Point"}
 }

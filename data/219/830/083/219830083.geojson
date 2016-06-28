@@ -2,13 +2,14 @@
   "id": 219830083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526297,47.194725,8.526297,47.194725",
     "geom:latitude":47.194725,
     "geom:longitude":8.526297,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schutzengelstrasse 34 G2",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219830083,
-    "wof:lastmodified":1449071147,
+    "wof:lastmodified":1466212514,
     "wof:name":"The Happy-faces Baumgartner & Di Rubbo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526297,47.194725,8.526297,47.194725],
+  "bbox": [
+    8.526297,
+    47.194725,
+    8.526297,
+    47.194725
+],
   "geometry": {"coordinates":[8.526297,47.194725],"type":"Point"}
 }

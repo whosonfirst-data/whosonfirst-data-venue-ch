@@ -2,13 +2,14 @@
   "id": 203143139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.789482,46.169029,8.789482,46.169029",
     "geom:latitude":46.169029,
     "geom:longitude":8.789482,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Castelrotto 18b",
     "sg:city":"Locarno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203143139,
-    "wof:lastmodified":1449026520,
+    "wof:lastmodified":1466211713,
     "wof:name":"Dott.med.lorenzo Bosia Specialista Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.789482,46.169029,8.789482,46.169029],
+  "bbox": [
+    8.789482,
+    46.169029,
+    8.789482,
+    46.169029
+],
   "geometry": {"coordinates":[8.789482,46.169029],"type":"Point"}
 }

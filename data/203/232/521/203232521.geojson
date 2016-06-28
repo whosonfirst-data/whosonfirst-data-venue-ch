@@ -2,13 +2,14 @@
   "id": 203232521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.600932,46.518311,6.600932,46.518311",
     "geom:latitude":46.518311,
     "geom:longitude":6.600932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Galeries Benjamin-constant 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203232521,
-    "wof:lastmodified":1449025530,
+    "wof:lastmodified":1466209832,
     "wof:name":"Dr M\u00e9d. Yves Ecoffey M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":85862305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.600932,46.518311,6.600932,46.518311],
+  "bbox": [
+    6.600932,
+    46.518311,
+    6.600932,
+    46.518311
+],
   "geometry": {"coordinates":[6.600932,46.518311],"type":"Point"}
 }

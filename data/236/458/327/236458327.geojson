@@ -2,13 +2,14 @@
   "id": 236458327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.814142,46.787804,9.814142,46.787804",
     "geom:latitude":46.787804,
     "geom:longitude":9.814142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyssstrasse 31 3270 Aarberg. Postfach 112",
     "sg:city":"Aarberg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236458327,
-    "wof:lastmodified":1449004100,
+    "wof:lastmodified":1466212440,
     "wof:name":"Spital Davos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [9.814142,46.787804,9.814142,46.787804],
+  "bbox": [
+    9.814142,
+    46.787804,
+    9.814142,
+    46.787804
+],
   "geometry": {"coordinates":[9.814142,46.787804],"type":"Point"}
 }

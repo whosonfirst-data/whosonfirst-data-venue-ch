@@ -2,13 +2,14 @@
   "id": 252841915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.732956,47.500011,8.732956,47.500011",
     "geom:latitude":47.500011,
     "geom:longitude":8.732956,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obertor 7",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252841915,
-    "wof:lastmodified":1449005649,
+    "wof:lastmodified":1466210365,
     "wof:name":"Koller Textil Marlis-mode",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.732956,47.500011,8.732956,47.500011],
+  "bbox": [
+    8.732956,
+    47.500011,
+    8.732956,
+    47.500011
+],
   "geometry": {"coordinates":[8.732956,47.500011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186003811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.52535,47.505211,7.52535,47.505211",
     "geom:latitude":47.505211,
     "geom:longitude":7.52535,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Bahnhofstrasse 16 8932 Mettmenstetten. Postfach",
     "sg:city":"Mettmenstetten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186003811,
-    "wof:lastmodified":1449052819,
+    "wof:lastmodified":1466208953,
     "wof:name":"Aquaform Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.52535,47.505211,7.52535,47.505211],
+  "bbox": [
+    7.52535,
+    47.505211,
+    7.52535,
+    47.505211
+],
   "geometry": {"coordinates":[7.52535,47.505211],"type":"Point"}
 }

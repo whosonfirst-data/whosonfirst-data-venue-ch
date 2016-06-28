@@ -2,13 +2,14 @@
   "id": 203268485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.457088,46.951782,7.457088,46.951782",
     "geom:latitude":46.951782,
     "geom:longitude":7.457088,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oranienburgstrasse 11",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203268485,
-    "wof:lastmodified":1449026031,
+    "wof:lastmodified":1466210211,
     "wof:name":"Dr.med.alexander Wildbolz Spezialarzt Fmh",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.457088,46.951782,7.457088,46.951782],
+  "bbox": [
+    7.457088,
+    46.951782,
+    7.457088,
+    46.951782
+],
   "geometry": {"coordinates":[7.457088,46.951782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202903265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.311247,47.110359,7.311247,47.110359",
     "geom:latitude":47.110359,
     "geom:longitude":7.311247,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Greina 14a 6500 Bellinzona Casella Postale 204",
     "sg:city":"Bellinzona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202903265,
-    "wof:lastmodified":1449060262,
+    "wof:lastmodified":1466212020,
     "wof:name":"Ertech Elektronik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.311247,47.110359,7.311247,47.110359],
+  "bbox": [
+    7.311247,
+    47.110359,
+    7.311247,
+    47.110359
+],
   "geometry": {"coordinates":[7.311247,47.110359],"type":"Point"}
 }

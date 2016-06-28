@@ -2,13 +2,14 @@
   "id": 236271659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.506563,47.491528,7.506563,47.491528",
     "geom:latitude":47.491528,
     "geom:longitude":7.506563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattstrasse 9",
     "sg:city":"B\u00e4ttwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236271659,
-    "wof:lastmodified":1449003367,
+    "wof:lastmodified":1466211571,
     "wof:name":"Tc Haugraben",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.506563,47.491528,7.506563,47.491528],
+  "bbox": [
+    7.506563,
+    47.491528,
+    7.506563,
+    47.491528
+],
   "geometry": {"coordinates":[7.506563,47.491528],"type":"Point"}
 }

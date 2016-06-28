@@ -2,13 +2,14 @@
   "id": 202970219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.795038,46.173943,8.795038,46.173943",
     "geom:latitude":46.173943,
     "geom:longitude":8.795038,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Al Sasso 12",
     "sg:city":"Muralto",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202970219,
-    "wof:lastmodified":1449062592,
+    "wof:lastmodified":1466212373,
     "wof:name":"Daniel Zamboni Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.795038,46.173943,8.795038,46.173943],
+  "bbox": [
+    8.795038,
+    46.173943,
+    8.795038,
+    46.173943
+],
   "geometry": {"coordinates":[8.795038,46.173943],"type":"Point"}
 }

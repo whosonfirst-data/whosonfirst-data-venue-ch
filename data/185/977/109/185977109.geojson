@@ -2,13 +2,14 @@
   "id": 185977109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.605234,47.355537,8.605234,47.355537",
     "geom:latitude":47.355537,
     "geom:longitude":8.605234,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kienastenwiesweg 51",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185977109,
-    "wof:lastmodified":1449008262,
+    "wof:lastmodified":1466210581,
     "wof:name":"R. Spring S\u00f6hne, Inh. Beat Spring",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.605234,47.355537,8.605234,47.355537],
+  "bbox": [
+    8.605234,
+    47.355537,
+    8.605234,
+    47.355537
+],
   "geometry": {"coordinates":[8.605234,47.355537],"type":"Point"}
 }

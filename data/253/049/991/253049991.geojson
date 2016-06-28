@@ -2,13 +2,14 @@
   "id": 253049991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.537747,47.374264,8.537747,47.374264",
     "geom:latitude":47.374264,
     "geom:longitude":8.537747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seidengasse 1 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253049991,
-    "wof:lastmodified":1449064290,
+    "wof:lastmodified":1466209420,
     "wof:name":"Blumenhalle Z\u00fcrich Ag Fachgesch\u00e4ft F. Floristik",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.537747,47.374264,8.537747,47.374264],
+  "bbox": [
+    8.537747,
+    47.374264,
+    8.537747,
+    47.374264
+],
   "geometry": {"coordinates":[8.537747,47.374264],"type":"Point"}
 }

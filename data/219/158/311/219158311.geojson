@@ -2,13 +2,14 @@
   "id": 219158311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.690475,47.520683,7.690475,47.520683",
     "geom:latitude":47.520683,
     "geom:longitude":7.690475,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenmattstrasse 13",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219158311,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466210020,
     "wof:name":"Dr.med.victor Martin Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.690475,47.520683,7.690475,47.520683],
+  "bbox": [
+    7.690475,
+    47.520683,
+    7.690475,
+    47.520683
+],
   "geometry": {"coordinates":[7.690475,47.520683],"type":"Point"}
 }

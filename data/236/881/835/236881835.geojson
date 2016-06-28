@@ -2,13 +2,14 @@
   "id": 236881835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.14953,47.47467,9.14953,47.47467",
     "geom:latitude":47.47467,
     "geom:longitude":9.14953,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4genbachstrasse 2",
     "sg:city":"Lenggenwil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236881835,
-    "wof:lastmodified":1449003582,
+    "wof:lastmodified":1466212953,
     "wof:name":"Ms Protect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [9.14953,47.47467,9.14953,47.47467],
+  "bbox": [
+    9.14953,
+    47.47467,
+    9.14953,
+    47.47467
+],
   "geometry": {"coordinates":[9.14953,47.47467],"type":"Point"}
 }

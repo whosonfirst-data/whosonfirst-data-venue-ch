@@ -2,13 +2,14 @@
   "id": 203053315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633217,46.517639,6.633217,46.517639",
     "geom:latitude":46.517639,
     "geom:longitude":6.633217,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Sainte-luce 12",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203053315,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466210214,
     "wof:name":"Pascal Pfister Bureau D'architecture",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.633217,46.517639,6.633217,46.517639],
+  "bbox": [
+    6.633217,
+    46.517639,
+    6.633217,
+    46.517639
+],
   "geometry": {"coordinates":[6.633217,46.517639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253045045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516306,47.172798,8.516306,47.172798",
     "geom:latitude":47.172798,
     "geom:longitude":8.516306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 27",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253045045,
-    "wof:lastmodified":1449065431,
+    "wof:lastmodified":1466209374,
     "wof:name":"Bluemelaube Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516306,47.172798,8.516306,47.172798],
+  "bbox": [
+    8.516306,
+    47.172798,
+    8.516306,
+    47.172798
+],
   "geometry": {"coordinates":[8.516306,47.172798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236943699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.491615,46.979645,7.491615,46.979645",
     "geom:latitude":46.979645,
     "geom:longitude":7.491615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stampachgasse 2/43",
     "sg:city":"Bolligen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236943699,
-    "wof:lastmodified":1449002333,
+    "wof:lastmodified":1466213035,
     "wof:name":"Fritz Marthaler",
     "wof:parent_id":85800083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.491615,46.979645,7.491615,46.979645],
+  "bbox": [
+    7.491615,
+    46.979645,
+    7.491615,
+    46.979645
+],
   "geometry": {"coordinates":[7.491615,46.979645],"type":"Point"}
 }

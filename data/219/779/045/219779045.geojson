@@ -2,13 +2,14 @@
   "id": 219779045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.133522,46.181831,6.133522,46.181831",
     "geom:latitude":46.181831,
     "geom:longitude":6.133522,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Centre Commercial",
     "sg:city":"Haute-nendaz",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219779045,
-    "wof:lastmodified":1449070933,
+    "wof:lastmodified":1466212414,
     "wof:name":"Bar Le Blavignac",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.133522,46.181831,6.133522,46.181831],
+  "bbox": [
+    6.133522,
+    46.181831,
+    6.133522,
+    46.181831
+],
   "geometry": {"coordinates":[6.133522,46.181831],"type":"Point"}
 }

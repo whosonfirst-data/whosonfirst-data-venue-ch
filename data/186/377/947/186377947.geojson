@@ -2,13 +2,14 @@
   "id": 186377947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.586558,47.54427,7.586558,47.54427",
     "geom:latitude":47.54427,
     "geom:longitude":7.586558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornacherstrasse 56",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186377947,
-    "wof:lastmodified":1449051391,
+    "wof:lastmodified":1466210421,
     "wof:name":"Reval Ag F\u00fcr Liegenschaftsrenovationen",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.586558,47.54427,7.586558,47.54427],
+  "bbox": [
+    7.586558,
+    47.54427,
+    7.586558,
+    47.54427
+],
   "geometry": {"coordinates":[7.586558,47.54427],"type":"Point"}
 }

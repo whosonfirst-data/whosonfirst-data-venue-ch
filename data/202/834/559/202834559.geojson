@@ -2,13 +2,14 @@
   "id": 202834559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.249767,47.578037,8.249767,47.578037",
     "geom:latitude":47.578037,
     "geom:longitude":8.249767,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenmattstrasse 7",
     "sg:city":"Klingnau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202834559,
-    "wof:lastmodified":1449060356,
+    "wof:lastmodified":1466211849,
     "wof:name":"Janki Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.249767,47.578037,8.249767,47.578037],
+  "bbox": [
+    8.249767,
+    47.578037,
+    8.249767,
+    47.578037
+],
   "geometry": {"coordinates":[8.249767,47.578037],"type":"Point"}
 }

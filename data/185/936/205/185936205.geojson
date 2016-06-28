@@ -2,13 +2,14 @@
   "id": 185936205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.487773,46.958405,7.487773,46.958405",
     "geom:latitude":46.958405,
     "geom:longitude":7.487773,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Zollgasse 4",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185936205,
-    "wof:lastmodified":1449007135,
+    "wof:lastmodified":1466210150,
     "wof:name":"Spitex Gemeindekrankenpflege",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.487773,46.958405,7.487773,46.958405],
+  "bbox": [
+    7.487773,
+    46.958405,
+    7.487773,
+    46.958405
+],
   "geometry": {"coordinates":[7.487773,46.958405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236662365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.483193,47.173695,9.483193,47.173695",
     "geom:latitude":47.173695,
     "geom:longitude":9.483193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8048 Z\u00fcrich. Postfach 1418",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236662365,
-    "wof:lastmodified":1449003960,
+    "wof:lastmodified":1466212769,
     "wof:name":"Mutzner Robert Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [9.483193,47.173695,9.483193,47.173695],
+  "bbox": [
+    9.483193,
+    47.173695,
+    9.483193,
+    47.173695
+],
   "geometry": {"coordinates":[9.483193,47.173695],"type":"Point"}
 }

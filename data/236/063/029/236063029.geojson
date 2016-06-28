@@ -2,13 +2,14 @@
   "id": 236063029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.625257,46.50779,6.625257,46.50779",
     "geom:latitude":46.50779,
     "geom:longitude":6.625257,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Harpe 47bis",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236063029,
-    "wof:lastmodified":1449001890,
+    "wof:lastmodified":1466209453,
     "wof:name":"Marcel Gribi Ferblanterie",
     "wof:parent_id":85800387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.625257,46.50779,6.625257,46.50779],
+  "bbox": [
+    6.625257,
+    46.50779,
+    6.625257,
+    46.50779
+],
   "geometry": {"coordinates":[6.625257,46.50779],"type":"Point"}
 }

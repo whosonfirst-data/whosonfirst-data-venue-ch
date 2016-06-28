@@ -2,13 +2,14 @@
   "id": 253001337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.520472,47.378414,8.520472,47.378414",
     "geom:latitude":47.378414,
     "geom:longitude":8.520472,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stauffacherstrasse 180",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253001337,
-    "wof:lastmodified":1449063479,
+    "wof:lastmodified":1466208959,
     "wof:name":"Galerie Zum Alten Laempli",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.520472,47.378414,8.520472,47.378414],
+  "bbox": [
+    8.520472,
+    47.378414,
+    8.520472,
+    47.378414
+],
   "geometry": {"coordinates":[8.520472,47.378414],"type":"Point"}
 }

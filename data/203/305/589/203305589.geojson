@@ -2,13 +2,14 @@
   "id": 203305589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.55479,47.49519,7.55479,47.49519",
     "geom:latitude":47.49519,
     "geom:longitude":7.55479,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00e4nelmattweg 56",
     "sg:city":"Therwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203305589,
-    "wof:lastmodified":1449025224,
+    "wof:lastmodified":1466210595,
     "wof:name":"Dr.med.edith Walther Kuenzi Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.55479,47.49519,7.55479,47.49519],
+  "bbox": [
+    7.55479,
+    47.49519,
+    7.55479,
+    47.49519
+],
   "geometry": {"coordinates":[7.55479,47.49519],"type":"Point"}
 }

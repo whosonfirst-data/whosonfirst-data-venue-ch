@@ -2,13 +2,14 @@
   "id": 253221947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.50531,46.083305,7.50531,46.083305",
     "geom:latitude":46.083305,
     "geom:longitude":7.50531,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Villars 13 Et La",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253221947,
-    "wof:lastmodified":1449064126,
+    "wof:lastmodified":1466211226,
     "wof:name":"Ma\u00eetre Henri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.50531,46.083305,7.50531,46.083305],
+  "bbox": [
+    7.50531,
+    46.083305,
+    7.50531,
+    46.083305
+],
   "geometry": {"coordinates":[7.50531,46.083305],"type":"Point"}
 }

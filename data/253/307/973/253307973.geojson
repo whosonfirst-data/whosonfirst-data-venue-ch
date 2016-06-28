@@ -2,13 +2,14 @@
   "id": 253307973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.45409,47.277962,8.45409,47.277962",
     "geom:latitude":47.277962,
     "geom:longitude":8.45409,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grossb\u00fcnt 10 Oberschan 9478 Wartau. Postfach",
     "sg:city":"Oberschan",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253307973,
-    "wof:lastmodified":1449063579,
+    "wof:lastmodified":1466212014,
     "wof:name":"Auslieferungs-vereinigung Affoltern Am Albis (ava).",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.45409,47.277962,8.45409,47.277962],
+  "bbox": [
+    8.45409,
+    47.277962,
+    8.45409,
+    47.277962
+],
   "geometry": {"coordinates":[8.45409,47.277962],"type":"Point"}
 }

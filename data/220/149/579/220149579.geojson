@@ -2,13 +2,14 @@
   "id": 220149579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.355793,47.367287,8.355793,47.367287",
     "geom:latitude":47.367287,
     "geom:longitude":8.355793,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gyrenstrasse 6",
     "sg:city":"Widen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220149579,
-    "wof:lastmodified":1449074063,
+    "wof:lastmodified":1466210160,
     "wof:name":"Stettler Schreinerei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.355793,47.367287,8.355793,47.367287],
+  "bbox": [
+    8.355793,
+    47.367287,
+    8.355793,
+    47.367287
+],
   "geometry": {"coordinates":[8.355793,47.367287],"type":"Point"}
 }

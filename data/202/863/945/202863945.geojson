@@ -2,13 +2,14 @@
   "id": 202863945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.562671,47.377682,8.562671,47.377682",
     "geom:latitude":47.377682,
     "geom:longitude":8.562671,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichbergstrasse 98 8044 Z\u00fcrich. Postfach 373",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202863945,
-    "wof:lastmodified":1449061836,
+    "wof:lastmodified":1466211863,
     "wof:name":"Srt Architekten Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.562671,47.377682,8.562671,47.377682],
+  "bbox": [
+    8.562671,
+    47.377682,
+    8.562671,
+    47.377682
+],
   "geometry": {"coordinates":[8.562671,47.377682],"type":"Point"}
 }

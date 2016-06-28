@@ -2,13 +2,14 @@
   "id": 203354203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.577167,47.326077,8.577167,47.326077",
     "geom:latitude":47.326077,
     "geom:longitude":8.577167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weststrasse 2",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203354203,
-    "wof:lastmodified":1449026659,
+    "wof:lastmodified":1466211075,
     "wof:name":"Dr.med.jos\u00e9 Vilan Spezialarzt Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.577167,47.326077,8.577167,47.326077],
+  "bbox": [
+    8.577167,
+    47.326077,
+    8.577167,
+    47.326077
+],
   "geometry": {"coordinates":[8.577167,47.326077],"type":"Point"}
 }

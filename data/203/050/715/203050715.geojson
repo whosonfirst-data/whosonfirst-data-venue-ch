@@ -2,13 +2,14 @@
   "id": 203050715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.04343,47.392071,8.04343,47.392071",
     "geom:latitude":47.392071,
     "geom:longitude":8.04343,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Milchgasse 25",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203050715,
-    "wof:lastmodified":1449025990,
+    "wof:lastmodified":1466210164,
     "wof:name":"Oehler Architekten Sia/swb",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.04343,47.392071,8.04343,47.392071],
+  "bbox": [
+    8.04343,
+    47.392071,
+    8.04343,
+    47.392071
+],
   "geometry": {"coordinates":[8.04343,47.392071],"type":"Point"}
 }

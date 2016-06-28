@@ -2,13 +2,14 @@
   "id": 236595955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.935751,46.991184,6.935751,46.991184",
     "geom:latitude":46.991184,
     "geom:longitude":6.935751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Esplanade L\u00e9opold-robert 2",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236595955,
-    "wof:lastmodified":1449004863,
+    "wof:lastmodified":1466212672,
     "wof:name":"Boulangerie Du Port",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.935751,46.991184,6.935751,46.991184],
+  "bbox": [
+    6.935751,
+    46.991184,
+    6.935751,
+    46.991184
+],
   "geometry": {"coordinates":[6.935751,46.991184],"type":"Point"}
 }

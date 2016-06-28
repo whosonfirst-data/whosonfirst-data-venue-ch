@@ -2,13 +2,14 @@
   "id": 219906167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.953751,47.545883,7.953751,47.545883",
     "geom:latitude":47.545883,
     "geom:longitude":7.953751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 33",
     "sg:city":"Niederhasli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219906167,
-    "wof:lastmodified":1449071730,
+    "wof:lastmodified":1466212541,
     "wof:name":"Wohngenoss.stein-unterfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.953751,47.545883,7.953751,47.545883],
+  "bbox": [
+    7.953751,
+    47.545883,
+    7.953751,
+    47.545883
+],
   "geometry": {"coordinates":[7.953751,47.545883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253092401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.557452,47.204014,7.557452,47.204014",
     "geom:latitude":47.204014,
     "geom:longitude":7.557452,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 4 4528 Zuchwil. Postfach",
     "sg:city":"Zuchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253092401,
-    "wof:lastmodified":1449065211,
+    "wof:lastmodified":1466209847,
     "wof:name":"J\u00f6rg Wiegand Augenoptik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.557452,47.204014,7.557452,47.204014],
+  "bbox": [
+    7.557452,
+    47.204014,
+    7.557452,
+    47.204014
+],
   "geometry": {"coordinates":[7.557452,47.204014],"type":"Point"}
 }

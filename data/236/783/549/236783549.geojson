@@ -2,13 +2,14 @@
   "id": 236783549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43995,46.94825,7.43995,46.94825",
     "geom:latitude":46.94825,
     "geom:longitude":7.43995,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kramg. 69",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236783549,
-    "wof:lastmodified":1449001756,
+    "wof:lastmodified":1466212891,
     "wof:name":"Spring M\u00d6bel Ag",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "furniture"
     ]
 },
-  "bbox": [7.43995,46.94825,7.43995,46.94825],
+  "bbox": [
+    7.43995,
+    46.94825,
+    7.43995,
+    46.94825
+],
   "geometry": {"coordinates":[7.43995,46.94825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202739933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.931993,46.99255,6.931993,46.99255",
     "geom:latitude":46.99255,
     "geom:longitude":6.931993,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 10",
     "sg:city":"Wildegg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202739933,
-    "wof:lastmodified":1449061180,
+    "wof:lastmodified":1466210964,
     "wof:name":"Tfe Engineering, Fernandes Tony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.931993,46.99255,6.931993,46.99255],
+  "bbox": [
+    6.931993,
+    46.99255,
+    6.931993,
+    46.99255
+],
   "geometry": {"coordinates":[6.931993,46.99255],"type":"Point"}
 }

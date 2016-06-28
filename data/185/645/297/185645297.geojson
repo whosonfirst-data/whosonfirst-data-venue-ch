@@ -2,13 +2,14 @@
   "id": 185645297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.46711,46.957138,7.46711,46.957138",
     "geom:latitude":46.957138,
     "geom:longitude":7.46711,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mingerstrasse 16",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185645297,
-    "wof:lastmodified":1449006775,
+    "wof:lastmodified":1466210184,
     "wof:name":"Jaberg + Partner Ag",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [7.46711,46.957138,7.46711,46.957138],
+  "bbox": [
+    7.46711,
+    46.957138,
+    7.46711,
+    46.957138
+],
   "geometry": {"coordinates":[7.46711,46.957138],"type":"Point"}
 }

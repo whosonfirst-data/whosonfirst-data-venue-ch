@@ -2,13 +2,14 @@
   "id": 236585345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.314664,47.045952,8.314664,47.045952",
     "geom:latitude":47.045952,
     "geom:longitude":8.314664,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrgenstr. 12",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236585345,
-    "wof:lastmodified":1449003928,
+    "wof:lastmodified":1466212752,
     "wof:name":"Parallel Informatik Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "software"
     ]
 },
-  "bbox": [8.314664,47.045952,8.314664,47.045952],
+  "bbox": [
+    8.314664,
+    47.045952,
+    8.314664,
+    47.045952
+],
   "geometry": {"coordinates":[8.314664,47.045952],"type":"Point"}
 }

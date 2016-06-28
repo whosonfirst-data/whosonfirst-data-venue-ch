@@ -2,13 +2,14 @@
   "id": 186426937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.485827,47.377296,8.485827,47.377296",
     "geom:latitude":47.377296,
     "geom:longitude":8.485827,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wydlerweg 13 8047 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186426937,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466210818,
     "wof:name":"Schawalder R. Ag Baugesch\u00e4ft, Insbes. Maurer- U. Schalungsarbeiten Im Akkord",
     "wof:parent_id":85799695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.485827,47.377296,8.485827,47.377296],
+  "bbox": [
+    8.485827,
+    47.377296,
+    8.485827,
+    47.377296
+],
   "geometry": {"coordinates":[8.485827,47.377296],"type":"Point"}
 }

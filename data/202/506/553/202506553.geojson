@@ -2,13 +2,14 @@
   "id": 202506553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.477405,47.099705,9.477405,47.099705",
     "geom:latitude":47.099705,
     "geom:longitude":9.477405,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fallweg 2 9479 Oberschan. Postfach",
     "sg:city":"Oberschan",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202506553,
-    "wof:lastmodified":1449060159,
+    "wof:lastmodified":1466211510,
     "wof:name":"F\u00e4h Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.477405,47.099705,9.477405,47.099705],
+  "bbox": [
+    9.477405,
+    47.099705,
+    9.477405,
+    47.099705
+],
   "geometry": {"coordinates":[9.477405,47.099705],"type":"Point"}
 }

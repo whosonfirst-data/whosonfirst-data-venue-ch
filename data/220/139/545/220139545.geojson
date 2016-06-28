@@ -2,13 +2,14 @@
   "id": 220139545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.422907,46.975296,8.422907,46.975296",
     "geom:latitude":46.975296,
     "geom:longitude":8.422907,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Turmattstrasse 9a 6374 Buochs. Postfach 132",
     "sg:city":"Buochs",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220139545,
-    "wof:lastmodified":1449074103,
+    "wof:lastmodified":1466210075,
     "wof:name":"Schreinerei Felix Gehrig Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.422907,46.975296,8.422907,46.975296],
+  "bbox": [
+    8.422907,
+    46.975296,
+    8.422907,
+    46.975296
+],
   "geometry": {"coordinates":[8.422907,46.975296],"type":"Point"}
 }

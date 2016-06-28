@@ -2,13 +2,14 @@
   "id": 185858295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44629,46.947479,7.44629,46.947479",
     "geom:latitude":46.947479,
     "geom:longitude":7.44629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talacker 41 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185858295,
-    "wof:lastmodified":1449006770,
+    "wof:lastmodified":1466209550,
     "wof:name":"Privatbank Von Graffenried Ag B\u00f6rsen, Effekten, Verm\u00f6gensverwaltungsbank Usw",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44629,46.947479,7.44629,46.947479],
+  "bbox": [
+    7.44629,
+    46.947479,
+    7.44629,
+    46.947479
+],
   "geometry": {"coordinates":[7.44629,46.947479],"type":"Point"}
 }

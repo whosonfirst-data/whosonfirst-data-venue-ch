@@ -2,13 +2,14 @@
   "id": 202443247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308364,47.046627,8.308364,47.046627",
     "geom:latitude":47.046627,
     "geom:longitude":8.308364,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirschmattstrasse 37",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202443247,
-    "wof:lastmodified":1449062198,
+    "wof:lastmodified":1466210494,
     "wof:name":"Castilla & Castilla Gmbh",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.308364,47.046627,8.308364,47.046627],
+  "bbox": [
+    8.308364,
+    47.046627,
+    8.308364,
+    47.046627
+],
   "geometry": {"coordinates":[8.308364,47.046627],"type":"Point"}
 }

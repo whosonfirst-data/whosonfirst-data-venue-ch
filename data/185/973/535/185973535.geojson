@@ -2,13 +2,14 @@
   "id": 185973535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.563536,47.214844,8.563536,47.214844",
     "geom:latitude":47.214844,
     "geom:longitude":8.563536,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberhof",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185973535,
-    "wof:lastmodified":1449007576,
+    "wof:lastmodified":1466210546,
     "wof:name":"Erni Baumpflege",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.563536,47.214844,8.563536,47.214844],
+  "bbox": [
+    8.563536,
+    47.214844,
+    8.563536,
+    47.214844
+],
   "geometry": {"coordinates":[8.563536,47.214844],"type":"Point"}
 }

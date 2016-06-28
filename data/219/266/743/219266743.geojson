@@ -2,13 +2,14 @@
   "id": 219266743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.111123,46.738457,8.111123,46.738457",
     "geom:latitude":46.738457,
     "geom:longitude":8.111123,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"2814",
     "sg:city":"Roggenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219266743,
-    "wof:lastmodified":1449070477,
+    "wof:lastmodified":1466208946,
     "wof:name":"Ernst Glarner Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.111123,46.738457,8.111123,46.738457],
+  "bbox": [
+    8.111123,
+    46.738457,
+    8.111123,
+    46.738457
+],
   "geometry": {"coordinates":[8.111123,46.738457],"type":"Point"}
 }

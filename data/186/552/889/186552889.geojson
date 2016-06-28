@@ -2,13 +2,14 @@
   "id": 186552889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.65832,47.519539,8.65832,47.519539",
     "geom:latitude":47.519539,
     "geom:longitude":8.65832,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weiachstrasse 10",
     "sg:city":"Neftenbach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186552889,
-    "wof:lastmodified":1449051496,
+    "wof:lastmodified":1466211731,
     "wof:name":"Schutzgastechnik K\u00e4ppeli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welding"
     ]
 },
-  "bbox": [8.65832,47.519539,8.65832,47.519539],
+  "bbox": [
+    8.65832,
+    47.519539,
+    8.65832,
+    47.519539
+],
   "geometry": {"coordinates":[8.65832,47.519539],"type":"Point"}
 }

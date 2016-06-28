@@ -2,13 +2,14 @@
   "id": 186546895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.061262,47.094254,9.061262,47.094254",
     "geom:latitude":47.094254,
     "geom:longitude":9.061262,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feld 9",
     "sg:city":"N\u00e4fels",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186546895,
-    "wof:lastmodified":1449050246,
+    "wof:lastmodified":1466211715,
     "wof:name":"B\u00e4renzaun Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fence"
     ]
 },
-  "bbox": [9.061262,47.094254,9.061262,47.094254],
+  "bbox": [
+    9.061262,
+    47.094254,
+    9.061262,
+    47.094254
+],
   "geometry": {"coordinates":[9.061262,47.094254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203233055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.645223,46.77927,6.645223,46.77927",
     "geom:latitude":46.77927,
     "geom:longitude":6.645223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Haldimand 25",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203233055,
-    "wof:lastmodified":1449026883,
+    "wof:lastmodified":1466209838,
     "wof:name":"Dr M\u00e9d. Yves D'arcis M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.645223,46.77927,6.645223,46.77927],
+  "bbox": [
+    6.645223,
+    46.77927,
+    6.645223,
+    46.77927
+],
   "geometry": {"coordinates":[6.645223,46.77927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220192779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.623853,46.524567,6.623853,46.524567",
     "geom:latitude":46.524567,
     "geom:longitude":6.623853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De France 16",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220192779,
-    "wof:lastmodified":1449074619,
+    "wof:lastmodified":1466210531,
     "wof:name":"Maurice Rudaz Eb\u00e9nisterie",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.623853,46.524567,6.623853,46.524567],
+  "bbox": [
+    6.623853,
+    46.524567,
+    6.623853,
+    46.524567
+],
   "geometry": {"coordinates":[6.623853,46.524567],"type":"Point"}
 }

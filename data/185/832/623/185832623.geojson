@@ -2,13 +2,14 @@
   "id": 185832623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.656212,47.386475,8.656212,47.386475",
     "geom:latitude":47.386475,
     "geom:longitude":8.656212,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnstrasse 24",
     "sg:city":"Schwerzenbach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185832623,
-    "wof:lastmodified":1449006602,
+    "wof:lastmodified":1466209343,
     "wof:name":"Axair Kobra Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "air-conditioners"
     ]
 },
-  "bbox": [8.656212,47.386475,8.656212,47.386475],
+  "bbox": [
+    8.656212,
+    47.386475,
+    8.656212,
+    47.386475
+],
   "geometry": {"coordinates":[8.656212,47.386475],"type":"Point"}
 }

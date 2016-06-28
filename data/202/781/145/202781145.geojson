@@ -2,13 +2,14 @@
   "id": 202781145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.622566,47.058208,7.622566,47.058208",
     "geom:latitude":47.058208,
     "geom:longitude":7.622566,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedeggstrasse 5 3400 Burgdorf. Postfach",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202781145,
-    "wof:lastmodified":1449060586,
+    "wof:lastmodified":1466211350,
     "wof:name":"Aeschlimann & Willen Beratung Planung & Architektur Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.622566,47.058208,7.622566,47.058208],
+  "bbox": [
+    7.622566,
+    47.058208,
+    7.622566,
+    47.058208
+],
   "geometry": {"coordinates":[7.622566,47.058208],"type":"Point"}
 }

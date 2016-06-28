@@ -2,13 +2,14 @@
   "id": 253365247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638963,47.69577,8.638963,47.69577",
     "geom:latitude":47.69577,
     "geom:longitude":8.638963,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterstadt 25 8200 Schaffhausen. Postfach",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253365247,
-    "wof:lastmodified":1449063292,
+    "wof:lastmodified":1466212149,
     "wof:name":"Sammeln Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.638963,47.69577,8.638963,47.69577],
+  "bbox": [
+    8.638963,
+    47.69577,
+    8.638963,
+    47.69577
+],
   "geometry": {"coordinates":[8.638963,47.69577],"type":"Point"}
 }

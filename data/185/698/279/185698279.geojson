@@ -2,13 +2,14 @@
   "id": 185698279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548545,47.36475,8.548545,47.36475",
     "geom:latitude":47.36475,
     "geom:longitude":8.548545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 7 8008 Z\u00fcrich. Postfach 903",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185698279,
-    "wof:lastmodified":1449008111,
+    "wof:lastmodified":1466211064,
     "wof:name":"Dr.max Glauser Advokaturb\u00fcro",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548545,47.36475,8.548545,47.36475],
+  "bbox": [
+    8.548545,
+    47.36475,
+    8.548545,
+    47.36475
+],
   "geometry": {"coordinates":[8.548545,47.36475],"type":"Point"}
 }

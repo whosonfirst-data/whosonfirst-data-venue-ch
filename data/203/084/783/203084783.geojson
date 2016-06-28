@@ -2,13 +2,14 @@
   "id": 203084783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.687647,46.501877,6.687647,46.501877",
     "geom:latitude":46.501877,
     "geom:longitude":6.687647,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Friporte 4",
     "sg:city":"Lutry",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203084783,
-    "wof:lastmodified":1449025145,
+    "wof:lastmodified":1466210883,
     "wof:name":"Studio D'architecture Jean-daniel Paschoud",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.687647,46.501877,6.687647,46.501877],
+  "bbox": [
+    6.687647,
+    46.501877,
+    6.687647,
+    46.501877
+],
   "geometry": {"coordinates":[6.687647,46.501877],"type":"Point"}
 }

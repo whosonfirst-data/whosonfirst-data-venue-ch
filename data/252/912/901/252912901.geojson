@@ -2,13 +2,14 @@
   "id": 252912901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.106263,46.22551,6.106263,46.22551",
     "geom:latitude":46.22551,
     "geom:longitude":6.106263,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Louis-casai 79 1216 Cointrin. Postfach",
     "sg:city":"Cointrin",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252912901,
-    "wof:lastmodified":1449005952,
+    "wof:lastmodified":1466211143,
     "wof:name":"Atelier De Fourrures, Schmid",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.106263,46.22551,6.106263,46.22551],
+  "bbox": [
+    6.106263,
+    46.22551,
+    6.106263,
+    46.22551
+],
   "geometry": {"coordinates":[6.106263,46.22551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220013539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.053463,46.751404,8.053463,46.751404",
     "geom:latitude":46.751404,
     "geom:longitude":8.053463,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Francesco Catenazzi 33",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220013539,
-    "wof:lastmodified":1449074601,
+    "wof:lastmodified":1466208997,
     "wof:name":"Gerhard Fuchs Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.053463,46.751404,8.053463,46.751404],
+  "bbox": [
+    8.053463,
+    46.751404,
+    8.053463,
+    46.751404
+],
   "geometry": {"coordinates":[8.053463,46.751404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186490405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.69605,46.629868,7.69605,46.629868",
     "geom:latitude":46.629868,
     "geom:longitude":7.69605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzseestrasse 20",
     "sg:city":"Giffers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186490405,
-    "wof:lastmodified":1449052750,
+    "wof:lastmodified":1466211354,
     "wof:name":"Altersheim Reichenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [7.69605,46.629868,7.69605,46.629868],
+  "bbox": [
+    7.69605,
+    46.629868,
+    7.69605,
+    46.629868
+],
   "geometry": {"coordinates":[7.69605,46.629868],"type":"Point"}
 }

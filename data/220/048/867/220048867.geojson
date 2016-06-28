@@ -2,13 +2,14 @@
   "id": 220048867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.041785,47.364296,8.041785,47.364296",
     "geom:latitude":47.364296,
     "geom:longitude":8.041785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 6",
     "sg:city":"Unterentfelden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220048867,
-    "wof:lastmodified":1449074297,
+    "wof:lastmodified":1466209299,
     "wof:name":"Stefan M\u00fcller Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.041785,47.364296,8.041785,47.364296],
+  "bbox": [
+    8.041785,
+    47.364296,
+    8.041785,
+    47.364296
+],
   "geometry": {"coordinates":[8.041785,47.364296],"type":"Point"}
 }

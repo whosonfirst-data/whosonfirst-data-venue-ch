@@ -2,13 +2,14 @@
   "id": 220068271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.648923,46.511036,6.648923,46.511036",
     "geom:latitude":46.511036,
     "geom:longitude":6.648923,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Ch\u00e2teau-sec 10 1009 Pully Case Postale 143",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220068271,
-    "wof:lastmodified":1449074448,
+    "wof:lastmodified":1466209470,
     "wof:name":"Alain Genevay Menuiserie & Parquets",
     "wof:parent_id":85800439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.648923,46.511036,6.648923,46.511036],
+  "bbox": [
+    6.648923,
+    46.511036,
+    6.648923,
+    46.511036
+],
   "geometry": {"coordinates":[6.648923,46.511036],"type":"Point"}
 }

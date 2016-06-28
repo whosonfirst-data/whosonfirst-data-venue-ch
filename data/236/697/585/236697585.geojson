@@ -2,13 +2,14 @@
   "id": 236697585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.555016,47.37875,9.555016,47.37875",
     "geom:latitude":47.37875,
     "geom:longitude":9.555016,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldwiesenstr. 20",
     "sg:city":"Altst\u00e4tten",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236697585,
-    "wof:lastmodified":1449003787,
+    "wof:lastmodified":1466212761,
     "wof:name":"Coltene Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.555016,47.37875,9.555016,47.37875],
+  "bbox": [
+    9.555016,
+    47.37875,
+    9.555016,
+    47.37875
+],
   "geometry": {"coordinates":[9.555016,47.37875],"type":"Point"}
 }

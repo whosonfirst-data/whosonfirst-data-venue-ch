@@ -2,13 +2,14 @@
   "id": 203395727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.870754,47.343163,7.870754,47.343163",
     "geom:latitude":47.343163,
     "geom:longitude":7.870754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohmadstrasse 1",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203395727,
-    "wof:lastmodified":1449026572,
+    "wof:lastmodified":1466211491,
     "wof:name":"Dr.med.reinhold Willi Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.870754,47.343163,7.870754,47.343163],
+  "bbox": [
+    7.870754,
+    47.343163,
+    7.870754,
+    47.343163
+],
   "geometry": {"coordinates":[7.870754,47.343163],"type":"Point"}
 }

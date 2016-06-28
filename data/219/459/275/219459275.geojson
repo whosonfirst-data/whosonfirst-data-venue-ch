@@ -2,13 +2,14 @@
   "id": 219459275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61839,47.337326,8.61839,47.337326",
     "geom:latitude":47.337326,
     "geom:longitude":8.61839,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schw\u00e4ntenmos 2",
     "sg:city":"Zumikon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219459275,
-    "wof:lastmodified":1449071822,
+    "wof:lastmodified":1466210743,
     "wof:name":"Distefora Holding Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "institution"
     ]
 },
-  "bbox": [8.61839,47.337326,8.61839,47.337326],
+  "bbox": [
+    8.61839,
+    47.337326,
+    8.61839,
+    47.337326
+],
   "geometry": {"coordinates":[8.61839,47.337326],"type":"Point"}
 }

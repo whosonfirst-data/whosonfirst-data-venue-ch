@@ -2,13 +2,14 @@
   "id": 252930925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.051001,47.306282,8.051001,47.306282",
     "geom:latitude":47.306282,
     "geom:longitude":8.051001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 17",
     "sg:city":"Sch\u00f6ftland",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252930925,
-    "wof:lastmodified":1449005751,
+    "wof:lastmodified":1466211330,
     "wof:name":"Dietiker Sport + Mode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.051001,47.306282,8.051001,47.306282],
+  "bbox": [
+    8.051001,
+    47.306282,
+    8.051001,
+    47.306282
+],
   "geometry": {"coordinates":[8.051001,47.306282],"type":"Point"}
 }

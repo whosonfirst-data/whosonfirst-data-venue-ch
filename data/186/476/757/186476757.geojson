@@ -2,13 +2,14 @@
   "id": 186476757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.370028,47.420506,9.370028,47.420506",
     "geom:latitude":47.420506,
     "geom:longitude":9.370028,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandstrasse 29 8750 Glarus. Postfach 465",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186476757,
-    "wof:lastmodified":1449051457,
+    "wof:lastmodified":1466211238,
     "wof:name":"Kantonale Arbeitslosenkasse",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.370028,47.420506,9.370028,47.420506],
+  "bbox": [
+    9.370028,
+    47.420506,
+    9.370028,
+    47.420506
+],
   "geometry": {"coordinates":[9.370028,47.420506],"type":"Point"}
 }

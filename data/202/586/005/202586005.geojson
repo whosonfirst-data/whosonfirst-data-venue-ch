@@ -2,13 +2,14 @@
   "id": 202586005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.256008,46.422596,6.256008,46.422596",
     "geom:latitude":46.422596,
     "geom:longitude":6.256008,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cit\u00e9 Ouest 29",
     "sg:city":"Gland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202586005,
-    "wof:lastmodified":1449062359,
+    "wof:lastmodified":1466209530,
     "wof:name":"Jm Control, J\u00fcrg Minder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.256008,46.422596,6.256008,46.422596],
+  "bbox": [
+    6.256008,
+    46.422596,
+    6.256008,
+    46.422596
+],
   "geometry": {"coordinates":[6.256008,46.422596],"type":"Point"}
 }

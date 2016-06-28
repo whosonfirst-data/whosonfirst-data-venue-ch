@@ -2,13 +2,14 @@
   "id": 185961165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.072526,47.410381,7.072526,47.410381",
     "geom:latitude":47.410381,
     "geom:longitude":7.072526,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De L'oiselier 2",
     "sg:city":"Porrentruy",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185961165,
-    "wof:lastmodified":1449008161,
+    "wof:lastmodified":1466210407,
     "wof:name":"Maison Saint-paul \u00e0 Porrentruy Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.072526,47.410381,7.072526,47.410381],
+  "bbox": [
+    7.072526,
+    47.410381,
+    7.072526,
+    47.410381
+],
   "geometry": {"coordinates":[7.072526,47.410381],"type":"Point"}
 }

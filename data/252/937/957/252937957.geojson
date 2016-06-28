@@ -2,13 +2,14 @@
   "id": 252937957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80077,46.172279,8.80077,46.172279",
     "geom:latitude":46.172279,
     "geom:longitude":8.80077,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Stazione 3",
     "sg:city":"Muralto",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252937957,
-    "wof:lastmodified":1449005628,
+    "wof:lastmodified":1466211403,
     "wof:name":"Swiss Ciao Ciao Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.80077,46.172279,8.80077,46.172279],
+  "bbox": [
+    8.80077,
+    46.172279,
+    8.80077,
+    46.172279
+],
   "geometry": {"coordinates":[8.80077,46.172279],"type":"Point"}
 }

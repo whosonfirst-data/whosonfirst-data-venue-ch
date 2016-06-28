@@ -2,13 +2,14 @@
   "id": 219561767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.148417,47.378326,8.148417,47.378326",
     "geom:latitude":47.378326,
     "geom:longitude":8.148417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenweg 4",
     "sg:city":"Schafisheim",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219561767,
-    "wof:lastmodified":1449072902,
+    "wof:lastmodified":1466211768,
     "wof:name":"Hypothekarbank Lenzburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.148417,47.378326,8.148417,47.378326],
+  "bbox": [
+    8.148417,
+    47.378326,
+    8.148417,
+    47.378326
+],
   "geometry": {"coordinates":[8.148417,47.378326],"type":"Point"}
 }

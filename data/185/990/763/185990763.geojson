@@ -2,13 +2,14 @@
   "id": 185990763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.50285,47.489845,7.50285,47.489845",
     "geom:latitude":47.489845,
     "geom:longitude":7.50285,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattstrasse 38",
     "sg:city":"B\u00e4ttwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185990763,
-    "wof:lastmodified":1449007673,
+    "wof:lastmodified":1466210722,
     "wof:name":"Ralph Moser Ag Strassen, Tief-& Gartenbau",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.50285,47.489845,7.50285,47.489845],
+  "bbox": [
+    7.50285,
+    47.489845,
+    7.50285,
+    47.489845
+],
   "geometry": {"coordinates":[7.50285,47.489845],"type":"Point"}
 }

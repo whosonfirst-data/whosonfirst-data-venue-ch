@@ -2,13 +2,14 @@
   "id": 236105101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.808658,47.068871,7.808658,47.068871",
     "geom:latitude":47.068871,
     "geom:longitude":7.808658,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Felsenburg",
     "sg:city":"Wyssachen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236105101,
-    "wof:lastmodified":1449002805,
+    "wof:lastmodified":1466209836,
     "wof:name":"Heiniger Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.808658,47.068871,7.808658,47.068871],
+  "bbox": [
+    7.808658,
+    47.068871,
+    7.808658,
+    47.068871
+],
   "geometry": {"coordinates":[7.808658,47.068871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236977423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598775,47.541359,7.598775,47.541359",
     "geom:latitude":47.541359,
     "geom:longitude":7.598775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufenstrasse 36",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236977423,
-    "wof:lastmodified":1449005341,
+    "wof:lastmodified":1466213017,
     "wof:name":"Roka-data Ag",
     "wof:parent_id":85799909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.598775,47.541359,7.598775,47.541359],
+  "bbox": [
+    7.598775,
+    47.541359,
+    7.598775,
+    47.541359
+],
   "geometry": {"coordinates":[7.598775,47.541359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202905887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548672,47.41201,8.548672,47.41201",
     "geom:latitude":47.41201,
     "geom:longitude":8.548672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Siewerdtstrasse 18",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202905887,
-    "wof:lastmodified":1449061114,
+    "wof:lastmodified":1466212032,
     "wof:name":"Fimo Promotions Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548672,47.41201,8.548672,47.41201],
+  "bbox": [
+    8.548672,
+    47.41201,
+    8.548672,
+    47.41201
+],
   "geometry": {"coordinates":[8.548672,47.41201],"type":"Point"}
 }

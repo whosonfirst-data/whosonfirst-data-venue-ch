@@ -2,13 +2,14 @@
   "id": 202563337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.633849,46.876789,8.633849,46.876789",
     "geom:latitude":46.876789,
     "geom:longitude":8.633849,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 19",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202563337,
-    "wof:lastmodified":1449060145,
+    "wof:lastmodified":1466209323,
     "wof:name":"Ingenieurb\u00fcro F\u00fcr Vermessung Hodel Alois Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.633849,46.876789,8.633849,46.876789],
+  "bbox": [
+    8.633849,
+    46.876789,
+    8.633849,
+    46.876789
+],
   "geometry": {"coordinates":[8.633849,46.876789],"type":"Point"}
 }

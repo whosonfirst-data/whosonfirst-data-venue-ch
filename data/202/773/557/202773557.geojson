@@ -2,13 +2,14 @@
   "id": 202773557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.904439,47.561275,8.904439,47.561275",
     "geom:latitude":47.561275,
     "geom:longitude":8.904439,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 263 8500 Frauenfeld. Postfach",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202773557,
-    "wof:lastmodified":1449060424,
+    "wof:lastmodified":1466211277,
     "wof:name":"W\u00e4lli Ag Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.904439,47.561275,8.904439,47.561275],
+  "bbox": [
+    8.904439,
+    47.561275,
+    8.904439,
+    47.561275
+],
   "geometry": {"coordinates":[8.904439,47.561275],"type":"Point"}
 }

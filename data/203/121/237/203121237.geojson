@@ -2,13 +2,14 @@
   "id": 203121237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.3954,47.43359,9.3954,47.43359",
     "geom:latitude":47.43359,
     "geom:longitude":9.3954,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanonengasse 5",
     "sg:city":"Liestal",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203121237,
-    "wof:lastmodified":1449026414,
+    "wof:lastmodified":1466211305,
     "wof:name":"Mathies",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "coat"
     ]
 },
-  "bbox": [9.3954,47.43359,9.3954,47.43359],
+  "bbox": [
+    9.3954,
+    47.43359,
+    9.3954,
+    47.43359
+],
   "geometry": {"coordinates":[9.3954,47.43359],"type":"Point"}
 }

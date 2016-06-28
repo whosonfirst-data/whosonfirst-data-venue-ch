@@ -2,13 +2,14 @@
   "id": 236852557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.076631,47.366608,8.076631,47.366608",
     "geom:latitude":47.366608,
     "geom:longitude":8.076631,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obertelweg 2",
     "sg:city":"Suhr",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236852557,
-    "wof:lastmodified":1449004573,
+    "wof:lastmodified":1466213001,
     "wof:name":"Aargauer Zentralmolkerei Ag (azm)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [8.076631,47.366608,8.076631,47.366608],
+  "bbox": [
+    8.076631,
+    47.366608,
+    8.076631,
+    47.366608
+],
   "geometry": {"coordinates":[8.076631,47.366608],"type":"Point"}
 }

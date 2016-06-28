@@ -2,13 +2,14 @@
   "id": 252718269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.365507,46.230213,7.365507,46.230213",
     "geom:latitude":46.230213,
     "geom:longitude":7.365507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Tourbillon 43",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252718269,
-    "wof:lastmodified":1449005658,
+    "wof:lastmodified":1466209038,
     "wof:name":"Lexco Werbe Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.365507,46.230213,7.365507,46.230213],
+  "bbox": [
+    7.365507,
+    46.230213,
+    7.365507,
+    46.230213
+],
   "geometry": {"coordinates":[7.365507,46.230213],"type":"Point"}
 }

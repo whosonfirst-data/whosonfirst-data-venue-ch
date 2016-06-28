@@ -2,13 +2,14 @@
   "id": 202989305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.448877,47.356224,8.448877,47.356224",
     "geom:latitude":47.356224,
     "geom:longitude":8.448877,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De L'a\u00e9roport 5 1215 Gen\u00e8ve. Postfach 1215 Gen\u00e8ve",
     "sg:city":"D\u00e9p\u00f4t",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202989305,
-    "wof:lastmodified":1449061956,
+    "wof:lastmodified":1466212506,
     "wof:name":"Furler Integrale Beratung Umwelt Bau Energie",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.448877,47.356224,8.448877,47.356224],
+  "bbox": [
+    8.448877,
+    47.356224,
+    8.448877,
+    47.356224
+],
   "geometry": {"coordinates":[8.448877,47.356224],"type":"Point"}
 }

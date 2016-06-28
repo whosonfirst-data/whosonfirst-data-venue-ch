@@ -2,13 +2,14 @@
   "id": 219575125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.149986,46.201874,6.149986,46.201874",
     "geom:latitude":46.201874,
     "geom:longitude":6.149986,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Fontaine 5",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219575125,
-    "wof:lastmodified":1449071428,
+    "wof:lastmodified":1466211835,
     "wof:name":"Mourgue D'algue & Cie Banquiers",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.149986,46.201874,6.149986,46.201874],
+  "bbox": [
+    6.149986,
+    46.201874,
+    6.149986,
+    46.201874
+],
   "geometry": {"coordinates":[6.149986,46.201874],"type":"Point"}
 }

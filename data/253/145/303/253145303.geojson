@@ -2,13 +2,14 @@
   "id": 253145303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.45171,46.954655,7.45171,46.954655",
     "geom:latitude":46.954655,
     "geom:longitude":7.45171,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viktoriastrasse 72",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253145303,
-    "wof:lastmodified":1449063717,
+    "wof:lastmodified":1466210455,
     "wof:name":"Brot Ag Boulangerie",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.45171,46.954655,7.45171,46.954655],
+  "bbox": [
+    7.45171,
+    46.954655,
+    7.45171,
+    46.954655
+],
   "geometry": {"coordinates":[7.45171,46.954655],"type":"Point"}
 }

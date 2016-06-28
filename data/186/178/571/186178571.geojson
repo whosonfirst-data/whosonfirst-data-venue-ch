@@ -2,13 +2,14 @@
   "id": 186178571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.607754,47.5471,7.607754,47.5471",
     "geom:latitude":47.5471,
     "geom:longitude":7.607754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-ring 248",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186178571,
-    "wof:lastmodified":1449052286,
+    "wof:lastmodified":1466208918,
     "wof:name":"Promobal Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.607754,47.5471,7.607754,47.5471],
+  "bbox": [
+    7.607754,
+    47.5471,
+    7.607754,
+    47.5471
+],
   "geometry": {"coordinates":[7.607754,47.5471],"type":"Point"}
 }

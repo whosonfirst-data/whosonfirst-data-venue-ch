@@ -2,13 +2,14 @@
   "id": 253316175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.45016,46.948631,7.45016,46.948631",
     "geom:latitude":46.948631,
     "geom:longitude":7.45016,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausgasse 30 3011 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253316175,
-    "wof:lastmodified":1449064848,
+    "wof:lastmodified":1466211809,
     "wof:name":"Duroplant Com Ag Waren, Bes. B\u00fccher, Kunstobjekte Usw; Handel, Herst.",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.45016,46.948631,7.45016,46.948631],
+  "bbox": [
+    7.45016,
+    46.948631,
+    7.45016,
+    46.948631
+],
   "geometry": {"coordinates":[7.45016,46.948631],"type":"Point"}
 }

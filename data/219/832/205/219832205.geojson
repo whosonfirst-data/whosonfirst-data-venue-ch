@@ -2,13 +2,14 @@
   "id": 219832205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.844141,46.460606,6.844141,46.460606",
     "geom:latitude":46.460606,
     "geom:longitude":6.844141,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Simplon 33",
     "sg:city":"Vevey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219832205,
-    "wof:lastmodified":1449070386,
+    "wof:lastmodified":1466212605,
     "wof:name":"White Horse Pub",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.844141,46.460606,6.844141,46.460606],
+  "bbox": [
+    6.844141,
+    46.460606,
+    6.844141,
+    46.460606
+],
   "geometry": {"coordinates":[6.844141,46.460606],"type":"Point"}
 }

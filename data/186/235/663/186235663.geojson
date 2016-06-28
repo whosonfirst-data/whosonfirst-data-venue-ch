@@ -2,13 +2,14 @@
   "id": 186235663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.542378,47.482857,9.542378,47.482857",
     "geom:latitude":47.482857,
     "geom:longitude":9.542378,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 82 8957 Spreitenbach. Postfach",
     "sg:city":"Spreitenbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186235663,
-    "wof:lastmodified":1449050877,
+    "wof:lastmodified":1466209363,
     "wof:name":"Vago Staad Zweigniederlassung Der Kibag Strassen Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.542378,47.482857,9.542378,47.482857],
+  "bbox": [
+    9.542378,
+    47.482857,
+    9.542378,
+    47.482857
+],
   "geometry": {"coordinates":[9.542378,47.482857],"type":"Point"}
 }

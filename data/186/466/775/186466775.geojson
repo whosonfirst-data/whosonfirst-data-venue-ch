@@ -2,13 +2,14 @@
   "id": 186466775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.571829,47.332413,8.571829,47.332413",
     "geom:latitude":47.332413,
     "geom:longitude":8.571829,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 121",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186466775,
-    "wof:lastmodified":1449051177,
+    "wof:lastmodified":1466211141,
     "wof:name":"Brunner & Birgelen Ag Bedachungen & Fassaden",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.571829,47.332413,8.571829,47.332413],
+  "bbox": [
+    8.571829,
+    47.332413,
+    8.571829,
+    47.332413
+],
   "geometry": {"coordinates":[8.571829,47.332413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203358271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.452329,47.279503,8.452329,47.279503",
     "geom:latitude":47.279503,
     "geom:longitude":8.452329,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lebernstrasse 11",
     "sg:city":"N\u00fcrensdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203358271,
-    "wof:lastmodified":1449025721,
+    "wof:lastmodified":1466211113,
     "wof:name":"Dr.med.j\u00fcrg Pfisterer Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.452329,47.279503,8.452329,47.279503],
+  "bbox": [
+    8.452329,
+    47.279503,
+    8.452329,
+    47.279503
+],
   "geometry": {"coordinates":[8.452329,47.279503],"type":"Point"}
 }

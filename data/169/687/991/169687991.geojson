@@ -2,13 +2,14 @@
   "id": 169687991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598826,47.550022,7.598826,47.550022",
     "geom:latitude":47.550022,
     "geom:longitude":7.598826,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lange G. 20",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169687991,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466210743,
     "wof:name":"Swisslos",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [7.598826,47.550022,7.598826,47.550022],
+  "bbox": [
+    7.598826,
+    47.550022,
+    7.598826,
+    47.550022
+],
   "geometry": {"coordinates":[7.598826,47.550022],"type":"Point"}
 }

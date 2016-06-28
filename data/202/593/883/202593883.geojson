@@ -2,13 +2,14 @@
   "id": 202593883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.615628,47.278072,8.615628,47.278072",
     "geom:latitude":47.278072,
     "geom:longitude":8.615628,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrosse 391 8706 Feldmeilen. Postfach",
     "sg:city":"Feldmeilen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202593883,
-    "wof:lastmodified":1449061769,
+    "wof:lastmodified":1466209607,
     "wof:name":"Kex Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.615628,47.278072,8.615628,47.278072],
+  "bbox": [
+    8.615628,
+    47.278072,
+    8.615628,
+    47.278072
+],
   "geometry": {"coordinates":[8.615628,47.278072],"type":"Point"}
 }

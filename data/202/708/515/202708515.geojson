@@ -2,13 +2,14 @@
   "id": 202708515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585939,47.55294,7.585939,47.55294",
     "geom:latitude":47.55294,
     "geom:longitude":7.585939,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinenschanze 2",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202708515,
-    "wof:lastmodified":1449060504,
+    "wof:lastmodified":1466210670,
     "wof:name":"Seco Scarascia Engineering & Consulting Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.585939,47.55294,7.585939,47.55294],
+  "bbox": [
+    7.585939,
+    47.55294,
+    7.585939,
+    47.55294
+],
   "geometry": {"coordinates":[7.585939,47.55294],"type":"Point"}
 }

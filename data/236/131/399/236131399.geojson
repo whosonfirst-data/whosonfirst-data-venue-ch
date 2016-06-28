@@ -2,13 +2,14 @@
   "id": 236131399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.556672,47.181408,7.556672,47.181408",
     "geom:latitude":47.181408,
     "geom:longitude":7.556672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 4",
     "sg:city":"Biberist",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236131399,
-    "wof:lastmodified":1449002477,
+    "wof:lastmodified":1466210069,
     "wof:name":"Bauverwaltung Der Gemeinde Biberist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.556672,47.181408,7.556672,47.181408],
+  "bbox": [
+    7.556672,
+    47.181408,
+    7.556672,
+    47.181408
+],
   "geometry": {"coordinates":[7.556672,47.181408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185883833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.521852,47.203495,7.521852,47.203495",
     "geom:latitude":47.203495,
     "geom:longitude":7.521852,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedmattstrasse 3b",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185883833,
-    "wof:lastmodified":1449007848,
+    "wof:lastmodified":1466209735,
     "wof:name":"Mopa Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.521852,47.203495,7.521852,47.203495],
+  "bbox": [
+    7.521852,
+    47.203495,
+    7.521852,
+    47.203495
+],
   "geometry": {"coordinates":[7.521852,47.203495],"type":"Point"}
 }

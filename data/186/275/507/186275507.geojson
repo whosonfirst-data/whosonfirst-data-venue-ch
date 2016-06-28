@@ -2,13 +2,14 @@
   "id": 186275507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.360616,46.961845,8.360616,46.961845",
     "geom:latitude":46.961845,
     "geom:longitude":8.360616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stansstaderstrasse 52",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186275507,
-    "wof:lastmodified":1449051247,
+    "wof:lastmodified":1466209664,
     "wof:name":"Clemens Christen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.360616,46.961845,8.360616,46.961845],
+  "bbox": [
+    8.360616,
+    46.961845,
+    8.360616,
+    46.961845
+],
   "geometry": {"coordinates":[8.360616,46.961845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202392365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.41956,47.503311,8.41956,47.503311",
     "geom:latitude":47.503311,
     "geom:longitude":8.41956,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Buck 35",
     "sg:city":"Sch\u00f6fflisdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202392365,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1466209626,
     "wof:name":"Avolin Engineering, Buchegger A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.41956,47.503311,8.41956,47.503311],
+  "bbox": [
+    8.41956,
+    47.503311,
+    8.41956,
+    47.503311
+],
   "geometry": {"coordinates":[8.41956,47.503311],"type":"Point"}
 }

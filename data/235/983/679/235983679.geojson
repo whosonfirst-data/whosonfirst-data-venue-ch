@@ -2,13 +2,14 @@
   "id": 235983679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.849389,46.50919,6.849389,46.50919",
     "geom:latitude":46.50919,
     "geom:longitude":6.849389,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1616",
     "sg:city":"Attalens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235983679,
-    "wof:lastmodified":1449008591,
+    "wof:lastmodified":1466209369,
     "wof:name":"Roger Genoud Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.849389,46.50919,6.849389,46.50919],
+  "bbox": [
+    6.849389,
+    46.50919,
+    6.849389,
+    46.50919
+],
   "geometry": {"coordinates":[6.849389,46.50919],"type":"Point"}
 }

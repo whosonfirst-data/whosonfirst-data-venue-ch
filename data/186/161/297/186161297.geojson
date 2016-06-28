@@ -2,13 +2,14 @@
   "id": 186161297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.4126,47.37569,9.4126,47.37569",
     "geom:latitude":47.37569,
     "geom:longitude":9.4126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steig",
     "sg:city":"B\u00fchler",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186161297,
-    "wof:lastmodified":1449051428,
+    "wof:lastmodified":1466211533,
     "wof:name":"Niederer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.4126,47.37569,9.4126,47.37569],
+  "bbox": [
+    9.4126,
+    47.37569,
+    9.4126,
+    47.37569
+],
   "geometry": {"coordinates":[9.4126,47.37569],"type":"Point"}
 }

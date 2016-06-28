@@ -2,13 +2,14 @@
   "id": 186360135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.054193,47.130707,8.054193,47.130707",
     "geom:latitude":47.130707,
     "geom:longitude":8.054193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eduard Huberstrasse 26e",
     "sg:city":"Grosswangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186360135,
-    "wof:lastmodified":1449052391,
+    "wof:lastmodified":1466210284,
     "wof:name":"Fischer Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.054193,47.130707,8.054193,47.130707],
+  "bbox": [
+    8.054193,
+    47.130707,
+    8.054193,
+    47.130707
+],
   "geometry": {"coordinates":[8.054193,47.130707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219206645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.509698,46.769672,7.509698,46.769672",
     "geom:latitude":46.769672,
     "geom:longitude":7.509698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Metlenth\u00fcrli 3",
     "sg:city":"Wattenwil",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219206645,
-    "wof:lastmodified":1449072780,
+    "wof:lastmodified":1466211022,
     "wof:name":"Rowy Wies Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contract"
     ]
 },
-  "bbox": [7.509698,46.769672,7.509698,46.769672],
+  "bbox": [
+    7.509698,
+    46.769672,
+    7.509698,
+    46.769672
+],
   "geometry": {"coordinates":[7.509698,46.769672],"type":"Point"}
 }

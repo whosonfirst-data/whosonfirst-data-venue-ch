@@ -2,13 +2,14 @@
   "id": 236901479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.814889,47.337116,8.814889,47.337116",
     "geom:latitude":47.337116,
     "geom:longitude":8.814889,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trevano 7a",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236901479,
-    "wof:lastmodified":1449002963,
+    "wof:lastmodified":1466212971,
     "wof:name":"Domig Informatik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.814889,47.337116,8.814889,47.337116],
+  "bbox": [
+    8.814889,
+    47.337116,
+    8.814889,
+    47.337116
+],
   "geometry": {"coordinates":[8.814889,47.337116],"type":"Point"}
 }

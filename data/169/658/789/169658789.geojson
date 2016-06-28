@@ -2,13 +2,14 @@
   "id": 169658789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.636022,47.536797,7.636022,47.536797",
     "geom:latitude":47.536797,
     "geom:longitude":7.636022,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte Andr\u00e9 Piller 21",
     "sg:city":"Fribourg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169658789,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466210261,
     "wof:name":"Intex Pharmazeutika Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pharmacy"
     ]
 },
-  "bbox": [7.636022,47.536797,7.636022,47.536797],
+  "bbox": [
+    7.636022,
+    47.536797,
+    7.636022,
+    47.536797
+],
   "geometry": {"coordinates":[7.636022,47.536797],"type":"Point"}
 }

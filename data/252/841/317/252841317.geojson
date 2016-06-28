@@ -2,13 +2,14 @@
   "id": 252841317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.128452,47.262356,9.128452,47.262356",
     "geom:latitude":47.262356,
     "geom:longitude":9.128452,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenb\u00fcelstrasse 50 9642 Ebnat. Postfach",
     "sg:city":"Ebnat-kappel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252841317,
-    "wof:lastmodified":1449005647,
+    "wof:lastmodified":1466210360,
     "wof:name":"Kauf Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.128452,47.262356,9.128452,47.262356],
+  "bbox": [
+    9.128452,
+    47.262356,
+    9.128452,
+    47.262356
+],
   "geometry": {"coordinates":[9.128452,47.262356],"type":"Point"}
 }

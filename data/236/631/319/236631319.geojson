@@ -2,13 +2,14 @@
   "id": 236631319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.434335,47.071835,8.434335,47.071835",
     "geom:latitude":47.071835,
     "geom:longitude":8.434335,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Campingstrasse",
     "sg:city":"Giswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236631319,
-    "wof:lastmodified":1449002507,
+    "wof:lastmodified":1466212722,
     "wof:name":"Campingplatz Seeburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.434335,47.071835,8.434335,47.071835],
+  "bbox": [
+    8.434335,
+    47.071835,
+    8.434335,
+    47.071835
+],
   "geometry": {"coordinates":[8.434335,47.071835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236020011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.553015,47.492451,7.553015,47.492451",
     "geom:latitude":47.492451,
     "geom:longitude":7.553015,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4rweg 32",
     "sg:city":"Therwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236020011,
-    "wof:lastmodified":1449003143,
+    "wof:lastmodified":1466209062,
     "wof:name":"Abax F.gutzwiller",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.553015,47.492451,7.553015,47.492451],
+  "bbox": [
+    7.553015,
+    47.492451,
+    7.553015,
+    47.492451
+],
   "geometry": {"coordinates":[7.553015,47.492451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186637051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.001724,47.409718,8.001724,47.409718",
     "geom:latitude":47.409718,
     "geom:longitude":8.001724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eggrebenweg 2",
     "sg:city":"Erlinsbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186637051,
-    "wof:lastmodified":1449050253,
+    "wof:lastmodified":1466212260,
     "wof:name":"Archibau + Partner Gmbh",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.001724,47.409718,8.001724,47.409718],
+  "bbox": [
+    8.001724,
+    47.409718,
+    8.001724,
+    47.409718
+],
   "geometry": {"coordinates":[8.001724,47.409718],"type":"Point"}
 }

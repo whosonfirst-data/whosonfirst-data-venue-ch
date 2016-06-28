@@ -2,13 +2,14 @@
   "id": 169762323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.367851,47.420078,9.367851,47.420078",
     "geom:latitude":47.420078,
     "geom:longitude":9.367851,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Davidstrasse 40",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169762323,
-    "wof:lastmodified":1449035005,
+    "wof:lastmodified":1466211451,
     "wof:name":"Tanzschule Wingling",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.367851,47.420078,9.367851,47.420078],
+  "bbox": [
+    9.367851,
+    47.420078,
+    9.367851,
+    47.420078
+],
   "geometry": {"coordinates":[9.367851,47.420078],"type":"Point"}
 }

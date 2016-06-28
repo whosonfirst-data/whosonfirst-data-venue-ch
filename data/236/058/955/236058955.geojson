@@ -2,13 +2,14 @@
   "id": 236058955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52654,47.360268,8.52654,47.360268",
     "geom:latitude":47.360268,
     "geom:longitude":8.52654,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waffenplatzstrasse 30",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236058955,
-    "wof:lastmodified":1449002039,
+    "wof:lastmodified":1466209411,
     "wof:name":"B\u00fcsser Bauspenglerei",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52654,47.360268,8.52654,47.360268],
+  "bbox": [
+    8.52654,
+    47.360268,
+    8.52654,
+    47.360268
+],
   "geometry": {"coordinates":[8.52654,47.360268],"type":"Point"}
 }

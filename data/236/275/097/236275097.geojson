@@ -2,13 +2,14 @@
   "id": 236275097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.441062,46.939655,7.441062,46.939655",
     "geom:latitude":46.939655,
     "geom:longitude":7.441062,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandrainstrasse 12",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236275097,
-    "wof:lastmodified":1449002556,
+    "wof:lastmodified":1466211600,
     "wof:name":"The Bowling Company Ag",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.441062,46.939655,7.441062,46.939655],
+  "bbox": [
+    7.441062,
+    46.939655,
+    7.441062,
+    46.939655
+],
   "geometry": {"coordinates":[7.441062,46.939655],"type":"Point"}
 }

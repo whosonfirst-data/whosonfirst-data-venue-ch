@@ -2,13 +2,14 @@
   "id": 202969903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.272745,46.475723,6.272745,46.475723",
     "geom:latitude":46.475723,
     "geom:longitude":6.272745,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maison Rouge",
     "sg:city":"Burtigny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202969903,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1466212379,
     "wof:name":"Daniel Redard Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.272745,46.475723,6.272745,46.475723],
+  "bbox": [
+    6.272745,
+    46.475723,
+    6.272745,
+    46.475723
+],
   "geometry": {"coordinates":[6.272745,46.475723],"type":"Point"}
 }

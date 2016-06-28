@@ -2,13 +2,14 @@
   "id": 169687175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.922263,47.317558,7.922263,47.317558",
     "geom:latitude":47.317558,
     "geom:longitude":7.922263,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 7",
     "sg:city":"Oftringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169687175,
-    "wof:lastmodified":1449033609,
+    "wof:lastmodified":1466210577,
     "wof:name":"Burki + Scherer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.922263,47.317558,7.922263,47.317558],
+  "bbox": [
+    7.922263,
+    47.317558,
+    7.922263,
+    47.317558
+],
   "geometry": {"coordinates":[7.922263,47.317558],"type":"Point"}
 }

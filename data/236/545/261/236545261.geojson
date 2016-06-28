@@ -2,13 +2,14 @@
   "id": 236545261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.824335,47.230579,8.824335,47.230579",
     "geom:latitude":47.230579,
     "geom:longitude":8.824335,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mythenstrasse 17",
     "sg:city":"Rapperswil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236545261,
-    "wof:lastmodified":1449002276,
+    "wof:lastmodified":1466212578,
     "wof:name":"Campi Gartenbau & Gestaltung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.824335,47.230579,8.824335,47.230579],
+  "bbox": [
+    8.824335,
+    47.230579,
+    8.824335,
+    47.230579
+],
   "geometry": {"coordinates":[8.824335,47.230579],"type":"Point"}
 }

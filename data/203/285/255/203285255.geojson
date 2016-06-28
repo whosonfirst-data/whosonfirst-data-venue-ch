@@ -2,13 +2,14 @@
   "id": 203285255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536929,47.609325,8.536929,47.609325",
     "geom:latitude":47.609325,
     "geom:longitude":8.536929,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheidw\u00e4g 19",
     "sg:city":"Rafz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203285255,
-    "wof:lastmodified":1449025002,
+    "wof:lastmodified":1466210386,
     "wof:name":"Dr.med.benno Zurgilgen Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536929,47.609325,8.536929,47.609325],
+  "bbox": [
+    8.536929,
+    47.609325,
+    8.536929,
+    47.609325
+],
   "geometry": {"coordinates":[8.536929,47.609325],"type":"Point"}
 }

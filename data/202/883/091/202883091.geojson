@@ -2,13 +2,14 @@
   "id": 202883091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.619271,46.522099,6.619271,46.522099",
     "geom:latitude":46.522099,
     "geom:longitude":6.619271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De S\u00e9velin 18 1004 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202883091,
-    "wof:lastmodified":1449062061,
+    "wof:lastmodified":1466211962,
     "wof:name":"Pluggit International S\u00e0rl Gestion Centralis\u00e9e, Planification, Commerce De Produits Etc",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.619271,46.522099,6.619271,46.522099],
+  "bbox": [
+    6.619271,
+    46.522099,
+    6.619271,
+    46.522099
+],
   "geometry": {"coordinates":[6.619271,46.522099],"type":"Point"}
 }

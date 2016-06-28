@@ -2,13 +2,14 @@
   "id": 253365923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.537811,47.551651,7.537811,47.551651",
     "geom:latitude":47.551651,
     "geom:longitude":7.537811,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstrasse 27",
     "sg:city":"Allschwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253365923,
-    "wof:lastmodified":1449063295,
+    "wof:lastmodified":1466212153,
     "wof:name":"Buch Wigger",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.537811,47.551651,7.537811,47.551651],
+  "bbox": [
+    7.537811,
+    47.551651,
+    7.537811,
+    47.551651
+],
   "geometry": {"coordinates":[7.537811,47.551651],"type":"Point"}
 }

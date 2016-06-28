@@ -2,13 +2,14 @@
   "id": 186023969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585002,47.545132,7.585002,47.545132",
     "geom:latitude":47.545132,
     "geom:longitude":7.585002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornacherstrasse 25",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186023969,
-    "wof:lastmodified":1449052756,
+    "wof:lastmodified":1466209624,
     "wof:name":"Biberclean Ag",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.585002,47.545132,7.585002,47.545132],
+  "bbox": [
+    7.585002,
+    47.545132,
+    7.585002,
+    47.545132
+],
   "geometry": {"coordinates":[7.585002,47.545132],"type":"Point"}
 }

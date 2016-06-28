@@ -2,13 +2,14 @@
   "id": 236632729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.058481,47.014587,7.058481,47.014587",
     "geom:latitude":47.014587,
     "geom:longitude":7.058481,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fanelstrand",
     "sg:city":"Gampelen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236632729,
-    "wof:lastmodified":1449003817,
+    "wof:lastmodified":1466212727,
     "wof:name":"Tcs-campingplatz Gampelen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.058481,47.014587,7.058481,47.014587],
+  "bbox": [
+    7.058481,
+    47.014587,
+    7.058481,
+    47.014587
+],
   "geometry": {"coordinates":[7.058481,47.014587],"type":"Point"}
 }

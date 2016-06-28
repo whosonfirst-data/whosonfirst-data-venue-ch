@@ -2,13 +2,14 @@
   "id": 186256405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.72264,46.715115,7.72264,46.715115",
     "geom:latitude":46.715115,
     "geom:longitude":7.72264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldenstrasse",
     "sg:city":"Sigriswil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186256405,
-    "wof:lastmodified":1449052373,
+    "wof:lastmodified":1466209522,
     "wof:name":"Zeller & Co. Sigriswil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.72264,46.715115,7.72264,46.715115],
+  "bbox": [
+    7.72264,
+    46.715115,
+    7.72264,
+    46.715115
+],
   "geometry": {"coordinates":[7.72264,46.715115],"type":"Point"}
 }

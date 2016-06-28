@@ -2,13 +2,14 @@
   "id": 219641173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.399753,46.811535,9.399753,46.811535",
     "geom:latitude":46.811535,
     "geom:longitude":9.399753,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 1",
     "sg:city":"Bonaduz",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219641173,
-    "wof:lastmodified":1449073080,
+    "wof:lastmodified":1466212010,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.399753,46.811535,9.399753,46.811535],
+  "bbox": [
+    9.399753,
+    46.811535,
+    9.399753,
+    46.811535
+],
   "geometry": {"coordinates":[9.399753,46.811535],"type":"Point"}
 }

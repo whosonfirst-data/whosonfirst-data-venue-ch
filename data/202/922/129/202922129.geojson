@@ -2,13 +2,14 @@
   "id": 202922129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.79098,47.409672,8.79098,47.409672",
     "geom:latitude":47.409672,
     "geom:longitude":8.79098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fridental",
     "sg:city":"Madetswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202922129,
-    "wof:lastmodified":1449060345,
+    "wof:lastmodified":1466212327,
     "wof:name":"Geomex Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.79098,47.409672,8.79098,47.409672],
+  "bbox": [
+    8.79098,
+    47.409672,
+    8.79098,
+    47.409672
+],
   "geometry": {"coordinates":[8.79098,47.409672],"type":"Point"}
 }

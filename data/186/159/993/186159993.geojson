@@ -2,13 +2,14 @@
   "id": 186159993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.456615,46.740414,6.456615,46.740414",
     "geom:latitude":46.740414,
     "geom:longitude":6.456615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1357",
     "sg:city":"Lignerolle",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186159993,
-    "wof:lastmodified":1449050575,
+    "wof:lastmodified":1466211521,
     "wof:name":"Neri Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.456615,46.740414,6.456615,46.740414],
+  "bbox": [
+    6.456615,
+    46.740414,
+    6.456615,
+    46.740414
+],
   "geometry": {"coordinates":[6.456615,46.740414],"type":"Point"}
 }

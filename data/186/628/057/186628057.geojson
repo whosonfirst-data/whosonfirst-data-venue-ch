@@ -2,13 +2,14 @@
   "id": 186628057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.424472,47.031532,8.424472,47.031532",
     "geom:latitude":47.031532,
     "geom:longitude":8.424472,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 60",
     "sg:city":"Weggis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186628057,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466212103,
     "wof:name":"Aldoplan Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.424472,47.031532,8.424472,47.031532],
+  "bbox": [
+    8.424472,
+    47.031532,
+    8.424472,
+    47.031532
+],
   "geometry": {"coordinates":[8.424472,47.031532],"type":"Point"}
 }

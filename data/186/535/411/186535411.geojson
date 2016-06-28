@@ -2,13 +2,14 @@
   "id": 186535411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.587775,47.463425,9.587775,47.463425",
     "geom:latitude":47.463425,
     "geom:longitude":9.587775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Appenzellerstrasse 37",
     "sg:city":"Rheineck",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186535411,
-    "wof:lastmodified":1449050899,
+    "wof:lastmodified":1466211788,
     "wof:name":"Altersheim Altensteig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.587775,47.463425,9.587775,47.463425],
+  "bbox": [
+    9.587775,
+    47.463425,
+    9.587775,
+    47.463425
+],
   "geometry": {"coordinates":[9.587775,47.463425],"type":"Point"}
 }

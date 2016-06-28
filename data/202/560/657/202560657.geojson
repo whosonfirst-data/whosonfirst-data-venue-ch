@@ -2,13 +2,14 @@
   "id": 202560657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304226,47.045677,8.304226,47.045677",
     "geom:latitude":47.045677,
     "geom:longitude":8.304226,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosstrasse 2 6000 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202560657,
-    "wof:lastmodified":1449062056,
+    "wof:lastmodified":1466209298,
     "wof:name":"Ingenieurb\u00fcro Caduff",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304226,47.045677,8.304226,47.045677],
+  "bbox": [
+    8.304226,
+    47.045677,
+    8.304226,
+    47.045677
+],
   "geometry": {"coordinates":[8.304226,47.045677],"type":"Point"}
 }

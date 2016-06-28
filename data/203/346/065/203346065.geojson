@@ -2,13 +2,14 @@
   "id": 203346065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.568031,47.54969,7.568031,47.54969",
     "geom:latitude":47.54969,
     "geom:longitude":7.568031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bristenweg 9",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203346065,
-    "wof:lastmodified":1449024935,
+    "wof:lastmodified":1466210992,
     "wof:name":"Dr.med.irene Metz Spezial\u00e4rztin",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.568031,47.54969,7.568031,47.54969],
+  "bbox": [
+    7.568031,
+    47.54969,
+    7.568031,
+    47.54969
+],
   "geometry": {"coordinates":[7.568031,47.54969],"type":"Point"}
 }

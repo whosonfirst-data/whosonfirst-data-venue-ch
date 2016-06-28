@@ -2,13 +2,14 @@
   "id": 253324493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.500835,47.391911,8.500835,47.391911",
     "geom:latitude":47.391911,
     "geom:longitude":8.500835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aargauerstrasse 1 8048 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253324493,
-    "wof:lastmodified":1449064541,
+    "wof:lastmodified":1466211978,
     "wof:name":"Kiosk Engrosmarkt, Grieshaber Karin",
     "wof:parent_id":85800617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.500835,47.391911,8.500835,47.391911],
+  "bbox": [
+    8.500835,
+    47.391911,
+    8.500835,
+    47.391911
+],
   "geometry": {"coordinates":[8.500835,47.391911],"type":"Point"}
 }

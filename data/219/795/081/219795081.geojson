@@ -2,13 +2,14 @@
   "id": 219795081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.443315,47.356113,8.443315,47.356113",
     "geom:latitude":47.356113,
     "geom:longitude":8.443315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 61",
     "sg:city":"Rheinfelden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219795081,
-    "wof:lastmodified":1449072473,
+    "wof:lastmodified":1466212518,
     "wof:name":"Cheers Krone Pub",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.443315,47.356113,8.443315,47.356113],
+  "bbox": [
+    8.443315,
+    47.356113,
+    8.443315,
+    47.356113
+],
   "geometry": {"coordinates":[8.443315,47.356113],"type":"Point"}
 }

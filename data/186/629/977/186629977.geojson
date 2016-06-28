@@ -2,13 +2,14 @@
   "id": 186629977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527831,47.35965,8.527831,47.35965",
     "geom:latitude":47.35965,
     "geom:longitude":8.527831,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebhaldenstrasse 4 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186629977,
-    "wof:lastmodified":1449052380,
+    "wof:lastmodified":1466212116,
     "wof:name":"Althammer Hochuli Architekten Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527831,47.35965,8.527831,47.35965],
+  "bbox": [
+    8.527831,
+    47.35965,
+    8.527831,
+    47.35965
+],
   "geometry": {"coordinates":[8.527831,47.35965],"type":"Point"}
 }

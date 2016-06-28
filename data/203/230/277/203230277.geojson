@@ -2,13 +2,14 @@
   "id": 203230277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.584225,46.531536,6.584225,46.531536",
     "geom:latitude":46.531536,
     "geom:longitude":6.584225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Grange-canal 23b",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203230277,
-    "wof:lastmodified":1449026372,
+    "wof:lastmodified":1466209806,
     "wof:name":"Dr M\u00e9d. Touryalay Nour M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.584225,46.531536,6.584225,46.531536],
+  "bbox": [
+    6.584225,
+    46.531536,
+    6.584225,
+    46.531536
+],
   "geometry": {"coordinates":[6.584225,46.531536],"type":"Point"}
 }

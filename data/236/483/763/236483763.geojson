@@ -2,13 +2,14 @@
   "id": 236483763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.151571,46.196087,6.151571,46.196087",
     "geom:latitude":46.196087,
     "geom:longitude":6.151571,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tranch\u00e9es Bvd Des 8 1206 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236483763,
-    "wof:lastmodified":1449004400,
+    "wof:lastmodified":1466212412,
     "wof:name":"Navigest Ship Management And Services Sa",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.151571,46.196087,6.151571,46.196087],
+  "bbox": [
+    6.151571,
+    46.196087,
+    6.151571,
+    46.196087
+],
   "geometry": {"coordinates":[6.151571,46.196087],"type":"Point"}
 }

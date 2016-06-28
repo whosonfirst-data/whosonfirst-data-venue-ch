@@ -2,13 +2,14 @@
   "id": 236682787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.967311,47.241085,7.967311,47.241085",
     "geom:latitude":47.241085,
     "geom:longitude":7.967311,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattstrasse 5",
     "sg:city":"Reiden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236682787,
-    "wof:lastmodified":1449002106,
+    "wof:lastmodified":1466212720,
     "wof:name":"Strub & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chain"
     ]
 },
-  "bbox": [7.967311,47.241085,7.967311,47.241085],
+  "bbox": [
+    7.967311,
+    47.241085,
+    7.967311,
+    47.241085
+],
   "geometry": {"coordinates":[7.967311,47.241085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219341761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.901337,46.983833,6.901337,46.983833",
     "geom:latitude":46.983833,
     "geom:longitude":6.901337,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place De L'eglise 6",
     "sg:city":"Farvagny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219341761,
-    "wof:lastmodified":1449073760,
+    "wof:lastmodified":1466209627,
     "wof:name":"Garage Chez Jeanneret Georges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.901337,46.983833,6.901337,46.983833],
+  "bbox": [
+    6.901337,
+    46.983833,
+    6.901337,
+    46.983833
+],
   "geometry": {"coordinates":[6.901337,46.983833],"type":"Point"}
 }

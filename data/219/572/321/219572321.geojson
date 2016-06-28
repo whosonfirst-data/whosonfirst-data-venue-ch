@@ -2,13 +2,14 @@
   "id": 219572321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.923247,47.136234,7.923247,47.136234",
     "geom:latitude":47.136234,
     "geom:longitude":7.923247,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luzernstr. 1",
     "sg:city":"Zell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219572321,
-    "wof:lastmodified":1449072554,
+    "wof:lastmodified":1466211812,
     "wof:name":"Luzerner Regiobank Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.923247,47.136234,7.923247,47.136234],
+  "bbox": [
+    7.923247,
+    47.136234,
+    7.923247,
+    47.136234
+],
   "geometry": {"coordinates":[7.923247,47.136234],"type":"Point"}
 }

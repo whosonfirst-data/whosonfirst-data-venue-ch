@@ -2,13 +2,14 @@
   "id": 236293345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543796,47.390106,8.543796,47.390106",
     "geom:latitude":47.390106,
     "geom:longitude":8.543796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6slistrasse 41 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236293345,
-    "wof:lastmodified":1449002163,
+    "wof:lastmodified":1466211693,
     "wof:name":"Elhosiny Taxi Taxi-betrieg, Personentransporte",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543796,47.390106,8.543796,47.390106],
+  "bbox": [
+    8.543796,
+    47.390106,
+    8.543796,
+    47.390106
+],
   "geometry": {"coordinates":[8.543796,47.390106],"type":"Point"}
 }

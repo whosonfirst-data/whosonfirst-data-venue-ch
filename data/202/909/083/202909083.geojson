@@ -2,13 +2,14 @@
   "id": 202909083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.635319,46.783417,6.635319,46.783417",
     "geom:latitude":46.783417,
     "geom:longitude":6.635319,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai De La Thi\u00e8le 23f 1400 Yverdon-les-bains. Postfach",
     "sg:city":"Cheseaux-nor\u00e9az",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202909083,
-    "wof:lastmodified":1449062020,
+    "wof:lastmodified":1466212161,
     "wof:name":"De Stefano S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.635319,46.783417,6.635319,46.783417],
+  "bbox": [
+    6.635319,
+    46.783417,
+    6.635319,
+    46.783417
+],
   "geometry": {"coordinates":[6.635319,46.783417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236300811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.64231,47.52264,7.64231,47.52264",
     "geom:latitude":47.52264,
     "geom:longitude":7.64231,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Sprung 2",
     "sg:city":"Muttenz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236300811,
-    "wof:lastmodified":1449003522,
+    "wof:lastmodified":1466211717,
     "wof:name":"Hans-ulrich Sp\u00e4nhauer Taxi",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.64231,47.52264,7.64231,47.52264],
+  "bbox": [
+    7.64231,
+    47.52264,
+    7.64231,
+    47.52264
+],
   "geometry": {"coordinates":[7.64231,47.52264],"type":"Point"}
 }

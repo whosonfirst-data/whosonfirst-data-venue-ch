@@ -2,13 +2,14 @@
   "id": 236828269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.626649,46.508881,6.626649,46.508881",
     "geom:latitude":46.508881,
     "geom:longitude":6.626649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Funiculaire 10",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236828269,
-    "wof:lastmodified":1449003302,
+    "wof:lastmodified":1466212922,
     "wof:name":"Galster Et Mottaz Sa",
     "wof:parent_id":85800387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.626649,46.508881,6.626649,46.508881],
+  "bbox": [
+    6.626649,
+    46.508881,
+    6.626649,
+    46.508881
+],
   "geometry": {"coordinates":[6.626649,46.508881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252868609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527617,47.379837,8.527617,47.379837",
     "geom:latitude":47.379837,
     "geom:longitude":8.527617,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langstrasse 133",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252868609,
-    "wof:lastmodified":1449005446,
+    "wof:lastmodified":1466210652,
     "wof:name":"Spilag Ag Berufsbekleidung",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527617,47.379837,8.527617,47.379837],
+  "bbox": [
+    8.527617,
+    47.379837,
+    8.527617,
+    47.379837
+],
   "geometry": {"coordinates":[8.527617,47.379837],"type":"Point"}
 }

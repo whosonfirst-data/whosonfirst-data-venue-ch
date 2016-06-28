@@ -2,13 +2,14 @@
   "id": 185955665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43655,46.945946,7.43655,46.945946",
     "geom:latitude":46.945946,
     "geom:longitude":7.43655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Effingerstrasse 6a",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185955665,
-    "wof:lastmodified":1449007704,
+    "wof:lastmodified":1466210341,
     "wof:name":"Didac Schulen Ag",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43655,46.945946,7.43655,46.945946],
+  "bbox": [
+    7.43655,
+    46.945946,
+    7.43655,
+    46.945946
+],
   "geometry": {"coordinates":[7.43655,46.945946],"type":"Point"}
 }

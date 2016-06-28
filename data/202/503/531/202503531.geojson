@@ -2,13 +2,14 @@
   "id": 202503531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.900774,47.349304,7.900774,47.349304",
     "geom:latitude":47.349304,
     "geom:longitude":7.900774,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leberngasse 1 4600 Olten. Postfach",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202503531,
-    "wof:lastmodified":1449062654,
+    "wof:lastmodified":1466211470,
     "wof:name":"Frey + Gnehm Olten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.900774,47.349304,7.900774,47.349304],
+  "bbox": [
+    7.900774,
+    47.349304,
+    7.900774,
+    47.349304
+],
   "geometry": {"coordinates":[7.900774,47.349304],"type":"Point"}
 }

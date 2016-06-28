@@ -2,13 +2,14 @@
   "id": 252795455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43116,46.951969,7.43116,46.951969",
     "geom:latitude":46.951969,
     "geom:longitude":7.43116,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchlplatz 1",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252795455,
-    "wof:lastmodified":1449006070,
+    "wof:lastmodified":1466209854,
     "wof:name":"Edith Weiss Antiquit\u00e4ten-kunsthandel",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43116,46.951969,7.43116,46.951969],
+  "bbox": [
+    7.43116,
+    46.951969,
+    7.43116,
+    46.951969
+],
   "geometry": {"coordinates":[7.43116,46.951969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219629363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.15827,46.42625,8.15827,46.42625",
     "geom:latitude":46.42625,
     "geom:longitude":8.15827,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 5",
     "sg:city":"Uetendorf",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219629363,
-    "wof:lastmodified":1449073105,
+    "wof:lastmodified":1466211980,
     "wof:name":"Raiffeisenbank Unnergoms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.15827,46.42625,8.15827,46.42625],
+  "bbox": [
+    8.15827,
+    46.42625,
+    8.15827,
+    46.42625
+],
   "geometry": {"coordinates":[8.15827,46.42625],"type":"Point"}
 }

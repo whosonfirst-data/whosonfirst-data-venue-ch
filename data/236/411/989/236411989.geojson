@@ -2,13 +2,14 @@
   "id": 236411989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.071818,46.101067,7.071818,46.101067",
     "geom:latitude":46.101067,
     "geom:longitude":7.071818,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Coteaux 1",
     "sg:city":"Cortaillod",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236411989,
-    "wof:lastmodified":1449001795,
+    "wof:lastmodified":1466212285,
     "wof:name":"Biblioth\u00e8que Communale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.071818,46.101067,7.071818,46.101067],
+  "bbox": [
+    7.071818,
+    46.101067,
+    7.071818,
+    46.101067
+],
   "geometry": {"coordinates":[7.071818,46.101067],"type":"Point"}
 }

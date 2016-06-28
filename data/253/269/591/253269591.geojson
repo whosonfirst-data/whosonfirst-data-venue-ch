@@ -2,13 +2,14 @@
   "id": 253269591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.372106,47.260845,8.372106,47.260845",
     "geom:latitude":47.260845,
     "geom:longitude":8.372106,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 148 5634 Merenschwand. Postfach",
     "sg:city":"Merenschwand",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253269591,
-    "wof:lastmodified":1449064677,
+    "wof:lastmodified":1466211634,
     "wof:name":"Werner M\u00fcller-schmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.372106,47.260845,8.372106,47.260845],
+  "bbox": [
+    8.372106,
+    47.260845,
+    8.372106,
+    47.260845
+],
   "geometry": {"coordinates":[8.372106,47.260845],"type":"Point"}
 }

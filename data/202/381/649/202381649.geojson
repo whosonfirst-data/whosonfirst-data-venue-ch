@@ -2,13 +2,14 @@
   "id": 202381649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.384408,47.043232,7.384408,47.043232",
     "geom:latitude":47.043232,
     "geom:longitude":7.384408,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenweg 3 3054 Sch\u00fcpfen. Postfach",
     "sg:city":"Sch\u00fcpfen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202381649,
-    "wof:lastmodified":1449060324,
+    "wof:lastmodified":1466209260,
     "wof:name":"Arn + Partner Ag, Zweigniederlassung Sch\u00fcpfen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.384408,47.043232,7.384408,47.043232],
+  "bbox": [
+    7.384408,
+    47.043232,
+    7.384408,
+    47.043232
+],
   "geometry": {"coordinates":[7.384408,47.043232],"type":"Point"}
 }

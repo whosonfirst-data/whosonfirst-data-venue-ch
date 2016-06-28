@@ -2,13 +2,14 @@
   "id": 236911467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543013,47.384739,8.543013,47.384739",
     "geom:latitude":47.384739,
     "geom:longitude":8.543013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Volkmarstrasse 5",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236911467,
-    "wof:lastmodified":1449004602,
+    "wof:lastmodified":1466213020,
     "wof:name":"Michael Zischeck Inmood",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543013,47.384739,8.543013,47.384739],
+  "bbox": [
+    8.543013,
+    47.384739,
+    8.543013,
+    47.384739
+],
   "geometry": {"coordinates":[8.543013,47.384739],"type":"Point"}
 }

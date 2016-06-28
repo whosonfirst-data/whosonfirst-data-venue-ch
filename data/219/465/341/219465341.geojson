@@ -2,13 +2,14 @@
   "id": 219465341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.656895,47.016861,7.656895,47.016861",
     "geom:latitude":47.016861,
     "geom:longitude":7.656895,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgdorf Thunstr. 202",
     "sg:city":"Burgdorf",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219465341,
-    "wof:lastmodified":1449072763,
+    "wof:lastmodified":1466210807,
     "wof:name":"Amtsersparniskasse Burgdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.656895,47.016861,7.656895,47.016861],
+  "bbox": [
+    7.656895,
+    47.016861,
+    7.656895,
+    47.016861
+],
   "geometry": {"coordinates":[7.656895,47.016861],"type":"Point"}
 }

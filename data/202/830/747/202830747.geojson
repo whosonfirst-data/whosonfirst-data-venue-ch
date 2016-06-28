@@ -2,13 +2,14 @@
   "id": 202830747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.900729,47.489906,8.900729,47.489906",
     "geom:latitude":47.489906,
     "geom:longitude":8.900729,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch\u00e2telstrasse 6 8355 Aadorf. Postfach 226",
     "sg:city":"Aadorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202830747,
-    "wof:lastmodified":1449060657,
+    "wof:lastmodified":1466211837,
     "wof:name":"Heider Matthis Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.900729,47.489906,8.900729,47.489906],
+  "bbox": [
+    8.900729,
+    47.489906,
+    8.900729,
+    47.489906
+],
   "geometry": {"coordinates":[8.900729,47.489906],"type":"Point"}
 }

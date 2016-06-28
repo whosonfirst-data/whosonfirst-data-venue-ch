@@ -2,13 +2,14 @@
   "id": 236666131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.206731,47.485203,8.206731,47.485203",
     "geom:latitude":47.485203,
     "geom:longitude":8.206731,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 47",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236666131,
-    "wof:lastmodified":1449002736,
+    "wof:lastmodified":1466212842,
     "wof:name":"Speedy Food Pizzakurier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.206731,47.485203,8.206731,47.485203],
+  "bbox": [
+    8.206731,
+    47.485203,
+    8.206731,
+    47.485203
+],
   "geometry": {"coordinates":[8.206731,47.485203],"type":"Point"}
 }

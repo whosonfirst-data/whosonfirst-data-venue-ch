@@ -2,13 +2,14 @@
   "id": 236513203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.85581,47.654022,8.85581,47.654022",
     "geom:latitude":47.654022,
     "geom:longitude":8.85581,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstrasse 25",
     "sg:city":"Hirzel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236513203,
-    "wof:lastmodified":1449003913,
+    "wof:lastmodified":1466212476,
     "wof:name":"Blumen Eggli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.85581,47.654022,8.85581,47.654022],
+  "bbox": [
+    8.85581,
+    47.654022,
+    8.85581,
+    47.654022
+],
   "geometry": {"coordinates":[8.85581,47.654022],"type":"Point"}
 }

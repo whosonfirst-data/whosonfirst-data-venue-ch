@@ -2,13 +2,14 @@
   "id": 202508241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.246136,47.140072,7.246136,47.140072",
     "geom:latitude":47.140072,
     "geom:longitude":7.246136,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 9 2500 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202508241,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466211526,
     "wof:name":"Galli C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.246136,47.140072,7.246136,47.140072],
+  "bbox": [
+    7.246136,
+    47.140072,
+    7.246136,
+    47.140072
+],
   "geometry": {"coordinates":[7.246136,47.140072],"type":"Point"}
 }

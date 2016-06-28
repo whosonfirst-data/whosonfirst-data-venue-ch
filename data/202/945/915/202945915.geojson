@@ -2,13 +2,14 @@
   "id": 202945915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.763297,46.165115,8.763297,46.165115",
     "geom:latitude":46.165115,
     "geom:longitude":8.763297,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Locarno 33",
     "sg:city":"Losone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202945915,
-    "wof:lastmodified":1449060333,
+    "wof:lastmodified":1466212308,
     "wof:name":"Antonio Pisoni Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.763297,46.165115,8.763297,46.165115],
+  "bbox": [
+    8.763297,
+    46.165115,
+    8.763297,
+    46.165115
+],
   "geometry": {"coordinates":[8.763297,46.165115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185718103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.07165,47.41523,7.07165,47.41523",
     "geom:latitude":47.41523,
     "geom:longitude":7.07165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Achille-merguin 18 2900 Porrentruy Case Postale 153",
     "sg:city":"Porrentruy",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185718103,
-    "wof:lastmodified":1449006966,
+    "wof:lastmodified":1466211264,
     "wof:name":"Jean-michel Conti Etude D'avocat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.07165,47.41523,7.07165,47.41523],
+  "bbox": [
+    7.07165,
+    47.41523,
+    7.07165,
+    47.41523
+],
   "geometry": {"coordinates":[7.07165,47.41523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202799407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.156241,46.200565,6.156241,46.200565",
     "geom:latitude":46.200565,
     "geom:longitude":6.156241,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Bourg 10 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202799407,
-    "wof:lastmodified":1449062658,
+    "wof:lastmodified":1466211514,
     "wof:name":"Atelier D'architecture Et D'ing\u00e9nieur Epfl Henriod G. Et Jaquet C. Sa",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.156241,46.200565,6.156241,46.200565],
+  "bbox": [
+    6.156241,
+    46.200565,
+    6.156241,
+    46.200565
+],
   "geometry": {"coordinates":[6.156241,46.200565],"type":"Point"}
 }

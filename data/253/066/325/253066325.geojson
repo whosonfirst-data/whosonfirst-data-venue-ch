@@ -2,13 +2,14 @@
   "id": 253066325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.251478,47.568958,8.251478,47.568958",
     "geom:latitude":47.568958,
     "geom:longitude":8.251478,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkelstrasse 24",
     "sg:city":"Kleind\u00f6ttingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253066325,
-    "wof:lastmodified":1449063672,
+    "wof:lastmodified":1466209589,
     "wof:name":"Leonhard Kalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.251478,47.568958,8.251478,47.568958],
+  "bbox": [
+    8.251478,
+    47.568958,
+    8.251478,
+    47.568958
+],
   "geometry": {"coordinates":[8.251478,47.568958],"type":"Point"}
 }

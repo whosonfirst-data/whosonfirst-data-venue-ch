@@ -2,13 +2,14 @@
   "id": 236750863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39077,46.958096,8.39077,46.958096",
     "geom:latitude":46.958096,
     "geom:longitude":8.39077,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schinhaltenstrasse 20a",
     "sg:city":"Oberdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236750863,
-    "wof:lastmodified":1449003683,
+    "wof:lastmodified":1466212867,
     "wof:name":"Niederberger Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39077,46.958096,8.39077,46.958096],
+  "bbox": [
+    8.39077,
+    46.958096,
+    8.39077,
+    46.958096
+],
   "geometry": {"coordinates":[8.39077,46.958096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185762777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.341502,47.081551,8.341502,47.081551",
     "geom:latitude":47.081551,
     "geom:longitude":8.341502,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentralstrasse 20 6030 Ebikon. Postfach 341",
     "sg:city":"Ebikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185762777,
-    "wof:lastmodified":1449007740,
+    "wof:lastmodified":1466211609,
     "wof:name":"Dr.franz Mattmann Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.341502,47.081551,8.341502,47.081551],
+  "bbox": [
+    8.341502,
+    47.081551,
+    8.341502,
+    47.081551
+],
   "geometry": {"coordinates":[8.341502,47.081551],"type":"Point"}
 }

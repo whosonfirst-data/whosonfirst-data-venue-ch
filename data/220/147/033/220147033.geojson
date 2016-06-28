@@ -2,13 +2,14 @@
   "id": 220147033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.342794,47.351971,8.342794,47.351971",
     "geom:latitude":47.351971,
     "geom:longitude":8.342794,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sagerhus 6018 Buttisholz. Postfach 113",
     "sg:city":"Buttisholz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220147033,
-    "wof:lastmodified":1449074782,
+    "wof:lastmodified":1466210137,
     "wof:name":"Seiler Pius",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.342794,47.351971,8.342794,47.351971],
+  "bbox": [
+    8.342794,
+    47.351971,
+    8.342794,
+    47.351971
+],
   "geometry": {"coordinates":[8.342794,47.351971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202640673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629262,47.302662,7.629262,47.302662",
     "geom:latitude":47.302662,
     "geom:longitude":7.629262,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ramisb\u00fchl 221",
     "sg:city":"Matzendorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202640673,
-    "wof:lastmodified":1449061224,
+    "wof:lastmodified":1466210039,
     "wof:name":"M\u00fcller B.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629262,47.302662,7.629262,47.302662],
+  "bbox": [
+    7.629262,
+    47.302662,
+    7.629262,
+    47.302662
+],
   "geometry": {"coordinates":[7.629262,47.302662],"type":"Point"}
 }

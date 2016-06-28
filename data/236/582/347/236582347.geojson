@@ -2,13 +2,14 @@
   "id": 236582347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.70257,47.488949,8.70257,47.488949",
     "geom:latitude":47.488949,
     "geom:longitude":8.70257,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"J.-c.heer-strasse 67",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236582347,
-    "wof:lastmodified":1449003428,
+    "wof:lastmodified":1466212752,
     "wof:name":"Olivenbaum Verlag, Musso Cristiano",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.70257,47.488949,8.70257,47.488949],
+  "bbox": [
+    8.70257,
+    47.488949,
+    8.70257,
+    47.488949
+],
   "geometry": {"coordinates":[8.70257,47.488949],"type":"Point"}
 }

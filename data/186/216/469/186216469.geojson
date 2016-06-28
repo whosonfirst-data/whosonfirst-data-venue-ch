@@ -2,13 +2,14 @@
   "id": 186216469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53839,47.373295,8.53839,47.373295",
     "geom:latitude":47.373295,
     "geom:longitude":8.53839,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 58",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186216469,
-    "wof:lastmodified":1449052719,
+    "wof:lastmodified":1466209213,
     "wof:name":"Stadtmobiliar-vertriebs Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53839,47.373295,8.53839,47.373295],
+  "bbox": [
+    8.53839,
+    47.373295,
+    8.53839,
+    47.373295
+],
   "geometry": {"coordinates":[8.53839,47.373295],"type":"Point"}
 }

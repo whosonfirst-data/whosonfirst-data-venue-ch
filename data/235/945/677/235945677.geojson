@@ -2,13 +2,14 @@
   "id": 235945677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.75953,47.534657,8.75953,47.534657",
     "geom:latitude":47.534657,
     "geom:longitude":8.75953,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesendangerstrasse 152",
     "sg:city":"Stadel(winterthur)",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235945677,
-    "wof:lastmodified":1449008308,
+    "wof:lastmodified":1466209027,
     "wof:name":"Baars & Reinli Ag Schreinerei Innenausbau",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.75953,47.534657,8.75953,47.534657],
+  "bbox": [
+    8.75953,
+    47.534657,
+    8.75953,
+    47.534657
+],
   "geometry": {"coordinates":[8.75953,47.534657],"type":"Point"}
 }

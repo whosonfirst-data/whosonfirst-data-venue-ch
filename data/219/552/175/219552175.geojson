@@ -2,13 +2,14 @@
   "id": 219552175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.458356,46.996105,7.458356,46.996105",
     "geom:latitude":46.996105,
     "geom:longitude":7.458356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 135",
     "sg:city":"Zollikofen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219552175,
-    "wof:lastmodified":1449071862,
+    "wof:lastmodified":1466211620,
     "wof:name":"Gewerbekasse In Bern",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.458356,46.996105,7.458356,46.996105],
+  "bbox": [
+    7.458356,
+    46.996105,
+    7.458356,
+    46.996105
+],
   "geometry": {"coordinates":[7.458356,46.996105],"type":"Point"}
 }

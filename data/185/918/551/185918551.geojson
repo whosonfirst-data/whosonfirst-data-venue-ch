@@ -2,13 +2,14 @@
   "id": 185918551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.025165,47.213219,9.025165,47.213219",
     "geom:latitude":47.213219,
     "geom:longitude":9.025165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinenbrugg 81",
     "sg:city":"Kaltbrunn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185918551,
-    "wof:lastmodified":1449007679,
+    "wof:lastmodified":1466210000,
     "wof:name":"Bau Ag Kaltbrunn Steinenbr\u00fccke, 8722 Kaltbrunn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.025165,47.213219,9.025165,47.213219],
+  "bbox": [
+    9.025165,
+    47.213219,
+    9.025165,
+    47.213219
+],
   "geometry": {"coordinates":[9.025165,47.213219],"type":"Point"}
 }

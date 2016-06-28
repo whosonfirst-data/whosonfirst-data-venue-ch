@@ -2,13 +2,14 @@
   "id": 219491841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.353214,50.830975,4.353214,50.830975",
     "geom:latitude":50.830975,
     "geom:longitude":4.353214,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte D'oron 2",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219491841,
-    "wof:lastmodified":1449070321,
+    "wof:lastmodified":1466211059,
     "wof:name":"Banque Cantonale Vaudoise",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.353214,50.830975,4.353214,50.830975],
+  "bbox": [
+    4.353214,
+    50.830975,
+    4.353214,
+    50.830975
+],
   "geometry": {"coordinates":[4.353214,50.830975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186576277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56202,47.437801,8.56202,47.437801",
     "geom:latitude":47.437801,
     "geom:longitude":8.56202,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flughofstrasse 37",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186576277,
-    "wof:lastmodified":1449052381,
+    "wof:lastmodified":1466211840,
     "wof:name":"Martinelli Techn. B\u00fcro Apparatebau",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apparatus"
     ]
 },
-  "bbox": [8.56202,47.437801,8.56202,47.437801],
+  "bbox": [
+    8.56202,
+    47.437801,
+    8.56202,
+    47.437801
+],
   "geometry": {"coordinates":[8.56202,47.437801],"type":"Point"}
 }

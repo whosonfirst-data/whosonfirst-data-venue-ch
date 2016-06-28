@@ -2,13 +2,14 @@
   "id": 236140903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.745139,47.135681,8.745139,47.135681",
     "geom:latitude":47.135681,
     "geom:longitude":8.745139,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstrasse 63",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236140903,
-    "wof:lastmodified":1449002032,
+    "wof:lastmodified":1466210167,
     "wof:name":"M\u00f6belfabrik Zehnder Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedroom"
     ]
 },
-  "bbox": [8.745139,47.135681,8.745139,47.135681],
+  "bbox": [
+    8.745139,
+    47.135681,
+    8.745139,
+    47.135681
+],
   "geometry": {"coordinates":[8.745139,47.135681],"type":"Point"}
 }

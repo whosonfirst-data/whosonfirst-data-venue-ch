@@ -2,13 +2,14 @@
   "id": 252870149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.610586,47.681862,8.610586,47.681862",
     "geom:latitude":47.681862,
     "geom:longitude":8.610586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnenwiesenstrasse 11",
     "sg:city":"Neuhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252870149,
-    "wof:lastmodified":1449005703,
+    "wof:lastmodified":1466210670,
     "wof:name":"Steinemann's Modeshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.610586,47.681862,8.610586,47.681862],
+  "bbox": [
+    8.610586,
+    47.681862,
+    8.610586,
+    47.681862
+],
   "geometry": {"coordinates":[8.610586,47.681862],"type":"Point"}
 }

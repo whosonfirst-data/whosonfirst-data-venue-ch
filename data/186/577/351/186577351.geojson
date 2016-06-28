@@ -2,13 +2,14 @@
   "id": 186577351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.617485,47.511402,7.617485,47.511402",
     "geom:latitude":47.511402,
     "geom:longitude":7.617485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blauenstrasse 21a",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186577351,
-    "wof:lastmodified":1449053102,
+    "wof:lastmodified":1466212064,
     "wof:name":"Zimmermann Verfahrenstechnik Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apparatus"
     ]
 },
-  "bbox": [7.617485,47.511402,7.617485,47.511402],
+  "bbox": [
+    7.617485,
+    47.511402,
+    7.617485,
+    47.511402
+],
   "geometry": {"coordinates":[7.617485,47.511402],"type":"Point"}
 }

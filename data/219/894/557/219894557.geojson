@@ -2,13 +2,14 @@
   "id": 219894557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.2036,47.486469,8.2036,47.486469",
     "geom:latitude":47.486469,
     "geom:longitude":8.2036,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4gestrasse 66 3098 K\u00f6niz. Postfach 556",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219894557,
-    "wof:lastmodified":1449071843,
+    "wof:lastmodified":1466212621,
     "wof:name":"Wohnbaugen.f\u00fcr Bundes- Bedienstete Brugg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.2036,47.486469,8.2036,47.486469],
+  "bbox": [
+    8.2036,
+    47.486469,
+    8.2036,
+    47.486469
+],
   "geometry": {"coordinates":[8.2036,47.486469],"type":"Point"}
 }

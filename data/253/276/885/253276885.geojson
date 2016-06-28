@@ -2,13 +2,14 @@
   "id": 253276885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.901355,47.119888,8.901355,47.119888",
     "geom:latitude":47.119888,
     "geom:longitude":8.901355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00e4gistalstrasse 57",
     "sg:city":"Vorderthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253276885,
-    "wof:lastmodified":1449062932,
+    "wof:lastmodified":1466211753,
     "wof:name":"Brigitte Bamert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.901355,47.119888,8.901355,47.119888],
+  "bbox": [
+    8.901355,
+    47.119888,
+    8.901355,
+    47.119888
+],
   "geometry": {"coordinates":[8.901355,47.119888],"type":"Point"}
 }

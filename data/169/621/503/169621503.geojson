@@ -2,13 +2,14 @@
   "id": 169621503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.107807,46.188217,6.107807,46.188217",
     "geom:latitude":46.188217,
     "geom:longitude":6.107807,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Bossons 28",
     "sg:city":"Petit-lancy",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169621503,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466209632,
     "wof:name":"Rm Montages",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.107807,46.188217,6.107807,46.188217],
+  "bbox": [
+    6.107807,
+    46.188217,
+    6.107807,
+    46.188217
+],
   "geometry": {"coordinates":[6.107807,46.188217],"type":"Point"}
 }

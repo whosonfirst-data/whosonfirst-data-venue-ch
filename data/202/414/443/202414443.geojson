@@ -2,13 +2,14 @@
   "id": 202414443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.51681,47.398697,7.51681,47.398697",
     "geom:latitude":47.398697,
     "geom:longitude":7.51681,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanden 324",
     "sg:city":"Oberhelfenschwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202414443,
-    "wof:lastmodified":1449061310,
+    "wof:lastmodified":1466209952,
     "wof:name":"Bm Plan Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.51681,47.398697,7.51681,47.398697],
+  "bbox": [
+    7.51681,
+    47.398697,
+    7.51681,
+    47.398697
+],
   "geometry": {"coordinates":[7.51681,47.398697],"type":"Point"}
 }

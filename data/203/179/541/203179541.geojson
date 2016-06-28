@@ -2,13 +2,14 @@
   "id": 203179541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.826625,46.571442,6.826625,46.571442",
     "geom:latitude":46.571442,
     "geom:longitude":6.826625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Grande Maison Le Bourg",
     "sg:city":"Oron-la-ville",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203179541,
-    "wof:lastmodified":1449026671,
+    "wof:lastmodified":1466209245,
     "wof:name":"Dr M\u00e9d. Francis Hildbrand M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.826625,46.571442,6.826625,46.571442],
+  "bbox": [
+    6.826625,
+    46.571442,
+    6.826625,
+    46.571442
+],
   "geometry": {"coordinates":[6.826625,46.571442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236961643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594191,47.544662,7.594191,47.544662",
     "geom:latitude":47.544662,
     "geom:longitude":7.594191,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochstrasse 50 4053 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236961643,
-    "wof:lastmodified":1449005173,
+    "wof:lastmodified":1466213046,
     "wof:name":"Techdata Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.594191,47.544662,7.594191,47.544662],
+  "bbox": [
+    7.594191,
+    47.544662,
+    7.594191,
+    47.544662
+],
   "geometry": {"coordinates":[7.594191,47.544662],"type":"Point"}
 }

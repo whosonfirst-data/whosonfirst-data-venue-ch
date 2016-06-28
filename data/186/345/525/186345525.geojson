@@ -2,13 +2,14 @@
   "id": 186345525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.359079,46.966053,8.359079,46.966053",
     "geom:latitude":46.966053,
     "geom:longitude":8.359079,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Spichermatt 14",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186345525,
-    "wof:lastmodified":1449052815,
+    "wof:lastmodified":1466210176,
     "wof:name":"Rosen Swiss Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.359079,46.966053,8.359079,46.966053],
+  "bbox": [
+    8.359079,
+    46.966053,
+    8.359079,
+    46.966053
+],
   "geometry": {"coordinates":[8.359079,46.966053],"type":"Point"}
 }

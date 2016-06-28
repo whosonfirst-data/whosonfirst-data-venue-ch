@@ -2,13 +2,14 @@
   "id": 219230945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.997132,47.463814,8.997132,47.463814",
     "geom:latitude":47.463814,
     "geom:longitude":8.997132,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcnaustrasse 14",
     "sg:city":"Sirnach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219230945,
-    "wof:lastmodified":1449073019,
+    "wof:lastmodified":1466211318,
     "wof:name":"Thoma Bauaustrocknung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.997132,47.463814,8.997132,47.463814],
+  "bbox": [
+    8.997132,
+    47.463814,
+    8.997132,
+    47.463814
+],
   "geometry": {"coordinates":[8.997132,47.463814],"type":"Point"}
 }

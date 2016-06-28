@@ -2,13 +2,14 @@
   "id": 169755875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.438935,46.960796,7.438935,46.960796",
     "geom:latitude":46.960796,
     "geom:longitude":7.438935,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Engestrasse 53 - P.o. Box 51 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169755875,
-    "wof:lastmodified":1449033616,
+    "wof:lastmodified":1466211396,
     "wof:name":"Japan Embassy",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.438935,46.960796,7.438935,46.960796],
+  "bbox": [
+    7.438935,
+    46.960796,
+    7.438935,
+    46.960796
+],
   "geometry": {"coordinates":[7.438935,46.960796],"type":"Point"}
 }

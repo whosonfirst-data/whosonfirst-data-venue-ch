@@ -2,13 +2,14 @@
   "id": 169706561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.409777,47.439568,9.409777,47.439568",
     "geom:latitude":47.439568,
     "geom:longitude":9.409777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bubenbergplatz 8",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169706561,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466210984,
     "wof:name":"Patronale Vorsorgestiftung Der Firma Fisba Optik Ag.",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.409777,47.439568,9.409777,47.439568],
+  "bbox": [
+    9.409777,
+    47.439568,
+    9.409777,
+    47.439568
+],
   "geometry": {"coordinates":[9.409777,47.439568],"type":"Point"}
 }

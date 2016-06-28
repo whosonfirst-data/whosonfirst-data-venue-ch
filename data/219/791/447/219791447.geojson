@@ -2,13 +2,14 @@
   "id": 219791447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.432229,47.514378,9.432229,47.514378",
     "geom:latitude":47.514378,
     "geom:longitude":9.432229,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebenstrasse 9",
     "sg:city":"Arbon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219791447,
-    "wof:lastmodified":1449073117,
+    "wof:lastmodified":1466212426,
     "wof:name":"Billard-pub Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.432229,47.514378,9.432229,47.514378],
+  "bbox": [
+    9.432229,
+    47.514378,
+    9.432229,
+    47.514378
+],
   "geometry": {"coordinates":[9.432229,47.514378],"type":"Point"}
 }

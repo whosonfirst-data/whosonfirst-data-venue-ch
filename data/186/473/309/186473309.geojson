@@ -2,13 +2,14 @@
   "id": 186473309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.557148,47.203453,7.557148,47.203453",
     "geom:latitude":47.203453,
     "geom:longitude":7.557148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 6",
     "sg:city":"Zuchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186473309,
-    "wof:lastmodified":1449050965,
+    "wof:lastmodified":1466211202,
     "wof:name":"Ausgleichskasse Des Kantons Solothurn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.557148,47.203453,7.557148,47.203453],
+  "bbox": [
+    7.557148,
+    47.203453,
+    7.557148,
+    47.203453
+],
   "geometry": {"coordinates":[7.557148,47.203453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219164955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.442708,46.949547,7.442708,46.949547",
     "geom:latitude":46.949547,
     "geom:longitude":7.442708,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergergasse 29",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219164955,
-    "wof:lastmodified":1449070812,
+    "wof:lastmodified":1466210162,
     "wof:name":"Dr.med.zeljko Mlinaric Spezialarzt Fmh",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.442708,46.949547,7.442708,46.949547],
+  "bbox": [
+    7.442708,
+    46.949547,
+    7.442708,
+    46.949547
+],
   "geometry": {"coordinates":[7.442708,46.949547],"type":"Point"}
 }

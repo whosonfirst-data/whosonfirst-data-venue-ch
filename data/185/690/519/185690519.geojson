@@ -2,13 +2,14 @@
   "id": 185690519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536922,47.37471,8.536922,47.37471",
     "geom:latitude":47.37471,
     "geom:longitude":8.536922,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Uraniastrasse 12 8001 Z\u00fcrich. Postfach 996",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185690519,
-    "wof:lastmodified":1449007478,
+    "wof:lastmodified":1466211040,
     "wof:name":"Dr. Iur. Peter Schwarz Advokaturb\u00fcro",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536922,47.37471,8.536922,47.37471],
+  "bbox": [
+    8.536922,
+    47.37471,
+    8.536922,
+    47.37471
+],
   "geometry": {"coordinates":[8.536922,47.37471],"type":"Point"}
 }

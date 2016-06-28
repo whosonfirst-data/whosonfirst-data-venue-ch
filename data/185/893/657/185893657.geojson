@@ -2,13 +2,14 @@
   "id": 185893657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.700275,47.317245,7.700275,47.317245",
     "geom:latitude":47.317245,
     "geom:longitude":7.700275,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcningweg 2",
     "sg:city":"Balstahl",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185893657,
-    "wof:lastmodified":1449007922,
+    "wof:lastmodified":1466209796,
     "wof:name":"Why-not-modeversand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.700275,47.317245,7.700275,47.317245],
+  "bbox": [
+    7.700275,
+    47.317245,
+    7.700275,
+    47.317245
+],
   "geometry": {"coordinates":[7.700275,47.317245],"type":"Point"}
 }

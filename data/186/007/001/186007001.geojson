@@ -2,13 +2,14 @@
   "id": 186007001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.965575,47.228516,7.965575,47.228516",
     "geom:latitude":47.228516,
     "geom:longitude":7.965575,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bittertenstrasse 12",
     "sg:city":"Oensingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186007001,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1466211630,
     "wof:name":"Aschi Bau Und Handels Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.965575,47.228516,7.965575,47.228516],
+  "bbox": [
+    7.965575,
+    47.228516,
+    7.965575,
+    47.228516
+],
   "geometry": {"coordinates":[7.965575,47.228516],"type":"Point"}
 }

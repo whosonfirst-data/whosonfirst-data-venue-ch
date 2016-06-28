@@ -2,13 +2,14 @@
   "id": 169813375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.714646,47.504742,8.714646,47.504742",
     "geom:latitude":47.504742,
     "geom:longitude":8.714646,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Salstrasse 53",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169813375,
-    "wof:lastmodified":1449033539,
+    "wof:lastmodified":1466209161,
     "wof:name":"Hans Eichmann Baggerunternehmen",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.714646,47.504742,8.714646,47.504742],
+  "bbox": [
+    8.714646,
+    47.504742,
+    8.714646,
+    47.504742
+],
   "geometry": {"coordinates":[8.714646,47.504742],"type":"Point"}
 }

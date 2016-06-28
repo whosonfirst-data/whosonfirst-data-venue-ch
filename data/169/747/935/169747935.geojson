@@ -2,13 +2,14 @@
   "id": 169747935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543785,47.393047,8.543785,47.393047",
     "geom:latitude":47.393047,
     "geom:longitude":8.543785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langmauerstrasse 99",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169747935,
-    "wof:lastmodified":1449033290,
+    "wof:lastmodified":1466211319,
     "wof:name":"Scheller Kommunikation & Design",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543785,47.393047,8.543785,47.393047],
+  "bbox": [
+    8.543785,
+    47.393047,
+    8.543785,
+    47.393047
+],
   "geometry": {"coordinates":[8.543785,47.393047],"type":"Point"}
 }

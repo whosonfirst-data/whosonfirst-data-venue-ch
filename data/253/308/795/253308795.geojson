@@ -2,13 +2,14 @@
   "id": 253308795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.26349,47.13044,7.26349,47.13044",
     "geom:latitude":47.13044,
     "geom:longitude":7.26349,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pr\u00e9s Rue Des 126 2503 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253308795,
-    "wof:lastmodified":1449065875,
+    "wof:lastmodified":1466211763,
     "wof:name":"Bejaoui Josiane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.26349,47.13044,7.26349,47.13044],
+  "bbox": [
+    7.26349,
+    47.13044,
+    7.26349,
+    47.13044
+],
   "geometry": {"coordinates":[7.26349,47.13044],"type":"Point"}
 }

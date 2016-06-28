@@ -2,13 +2,14 @@
   "id": 202729083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.017159,47.510361,8.017159,47.510361",
     "geom:latitude":47.510361,
     "geom:longitude":8.017159,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 22",
     "sg:city":"Frick",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202729083,
-    "wof:lastmodified":1449061401,
+    "wof:lastmodified":1466210856,
     "wof:name":"St\u00e4uble + Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.017159,47.510361,8.017159,47.510361],
+  "bbox": [
+    8.017159,
+    47.510361,
+    8.017159,
+    47.510361
+],
   "geometry": {"coordinates":[8.017159,47.510361],"type":"Point"}
 }

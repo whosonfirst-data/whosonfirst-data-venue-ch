@@ -2,13 +2,14 @@
   "id": 185608951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.670025,47.576481,8.670025,47.576481",
     "geom:latitude":47.576481,
     "geom:longitude":8.670025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 2",
     "sg:city":"Humlikon",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185608951,
-    "wof:lastmodified":1449007295,
+    "wof:lastmodified":1466209487,
     "wof:name":"Wybro Stoll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.670025,47.576481,8.670025,47.576481],
+  "bbox": [
+    8.670025,
+    47.576481,
+    8.670025,
+    47.576481
+],
   "geometry": {"coordinates":[8.670025,47.576481],"type":"Point"}
 }

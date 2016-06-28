@@ -2,13 +2,14 @@
   "id": 219541641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.843561,46.461468,6.843561,46.461468",
     "geom:latitude":46.461468,
     "geom:longitude":6.843561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Simplon 50",
     "sg:city":"Vevey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219541641,
-    "wof:lastmodified":1449070780,
+    "wof:lastmodified":1466211512,
     "wof:name":"Cr\u00e9dit Suisse",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.843561,46.461468,6.843561,46.461468],
+  "bbox": [
+    6.843561,
+    46.461468,
+    6.843561,
+    46.461468
+],
   "geometry": {"coordinates":[6.843561,46.461468],"type":"Point"}
 }

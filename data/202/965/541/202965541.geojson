@@ -2,13 +2,14 @@
   "id": 202965541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.524004,46.28936,7.524004,46.28936",
     "geom:latitude":46.28936,
     "geom:longitude":7.524004,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Sion 26 3960 Sierre. Postfach",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202965541,
-    "wof:lastmodified":1449061866,
+    "wof:lastmodified":1466212262,
     "wof:name":"Christian Salamin Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.524004,46.28936,7.524004,46.28936],
+  "bbox": [
+    7.524004,
+    46.28936,
+    7.524004,
+    46.28936
+],
   "geometry": {"coordinates":[7.524004,46.28936],"type":"Point"}
 }

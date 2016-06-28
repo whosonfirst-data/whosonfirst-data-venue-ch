@@ -2,13 +2,14 @@
   "id": 236782427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528408,47.367306,8.528408,47.367306",
     "geom:latitude":47.367306,
     "geom:longitude":8.528408,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brandschenkestr. 2",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236782427,
-    "wof:lastmodified":1449001667,
+    "wof:lastmodified":1466212892,
     "wof:name":"Desco Von Schulthess Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [8.528408,47.367306,8.528408,47.367306],
+  "bbox": [
+    8.528408,
+    47.367306,
+    8.528408,
+    47.367306
+],
   "geometry": {"coordinates":[8.528408,47.367306],"type":"Point"}
 }

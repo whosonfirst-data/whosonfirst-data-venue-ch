@@ -2,13 +2,14 @@
   "id": 186062951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.142701,46.208359,6.142701,46.208359",
     "geom:latitude":46.208359,
     "geom:longitude":6.142701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Voisins Rue Des 2 1201 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186062951,
-    "wof:lastmodified":1449052833,
+    "wof:lastmodified":1466210270,
     "wof:name":"Entreprise G\u00e9n\u00e9rale D'electricit\u00e9, Navarro R., Successeur De Entreprise G\u00e9n\u00e9rale D'\u00e9lectricit\u00e9 Et De T\u00e9l\u00e9phone Navarro E.",
     "wof:parent_id":85800395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.142701,46.208359,6.142701,46.208359],
+  "bbox": [
+    6.142701,
+    46.208359,
+    6.142701,
+    46.208359
+],
   "geometry": {"coordinates":[6.142701,46.208359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202396775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.047841,47.393986,8.047841,47.393986",
     "geom:latitude":47.393986,
     "geom:longitude":8.047841,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laurenzenvorstadt 19",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202396775,
-    "wof:lastmodified":1449061751,
+    "wof:lastmodified":1466209686,
     "wof:name":"Basler & Hofmann Ag, Beratende Ingenieure",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.047841,47.393986,8.047841,47.393986],
+  "bbox": [
+    8.047841,
+    47.393986,
+    8.047841,
+    47.393986
+],
   "geometry": {"coordinates":[8.047841,47.393986],"type":"Point"}
 }

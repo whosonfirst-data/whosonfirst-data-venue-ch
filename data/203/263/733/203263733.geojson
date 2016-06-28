@@ -2,13 +2,14 @@
   "id": 203263733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.611582,47.424507,9.611582,47.424507",
     "geom:latitude":47.424507,
     "geom:longitude":9.611582,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgass 1a",
     "sg:city":"Berneck",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203263733,
-    "wof:lastmodified":1449026819,
+    "wof:lastmodified":1466210161,
     "wof:name":"Dr.med. Urs Eggmann Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.611582,47.424507,9.611582,47.424507],
+  "bbox": [
+    9.611582,
+    47.424507,
+    9.611582,
+    47.424507
+],
   "geometry": {"coordinates":[9.611582,47.424507],"type":"Point"}
 }

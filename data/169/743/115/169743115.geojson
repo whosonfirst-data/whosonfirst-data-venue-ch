@@ -2,13 +2,14 @@
   "id": 169743115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536872,47.367035,8.536872,47.367035",
     "geom:latitude":47.367035,
     "geom:longitude":8.536872,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreik\u00f6nigstrasse 7",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169743115,
-    "wof:lastmodified":1449035947,
+    "wof:lastmodified":1466211271,
     "wof:name":"Von Erlach Klainguti Stettler Wille & Partner",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [8.536872,47.367035,8.536872,47.367035],
+  "bbox": [
+    8.536872,
+    47.367035,
+    8.536872,
+    47.367035
+],
   "geometry": {"coordinates":[8.536872,47.367035],"type":"Point"}
 }

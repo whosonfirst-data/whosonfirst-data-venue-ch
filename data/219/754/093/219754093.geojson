@@ -2,13 +2,14 @@
   "id": 219754093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.663131,46.875015,8.663131,46.875015",
     "geom:latitude":46.875015,
     "geom:longitude":8.663131,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klausenstrasse 138",
     "sg:city":"B\u00fcrglen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219754093,
-    "wof:lastmodified":1449072693,
+    "wof:lastmodified":1466212380,
     "wof:name":"Urner Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.663131,46.875015,8.663131,46.875015],
+  "bbox": [
+    8.663131,
+    46.875015,
+    8.663131,
+    46.875015
+],
   "geometry": {"coordinates":[8.663131,46.875015],"type":"Point"}
 }

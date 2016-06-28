@@ -2,13 +2,14 @@
   "id": 203199917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.640917,46.779575,6.640917,46.779575",
     "geom:latitude":46.779575,
     "geom:longitude":6.640917,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Remparts 11",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203199917,
-    "wof:lastmodified":1449025129,
+    "wof:lastmodified":1466209468,
     "wof:name":"Dr M\u00e9d. Laurent Vollenweider M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.640917,46.779575,6.640917,46.779575],
+  "bbox": [
+    6.640917,
+    46.779575,
+    6.640917,
+    46.779575
+],
   "geometry": {"coordinates":[6.640917,46.779575],"type":"Point"}
 }

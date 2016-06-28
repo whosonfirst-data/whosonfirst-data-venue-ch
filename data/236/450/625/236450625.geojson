@@ -2,13 +2,14 @@
   "id": 236450625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544804,47.411602,8.544804,47.411602",
     "geom:latitude":47.411602,
     "geom:longitude":8.544804,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofwiesenstrasse 379",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236450625,
-    "wof:lastmodified":1449004643,
+    "wof:lastmodified":1466212433,
     "wof:name":"Quartierbibliothek Oerlikon",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [8.544804,47.411602,8.544804,47.411602],
+  "bbox": [
+    8.544804,
+    47.411602,
+    8.544804,
+    47.411602
+],
   "geometry": {"coordinates":[8.544804,47.411602],"type":"Point"}
 }

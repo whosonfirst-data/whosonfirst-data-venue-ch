@@ -2,13 +2,14 @@
   "id": 186434471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.541415,47.047398,7.541415,47.047398",
     "geom:latitude":47.047398,
     "geom:longitude":7.541415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattweg 4",
     "sg:city":"Hindelbank",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186434471,
-    "wof:lastmodified":1449050980,
+    "wof:lastmodified":1466210879,
     "wof:name":"Walser & Partner Renovationen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.541415,47.047398,7.541415,47.047398],
+  "bbox": [
+    7.541415,
+    47.047398,
+    7.541415,
+    47.047398
+],
   "geometry": {"coordinates":[7.541415,47.047398],"type":"Point"}
 }

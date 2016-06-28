@@ -2,13 +2,14 @@
   "id": 236678299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.618557,47.412266,8.618557,47.412266",
     "geom:latitude":47.412266,
     "geom:longitude":8.618557,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 31",
     "sg:city":"Dietlikon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236678299,
-    "wof:lastmodified":1449003200,
+    "wof:lastmodified":1466212791,
     "wof:name":"Alfa Laval Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "solid-liquid"
     ]
 },
-  "bbox": [8.618557,47.412266,8.618557,47.412266],
+  "bbox": [
+    8.618557,
+    47.412266,
+    8.618557,
+    47.412266
+],
   "geometry": {"coordinates":[8.618557,47.412266],"type":"Point"}
 }

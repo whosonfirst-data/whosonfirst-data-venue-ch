@@ -2,13 +2,14 @@
   "id": 203357123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62341,46.740349,7.62341,46.740349",
     "geom:latitude":46.740349,
     "geom:longitude":7.62341,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 26",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203357123,
-    "wof:lastmodified":1449026631,
+    "wof:lastmodified":1466211104,
     "wof:name":"Dr.med.j\u00fcrg Lanz Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62341,46.740349,7.62341,46.740349],
+  "bbox": [
+    7.62341,
+    46.740349,
+    7.62341,
+    46.740349
+],
   "geometry": {"coordinates":[7.62341,46.740349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219425199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308797,47.33408,8.308797,47.33408",
     "geom:latitude":47.33408,
     "geom:longitude":8.308797,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bremgarterstrasse 44",
     "sg:city":"Waltenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219425199,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466210410,
     "wof:name":"Wyrsch Ag Internationale Transporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.308797,47.33408,8.308797,47.33408],
+  "bbox": [
+    8.308797,
+    47.33408,
+    8.308797,
+    47.33408
+],
   "geometry": {"coordinates":[8.308797,47.33408],"type":"Point"}
 }

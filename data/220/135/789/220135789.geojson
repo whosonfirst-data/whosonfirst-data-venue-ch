@@ -2,13 +2,14 @@
   "id": 220135789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5285,47.502991,7.5285,47.502991",
     "geom:latitude":47.502991,
     "geom:longitude":7.5285,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankerstrasse 294",
     "sg:city":"Ramsen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220135789,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466210044,
     "wof:name":"Schmid Schreinerei + K\u00fcchenbau Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.5285,47.502991,7.5285,47.502991],
+  "bbox": [
+    7.5285,
+    47.502991,
+    7.5285,
+    47.502991
+],
   "geometry": {"coordinates":[7.5285,47.502991],"type":"Point"}
 }

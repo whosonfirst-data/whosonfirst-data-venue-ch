@@ -2,13 +2,14 @@
   "id": 203130637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.98712,45.873077,8.98712,45.873077",
     "geom:latitude":45.873077,
     "geom:longitude":8.98712,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Carlo Pasta 3a",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203130637,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466211429,
     "wof:name":"Besso, Cattaneo & Giovannini Specialisti Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.98712,45.873077,8.98712,45.873077],
+  "bbox": [
+    8.98712,
+    45.873077,
+    8.98712,
+    45.873077
+],
   "geometry": {"coordinates":[8.98712,45.873077],"type":"Point"}
 }

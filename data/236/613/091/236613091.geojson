@@ -2,13 +2,14 @@
   "id": 236613091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.626942,47.274101,8.626942,47.274101",
     "geom:latitude":47.274101,
     "geom:longitude":8.626942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldg\u00fcetliweg 122a",
     "sg:city":"Feldmeilen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236613091,
-    "wof:lastmodified":1449003135,
+    "wof:lastmodified":1466212693,
     "wof:name":"Hediger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [8.626942,47.274101,8.626942,47.274101],
+  "bbox": [
+    8.626942,
+    47.274101,
+    8.626942,
+    47.274101
+],
   "geometry": {"coordinates":[8.626942,47.274101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219418655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.741016,47.525223,7.741016,47.525223",
     "geom:latitude":47.525223,
     "geom:longitude":7.741016,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4geweg 17",
     "sg:city":"Giebenach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219418655,
-    "wof:lastmodified":1449073170,
+    "wof:lastmodified":1466210350,
     "wof:name":"Eduard Weber Internationale Transporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.741016,47.525223,7.741016,47.525223],
+  "bbox": [
+    7.741016,
+    47.525223,
+    7.741016,
+    47.525223
+],
   "geometry": {"coordinates":[7.741016,47.525223],"type":"Point"}
 }

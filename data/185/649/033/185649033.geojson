@@ -2,13 +2,14 @@
   "id": 185649033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.464283,46.946194,7.464283,46.946194",
     "geom:latitude":46.946194,
     "geom:longitude":7.464283,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schosshaldenstrasse 22",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185649033,
-    "wof:lastmodified":1449007681,
+    "wof:lastmodified":1466210264,
     "wof:name":"Schott Merz Werbeagentur",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [7.464283,46.946194,7.464283,46.946194],
+  "bbox": [
+    7.464283,
+    46.946194,
+    7.464283,
+    46.946194
+],
   "geometry": {"coordinates":[7.464283,46.946194],"type":"Point"}
 }

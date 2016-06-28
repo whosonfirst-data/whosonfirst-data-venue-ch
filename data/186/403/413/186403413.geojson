@@ -2,13 +2,14 @@
   "id": 186403413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.094643,46.783272,7.094643,46.783272",
     "geom:latitude":46.783272,
     "geom:longitude":7.094643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route D'arney 14",
     "sg:city":"Matran",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186403413,
-    "wof:lastmodified":1449052639,
+    "wof:lastmodified":1466210626,
     "wof:name":"Corpataux Paul Et Fils Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.094643,46.783272,7.094643,46.783272],
+  "bbox": [
+    7.094643,
+    46.783272,
+    7.094643,
+    46.783272
+],
   "geometry": {"coordinates":[7.094643,46.783272],"type":"Point"}
 }

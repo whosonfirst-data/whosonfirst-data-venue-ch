@@ -2,13 +2,14 @@
   "id": 186544799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.374122,47.545708,9.374122,47.545708",
     "geom:latitude":47.545708,
     "geom:longitude":9.374122,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Romanshornerstrasse 117",
     "sg:city":"Egnach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186544799,
-    "wof:lastmodified":1449053023,
+    "wof:lastmodified":1466211843,
     "wof:name":"A. Stebler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "casting"
     ]
 },
-  "bbox": [9.374122,47.545708,9.374122,47.545708],
+  "bbox": [
+    9.374122,
+    47.545708,
+    9.374122,
+    47.545708
+],
   "geometry": {"coordinates":[9.374122,47.545708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186363109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.400142,47.332458,9.400142,47.332458",
     "geom:latitude":47.332458,
     "geom:longitude":9.400142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctistrasse 33",
     "sg:city":"Appenzell",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186363109,
-    "wof:lastmodified":1449052692,
+    "wof:lastmodified":1466210307,
     "wof:name":"Gollino Gebr. Ag, Appenzell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.400142,47.332458,9.400142,47.332458],
+  "bbox": [
+    9.400142,
+    47.332458,
+    9.400142,
+    47.332458
+],
   "geometry": {"coordinates":[9.400142,47.332458],"type":"Point"}
 }

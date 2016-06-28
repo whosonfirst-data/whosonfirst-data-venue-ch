@@ -2,13 +2,14 @@
   "id": 203129447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.554654,47.364231,8.554654,47.364231",
     "geom:latitude":47.364231,
     "geom:longitude":8.554654,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollikerstrasse 3",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203129447,
-    "wof:lastmodified":1449026470,
+    "wof:lastmodified":1466211418,
     "wof:name":"Drucklade Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.554654,47.364231,8.554654,47.364231],
+  "bbox": [
+    8.554654,
+    47.364231,
+    8.554654,
+    47.364231
+],
   "geometry": {"coordinates":[8.554654,47.364231],"type":"Point"}
 }

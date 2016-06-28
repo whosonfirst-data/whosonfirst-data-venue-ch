@@ -2,13 +2,14 @@
   "id": 236900197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551793,47.294476,8.551793,47.294476",
     "geom:latitude":47.294476,
     "geom:longitude":8.551793,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"In Der R\u00fcti 15d",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236900197,
-    "wof:lastmodified":1449003011,
+    "wof:lastmodified":1466212968,
     "wof:name":"David Bonser Db Informatik",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.551793,47.294476,8.551793,47.294476],
+  "bbox": [
+    8.551793,
+    47.294476,
+    8.551793,
+    47.294476
+],
   "geometry": {"coordinates":[8.551793,47.294476],"type":"Point"}
 }

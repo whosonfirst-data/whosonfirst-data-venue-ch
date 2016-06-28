@@ -2,13 +2,14 @@
   "id": 185860961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63566,46.519936,6.63566,46.519936",
     "geom:latitude":46.519936,
     "geom:longitude":6.63566,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Bourg 20 1003 Lausanne Case Postale 2320",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185860961,
-    "wof:lastmodified":1449007330,
+    "wof:lastmodified":1466209578,
     "wof:name":"Banque Bruxelles Lambert (suisse) Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63566,46.519936,6.63566,46.519936],
+  "bbox": [
+    6.63566,
+    46.519936,
+    6.63566,
+    46.519936
+],
   "geometry": {"coordinates":[6.63566,46.519936],"type":"Point"}
 }

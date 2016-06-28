@@ -2,13 +2,14 @@
   "id": 236577901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.449126,47.41309,8.449126,47.41309",
     "geom:latitude":47.41309,
     "geom:longitude":8.449126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weiningerstrasse 48 8103 Unterengstringen. Postfach 123",
     "sg:city":"Unterengstringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236577901,
-    "wof:lastmodified":1449005369,
+    "wof:lastmodified":1466212649,
     "wof:name":"W\u00e4lte Consulting Buchhaltung & Steuerberatung",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.449126,47.41309,8.449126,47.41309],
+  "bbox": [
+    8.449126,
+    47.41309,
+    8.449126,
+    47.41309
+],
   "geometry": {"coordinates":[8.449126,47.41309],"type":"Point"}
 }

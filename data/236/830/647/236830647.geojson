@@ -2,13 +2,14 @@
   "id": 236830647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.628309,47.002251,7.628309,47.002251",
     "geom:latitude":47.002251,
     "geom:longitude":7.628309,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stalden 306",
     "sg:city":"Biembach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236830647,
-    "wof:lastmodified":1449002203,
+    "wof:lastmodified":1466212920,
     "wof:name":"Grossenbacher Bedachungs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.628309,47.002251,7.628309,47.002251],
+  "bbox": [
+    7.628309,
+    47.002251,
+    7.628309,
+    47.002251
+],
   "geometry": {"coordinates":[7.628309,47.002251],"type":"Point"}
 }

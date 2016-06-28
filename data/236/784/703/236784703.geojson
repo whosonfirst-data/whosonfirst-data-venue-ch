@@ -2,13 +2,14 @@
   "id": 236784703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.697601,47.50872,8.697601,47.50872",
     "geom:latitude":47.50872,
     "geom:longitude":8.697601,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberfeldstr.104",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236784703,
-    "wof:lastmodified":1449003933,
+    "wof:lastmodified":1466212894,
     "wof:name":"B\u00dcttner & Co Bauunternehmung",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [8.697601,47.50872,8.697601,47.50872],
+  "bbox": [
+    8.697601,
+    47.50872,
+    8.697601,
+    47.50872
+],
   "geometry": {"coordinates":[8.697601,47.50872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186120601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.308447,46.516666,7.308447,46.516666",
     "geom:latitude":46.516666,
     "geom:longitude":7.308447,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chalet Rossweidli 3777 Saanenm\u00f6ser. Postfach",
     "sg:city":"Saanenm\u00f6ser",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186120601,
-    "wof:lastmodified":1449052629,
+    "wof:lastmodified":1466211077,
     "wof:name":"Kanalisationsgenossenschaft Rossweidli-bergmatten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.308447,46.516666,7.308447,46.516666],
+  "bbox": [
+    7.308447,
+    46.516666,
+    7.308447,
+    46.516666
+],
   "geometry": {"coordinates":[7.308447,46.516666],"type":"Point"}
 }

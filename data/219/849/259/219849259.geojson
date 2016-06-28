@@ -2,13 +2,14 @@
   "id": 219849259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.851391,46.677593,7.851391,46.677593",
     "geom:latitude":46.677593,
     "geom:longitude":7.851391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rugenparkstrasse 55 3800 Interlaken. Postfach 298",
     "sg:city":"Interlaken",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219849259,
-    "wof:lastmodified":1449071046,
+    "wof:lastmodified":1466212643,
     "wof:name":"Restaurant & Bar Waldrand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.851391,46.677593,7.851391,46.677593],
+  "bbox": [
+    7.851391,
+    46.677593,
+    7.851391,
+    46.677593
+],
   "geometry": {"coordinates":[7.851391,46.677593],"type":"Point"}
 }

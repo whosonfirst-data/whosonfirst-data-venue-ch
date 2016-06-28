@@ -2,13 +2,14 @@
   "id": 202380761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.015014,46.95496,8.015014,46.95496",
     "geom:latitude":46.95496,
     "geom:longitude":8.015014,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4chli 21",
     "sg:city":"Sch\u00fcpfheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202380761,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466209231,
     "wof:name":"Aregger Manfred Ag, Zweigniederlassung Sch\u00fcpfheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.015014,46.95496,8.015014,46.95496],
+  "bbox": [
+    8.015014,
+    46.95496,
+    8.015014,
+    46.95496
+],
   "geometry": {"coordinates":[8.015014,46.95496],"type":"Point"}
 }

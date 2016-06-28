@@ -2,13 +2,14 @@
   "id": 185659507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.621427,47.555016,7.621427,47.555016",
     "geom:latitude":47.555016,
     "geom:longitude":7.621427,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 13",
     "sg:city":"Birsfelden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185659507,
-    "wof:lastmodified":1449006781,
+    "wof:lastmodified":1466210506,
     "wof:name":"Gantenbein Ag",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "imprint"
     ]
 },
-  "bbox": [7.621427,47.555016,7.621427,47.555016],
+  "bbox": [
+    7.621427,
+    47.555016,
+    7.621427,
+    47.555016
+],
   "geometry": {"coordinates":[7.621427,47.555016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236662837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.22677,47.630245,9.22677,47.630245",
     "geom:latitude":47.630245,
     "geom:longitude":9.22677,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Staatsdom\u00e4ne M\u00fcnsterlingen 8596 Scherzingen. Postfach 104",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236662837,
-    "wof:lastmodified":1449003959,
+    "wof:lastmodified":1466212775,
     "wof:name":"Party Und Festservice Rutishauser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [9.22677,47.630245,9.22677,47.630245],
+  "bbox": [
+    9.22677,
+    47.630245,
+    9.22677,
+    47.630245
+],
   "geometry": {"coordinates":[9.22677,47.630245],"type":"Point"}
 }

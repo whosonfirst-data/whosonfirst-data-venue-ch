@@ -2,13 +2,14 @@
   "id": 186068449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.964464,46.016396,8.964464,46.016396",
     "geom:latitude":46.016396,
     "geom:longitude":8.964464,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ceresio 9",
     "sg:city":"Pregassona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186068449,
-    "wof:lastmodified":1449051754,
+    "wof:lastmodified":1466210359,
     "wof:name":"Faoro Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.964464,46.016396,8.964464,46.016396],
+  "bbox": [
+    8.964464,
+    46.016396,
+    8.964464,
+    46.016396
+],
   "geometry": {"coordinates":[8.964464,46.016396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202514335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.077148,46.102253,7.077148,46.102253",
     "geom:latitude":46.102253,
     "geom:longitude":7.077148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vadianstrasse 37",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202514335,
-    "wof:lastmodified":1449061398,
+    "wof:lastmodified":1466211571,
     "wof:name":"Geotest Martigny Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.077148,46.102253,7.077148,46.102253],
+  "bbox": [
+    7.077148,
+    46.102253,
+    7.077148,
+    46.102253
+],
   "geometry": {"coordinates":[7.077148,46.102253],"type":"Point"}
 }

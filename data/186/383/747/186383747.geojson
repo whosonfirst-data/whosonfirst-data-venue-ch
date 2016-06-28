@@ -2,13 +2,14 @@
   "id": 186383747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.79409,47.362228,8.79409,47.362228",
     "geom:latitude":47.362228,
     "geom:longitude":8.79409,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Village",
     "sg:city":"Ecl\u00e9pens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186383747,
-    "wof:lastmodified":1449051511,
+    "wof:lastmodified":1466210462,
     "wof:name":"Tollhammer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.79409,47.362228,8.79409,47.362228],
+  "bbox": [
+    8.79409,
+    47.362228,
+    8.79409,
+    47.362228
+],
   "geometry": {"coordinates":[8.79409,47.362228],"type":"Point"}
 }

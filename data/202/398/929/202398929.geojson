@@ -2,13 +2,14 @@
   "id": 202398929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.999315,46.314224,7.999315,46.314224",
     "geom:latitude":46.314224,
     "geom:longitude":7.999315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachhalteweg 9 3900 Brig. Postfach",
     "sg:city":"Brig",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202398929,
-    "wof:lastmodified":1449060318,
+    "wof:lastmodified":1466209717,
     "wof:name":"Bauberatung Escher Gmbh Hochbau- U. Energieberatung, Bauleitung, Planung Usw.; Dienstleistungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.999315,46.314224,7.999315,46.314224],
+  "bbox": [
+    7.999315,
+    46.314224,
+    7.999315,
+    46.314224
+],
   "geometry": {"coordinates":[7.999315,46.314224],"type":"Point"}
 }

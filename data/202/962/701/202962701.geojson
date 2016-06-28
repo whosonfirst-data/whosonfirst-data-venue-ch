@@ -2,13 +2,14 @@
   "id": 202962701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.943877,46.004436,8.943877,46.004436",
     "geom:latitude":46.004436,
     "geom:longitude":8.943877,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rodari 22",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202962701,
-    "wof:lastmodified":1449061608,
+    "wof:lastmodified":1466212356,
     "wof:name":"Carlo Cocco Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.943877,46.004436,8.943877,46.004436],
+  "bbox": [
+    8.943877,
+    46.004436,
+    8.943877,
+    46.004436
+],
   "geometry": {"coordinates":[8.943877,46.004436],"type":"Point"}
 }

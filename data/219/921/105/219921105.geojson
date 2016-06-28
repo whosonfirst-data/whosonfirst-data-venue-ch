@@ -2,13 +2,14 @@
   "id": 219921105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.009476,43.534359,-112.009476,43.534359",
     "geom:latitude":43.534359,
     "geom:longitude":-112.009476,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenplatz 14",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219921105,
-    "wof:lastmodified":1449072649,
+    "wof:lastmodified":1466212572,
     "wof:name":"L\u00e9chot Bernard, Agritrac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.009476,43.534359,-112.009476,43.534359],
-  "geometry": {"coordinates":[-112.009476,43.534359],"type":"Point"}
+  "bbox": [
+    -112.009476,
+    43.534359,
+    -112.009476,
+    43.534359
+],
+  "geometry": {"coordinates":[-112.00947600000001,43.534359],"type":"Point"}
 }

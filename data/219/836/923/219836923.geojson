@@ -2,13 +2,14 @@
   "id": 219836923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.915029,46.692497,6.915029,46.692497",
     "geom:latitude":46.692497,
     "geom:longitude":6.915029,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place De La Fontaine 4",
     "sg:city":"Peseux",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219836923,
-    "wof:lastmodified":1449072719,
+    "wof:lastmodified":1466212533,
     "wof:name":"Bar-pizzeria Le Z\u00e9nith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [6.915029,46.692497,6.915029,46.692497],
+  "bbox": [
+    6.915029,
+    46.692497,
+    6.915029,
+    46.692497
+],
   "geometry": {"coordinates":[6.915029,46.692497],"type":"Point"}
 }

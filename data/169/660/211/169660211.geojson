@@ -2,13 +2,14 @@
   "id": 169660211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.160692,46.806107,7.160692,46.806107",
     "geom:latitude":46.806107,
     "geom:longitude":7.160692,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Lausanne 1",
     "sg:city":"Fribourg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169660211,
-    "wof:lastmodified":1449035611,
+    "wof:lastmodified":1466210274,
     "wof:name":"Golden Optic S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [7.160692,46.806107,7.160692,46.806107],
+  "bbox": [
+    7.160692,
+    46.806107,
+    7.160692,
+    46.806107
+],
   "geometry": {"coordinates":[7.160692,46.806107],"type":"Point"}
 }

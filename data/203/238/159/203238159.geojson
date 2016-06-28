@@ -2,13 +2,14 @@
   "id": 203238159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.579147,47.558128,7.579147,47.558128",
     "geom:latitude":47.558128,
     "geom:longitude":7.579147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Socinstrasse 4",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203238159,
-    "wof:lastmodified":1449025625,
+    "wof:lastmodified":1466209892,
     "wof:name":"Dr.med. Ana\u00efs In Der Smitten Spezial\u00e4rztin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.579147,47.558128,7.579147,47.558128],
+  "bbox": [
+    7.579147,
+    47.558128,
+    7.579147,
+    47.558128
+],
   "geometry": {"coordinates":[7.579147,47.558128],"type":"Point"}
 }

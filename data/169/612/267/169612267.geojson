@@ -2,13 +2,14 @@
   "id": 169612267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.256114,47.143909,7.256114,47.143909",
     "geom:latitude":47.143909,
     "geom:longitude":7.256114,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue G\u00e9n\u00e9ral-dufour 123",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169612267,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466209415,
     "wof:name":"4d Net Center Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [7.256114,47.143909,7.256114,47.143909],
+  "bbox": [
+    7.256114,
+    47.143909,
+    7.256114,
+    47.143909
+],
   "geometry": {"coordinates":[7.256114,47.143909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252974569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449883,46.948101,7.449883,46.948101",
     "geom:latitude":46.948101,
     "geom:longitude":7.449883,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kramgasse 48",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252974569,
-    "wof:lastmodified":1449006372,
+    "wof:lastmodified":1466211682,
     "wof:name":"Kunsthandwerk Anderegg Rohrm\u00f6bel U. Korbwaren; Import U. Verkauf; Kunsthandwerkl. Gegenst\u00e4nde; Herstellung.",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449883,46.948101,7.449883,46.948101],
+  "bbox": [
+    7.449883,
+    46.948101,
+    7.449883,
+    46.948101
+],
   "geometry": {"coordinates":[7.449883,46.948101],"type":"Point"}
 }

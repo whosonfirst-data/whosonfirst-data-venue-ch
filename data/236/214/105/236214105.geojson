@@ -2,13 +2,14 @@
   "id": 236214105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.513836,47.389671,8.513836,47.389671",
     "geom:latitude":47.389671,
     "geom:longitude":8.513836,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfingstweidstrasse 70 8031 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236214105,
-    "wof:lastmodified":1449005120,
+    "wof:lastmodified":1466210955,
     "wof:name":"Breitenmoser, Bernardini Labyrinth Gmbh",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.513836,47.389671,8.513836,47.389671],
+  "bbox": [
+    8.513836,
+    47.389671,
+    8.513836,
+    47.389671
+],
   "geometry": {"coordinates":[8.513836,47.389671],"type":"Point"}
 }

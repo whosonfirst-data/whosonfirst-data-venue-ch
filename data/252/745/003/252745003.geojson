@@ -2,13 +2,14 @@
   "id": 252745003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.434663,46.945183,7.434663,46.945183",
     "geom:latitude":46.945183,
     "geom:longitude":7.434663,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seilerstrasse 27",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252745003,
-    "wof:lastmodified":1449006454,
+    "wof:lastmodified":1466209277,
     "wof:name":"Dental-modellguss Labor Sa",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "implant"
     ]
 },
-  "bbox": [7.434663,46.945183,7.434663,46.945183],
+  "bbox": [
+    7.434663,
+    46.945183,
+    7.434663,
+    46.945183
+],
   "geometry": {"coordinates":[7.434663,46.945183],"type":"Point"}
 }

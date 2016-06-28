@@ -2,13 +2,14 @@
   "id": 203250989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58484,47.552078,7.58484,47.552078",
     "geom:latitude":47.552078,
     "geom:longitude":7.58484,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schertlingasse 3",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203250989,
-    "wof:lastmodified":1449026037,
+    "wof:lastmodified":1466210030,
     "wof:name":"Dr.med. Katja Dormann Spezial\u00e4rztin",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.58484,47.552078,7.58484,47.552078],
+  "bbox": [
+    7.58484,
+    47.552078,
+    7.58484,
+    47.552078
+],
   "geometry": {"coordinates":[7.58484,47.552078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219853193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.342543,47.350739,8.342543,47.350739",
     "geom:latitude":47.350739,
     "geom:longitude":8.342543,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwefelstrasse 14",
     "sg:city":"Vaduz",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219853193,
-    "wof:lastmodified":1449071811,
+    "wof:lastmodified":1466212557,
     "wof:name":"Restaurant Schwert & Hollywood 22 Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.342543,47.350739,8.342543,47.350739],
+  "bbox": [
+    8.342543,
+    47.350739,
+    8.342543,
+    47.350739
+],
   "geometry": {"coordinates":[8.342543,47.350739],"type":"Point"}
 }

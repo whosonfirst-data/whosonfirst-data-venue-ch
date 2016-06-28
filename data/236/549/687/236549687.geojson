@@ -2,13 +2,14 @@
   "id": 236549687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048,46.752289,8.048,46.752289",
     "geom:latitude":46.752289,
     "geom:longitude":8.048,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossbergstrasse 27a",
     "sg:city":"Romanshorn",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236549687,
-    "wof:lastmodified":1449002370,
+    "wof:lastmodified":1466212590,
     "wof:name":"Gebr. Hofmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "boot"
     ]
 },
-  "bbox": [8.048,46.752289,8.048,46.752289],
+  "bbox": [
+    8.048,
+    46.752289,
+    8.048,
+    46.752289
+],
   "geometry": {"coordinates":[8.048,46.752289],"type":"Point"}
 }

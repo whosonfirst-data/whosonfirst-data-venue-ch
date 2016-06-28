@@ -2,13 +2,14 @@
   "id": 219775999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527776,47.376308,8.527776,47.376308",
     "geom:latitude":47.376308,
     "geom:longitude":8.527776,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankerstrasse 113",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219775999,
-    "wof:lastmodified":1449073012,
+    "wof:lastmodified":1466212501,
     "wof:name":"Bar Fanny Hill",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527776,47.376308,8.527776,47.376308],
+  "bbox": [
+    8.527776,
+    47.376308,
+    8.527776,
+    47.376308
+],
   "geometry": {"coordinates":[8.527776,47.376308],"type":"Point"}
 }

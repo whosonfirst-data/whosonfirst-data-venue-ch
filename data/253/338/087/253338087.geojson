@@ -2,13 +2,14 @@
   "id": 253338087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.475358,47.387814,8.475358,47.387814",
     "geom:latitude":47.387814,
     "geom:longitude":8.475358,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eugen Huber-strasse 117",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253338087,
-    "wof:lastmodified":1449063848,
+    "wof:lastmodified":1466211929,
     "wof:name":"Quartierkiosk Milic",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.475358,47.387814,8.475358,47.387814],
+  "bbox": [
+    8.475358,
+    47.387814,
+    8.475358,
+    47.387814
+],
   "geometry": {"coordinates":[8.475358,47.387814],"type":"Point"}
 }

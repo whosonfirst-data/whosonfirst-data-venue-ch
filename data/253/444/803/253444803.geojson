@@ -2,13 +2,14 @@
   "id": 253444803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.501591,46.89048,7.501591,46.89048",
     "geom:latitude":46.89048,
     "geom:longitude":7.501591,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 49 3123 Belp. Postfach 87",
     "sg:city":"Belp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253444803,
-    "wof:lastmodified":1449065372,
+    "wof:lastmodified":1466212474,
     "wof:name":"Arno Moser Modehaus Moser",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.501591,46.89048,7.501591,46.89048],
+  "bbox": [
+    7.501591,
+    46.89048,
+    7.501591,
+    46.89048
+],
   "geometry": {"coordinates":[7.501591,46.89048],"type":"Point"}
 }

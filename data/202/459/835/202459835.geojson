@@ -2,13 +2,14 @@
   "id": 202459835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.601923,46.763905,7.601923,46.763905",
     "geom:latitude":46.763905,
     "geom:longitude":7.601923,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuerwerkerstrasse 39",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202459835,
-    "wof:lastmodified":1449061142,
+    "wof:lastmodified":1466210937,
     "wof:name":"Dacs Dvorak Advanced Coating Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.601923,46.763905,7.601923,46.763905],
+  "bbox": [
+    7.601923,
+    46.763905,
+    7.601923,
+    46.763905
+],
   "geometry": {"coordinates":[7.601923,46.763905],"type":"Point"}
 }

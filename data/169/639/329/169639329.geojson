@@ -2,13 +2,14 @@
   "id": 169639329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.080645,47.113247,7.080645,47.113247",
     "geom:latitude":47.113247,
     "geom:longitude":7.080645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl. Du Village 69",
     "sg:city":"Nods",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169639329,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1466209893,
     "wof:name":"Raiffeisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.080645,47.113247,7.080645,47.113247],
+  "bbox": [
+    7.080645,
+    47.113247,
+    7.080645,
+    47.113247
+],
   "geometry": {"coordinates":[7.080645,47.113247],"type":"Point"}
 }

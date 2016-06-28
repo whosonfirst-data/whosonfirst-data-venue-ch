@@ -2,13 +2,14 @@
   "id": 185907207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.551736,47.362312,8.551736,47.362312",
     "geom:latitude":47.362312,
     "geom:longitude":8.551736,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstrasse 7",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185907207,
-    "wof:lastmodified":1449008096,
+    "wof:lastmodified":1466209901,
     "wof:name":"Ie Group Z\u00fcrich Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.551736,47.362312,8.551736,47.362312],
+  "bbox": [
+    8.551736,
+    47.362312,
+    8.551736,
+    47.362312
+],
   "geometry": {"coordinates":[8.551736,47.362312],"type":"Point"}
 }

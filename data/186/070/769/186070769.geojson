@@ -2,13 +2,14 @@
   "id": 186070769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.997975,47.370201,7.997975,47.370201",
     "geom:latitude":47.370201,
     "geom:longitude":7.997975,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstrasse 16 5012 Sch\u00f6nenwerd. Postfach",
     "sg:city":"Sch\u00f6nenwerd",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186070769,
-    "wof:lastmodified":1449051681,
+    "wof:lastmodified":1466210414,
     "wof:name":"Finazzi's Bauservice",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.997975,47.370201,7.997975,47.370201],
+  "bbox": [
+    7.997975,
+    47.370201,
+    7.997975,
+    47.370201
+],
   "geometry": {"coordinates":[7.997975,47.370201],"type":"Point"}
 }

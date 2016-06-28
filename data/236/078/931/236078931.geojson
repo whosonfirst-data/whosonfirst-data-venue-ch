@@ -2,13 +2,14 @@
   "id": 236078931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.123717,46.23642,6.123717,46.23642",
     "geom:latitude":46.23642,
     "geom:longitude":6.123717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Pont-neuf 22",
     "sg:city":"Orient",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236078931,
-    "wof:lastmodified":1449004633,
+    "wof:lastmodified":1466209599,
     "wof:name":"Jacky Beetschen",
     "wof:parent_id":85862451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.123717,46.23642,6.123717,46.23642],
+  "bbox": [
+    6.123717,
+    46.23642,
+    6.123717,
+    46.23642
+],
   "geometry": {"coordinates":[6.123717,46.23642],"type":"Point"}
 }

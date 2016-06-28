@@ -2,13 +2,14 @@
   "id": 252710097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43009,46.930859,7.43009,46.930859",
     "geom:latitude":46.930859,
     "geom:longitude":7.43009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstrasse 40",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252710097,
-    "wof:lastmodified":1449005476,
+    "wof:lastmodified":1466208950,
     "wof:name":"Consult Ag Bern",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43009,46.930859,7.43009,46.930859],
+  "bbox": [
+    7.43009,
+    46.930859,
+    7.43009,
+    46.930859
+],
   "geometry": {"coordinates":[7.43009,46.930859],"type":"Point"}
 }

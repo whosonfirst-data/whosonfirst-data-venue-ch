@@ -2,13 +2,14 @@
   "id": 219751711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.605467,46.534206,6.605467,46.534206",
     "geom:latitude":46.534206,
     "geom:longitude":6.605467,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Cossonay 23",
     "sg:city":"Prilly",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219751711,
-    "wof:lastmodified":1449070583,
+    "wof:lastmodified":1466212368,
     "wof:name":"Union De Banques Suisses",
     "wof:parent_id":85800433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.605467,46.534206,6.605467,46.534206],
+  "bbox": [
+    6.605467,
+    46.534206,
+    6.605467,
+    46.534206
+],
   "geometry": {"coordinates":[6.605467,46.534206],"type":"Point"}
 }

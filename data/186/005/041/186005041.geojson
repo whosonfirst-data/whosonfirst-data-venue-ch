@@ -2,13 +2,14 @@
   "id": 186005041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.5414,47.390594,8.5414,47.390594",
     "geom:latitude":47.390594,
     "geom:longitude":8.5414,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hotzestrasse 28 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186005041,
-    "wof:lastmodified":1449052810,
+    "wof:lastmodified":1466209001,
     "wof:name":"Argeplus Ag",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.5414,47.390594,8.5414,47.390594],
+  "bbox": [
+    8.5414,
+    47.390594,
+    8.5414,
+    47.390594
+],
   "geometry": {"coordinates":[8.5414,47.390594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202773763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.623104,47.691486,8.623104,47.691486",
     "geom:latitude":47.691486,
     "geom:longitude":8.623104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheinweg 9 8212 Neuhausen. Postfach",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202773763,
-    "wof:lastmodified":1449060426,
+    "wof:lastmodified":1466211279,
     "wof:name":"W\u00fcst Bauingenieure Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.623104,47.691486,8.623104,47.691486],
+  "bbox": [
+    8.623104,
+    47.691486,
+    8.623104,
+    47.691486
+],
   "geometry": {"coordinates":[8.623104,47.691486],"type":"Point"}
 }

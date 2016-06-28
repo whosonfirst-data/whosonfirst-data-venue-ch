@@ -2,13 +2,14 @@
   "id": 252738167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.160811,47.095161,7.160811,47.095161",
     "geom:latitude":47.095161,
     "geom:longitude":7.160811,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfgasse 170",
     "sg:city":"Twann",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252738167,
-    "wof:lastmodified":1449006193,
+    "wof:lastmodified":1466209205,
     "wof:name":"Martin Hubacher Johanniterkeller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.160811,47.095161,7.160811,47.095161],
+  "bbox": [
+    7.160811,
+    47.095161,
+    7.160811,
+    47.095161
+],
   "geometry": {"coordinates":[7.160811,47.095161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253013113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.890615,47.305653,7.890615,47.305653",
     "geom:latitude":47.305653,
     "geom:longitude":7.890615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 116",
     "sg:city":"Rothrist",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253013113,
-    "wof:lastmodified":1449064846,
+    "wof:lastmodified":1466209079,
     "wof:name":"Blumenhaus Viola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.890615,47.305653,7.890615,47.305653],
+  "bbox": [
+    7.890615,
+    47.305653,
+    7.890615,
+    47.305653
+],
   "geometry": {"coordinates":[7.890615,47.305653],"type":"Point"}
 }

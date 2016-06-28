@@ -2,13 +2,14 @@
   "id": 220145915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.477392,47.744633,8.477392,47.744633",
     "geom:latitude":47.744633,
     "geom:longitude":8.477392,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hallauerstrasse 26",
     "sg:city":"Schleitheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220145915,
-    "wof:lastmodified":1449074267,
+    "wof:lastmodified":1466210128,
     "wof:name":"Schudel Schreinerei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.477392,47.744633,8.477392,47.744633],
+  "bbox": [
+    8.477392,
+    47.744633,
+    8.477392,
+    47.744633
+],
   "geometry": {"coordinates":[8.477392,47.744633],"type":"Point"}
 }

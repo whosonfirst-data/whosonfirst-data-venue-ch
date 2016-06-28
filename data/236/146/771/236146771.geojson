@@ -2,13 +2,14 @@
   "id": 236146771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.316759,47.055599,8.316759,47.055599",
     "geom:latitude":47.055599,
     "geom:longitude":8.316759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zinggentorstrasse 1 6006 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236146771,
-    "wof:lastmodified":1449002939,
+    "wof:lastmodified":1466210226,
     "wof:name":"Tosca Ferien Ag Ferien- U. Touristenzentren, Hotels, Pensionen Usw Beteiligungen",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.316759,47.055599,8.316759,47.055599],
+  "bbox": [
+    8.316759,
+    47.055599,
+    8.316759,
+    47.055599
+],
   "geometry": {"coordinates":[8.316759,47.055599],"type":"Point"}
 }

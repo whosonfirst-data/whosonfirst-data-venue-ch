@@ -2,13 +2,14 @@
   "id": 185849605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.828193,47.10199,6.828193,47.10199",
     "geom:latitude":47.10199,
     "geom:longitude":6.828193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenstrasse 9 6300 Zug. Postfach 4342",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185849605,
-    "wof:lastmodified":1449006914,
+    "wof:lastmodified":1466209477,
     "wof:name":"Bank Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.828193,47.10199,6.828193,47.10199],
+  "bbox": [
+    6.828193,
+    47.10199,
+    6.828193,
+    47.10199
+],
   "geometry": {"coordinates":[6.828193,47.10199],"type":"Point"}
 }

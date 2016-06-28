@@ -2,13 +2,14 @@
   "id": 236083045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580141,47.318897,8.580141,47.318897",
     "geom:latitude":47.318897,
     "geom:longitude":8.580141,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rainstrasse 32",
     "sg:city":"Theilingen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236083045,
-    "wof:lastmodified":1449003171,
+    "wof:lastmodified":1466209640,
     "wof:name":"Martin Kuhn Haustechnik",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580141,47.318897,8.580141,47.318897],
+  "bbox": [
+    8.580141,
+    47.318897,
+    8.580141,
+    47.318897
+],
   "geometry": {"coordinates":[8.580141,47.318897],"type":"Point"}
 }

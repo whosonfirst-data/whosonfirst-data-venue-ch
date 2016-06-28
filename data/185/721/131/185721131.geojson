@@ -2,13 +2,14 @@
   "id": 185721131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.721123,47.348927,8.721123,47.348927",
     "geom:latitude":47.348927,
     "geom:longitude":8.721123,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiestrasse 11",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185721131,
-    "wof:lastmodified":1449008203,
+    "wof:lastmodified":1466211699,
     "wof:name":"Korinna Fr\u00f6hlich Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.721123,47.348927,8.721123,47.348927],
+  "bbox": [
+    8.721123,
+    47.348927,
+    8.721123,
+    47.348927
+],
   "geometry": {"coordinates":[8.721123,47.348927],"type":"Point"}
 }

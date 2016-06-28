@@ -2,13 +2,14 @@
   "id": 203051379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.626385,46.509949,6.626385,46.509949",
     "geom:latitude":46.509949,
     "geom:longitude":6.626385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Simplon 28a",
     "sg:city":"Monthey",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203051379,
-    "wof:lastmodified":1449026116,
+    "wof:lastmodified":1466210181,
     "wof:name":"Oscar Winterhalter Bureau D'architecture",
     "wof:parent_id":85800387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.626385,46.509949,6.626385,46.509949],
+  "bbox": [
+    6.626385,
+    46.509949,
+    6.626385,
+    46.509949
+],
   "geometry": {"coordinates":[6.626385,46.509949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236620261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.404846,47.064125,8.404846,47.064125",
     "geom:latitude":47.064125,
     "geom:longitude":8.404846,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebmattweg 6",
     "sg:city":"Merlischachen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236620261,
-    "wof:lastmodified":1449004904,
+    "wof:lastmodified":1466212789,
     "wof:name":"Campingplatz Feriendorf Rebmatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.404846,47.064125,8.404846,47.064125],
+  "bbox": [
+    8.404846,
+    47.064125,
+    8.404846,
+    47.064125
+],
   "geometry": {"coordinates":[8.404846,47.064125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252851081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.852127,47.192844,8.852127,47.192844",
     "geom:latitude":47.192844,
     "geom:longitude":8.852127,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserfuristrasse 5",
     "sg:city":"Wiesendangen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252851081,
-    "wof:lastmodified":1449006116,
+    "wof:lastmodified":1466210463,
     "wof:name":"Mini-shop Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.852127,47.192844,8.852127,47.192844],
+  "bbox": [
+    8.852127,
+    47.192844,
+    8.852127,
+    47.192844
+],
   "geometry": {"coordinates":[8.852127,47.192844],"type":"Point"}
 }

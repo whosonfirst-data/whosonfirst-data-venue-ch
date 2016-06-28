@@ -2,13 +2,14 @@
   "id": 202409633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.28998,47.14674,7.28998,47.14674",
     "geom:latitude":47.14674,
     "geom:longitude":7.28998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gare Rue De La 16",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202409633,
-    "wof:lastmodified":1449061153,
+    "wof:lastmodified":1466209863,
     "wof:name":"Bg Bonnard & Gardel, Ingenieure Und Berater (bern) Ag, Zweiniederlassung In Biel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.28998,47.14674,7.28998,47.14674],
+  "bbox": [
+    7.28998,
+    47.14674,
+    7.28998,
+    47.14674
+],
   "geometry": {"coordinates":[7.28998,47.14674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169698643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.313623,47.09502,8.313623,47.09502",
     "geom:latitude":47.09502,
     "geom:longitude":8.313623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seetalstrasse 195",
     "sg:city":"Emmen",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169698643,
-    "wof:lastmodified":1449035757,
+    "wof:lastmodified":1466210919,
     "wof:name":"Gotthard Schnyder Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "metal"
     ]
 },
-  "bbox": [8.313623,47.09502,8.313623,47.09502],
+  "bbox": [
+    8.313623,
+    47.09502,
+    8.313623,
+    47.09502
+],
   "geometry": {"coordinates":[8.313623,47.09502],"type":"Point"}
 }

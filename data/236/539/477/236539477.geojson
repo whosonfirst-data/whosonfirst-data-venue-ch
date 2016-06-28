@@ -2,13 +2,14 @@
   "id": 236539477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.289642,47.162567,7.289642,47.162567",
     "geom:latitude":47.162567,
     "geom:longitude":7.289642,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Longeau 10",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236539477,
-    "wof:lastmodified":1449005326,
+    "wof:lastmodified":1466212580,
     "wof:name":"Anderegg Guenin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [7.289642,47.162567,7.289642,47.162567],
+  "bbox": [
+    7.289642,
+    47.162567,
+    7.289642,
+    47.162567
+],
   "geometry": {"coordinates":[7.289642,47.162567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253381019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629161,46.755524,7.629161,46.755524",
     "geom:latitude":46.755524,
     "geom:longitude":7.629161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rampenstrasse 1 3600 Thun. Postfach 161",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253381019,
-    "wof:lastmodified":1449063059,
+    "wof:lastmodified":1466212085,
     "wof:name":"Schaer Thun Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629161,46.755524,7.629161,46.755524],
+  "bbox": [
+    7.629161,
+    46.755524,
+    7.629161,
+    46.755524
+],
   "geometry": {"coordinates":[7.629161,46.755524],"type":"Point"}
 }

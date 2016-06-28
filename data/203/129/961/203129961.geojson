@@ -2,13 +2,14 @@
   "id": 203129961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.645245,46.524361,6.645245,46.524361",
     "geom:latitude":46.524361,
     "geom:longitude":6.645245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Beaumont 21",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203129961,
-    "wof:lastmodified":1449026469,
+    "wof:lastmodified":1466211425,
     "wof:name":"Ecole De Chantepierre Ecole Cant.vaud.soins Infirm.",
     "wof:parent_id":85862301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.645245,46.524361,6.645245,46.524361],
+  "bbox": [
+    6.645245,
+    46.524361,
+    6.645245,
+    46.524361
+],
   "geometry": {"coordinates":[6.645245,46.524361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236675593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525966,47.316216,8.525966,47.316216",
     "geom:latitude":47.316216,
     "geom:longitude":8.525966,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nauweg 1",
     "sg:city":"Adliswil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236675593,
-    "wof:lastmodified":1449003304,
+    "wof:lastmodified":1466212701,
     "wof:name":"Derowy Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "central"
     ]
 },
-  "bbox": [8.525966,47.316216,8.525966,47.316216],
+  "bbox": [
+    8.525966,
+    47.316216,
+    8.525966,
+    47.316216
+],
   "geometry": {"coordinates":[8.525966,47.316216],"type":"Point"}
 }

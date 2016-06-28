@@ -2,13 +2,14 @@
   "id": 185832753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.39607,47.082314,7.39607,47.082314",
     "geom:latitude":47.082314,
     "geom:longitude":7.39607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstr. 95",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185832753,
-    "wof:lastmodified":1449006601,
+    "wof:lastmodified":1466209345,
     "wof:name":"Alfred Antener",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [7.39607,47.082314,7.39607,47.082314],
+  "bbox": [
+    7.39607,
+    47.082314,
+    7.39607,
+    47.082314
+],
   "geometry": {"coordinates":[7.39607,47.082314],"type":"Point"}
 }

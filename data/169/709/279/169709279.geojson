@@ -2,13 +2,14 @@
   "id": 169709279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535409,47.38102,8.535409,47.38102",
     "geom:latitude":47.38102,
     "geom:longitude":8.535409,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hafnerstrasse 24 8005 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169709279,
-    "wof:lastmodified":1449033348,
+    "wof:lastmodified":1466211006,
     "wof:name":"Personalvorsorgestiftung Photo Studio 13 Hch. Schellenberg Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535409,47.38102,8.535409,47.38102],
+  "bbox": [
+    8.535409,
+    47.38102,
+    8.535409,
+    47.38102
+],
   "geometry": {"coordinates":[8.535409,47.38102],"type":"Point"}
 }

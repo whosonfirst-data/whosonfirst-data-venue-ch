@@ -2,13 +2,14 @@
   "id": 236217751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17537,47.555721,9.17537,47.555721",
     "geom:latitude":47.555721,
     "geom:longitude":9.17537,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Goldbrunnenstrasse 43 4410 Liestal. Postfach",
     "sg:city":"Liestal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236217751,
-    "wof:lastmodified":1449005012,
+    "wof:lastmodified":1466211000,
     "wof:name":"Drei Tannen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.17537,47.555721,9.17537,47.555721],
+  "bbox": [
+    9.17537,
+    47.555721,
+    9.17537,
+    47.555721
+],
   "geometry": {"coordinates":[9.17537,47.555721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203305175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.635192,47.431007,9.635192,47.431007",
     "geom:latitude":47.431007,
     "geom:longitude":9.635192,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Uitikonerstrasse 4",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203305175,
-    "wof:lastmodified":1449025224,
+    "wof:lastmodified":1466210591,
     "wof:name":"Dr.med.doris Geiger Aerztin F.allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.635192,47.431007,9.635192,47.431007],
+  "bbox": [
+    9.635192,
+    47.431007,
+    9.635192,
+    47.431007
+],
   "geometry": {"coordinates":[9.635192,47.431007],"type":"Point"}
 }

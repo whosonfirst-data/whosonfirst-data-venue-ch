@@ -2,13 +2,14 @@
   "id": 185927401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.576409,46.981853,9.576409,46.981853",
     "geom:latitude":46.981853,
     "geom:longitude":9.576409,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sotsassa",
     "sg:city":"Poschiavo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185927401,
-    "wof:lastmodified":1449008053,
+    "wof:lastmodified":1466210076,
     "wof:name":"Spitex Verein Kreis Maienfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.576409,46.981853,9.576409,46.981853],
+  "bbox": [
+    9.576409,
+    46.981853,
+    9.576409,
+    46.981853
+],
   "geometry": {"coordinates":[9.576409,46.981853],"type":"Point"}
 }

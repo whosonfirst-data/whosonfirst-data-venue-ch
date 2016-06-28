@@ -2,13 +2,14 @@
   "id": 202464249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.596915,47.543846,7.596915,47.543846",
     "geom:latitude":47.543846,
     "geom:longitude":7.596915,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochstrasse 86",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202464249,
-    "wof:lastmodified":1449060805,
+    "wof:lastmodified":1466211009,
     "wof:name":"Dettwiler B. Architekt, Planung + Verwaltung",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.596915,47.543846,7.596915,47.543846],
+  "bbox": [
+    7.596915,
+    47.543846,
+    7.596915,
+    47.543846
+],
   "geometry": {"coordinates":[7.596915,47.543846],"type":"Point"}
 }

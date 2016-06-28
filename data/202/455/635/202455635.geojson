@@ -2,13 +2,14 @@
   "id": 202455635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.617164,47.345833,8.617164,47.345833",
     "geom:latitude":47.345833,
     "geom:longitude":8.617164,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sennhofstrasse 54 8125 Zollikerberg. Postfach",
     "sg:city":"Zollikerberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202455635,
-    "wof:lastmodified":1449062257,
+    "wof:lastmodified":1466210895,
     "wof:name":"Covance Clinical And Periapproval Services Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.617164,47.345833,8.617164,47.345833],
+  "bbox": [
+    8.617164,
+    47.345833,
+    8.617164,
+    47.345833
+],
   "geometry": {"coordinates":[8.617164,47.345833],"type":"Point"}
 }

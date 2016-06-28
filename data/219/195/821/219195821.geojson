@@ -2,13 +2,14 @@
   "id": 219195821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.890064,47.348141,7.890064,47.348141",
     "geom:latitude":47.348141,
     "geom:longitude":7.890064,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnerstrasse 231",
     "sg:city":"Olten",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219195821,
-    "wof:lastmodified":1449072705,
+    "wof:lastmodified":1466210893,
     "wof:name":"Asia House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "asian"
     ]
 },
-  "bbox": [7.890064,47.348141,7.890064,47.348141],
+  "bbox": [
+    7.890064,
+    47.348141,
+    7.890064,
+    47.348141
+],
   "geometry": {"coordinates":[7.890064,47.348141],"type":"Point"}
 }

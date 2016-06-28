@@ -2,13 +2,14 @@
   "id": 220044821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.615031,46.73386,7.615031,46.73386",
     "geom:latitude":46.73386,
     "geom:longitude":7.615031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bostudenstrasse 23",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220044821,
-    "wof:lastmodified":1449074456,
+    "wof:lastmodified":1466209261,
     "wof:name":"Walter Sch\u00e4rer Schreinerei",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.615031,46.73386,7.615031,46.73386],
+  "bbox": [
+    7.615031,
+    46.73386,
+    7.615031,
+    46.73386
+],
   "geometry": {"coordinates":[7.615031,46.73386],"type":"Point"}
 }

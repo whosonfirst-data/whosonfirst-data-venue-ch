@@ -2,13 +2,14 @@
   "id": 202890499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.23362,47.12421,7.23362,47.12421",
     "geom:latitude":47.12421,
     "geom:longitude":7.23362,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Egliweg 8",
     "sg:city":"Nidau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202890499,
-    "wof:lastmodified":1449060679,
+    "wof:lastmodified":1466211971,
     "wof:name":"Kauter & Hutzli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.23362,47.12421,7.23362,47.12421],
+  "bbox": [
+    7.23362,
+    47.12421,
+    7.23362,
+    47.12421
+],
   "geometry": {"coordinates":[7.23362,47.12421],"type":"Point"}
 }

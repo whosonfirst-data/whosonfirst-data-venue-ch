@@ -2,13 +2,14 @@
   "id": 219649583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.083348,47.475628,8.083348,47.475628",
     "geom:latitude":47.475628,
     "geom:longitude":8.083348,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberzeiherstr. 4",
     "sg:city":"Zeihen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219649583,
-    "wof:lastmodified":1449072793,
+    "wof:lastmodified":1466212027,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.083348,47.475628,8.083348,47.475628],
+  "bbox": [
+    8.083348,
+    47.475628,
+    8.083348,
+    47.475628
+],
   "geometry": {"coordinates":[8.083348,47.475628],"type":"Point"}
 }

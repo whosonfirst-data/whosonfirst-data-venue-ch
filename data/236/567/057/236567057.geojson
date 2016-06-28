@@ -2,13 +2,14 @@
   "id": 236567057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.949966,46.005054,8.949966,46.005054",
     "geom:latitude":46.005054,
     "geom:longitude":8.949966,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Cioccaro 8",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236567057,
-    "wof:lastmodified":1449005277,
+    "wof:lastmodified":1466212630,
     "wof:name":"Erba Italia Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcloth"
     ]
 },
-  "bbox": [8.949966,46.005054,8.949966,46.005054],
+  "bbox": [
+    8.949966,
+    46.005054,
+    8.949966,
+    46.005054
+],
   "geometry": {"coordinates":[8.949966,46.005054],"type":"Point"}
 }

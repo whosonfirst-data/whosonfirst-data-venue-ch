@@ -2,13 +2,14 @@
   "id": 186566593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.431694,46.94331,7.431694,46.94331",
     "geom:latitude":46.94331,
     "geom:longitude":7.431694,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Plazzet 2",
     "sg:city":"Samedan",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186566593,
-    "wof:lastmodified":1449050318,
+    "wof:lastmodified":1466211928,
     "wof:name":"Cablecom Ag",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.431694,46.94331,7.431694,46.94331],
+  "bbox": [
+    7.431694,
+    46.94331,
+    7.431694,
+    46.94331
+],
   "geometry": {"coordinates":[7.431694,46.94331],"type":"Point"}
 }

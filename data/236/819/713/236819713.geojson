@@ -2,13 +2,14 @@
   "id": 236819713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.04736,46.621552,8.04736,46.621552",
     "geom:latitude":46.621552,
     "geom:longitude":8.04736,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Halten 12",
     "sg:city":"Grindelwald",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236819713,
-    "wof:lastmodified":1449002270,
+    "wof:lastmodified":1466212916,
     "wof:name":"Almer Albert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.04736,46.621552,8.04736,46.621552],
+  "bbox": [
+    8.04736,
+    46.621552,
+    8.04736,
+    46.621552
+],
   "geometry": {"coordinates":[8.04736,46.621552],"type":"Point"}
 }

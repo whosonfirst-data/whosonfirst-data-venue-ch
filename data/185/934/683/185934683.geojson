@@ -2,13 +2,14 @@
   "id": 185934683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.719566,47.502007,8.719566,47.502007",
     "geom:latitude":47.502007,
     "geom:longitude":8.719566,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tellstrasse 11a",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185934683,
-    "wof:lastmodified":1449006662,
+    "wof:lastmodified":1466210136,
     "wof:name":"Private Spitex-dienste Kath.gemeindekrankenpflege",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.719566,47.502007,8.719566,47.502007],
+  "bbox": [
+    8.719566,
+    47.502007,
+    8.719566,
+    47.502007
+],
   "geometry": {"coordinates":[8.719566,47.502007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169692977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.961085,47.003296,6.961085,47.003296",
     "geom:latitude":47.003296,
     "geom:longitude":6.961085,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Falaises 110",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169692977,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210885,
     "wof:name":"Springmann S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [6.961085,47.003296,6.961085,47.003296],
+  "bbox": [
+    6.961085,
+    47.003296,
+    6.961085,
+    47.003296
+],
   "geometry": {"coordinates":[6.961085,47.003296],"type":"Point"}
 }

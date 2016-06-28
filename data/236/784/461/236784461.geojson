@@ -2,13 +2,14 @@
   "id": 236784461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.701555,47.192039,7.701555,47.192039",
     "geom:latitude":47.192039,
     "geom:longitude":7.701555,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freihofweg 9",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236784461,
-    "wof:lastmodified":1449003932,
+    "wof:lastmodified":1466212891,
     "wof:name":"Andreas Wagner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [7.701555,47.192039,7.701555,47.192039],
+  "bbox": [
+    7.701555,
+    47.192039,
+    7.701555,
+    47.192039
+],
   "geometry": {"coordinates":[7.701555,47.192039],"type":"Point"}
 }

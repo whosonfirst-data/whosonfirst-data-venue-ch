@@ -2,13 +2,14 @@
   "id": 186123999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.465924,47.512711,8.465924,47.512711",
     "geom:latitude":47.512711,
     "geom:longitude":8.465924,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4ldelistrasse 31b",
     "sg:city":"Neerach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186123999,
-    "wof:lastmodified":1449051182,
+    "wof:lastmodified":1466211115,
     "wof:name":"Kissling Beat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.465924,47.512711,8.465924,47.512711],
+  "bbox": [
+    8.465924,
+    47.512711,
+    8.465924,
+    47.512711
+],
   "geometry": {"coordinates":[8.465924,47.512711],"type":"Point"}
 }

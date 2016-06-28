@@ -2,13 +2,14 @@
   "id": 185835643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.024498,46.194324,9.024498,46.194324",
     "geom:latitude":46.194324,
     "geom:longitude":9.024498,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Rinaldo Simen 6",
     "sg:city":"Bellinzona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185835643,
-    "wof:lastmodified":1449006841,
+    "wof:lastmodified":1466209365,
     "wof:name":"Colombo E Pedroni Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [9.024498,46.194324,9.024498,46.194324],
+  "bbox": [
+    9.024498,
+    46.194324,
+    9.024498,
+    46.194324
+],
   "geometry": {"coordinates":[9.024498,46.194324],"type":"Point"}
 }

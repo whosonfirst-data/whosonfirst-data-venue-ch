@@ -2,13 +2,14 @@
   "id": 236917999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.558688,47.417759,8.558688,47.417759",
     "geom:latitude":47.417759,
     "geom:longitude":8.558688,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leutschenbachstrasse 95 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236917999,
-    "wof:lastmodified":1449004724,
+    "wof:lastmodified":1466212988,
     "wof:name":"Swiss Post International Logistics Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.558688,47.417759,8.558688,47.417759],
+  "bbox": [
+    8.558688,
+    47.417759,
+    8.558688,
+    47.417759
+],
   "geometry": {"coordinates":[8.558688,47.417759],"type":"Point"}
 }

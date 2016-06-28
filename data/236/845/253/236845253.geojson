@@ -2,13 +2,14 @@
   "id": 236845253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.603703,46.83979,9.603703,46.83979",
     "geom:latitude":46.83979,
     "geom:longitude":9.603703,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 13",
     "sg:city":"Castiel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236845253,
-    "wof:lastmodified":1449002080,
+    "wof:lastmodified":1466212930,
     "wof:name":"Sprecher Markus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.603703,46.83979,9.603703,46.83979],
+  "bbox": [
+    9.603703,
+    46.83979,
+    9.603703,
+    46.83979
+],
   "geometry": {"coordinates":[9.603703,46.83979],"type":"Point"}
 }

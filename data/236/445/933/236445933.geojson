@@ -2,13 +2,14 @@
   "id": 236445933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.715879,47.509289,8.715879,47.509289",
     "geom:latitude":47.509289,
     "geom:longitude":8.715879,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Trottenstrasse 1",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236445933,
-    "wof:lastmodified":1449002005,
+    "wof:lastmodified":1466212306,
     "wof:name":"Kreisbibliothek Veltheim",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [8.715879,47.509289,8.715879,47.509289],
+  "bbox": [
+    8.715879,
+    47.509289,
+    8.715879,
+    47.509289
+],
   "geometry": {"coordinates":[8.715879,47.509289],"type":"Point"}
 }

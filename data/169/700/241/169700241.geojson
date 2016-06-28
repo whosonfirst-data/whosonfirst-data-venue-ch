@@ -2,13 +2,14 @@
   "id": 169700241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.243568,47.129852,7.243568,47.129852",
     "geom:latitude":47.129852,
     "geom:longitude":7.243568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Salzhausstr. 21",
     "sg:city":"Biel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169700241,
-    "wof:lastmodified":1449035671,
+    "wof:lastmodified":1466210921,
     "wof:name":"Opel Schweiz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "transport"
     ]
 },
-  "bbox": [7.243568,47.129852,7.243568,47.129852],
+  "bbox": [
+    7.243568,
+    47.129852,
+    7.243568,
+    47.129852
+],
   "geometry": {"coordinates":[7.243568,47.129852],"type":"Point"}
 }

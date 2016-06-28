@@ -2,13 +2,14 @@
   "id": 202689383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533355,47.390438,8.533355,47.390438",
     "geom:latitude":47.390438,
     "geom:longitude":8.533355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nordstrasse 139 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202689383,
-    "wof:lastmodified":1449062235,
+    "wof:lastmodified":1466210487,
     "wof:name":"Rossetti & Wyss Architekten",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533355,47.390438,8.533355,47.390438],
+  "bbox": [
+    8.533355,
+    47.390438,
+    8.533355,
+    47.390438
+],
   "geometry": {"coordinates":[8.533355,47.390438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202781275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532008,47.381363,8.532008,47.381363",
     "geom:latitude":47.381363,
     "geom:longitude":8.532008,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugasse 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202781275,
-    "wof:lastmodified":1449060585,
+    "wof:lastmodified":1466211351,
     "wof:name":"Alioth Langlotz Stalder Buol Architekten",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532008,47.381363,8.532008,47.381363],
+  "bbox": [
+    8.532008,
+    47.381363,
+    8.532008,
+    47.381363
+],
   "geometry": {"coordinates":[8.532008,47.381363],"type":"Point"}
 }

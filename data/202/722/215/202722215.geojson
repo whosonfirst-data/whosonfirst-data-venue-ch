@@ -2,13 +2,14 @@
   "id": 202722215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.047716,47.460693,9.047716,47.460693",
     "geom:latitude":47.460693,
     "geom:longitude":9.047716,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6telstrasse 84",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202722215,
-    "wof:lastmodified":1449060994,
+    "wof:lastmodified":1466210799,
     "wof:name":"Stierli Theo + Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.047716,47.460693,9.047716,47.460693],
+  "bbox": [
+    9.047716,
+    47.460693,
+    9.047716,
+    47.460693
+],
   "geometry": {"coordinates":[9.047716,47.460693],"type":"Point"}
 }

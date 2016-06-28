@@ -2,13 +2,14 @@
   "id": 219331047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455918,46.980545,7.455918,46.980545",
     "geom:latitude":46.980545,
     "geom:longitude":7.455918,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hubelgutstrasse 2",
     "sg:city":"Worblaufen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219331047,
-    "wof:lastmodified":1449072542,
+    "wof:lastmodified":1466209532,
     "wof:name":"Remo Ag Garage & Carrosserie",
     "wof:parent_id":85800673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455918,46.980545,7.455918,46.980545],
+  "bbox": [
+    7.455918,
+    46.980545,
+    7.455918,
+    46.980545
+],
   "geometry": {"coordinates":[7.455918,46.980545],"type":"Point"}
 }

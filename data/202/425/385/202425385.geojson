@@ -2,13 +2,14 @@
   "id": 202425385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.071338,46.104622,7.071338,46.104622",
     "geom:latitude":46.104622,
     "geom:longitude":7.071338,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Marc-morand 22 1920 Martigny. Postfach",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202425385,
-    "wof:lastmodified":1449060997,
+    "wof:lastmodified":1466210171,
     "wof:name":"Bureau D'architecte Et D'ing\u00e9nieur Fritz Dipl. Willi - Bps S\u00e0rl Probl\u00e8mes D'humidit\u00e9 Dans Des Villas, Locatifs, B\u00e2timents Industriels Etc.; Rem\u00e9dition Par L'application De Proc\u00e9d\u00e9s \u00e9lectrophysiques Et",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.071338,46.104622,7.071338,46.104622],
+  "bbox": [
+    7.071338,
+    46.104622,
+    7.071338,
+    46.104622
+],
   "geometry": {"coordinates":[7.071338,46.104622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203316437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.046567,47.543751,8.046567,47.543751",
     "geom:latitude":47.543751,
     "geom:longitude":8.046567,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weihermatt 2",
     "sg:city":"Kaisten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203316437,
-    "wof:lastmodified":1449026265,
+    "wof:lastmodified":1466210700,
     "wof:name":"Dr.med.felix Wunderlin Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.046567,47.543751,8.046567,47.543751],
+  "bbox": [
+    8.046567,
+    47.543751,
+    8.046567,
+    47.543751
+],
   "geometry": {"coordinates":[8.046567,47.543751],"type":"Point"}
 }

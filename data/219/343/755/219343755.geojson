@@ -2,13 +2,14 @@
   "id": 219343755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.99688,46.923603,8.99688,46.923603",
     "geom:latitude":46.923603,
     "geom:longitude":8.99688,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 8783 Linthal. Postfach",
     "sg:city":"Linthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219343755,
-    "wof:lastmodified":1449072904,
+    "wof:lastmodified":1466209643,
     "wof:name":"Garage Heussi Rolf Autogarage. Fahrzeuge U. Zubeh\u00f6r; Handel Usw.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.99688,46.923603,8.99688,46.923603],
+  "bbox": [
+    8.99688,
+    46.923603,
+    8.99688,
+    46.923603
+],
   "geometry": {"coordinates":[8.99688,46.923603],"type":"Point"}
 }

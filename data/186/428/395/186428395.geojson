@@ -2,13 +2,14 @@
   "id": 186428395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.395734,47.341656,8.395734,47.341656",
     "geom:latitude":47.341656,
     "geom:longitude":8.395734,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Juch\u00e4cherstrasse 7 8966 Oberwil Ag. Postfach",
     "sg:city":"Lieli",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186428395,
-    "wof:lastmodified":1449052853,
+    "wof:lastmodified":1466210830,
     "wof:name":"Le Soleil Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.395734,47.341656,8.395734,47.341656],
+  "bbox": [
+    8.395734,
+    47.341656,
+    8.395734,
+    47.341656
+],
   "geometry": {"coordinates":[8.395734,47.341656],"type":"Point"}
 }

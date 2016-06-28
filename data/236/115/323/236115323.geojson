@@ -2,13 +2,14 @@
   "id": 236115323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.487198,47.150192,9.487198,47.150192",
     "geom:latitude":47.150192,
     "geom:longitude":9.487198,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nova 42 7013 Domat/ems. Postfach 122",
     "sg:city":"Domat/ems",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236115323,
-    "wof:lastmodified":1449001657,
+    "wof:lastmodified":1466209928,
     "wof:name":"R\u00fceger Spenglerei, Sanit\u00e4r",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.487198,47.150192,9.487198,47.150192],
+  "bbox": [
+    9.487198,
+    47.150192,
+    9.487198,
+    47.150192
+],
   "geometry": {"coordinates":[9.487198,47.150192],"type":"Point"}
 }

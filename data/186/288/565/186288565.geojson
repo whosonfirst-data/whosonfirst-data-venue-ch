@@ -2,13 +2,14 @@
   "id": 186288565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.015358,47.333168,8.015358,47.333168",
     "geom:latitude":47.333168,
     "geom:longitude":8.015358,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zinggen 13 5742 K\u00f6lliken. Postfach 24",
     "sg:city":"K\u00f6lliken",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186288565,
-    "wof:lastmodified":1449050529,
+    "wof:lastmodified":1466209753,
     "wof:name":"Hochuli Und Sch\u00fctz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.015358,47.333168,8.015358,47.333168],
+  "bbox": [
+    8.015358,
+    47.333168,
+    8.015358,
+    47.333168
+],
   "geometry": {"coordinates":[8.015358,47.333168],"type":"Point"}
 }

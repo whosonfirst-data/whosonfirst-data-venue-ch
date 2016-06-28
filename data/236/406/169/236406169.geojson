@@ -2,13 +2,14 @@
   "id": 236406169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.676808,46.691902,7.676808,46.691902",
     "geom:latitude":46.691902,
     "geom:longitude":7.676808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spiezbergstrasse 9",
     "sg:city":"Spiez",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236406169,
-    "wof:lastmodified":1449003418,
+    "wof:lastmodified":1466212147,
     "wof:name":"Bibliothek Spiez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.676808,46.691902,7.676808,46.691902],
+  "bbox": [
+    7.676808,
+    46.691902,
+    7.676808,
+    46.691902
+],
   "geometry": {"coordinates":[7.676808,46.691902],"type":"Point"}
 }

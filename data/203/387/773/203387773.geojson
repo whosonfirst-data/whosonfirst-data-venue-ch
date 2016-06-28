@@ -2,13 +2,14 @@
   "id": 203387773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312796,47.066368,8.312796,47.066368",
     "geom:latitude":47.066368,
     "geom:longitude":8.312796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maihofstrasse 79",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203387773,
-    "wof:lastmodified":1449026603,
+    "wof:lastmodified":1466211403,
     "wof:name":"Dr.med.peter Respondek Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.312796,47.066368,8.312796,47.066368],
+  "bbox": [
+    8.312796,
+    47.066368,
+    8.312796,
+    47.066368
+],
   "geometry": {"coordinates":[8.312796,47.066368],"type":"Point"}
 }

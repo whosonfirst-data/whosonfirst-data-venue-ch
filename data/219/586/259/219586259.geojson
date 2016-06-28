@@ -2,13 +2,14 @@
   "id": 219586259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.048262,46.22731,9.048262,46.22731",
     "geom:latitude":46.22731,
     "geom:longitude":9.048262,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Campagnora",
     "sg:city":"Castione",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219586259,
-    "wof:lastmodified":1449073513,
+    "wof:lastmodified":1466211875,
     "wof:name":"Raiffeisen Di Castione",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.048262,46.22731,9.048262,46.22731],
+  "bbox": [
+    9.048262,
+    46.22731,
+    9.048262,
+    46.22731
+],
   "geometry": {"coordinates":[9.048262,46.22731],"type":"Point"}
 }

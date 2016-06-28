@@ -2,13 +2,14 @@
   "id": 186075709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.086516,47.010006,7.086516,47.010006",
     "geom:latitude":47.010006,
     "geom:longitude":7.086516,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gampelengasse 71",
     "sg:city":"Ins",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186075709,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466210488,
     "wof:name":"Fritz Gugger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.086516,47.010006,7.086516,47.010006],
+  "bbox": [
+    7.086516,
+    47.010006,
+    7.086516,
+    47.010006
+],
   "geometry": {"coordinates":[7.086516,47.010006],"type":"Point"}
 }

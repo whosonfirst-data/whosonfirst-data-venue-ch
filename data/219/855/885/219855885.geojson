@@ -2,13 +2,14 @@
   "id": 219855885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.928682,46.006382,8.928682,46.006382",
     "geom:latitude":46.006382,
     "geom:longitude":8.928682,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Arch.frasca 1",
     "sg:city":"Breganzona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219855885,
-    "wof:lastmodified":1449073003,
+    "wof:lastmodified":1466212496,
     "wof:name":"Ristorante & Bar Argentino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.928682,46.006382,8.928682,46.006382],
+  "bbox": [
+    8.928682,
+    46.006382,
+    8.928682,
+    46.006382
+],
   "geometry": {"coordinates":[8.928682,46.006382],"type":"Point"}
 }

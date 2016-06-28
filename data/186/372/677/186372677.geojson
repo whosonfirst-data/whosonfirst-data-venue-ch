@@ -2,13 +2,14 @@
   "id": 186372677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.047384,47.403812,8.047384,47.403812",
     "geom:latitude":47.403812,
     "geom:longitude":8.047384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Stockstrasse 3",
     "sg:city":"Rombach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186372677,
-    "wof:lastmodified":1449051989,
+    "wof:lastmodified":1466210379,
     "wof:name":"Merz Ag Bauunternehmung",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.047384,47.403812,8.047384,47.403812],
+  "bbox": [
+    8.047384,
+    47.403812,
+    8.047384,
+    47.403812
+],
   "geometry": {"coordinates":[8.047384,47.403812],"type":"Point"}
 }

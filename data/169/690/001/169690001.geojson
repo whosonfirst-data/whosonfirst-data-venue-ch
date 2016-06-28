@@ -2,13 +2,14 @@
   "id": 169690001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.074586,47.419708,7.074586,47.419708",
     "geom:latitude":47.419708,
     "geom:longitude":7.074586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Belfort 2",
     "sg:city":"Porrentruy",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169690001,
-    "wof:lastmodified":1449034430,
+    "wof:lastmodified":1466211676,
     "wof:name":"H\u00e9liotherm Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.074586,47.419708,7.074586,47.419708],
+  "bbox": [
+    7.074586,
+    47.419708,
+    7.074586,
+    47.419708
+],
   "geometry": {"coordinates":[7.074586,47.419708],"type":"Point"}
 }

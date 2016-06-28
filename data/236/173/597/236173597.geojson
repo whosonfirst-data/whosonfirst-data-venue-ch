@@ -2,13 +2,14 @@
   "id": 236173597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.660222,46.540131,6.660222,46.540131",
     "geom:latitude":46.540131,
     "geom:longitude":6.660222,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Valmont 24",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236173597,
-    "wof:lastmodified":1449002154,
+    "wof:lastmodified":1466210515,
     "wof:name":"Centre D'orientation De Formation Professionnelles",
     "wof:parent_id":85862347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.660222,46.540131,6.660222,46.540131],
+  "bbox": [
+    6.660222,
+    46.540131,
+    6.660222,
+    46.540131
+],
   "geometry": {"coordinates":[6.660222,46.540131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236659705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.235966,47.131577,7.235966,47.131577",
     "geom:latitude":47.131577,
     "geom:longitude":7.235966,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badhausstrasse 1 2503 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236659705,
-    "wof:lastmodified":1449001943,
+    "wof:lastmodified":1466212816,
     "wof:name":"Bielersee Gastro Ag Schiffscatering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [7.235966,47.131577,7.235966,47.131577],
+  "bbox": [
+    7.235966,
+    47.131577,
+    7.235966,
+    47.131577
+],
   "geometry": {"coordinates":[7.235966,47.131577],"type":"Point"}
 }

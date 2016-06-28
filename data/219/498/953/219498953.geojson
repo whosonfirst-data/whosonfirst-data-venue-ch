@@ -2,13 +2,14 @@
   "id": 219498953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.998909,46.169022,5.998909,46.169022",
     "geom:latitude":46.169022,
     "geom:longitude":5.998909,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Moulin-roget 16",
     "sg:city":"Avully",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219498953,
-    "wof:lastmodified":1449073077,
+    "wof:lastmodified":1466211132,
     "wof:name":"Banque Raiffeisen Avully",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.998909,46.169022,5.998909,46.169022],
+  "bbox": [
+    5.998909,
+    46.169022,
+    5.998909,
+    46.169022
+],
   "geometry": {"coordinates":[5.998909,46.169022],"type":"Point"}
 }

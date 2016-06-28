@@ -2,13 +2,14 @@
   "id": 252846563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.463947,47.493683,9.463947,47.493683",
     "geom:latitude":47.493683,
     "geom:longitude":9.463947,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 19",
     "sg:city":"Horn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252846563,
-    "wof:lastmodified":1449006269,
+    "wof:lastmodified":1466210418,
     "wof:name":"Lns Ledermode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.463947,47.493683,9.463947,47.493683],
+  "bbox": [
+    9.463947,
+    47.493683,
+    9.463947,
+    47.493683
+],
   "geometry": {"coordinates":[9.463947,47.493683],"type":"Point"}
 }

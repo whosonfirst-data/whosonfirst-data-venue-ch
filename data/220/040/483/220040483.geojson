@@ -2,13 +2,14 @@
   "id": 220040483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.753561,47.387203,8.753561,47.387203",
     "geom:latitude":47.387203,
     "geom:longitude":8.753561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kempttalstrasse 83",
     "sg:city":"Fehraltorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220040483,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1466209223,
     "wof:name":"Ruedi Meier Kundenschreinerei Innenausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.753561,47.387203,8.753561,47.387203],
+  "bbox": [
+    8.753561,
+    47.387203,
+    8.753561,
+    47.387203
+],
   "geometry": {"coordinates":[8.753561,47.387203],"type":"Point"}
 }

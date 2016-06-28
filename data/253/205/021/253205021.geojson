@@ -2,13 +2,14 @@
   "id": 253205021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.799299,47.165401,7.799299,47.165401",
     "geom:latitude":47.165401,
     "geom:longitude":7.799299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 3 4934 Madiswil. Postfach",
     "sg:city":"Madiswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253205021,
-    "wof:lastmodified":1449064594,
+    "wof:lastmodified":1466211065,
     "wof:name":"J\u00fcrg Hasler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.799299,47.165401,7.799299,47.165401],
+  "bbox": [
+    7.799299,
+    47.165401,
+    7.799299,
+    47.165401
+],
   "geometry": {"coordinates":[7.799299,47.165401],"type":"Point"}
 }

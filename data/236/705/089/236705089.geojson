@@ -2,13 +2,14 @@
   "id": 236705089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638247,47.407944,8.638247,47.407944",
     "geom:latitude":47.407944,
     "geom:longitude":8.638247,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzstrasse 16 5036 Oberentfelden. Postfach",
     "sg:city":"Oberentfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236705089,
-    "wof:lastmodified":1449005272,
+    "wof:lastmodified":1466212820,
     "wof:name":"Robert Waldmeier Chemin\u00e9e-& Ofenbau",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.638247,47.407944,8.638247,47.407944],
+  "bbox": [
+    8.638247,
+    47.407944,
+    8.638247,
+    47.407944
+],
   "geometry": {"coordinates":[8.638247,47.407944],"type":"Point"}
 }

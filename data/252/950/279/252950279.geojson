@@ -2,13 +2,14 @@
   "id": 252950279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.350457,47.414181,9.350457,47.414181",
     "geom:latitude":47.414181,
     "geom:longitude":9.350457,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zellgut 6214 Schenkon. Postfach 695",
     "sg:city":"Sursee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252950279,
-    "wof:lastmodified":1449005837,
+    "wof:lastmodified":1466211525,
     "wof:name":"Quelle Versand Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.350457,47.414181,9.350457,47.414181],
+  "bbox": [
+    9.350457,
+    47.414181,
+    9.350457,
+    47.414181
+],
   "geometry": {"coordinates":[9.350457,47.414181],"type":"Point"}
 }

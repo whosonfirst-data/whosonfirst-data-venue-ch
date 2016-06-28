@@ -2,13 +2,14 @@
   "id": 253179505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.630021,46.52409,6.630021,46.52409",
     "geom:latitude":46.52409,
     "geom:longitude":6.630021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Pr\u00e9-du-march\u00e9 34",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253179505,
-    "wof:lastmodified":1449065476,
+    "wof:lastmodified":1466210835,
     "wof:name":"Genoux R.",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.630021,46.52409,6.630021,46.52409],
+  "bbox": [
+    6.630021,
+    46.52409,
+    6.630021,
+    46.52409
+],
   "geometry": {"coordinates":[6.630021,46.52409],"type":"Point"}
 }

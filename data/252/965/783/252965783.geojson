@@ -2,13 +2,14 @@
   "id": 252965783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.535448,47.206547,7.535448,47.206547",
     "geom:latitude":47.206547,
     "geom:longitude":7.535448,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptgasse 1",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252965783,
-    "wof:lastmodified":1449006155,
+    "wof:lastmodified":1466211751,
     "wof:name":"Chuchilade Wagmann Christine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.535448,47.206547,7.535448,47.206547],
+  "bbox": [
+    7.535448,
+    47.206547,
+    7.535448,
+    47.206547
+],
   "geometry": {"coordinates":[7.535448,47.206547],"type":"Point"}
 }

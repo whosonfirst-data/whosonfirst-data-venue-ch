@@ -2,13 +2,14 @@
   "id": 202520365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.257653,47.458755,8.257653,47.458755",
     "geom:latitude":47.458755,
     "geom:longitude":8.257653,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Uttins 36",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202520365,
-    "wof:lastmodified":1449060942,
+    "wof:lastmodified":1466208913,
     "wof:name":"Goldammer Volker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.257653,47.458755,8.257653,47.458755],
+  "bbox": [
+    8.257653,
+    47.458755,
+    8.257653,
+    47.458755
+],
   "geometry": {"coordinates":[8.257653,47.458755],"type":"Point"}
 }

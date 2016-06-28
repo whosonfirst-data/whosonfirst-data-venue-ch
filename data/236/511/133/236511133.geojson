@@ -2,13 +2,14 @@
   "id": 236511133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.533165,47.47525,7.533165,47.47525",
     "geom:latitude":47.47525,
     "geom:longitude":7.533165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstettenstrasse 40",
     "sg:city":"Ettingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236511133,
-    "wof:lastmodified":1449003122,
+    "wof:lastmodified":1466212535,
     "wof:name":"Weber Rudolf Orchideen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.533165,47.47525,7.533165,47.47525],
+  "bbox": [
+    7.533165,
+    47.47525,
+    7.533165,
+    47.47525
+],
   "geometry": {"coordinates":[7.533165,47.47525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253124573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.793019,47.555389,7.793019,47.555389",
     "geom:latitude":47.555389,
     "geom:longitude":7.793019,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 20 4310 Rheinfelden. Postfach",
     "sg:city":"Rheinfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253124573,
-    "wof:lastmodified":1449065566,
+    "wof:lastmodified":1466210184,
     "wof:name":"Veronesi Optik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.793019,47.555389,7.793019,47.555389],
+  "bbox": [
+    7.793019,
+    47.555389,
+    7.793019,
+    47.555389
+],
   "geometry": {"coordinates":[7.793019,47.555389],"type":"Point"}
 }

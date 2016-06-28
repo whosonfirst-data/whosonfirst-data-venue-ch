@@ -2,13 +2,14 @@
   "id": 236848775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.384152,47.191841,8.384152,47.191841",
     "geom:latitude":47.191841,
     "geom:longitude":8.384152,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosbr\u00fcnneli 5",
     "sg:city":"Sins",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236848775,
-    "wof:lastmodified":1449002024,
+    "wof:lastmodified":1466212933,
     "wof:name":"Wyder Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.384152,47.191841,8.384152,47.191841],
+  "bbox": [
+    8.384152,
+    47.191841,
+    8.384152,
+    47.191841
+],
   "geometry": {"coordinates":[8.384152,47.191841],"type":"Point"}
 }

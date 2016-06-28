@@ -2,13 +2,14 @@
   "id": 202638395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.513139,47.191265,8.513139,47.191265",
     "geom:latitude":47.191265,
     "geom:longitude":8.513139,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuhofstrasse 1",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202638395,
-    "wof:lastmodified":1449060241,
+    "wof:lastmodified":1466210019,
     "wof:name":"Muri-simmen Marcel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.513139,47.191265,8.513139,47.191265],
+  "bbox": [
+    8.513139,
+    47.191265,
+    8.513139,
+    47.191265
+],
   "geometry": {"coordinates":[8.513139,47.191265],"type":"Point"}
 }

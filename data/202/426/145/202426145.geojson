@@ -2,13 +2,14 @@
   "id": 202426145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.625347,46.521587,6.625347,46.521587",
     "geom:latitude":46.521587,
     "geom:longitude":6.625347,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"C\u00f4tes-de-montbenon Rue 28",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202426145,
-    "wof:lastmodified":1449060660,
+    "wof:lastmodified":1466210202,
     "wof:name":"Bureau D'architecture Sylvie Pfaehler",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.625347,46.521587,6.625347,46.521587],
+  "bbox": [
+    6.625347,
+    46.521587,
+    6.625347,
+    46.521587
+],
   "geometry": {"coordinates":[6.625347,46.521587],"type":"Point"}
 }

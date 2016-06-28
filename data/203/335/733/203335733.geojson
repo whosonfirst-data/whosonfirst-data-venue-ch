@@ -2,13 +2,14 @@
   "id": 203335733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.101137,47.170353,8.101137,47.170353",
     "geom:latitude":47.170353,
     "geom:longitude":8.101137,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Centralstrasse 32 6210 Sursee. Postfach 207",
     "sg:city":"Sursee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203335733,
-    "wof:lastmodified":1449026231,
+    "wof:lastmodified":1466210889,
     "wof:name":"Dr.med.hansjakob Roelli Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.101137,47.170353,8.101137,47.170353],
+  "bbox": [
+    8.101137,
+    47.170353,
+    8.101137,
+    47.170353
+],
   "geometry": {"coordinates":[8.101137,47.170353],"type":"Point"}
 }

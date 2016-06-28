@@ -2,13 +2,14 @@
   "id": 203241387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.320067,47.061016,8.320067,47.061016",
     "geom:latitude":47.061016,
     "geom:longitude":8.320067,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreilindenstrasse 88",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203241387,
-    "wof:lastmodified":1449026836,
+    "wof:lastmodified":1466209926,
     "wof:name":"Dr.med. Bertrand Katzenstein Spezialarzt Fmh",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.320067,47.061016,8.320067,47.061016],
+  "bbox": [
+    8.320067,
+    47.061016,
+    8.320067,
+    47.061016
+],
   "geometry": {"coordinates":[8.320067,47.061016],"type":"Point"}
 }

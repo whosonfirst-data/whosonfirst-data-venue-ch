@@ -2,13 +2,14 @@
   "id": 186017135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.856803,47.335461,8.856803,47.335461",
     "geom:latitude":47.335461,
     "geom:longitude":8.856803,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wetzikerstr. 3. 8344 B\u00e4retswil. Postfach",
     "sg:city":"B\u00e4retswil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186017135,
-    "wof:lastmodified":1449051797,
+    "wof:lastmodified":1466209532,
     "wof:name":"Baumann Paul.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.856803,47.335461,8.856803,47.335461],
+  "bbox": [
+    8.856803,
+    47.335461,
+    8.856803,
+    47.335461
+],
   "geometry": {"coordinates":[8.856803,47.335461],"type":"Point"}
 }

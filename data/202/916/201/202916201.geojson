@@ -2,13 +2,14 @@
   "id": 202916201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.027667,45.836025,9.027667,45.836025",
     "geom:latitude":45.836025,
     "geom:longitude":9.027667,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vela 3",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202916201,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466212071,
     "wof:name":"Future Engineering Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.027667,45.836025,9.027667,45.836025],
+  "bbox": [
+    9.027667,
+    45.836025,
+    9.027667,
+    45.836025
+],
   "geometry": {"coordinates":[9.027667,45.836025],"type":"Point"}
 }

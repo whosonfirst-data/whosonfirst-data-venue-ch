@@ -2,13 +2,14 @@
   "id": 253285663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61907,46.981812,8.61907,46.981812",
     "geom:latitude":46.981812,
     "geom:longitude":8.61907,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorf",
     "sg:city":"Morschach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253285663,
-    "wof:lastmodified":1449062908,
+    "wof:lastmodified":1466211791,
     "wof:name":"Martin Jud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.61907,46.981812,8.61907,46.981812],
+  "bbox": [
+    8.61907,
+    46.981812,
+    8.61907,
+    46.981812
+],
   "geometry": {"coordinates":[8.61907,46.981812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220105313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.285349,47.456463,8.285349,47.456463",
     "geom:latitude":47.456463,
     "geom:longitude":8.285349,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wydenweg 22a",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220105313,
-    "wof:lastmodified":1449074336,
+    "wof:lastmodified":1466209787,
     "wof:name":"Interlinea Roy Meyer Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.285349,47.456463,8.285349,47.456463],
+  "bbox": [
+    8.285349,
+    47.456463,
+    8.285349,
+    47.456463
+],
   "geometry": {"coordinates":[8.285349,47.456463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236665441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.561167,47.362366,8.561167,47.362366",
     "geom:latitude":47.362366,
     "geom:longitude":8.561167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hegibachstrasse 9",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236665441,
-    "wof:lastmodified":1449002495,
+    "wof:lastmodified":1466212768,
     "wof:name":"Sam's Pizza Line Hauslieferdienst",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.561167,47.362366,8.561167,47.362366],
+  "bbox": [
+    8.561167,
+    47.362366,
+    8.561167,
+    47.362366
+],
   "geometry": {"coordinates":[8.561167,47.362366],"type":"Point"}
 }

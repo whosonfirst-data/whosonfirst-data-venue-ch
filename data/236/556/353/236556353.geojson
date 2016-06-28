@@ -2,13 +2,14 @@
   "id": 236556353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545528,47.303173,8.545528,47.303173",
     "geom:latitude":47.303173,
     "geom:longitude":8.545528,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosstrasse 2",
     "sg:city":"R\u00fcschlikon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236556353,
-    "wof:lastmodified":1449002292,
+    "wof:lastmodified":1466212602,
     "wof:name":"Bibus-uto Stahl Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [8.545528,47.303173,8.545528,47.303173],
+  "bbox": [
+    8.545528,
+    47.303173,
+    8.545528,
+    47.303173
+],
   "geometry": {"coordinates":[8.545528,47.303173],"type":"Point"}
 }

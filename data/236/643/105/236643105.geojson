@@ -2,13 +2,14 @@
   "id": 236643105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.849927,46.469612,6.849927,46.469612",
     "geom:latitude":46.469612,
     "geom:longitude":6.849927,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Gilamont 40",
     "sg:city":"Vevey",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236643105,
-    "wof:lastmodified":1449004717,
+    "wof:lastmodified":1466212740,
     "wof:name":"Pneu Egger S.a.",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "rims"
     ]
 },
-  "bbox": [6.849927,46.469612,6.849927,46.469612],
+  "bbox": [
+    6.849927,
+    46.469612,
+    6.849927,
+    46.469612
+],
   "geometry": {"coordinates":[6.849927,46.469612],"type":"Point"}
 }

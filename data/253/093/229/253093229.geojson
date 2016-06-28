@@ -2,13 +2,14 @@
   "id": 253093229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.50123,47.003124,9.50123,47.003124",
     "geom:latitude":47.003124,
     "geom:longitude":9.50123,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchweg 6",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253093229,
-    "wof:lastmodified":1449062828,
+    "wof:lastmodified":1466209856,
     "wof:name":"Marcel Neukom Optikgesch\u00e4ft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.50123,47.003124,9.50123,47.003124],
+  "bbox": [
+    9.50123,
+    47.003124,
+    9.50123,
+    47.003124
+],
   "geometry": {"coordinates":[9.50123,47.003124],"type":"Point"}
 }

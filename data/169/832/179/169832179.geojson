@@ -2,13 +2,14 @@
   "id": 169832179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.101628,47.388016,8.101628,47.388016",
     "geom:latitude":47.388016,
     "geom:longitude":8.101628,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiesweg 1",
     "sg:city":"Gamsen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169832179,
-    "wof:lastmodified":1449032704,
+    "wof:lastmodified":1466209291,
     "wof:name":"Kehrichtverbrennungsanlage Region Aarau-lenzburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.101628,47.388016,8.101628,47.388016],
+  "bbox": [
+    8.101628,
+    47.388016,
+    8.101628,
+    47.388016
+],
   "geometry": {"coordinates":[8.101628,47.388016],"type":"Point"}
 }

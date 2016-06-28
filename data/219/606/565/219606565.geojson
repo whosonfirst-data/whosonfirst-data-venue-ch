@@ -2,13 +2,14 @@
   "id": 219606565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.524559,47.084892,7.524559,47.084892",
     "geom:latitude":47.084892,
     "geom:longitude":7.524559,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstr. 16",
     "sg:city":"Fraubrunnen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219606565,
-    "wof:lastmodified":1449070936,
+    "wof:lastmodified":1466211808,
     "wof:name":"Raiffeisenbank Fraubrunnen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.524559,47.084892,7.524559,47.084892],
+  "bbox": [
+    7.524559,
+    47.084892,
+    7.524559,
+    47.084892
+],
   "geometry": {"coordinates":[7.524559,47.084892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236495001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.750861,47.39246,7.750861,47.39246",
     "geom:latitude":47.39246,
     "geom:longitude":7.750861,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eimattstrasse 36",
     "sg:city":"Oberdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236495001,
-    "wof:lastmodified":1449003046,
+    "wof:lastmodified":1466212440,
     "wof:name":"Emil Mangold Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.750861,47.39246,7.750861,47.39246],
+  "bbox": [
+    7.750861,
+    47.39246,
+    7.750861,
+    47.39246
+],
   "geometry": {"coordinates":[7.750861,47.39246],"type":"Point"}
 }

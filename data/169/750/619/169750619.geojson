@@ -2,13 +2,14 @@
   "id": 169750619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.280701,47.182838,8.280701,47.182838",
     "geom:latitude":47.182838,
     "geom:longitude":8.280701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4gbachweg 4",
     "sg:city":"Baldegg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169750619,
-    "wof:lastmodified":1449034674,
+    "wof:lastmodified":1466211345,
     "wof:name":"Brasilhelp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.280701,47.182838,8.280701,47.182838],
+  "bbox": [
+    8.280701,
+    47.182838,
+    8.280701,
+    47.182838
+],
   "geometry": {"coordinates":[8.280701,47.182838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202441865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.47335,47.338619,8.47335,47.338619",
     "geom:latitude":47.338619,
     "geom:longitude":8.47335,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 3",
     "sg:city":"Wettswil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202441865,
-    "wof:lastmodified":1449060307,
+    "wof:lastmodified":1466210444,
     "wof:name":"Caramia G. & Co",
     "wof:parent_id":85800629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.47335,47.338619,8.47335,47.338619],
+  "bbox": [
+    8.47335,
+    47.338619,
+    8.47335,
+    47.338619
+],
   "geometry": {"coordinates":[8.47335,47.338619],"type":"Point"}
 }

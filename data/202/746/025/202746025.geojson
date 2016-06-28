@@ -2,13 +2,14 @@
   "id": 202746025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.47814,47.473499,8.47814,47.473499",
     "geom:latitude":47.473499,
     "geom:longitude":8.47814,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nassenwilerstrasse 144",
     "sg:city":"Niederhasli",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202746025,
-    "wof:lastmodified":1449060092,
+    "wof:lastmodified":1466211018,
     "wof:name":"Trigon Ag Ingenieurb\u00fcro",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.47814,47.473499,8.47814,47.473499],
+  "bbox": [
+    8.47814,
+    47.473499,
+    8.47814,
+    47.473499
+],
   "geometry": {"coordinates":[8.47814,47.473499],"type":"Point"}
 }

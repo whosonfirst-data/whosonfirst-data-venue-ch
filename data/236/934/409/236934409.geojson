@@ -2,13 +2,14 @@
   "id": 236934409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.629501,46.518375,6.629501,46.518375",
     "geom:latitude":46.518375,
     "geom:longitude":6.629501,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Mornex 2-4 1003 Lausanne Case Postale 566",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236934409,
-    "wof:lastmodified":1449001799,
+    "wof:lastmodified":1466212945,
     "wof:name":"Association Arches",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.629501,46.518375,6.629501,46.518375],
+  "bbox": [
+    6.629501,
+    46.518375,
+    6.629501,
+    46.518375
+],
   "geometry": {"coordinates":[6.629501,46.518375],"type":"Point"}
 }

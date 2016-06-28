@@ -2,13 +2,14 @@
   "id": 236240729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.400318,47.431404,9.400318,47.431404",
     "geom:latitude":47.431404,
     "geom:longitude":9.400318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6schstrasse 18",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236240729,
-    "wof:lastmodified":1449001934,
+    "wof:lastmodified":1466211260,
     "wof:name":"Verein St. Galler Veranstaltungen",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.400318,47.431404,9.400318,47.431404],
+  "bbox": [
+    9.400318,
+    47.431404,
+    9.400318,
+    47.431404
+],
   "geometry": {"coordinates":[9.400318,47.431404],"type":"Point"}
 }

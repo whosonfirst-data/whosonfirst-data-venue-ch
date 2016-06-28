@@ -2,13 +2,14 @@
   "id": 202805381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.823925,47.241608,8.823925,47.241608",
     "geom:latitude":47.241608,
     "geom:longitude":8.823925,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenbergstrasse 26+28 8645 Jona. Postfach",
     "sg:city":"Kempraten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202805381,
-    "wof:lastmodified":1449060959,
+    "wof:lastmodified":1466211569,
     "wof:name":"Baumgartner + Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.823925,47.241608,8.823925,47.241608],
+  "bbox": [
+    8.823925,
+    47.241608,
+    8.823925,
+    47.241608
+],
   "geometry": {"coordinates":[8.823925,47.241608],"type":"Point"}
 }

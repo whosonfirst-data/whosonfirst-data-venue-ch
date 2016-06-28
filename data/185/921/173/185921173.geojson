@@ -2,13 +2,14 @@
   "id": 185921173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.251213,47.138119,7.251213,47.138119",
     "geom:latitude":47.138119,
     "geom:longitude":7.251213,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"A. Sch\u00f6ni-strasse 43",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185921173,
-    "wof:lastmodified":1449007629,
+    "wof:lastmodified":1466210025,
     "wof:name":"Mobag Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.251213,47.138119,7.251213,47.138119],
+  "bbox": [
+    7.251213,
+    47.138119,
+    7.251213,
+    47.138119
+],
   "geometry": {"coordinates":[7.251213,47.138119],"type":"Point"}
 }

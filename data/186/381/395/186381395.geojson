@@ -2,13 +2,14 @@
   "id": 186381395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.908828,46.706383,7.908828,46.706383",
     "geom:latitude":46.706383,
     "geom:longitude":7.908828,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00e4hlenweg 15",
     "sg:city":"Dittingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186381395,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466210445,
     "wof:name":"Schmocker Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.908828,46.706383,7.908828,46.706383],
+  "bbox": [
+    7.908828,
+    46.706383,
+    7.908828,
+    46.706383
+],
   "geometry": {"coordinates":[7.908828,46.706383],"type":"Point"}
 }

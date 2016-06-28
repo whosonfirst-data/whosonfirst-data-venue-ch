@@ -2,13 +2,14 @@
   "id": 252786149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63548,47.575977,7.63548,47.575977",
     "geom:latitude":47.575977,
     "geom:longitude":7.63548,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aeussere Baselstrasse 255",
     "sg:city":"Riehen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252786149,
-    "wof:lastmodified":1449005544,
+    "wof:lastmodified":1466209744,
     "wof:name":"Luchsinger Antiquit\u00e4ten",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63548,47.575977,7.63548,47.575977],
+  "bbox": [
+    7.63548,
+    47.575977,
+    7.63548,
+    47.575977
+],
   "geometry": {"coordinates":[7.63548,47.575977],"type":"Point"}
 }

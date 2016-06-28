@@ -2,13 +2,14 @@
   "id": 219931367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.043525,47.582523,9.043525,47.582523",
     "geom:latitude":47.582523,
     "geom:longitude":9.043525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcllheimerstrasse 4",
     "sg:city":"M\u00fcllheim-wigoltgn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219931367,
-    "wof:lastmodified":1449073602,
+    "wof:lastmodified":1466212614,
     "wof:name":"Kibag Kies Weinfelden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.043525,47.582523,9.043525,47.582523],
+  "bbox": [
+    9.043525,
+    47.582523,
+    9.043525,
+    47.582523
+],
   "geometry": {"coordinates":[9.043525,47.582523],"type":"Point"}
 }

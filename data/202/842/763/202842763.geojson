@@ -2,13 +2,14 @@
   "id": 202842763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.391994,47.301682,8.391994,47.301682",
     "geom:latitude":47.301682,
     "geom:longitude":8.391994,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Radm\u00fchlestrasse 18",
     "sg:city":"Jonen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202842763,
-    "wof:lastmodified":1449060301,
+    "wof:lastmodified":1466211739,
     "wof:name":"M + P Team Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.391994,47.301682,8.391994,47.301682],
+  "bbox": [
+    8.391994,
+    47.301682,
+    8.391994,
+    47.301682
+],
   "geometry": {"coordinates":[8.391994,47.301682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203129045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.374365,47.389397,9.374365,47.389397",
     "geom:latitude":47.389397,
     "geom:longitude":9.374365,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 51",
     "sg:city":"Teufen",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203129045,
-    "wof:lastmodified":1449026470,
+    "wof:lastmodified":1466211705,
     "wof:name":"Kunz - Druck & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artwork"
     ]
 },
-  "bbox": [9.374365,47.389397,9.374365,47.389397],
+  "bbox": [
+    9.374365,
+    47.389397,
+    9.374365,
+    47.389397
+],
   "geometry": {"coordinates":[9.374365,47.389397],"type":"Point"}
 }

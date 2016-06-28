@@ -2,13 +2,14 @@
   "id": 203206755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.347316,47.36375,7.347316,47.36375",
     "geom:latitude":47.36375,
     "geom:longitude":7.347316,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Moli\u00e8re 3",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203206755,
-    "wof:lastmodified":1449026273,
+    "wof:lastmodified":1466209545,
     "wof:name":"Dr M\u00e9d. Maurice Rais M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.347316,47.36375,7.347316,47.36375],
+  "bbox": [
+    7.347316,
+    47.36375,
+    7.347316,
+    47.36375
+],
   "geometry": {"coordinates":[7.347316,47.36375],"type":"Point"}
 }

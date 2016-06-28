@@ -2,13 +2,14 @@
   "id": 202567339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.404901,47.15266,7.404901,47.15266",
     "geom:latitude":47.15266,
     "geom:longitude":7.404901,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenbergstrasse 31 9404 Rorschacherberg. Postfach",
     "sg:city":"Rorschacherberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202567339,
-    "wof:lastmodified":1449062665,
+    "wof:lastmodified":1466209357,
     "wof:name":"Ingenieurb\u00fcro L\u00fcdi + St\u00fcdi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.404901,47.15266,7.404901,47.15266],
+  "bbox": [
+    7.404901,
+    47.15266,
+    7.404901,
+    47.15266
+],
   "geometry": {"coordinates":[7.404901,47.15266],"type":"Point"}
 }

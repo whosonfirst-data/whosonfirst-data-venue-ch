@@ -2,13 +2,14 @@
   "id": 203388685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.535716,47.206718,7.535716,47.206718",
     "geom:latitude":47.206718,
     "geom:longitude":7.535716,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptgasse 9",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203388685,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1466211412,
     "wof:name":"Dr.med.peter Schl\u00e4pfer Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.535716,47.206718,7.535716,47.206718],
+  "bbox": [
+    7.535716,
+    47.206718,
+    7.535716,
+    47.206718
+],
   "geometry": {"coordinates":[7.535716,47.206718],"type":"Point"}
 }

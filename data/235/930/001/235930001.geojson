@@ -2,13 +2,14 @@
   "id": 235930001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.131462,47.116585,7.131462,47.116585",
     "geom:latitude":47.116585,
     "geom:longitude":7.131462,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Diesse 32",
     "sg:city":"Lamboing",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235930001,
-    "wof:lastmodified":1449008362,
+    "wof:lastmodified":1466208891,
     "wof:name":"Rossi Dominique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.131462,47.116585,7.131462,47.116585],
+  "bbox": [
+    7.131462,
+    47.116585,
+    7.131462,
+    47.116585
+],
   "geometry": {"coordinates":[7.131462,47.116585],"type":"Point"}
 }

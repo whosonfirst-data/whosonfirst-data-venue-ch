@@ -2,13 +2,14 @@
   "id": 219857997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436231,46.947468,7.436231,46.947468",
     "geom:latitude":46.947468,
     "geom:longitude":7.436231,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laupenstrasse 10",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219857997,
-    "wof:lastmodified":1449072673,
+    "wof:lastmodified":1466212660,
     "wof:name":"Rock'n Eat Club Le Perroquet",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.436231,46.947468,7.436231,46.947468],
+  "bbox": [
+    7.436231,
+    46.947468,
+    7.436231,
+    46.947468
+],
   "geometry": {"coordinates":[7.436231,46.947468],"type":"Point"}
 }

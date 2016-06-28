@@ -2,13 +2,14 @@
   "id": 253300723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534586,47.368179,8.534586,47.368179",
     "geom:latitude":47.368179,
     "geom:longitude":8.534586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stockerstrasse 46 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253300723,
-    "wof:lastmodified":1449064493,
+    "wof:lastmodified":1466211722,
     "wof:name":"Genfer Bibelgesellschaft, Zweigniederlassung Z\u00fcrich Unterricht Und Christliche Bildung",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534586,47.368179,8.534586,47.368179],
+  "bbox": [
+    8.534586,
+    47.368179,
+    8.534586,
+    47.368179
+],
   "geometry": {"coordinates":[8.534586,47.368179],"type":"Point"}
 }

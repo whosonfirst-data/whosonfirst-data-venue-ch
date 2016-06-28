@@ -2,13 +2,14 @@
   "id": 169617955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.245599,47.492268,9.245599,47.492268",
     "geom:latitude":47.492268,
     "geom:longitude":9.245599,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Bisr\u00fctistrasse 3",
     "sg:city":"Bischofszell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169617955,
-    "wof:lastmodified":1449032802,
+    "wof:lastmodified":1466209577,
     "wof:name":"K-profile Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "section"
     ]
 },
-  "bbox": [9.245599,47.492268,9.245599,47.492268],
+  "bbox": [
+    9.245599,
+    47.492268,
+    9.245599,
+    47.492268
+],
   "geometry": {"coordinates":[9.245599,47.492268],"type":"Point"}
 }

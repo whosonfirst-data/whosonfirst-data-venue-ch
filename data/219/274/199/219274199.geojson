@@ -2,13 +2,14 @@
   "id": 219274199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.859247,46.45248,6.859247,46.45248",
     "geom:latitude":46.45248,
     "geom:longitude":6.859247,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue D'echallens 2a",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219274199,
-    "wof:lastmodified":1449070821,
+    "wof:lastmodified":1466209009,
     "wof:name":"Garage D'angelo S\u00e0rl",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.859247,46.45248,6.859247,46.45248],
+  "bbox": [
+    6.859247,
+    46.45248,
+    6.859247,
+    46.45248
+],
   "geometry": {"coordinates":[6.859247,46.45248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202475643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.125255,46.236076,9.125255,46.236076",
     "geom:latitude":46.236076,
     "geom:longitude":9.125255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Carlo Maderno 10",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202475643,
-    "wof:lastmodified":1449061167,
+    "wof:lastmodified":1466211105,
     "wof:name":"Eco-research Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.125255,46.236076,9.125255,46.236076],
+  "bbox": [
+    9.125255,
+    46.236076,
+    9.125255,
+    46.236076
+],
   "geometry": {"coordinates":[9.125255,46.236076],"type":"Point"}
 }

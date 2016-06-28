@@ -2,13 +2,14 @@
   "id": 219504273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.70102,46.647491,6.70102,46.647491",
     "geom:latitude":46.647491,
     "geom:longitude":6.70102,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Centre Le Doubs",
     "sg:city":"St. Ursanne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219504273,
-    "wof:lastmodified":1449071012,
+    "wof:lastmodified":1466211172,
     "wof:name":"Banque Raiffeisen Du Gros-de-vaud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.70102,46.647491,6.70102,46.647491],
+  "bbox": [
+    6.70102,
+    46.647491,
+    6.70102,
+    46.647491
+],
   "geometry": {"coordinates":[6.70102,46.647491],"type":"Point"}
 }

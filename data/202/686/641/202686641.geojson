@@ -2,13 +2,14 @@
   "id": 202686641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580717,47.268513,8.580717,47.268513",
     "geom:latitude":47.268513,
     "geom:longitude":8.580717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cholenmoosweg 3",
     "sg:city":"Oberrieden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202686641,
-    "wof:lastmodified":1449062040,
+    "wof:lastmodified":1466210464,
     "wof:name":"Riva Consult Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580717,47.268513,8.580717,47.268513],
+  "bbox": [
+    8.580717,
+    47.268513,
+    8.580717,
+    47.268513
+],
   "geometry": {"coordinates":[8.580717,47.268513],"type":"Point"}
 }

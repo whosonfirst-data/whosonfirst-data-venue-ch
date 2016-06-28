@@ -2,13 +2,14 @@
   "id": 219382307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.46099,47.096298,8.46099,47.096298",
     "geom:latitude":47.096298,
     "geom:longitude":8.46099,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hausmatt 7",
     "sg:city":"Immensee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219382307,
-    "wof:lastmodified":1449071340,
+    "wof:lastmodified":1466210007,
     "wof:name":"Josef Ehrler Autoreisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.46099,47.096298,8.46099,47.096298],
+  "bbox": [
+    8.46099,
+    47.096298,
+    8.46099,
+    47.096298
+],
   "geometry": {"coordinates":[8.46099,47.096298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252901055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65545,47.234394,7.65545,47.234394",
     "geom:latitude":47.234394,
     "geom:longitude":7.65545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Crochetan 2",
     "sg:city":"Monthey",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252901055,
-    "wof:lastmodified":1449005861,
+    "wof:lastmodified":1466211001,
     "wof:name":"Transit Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65545,47.234394,7.65545,47.234394],
+  "bbox": [
+    7.65545,
+    47.234394,
+    7.65545,
+    47.234394
+],
   "geometry": {"coordinates":[7.65545,47.234394],"type":"Point"}
 }

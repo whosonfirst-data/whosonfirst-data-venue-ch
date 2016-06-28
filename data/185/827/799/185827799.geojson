@@ -2,13 +2,14 @@
   "id": 185827799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390133,47.341846,8.390133,47.341846",
     "geom:latitude":47.341846,
     "geom:longitude":8.390133,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bremgartenstrasse 21",
     "sg:city":"Oberwil-lieli",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185827799,
-    "wof:lastmodified":1449007169,
+    "wof:lastmodified":1466209303,
     "wof:name":"Airproduct Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturing"
     ]
 },
-  "bbox": [8.390133,47.341846,8.390133,47.341846],
+  "bbox": [
+    8.390133,
+    47.341846,
+    8.390133,
+    47.341846
+],
   "geometry": {"coordinates":[8.390133,47.341846],"type":"Point"}
 }

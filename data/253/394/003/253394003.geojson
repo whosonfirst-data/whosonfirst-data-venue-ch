@@ -2,13 +2,14 @@
   "id": 253394003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.203289,46.356693,6.203289,46.356693",
     "geom:latitude":46.356693,
     "geom:longitude":6.203289,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De C\u00e9ligny 5a 1299 Crans-pr\u00e8s-c\u00e9ligny Case Postale 15",
     "sg:city":"Crans-pr\u00e8s-c\u00e9ligny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253394003,
-    "wof:lastmodified":1449063387,
+    "wof:lastmodified":1466212147,
     "wof:name":"Synoptic Pc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.203289,46.356693,6.203289,46.356693],
+  "bbox": [
+    6.203289,
+    46.356693,
+    6.203289,
+    46.356693
+],
   "geometry": {"coordinates":[6.203289,46.356693],"type":"Point"}
 }

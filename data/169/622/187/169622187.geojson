@@ -2,13 +2,14 @@
   "id": 169622187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.660586,47.43214,7.660586,47.43214",
     "geom:latitude":47.43214,
     "geom:longitude":7.660586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 23",
     "sg:city":"Seewen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169622187,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1466209649,
     "wof:name":"Josef Horvath Montagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contract"
     ]
 },
-  "bbox": [7.660586,47.43214,7.660586,47.43214],
+  "bbox": [
+    7.660586,
+    47.43214,
+    7.660586,
+    47.43214
+],
   "geometry": {"coordinates":[7.660586,47.43214],"type":"Point"}
 }

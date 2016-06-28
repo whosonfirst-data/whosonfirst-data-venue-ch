@@ -2,13 +2,14 @@
   "id": 186433501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.554463,47.356552,8.554463,47.356552",
     "geom:latitude":47.356552,
     "geom:longitude":8.554463,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alderstrasse 38/39",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186433501,
-    "wof:lastmodified":1449050561,
+    "wof:lastmodified":1466210871,
     "wof:name":"Schlagenhauf Maler Gipser Isolationen Maler, Gipsergesch\u00e4ft Usw",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.554463,47.356552,8.554463,47.356552],
+  "bbox": [
+    8.554463,
+    47.356552,
+    8.554463,
+    47.356552
+],
   "geometry": {"coordinates":[8.554463,47.356552],"type":"Point"}
 }

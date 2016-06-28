@@ -2,13 +2,14 @@
   "id": 219275763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.783163,47.077866,6.783163,47.077866",
     "geom:latitude":47.077866,
     "geom:longitude":6.783163,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Louis-favre 14",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219275763,
-    "wof:lastmodified":1449071533,
+    "wof:lastmodified":1466209024,
     "wof:name":"Garage Des Trois Rois Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.783163,47.077866,6.783163,47.077866],
+  "bbox": [
+    6.783163,
+    47.077866,
+    6.783163,
+    47.077866
+],
   "geometry": {"coordinates":[6.783163,47.077866],"type":"Point"}
 }

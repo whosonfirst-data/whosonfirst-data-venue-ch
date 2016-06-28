@@ -2,13 +2,14 @@
   "id": 236779925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.44381,47.356106,8.44381,47.356106",
     "geom:latitude":47.356106,
     "geom:longitude":8.44381,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Gare 20",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236779925,
-    "wof:lastmodified":1449002056,
+    "wof:lastmodified":1466212988,
     "wof:name":"Coiffure Rainbow, Maxius",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.44381,47.356106,8.44381,47.356106],
+  "bbox": [
+    8.44381,
+    47.356106,
+    8.44381,
+    47.356106
+],
   "geometry": {"coordinates":[8.44381,47.356106],"type":"Point"}
 }

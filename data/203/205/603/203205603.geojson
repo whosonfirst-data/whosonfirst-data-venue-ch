@@ -2,13 +2,14 @@
   "id": 203205603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.658865,46.511486,6.658865,46.511486",
     "geom:latitude":46.511486,
     "geom:longitude":6.658865,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Neuve 2",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203205603,
-    "wof:lastmodified":1449026081,
+    "wof:lastmodified":1466209533,
     "wof:name":"Dr M\u00e9d. Martine Monney Deshaie M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85800439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.658865,46.511486,6.658865,46.511486],
+  "bbox": [
+    6.658865,
+    46.511486,
+    6.658865,
+    46.511486
+],
   "geometry": {"coordinates":[6.658865,46.511486],"type":"Point"}
 }

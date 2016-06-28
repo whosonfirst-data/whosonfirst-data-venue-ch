@@ -2,13 +2,14 @@
   "id": 219266521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.563868,47.43959,8.563868,47.43959",
     "geom:latitude":47.43959,
     "geom:longitude":8.563868,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flughofstrasse 53 8152 Glattbrugg. Postfach 3121",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219266521,
-    "wof:lastmodified":1449070479,
+    "wof:lastmodified":1466208944,
     "wof:name":"Ernst Mellinger Garage",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.563868,47.43959,8.563868,47.43959],
+  "bbox": [
+    8.563868,
+    47.43959,
+    8.563868,
+    47.43959
+],
   "geometry": {"coordinates":[8.563868,47.43959],"type":"Point"}
 }

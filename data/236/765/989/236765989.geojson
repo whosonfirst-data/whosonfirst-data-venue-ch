@@ -2,13 +2,14 @@
   "id": 236765989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63914,46.782532,7.63914,46.782532",
     "geom:latitude":46.782532,
     "geom:longitude":7.63914,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3612",
     "sg:city":"Steffisburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236765989,
-    "wof:lastmodified":1449003576,
+    "wof:lastmodified":1466212874,
     "wof:name":"Fritz Studer Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "circular"
     ]
 },
-  "bbox": [7.63914,46.782532,7.63914,46.782532],
+  "bbox": [
+    7.63914,
+    46.782532,
+    7.63914,
+    46.782532
+],
   "geometry": {"coordinates":[7.63914,46.782532],"type":"Point"}
 }

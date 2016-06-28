@@ -2,13 +2,14 @@
   "id": 219620337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.557001,47.514523,7.557001,47.514523",
     "geom:latitude":47.514523,
     "geom:longitude":7.557001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 18",
     "sg:city":"Oberwil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219620337,
-    "wof:lastmodified":1449073615,
+    "wof:lastmodified":1466211844,
     "wof:name":"Raiffeisenbank Oberwil, Bottmingen Biel-benken",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.557001,47.514523,7.557001,47.514523],
+  "bbox": [
+    7.557001,
+    47.514523,
+    7.557001,
+    47.514523
+],
   "geometry": {"coordinates":[7.557001,47.514523],"type":"Point"}
 }

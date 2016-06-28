@@ -2,13 +2,14 @@
   "id": 203420177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.301846,47.024231,8.301846,47.024231",
     "geom:latitude":47.024231,
     "geom:longitude":8.301846,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenstrasse 6",
     "sg:city":"Kriens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203420177,
-    "wof:lastmodified":1449025826,
+    "wof:lastmodified":1466211795,
     "wof:name":"Dr.med.toni Miotti Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.301846,47.024231,8.301846,47.024231],
+  "bbox": [
+    8.301846,
+    47.024231,
+    8.301846,
+    47.024231
+],
   "geometry": {"coordinates":[8.301846,47.024231],"type":"Point"}
 }

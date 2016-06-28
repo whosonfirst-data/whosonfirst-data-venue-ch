@@ -2,13 +2,14 @@
   "id": 236745789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.314945,47.044643,8.314945,47.044643",
     "geom:latitude":47.044643,
     "geom:longitude":8.314945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werkhofstrasse 18",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236745789,
-    "wof:lastmodified":1449005070,
+    "wof:lastmodified":1466212859,
     "wof:name":"Spag Schnyder, Pl\u00fcss Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "underground"
     ]
 },
-  "bbox": [8.314945,47.044643,8.314945,47.044643],
+  "bbox": [
+    8.314945,
+    47.044643,
+    8.314945,
+    47.044643
+],
   "geometry": {"coordinates":[8.314945,47.044643],"type":"Point"}
 }

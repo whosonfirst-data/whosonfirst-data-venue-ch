@@ -2,13 +2,14 @@
   "id": 236557045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.607545,47.555267,7.607545,47.555267",
     "geom:latitude":47.555267,
     "geom:longitude":7.607545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-rheinweg 158",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236557045,
-    "wof:lastmodified":1449004112,
+    "wof:lastmodified":1466212601,
     "wof:name":"Icommix Zingg & Wulf",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "econ"
     ]
 },
-  "bbox": [7.607545,47.555267,7.607545,47.555267],
+  "bbox": [
+    7.607545,
+    47.555267,
+    7.607545,
+    47.555267
+],
   "geometry": {"coordinates":[7.607545,47.555267],"type":"Point"}
 }

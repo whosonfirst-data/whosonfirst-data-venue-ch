@@ -2,13 +2,14 @@
   "id": 236452735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629621,46.756016,7.629621,46.756016",
     "geom:latitude":46.756016,
     "geom:longitude":7.629621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 6 3600 Thun. Postfach 145",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236452735,
-    "wof:lastmodified":1449002264,
+    "wof:lastmodified":1466212437,
     "wof:name":"Regionalbibliothek",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.629621,46.756016,7.629621,46.756016],
+  "bbox": [
+    7.629621,
+    46.756016,
+    7.629621,
+    46.756016
+],
   "geometry": {"coordinates":[7.629621,46.756016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169700773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.27758,47.078587,8.27758,47.078587",
     "geom:latitude":47.078587,
     "geom:longitude":8.27758,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fceggisingerstrasse 29 6020 Emmenbr\u00fccke. Postfach",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169700773,
-    "wof:lastmodified":1449035669,
+    "wof:lastmodified":1466210926,
     "wof:name":"B. Braun Holding Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.27758,47.078587,8.27758,47.078587],
+  "bbox": [
+    8.27758,
+    47.078587,
+    8.27758,
+    47.078587
+],
   "geometry": {"coordinates":[8.27758,47.078587],"type":"Point"}
 }

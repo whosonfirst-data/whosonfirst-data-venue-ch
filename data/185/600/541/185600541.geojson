@@ -2,13 +2,14 @@
   "id": 185600541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.270757,47.155483,7.270757,47.155483",
     "geom:latitude":47.155483,
     "geom:longitude":7.270757,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnstrasse 50 2500 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185600541,
-    "wof:lastmodified":1449006756,
+    "wof:lastmodified":1466208922,
     "wof:name":"Bolliger & Co Zweigniederlassung Biel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.270757,47.155483,7.270757,47.155483],
+  "bbox": [
+    7.270757,
+    47.155483,
+    7.270757,
+    47.155483
+],
   "geometry": {"coordinates":[7.270757,47.155483],"type":"Point"}
 }

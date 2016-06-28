@@ -2,13 +2,14 @@
   "id": 203153979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.09207,47.064121,7.09207,47.064121",
     "geom:latitude":47.064121,
     "geom:longitude":7.09207,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Beaulieu 33",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203153979,
-    "wof:lastmodified":1449026286,
+    "wof:lastmodified":1466208954,
     "wof:name":"Dr M\u00e9d. Andr\u00e9 Dahinden M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.09207,47.064121,7.09207,47.064121],
+  "bbox": [
+    7.09207,
+    47.064121,
+    7.09207,
+    47.064121
+],
   "geometry": {"coordinates":[7.09207,47.064121],"type":"Point"}
 }

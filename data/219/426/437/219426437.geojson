@@ -2,13 +2,14 @@
   "id": 219426437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.483711,47.151588,9.483711,47.151588",
     "geom:latitude":47.151588,
     "geom:longitude":9.483711,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langer Zweig 7 4244 R\u00f6schenz. Postfach",
     "sg:city":"R\u00f6schenz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219426437,
-    "wof:lastmodified":1449071150,
+    "wof:lastmodified":1466210421,
     "wof:name":"B\u00f6sch Transporte Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.483711,47.151588,9.483711,47.151588],
+  "bbox": [
+    9.483711,
+    47.151588,
+    9.483711,
+    47.151588
+],
   "geometry": {"coordinates":[9.483711,47.151588],"type":"Point"}
 }

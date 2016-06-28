@@ -2,13 +2,14 @@
   "id": 252937375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.562704,46.868229,7.562704,46.868229",
     "geom:latitude":46.868229,
     "geom:longitude":7.562704,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00fcdstrasse 4a 3110 M\u00fcnsingen. Postfach 2013",
     "sg:city":"M\u00fcnsingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252937375,
-    "wof:lastmodified":1449005624,
+    "wof:lastmodified":1466211397,
     "wof:name":"Mustang Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.562704,46.868229,7.562704,46.868229],
+  "bbox": [
+    7.562704,
+    46.868229,
+    7.562704,
+    46.868229
+],
   "geometry": {"coordinates":[7.562704,46.868229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235951467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.549227,47.030361,7.549227,47.030361",
     "geom:latitude":47.030361,
     "geom:longitude":7.549227,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldweg 3",
     "sg:city":"Hettiswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235951467,
-    "wof:lastmodified":1449008284,
+    "wof:lastmodified":1466209075,
     "wof:name":"Ernst G\u00fcdel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.549227,47.030361,7.549227,47.030361],
+  "bbox": [
+    7.549227,
+    47.030361,
+    7.549227,
+    47.030361
+],
   "geometry": {"coordinates":[7.549227,47.030361],"type":"Point"}
 }

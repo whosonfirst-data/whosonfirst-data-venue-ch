@@ -2,13 +2,14 @@
   "id": 236283281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.600348,47.416641,8.600348,47.416641",
     "geom:latitude":47.416641,
     "geom:longitude":8.600348,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedenerstrasse 57",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236283281,
-    "wof:lastmodified":1449002457,
+    "wof:lastmodified":1466211641,
     "wof:name":"Albatros Taxibetrieb Gmbh",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.600348,47.416641,8.600348,47.416641],
+  "bbox": [
+    8.600348,
+    47.416641,
+    8.600348,
+    47.416641
+],
   "geometry": {"coordinates":[8.600348,47.416641],"type":"Point"}
 }

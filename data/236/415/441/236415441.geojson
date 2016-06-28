@@ -2,13 +2,14 @@
   "id": 236415441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.148393,46.199986,6.148393,46.199986",
     "geom:latitude":46.199986,
     "geom:longitude":6.148393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Lausanne Case Postale 870",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236415441,
-    "wof:lastmodified":1449004136,
+    "wof:lastmodified":1466212303,
     "wof:name":"Biblioth\u00e8que Du Secr\u00e9tariat G\u00e9n\u00e9ral De La Police",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [6.148393,46.199986,6.148393,46.199986],
+  "bbox": [
+    6.148393,
+    46.199986,
+    6.148393,
+    46.199986
+],
   "geometry": {"coordinates":[6.148393,46.199986],"type":"Point"}
 }

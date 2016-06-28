@@ -2,13 +2,14 @@
   "id": 185971285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.332652,46.889633,7.332652,46.889633",
     "geom:latitude":46.889633,
     "geom:longitude":7.332652,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrenmattstrasse 21",
     "sg:city":"Flamatt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185971285,
-    "wof:lastmodified":1449007446,
+    "wof:lastmodified":1466210524,
     "wof:name":"Adolf Meyer Baumschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.332652,46.889633,7.332652,46.889633],
+  "bbox": [
+    7.332652,
+    46.889633,
+    7.332652,
+    46.889633
+],
   "geometry": {"coordinates":[7.332652,46.889633],"type":"Point"}
 }

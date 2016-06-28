@@ -2,13 +2,14 @@
   "id": 169611783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.03722,46.205685,9.03722,46.205685",
     "geom:latitude":46.205685,
     "geom:longitude":9.03722,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Gottardo 98",
     "sg:city":"Bellinzona",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169611783,
-    "wof:lastmodified":1449035260,
+    "wof:lastmodified":1466209368,
     "wof:name":"Regusci S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "add-on"
     ]
 },
-  "bbox": [9.03722,46.205685,9.03722,46.205685],
+  "bbox": [
+    9.03722,
+    46.205685,
+    9.03722,
+    46.205685
+],
   "geometry": {"coordinates":[9.03722,46.205685],"type":"Point"}
 }

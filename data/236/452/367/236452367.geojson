@@ -2,13 +2,14 @@
   "id": 236452367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.389351,46.948376,7.389351,46.948376",
     "geom:latitude":46.948376,
     "geom:longitude":7.389351,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldmannstrasse 19 3027 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236452367,
-    "wof:lastmodified":1449002264,
+    "wof:lastmodified":1466212436,
     "wof:name":"Regionalbibliothek Bern Zweigstelle Tscharnergut",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.389351,46.948376,7.389351,46.948376],
+  "bbox": [
+    7.389351,
+    46.948376,
+    7.389351,
+    46.948376
+],
   "geometry": {"coordinates":[7.389351,46.948376],"type":"Point"}
 }

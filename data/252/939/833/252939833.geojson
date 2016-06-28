@@ -2,13 +2,14 @@
   "id": 252939833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.649233,47.702129,8.649233,47.702129",
     "geom:latitude":47.702129,
     "geom:longitude":8.649233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kesselstrasse 4",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252939833,
-    "wof:lastmodified":1449005740,
+    "wof:lastmodified":1466211421,
     "wof:name":"Toma Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.649233,47.702129,8.649233,47.702129],
+  "bbox": [
+    8.649233,
+    47.702129,
+    8.649233,
+    47.702129
+],
   "geometry": {"coordinates":[8.649233,47.702129],"type":"Point"}
 }

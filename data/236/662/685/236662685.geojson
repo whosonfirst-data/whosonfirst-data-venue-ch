@@ -2,13 +2,14 @@
   "id": 236662685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539579,47.524963,8.539579,47.524963",
     "geom:latitude":47.524963,
     "geom:longitude":8.539579,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kernstrasse 8",
     "sg:city":"B\u00fclach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236662685,
-    "wof:lastmodified":1449003966,
+    "wof:lastmodified":1466212773,
     "wof:name":"Party Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.539579,47.524963,8.539579,47.524963],
+  "bbox": [
+    8.539579,
+    47.524963,
+    8.539579,
+    47.524963
+],
   "geometry": {"coordinates":[8.539579,47.524963],"type":"Point"}
 }

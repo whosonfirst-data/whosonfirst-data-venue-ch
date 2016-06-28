@@ -2,13 +2,14 @@
   "id": 235942937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.60169,46.569359,6.60169,46.569359",
     "geom:latitude":46.569359,
     "geom:longitude":6.60169,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Fayards 7 1032 Romanel-s-lausanne Case Postale 39",
     "sg:city":"Romanel-s-lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235942937,
-    "wof:lastmodified":1449008404,
+    "wof:lastmodified":1466209003,
     "wof:name":"Agencement Ledermann Sa",
     "wof:parent_id":85862381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.60169,46.569359,6.60169,46.569359],
+  "bbox": [
+    6.60169,
+    46.569359,
+    6.60169,
+    46.569359
+],
   "geometry": {"coordinates":[6.60169,46.569359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236588345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.496969,47.386166,8.496969,47.386166",
     "geom:latitude":47.386166,
     "geom:longitude":8.496969,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselerstr. 71",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236588345,
-    "wof:lastmodified":1449004466,
+    "wof:lastmodified":1466212658,
     "wof:name":"Culinarium Ag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "restaurant"
     ]
 },
-  "bbox": [8.496969,47.386166,8.496969,47.386166],
+  "bbox": [
+    8.496969,
+    47.386166,
+    8.496969,
+    47.386166
+],
   "geometry": {"coordinates":[8.496969,47.386166],"type":"Point"}
 }

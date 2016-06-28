@@ -2,13 +2,14 @@
   "id": 185700769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.579367,47.320751,8.579367,47.320751",
     "geom:latitude":47.320751,
     "geom:longitude":8.579367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Clarastrasse 56",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185700769,
-    "wof:lastmodified":1449008076,
+    "wof:lastmodified":1466211082,
     "wof:name":"Dr.suzanne Dreher Advokaturb\u00fcro",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.579367,47.320751,8.579367,47.320751],
+  "bbox": [
+    8.579367,
+    47.320751,
+    8.579367,
+    47.320751
+],
   "geometry": {"coordinates":[8.579367,47.320751],"type":"Point"}
 }

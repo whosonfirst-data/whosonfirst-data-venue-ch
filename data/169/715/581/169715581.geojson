@@ -2,13 +2,14 @@
   "id": 169715581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.288122,47.388737,9.288122,47.388737",
     "geom:latitude":47.388737,
     "geom:longitude":9.288122,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedstrasse 1",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169715581,
-    "wof:lastmodified":1449035298,
+    "wof:lastmodified":1466211088,
     "wof:name":"Appenzeller Medienhaus Schlaepfer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "publishing"
     ]
 },
-  "bbox": [9.288122,47.388737,9.288122,47.388737],
+  "bbox": [
+    9.288122,
+    47.388737,
+    9.288122,
+    47.388737
+],
   "geometry": {"coordinates":[9.288122,47.388737],"type":"Point"}
 }

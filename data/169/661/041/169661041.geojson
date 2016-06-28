@@ -2,13 +2,14 @@
   "id": 169661041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62105,47.551533,7.62105,47.551533",
     "geom:latitude":47.551533,
     "geom:longitude":7.62105,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birsstrasse 56",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169661041,
-    "wof:lastmodified":1449035598,
+    "wof:lastmodified":1466210292,
     "wof:name":"Dunkel Service",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothes"
     ]
 },
-  "bbox": [7.62105,47.551533,7.62105,47.551533],
+  "bbox": [
+    7.62105,
+    47.551533,
+    7.62105,
+    47.551533
+],
   "geometry": {"coordinates":[7.62105,47.551533],"type":"Point"}
 }

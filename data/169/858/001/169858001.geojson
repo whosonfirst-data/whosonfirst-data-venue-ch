@@ -2,13 +2,14 @@
   "id": 169858001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.70602,46.988544,8.70602,46.988544",
     "geom:latitude":46.988544,
     "geom:longitude":8.70602,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlestuden 6436 Ried (muotathal). Postfach 17",
     "sg:city":"Muotathal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169858001,
-    "wof:lastmodified":1449032995,
+    "wof:lastmodified":1466209454,
     "wof:name":"Kl\u00e4ranlage Muotathal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.70602,46.988544,8.70602,46.988544],
+  "bbox": [
+    8.70602,
+    46.988544,
+    8.70602,
+    46.988544
+],
   "geometry": {"coordinates":[8.70602,46.988544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253126175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.27911,47.385651,9.27911,47.385651",
     "geom:latitude":47.385651,
     "geom:longitude":9.27911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Platz 16 9100 Herisau. Postfach 1559",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253126175,
-    "wof:lastmodified":1449063922,
+    "wof:lastmodified":1466210209,
     "wof:name":"W\u00fcrsch Optik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.27911,47.385651,9.27911,47.385651],
+  "bbox": [
+    9.27911,
+    47.385651,
+    9.27911,
+    47.385651
+],
   "geometry": {"coordinates":[9.27911,47.385651],"type":"Point"}
 }

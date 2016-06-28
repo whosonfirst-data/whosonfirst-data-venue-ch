@@ -2,13 +2,14 @@
   "id": 219255923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.315975,47.167934,7.315975,47.167934",
     "geom:latitude":47.167934,
     "geom:longitude":7.315975,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosstrasse 2a 2542 Pieterlen. Postfach 95",
     "sg:city":"Pieterlen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219255923,
-    "wof:lastmodified":1449072003,
+    "wof:lastmodified":1466211597,
     "wof:name":"Auto-balmer Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.315975,47.167934,7.315975,47.167934],
+  "bbox": [
+    7.315975,
+    47.167934,
+    7.315975,
+    47.167934
+],
   "geometry": {"coordinates":[7.315975,47.167934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219482313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.154382,47.219784,8.154382,47.219784",
     "geom:latitude":47.219784,
     "geom:longitude":8.154382,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 2",
     "sg:city":"Rickenbach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219482313,
-    "wof:lastmodified":1449071641,
+    "wof:lastmodified":1466210969,
     "wof:name":"Bank In Reinach, Filiale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.154382,47.219784,8.154382,47.219784],
+  "bbox": [
+    8.154382,
+    47.219784,
+    8.154382,
+    47.219784
+],
   "geometry": {"coordinates":[8.154382,47.219784],"type":"Point"}
 }

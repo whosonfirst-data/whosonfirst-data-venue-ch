@@ -2,13 +2,14 @@
   "id": 236549255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.098972,47.04538,7.098972,47.04538",
     "geom:latitude":47.04538,
     "geom:longitude":7.098972,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadtgraben 10 3235 Erlach. Postfach 51",
     "sg:city":"Erlach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236549255,
-    "wof:lastmodified":1449002372,
+    "wof:lastmodified":1466212586,
     "wof:name":"Faul Erlach Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "boot"
     ]
 },
-  "bbox": [7.098972,47.04538,7.098972,47.04538],
+  "bbox": [
+    7.098972,
+    47.04538,
+    7.098972,
+    47.04538
+],
   "geometry": {"coordinates":[7.098972,47.04538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169771685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.602328,47.505013,7.602328,47.505013",
     "geom:latitude":47.505013,
     "geom:longitude":7.602328,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 90",
     "sg:city":"Reinach/basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169771685,
-    "wof:lastmodified":1449034488,
+    "wof:lastmodified":1466211555,
     "wof:name":"M.p.w. Maprowa Gmbh",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.602328,47.505013,7.602328,47.505013],
+  "bbox": [
+    7.602328,
+    47.505013,
+    7.602328,
+    47.505013
+],
   "geometry": {"coordinates":[7.602328,47.505013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219868653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.319945,47.138031,8.319945,47.138031",
     "geom:latitude":47.138031,
     "geom:longitude":8.319945,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seetalstrasse",
     "sg:city":"Eschenbach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219868653,
-    "wof:lastmodified":1449070534,
+    "wof:lastmodified":1466212599,
     "wof:name":"Bruno Leuthard Raumgestaltung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rug"
     ]
 },
-  "bbox": [8.319945,47.138031,8.319945,47.138031],
+  "bbox": [
+    8.319945,
+    47.138031,
+    8.319945,
+    47.138031
+],
   "geometry": {"coordinates":[8.319945,47.138031],"type":"Point"}
 }

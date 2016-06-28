@@ -2,13 +2,14 @@
   "id": 202823265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.529304,47.211037,7.529304,47.211037",
     "geom:latitude":47.211037,
     "geom:longitude":7.529304,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Loretostrasse 31 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202823265,
-    "wof:lastmodified":1449062614,
+    "wof:lastmodified":1466211685,
     "wof:name":"Frei + Reusser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.529304,47.211037,7.529304,47.211037],
+  "bbox": [
+    7.529304,
+    47.211037,
+    7.529304,
+    47.211037
+],
   "geometry": {"coordinates":[7.529304,47.211037],"type":"Point"}
 }

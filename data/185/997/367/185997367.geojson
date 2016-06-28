@@ -2,13 +2,14 @@
   "id": 185997367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.58538,46.974854,8.58538,46.974854",
     "geom:latitude":46.974854,
     "geom:longitude":8.58538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Edelweiss",
     "sg:city":"Seelisberg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185997367,
-    "wof:lastmodified":1449007947,
+    "wof:lastmodified":1466210778,
     "wof:name":"Achermann & W\u00fcrsch Ag Emmetten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.58538,46.974854,8.58538,46.974854],
+  "bbox": [
+    8.58538,
+    46.974854,
+    8.58538,
+    46.974854
+],
   "geometry": {"coordinates":[8.58538,46.974854],"type":"Point"}
 }

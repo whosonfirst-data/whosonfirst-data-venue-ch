@@ -2,13 +2,14 @@
   "id": 186518293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.624805,46.749786,7.624805,46.749786",
     "geom:latitude":46.749786,
     "geom:longitude":7.624805,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohmadstrasse 1",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186518293,
-    "wof:lastmodified":1449051896,
+    "wof:lastmodified":1466211599,
     "wof:name":"Uebergangsheim F\u00fcr Betagte & Alleinstehende Hohmad",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.624805,46.749786,7.624805,46.749786],
+  "bbox": [
+    7.624805,
+    46.749786,
+    7.624805,
+    46.749786
+],
   "geometry": {"coordinates":[7.624805,46.749786],"type":"Point"}
 }

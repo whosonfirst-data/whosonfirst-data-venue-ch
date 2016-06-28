@@ -2,13 +2,14 @@
   "id": 236060643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.02333,47.509052,8.02333,47.509052",
     "geom:latitude":47.509052,
     "geom:longitude":8.02333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mariettaweg 4",
     "sg:city":"Frick",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236060643,
-    "wof:lastmodified":1449004891,
+    "wof:lastmodified":1466209428,
     "wof:name":"Ernst Lenz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.02333,47.509052,8.02333,47.509052],
+  "bbox": [
+    8.02333,
+    47.509052,
+    8.02333,
+    47.509052
+],
   "geometry": {"coordinates":[8.02333,47.509052],"type":"Point"}
 }

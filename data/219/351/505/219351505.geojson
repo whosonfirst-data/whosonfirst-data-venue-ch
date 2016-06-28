@@ -2,13 +2,14 @@
   "id": 219351505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.424529,47.39793,8.424529,47.39793",
     "geom:latitude":47.39793,
     "geom:longitude":8.424529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Glanzenbergstrasse 26",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219351505,
-    "wof:lastmodified":1449073384,
+    "wof:lastmodified":1466209705,
     "wof:name":"Dedalo Macchioni Autospritzwerk",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.424529,47.39793,8.424529,47.39793],
+  "bbox": [
+    8.424529,
+    47.39793,
+    8.424529,
+    47.39793
+],
   "geometry": {"coordinates":[8.424529,47.39793],"type":"Point"}
 }

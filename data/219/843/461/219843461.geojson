@@ -2,13 +2,14 @@
   "id": 219843461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.110142,47.222515,7.110142,47.222515",
     "geom:latitude":47.222515,
     "geom:longitude":7.110142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Pont 15",
     "sg:city":"Tramelan",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219843461,
-    "wof:lastmodified":1449070698,
+    "wof:lastmodified":1466212541,
     "wof:name":"Music-bar Le Glatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.110142,47.222515,7.110142,47.222515],
+  "bbox": [
+    7.110142,
+    47.222515,
+    7.110142,
+    47.222515
+],
   "geometry": {"coordinates":[7.110142,47.222515],"type":"Point"}
 }

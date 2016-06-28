@@ -2,13 +2,14 @@
   "id": 203121635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.192753,46.329788,6.192753,46.329788",
     "geom:latitude":46.329788,
     "geom:longitude":6.192753,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Arzillieres 3",
     "sg:city":"Founex",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203121635,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466211308,
     "wof:name":"Francis Jaeger Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "coat"
     ]
 },
-  "bbox": [6.192753,46.329788,6.192753,46.329788],
+  "bbox": [
+    6.192753,
+    46.329788,
+    6.192753,
+    46.329788
+],
   "geometry": {"coordinates":[6.192753,46.329788],"type":"Point"}
 }

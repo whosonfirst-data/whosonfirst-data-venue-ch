@@ -2,13 +2,14 @@
   "id": 203413541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.443023,46.930233,7.443023,46.930233",
     "geom:latitude":46.930233,
     "geom:longitude":7.443023,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Funkstrasse 116",
     "sg:city":"Wabern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203413541,
-    "wof:lastmodified":1449025230,
+    "wof:lastmodified":1466211751,
     "wof:name":"Dr.med.susanna C. Jegher Aerztin F.allgemeine Medizin",
     "wof:parent_id":85800599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.443023,46.930233,7.443023,46.930233],
+  "bbox": [
+    7.443023,
+    46.930233,
+    7.443023,
+    46.930233
+],
   "geometry": {"coordinates":[7.443023,46.930233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236789077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.046761,47.39082,8.046761,47.39082",
     "geom:latitude":47.39082,
     "geom:longitude":8.046761,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr.24",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236789077,
-    "wof:lastmodified":1449003079,
+    "wof:lastmodified":1466212801,
     "wof:name":"Zschokke Locher Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [8.046761,47.39082,8.046761,47.39082],
+  "bbox": [
+    8.046761,
+    47.39082,
+    8.046761,
+    47.39082
+],
   "geometry": {"coordinates":[8.046761,47.39082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185762297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517233,47.158157,8.517233,47.158157",
     "geom:latitude":47.158157,
     "geom:longitude":8.517233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4nib\u00fchl 8 6300 Zug. Postfach 457",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185762297,
-    "wof:lastmodified":1449007739,
+    "wof:lastmodified":1466211608,
     "wof:name":"Dr.christoph Straub Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.517233,47.158157,8.517233,47.158157],
+  "bbox": [
+    8.517233,
+    47.158157,
+    8.517233,
+    47.158157
+],
   "geometry": {"coordinates":[8.517233,47.158157],"type":"Point"}
 }

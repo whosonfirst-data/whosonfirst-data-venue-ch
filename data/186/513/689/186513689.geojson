@@ -2,13 +2,14 @@
   "id": 186513689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.417714,46.918941,7.417714,46.918941",
     "geom:latitude":46.918941,
     "geom:longitude":7.417714,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6niztalstrasse 2/4",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186513689,
-    "wof:lastmodified":1449052140,
+    "wof:lastmodified":1466211552,
     "wof:name":"Privates Altersheim K\u00f6niztal",
     "wof:parent_id":85800495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [7.417714,46.918941,7.417714,46.918941],
+  "bbox": [
+    7.417714,
+    46.918941,
+    7.417714,
+    46.918941
+],
   "geometry": {"coordinates":[7.417714,46.918941],"type":"Point"}
 }

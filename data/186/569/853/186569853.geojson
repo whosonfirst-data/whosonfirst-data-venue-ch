@@ -2,13 +2,14 @@
   "id": 186569853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312469,47.056812,8.312469,47.056812",
     "geom:latitude":47.056812,
     "geom:longitude":8.312469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weystrasse 20",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186569853,
-    "wof:lastmodified":1449052931,
+    "wof:lastmodified":1466211812,
     "wof:name":"Essex Chemie Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antibiotic"
     ]
 },
-  "bbox": [8.312469,47.056812,8.312469,47.056812],
+  "bbox": [
+    8.312469,
+    47.056812,
+    8.312469,
+    47.056812
+],
   "geometry": {"coordinates":[8.312469,47.056812],"type":"Point"}
 }

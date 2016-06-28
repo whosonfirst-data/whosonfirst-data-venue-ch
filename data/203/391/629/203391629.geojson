@@ -2,13 +2,14 @@
   "id": 203391629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.582854,47.550453,7.582854,47.550453",
     "geom:latitude":47.550453,
     "geom:longitude":7.582854,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birsigstrasse 50",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203391629,
-    "wof:lastmodified":1449026186,
+    "wof:lastmodified":1466211441,
     "wof:name":"Dr.med.pierre Comte Spezialarzt",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.582854,47.550453,7.582854,47.550453],
+  "bbox": [
+    7.582854,
+    47.550453,
+    7.582854,
+    47.550453
+],
   "geometry": {"coordinates":[7.582854,47.550453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203401767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.049013,47.409485,8.049013,47.409485",
     "geom:latitude":47.409485,
     "geom:longitude":8.049013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stichweg 8",
     "sg:city":"K\u00fcttigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203401767,
-    "wof:lastmodified":1449026565,
+    "wof:lastmodified":1466211555,
     "wof:name":"Dr.med.rolf Hugentobler Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.049013,47.409485,8.049013,47.409485],
+  "bbox": [
+    8.049013,
+    47.409485,
+    8.049013,
+    47.409485
+],
   "geometry": {"coordinates":[8.049013,47.409485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203178817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.147961,46.198978,6.147961,46.198978",
     "geom:latitude":46.198978,
     "geom:longitude":6.147961,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Saint-l\u00e9ger 18",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203178817,
-    "wof:lastmodified":1449026327,
+    "wof:lastmodified":1466209237,
     "wof:name":"Dr M\u00e9d. Franceline James M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.147961,46.198978,6.147961,46.198978],
+  "bbox": [
+    6.147961,
+    46.198978,
+    6.147961,
+    46.198978
+],
   "geometry": {"coordinates":[6.147961,46.198978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236759847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.27046,47.55254,9.27046,47.55254",
     "geom:latitude":47.55254,
     "geom:longitude":9.27046,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzlingerstr. 72",
     "sg:city":"Amriswil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236759847,
-    "wof:lastmodified":1449005309,
+    "wof:lastmodified":1466212874,
     "wof:name":"Atelier Regina Kolb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothes"
     ]
 },
-  "bbox": [9.27046,47.55254,9.27046,47.55254],
+  "bbox": [
+    9.27046,
+    47.55254,
+    9.27046,
+    47.55254
+],
   "geometry": {"coordinates":[9.27046,47.55254],"type":"Point"}
 }

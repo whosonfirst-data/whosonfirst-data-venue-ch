@@ -2,13 +2,14 @@
   "id": 252708785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.47229,47.442554,9.47229,47.442554",
     "geom:latitude":47.442554,
     "geom:longitude":9.47229,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Ried 6",
     "sg:city":"Eggersriet",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252708785,
-    "wof:lastmodified":1449005585,
+    "wof:lastmodified":1466208935,
     "wof:name":"Terracom Informatik Sch\u00e4rer Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.47229,47.442554,9.47229,47.442554],
+  "bbox": [
+    9.47229,
+    47.442554,
+    9.47229,
+    47.442554
+],
   "geometry": {"coordinates":[9.47229,47.442554],"type":"Point"}
 }

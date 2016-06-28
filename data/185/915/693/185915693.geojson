@@ -2,13 +2,14 @@
   "id": 185915693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.508545,47.147766,8.508545,47.147766",
     "geom:latitude":47.147766,
     "geom:longitude":8.508545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gugerhalde 14",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185915693,
-    "wof:lastmodified":1449008175,
+    "wof:lastmodified":1466209977,
     "wof:name":"Bsb Bau Ag Generalunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.508545,47.147766,8.508545,47.147766],
+  "bbox": [
+    8.508545,
+    47.147766,
+    8.508545,
+    47.147766
+],
   "geometry": {"coordinates":[8.508545,47.147766],"type":"Point"}
 }

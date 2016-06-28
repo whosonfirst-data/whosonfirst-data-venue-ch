@@ -2,13 +2,14 @@
   "id": 169730241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.631561,47.695305,8.631561,47.695305",
     "geom:latitude":47.695305,
     "geom:longitude":8.631561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrenacker-tanne 1 8200 Schaffhausen. Postfach 175",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169730241,
-    "wof:lastmodified":1449035432,
+    "wof:lastmodified":1466211166,
     "wof:name":"B\u00fchrer Alfred & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.631561,47.695305,8.631561,47.695305],
+  "bbox": [
+    8.631561,
+    47.695305,
+    8.631561,
+    47.695305
+],
   "geometry": {"coordinates":[8.631561,47.695305],"type":"Point"}
 }

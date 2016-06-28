@@ -2,13 +2,14 @@
   "id": 252808771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.853302,47.193634,8.853302,47.193634",
     "geom:latitude":47.193634,
     "geom:longitude":8.853302,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 22 Gemeindehaus 3184 W\u00fcnnewil. Postfach",
     "sg:city":"W\u00fcnnewil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252808771,
-    "wof:lastmodified":1449005451,
+    "wof:lastmodified":1466210007,
     "wof:name":"Bingo Markt Gabrieli Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.853302,47.193634,8.853302,47.193634],
+  "bbox": [
+    8.853302,
+    47.193634,
+    8.853302,
+    47.193634
+],
   "geometry": {"coordinates":[8.853302,47.193634],"type":"Point"}
 }

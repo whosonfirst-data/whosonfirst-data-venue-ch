@@ -2,13 +2,14 @@
   "id": 236391143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.665181,46.733223,7.665181,46.733223",
     "geom:latitude":46.733223,
     "geom:longitude":7.665181,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7524",
     "sg:city":"Zuoz",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236391143,
-    "wof:lastmodified":1449003823,
+    "wof:lastmodified":1466212319,
     "wof:name":"Mittelstufenschule Friedb\u00fchl",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.665181,46.733223,7.665181,46.733223],
+  "bbox": [
+    7.665181,
+    46.733223,
+    7.665181,
+    46.733223
+],
   "geometry": {"coordinates":[7.665181,46.733223],"type":"Point"}
 }

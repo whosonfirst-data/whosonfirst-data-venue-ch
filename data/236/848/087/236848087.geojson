@@ -2,13 +2,14 @@
   "id": 236848087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.630634,47.417049,8.630634,47.417049",
     "geom:latitude":47.417049,
     "geom:longitude":8.630634,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruchstuckstrasse 20 8306 Br\u00fcttisellen. Postfach",
     "sg:city":"Br\u00fcttisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236848087,
-    "wof:lastmodified":1449002023,
+    "wof:lastmodified":1466212930,
     "wof:name":"Wirth Ag Br\u00fcttisellen",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.630634,47.417049,8.630634,47.417049],
+  "bbox": [
+    8.630634,
+    47.417049,
+    8.630634,
+    47.417049
+],
   "geometry": {"coordinates":[8.630634,47.417049],"type":"Point"}
 }

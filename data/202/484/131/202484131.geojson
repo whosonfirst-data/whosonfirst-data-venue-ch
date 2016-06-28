@@ -2,13 +2,14 @@
   "id": 202484131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.294429,47.312115,8.294429,47.312115",
     "geom:latitude":47.312115,
     "geom:longitude":8.294429,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenacker 2",
     "sg:city":"Kallern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202484131,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466211249,
     "wof:name":"Engineering Team Haus + Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.294429,47.312115,8.294429,47.312115],
+  "bbox": [
+    8.294429,
+    47.312115,
+    8.294429,
+    47.312115
+],
   "geometry": {"coordinates":[8.294429,47.312115],"type":"Point"}
 }

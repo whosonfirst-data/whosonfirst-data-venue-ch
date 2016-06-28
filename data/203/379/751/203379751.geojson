@@ -2,13 +2,14 @@
   "id": 203379751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.561031,47.516457,7.561031,47.516457",
     "geom:latitude":47.516457,
     "geom:longitude":7.561031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstrasse 32",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203379751,
-    "wof:lastmodified":1449026042,
+    "wof:lastmodified":1466211323,
     "wof:name":"Dr.med.martin Graf Spezialarzt Fmh",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.561031,47.516457,7.561031,47.516457],
+  "bbox": [
+    7.561031,
+    47.516457,
+    7.561031,
+    47.516457
+],
   "geometry": {"coordinates":[7.561031,47.516457],"type":"Point"}
 }

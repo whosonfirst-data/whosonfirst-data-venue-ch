@@ -2,13 +2,14 @@
   "id": 186401793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.0369,47.617699,9.0369,47.617699",
     "geom:latitude":47.617699,
     "geom:longitude":9.0369,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Birkenhof",
     "sg:city":"Illhart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186401793,
-    "wof:lastmodified":1449052616,
+    "wof:lastmodified":1466210614,
     "wof:name":"Betrag Tiefbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.0369,47.617699,9.0369,47.617699],
+  "bbox": [
+    9.0369,
+    47.617699,
+    9.0369,
+    47.617699
+],
   "geometry": {"coordinates":[9.0369,47.617699],"type":"Point"}
 }

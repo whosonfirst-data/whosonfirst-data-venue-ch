@@ -2,13 +2,14 @@
   "id": 253020723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.361503,46.917347,7.361503,46.917347",
     "geom:latitude":46.917347,
     "geom:longitude":7.361503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldschluecht",
     "sg:city":"Wengen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253020723,
-    "wof:lastmodified":1449064205,
+    "wof:lastmodified":1466209155,
     "wof:name":"Hanny Kammermann Blumenboutique",
     "wof:parent_id":85800349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.361503,46.917347,7.361503,46.917347],
+  "bbox": [
+    7.361503,
+    46.917347,
+    7.361503,
+    46.917347
+],
   "geometry": {"coordinates":[7.361503,46.917347],"type":"Point"}
 }

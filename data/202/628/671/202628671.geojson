@@ -2,13 +2,14 @@
   "id": 202628671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.83856,46.468098,6.83856,46.468098",
     "geom:latitude":46.468098,
     "geom:longitude":6.83856,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reller Avenue 34",
     "sg:city":"Corsier-sur-vevey",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202628671,
-    "wof:lastmodified":1449062184,
+    "wof:lastmodified":1466209925,
     "wof:name":"Meier Technics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.83856,46.468098,6.83856,46.468098],
+  "bbox": [
+    6.83856,
+    46.468098,
+    6.83856,
+    46.468098
+],
   "geometry": {"coordinates":[6.83856,46.468098],"type":"Point"}
 }

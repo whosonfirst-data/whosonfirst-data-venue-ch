@@ -2,13 +2,14 @@
   "id": 202661355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.245067,46.903595,8.245067,46.903595",
     "geom:latitude":46.903595,
     "geom:longitude":8.245067,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Terrassenstrasse 5",
     "sg:city":"Sarnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202661355,
-    "wof:lastmodified":1449062374,
+    "wof:lastmodified":1466210234,
     "wof:name":"Peter Zwicky Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.245067,46.903595,8.245067,46.903595],
+  "bbox": [
+    8.245067,
+    46.903595,
+    8.245067,
+    46.903595
+],
   "geometry": {"coordinates":[8.245067,46.903595],"type":"Point"}
 }

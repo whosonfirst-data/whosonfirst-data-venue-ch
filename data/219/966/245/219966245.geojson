@@ -2,13 +2,14 @@
   "id": 219966245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.472517,46.942326,7.472517,46.942326",
     "geom:latitude":46.942326,
     "geom:longitude":7.472517,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kasthoferstrasse 48",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219966245,
-    "wof:lastmodified":1449070396,
+    "wof:lastmodified":1466212742,
     "wof:name":"Siegfried Ag",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.472517,46.942326,7.472517,46.942326],
+  "bbox": [
+    7.472517,
+    46.942326,
+    7.472517,
+    46.942326
+],
   "geometry": {"coordinates":[7.472517,46.942326],"type":"Point"}
 }

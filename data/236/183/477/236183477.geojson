@@ -2,13 +2,14 @@
   "id": 236183477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68995,47.429611,8.68995,47.429611",
     "geom:latitude":47.429611,
     "geom:longitude":8.68995,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wattstrasse 1",
     "sg:city":"Effretikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236183477,
-    "wof:lastmodified":1449003423,
+    "wof:lastmodified":1466210632,
     "wof:name":"Kurszentrum Des Kantonalen Baumeisterverbandes Z\u00fcrich",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.68995,47.429611,8.68995,47.429611],
+  "bbox": [
+    8.68995,
+    47.429611,
+    8.68995,
+    47.429611
+],
   "geometry": {"coordinates":[8.68995,47.429611],"type":"Point"}
 }

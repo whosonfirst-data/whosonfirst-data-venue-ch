@@ -2,13 +2,14 @@
   "id": 236343309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402786,46.9842,8.402786,46.9842",
     "geom:latitude":46.9842,
     "geom:longitude":8.402786,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofurlistrasse 36",
     "sg:city":"Ennetb\u00fcrgen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236343309,
-    "wof:lastmodified":1449004096,
+    "wof:lastmodified":1466212055,
     "wof:name":"Ecomatic Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "unit"
     ]
 },
-  "bbox": [8.402786,46.9842,8.402786,46.9842],
+  "bbox": [
+    8.402786,
+    46.9842,
+    8.402786,
+    46.9842
+],
   "geometry": {"coordinates":[8.402786,46.9842],"type":"Point"}
 }

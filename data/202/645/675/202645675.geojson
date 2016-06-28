@@ -2,13 +2,14 @@
   "id": 202645675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.50532,47.181366,8.50532,47.181366",
     "geom:latitude":47.181366,
     "geom:longitude":8.50532,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichwaldstrasse 13",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202645675,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466210084,
     "wof:name":"Norag Zug Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.50532,47.181366,8.50532,47.181366],
+  "bbox": [
+    8.50532,
+    47.181366,
+    8.50532,
+    47.181366
+],
   "geometry": {"coordinates":[8.50532,47.181366],"type":"Point"}
 }

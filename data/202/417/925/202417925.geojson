@@ -2,13 +2,14 @@
   "id": 202417925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540984,47.391563,8.540984,47.391563",
     "geom:latitude":47.391563,
     "geom:longitude":8.540984,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Eisernen Zeit 18",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202417925,
-    "wof:lastmodified":1449061146,
+    "wof:lastmodified":1466210020,
     "wof:name":"Bouvard Th. + Faden Bouvard G. Architekturb\u00fcro",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540984,47.391563,8.540984,47.391563],
+  "bbox": [
+    8.540984,
+    47.391563,
+    8.540984,
+    47.391563
+],
   "geometry": {"coordinates":[8.540984,47.391563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202531753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.279271,47.38517,9.279271,47.38517",
     "geom:latitude":47.38517,
     "geom:longitude":9.279271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 14b",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202531753,
-    "wof:lastmodified":1449060707,
+    "wof:lastmodified":1466209017,
     "wof:name":"Halter Engineering Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.279271,47.38517,9.279271,47.38517],
+  "bbox": [
+    9.279271,
+    47.38517,
+    9.279271,
+    47.38517
+],
   "geometry": {"coordinates":[9.279271,47.38517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203224409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.112229,46.79464,7.112229,46.79464",
     "geom:latitude":46.79464,
     "geom:longitude":7.112229,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Vinet 29",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203224409,
-    "wof:lastmodified":1449026354,
+    "wof:lastmodified":1466209734,
     "wof:name":"Dr M\u00e9d. Ren\u00e9 Renevey M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.112229,46.79464,7.112229,46.79464],
+  "bbox": [
+    7.112229,
+    46.79464,
+    7.112229,
+    46.79464
+],
   "geometry": {"coordinates":[7.112229,46.79464],"type":"Point"}
 }

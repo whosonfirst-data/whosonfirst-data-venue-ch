@@ -2,13 +2,14 @@
   "id": 235981633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52676,47.463676,8.52676,47.463676",
     "geom:latitude":47.463676,
     "geom:longitude":8.52676,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberglatterstrasse 35a/15",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235981633,
-    "wof:lastmodified":1449008609,
+    "wof:lastmodified":1466209351,
     "wof:name":"Domenico Stasolla",
     "wof:parent_id":85862429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52676,47.463676,8.52676,47.463676],
+  "bbox": [
+    8.52676,
+    47.463676,
+    8.52676,
+    47.463676
+],
   "geometry": {"coordinates":[8.52676,47.463676],"type":"Point"}
 }

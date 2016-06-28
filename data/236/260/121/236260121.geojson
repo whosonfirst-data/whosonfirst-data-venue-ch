@@ -2,13 +2,14 @@
   "id": 236260121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.513055,47.394184,8.513055,47.394184",
     "geom:latitude":47.394184,
     "geom:longitude":8.513055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardturmstrasse 321",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236260121,
-    "wof:lastmodified":1449002087,
+    "wof:lastmodified":1466211459,
     "wof:name":"Hardturm Stadion",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.513055,47.394184,8.513055,47.394184],
+  "bbox": [
+    8.513055,
+    47.394184,
+    8.513055,
+    47.394184
+],
   "geometry": {"coordinates":[8.513055,47.394184],"type":"Point"}
 }

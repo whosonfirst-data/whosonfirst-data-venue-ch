@@ -2,13 +2,14 @@
   "id": 169739427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529463,47.367836,8.529463,47.367836",
     "geom:latitude":47.367836,
     "geom:longitude":8.529463,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brandschenkestr 60",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169739427,
-    "wof:lastmodified":1449034063,
+    "wof:lastmodified":1466211221,
     "wof:name":"Curator & Horwath Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "insurance"
     ]
 },
-  "bbox": [8.529463,47.367836,8.529463,47.367836],
+  "bbox": [
+    8.529463,
+    47.367836,
+    8.529463,
+    47.367836
+],
   "geometry": {"coordinates":[8.529463,47.367836],"type":"Point"}
 }

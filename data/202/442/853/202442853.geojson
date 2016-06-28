@@ -2,13 +2,14 @@
   "id": 202442853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.512838,46.658398,6.512838,46.658398",
     "geom:latitude":46.658398,
     "geom:longitude":6.512838,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. De La Fend\u00e9e 27 1315 La Sarraz. Postfach",
     "sg:city":"Petit-lancy",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202442853,
-    "wof:lastmodified":1449061235,
+    "wof:lastmodified":1466210468,
     "wof:name":"Carl H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.512838,46.658398,6.512838,46.658398],
+  "bbox": [
+    6.512838,
+    46.658398,
+    6.512838,
+    46.658398
+],
   "geometry": {"coordinates":[6.512838,46.658398],"type":"Point"}
 }

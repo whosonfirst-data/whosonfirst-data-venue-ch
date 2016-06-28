@@ -2,13 +2,14 @@
   "id": 186122759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.073207,47.502987,9.073207,47.502987",
     "geom:latitude":47.502987,
     "geom:longitude":9.073207,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberhausen",
     "sg:city":"Braunau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186122759,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466211112,
     "wof:name":"Keller Urs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.073207,47.502987,9.073207,47.502987],
+  "bbox": [
+    9.073207,
+    47.502987,
+    9.073207,
+    47.502987
+],
   "geometry": {"coordinates":[9.073207,47.502987],"type":"Point"}
 }

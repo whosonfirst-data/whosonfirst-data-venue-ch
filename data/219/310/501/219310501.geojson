@@ -2,13 +2,14 @@
   "id": 219310501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.970707,47.391041,7.970707,47.391041",
     "geom:latitude":47.391041,
     "geom:longitude":7.970707,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 28",
     "sg:city":"St\u00fcsslingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219310501,
-    "wof:lastmodified":1449072573,
+    "wof:lastmodified":1466209345,
     "wof:name":"Robert Von Arx Ag Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.970707,47.391041,7.970707,47.391041],
+  "bbox": [
+    7.970707,
+    47.391041,
+    7.970707,
+    47.391041
+],
   "geometry": {"coordinates":[7.970707,47.391041],"type":"Point"}
 }

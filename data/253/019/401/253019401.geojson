@@ -2,13 +2,14 @@
   "id": 253019401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308325,47.045383,8.308325,47.045383",
     "geom:latitude":47.045383,
     "geom:longitude":8.308325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundesplatz 10",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253019401,
-    "wof:lastmodified":1449064523,
+    "wof:lastmodified":1466209143,
     "wof:name":"Gerlinde Siegrist Palacio De Flores",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.308325,47.045383,8.308325,47.045383],
+  "bbox": [
+    8.308325,
+    47.045383,
+    8.308325,
+    47.045383
+],
   "geometry": {"coordinates":[8.308325,47.045383],"type":"Point"}
 }

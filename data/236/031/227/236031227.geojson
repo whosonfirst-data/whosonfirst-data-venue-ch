@@ -2,13 +2,14 @@
   "id": 236031227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.367056,46.227196,7.367056,46.227196",
     "geom:latitude":46.227196,
     "geom:longitude":7.367056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Ronquoz 1",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236031227,
-    "wof:lastmodified":1449002756,
+    "wof:lastmodified":1466209165,
     "wof:name":"Mathieu Bernard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.367056,46.227196,7.367056,46.227196],
+  "bbox": [
+    7.367056,
+    46.227196,
+    7.367056,
+    46.227196
+],
   "geometry": {"coordinates":[7.367056,46.227196],"type":"Point"}
 }

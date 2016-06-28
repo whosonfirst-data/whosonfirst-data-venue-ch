@@ -2,13 +2,14 @@
   "id": 253338313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.635613,47.698776,8.635613,47.698776",
     "geom:latitude":47.698776,
     "geom:longitude":8.635613,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzengraben 23.",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253338313,
-    "wof:lastmodified":1449063846,
+    "wof:lastmodified":1466211931,
     "wof:name":"Publication Distribution Philipp Ziegler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.635613,47.698776,8.635613,47.698776],
+  "bbox": [
+    8.635613,
+    47.698776,
+    8.635613,
+    47.698776
+],
   "geometry": {"coordinates":[8.635613,47.698776],"type":"Point"}
 }

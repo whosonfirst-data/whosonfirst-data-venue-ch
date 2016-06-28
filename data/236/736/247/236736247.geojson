@@ -2,13 +2,14 @@
   "id": 236736247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451934,46.940323,7.451934,46.940323",
     "geom:latitude":46.940323,
     "geom:longitude":7.451934,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchenfeldstrasse 29",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236736247,
-    "wof:lastmodified":1449005204,
+    "wof:lastmodified":1466212851,
     "wof:name":"Dr.ernst W. Schroeder Chiropraktor",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.451934,46.940323,7.451934,46.940323],
+  "bbox": [
+    7.451934,
+    46.940323,
+    7.451934,
+    46.940323
+],
   "geometry": {"coordinates":[7.451934,46.940323],"type":"Point"}
 }

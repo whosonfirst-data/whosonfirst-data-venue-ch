@@ -2,13 +2,14 @@
   "id": 203270433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525304,47.311852,8.525304,47.311852",
     "geom:latitude":47.311852,
     "geom:longitude":8.525304,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Florastrasse 2 8134 Adliswil. Postfach",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203270433,
-    "wof:lastmodified":1449025283,
+    "wof:lastmodified":1466210231,
     "wof:name":"Dr.med.alphons Paul Kappeler Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525304,47.311852,8.525304,47.311852],
+  "bbox": [
+    8.525304,
+    47.311852,
+    8.525304,
+    47.311852
+],
   "geometry": {"coordinates":[8.525304,47.311852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203348101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.538668,47.384792,8.538668,47.384792",
     "geom:latitude":47.384792,
     "geom:longitude":8.538668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nordstrasse 23",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203348101,
-    "wof:lastmodified":1449025034,
+    "wof:lastmodified":1466211014,
     "wof:name":"Dr.med.janina Krauss Aerztin F.allgemeine Medizin",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.538668,47.384792,8.538668,47.384792],
+  "bbox": [
+    8.538668,
+    47.384792,
+    8.538668,
+    47.384792
+],
   "geometry": {"coordinates":[8.538668,47.384792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185747783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.521208,47.132927,9.521208,47.132927",
     "geom:latitude":47.132927,
     "geom:longitude":9.521208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollstrasse 6 9490 Vaduz. Postfach 1611",
     "sg:city":"Vaduz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185747783,
-    "wof:lastmodified":1449006904,
+    "wof:lastmodified":1466211485,
     "wof:name":"Walch & Schurti Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.521208,47.132927,9.521208,47.132927],
+  "bbox": [
+    9.521208,
+    47.132927,
+    9.521208,
+    47.132927
+],
   "geometry": {"coordinates":[9.521208,47.132927],"type":"Point"}
 }

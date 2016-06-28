@@ -2,13 +2,14 @@
   "id": 202997713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.963536,46.009109,8.963536,46.009109",
     "geom:latitude":46.009109,
     "geom:longitude":8.963536,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Al Chioso 28",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202997713,
-    "wof:lastmodified":1449062221,
+    "wof:lastmodified":1466212452,
     "wof:name":"G\u00e9rald Walther Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.963536,46.009109,8.963536,46.009109],
+  "bbox": [
+    8.963536,
+    46.009109,
+    8.963536,
+    46.009109
+],
   "geometry": {"coordinates":[8.963536,46.009109],"type":"Point"}
 }

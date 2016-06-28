@@ -2,13 +2,14 @@
   "id": 185853369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.521941,47.135822,9.521941,47.135822",
     "geom:latitude":47.135822,
     "geom:longitude":9.521941,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heiligkreuz 8 9490 Vaduz. Postfach 1168",
     "sg:city":"Vaduz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185853369,
-    "wof:lastmodified":1449007262,
+    "wof:lastmodified":1466209508,
     "wof:name":"Centrum Bank Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.521941,47.135822,9.521941,47.135822],
+  "bbox": [
+    9.521941,
+    47.135822,
+    9.521941,
+    47.135822
+],
   "geometry": {"coordinates":[9.521941,47.135822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236587801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.57934,46.520161,6.57934,46.520161",
     "geom:latitude":46.520161,
     "geom:longitude":6.57934,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorigny",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236587801,
-    "wof:lastmodified":1449002645,
+    "wof:lastmodified":1466212758,
     "wof:name":"Universit\u00c9 De Lausanne",
     "wof:parent_id":85800161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advice"
     ]
 },
-  "bbox": [6.57934,46.520161,6.57934,46.520161],
+  "bbox": [
+    6.57934,
+    46.520161,
+    6.57934,
+    46.520161
+],
   "geometry": {"coordinates":[6.57934,46.520161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219155615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.803149,47.328228,8.803149,47.328228",
     "geom:latitude":47.328228,
     "geom:longitude":8.803149,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grossacher 5",
     "sg:city":"Hildisrieden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219155615,
-    "wof:lastmodified":1449073309,
+    "wof:lastmodified":1466209960,
     "wof:name":"Dr.med.urs Schlegel Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.803149,47.328228,8.803149,47.328228],
+  "bbox": [
+    8.803149,
+    47.328228,
+    8.803149,
+    47.328228
+],
   "geometry": {"coordinates":[8.803149,47.328228],"type":"Point"}
 }

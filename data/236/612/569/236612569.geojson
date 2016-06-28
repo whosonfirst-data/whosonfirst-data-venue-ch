@@ -2,13 +2,14 @@
   "id": 236612569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.82265,47.192902,8.82265,47.192902",
     "geom:latitude":47.192902,
     "geom:longitude":8.82265,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 1",
     "sg:city":"Altendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236612569,
-    "wof:lastmodified":1449003053,
+    "wof:lastmodified":1466212696,
     "wof:name":"Transammonia Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.82265,47.192902,8.82265,47.192902],
+  "bbox": [
+    8.82265,
+    47.192902,
+    8.82265,
+    47.192902
+],
   "geometry": {"coordinates":[8.82265,47.192902],"type":"Point"}
 }

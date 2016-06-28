@@ -2,13 +2,14 @@
   "id": 220124011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.464726,47.429817,8.464726,47.429817",
     "geom:latitude":47.429817,
     "geom:longitude":8.464726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Affolternstrasse 15",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220124011,
-    "wof:lastmodified":1449074826,
+    "wof:lastmodified":1466209946,
     "wof:name":"Neeser M. + B.",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.464726,47.429817,8.464726,47.429817],
+  "bbox": [
+    8.464726,
+    47.429817,
+    8.464726,
+    47.429817
+],
   "geometry": {"coordinates":[8.464726,47.429817],"type":"Point"}
 }

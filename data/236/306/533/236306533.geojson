@@ -2,13 +2,14 @@
   "id": 236306533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.935678,46.025894,8.935678,46.025894",
     "geom:latitude":46.025894,
     "geom:longitude":8.935678,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ca'del Caccia 2",
     "sg:city":"Vezia",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236306533,
-    "wof:lastmodified":1449005064,
+    "wof:lastmodified":1466211759,
     "wof:name":"Luigi Rizzo Taxi Funk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.935678,46.025894,8.935678,46.025894],
+  "bbox": [
+    8.935678,
+    46.025894,
+    8.935678,
+    46.025894
+],
   "geometry": {"coordinates":[8.935678,46.025894],"type":"Point"}
 }

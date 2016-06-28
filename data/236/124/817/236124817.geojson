@@ -2,13 +2,14 @@
   "id": 236124817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.083027,46.102531,7.083027,46.102531",
     "geom:latitude":46.102531,
     "geom:longitude":7.083027,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Finettes Rue Des 14",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236124817,
-    "wof:lastmodified":1449004946,
+    "wof:lastmodified":1466210015,
     "wof:name":"Polysol Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.083027,46.102531,7.083027,46.102531],
+  "bbox": [
+    7.083027,
+    46.102531,
+    7.083027,
+    46.102531
+],
   "geometry": {"coordinates":[7.083027,46.102531],"type":"Point"}
 }

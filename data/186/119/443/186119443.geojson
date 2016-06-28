@@ -2,13 +2,14 @@
   "id": 186119443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.372106,47.260845,8.372106,47.260845",
     "geom:latitude":47.260845,
     "geom:longitude":8.372106,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendweg Rickenbach",
     "sg:city":"Merenschwand",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186119443,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466211070,
     "wof:name":"K. Niederberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.372106,47.260845,8.372106,47.260845],
+  "bbox": [
+    8.372106,
+    47.260845,
+    8.372106,
+    47.260845
+],
   "geometry": {"coordinates":[8.372106,47.260845],"type":"Point"}
 }

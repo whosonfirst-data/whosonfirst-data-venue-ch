@@ -2,13 +2,14 @@
   "id": 185930185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.674199,46.690056,7.674199,46.690056",
     "geom:latitude":46.690056,
     "geom:longitude":7.674199,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 10",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185930185,
-    "wof:lastmodified":1449007115,
+    "wof:lastmodified":1466210096,
     "wof:name":"Spitex-koordinationsstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.674199,46.690056,7.674199,46.690056],
+  "bbox": [
+    7.674199,
+    46.690056,
+    7.674199,
+    46.690056
+],
   "geometry": {"coordinates":[7.674199,46.690056],"type":"Point"}
 }

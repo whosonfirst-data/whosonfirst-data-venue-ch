@@ -2,13 +2,14 @@
   "id": 186437123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.466898,47.451988,8.466898,47.451988",
     "geom:latitude":47.451988,
     "geom:longitude":8.466898,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterdorfstrasse 11",
     "sg:city":"Truttikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186437123,
-    "wof:lastmodified":1449052297,
+    "wof:lastmodified":1466210902,
     "wof:name":"Werner Ohno Fassaden",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.466898,47.451988,8.466898,47.451988],
+  "bbox": [
+    8.466898,
+    47.451988,
+    8.466898,
+    47.451988
+],
   "geometry": {"coordinates":[8.466898,47.451988],"type":"Point"}
 }

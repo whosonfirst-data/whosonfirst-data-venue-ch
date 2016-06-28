@@ -2,13 +2,14 @@
   "id": 252963831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.503441,47.041763,7.503441,47.041763",
     "geom:latitude":47.041763,
     "geom:longitude":7.503441,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 90",
     "sg:city":"Jegenstorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252963831,
-    "wof:lastmodified":1449005521,
+    "wof:lastmodified":1466211642,
     "wof:name":"S\u00e4mi's Elektro Haushalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.503441,47.041763,7.503441,47.041763],
+  "bbox": [
+    7.503441,
+    47.041763,
+    7.503441,
+    47.041763
+],
   "geometry": {"coordinates":[7.503441,47.041763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.36173,47.141048,7.36173,47.141048",
     "geom:latitude":47.141048,
     "geom:longitude":7.36173,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Entfelderstrasse 82",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203100131,
-    "wof:lastmodified":1449026364,
+    "wof:lastmodified":1466211116,
     "wof:name":"Werner Heiri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.36173,47.141048,7.36173,47.141048],
+  "bbox": [
+    7.36173,
+    47.141048,
+    7.36173,
+    47.141048
+],
   "geometry": {"coordinates":[7.36173,47.141048],"type":"Point"}
 }

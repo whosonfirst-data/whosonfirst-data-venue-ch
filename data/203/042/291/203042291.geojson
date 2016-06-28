@@ -2,13 +2,14 @@
   "id": 203042291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.533558,47.201176,7.533558,47.201176",
     "geom:latitude":47.201176,
     "geom:longitude":7.533558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Postheiriweg 4",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203042291,
-    "wof:lastmodified":1449026383,
+    "wof:lastmodified":1466210004,
     "wof:name":"Markus Steiner Architektur & Grafik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.533558,47.201176,7.533558,47.201176],
+  "bbox": [
+    7.533558,
+    47.201176,
+    7.533558,
+    47.201176
+],
   "geometry": {"coordinates":[7.533558,47.201176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185861161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.153788,46.201885,6.153788,46.201885",
     "geom:latitude":46.201885,
     "geom:longitude":6.153788,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ferruccio Pelli 15 6900 Lugano Casella Postale 2822",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185861161,
-    "wof:lastmodified":1449008186,
+    "wof:lastmodified":1466209581,
     "wof:name":"Banque Edouard Constant Sa",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.153788,46.201885,6.153788,46.201885],
+  "bbox": [
+    6.153788,
+    46.201885,
+    6.153788,
+    46.201885
+],
   "geometry": {"coordinates":[6.153788,46.201885],"type":"Point"}
 }

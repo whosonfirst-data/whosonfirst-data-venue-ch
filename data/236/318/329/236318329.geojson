@@ -2,13 +2,14 @@
   "id": 236318329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591221,47.542797,7.591221,47.542797",
     "geom:latitude":47.542797,
     "geom:longitude":7.591221,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornacherstrasse 141 4000 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":236318329,
-    "wof:lastmodified":1449002223,
+    "wof:lastmodified":1466211844,
     "wof:name":"Taxi Bihari",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.591221,47.542797,7.591221,47.542797],
+  "bbox": [
+    7.591221,
+    47.542797,
+    7.591221,
+    47.542797
+],
   "geometry": {"coordinates":[7.591221,47.542797],"type":"Point"}
 }

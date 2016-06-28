@@ -2,13 +2,14 @@
   "id": 219929891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.305354,47.109829,7.305354,47.109829",
     "geom:latitude":47.109829,
     "geom:longitude":7.305354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctistrasse 3a 5400 Baden. Postfach 1764",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219929891,
-    "wof:lastmodified":1449071741,
+    "wof:lastmodified":1466212783,
     "wof:name":"Batigroup Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.305354,47.109829,7.305354,47.109829],
+  "bbox": [
+    7.305354,
+    47.109829,
+    7.305354,
+    47.109829
+],
   "geometry": {"coordinates":[7.305354,47.109829],"type":"Point"}
 }

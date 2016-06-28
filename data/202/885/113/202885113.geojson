@@ -2,13 +2,14 @@
   "id": 202885113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62909,46.714203,7.62909,46.714203",
     "geom:latitude":46.714203,
     "geom:longitude":7.62909,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chutzenstrasse 28",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202885113,
-    "wof:lastmodified":1449061460,
+    "wof:lastmodified":1466212068,
     "wof:name":"Bbu Beer Bau + Umwelttechnik Gmbh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62909,46.714203,7.62909,46.714203],
+  "bbox": [
+    7.62909,
+    46.714203,
+    7.62909,
+    46.714203
+],
   "geometry": {"coordinates":[7.62909,46.714203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185955915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72183,47.240044,8.72183,47.240044",
     "geom:latitude":47.240044,
     "geom:longitude":8.72183,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 28 8712 St\u00e4fa. Postfach",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185955915,
-    "wof:lastmodified":1449007708,
+    "wof:lastmodified":1466210343,
     "wof:name":"Clix Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72183,47.240044,8.72183,47.240044],
+  "bbox": [
+    8.72183,
+    47.240044,
+    8.72183,
+    47.240044
+],
   "geometry": {"coordinates":[8.72183,47.240044],"type":"Point"}
 }

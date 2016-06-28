@@ -2,13 +2,14 @@
   "id": 186487597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.582901,47.55135,7.582901,47.55135",
     "geom:latitude":47.55135,
     "geom:longitude":7.582901,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feierabendstrasse 1",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186487597,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466211331,
     "wof:name":"Altersheim Hasenbrunnen",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.582901,47.55135,7.582901,47.55135],
+  "bbox": [
+    7.582901,
+    47.55135,
+    7.582901,
+    47.55135
+],
   "geometry": {"coordinates":[7.582901,47.55135],"type":"Point"}
 }

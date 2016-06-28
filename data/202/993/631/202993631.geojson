@@ -2,13 +2,14 @@
   "id": 202993631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.953058,46.00423,8.953058,46.00423",
     "geom:latitude":46.00423,
     "geom:longitude":8.953058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Albrizzi 1",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202993631,
-    "wof:lastmodified":1449061248,
+    "wof:lastmodified":1466212515,
     "wof:name":"Gianmarco Ciocca Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.953058,46.00423,8.953058,46.00423],
+  "bbox": [
+    8.953058,
+    46.00423,
+    8.953058,
+    46.00423
+],
   "geometry": {"coordinates":[8.953058,46.00423],"type":"Point"}
 }

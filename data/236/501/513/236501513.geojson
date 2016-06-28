@@ -2,13 +2,14 @@
   "id": 236501513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.98041,46.181675,8.98041,46.181675",
     "geom:latitude":46.181675,
     "geom:longitude":8.98041,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Locarno 47",
     "sg:city":"Sementina",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236501513,
-    "wof:lastmodified":1449005281,
+    "wof:lastmodified":1466212527,
     "wof:name":"Ezio Bernasconi Orticoltore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.98041,46.181675,8.98041,46.181675],
+  "bbox": [
+    8.98041,
+    46.181675,
+    8.98041,
+    46.181675
+],
   "geometry": {"coordinates":[8.98041,46.181675],"type":"Point"}
 }

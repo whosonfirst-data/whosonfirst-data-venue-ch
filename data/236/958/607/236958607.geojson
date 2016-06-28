@@ -2,13 +2,14 @@
   "id": 236958607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80243,47.634331,8.80243,47.634331",
     "geom:latitude":47.634331,
     "geom:longitude":8.80243,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talstrasse 543",
     "sg:city":"Oberstammheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236958607,
-    "wof:lastmodified":1449004370,
+    "wof:lastmodified":1466213043,
     "wof:name":"Reldata Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.80243,47.634331,8.80243,47.634331],
+  "bbox": [
+    8.80243,
+    47.634331,
+    8.80243,
+    47.634331
+],
   "geometry": {"coordinates":[8.80243,47.634331],"type":"Point"}
 }

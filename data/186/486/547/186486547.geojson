@@ -2,13 +2,14 @@
   "id": 186486547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72529,47.351444,8.72529,47.351444",
     "geom:latitude":47.351444,
     "geom:longitude":8.72529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Asylstrasse 15",
     "sg:city":"Uster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186486547,
-    "wof:lastmodified":1449051875,
+    "wof:lastmodified":1466211321,
     "wof:name":"Altersheim Der Stadt Uster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.72529,47.351444,8.72529,47.351444],
+  "bbox": [
+    8.72529,
+    47.351444,
+    8.72529,
+    47.351444
+],
   "geometry": {"coordinates":[8.72529,47.351444],"type":"Point"}
 }

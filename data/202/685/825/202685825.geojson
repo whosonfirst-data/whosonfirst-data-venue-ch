@@ -2,13 +2,14 @@
   "id": 202685825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.316911,47.112789,7.316911,47.112789",
     "geom:latitude":47.112789,
     "geom:longitude":7.316911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstr. 79",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202685825,
-    "wof:lastmodified":1449062567,
+    "wof:lastmodified":1466210457,
     "wof:name":"Ripas Ag Studen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.316911,47.112789,7.316911,47.112789],
+  "bbox": [
+    7.316911,
+    47.112789,
+    7.316911,
+    47.112789
+],
   "geometry": {"coordinates":[7.316911,47.112789],"type":"Point"}
 }

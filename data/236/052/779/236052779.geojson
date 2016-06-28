@@ -2,13 +2,14 @@
   "id": 236052779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.45662,46.959415,7.45662,46.959415",
     "geom:latitude":46.959415,
     "geom:longitude":7.45662,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rodtmattstrasse 102",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236052779,
-    "wof:lastmodified":1449003091,
+    "wof:lastmodified":1466209355,
     "wof:name":"Ramseyer & Dilger Ag",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.45662,46.959415,7.45662,46.959415],
+  "bbox": [
+    7.45662,
+    46.959415,
+    7.45662,
+    46.959415
+],
   "geometry": {"coordinates":[7.45662,46.959415],"type":"Point"}
 }

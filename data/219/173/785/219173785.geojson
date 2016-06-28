@@ -2,13 +2,14 @@
   "id": 219173785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64592,47.691753,8.64592,47.691753",
     "geom:latitude":47.691753,
     "geom:longitude":8.64592,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Diessenhoferstrasse 24",
     "sg:city":"Feuerthalen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219173785,
-    "wof:lastmodified":1449071075,
+    "wof:lastmodified":1466210368,
     "wof:name":"Dres Med. Jaun & Bollinger \u00c4rzte F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.64592,47.691753,8.64592,47.691753],
+  "bbox": [
+    8.64592,
+    47.691753,
+    8.64592,
+    47.691753
+],
   "geometry": {"coordinates":[8.64592,47.691753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236534493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547527,47.214054,7.547527,47.214054",
     "geom:latitude":47.214054,
     "geom:longitude":7.547527,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 81 4500 Solothurn. Postfach 128",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236534493,
-    "wof:lastmodified":1449002322,
+    "wof:lastmodified":1466212573,
     "wof:name":"Rust & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.547527,47.214054,7.547527,47.214054],
+  "bbox": [
+    7.547527,
+    47.214054,
+    7.547527,
+    47.214054
+],
   "geometry": {"coordinates":[7.547527,47.214054],"type":"Point"}
 }

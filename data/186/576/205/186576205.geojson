@@ -2,13 +2,14 @@
   "id": 186576205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604624,47.471176,7.604624,47.471176",
     "geom:latitude":47.471176,
     "geom:longitude":7.604624,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 45",
     "sg:city":"Aesch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186576205,
-    "wof:lastmodified":1449052383,
+    "wof:lastmodified":1466211839,
     "wof:name":"Markus Siegenthaler Apparatebau",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apparatus"
     ]
 },
-  "bbox": [7.604624,47.471176,7.604624,47.471176],
+  "bbox": [
+    7.604624,
+    47.471176,
+    7.604624,
+    47.471176
+],
   "geometry": {"coordinates":[7.604624,47.471176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186268963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.387872,47.436424,9.387872,47.436424",
     "geom:latitude":47.436424,
     "geom:longitude":9.387872,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Sauge 18 1030 Bussigny-lausanne Case Postale 43",
     "sg:city":"Bussigny-lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186268963,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466209614,
     "wof:name":"Bertuzzi Bauunternehmung Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.387872,47.436424,9.387872,47.436424],
+  "bbox": [
+    9.387872,
+    47.436424,
+    9.387872,
+    47.436424
+],
   "geometry": {"coordinates":[9.387872,47.436424],"type":"Point"}
 }

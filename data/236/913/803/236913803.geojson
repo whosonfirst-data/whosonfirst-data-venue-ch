@@ -2,13 +2,14 @@
   "id": 236913803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.16275,47.384651,8.16275,47.384651",
     "geom:latitude":47.384651,
     "geom:longitude":8.16275,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfalzweg 27",
     "sg:city":"Staufen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236913803,
-    "wof:lastmodified":1449002827,
+    "wof:lastmodified":1466212983,
     "wof:name":"Peter Diethelm Informatikberatung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.16275,47.384651,8.16275,47.384651],
+  "bbox": [
+    8.16275,
+    47.384651,
+    8.16275,
+    47.384651
+],
   "geometry": {"coordinates":[8.16275,47.384651],"type":"Point"}
 }

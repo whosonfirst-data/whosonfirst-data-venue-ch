@@ -2,13 +2,14 @@
   "id": 236660015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.708147,47.343616,8.708147,47.343616",
     "geom:latitude":47.343616,
     "geom:longitude":8.708147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zelgstrasse 3 8610 Uster. Postfach",
     "sg:city":"Uster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236660015,
-    "wof:lastmodified":1449004832,
+    "wof:lastmodified":1466212664,
     "wof:name":"Christoph's Party-service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.708147,47.343616,8.708147,47.343616],
+  "bbox": [
+    8.708147,
+    47.343616,
+    8.708147,
+    47.343616
+],
   "geometry": {"coordinates":[8.708147,47.343616],"type":"Point"}
 }

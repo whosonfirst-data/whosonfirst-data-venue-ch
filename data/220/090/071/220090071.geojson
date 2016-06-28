@@ -2,13 +2,14 @@
   "id": 220090071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.621473,47.413876,8.621473,47.413876",
     "geom:latitude":47.413876,
     "geom:longitude":8.621473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 23",
     "sg:city":"Dietlikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220090071,
-    "wof:lastmodified":1449074673,
+    "wof:lastmodified":1466209655,
     "wof:name":"Fliegender Schreinerservice Udo Wicki",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.621473,47.413876,8.621473,47.413876],
+  "bbox": [
+    8.621473,
+    47.413876,
+    8.621473,
+    47.413876
+],
   "geometry": {"coordinates":[8.621473,47.413876],"type":"Point"}
 }

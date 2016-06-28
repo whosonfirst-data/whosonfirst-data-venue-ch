@@ -2,13 +2,14 @@
   "id": 185709523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.524698,47.373482,8.524698,47.373482",
     "geom:latitude":47.373482,
     "geom:longitude":8.524698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankerstrasse 24 8004 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185709523,
-    "wof:lastmodified":1449006935,
+    "wof:lastmodified":1466211188,
     "wof:name":"Gm\u00fcr Gehrig Klemm Ott Bl\u00e4ttler Advokaturb\u00fcro",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.524698,47.373482,8.524698,47.373482],
+  "bbox": [
+    8.524698,
+    47.373482,
+    8.524698,
+    47.373482
+],
   "geometry": {"coordinates":[8.524698,47.373482],"type":"Point"}
 }

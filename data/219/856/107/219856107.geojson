@@ -2,13 +2,14 @@
   "id": 219856107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.944524,46.005707,8.944524,46.005707",
     "geom:latitude":46.005707,
     "geom:longitude":8.944524,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Besso 1 6900 Lugano. Postfach",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219856107,
-    "wof:lastmodified":1449071405,
+    "wof:lastmodified":1466212497,
     "wof:name":"Ristorante & Bar Giardino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.944524,46.005707,8.944524,46.005707],
+  "bbox": [
+    8.944524,
+    46.005707,
+    8.944524,
+    46.005707
+],
   "geometry": {"coordinates":[8.944524,46.005707],"type":"Point"}
 }

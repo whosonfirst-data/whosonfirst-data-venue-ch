@@ -2,13 +2,14 @@
   "id": 236760681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.540827,47.378098,9.540827,47.378098",
     "geom:latitude":47.378098,
     "geom:longitude":9.540827,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rathausplatz 3- 5",
     "sg:city":"Altst\u00e4tten",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236760681,
-    "wof:lastmodified":1449005098,
+    "wof:lastmodified":1466212984,
     "wof:name":"Erwin Hutter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothes"
     ]
 },
-  "bbox": [9.540827,47.378098,9.540827,47.378098],
+  "bbox": [
+    9.540827,
+    47.378098,
+    9.540827,
+    47.378098
+],
   "geometry": {"coordinates":[9.540827,47.378098],"type":"Point"}
 }

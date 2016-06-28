@@ -2,13 +2,14 @@
   "id": 219467729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.047051,47.391693,8.047051,47.391693",
     "geom:latitude":47.391693,
     "geom:longitude":8.047051,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kasinostr. 32",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219467729,
-    "wof:lastmodified":1449073175,
+    "wof:lastmodified":1466210836,
     "wof:name":"Aufina",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.047051,47.391693,8.047051,47.391693],
+  "bbox": [
+    8.047051,
+    47.391693,
+    8.047051,
+    47.391693
+],
   "geometry": {"coordinates":[8.047051,47.391693],"type":"Point"}
 }

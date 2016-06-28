@@ -2,13 +2,14 @@
   "id": 202667453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.95279,47.175179,8.95279,47.175179",
     "geom:latitude":47.175179,
     "geom:longitude":8.95279,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altstattstrasse 26",
     "sg:city":"Sattel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202667453,
-    "wof:lastmodified":1449061741,
+    "wof:lastmodified":1466210287,
     "wof:name":"Planungsteam Theatech Thomas Rutz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.95279,47.175179,8.95279,47.175179],
+  "bbox": [
+    8.95279,
+    47.175179,
+    8.95279,
+    47.175179
+],
   "geometry": {"coordinates":[8.95279,47.175179],"type":"Point"}
 }

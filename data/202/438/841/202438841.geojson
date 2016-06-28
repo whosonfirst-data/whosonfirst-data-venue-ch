@@ -2,13 +2,14 @@
   "id": 202438841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.955251,47.244286,8.955251,47.244286",
     "geom:latitude":47.244286,
     "geom:longitude":8.955251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisstrasse 33",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202438841,
-    "wof:lastmodified":1449060971,
+    "wof:lastmodified":1466210378,
     "wof:name":"B\u00fcrgin Max Plant + Baut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.955251,47.244286,8.955251,47.244286],
+  "bbox": [
+    8.955251,
+    47.244286,
+    8.955251,
+    47.244286
+],
   "geometry": {"coordinates":[8.955251,47.244286],"type":"Point"}
 }

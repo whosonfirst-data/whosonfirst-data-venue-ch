@@ -2,13 +2,14 @@
   "id": 186564201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.375572,46.923904,7.375572,46.923904",
     "geom:latitude":46.923904,
     "geom:longitude":7.375572,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 576",
     "sg:city":"Niederwangen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186564201,
-    "wof:lastmodified":1449052874,
+    "wof:lastmodified":1466211925,
     "wof:name":"Schlierholz Eloxal Ag",
     "wof:parent_id":85800349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "anodizing"
     ]
 },
-  "bbox": [7.375572,46.923904,7.375572,46.923904],
+  "bbox": [
+    7.375572,
+    46.923904,
+    7.375572,
+    46.923904
+],
   "geometry": {"coordinates":[7.375572,46.923904],"type":"Point"}
 }

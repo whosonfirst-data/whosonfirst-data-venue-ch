@@ -2,13 +2,14 @@
   "id": 203367059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619594,47.49284,7.619594,47.49284",
     "geom:latitude":47.49284,
     "geom:longitude":7.619594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Domstrasse 3",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203367059,
-    "wof:lastmodified":1449026069,
+    "wof:lastmodified":1466211200,
     "wof:name":"Dr.med.lorenz Kober Spezialarzt Fmh",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.619594,47.49284,7.619594,47.49284],
+  "bbox": [
+    7.619594,
+    47.49284,
+    7.619594,
+    47.49284
+],
   "geometry": {"coordinates":[7.619594,47.49284],"type":"Point"}
 }

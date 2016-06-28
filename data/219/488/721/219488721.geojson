@@ -2,13 +2,14 @@
   "id": 219488721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.212595,46.080231,7.212595,46.080231",
     "geom:latitude":46.080231,
     "geom:longitude":7.212595,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Ch\u00e2ble",
     "sg:city":"Le Ch\u00e2ble",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219488721,
-    "wof:lastmodified":1449073823,
+    "wof:lastmodified":1466211034,
     "wof:name":"Banque Cantonale Du Valais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.212595,46.080231,7.212595,46.080231],
+  "bbox": [
+    7.212595,
+    46.080231,
+    7.212595,
+    46.080231
+],
   "geometry": {"coordinates":[7.212595,46.080231],"type":"Point"}
 }

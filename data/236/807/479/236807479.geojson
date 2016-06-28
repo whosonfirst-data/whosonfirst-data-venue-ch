@@ -2,13 +2,14 @@
   "id": 236807479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.302376,47.085659,7.302376,47.085659",
     "geom:latitude":47.085659,
     "geom:longitude":7.302376,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammweg 43",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236807479,
-    "wof:lastmodified":1449002314,
+    "wof:lastmodified":1466212805,
     "wof:name":"Moser-bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.302376,47.085659,7.302376,47.085659],
+  "bbox": [
+    7.302376,
+    47.085659,
+    7.302376,
+    47.085659
+],
   "geometry": {"coordinates":[7.302376,47.085659],"type":"Point"}
 }

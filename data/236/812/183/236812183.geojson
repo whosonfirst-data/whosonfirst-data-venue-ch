@@ -2,13 +2,14 @@
   "id": 236812183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.143167,47.442158,9.143167,47.442158",
     "geom:latitude":47.442158,
     "geom:longitude":9.143167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flawilerstrasse 8b",
     "sg:city":"Niederuzwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236812183,
-    "wof:lastmodified":1449001748,
+    "wof:lastmodified":1466212996,
     "wof:name":"Benjamin Saxer Prefa Schweiz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.143167,47.442158,9.143167,47.442158],
+  "bbox": [
+    9.143167,
+    47.442158,
+    9.143167,
+    47.442158
+],
   "geometry": {"coordinates":[9.143167,47.442158],"type":"Point"}
 }

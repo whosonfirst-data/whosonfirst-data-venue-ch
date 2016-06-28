@@ -2,13 +2,14 @@
   "id": 203342259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.328813,47.464596,8.328813,47.464596",
     "geom:latitude":47.464596,
     "geom:longitude":8.328813,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 92",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203342259,
-    "wof:lastmodified":1449026738,
+    "wof:lastmodified":1466210950,
     "wof:name":"Dr.med.heinz Gehring Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.328813,47.464596,8.328813,47.464596],
+  "bbox": [
+    8.328813,
+    47.464596,
+    8.328813,
+    47.464596
+],
   "geometry": {"coordinates":[8.328813,47.464596],"type":"Point"}
 }

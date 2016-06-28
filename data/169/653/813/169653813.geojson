@@ -2,13 +2,14 @@
   "id": 169653813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.009973,45.842205,9.009973,45.842205",
     "geom:latitude":45.842205,
     "geom:longitude":9.009973,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sottobisio 32b",
     "sg:city":"Balerna",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169653813,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466210156,
     "wof:name":"Polirapid By Cobar Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.009973,45.842205,9.009973,45.842205],
+  "bbox": [
+    9.009973,
+    45.842205,
+    9.009973,
+    45.842205
+],
   "geometry": {"coordinates":[9.009973,45.842205],"type":"Point"}
 }

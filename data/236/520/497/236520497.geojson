@@ -2,13 +2,14 @@
   "id": 236520497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.355896,47.421841,9.355896,47.421841",
     "geom:latitude":47.421841,
     "geom:longitude":9.355896,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stockackerstrasse 4",
     "sg:city":"Niederg\u00f6sgen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236520497,
-    "wof:lastmodified":1449002592,
+    "wof:lastmodified":1466212648,
     "wof:name":"Martin Reiter",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.355896,47.421841,9.355896,47.421841],
+  "bbox": [
+    9.355896,
+    47.421841,
+    9.355896,
+    47.421841
+],
   "geometry": {"coordinates":[9.355896,47.421841],"type":"Point"}
 }

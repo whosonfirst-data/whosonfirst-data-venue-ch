@@ -2,13 +2,14 @@
   "id": 186050543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.306094,47.071411,7.306094,47.071411",
     "geom:latitude":47.071411,
     "geom:longitude":7.306094,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrengasse 22 3250 Lyss. Postfach",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186050543,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1466210053,
     "wof:name":"De Luca Ag Bauunternehmung F\u00fcr Hoch Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.306094,47.071411,7.306094,47.071411],
+  "bbox": [
+    7.306094,
+    47.071411,
+    7.306094,
+    47.071411
+],
   "geometry": {"coordinates":[7.306094,47.071411],"type":"Point"}
 }

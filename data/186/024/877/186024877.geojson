@@ -2,13 +2,14 @@
   "id": 186024877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.652545,47.270229,8.652545,47.270229",
     "geom:latitude":47.270229,
     "geom:longitude":8.652545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfannenstielstrasse",
     "sg:city":"Meilen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186024877,
-    "wof:lastmodified":1449051671,
+    "wof:lastmodified":1466209645,
     "wof:name":"Billeter Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.652545,47.270229,8.652545,47.270229],
+  "bbox": [
+    8.652545,
+    47.270229,
+    8.652545,
+    47.270229
+],
   "geometry": {"coordinates":[8.652545,47.270229],"type":"Point"}
 }

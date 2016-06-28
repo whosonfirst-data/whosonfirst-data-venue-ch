@@ -2,13 +2,14 @@
   "id": 185756091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.022588,46.189774,9.022588,46.189774",
     "geom:latitude":46.189774,
     "geom:longitude":9.022588,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Indipendenza 6",
     "sg:city":"Bellinzona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185756091,
-    "wof:lastmodified":1449007573,
+    "wof:lastmodified":1466211541,
     "wof:name":"Brenno Martignoni Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.022588,46.189774,9.022588,46.189774],
+  "bbox": [
+    9.022588,
+    46.189774,
+    9.022588,
+    46.189774
+],
   "geometry": {"coordinates":[9.022588,46.189774],"type":"Point"}
 }

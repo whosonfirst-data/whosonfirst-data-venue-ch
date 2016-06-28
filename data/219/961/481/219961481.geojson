@@ -2,13 +2,14 @@
   "id": 219961481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.044472,46.67944,-110.044472,46.67944",
     "geom:latitude":46.67944,
     "geom:longitude":-110.044472,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Immeuble La Promenade",
     "sg:city":"Montana",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219961481,
-    "wof:lastmodified":1449073844,
+    "wof:lastmodified":1466212802,
     "wof:name":"Michel Perruchoud Bureau D'ing\u00e9nieur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.044472,46.67944,-110.044472,46.67944],
+  "bbox": [
+    -110.044472,
+    46.67944,
+    -110.044472,
+    46.67944
+],
   "geometry": {"coordinates":[-110.044472,46.67944],"type":"Point"}
 }

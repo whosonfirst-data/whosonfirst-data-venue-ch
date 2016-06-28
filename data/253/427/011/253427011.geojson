@@ -2,13 +2,14 @@
   "id": 253427011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.94435,46.015526,8.94435,46.015526",
     "geom:latitude":46.015526,
     "geom:longitude":8.94435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Castagneto 6",
     "sg:city":"Massagno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253427011,
-    "wof:lastmodified":1449063707,
+    "wof:lastmodified":1466212311,
     "wof:name":"Francesco Albanese Commercio Calze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.94435,46.015526,8.94435,46.015526],
+  "bbox": [
+    8.94435,
+    46.015526,
+    8.94435,
+    46.015526
+],
   "geometry": {"coordinates":[8.94435,46.015526],"type":"Point"}
 }

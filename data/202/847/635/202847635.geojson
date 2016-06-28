@@ -2,13 +2,14 @@
   "id": 202847635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.223688,47.55006,9.223688,47.55006",
     "geom:latitude":47.55006,
     "geom:longitude":9.223688,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 25",
     "sg:city":"Erlen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202847635,
-    "wof:lastmodified":1449061028,
+    "wof:lastmodified":1466211776,
     "wof:name":"M\u00fcller & Sauter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.223688,47.55006,9.223688,47.55006],
+  "bbox": [
+    9.223688,
+    47.55006,
+    9.223688,
+    47.55006
+],
   "geometry": {"coordinates":[9.223688,47.55006],"type":"Point"}
 }

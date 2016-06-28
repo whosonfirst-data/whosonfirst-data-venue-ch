@@ -2,13 +2,14 @@
   "id": 202529711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.427932,46.976913,7.427932,46.976913",
     "geom:latitude":46.976913,
     "geom:longitude":7.427932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Rebat 14 Bouveret 1894 Les Evouettes. Postfach",
     "sg:city":"Bouveret",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202529711,
-    "wof:lastmodified":1449061233,
+    "wof:lastmodified":1466208998,
     "wof:name":"H.r. M\u00fcller Ag",
     "wof:parent_id":85800547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.427932,46.976913,7.427932,46.976913],
+  "bbox": [
+    7.427932,
+    46.976913,
+    7.427932,
+    46.976913
+],
   "geometry": {"coordinates":[7.427932,46.976913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186503479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.944808,45.989784,8.944808,45.989784",
     "geom:latitude":45.989784,
     "geom:longitude":8.944808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Zorzi 14",
     "sg:city":"Paradiso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186503479,
-    "wof:lastmodified":1449053037,
+    "wof:lastmodified":1466211464,
     "wof:name":"Casa Per Persone Anziane Residenza Paradiso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.944808,45.989784,8.944808,45.989784],
+  "bbox": [
+    8.944808,
+    45.989784,
+    8.944808,
+    45.989784
+],
   "geometry": {"coordinates":[8.944808,45.989784],"type":"Point"}
 }

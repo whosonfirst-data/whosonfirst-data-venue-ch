@@ -2,13 +2,14 @@
   "id": 236799921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.776035,47.370316,8.776035,47.370316",
     "geom:latitude":47.370316,
     "geom:longitude":8.776035,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenstrasse 3",
     "sg:city":"Pf\u00e4ffikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236799921,
-    "wof:lastmodified":1449005271,
+    "wof:lastmodified":1466212905,
     "wof:name":"Minelli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.776035,47.370316,8.776035,47.370316],
+  "bbox": [
+    8.776035,
+    47.370316,
+    8.776035,
+    47.370316
+],
   "geometry": {"coordinates":[8.776035,47.370316],"type":"Point"}
 }

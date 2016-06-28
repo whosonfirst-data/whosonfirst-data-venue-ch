@@ -2,13 +2,14 @@
   "id": 202676051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.224868,47.481831,8.224868,47.481831",
     "geom:latitude":47.481831,
     "geom:longitude":8.224868,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 33",
     "sg:city":"Windisch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202676051,
-    "wof:lastmodified":1449061717,
+    "wof:lastmodified":1466210365,
     "wof:name":"Q-met Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.224868,47.481831,8.224868,47.481831],
+  "bbox": [
+    8.224868,
+    47.481831,
+    8.224868,
+    47.481831
+],
   "geometry": {"coordinates":[8.224868,47.481831],"type":"Point"}
 }

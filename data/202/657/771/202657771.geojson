@@ -2,13 +2,14 @@
   "id": 202657771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.959753,46.018864,8.959753,46.018864",
     "geom:latitude":46.018864,
     "geom:longitude":8.959753,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brentani 10",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202657771,
-    "wof:lastmodified":1449060391,
+    "wof:lastmodified":1466210196,
     "wof:name":"Penna Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.959753,46.018864,8.959753,46.018864],
+  "bbox": [
+    8.959753,
+    46.018864,
+    8.959753,
+    46.018864
+],
   "geometry": {"coordinates":[8.959753,46.018864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236821783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.626638,46.746727,7.626638,46.746727",
     "geom:latitude":46.746727,
     "geom:longitude":7.626638,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frutigenstrasse 55",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236821783,
-    "wof:lastmodified":1449003453,
+    "wof:lastmodified":1466212917,
     "wof:name":"Blum + Feller Gmbh Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.626638,46.746727,7.626638,46.746727],
+  "bbox": [
+    7.626638,
+    46.746727,
+    7.626638,
+    46.746727
+],
   "geometry": {"coordinates":[7.626638,46.746727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252796115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.607334,47.550777,7.607334,47.550777",
     "geom:latitude":47.550777,
     "geom:longitude":7.607334,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rennweg 51",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252796115,
-    "wof:lastmodified":1449005921,
+    "wof:lastmodified":1466209864,
     "wof:name":"Galerie Palladion Antike Kunst",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.607334,47.550777,7.607334,47.550777],
+  "bbox": [
+    7.607334,
+    47.550777,
+    7.607334,
+    47.550777
+],
   "geometry": {"coordinates":[7.607334,47.550777],"type":"Point"}
 }

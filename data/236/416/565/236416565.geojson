@@ -2,13 +2,14 @@
   "id": 236416565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.081095,46.212612,6.081095,46.212612",
     "geom:latitude":46.212612,
     "geom:longitude":6.081095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Village 57",
     "sg:city":"Vernier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236416565,
-    "wof:lastmodified":1449003076,
+    "wof:lastmodified":1466212306,
     "wof:name":"Biblioth\u00e8que Municipale",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [6.081095,46.212612,6.081095,46.212612],
+  "bbox": [
+    6.081095,
+    46.212612,
+    6.081095,
+    46.212612
+],
   "geometry": {"coordinates":[6.081095,46.212612],"type":"Point"}
 }

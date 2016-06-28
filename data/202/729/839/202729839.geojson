@@ -2,13 +2,14 @@
   "id": 202729839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543101,47.40947,8.543101,47.40947",
     "geom:latitude":47.40947,
     "geom:longitude":8.543101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baumackerstrasse 42 8050 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202729839,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466210863,
     "wof:name":"Suter Von K\u00e4nel Wild Ag Orts Und Regionalplaner Fsu Sia",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543101,47.40947,8.543101,47.40947],
+  "bbox": [
+    8.543101,
+    47.40947,
+    8.543101,
+    47.40947
+],
   "geometry": {"coordinates":[8.543101,47.40947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186489397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.691774,47.518456,7.691774,47.518456",
     "geom:latitude":47.518456,
     "geom:longitude":7.691774,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 40",
     "sg:city":"Pratteln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186489397,
-    "wof:lastmodified":1449051847,
+    "wof:lastmodified":1466211346,
     "wof:name":"Altersheim N\u00e4gelin-stiftung",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [7.691774,47.518456,7.691774,47.518456],
+  "bbox": [
+    7.691774,
+    47.518456,
+    7.691774,
+    47.518456
+],
   "geometry": {"coordinates":[7.691774,47.518456],"type":"Point"}
 }

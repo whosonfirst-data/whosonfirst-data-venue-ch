@@ -2,13 +2,14 @@
   "id": 202785841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.730618,47.065247,7.730618,47.065247",
     "geom:latitude":47.065247,
     "geom:longitude":7.730618,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nordstrasse 18 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202785841,
-    "wof:lastmodified":1449062226,
+    "wof:lastmodified":1466211393,
     "wof:name":"Architekten Ag Emme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.730618,47.065247,7.730618,47.065247],
+  "bbox": [
+    7.730618,
+    47.065247,
+    7.730618,
+    47.065247
+],
   "geometry": {"coordinates":[7.730618,47.065247],"type":"Point"}
 }

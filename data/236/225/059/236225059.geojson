@@ -2,13 +2,14 @@
   "id": 236225059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.472469,47.390877,8.472469,47.390877",
     "geom:latitude":47.390877,
     "geom:longitude":8.472469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neeserweg 26 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236225059,
-    "wof:lastmodified":1449002515,
+    "wof:lastmodified":1466211079,
     "wof:name":"Konzertagentur Knd Stevanovic",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.472469,47.390877,8.472469,47.390877],
+  "bbox": [
+    8.472469,
+    47.390877,
+    8.472469,
+    47.390877
+],
   "geometry": {"coordinates":[8.472469,47.390877],"type":"Point"}
 }

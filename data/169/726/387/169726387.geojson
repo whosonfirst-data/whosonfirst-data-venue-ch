@@ -2,13 +2,14 @@
   "id": 169726387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.612685,46.91135,6.612685,46.91135",
     "geom:latitude":46.91135,
     "geom:longitude":6.612685,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Prieur\u00e9 St.-pierre",
     "sg:city":"M\u00f4tiers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169726387,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1466211143,
     "wof:name":"Mauler & Cie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wine"
     ]
 },
-  "bbox": [6.612685,46.91135,6.612685,46.91135],
+  "bbox": [
+    6.612685,
+    46.91135,
+    6.612685,
+    46.91135
+],
   "geometry": {"coordinates":[6.612685,46.91135],"type":"Point"}
 }

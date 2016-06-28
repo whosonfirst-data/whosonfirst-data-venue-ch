@@ -2,13 +2,14 @@
   "id": 185850815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.153965,46.804344,7.153965,46.804344",
     "geom:latitude":46.804344,
     "geom:longitude":7.153965,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Romont 35 1700 Fribourg Case Postale",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185850815,
-    "wof:lastmodified":1449007539,
+    "wof:lastmodified":1466209486,
     "wof:name":"Banque Coop Succursale De Fribourg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.153965,46.804344,7.153965,46.804344],
+  "bbox": [
+    7.153965,
+    46.804344,
+    7.153965,
+    46.804344
+],
   "geometry": {"coordinates":[7.153965,46.804344],"type":"Point"}
 }

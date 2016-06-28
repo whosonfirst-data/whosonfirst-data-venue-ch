@@ -2,13 +2,14 @@
   "id": 236341819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.595008,47.554565,7.595008,47.554565",
     "geom:latitude":47.554565,
     "geom:longitude":7.595008,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-vorstadt 12 4052 Basel. Postfach 124",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236341819,
-    "wof:lastmodified":1449005075,
+    "wof:lastmodified":1466211947,
     "wof:name":"Theater Spilkischte",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.595008,47.554565,7.595008,47.554565],
+  "bbox": [
+    7.595008,
+    47.554565,
+    7.595008,
+    47.554565
+],
   "geometry": {"coordinates":[7.595008,47.554565],"type":"Point"}
 }

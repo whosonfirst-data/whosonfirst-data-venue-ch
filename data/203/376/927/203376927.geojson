@@ -2,13 +2,14 @@
   "id": 203376927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.902581,47.352962,7.902581,47.352962",
     "geom:latitude":47.352962,
     "geom:longitude":7.902581,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstrasse 72",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203376927,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466211298,
     "wof:name":"Dr.med.markus Mauderli Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.902581,47.352962,7.902581,47.352962],
+  "bbox": [
+    7.902581,
+    47.352962,
+    7.902581,
+    47.352962
+],
   "geometry": {"coordinates":[7.902581,47.352962],"type":"Point"}
 }

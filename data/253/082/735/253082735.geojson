@@ -2,13 +2,14 @@
   "id": 253082735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.829229,47.192574,8.829229,47.192574",
     "geom:latitude":47.192574,
     "geom:longitude":8.829229,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8852",
     "sg:city":"Altendorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253082735,
-    "wof:lastmodified":1449062900,
+    "wof:lastmodified":1466209743,
     "wof:name":"Steinegger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.829229,47.192574,8.829229,47.192574],
+  "bbox": [
+    8.829229,
+    47.192574,
+    8.829229,
+    47.192574
+],
   "geometry": {"coordinates":[8.829229,47.192574],"type":"Point"}
 }

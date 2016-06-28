@@ -2,13 +2,14 @@
   "id": 203014523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.558167,47.35915,8.558167,47.35915",
     "geom:latitude":47.35915,
     "geom:longitude":8.558167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollikerstrasse 87",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203014523,
-    "wof:lastmodified":1449025850,
+    "wof:lastmodified":1466209510,
     "wof:name":"Hubacher & Peier Architekturb\u00fcro",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.558167,47.35915,8.558167,47.35915],
+  "bbox": [
+    8.558167,
+    47.35915,
+    8.558167,
+    47.35915
+],
   "geometry": {"coordinates":[8.558167,47.35915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220112093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.189259,47.482819,8.189259,47.482819",
     "geom:latitude":47.482819,
     "geom:longitude":8.189259,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstrasse 57",
     "sg:city":"Umiken",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220112093,
-    "wof:lastmodified":1449074385,
+    "wof:lastmodified":1466209841,
     "wof:name":"Kurt Widmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.189259,47.482819,8.189259,47.482819],
+  "bbox": [
+    8.189259,
+    47.482819,
+    8.189259,
+    47.482819
+],
   "geometry": {"coordinates":[8.189259,47.482819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253133921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.100342,46.197227,6.100342,46.197227",
     "geom:latitude":46.197227,
     "geom:longitude":6.100342,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Verseuse Chemin De La 9 1219 A\u00efre. Postfach",
     "sg:city":"A\u00efre",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253133921,
-    "wof:lastmodified":1449065254,
+    "wof:lastmodified":1466210312,
     "wof:name":"Au Fournil De La Ferme, Fr. Emery",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.100342,46.197227,6.100342,46.197227],
+  "bbox": [
+    6.100342,
+    46.197227,
+    6.100342,
+    46.197227
+],
   "geometry": {"coordinates":[6.100342,46.197227],"type":"Point"}
 }

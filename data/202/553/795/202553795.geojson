@@ -2,13 +2,14 @@
   "id": 202553795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.344325,47.365398,7.344325,47.365398",
     "geom:latitude":47.365398,
     "geom:longitude":7.344325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"P\u00e9quignat Rue P.- 10",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202553795,
-    "wof:lastmodified":1449060123,
+    "wof:lastmodified":1466209230,
     "wof:name":"Im Bureau D'ing\u00e9nieurs Maggia Sa., Locarno, Succursale De Del\u00e9mont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.344325,47.365398,7.344325,47.365398],
+  "bbox": [
+    7.344325,
+    47.365398,
+    7.344325,
+    47.365398
+],
   "geometry": {"coordinates":[7.344325,47.365398],"type":"Point"}
 }

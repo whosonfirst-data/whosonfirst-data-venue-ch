@@ -2,13 +2,14 @@
   "id": 186073813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.582265,47.5256,7.582265,47.5256",
     "geom:latitude":47.5256,
     "geom:longitude":7.582265,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfaffenrainstrasse 46",
     "sg:city":"Bottmingen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186073813,
-    "wof:lastmodified":1449050721,
+    "wof:lastmodified":1466210461,
     "wof:name":"Fraupa Ag",
     "wof:parent_id":85800335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.582265,47.5256,7.582265,47.5256],
+  "bbox": [
+    7.582265,
+    47.5256,
+    7.582265,
+    47.5256
+],
   "geometry": {"coordinates":[7.582265,47.5256],"type":"Point"}
 }

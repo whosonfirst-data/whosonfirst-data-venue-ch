@@ -2,13 +2,14 @@
   "id": 202738791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.848683,47.305321,8.848683,47.305321",
     "geom:latitude":47.305321,
     "geom:longitude":8.848683,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00f6rfli 18",
     "sg:city":"Dierikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202738791,
-    "wof:lastmodified":1449061954,
+    "wof:lastmodified":1466210953,
     "wof:name":"Telbit Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.848683,47.305321,8.848683,47.305321],
+  "bbox": [
+    8.848683,
+    47.305321,
+    8.848683,
+    47.305321
+],
   "geometry": {"coordinates":[8.848683,47.305321],"type":"Point"}
 }

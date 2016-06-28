@@ -2,13 +2,14 @@
   "id": 236405219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.043717,46.624161,8.043717,46.624161",
     "geom:latitude":46.624161,
     "geom:longitude":8.043717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Graben",
     "sg:city":"Grindelwald",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236405219,
-    "wof:lastmodified":1449004919,
+    "wof:lastmodified":1466212138,
     "wof:name":"Bibliothek Grindelwald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [8.043717,46.624161,8.043717,46.624161],
+  "bbox": [
+    8.043717,
+    46.624161,
+    8.043717,
+    46.624161
+],
   "geometry": {"coordinates":[8.043717,46.624161],"type":"Point"}
 }

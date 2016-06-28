@@ -2,13 +2,14 @@
   "id": 202692229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597817,47.552219,7.597817,47.552219",
     "geom:latitude":47.552219,
     "geom:longitude":7.597817,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-anlage 23",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202692229,
-    "wof:lastmodified":1449060792,
+    "wof:lastmodified":1466210518,
     "wof:name":"Ruggaber A. Gmbh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.597817,47.552219,7.597817,47.552219],
+  "bbox": [
+    7.597817,
+    47.552219,
+    7.597817,
+    47.552219
+],
   "geometry": {"coordinates":[7.597817,47.552219],"type":"Point"}
 }

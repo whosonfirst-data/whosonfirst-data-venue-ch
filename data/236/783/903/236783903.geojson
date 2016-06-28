@@ -2,13 +2,14 @@
   "id": 236783903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.52745,46.305859,7.52745,46.305859",
     "geom:latitude":46.305859,
     "geom:longitude":7.52745,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moulin-bornu 1 Case Postale 46",
     "sg:city":"Pompaples",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236783903,
-    "wof:lastmodified":1449001757,
+    "wof:lastmodified":1466212895,
     "wof:name":"Club Piscine Jardinerie Milieu Du Monde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "public"
     ]
 },
-  "bbox": [7.52745,46.305859,7.52745,46.305859],
+  "bbox": [
+    7.52745,
+    46.305859,
+    7.52745,
+    46.305859
+],
   "geometry": {"coordinates":[7.52745,46.305859],"type":"Point"}
 }

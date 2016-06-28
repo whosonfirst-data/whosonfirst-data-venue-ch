@@ -2,13 +2,14 @@
   "id": 202769671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.406669,47.408447,8.406669,47.408447",
     "geom:latitude":47.408447,
     "geom:longitude":8.406669,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"\u00dcberlandstrasse 16 8953 Dietikon. Postfach",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202769671,
-    "wof:lastmodified":1449060949,
+    "wof:lastmodified":1466211243,
     "wof:name":"Winz & Partner Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.406669,47.408447,8.406669,47.408447],
+  "bbox": [
+    8.406669,
+    47.408447,
+    8.406669,
+    47.408447
+],
   "geometry": {"coordinates":[8.406669,47.408447],"type":"Point"}
 }

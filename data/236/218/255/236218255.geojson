@@ -2,13 +2,14 @@
   "id": 236218255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527475,47.395599,8.527475,47.395599",
     "geom:latitude":47.395599,
     "geom:longitude":8.527475,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Geibelstrasse 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236218255,
-    "wof:lastmodified":1449003799,
+    "wof:lastmodified":1466211005,
     "wof:name":"Event & Marketing M\u00fcller S.",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527475,47.395599,8.527475,47.395599],
+  "bbox": [
+    8.527475,
+    47.395599,
+    8.527475,
+    47.395599
+],
   "geometry": {"coordinates":[8.527475,47.395599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185654099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.579511,47.320351,8.579511,47.320351",
     "geom:latitude":47.320351,
     "geom:longitude":8.579511,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4hnlibrunnenstrasse 9",
     "sg:city":"K\u00fcsnacht",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185654099,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1466210366,
     "wof:name":"Schirmfabrik M\u00fcller & Co",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "articles"
     ]
 },
-  "bbox": [8.579511,47.320351,8.579511,47.320351],
+  "bbox": [
+    8.579511,
+    47.320351,
+    8.579511,
+    47.320351
+],
   "geometry": {"coordinates":[8.579511,47.320351],"type":"Point"}
 }

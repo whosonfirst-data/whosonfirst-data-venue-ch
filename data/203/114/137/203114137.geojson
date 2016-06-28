@@ -2,13 +2,14 @@
   "id": 203114137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.606908,46.520992,6.606908,46.520992",
     "geom:latitude":46.520992,
     "geom:longitude":6.606908,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Couchant 46 1007 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203114137,
-    "wof:lastmodified":1449025714,
+    "wof:lastmodified":1466211697,
     "wof:name":"Artona S\u00e0rl Architecture Et R\u00e9alisations",
     "wof:parent_id":85862305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.606908,46.520992,6.606908,46.520992],
+  "bbox": [
+    6.606908,
+    46.520992,
+    6.606908,
+    46.520992
+],
   "geometry": {"coordinates":[6.606908,46.520992],"type":"Point"}
 }

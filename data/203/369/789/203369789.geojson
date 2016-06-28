@@ -2,13 +2,14 @@
   "id": 203369789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.618026,46.749126,7.618026,46.749126",
     "geom:latitude":46.749126,
     "geom:longitude":7.618026,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenstrasse 18e",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203369789,
-    "wof:lastmodified":1449026777,
+    "wof:lastmodified":1466211229,
     "wof:name":"Dr.med.manfred Z\u00fcrcher Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.618026,46.749126,7.618026,46.749126],
+  "bbox": [
+    7.618026,
+    46.749126,
+    7.618026,
+    46.749126
+],
   "geometry": {"coordinates":[7.618026,46.749126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252776955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.625616,46.509621,6.625616,46.509621",
     "geom:latitude":46.509621,
     "geom:longitude":6.625616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Harpe 28",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252776955,
-    "wof:lastmodified":1449005662,
+    "wof:lastmodified":1466209632,
     "wof:name":"Gaston Neuffer La Lucarne Antiquit\u00e9s",
     "wof:parent_id":85800387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.625616,46.509621,6.625616,46.509621],
+  "bbox": [
+    6.625616,
+    46.509621,
+    6.625616,
+    46.509621
+],
   "geometry": {"coordinates":[6.625616,46.509621],"type":"Point"}
 }

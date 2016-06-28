@@ -2,13 +2,14 @@
   "id": 219858251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.014652,46.187031,9.014652,46.187031",
     "geom:latitude":46.187031,
     "geom:longitude":9.014652,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Franco Zorzi 19",
     "sg:city":"Bellinzona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219858251,
-    "wof:lastmodified":1449070736,
+    "wof:lastmodified":1466212501,
     "wof:name":"Ristorante-bar-pizzeria Varano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [9.014652,46.187031,9.014652,46.187031],
+  "bbox": [
+    9.014652,
+    46.187031,
+    9.014652,
+    46.187031
+],
   "geometry": {"coordinates":[9.014652,46.187031],"type":"Point"}
 }

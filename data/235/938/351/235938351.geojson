@@ -2,13 +2,14 @@
   "id": 235938351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.366695,47.416546,9.366695,47.416546",
     "geom:latitude":47.416546,
     "geom:longitude":9.366695,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Teufener Strasse 73b",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":235938351,
-    "wof:lastmodified":1449008512,
+    "wof:lastmodified":1466208965,
     "wof:name":"Geier Josef",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.366695,47.416546,9.366695,47.416546],
+  "bbox": [
+    9.366695,
+    47.416546,
+    9.366695,
+    47.416546
+],
   "geometry": {"coordinates":[9.366695,47.416546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202405573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604834,47.535378,7.604834,47.535378",
     "geom:latitude":47.535378,
     "geom:longitude":7.604834,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reinacherstrasse 129 4053 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202405573,
-    "wof:lastmodified":1449062448,
+    "wof:lastmodified":1466209813,
     "wof:name":"Beratende Ingenieure Scherler Basel, Ag F\u00fcr Installationsplanung Ingenieurdienstleistung In D. Haustechnik Usw",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604834,47.535378,7.604834,47.535378],
+  "bbox": [
+    7.604834,
+    47.535378,
+    7.604834,
+    47.535378
+],
   "geometry": {"coordinates":[7.604834,47.535378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252716511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.712738,66.911247,-156.712738,66.911247",
     "geom:latitude":66.911247,
     "geom:longitude":-156.712738,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lettenstrasse 6",
     "sg:city":"Madetswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252716511,
-    "wof:lastmodified":1449005559,
+    "wof:lastmodified":1466209020,
     "wof:name":"Strahm Peter Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-156.712738,66.911247,-156.712738,66.911247],
+  "bbox": [
+    -156.712738,
+    66.911247,
+    -156.712738,
+    66.911247
+],
   "geometry": {"coordinates":[-156.712738,66.911247],"type":"Point"}
 }

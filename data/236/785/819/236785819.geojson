@@ -2,13 +2,14 @@
   "id": 236785819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.058247,47.470951,9.058247,47.470951",
     "geom:latitude":47.470951,
     "geom:longitude":9.058247,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Loorenstr. 5 Postfach",
     "sg:city":"Dietlikon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236785819,
-    "wof:lastmodified":1449004565,
+    "wof:lastmodified":1466212893,
     "wof:name":"Felix Gartenbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [9.058247,47.470951,9.058247,47.470951],
+  "bbox": [
+    9.058247,
+    47.470951,
+    9.058247,
+    47.470951
+],
   "geometry": {"coordinates":[9.058247,47.470951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236415761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.137376,46.18465,6.137376,46.18465",
     "geom:latitude":46.18465,
     "geom:longitude":6.137376,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard Carl-vogt 22",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236415761,
-    "wof:lastmodified":1449004139,
+    "wof:lastmodified":1466212306,
     "wof:name":"Biblioth\u00e8que Municipale De Carouge",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [6.137376,46.18465,6.137376,46.18465],
+  "bbox": [
+    6.137376,
+    46.18465,
+    6.137376,
+    46.18465
+],
   "geometry": {"coordinates":[6.137376,46.18465],"type":"Point"}
 }

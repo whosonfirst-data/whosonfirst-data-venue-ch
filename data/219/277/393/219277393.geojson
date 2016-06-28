@@ -2,13 +2,14 @@
   "id": 219277393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517074,47.36076,8.517074,47.36076",
     "geom:latitude":47.36076,
     "geom:longitude":8.517074,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Uetlibergstrasse 113",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219277393,
-    "wof:lastmodified":1449070786,
+    "wof:lastmodified":1466209038,
     "wof:name":"Garage Ignazio Pezzino",
     "wof:parent_id":85800635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.517074,47.36076,8.517074,47.36076],
+  "bbox": [
+    8.517074,
+    47.36076,
+    8.517074,
+    47.36076
+],
   "geometry": {"coordinates":[8.517074,47.36076],"type":"Point"}
 }

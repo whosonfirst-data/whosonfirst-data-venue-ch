@@ -2,13 +2,14 @@
   "id": 236055583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.720681,47.535969,7.720681,47.535969",
     "geom:latitude":47.535969,
     "geom:longitude":7.720681,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 8",
     "sg:city":"Kaiseraugst",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236055583,
-    "wof:lastmodified":1449002236,
+    "wof:lastmodified":1466209381,
     "wof:name":"Schmid Werner Ag Kaiseraugst.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.720681,47.535969,7.720681,47.535969],
+  "bbox": [
+    7.720681,
+    47.535969,
+    7.720681,
+    47.535969
+],
   "geometry": {"coordinates":[7.720681,47.535969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186646219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.252481,46.899227,8.252481,46.899227",
     "geom:latitude":46.899227,
     "geom:longitude":8.252481,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcntenmatt 23",
     "sg:city":"Sarnen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186646219,
-    "wof:lastmodified":1449050172,
+    "wof:lastmodified":1466212185,
     "wof:name":"Architekturb\u00fcro K\u00fcng Bruno Sarnen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.252481,46.899227,8.252481,46.899227],
+  "bbox": [
+    8.252481,
+    46.899227,
+    8.252481,
+    46.899227
+],
   "geometry": {"coordinates":[8.252481,46.899227],"type":"Point"}
 }

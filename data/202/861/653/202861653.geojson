@@ -2,13 +2,14 @@
   "id": 202861653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528733,47.371647,8.528733,47.371647",
     "geom:latitude":47.371647,
     "geom:longitude":8.528733,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hallwylstrasse 36",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202861653,
-    "wof:lastmodified":1449062625,
+    "wof:lastmodified":1466211844,
     "wof:name":"Seiler Architekten Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.528733,47.371647,8.528733,47.371647],
+  "bbox": [
+    8.528733,
+    47.371647,
+    8.528733,
+    47.371647
+],
   "geometry": {"coordinates":[8.528733,47.371647],"type":"Point"}
 }

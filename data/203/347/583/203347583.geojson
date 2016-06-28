@@ -2,13 +2,14 @@
   "id": 203347583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.200126,47.523247,9.200126,47.523247",
     "geom:latitude":47.523247,
     "geom:longitude":9.200126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seftigenstrasse 300b",
     "sg:city":"Wabern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203347583,
-    "wof:lastmodified":1449025833,
+    "wof:lastmodified":1466211006,
     "wof:name":"Dr.med.jacques M\u00fcller Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.200126,47.523247,9.200126,47.523247],
+  "bbox": [
+    9.200126,
+    47.523247,
+    9.200126,
+    47.523247
+],
   "geometry": {"coordinates":[9.200126,47.523247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202742943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.411952,46.983776,8.411952,46.983776",
     "geom:latitude":46.983776,
     "geom:longitude":8.411952,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 25d 6373 Ennetb\u00fcrgen. Postfach",
     "sg:city":"Ennetb\u00fcrgen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202742943,
-    "wof:lastmodified":1449060275,
+    "wof:lastmodified":1466210993,
     "wof:name":"Toc Bauingenieur Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.411952,46.983776,8.411952,46.983776],
+  "bbox": [
+    8.411952,
+    46.983776,
+    8.411952,
+    46.983776
+],
   "geometry": {"coordinates":[8.411952,46.983776],"type":"Point"}
 }

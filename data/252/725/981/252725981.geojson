@@ -2,13 +2,14 @@
   "id": 252725981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.169506,46.207703,6.169506,46.207703",
     "geom:latitude":46.207703,
     "geom:longitude":6.169506,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ador Quai Gustave- 82 1207 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252725981,
-    "wof:lastmodified":1449005691,
+    "wof:lastmodified":1466209105,
     "wof:name":"Les Vignerons De La Stricte Observance",
     "wof:parent_id":85799915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.169506,46.207703,6.169506,46.207703],
+  "bbox": [
+    6.169506,
+    46.207703,
+    6.169506,
+    46.207703
+],
   "geometry": {"coordinates":[6.169506,46.207703],"type":"Point"}
 }

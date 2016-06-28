@@ -2,13 +2,14 @@
   "id": 186094865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.488357,47.367878,8.488357,47.367878",
     "geom:latitude":47.367878,
     "geom:longitude":8.488357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birmensdorferstrasse 598",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186094865,
-    "wof:lastmodified":1449052052,
+    "wof:lastmodified":1466210815,
     "wof:name":"Handwerkerteam Z\u00fcri-leu Gebr\u00fcder Weilenmann",
     "wof:parent_id":85799695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.488357,47.367878,8.488357,47.367878],
+  "bbox": [
+    8.488357,
+    47.367878,
+    8.488357,
+    47.367878
+],
   "geometry": {"coordinates":[8.488357,47.367878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236655825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.514132,46.855728,9.514132,46.855728",
     "geom:latitude":46.855728,
     "geom:longitude":9.514132,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Felsenaustrasse 25",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236655825,
-    "wof:lastmodified":1449003565,
+    "wof:lastmodified":1466212812,
     "wof:name":"Keller & D\u00fcrr Kassensysteme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [9.514132,46.855728,9.514132,46.855728],
+  "bbox": [
+    9.514132,
+    46.855728,
+    9.514132,
+    46.855728
+],
   "geometry": {"coordinates":[9.514132,46.855728],"type":"Point"}
 }

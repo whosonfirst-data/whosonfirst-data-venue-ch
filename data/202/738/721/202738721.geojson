@@ -2,13 +2,14 @@
   "id": 202738721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.400165,47.405586,8.400165,47.405586",
     "geom:latitude":47.405586,
     "geom:longitude":8.400165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronenplatz 12 8953 Dietikon. Postfach",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202738721,
-    "wof:lastmodified":1449061954,
+    "wof:lastmodified":1466210952,
     "wof:name":"Terracasa Siegenthaler Ch. Arch. Htl Architekturb\u00fcro. 3d-planung Usw",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.400165,47.405586,8.400165,47.405586],
+  "bbox": [
+    8.400165,
+    47.405586,
+    8.400165,
+    47.405586
+],
   "geometry": {"coordinates":[8.400165,47.405586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253008853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.850233,47.07785,7.850233,47.07785",
     "geom:latitude":47.07785,
     "geom:longitude":7.850233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reitgasse 55c",
     "sg:city":"Eriswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253008853,
-    "wof:lastmodified":1449063749,
+    "wof:lastmodified":1466209032,
     "wof:name":"Blueme-egge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.850233,47.07785,7.850233,47.07785],
+  "bbox": [
+    7.850233,
+    47.07785,
+    7.850233,
+    47.07785
+],
   "geometry": {"coordinates":[7.850233,47.07785],"type":"Point"}
 }

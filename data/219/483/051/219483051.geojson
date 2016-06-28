@@ -2,13 +2,14 @@
   "id": 219483051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.064674,47.269207,8.064674,47.269207",
     "geom:latitude":47.269207,
     "geom:longitude":8.064674,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 162",
     "sg:city":"Kirchleeran",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219483051,
-    "wof:lastmodified":1449073179,
+    "wof:lastmodified":1466210977,
     "wof:name":"Bank Leerau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.064674,47.269207,8.064674,47.269207],
+  "bbox": [
+    8.064674,
+    47.269207,
+    8.064674,
+    47.269207
+],
   "geometry": {"coordinates":[8.064674,47.269207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236909127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40739,47.468769,8.40739,47.468769",
     "geom:latitude":47.468769,
     "geom:longitude":8.40739,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Regensbergstrasse 29",
     "sg:city":"Boppelsen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236909127,
-    "wof:lastmodified":1449004263,
+    "wof:lastmodified":1466213018,
     "wof:name":"Josef Platzer Edv-organisation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40739,47.468769,8.40739,47.468769],
+  "bbox": [
+    8.40739,
+    47.468769,
+    8.40739,
+    47.468769
+],
   "geometry": {"coordinates":[8.40739,47.468769],"type":"Point"}
 }

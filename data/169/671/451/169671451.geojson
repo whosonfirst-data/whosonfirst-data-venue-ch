@@ -2,13 +2,14 @@
   "id": 169671451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.13664,46.182159,6.13664,46.182159",
     "geom:latitude":46.182159,
     "geom:longitude":6.13664,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Jacques-grosselin 25",
     "sg:city":"Carouge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169671451,
-    "wof:lastmodified":1449033453,
+    "wof:lastmodified":1466210474,
     "wof:name":"Gestronic Sa",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [6.13664,46.182159,6.13664,46.182159],
+  "bbox": [
+    6.13664,
+    46.182159,
+    6.13664,
+    46.182159
+],
   "geometry": {"coordinates":[6.13664,46.182159],"type":"Point"}
 }

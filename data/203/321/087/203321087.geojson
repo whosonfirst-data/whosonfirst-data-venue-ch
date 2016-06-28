@@ -2,13 +2,14 @@
   "id": 203321087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534415,47.314827,8.534415,47.314827",
     "geom:latitude":47.314827,
     "geom:longitude":8.534415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Felsenhofstrasse 11",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203321087,
-    "wof:lastmodified":1449024988,
+    "wof:lastmodified":1466210744,
     "wof:name":"Dr.med.fritz Wegmann Spezialarzt Fmh",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534415,47.314827,8.534415,47.314827],
+  "bbox": [
+    8.534415,
+    47.314827,
+    8.534415,
+    47.314827
+],
   "geometry": {"coordinates":[8.534415,47.314827],"type":"Point"}
 }

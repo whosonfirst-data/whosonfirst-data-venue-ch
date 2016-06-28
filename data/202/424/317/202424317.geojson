@@ -2,13 +2,14 @@
   "id": 202424317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.623782,47.553925,7.623782,47.553925",
     "geom:latitude":47.553925,
     "geom:longitude":7.623782,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 13",
     "sg:city":"Birsfelden",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202424317,
-    "wof:lastmodified":1449062488,
+    "wof:lastmodified":1466210150,
     "wof:name":"Buol Baumanagement Gmbh",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.623782,47.553925,7.623782,47.553925],
+  "bbox": [
+    7.623782,
+    47.553925,
+    7.623782,
+    47.553925
+],
   "geometry": {"coordinates":[7.623782,47.553925],"type":"Point"}
 }

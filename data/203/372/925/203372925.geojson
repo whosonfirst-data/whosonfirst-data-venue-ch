@@ -2,13 +2,14 @@
   "id": 203372925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.584624,47.553822,7.584624,47.553822",
     "geom:latitude":47.553822,
     "geom:longitude":7.584624,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leonhardsstrasse 37",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203372925,
-    "wof:lastmodified":1449026086,
+    "wof:lastmodified":1466211260,
     "wof:name":"Dr.med.marianne Winterhalter Spezial\u00e4rztin Fmh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.584624,47.553822,7.584624,47.553822],
+  "bbox": [
+    7.584624,
+    47.553822,
+    7.584624,
+    47.553822
+],
   "geometry": {"coordinates":[7.584624,47.553822],"type":"Point"}
 }

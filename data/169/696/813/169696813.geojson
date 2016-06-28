@@ -2,13 +2,14 @@
   "id": 169696813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.838029,47.098495,6.838029,47.098495",
     "geom:latitude":47.098495,
     "geom:longitude":6.838029,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bl\u00e4uistrasse 8",
     "sg:city":"Gersau",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169696813,
-    "wof:lastmodified":1449032923,
+    "wof:lastmodified":1466210913,
     "wof:name":"J. P. Lauber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cleaning"
     ]
 },
-  "bbox": [6.838029,47.098495,6.838029,47.098495],
+  "bbox": [
+    6.838029,
+    47.098495,
+    6.838029,
+    47.098495
+],
   "geometry": {"coordinates":[6.838029,47.098495],"type":"Point"}
 }

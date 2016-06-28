@@ -2,13 +2,14 @@
   "id": 202630411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.729473,47.345436,8.729473,47.345436",
     "geom:latitude":47.345436,
     "geom:longitude":8.729473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfingstweidstrasse 30",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202630411,
-    "wof:lastmodified":1449061011,
+    "wof:lastmodified":1466209941,
     "wof:name":"Messmer + Schindler, Ing.-b\u00fcro F\u00fcr Hoch Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.729473,47.345436,8.729473,47.345436],
+  "bbox": [
+    8.729473,
+    47.345436,
+    8.729473,
+    47.345436
+],
   "geometry": {"coordinates":[8.729473,47.345436],"type":"Point"}
 }

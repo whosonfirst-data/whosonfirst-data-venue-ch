@@ -2,13 +2,14 @@
   "id": 185808931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.198339,47.410107,9.198339,47.410107",
     "geom:latitude":47.410107,
     "geom:longitude":9.198339,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstrasse 13",
     "sg:city":"Flawil",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185808931,
-    "wof:lastmodified":1449006653,
+    "wof:lastmodified":1466209177,
     "wof:name":"Preisig Preva Ger\u00e4te",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "implement"
     ]
 },
-  "bbox": [9.198339,47.410107,9.198339,47.410107],
+  "bbox": [
+    9.198339,
+    47.410107,
+    9.198339,
+    47.410107
+],
   "geometry": {"coordinates":[9.198339,47.410107],"type":"Point"}
 }

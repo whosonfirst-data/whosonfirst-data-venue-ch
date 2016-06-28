@@ -2,13 +2,14 @@
   "id": 186630395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.475297,46.972176,7.475297,46.972176",
     "geom:latitude":46.972176,
     "geom:longitude":7.475297,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheunerweg 16 3063 Ittigen. Postfach",
     "sg:city":"Ittigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186630395,
-    "wof:lastmodified":1449051353,
+    "wof:lastmodified":1466212118,
     "wof:name":"Alvora Gmbh",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.475297,46.972176,7.475297,46.972176],
+  "bbox": [
+    7.475297,
+    46.972176,
+    7.475297,
+    46.972176
+],
   "geometry": {"coordinates":[7.475297,46.972176],"type":"Point"}
 }

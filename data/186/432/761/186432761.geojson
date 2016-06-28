@@ -2,13 +2,14 @@
   "id": 186432761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.576701,47.557549,7.576701,47.557549",
     "geom:latitude":47.557549,
     "geom:longitude":7.576701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birmannsgasse 30 4055 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186432761,
-    "wof:lastmodified":1449050189,
+    "wof:lastmodified":1466210864,
     "wof:name":"Isowedi Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.576701,47.557549,7.576701,47.557549],
+  "bbox": [
+    7.576701,
+    47.557549,
+    7.576701,
+    47.557549
+],
   "geometry": {"coordinates":[7.576701,47.557549],"type":"Point"}
 }

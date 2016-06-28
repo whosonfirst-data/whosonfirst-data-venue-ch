@@ -2,13 +2,14 @@
   "id": 169620451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.253648,47.135452,7.253648,47.135452",
     "geom:latitude":47.135452,
     "geom:longitude":7.253648,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chandieu Chemin De 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169620451,
-    "wof:lastmodified":1449035674,
+    "wof:lastmodified":1466209614,
     "wof:name":"Mozair S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.253648,47.135452,7.253648,47.135452],
+  "bbox": [
+    7.253648,
+    47.135452,
+    7.253648,
+    47.135452
+],
   "geometry": {"coordinates":[7.253648,47.135452],"type":"Point"}
 }

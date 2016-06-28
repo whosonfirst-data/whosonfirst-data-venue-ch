@@ -2,13 +2,14 @@
   "id": 219766569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.1853,46.171909,7.1853,46.171909",
     "geom:latitude":46.171909,
     "geom:longitude":7.1853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1913",
     "sg:city":"Saillon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219766569,
-    "wof:lastmodified":1449070334,
+    "wof:lastmodified":1466212402,
     "wof:name":"Restaurant La Tour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "restaurant"
     ]
 },
-  "bbox": [7.1853,46.171909,7.1853,46.171909],
+  "bbox": [
+    7.1853,
+    46.171909,
+    7.1853,
+    46.171909
+],
   "geometry": {"coordinates":[7.1853,46.171909],"type":"Point"}
 }

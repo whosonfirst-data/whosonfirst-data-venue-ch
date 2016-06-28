@@ -2,13 +2,14 @@
   "id": 252838733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.531101,47.383961,8.531101,47.383961",
     "geom:latitude":47.383961,
     "geom:longitude":8.531101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langstrasse 238",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252838733,
-    "wof:lastmodified":1449005531,
+    "wof:lastmodified":1466210331,
     "wof:name":"Jakob Nogatsch Textilien",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.531101,47.383961,8.531101,47.383961],
+  "bbox": [
+    8.531101,
+    47.383961,
+    8.531101,
+    47.383961
+],
   "geometry": {"coordinates":[8.531101,47.383961],"type":"Point"}
 }

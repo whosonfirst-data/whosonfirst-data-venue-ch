@@ -2,13 +2,14 @@
   "id": 252789641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.535012,46.293522,7.535012,46.293522",
     "geom:latitude":46.293522,
     "geom:longitude":7.535012,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Bourg 29",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252789641,
-    "wof:lastmodified":1449005903,
+    "wof:lastmodified":1466209783,
     "wof:name":"Antille Fernand Antiquit\u00e9s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.535012,46.293522,7.535012,46.293522],
+  "bbox": [
+    7.535012,
+    46.293522,
+    7.535012,
+    46.293522
+],
   "geometry": {"coordinates":[7.535012,46.293522],"type":"Point"}
 }

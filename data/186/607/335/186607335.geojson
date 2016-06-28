@@ -2,13 +2,14 @@
   "id": 186607335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.94009,46.821899,6.94009,46.821899",
     "geom:latitude":46.821899,
     "geom:longitude":6.94009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Payerne Case Postale 383",
     "sg:city":"Payerne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186607335,
-    "wof:lastmodified":1449050664,
+    "wof:lastmodified":1466211990,
     "wof:name":"St\u00e9 Suisse Des Employ\u00e9s De Commerce,sect.de Payerne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.94009,46.821899,6.94009,46.821899],
+  "bbox": [
+    6.94009,
+    46.821899,
+    6.94009,
+    46.821899
+],
   "geometry": {"coordinates":[6.94009,46.821899],"type":"Point"}
 }

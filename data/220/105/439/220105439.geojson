@@ -2,13 +2,14 @@
   "id": 220105439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.949488,47.49593,8.949488,47.49593",
     "geom:latitude":47.49593,
     "geom:longitude":8.949488,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aadorferstrasse 22a",
     "sg:city":"W\u00e4ngi",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220105439,
-    "wof:lastmodified":1449074335,
+    "wof:lastmodified":1466209788,
     "wof:name":"Isler Schreinerei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.949488,47.49593,8.949488,47.49593],
+  "bbox": [
+    8.949488,
+    47.49593,
+    8.949488,
+    47.49593
+],
   "geometry": {"coordinates":[8.949488,47.49593],"type":"Point"}
 }

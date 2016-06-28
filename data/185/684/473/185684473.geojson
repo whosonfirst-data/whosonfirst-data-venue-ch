@@ -2,13 +2,14 @@
   "id": 185684473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.637736,46.517834,6.637736,46.517834",
     "geom:latitude":46.517834,
     "geom:longitude":6.637736,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Th\u00e9\u00e2tre 16 1005 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185684473,
-    "wof:lastmodified":1449007012,
+    "wof:lastmodified":1466210958,
     "wof:name":"Charles Bavaud Etude D'avocat",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.637736,46.517834,6.637736,46.517834],
+  "bbox": [
+    6.637736,
+    46.517834,
+    6.637736,
+    46.517834
+],
   "geometry": {"coordinates":[6.637736,46.517834],"type":"Point"}
 }

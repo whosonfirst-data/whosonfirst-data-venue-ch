@@ -2,13 +2,14 @@
   "id": 252918169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.496098,46.508224,6.496098,46.508224",
     "geom:latitude":46.508224,
     "geom:longitude":6.496098,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Grande 15",
     "sg:city":"Locarno",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252918169,
-    "wof:lastmodified":1449006133,
+    "wof:lastmodified":1466211204,
     "wof:name":"Claude Ticon Manly Sportswear",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.496098,46.508224,6.496098,46.508224],
+  "bbox": [
+    6.496098,
+    46.508224,
+    6.496098,
+    46.508224
+],
   "geometry": {"coordinates":[6.496098,46.508224],"type":"Point"}
 }

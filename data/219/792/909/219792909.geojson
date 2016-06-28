@@ -2,13 +2,14 @@
   "id": 219792909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528376,47.376446,8.528376,47.376446",
     "geom:latitude":47.376446,
     "geom:longitude":8.528376,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankerstrasse 116 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219792909,
-    "wof:lastmodified":1449071155,
+    "wof:lastmodified":1466212443,
     "wof:name":"Bunny's Bar, K\u00f6sker",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.528376,47.376446,8.528376,47.376446],
+  "bbox": [
+    8.528376,
+    47.376446,
+    8.528376,
+    47.376446
+],
   "geometry": {"coordinates":[8.528376,47.376446],"type":"Point"}
 }

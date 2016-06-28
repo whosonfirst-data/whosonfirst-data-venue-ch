@@ -2,13 +2,14 @@
   "id": 236229079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.545222,47.219479,7.545222,47.219479",
     "geom:latitude":47.219479,
     "geom:longitude":7.545222,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchweg 14",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236229079,
-    "wof:lastmodified":1449004446,
+    "wof:lastmodified":1466211130,
     "wof:name":"Naegeli J\u00fcrg Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.545222,47.219479,7.545222,47.219479],
+  "bbox": [
+    7.545222,
+    47.219479,
+    7.545222,
+    47.219479
+],
   "geometry": {"coordinates":[7.545222,47.219479],"type":"Point"}
 }

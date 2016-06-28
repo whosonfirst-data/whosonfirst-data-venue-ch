@@ -2,13 +2,14 @@
   "id": 252728825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.15632,47.09433,7.15632,47.09433",
     "geom:latitude":47.09433,
     "geom:longitude":7.15632,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleintwann 11",
     "sg:city":"Twann",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252728825,
-    "wof:lastmodified":1449005673,
+    "wof:lastmodified":1466209127,
     "wof:name":"Sauser Heinrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.15632,47.09433,7.15632,47.09433],
+  "bbox": [
+    7.15632,
+    47.09433,
+    7.15632,
+    47.09433
+],
   "geometry": {"coordinates":[7.15632,47.09433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219658259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.795024,47.04229,7.795024,47.04229",
     "geom:latitude":47.04229,
     "geom:longitude":7.795024,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurzeneistr. 3",
     "sg:city":"Wasen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219658259,
-    "wof:lastmodified":1449070302,
+    "wof:lastmodified":1466211948,
     "wof:name":"Raiffeisenkasse Wasen - Sumiswald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.795024,47.04229,7.795024,47.04229],
+  "bbox": [
+    7.795024,
+    47.04229,
+    7.795024,
+    47.04229
+],
   "geometry": {"coordinates":[7.795024,47.04229],"type":"Point"}
 }

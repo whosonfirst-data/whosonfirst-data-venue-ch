@@ -2,13 +2,14 @@
   "id": 185696755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.499421,47.42123,7.499421,47.42123",
     "geom:latitude":47.42123,
     "geom:longitude":7.499421,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6schenzstrasse 23 4242 Laufen. Postfach",
     "sg:city":"Laufen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185696755,
-    "wof:lastmodified":1449006727,
+    "wof:lastmodified":1466211059,
     "wof:name":"Dr.jgnaz Jermann Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.499421,47.42123,7.499421,47.42123],
+  "bbox": [
+    7.499421,
+    47.42123,
+    7.499421,
+    47.42123
+],
   "geometry": {"coordinates":[7.499421,47.42123],"type":"Point"}
 }

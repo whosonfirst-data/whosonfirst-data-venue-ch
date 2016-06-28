@@ -2,13 +2,14 @@
   "id": 186614311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.54517,47.211605,7.54517,47.211605",
     "geom:latitude":47.211605,
     "geom:longitude":7.54517,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Sternengasse 2 4500 Solothurn. Postfach 16",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186614311,
-    "wof:lastmodified":1449053093,
+    "wof:lastmodified":1466212141,
     "wof:name":"Kantonales Amt F\u00fcr Wirtschaft & Arbeit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.54517,47.211605,7.54517,47.211605],
+  "bbox": [
+    7.54517,
+    47.211605,
+    7.54517,
+    47.211605
+],
   "geometry": {"coordinates":[7.54517,47.211605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185613027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.485751,47.751228,8.485751,47.751228",
     "geom:latitude":47.751228,
     "geom:longitude":8.485751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gass 9",
     "sg:city":"Schleitheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185613027,
-    "wof:lastmodified":1449007362,
+    "wof:lastmodified":1466211637,
     "wof:name":"Meyer H. & G. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.485751,47.751228,8.485751,47.751228],
+  "bbox": [
+    8.485751,
+    47.751228,
+    8.485751,
+    47.751228
+],
   "geometry": {"coordinates":[8.485751,47.751228],"type":"Point"}
 }

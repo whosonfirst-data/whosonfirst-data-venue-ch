@@ -2,13 +2,14 @@
   "id": 219469733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.027143,46.194454,9.027143,46.194454",
     "geom:latitude":46.194454,
     "geom:longitude":9.027143,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Stazione 25",
     "sg:city":"Bellinzona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219469733,
-    "wof:lastmodified":1449074021,
+    "wof:lastmodified":1466210853,
     "wof:name":"Banca Del Gottardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.027143,46.194454,9.027143,46.194454],
+  "bbox": [
+    9.027143,
+    46.194454,
+    9.027143,
+    46.194454
+],
   "geometry": {"coordinates":[9.027143,46.194454],"type":"Point"}
 }

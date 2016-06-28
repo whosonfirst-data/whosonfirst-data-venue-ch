@@ -2,13 +2,14 @@
   "id": 202608213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.618008,46.723194,7.618008,46.723194",
     "geom:latitude":46.723194,
     "geom:longitude":7.618008,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosstrasse 9 6003 Luzern. Postfach",
     "sg:city":"Kehrsiten",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202608213,
-    "wof:lastmodified":1449061199,
+    "wof:lastmodified":1466209736,
     "wof:name":"Lauener Engineering Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.618008,46.723194,7.618008,46.723194],
+  "bbox": [
+    7.618008,
+    46.723194,
+    7.618008,
+    46.723194
+],
   "geometry": {"coordinates":[7.618008,46.723194],"type":"Point"}
 }

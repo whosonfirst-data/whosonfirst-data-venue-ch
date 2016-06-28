@@ -2,13 +2,14 @@
   "id": 219905203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.379025,47.438873,9.379025,47.438873",
     "geom:latitude":47.438873,
     "geom:longitude":9.379025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aelplistrasse",
     "sg:city":"Krinau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219905203,
-    "wof:lastmodified":1449071766,
+    "wof:lastmodified":1466212636,
     "wof:name":"Wohnbaugenossenschaft Lerchental",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.379025,47.438873,9.379025,47.438873],
+  "bbox": [
+    9.379025,
+    47.438873,
+    9.379025,
+    47.438873
+],
   "geometry": {"coordinates":[9.379025,47.438873],"type":"Point"}
 }

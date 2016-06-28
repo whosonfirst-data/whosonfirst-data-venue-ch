@@ -2,13 +2,14 @@
   "id": 219379677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.754494,47.410484,7.754494,47.410484",
     "geom:latitude":47.410484,
     "geom:longitude":7.754494,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lampenbergstrasse 14",
     "sg:city":"Niederdorf",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219379677,
-    "wof:lastmodified":1449072431,
+    "wof:lastmodified":1466209981,
     "wof:name":"Walliser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [7.754494,47.410484,7.754494,47.410484],
+  "bbox": [
+    7.754494,
+    47.410484,
+    7.754494,
+    47.410484
+],
   "geometry": {"coordinates":[7.754494,47.410484],"type":"Point"}
 }

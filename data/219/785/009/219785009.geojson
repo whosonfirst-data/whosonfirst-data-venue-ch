@@ -2,13 +2,14 @@
   "id": 219785009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539081,47.376621,8.539081,47.376621",
     "geom:latitude":47.376621,
     "geom:longitude":8.539081,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzengasse 16",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219785009,
-    "wof:lastmodified":1449073318,
+    "wof:lastmodified":1466212332,
     "wof:name":"Bar Rex",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.539081,47.376621,8.539081,47.376621],
+  "bbox": [
+    8.539081,
+    47.376621,
+    8.539081,
+    47.376621
+],
   "geometry": {"coordinates":[8.539081,47.376621],"type":"Point"}
 }

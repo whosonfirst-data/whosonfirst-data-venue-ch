@@ -2,13 +2,14 @@
   "id": 186516751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629105,46.734776,7.629105,46.734776",
     "geom:latitude":46.734776,
     "geom:longitude":7.629105,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnmattweg 7b",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186516751,
-    "wof:lastmodified":1449050917,
+    "wof:lastmodified":1466211581,
     "wof:name":"Sonnmatt Altersheim",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.629105,46.734776,7.629105,46.734776],
+  "bbox": [
+    7.629105,
+    46.734776,
+    7.629105,
+    46.734776
+],
   "geometry": {"coordinates":[7.629105,46.734776],"type":"Point"}
 }

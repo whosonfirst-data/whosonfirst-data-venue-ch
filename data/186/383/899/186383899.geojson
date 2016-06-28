@@ -2,13 +2,14 @@
   "id": 186383899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.602743,46.798504,7.602743,46.798504",
     "geom:latitude":46.798504,
     "geom:longitude":7.602743,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterhaldenstrasse 14a 3627 Heimberg. Postfach",
     "sg:city":"Heimberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186383899,
-    "wof:lastmodified":1449051515,
+    "wof:lastmodified":1466210465,
     "wof:name":"Trend-haus Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.602743,46.798504,7.602743,46.798504],
+  "bbox": [
+    7.602743,
+    46.798504,
+    7.602743,
+    46.798504
+],
   "geometry": {"coordinates":[7.602743,46.798504],"type":"Point"}
 }

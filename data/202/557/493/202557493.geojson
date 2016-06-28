@@ -2,13 +2,14 @@
   "id": 202557493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.579958,47.345531,8.579958,47.345531",
     "geom:latitude":47.345531,
     "geom:longitude":8.579958,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossbergstrasse 10a",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202557493,
-    "wof:lastmodified":1449061904,
+    "wof:lastmodified":1466209271,
     "wof:name":"Ingenieur Und Planungsb\u00fcro B\u00fchlmann",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.579958,47.345531,8.579958,47.345531],
+  "bbox": [
+    8.579958,
+    47.345531,
+    8.579958,
+    47.345531
+],
   "geometry": {"coordinates":[8.579958,47.345531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185706829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.441153,46.948166,7.441153,46.948166",
     "geom:latitude":46.948166,
     "geom:longitude":7.441153,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 5 3011 Bern. Postfach 2527",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185706829,
-    "wof:lastmodified":1449006718,
+    "wof:lastmodified":1466211164,
     "wof:name":"Friedli & Schnidrig Advokaturb\u00fcro",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.441153,46.948166,7.441153,46.948166],
+  "bbox": [
+    7.441153,
+    46.948166,
+    7.441153,
+    46.948166
+],
   "geometry": {"coordinates":[7.441153,46.948166],"type":"Point"}
 }

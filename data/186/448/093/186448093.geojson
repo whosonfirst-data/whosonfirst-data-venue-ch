@@ -2,13 +2,14 @@
   "id": 186448093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.653892,46.865368,8.653892,46.865368",
     "geom:latitude":46.865368,
     "geom:longitude":8.653892,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfbachstrasse 5",
     "sg:city":"Schattdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186448093,
-    "wof:lastmodified":1449052909,
+    "wof:lastmodified":1466210991,
     "wof:name":"Gebr. Brun Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.653892,46.865368,8.653892,46.865368],
+  "bbox": [
+    8.653892,
+    46.865368,
+    8.653892,
+    46.865368
+],
   "geometry": {"coordinates":[8.653892,46.865368],"type":"Point"}
 }

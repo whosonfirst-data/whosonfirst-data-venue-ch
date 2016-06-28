@@ -2,13 +2,14 @@
   "id": 236659749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529278,47.375355,8.529278,47.375355",
     "geom:latitude":47.375355,
     "geom:longitude":8.529278,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcllerstrasse 51",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236659749,
-    "wof:lastmodified":1449001940,
+    "wof:lastmodified":1466212816,
     "wof:name":"Daniel H. Fine Food & Catering Gmbh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.529278,47.375355,8.529278,47.375355],
+  "bbox": [
+    8.529278,
+    47.375355,
+    8.529278,
+    47.375355
+],
   "geometry": {"coordinates":[8.529278,47.375355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236469775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.528345,47.210236,7.528345,47.210236",
     "geom:latitude":47.210236,
     "geom:longitude":7.528345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 41",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236469775,
-    "wof:lastmodified":1449005353,
+    "wof:lastmodified":1466212523,
     "wof:name":"Kantonales Staatsarchiv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.528345,47.210236,7.528345,47.210236],
+  "bbox": [
+    7.528345,
+    47.210236,
+    7.528345,
+    47.210236
+],
   "geometry": {"coordinates":[7.528345,47.210236],"type":"Point"}
 }

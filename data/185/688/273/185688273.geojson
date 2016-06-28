@@ -2,13 +2,14 @@
   "id": 185688273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.499679,46.512566,6.499679,46.512566",
     "geom:latitude":46.512566,
     "geom:longitude":6.499679,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Des P\u00e2quis 16",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185688273,
-    "wof:lastmodified":1449007210,
+    "wof:lastmodified":1466210999,
     "wof:name":"De Haller Laffely Magnin Colombini & Ruggiero",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.499679,46.512566,6.499679,46.512566],
+  "bbox": [
+    6.499679,
+    46.512566,
+    6.499679,
+    46.512566
+],
   "geometry": {"coordinates":[6.499679,46.512566],"type":"Point"}
 }

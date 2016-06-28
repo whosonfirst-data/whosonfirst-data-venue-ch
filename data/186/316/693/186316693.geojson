@@ -2,13 +2,14 @@
   "id": 186316693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.592661,47.345196,8.592661,47.345196",
     "geom:latitude":47.345196,
     "geom:longitude":8.592661,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Forchstrasse 100",
     "sg:city":"Zollikerberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186316693,
-    "wof:lastmodified":1449052190,
+    "wof:lastmodified":1466209955,
     "wof:name":"Wepfer Bau Ag",
     "wof:parent_id":85800647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.592661,47.345196,8.592661,47.345196],
+  "bbox": [
+    8.592661,
+    47.345196,
+    8.592661,
+    47.345196
+],
   "geometry": {"coordinates":[8.592661,47.345196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253085813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.239413,47.572617,8.239413,47.572617",
     "geom:latitude":47.572617,
     "geom:longitude":8.239413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heuweg 8",
     "sg:city":"Kleind\u00f6ttingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253085813,
-    "wof:lastmodified":1449063558,
+    "wof:lastmodified":1466209772,
     "wof:name":"Hans Keller-binda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.239413,47.572617,8.239413,47.572617],
+  "bbox": [
+    8.239413,
+    47.572617,
+    8.239413,
+    47.572617
+],
   "geometry": {"coordinates":[8.239413,47.572617],"type":"Point"}
 }

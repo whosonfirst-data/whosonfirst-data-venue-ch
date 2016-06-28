@@ -2,13 +2,14 @@
   "id": 185638363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.590088,47.49337,7.590088,47.49337",
     "geom:latitude":47.49337,
     "geom:longitude":7.590088,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 22",
     "sg:city":"Reinach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185638363,
-    "wof:lastmodified":1449006674,
+    "wof:lastmodified":1466210044,
     "wof:name":"Beaver Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "adventure"
     ]
 },
-  "bbox": [7.590088,47.49337,7.590088,47.49337],
+  "bbox": [
+    7.590088,
+    47.49337,
+    7.590088,
+    47.49337
+],
   "geometry": {"coordinates":[7.590088,47.49337],"type":"Point"}
 }

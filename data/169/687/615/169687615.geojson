@@ -2,13 +2,14 @@
   "id": 169687615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.557825,47.418571,8.557825,47.418571",
     "geom:latitude":47.418571,
     "geom:longitude":8.557825,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4renmoosstrasse 76",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169687615,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466210666,
     "wof:name":"L. Kissling & Co Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "extruders"
     ]
 },
-  "bbox": [8.557825,47.418571,8.557825,47.418571],
+  "bbox": [
+    8.557825,
+    47.418571,
+    8.557825,
+    47.418571
+],
   "geometry": {"coordinates":[8.557825,47.418571],"type":"Point"}
 }

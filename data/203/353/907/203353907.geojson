@@ -2,13 +2,14 @@
   "id": 203353907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.7281,47.498482,8.7281,47.498482",
     "geom:latitude":47.498482,
     "geom:longitude":8.7281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Metzggasse 4",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203353907,
-    "wof:lastmodified":1449025445,
+    "wof:lastmodified":1466211071,
     "wof:name":"Dr.med.josi Rom Spezialarzt Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.7281,47.498482,8.7281,47.498482],
+  "bbox": [
+    8.7281,
+    47.498482,
+    8.7281,
+    47.498482
+],
   "geometry": {"coordinates":[8.7281,47.498482],"type":"Point"}
 }

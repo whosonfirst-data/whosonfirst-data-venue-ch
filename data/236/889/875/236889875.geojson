@@ -2,13 +2,14 @@
   "id": 236889875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.57377,47.409149,8.57377,47.409149",
     "geom:latitude":47.409149,
     "geom:longitude":8.57377,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luegislandstrasse 261",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236889875,
-    "wof:lastmodified":1449001631,
+    "wof:lastmodified":1466213012,
     "wof:name":"Duotel Telefonmarketing",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.57377,47.409149,8.57377,47.409149],
+  "bbox": [
+    8.57377,
+    47.409149,
+    8.57377,
+    47.409149
+],
   "geometry": {"coordinates":[8.57377,47.409149],"type":"Point"}
 }

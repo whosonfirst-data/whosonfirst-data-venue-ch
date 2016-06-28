@@ -2,13 +2,14 @@
   "id": 202519541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.187486,46.214222,6.187486,46.214222",
     "geom:latitude":46.214222,
     "geom:longitude":6.187486,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Planta 25",
     "sg:city":"Cologny",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202519541,
-    "wof:lastmodified":1449062470,
+    "wof:lastmodified":1466208905,
     "wof:name":"Godillot Fran\u00e7ois",
     "wof:parent_id":85799915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.187486,46.214222,6.187486,46.214222],
+  "bbox": [
+    6.187486,
+    46.214222,
+    6.187486,
+    46.214222
+],
   "geometry": {"coordinates":[6.187486,46.214222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236760753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.609862,47.362881,9.609862,47.362881",
     "geom:latitude":47.362881,
     "geom:longitude":9.609862,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanalstr. 15",
     "sg:city":"Kriessern",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236760753,
-    "wof:lastmodified":1449005095,
+    "wof:lastmodified":1466212985,
     "wof:name":"Eugster Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothes"
     ]
 },
-  "bbox": [9.609862,47.362881,9.609862,47.362881],
+  "bbox": [
+    9.609862,
+    47.362881,
+    9.609862,
+    47.362881
+],
   "geometry": {"coordinates":[9.609862,47.362881],"type":"Point"}
 }

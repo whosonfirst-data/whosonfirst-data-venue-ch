@@ -2,13 +2,14 @@
   "id": 236300251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574079,47.533646,7.574079,47.533646",
     "geom:latitude":47.533646,
     "geom:longitude":7.574079,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bottmingerstrasse 51",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236300251,
-    "wof:lastmodified":1449003521,
+    "wof:lastmodified":1466211714,
     "wof:name":"Hakan Erkal Taxi",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.574079,47.533646,7.574079,47.533646],
+  "bbox": [
+    7.574079,
+    47.533646,
+    7.574079,
+    47.533646
+],
   "geometry": {"coordinates":[7.574079,47.533646],"type":"Point"}
 }

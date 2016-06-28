@@ -2,13 +2,14 @@
   "id": 202458505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.541626,47.398354,8.541626,47.398354",
     "geom:latitude":47.398354,
     "geom:longitude":8.541626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 147 8023 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202458505,
-    "wof:lastmodified":1449061903,
+    "wof:lastmodified":1466210934,
     "wof:name":"D & M Natursteine Ag",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.541626,47.398354,8.541626,47.398354],
+  "bbox": [
+    8.541626,
+    47.398354,
+    8.541626,
+    47.398354
+],
   "geometry": {"coordinates":[8.541626,47.398354],"type":"Point"}
 }

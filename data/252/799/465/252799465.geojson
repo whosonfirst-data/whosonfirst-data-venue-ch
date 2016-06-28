@@ -2,13 +2,14 @@
   "id": 252799465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.964726,45.857151,8.964726,45.857151",
     "geom:latitude":45.857151,
     "geom:longitude":8.964726,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vallera 20",
     "sg:city":"Genestrerio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252799465,
-    "wof:lastmodified":1449006517,
+    "wof:lastmodified":1466209905,
     "wof:name":"Sanguin Antichita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.964726,45.857151,8.964726,45.857151],
+  "bbox": [
+    8.964726,
+    45.857151,
+    8.964726,
+    45.857151
+],
   "geometry": {"coordinates":[8.964726,45.857151],"type":"Point"}
 }

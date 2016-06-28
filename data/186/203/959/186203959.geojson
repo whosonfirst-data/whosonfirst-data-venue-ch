@@ -2,13 +2,14 @@
   "id": 186203959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.890267,46.292217,7.890267,46.292217",
     "geom:latitude":46.292217,
     "geom:longitude":7.890267,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantonsstrasse 38 3930 Visp. Postfach 279",
     "sg:city":"Visp",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186203959,
-    "wof:lastmodified":1449051567,
+    "wof:lastmodified":1466209118,
     "wof:name":"Schmid Pius Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.890267,46.292217,7.890267,46.292217],
+  "bbox": [
+    7.890267,
+    46.292217,
+    7.890267,
+    46.292217
+],
   "geometry": {"coordinates":[7.890267,46.292217],"type":"Point"}
 }

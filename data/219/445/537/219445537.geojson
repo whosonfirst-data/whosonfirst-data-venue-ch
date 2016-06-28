@@ -2,13 +2,14 @@
   "id": 219445537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.030121,47.184624,8.030121,47.184624",
     "geom:latitude":47.184624,
     "geom:longitude":8.030121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzmatt 11",
     "sg:city":"Wauwil",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219445537,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1466210595,
     "wof:name":"B\u00fchlmann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "balcony"
     ]
 },
-  "bbox": [8.030121,47.184624,8.030121,47.184624],
+  "bbox": [
+    8.030121,
+    47.184624,
+    8.030121,
+    47.184624
+],
   "geometry": {"coordinates":[8.030121,47.184624],"type":"Point"}
 }

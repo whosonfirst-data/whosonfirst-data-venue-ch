@@ -2,13 +2,14 @@
   "id": 185860883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.954735,46.008133,8.954735,46.008133",
     "geom:latitude":46.008133,
     "geom:longitude":8.954735,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Balestra 11 6900 Lugano. Postfach Caselle Postale 2802",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185860883,
-    "wof:lastmodified":1449007330,
+    "wof:lastmodified":1466209577,
     "wof:name":"Abn Amro Bank (svizzera)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.954735,46.008133,8.954735,46.008133],
+  "bbox": [
+    8.954735,
+    46.008133,
+    8.954735,
+    46.008133
+],
   "geometry": {"coordinates":[8.954735,46.008133],"type":"Point"}
 }

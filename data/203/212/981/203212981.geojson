@@ -2,13 +2,14 @@
   "id": 203212981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.991932,46.298649,6.991932,46.298649",
     "geom:latitude":46.298649,
     "geom:longitude":6.991932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Roveray 14",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203212981,
-    "wof:lastmodified":1449026208,
+    "wof:lastmodified":1466209616,
     "wof:name":"Dr M\u00e9d. Olivier Pyroth M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.991932,46.298649,6.991932,46.298649],
+  "bbox": [
+    6.991932,
+    46.298649,
+    6.991932,
+    46.298649
+],
   "geometry": {"coordinates":[6.991932,46.298649],"type":"Point"}
 }

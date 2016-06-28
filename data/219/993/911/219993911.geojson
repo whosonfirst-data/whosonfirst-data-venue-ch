@@ -2,13 +2,14 @@
   "id": 219993911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.241649,47.426651,9.241649,47.426651",
     "geom:latitude":47.426651,
     "geom:longitude":9.241649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grubenstrasse 39",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219993911,
-    "wof:lastmodified":1449071960,
+    "wof:lastmodified":1466212852,
     "wof:name":"Holzmarkt Plus Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.241649,47.426651,9.241649,47.426651],
+  "bbox": [
+    9.241649,
+    47.426651,
+    9.241649,
+    47.426651
+],
   "geometry": {"coordinates":[9.241649,47.426651],"type":"Point"}
 }

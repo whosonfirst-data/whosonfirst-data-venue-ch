@@ -2,13 +2,14 @@
   "id": 219441549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.960656,47.00843,6.960656,47.00843",
     "geom:latitude":47.00843,
     "geom:longitude":6.960656,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Milieu 3",
     "sg:city":"Buttes",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219441549,
-    "wof:lastmodified":1449070657,
+    "wof:lastmodified":1466210558,
     "wof:name":"Buffet Du Funiculaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.960656,47.00843,6.960656,47.00843],
+  "bbox": [
+    6.960656,
+    47.00843,
+    6.960656,
+    47.00843
+],
   "geometry": {"coordinates":[6.960656,47.00843],"type":"Point"}
 }

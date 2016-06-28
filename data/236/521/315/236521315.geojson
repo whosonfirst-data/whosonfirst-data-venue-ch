@@ -2,13 +2,14 @@
   "id": 236521315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.504483,47.556927,8.504483,47.556927",
     "geom:latitude":47.556927,
     "geom:longitude":8.504483,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Staltigstrasse 8",
     "sg:city":"Glattfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236521315,
-    "wof:lastmodified":1449005055,
+    "wof:lastmodified":1466212551,
     "wof:name":"Max Meili",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.504483,47.556927,8.504483,47.556927],
+  "bbox": [
+    8.504483,
+    47.556927,
+    8.504483,
+    47.556927
+],
   "geometry": {"coordinates":[8.504483,47.556927],"type":"Point"}
 }

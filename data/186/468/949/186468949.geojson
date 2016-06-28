@@ -2,13 +2,14 @@
   "id": 186468949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390432,46.934555,8.390432,46.934555",
     "geom:latitude":46.934555,
     "geom:longitude":8.390432,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4dtlistrasse 31 6383 Dallenwil. Postfach",
     "sg:city":"Dallenwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186468949,
-    "wof:lastmodified":1449052283,
+    "wof:lastmodified":1466211157,
     "wof:name":"Klaus Odermatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.390432,46.934555,8.390432,46.934555],
+  "bbox": [
+    8.390432,
+    46.934555,
+    8.390432,
+    46.934555
+],
   "geometry": {"coordinates":[8.390432,46.934555],"type":"Point"}
 }

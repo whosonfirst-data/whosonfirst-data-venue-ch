@@ -2,13 +2,14 @@
   "id": 236501385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.979132,47.241348,7.979132,47.241348",
     "geom:latitude":47.241348,
     "geom:longitude":7.979132,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosikonstrasse 8",
     "sg:city":"Reiden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236501385,
-    "wof:lastmodified":1449005282,
+    "wof:lastmodified":1466212526,
     "wof:name":"Erwin Erhart Gartenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.979132,47.241348,7.979132,47.241348],
+  "bbox": [
+    7.979132,
+    47.241348,
+    7.979132,
+    47.241348
+],
   "geometry": {"coordinates":[7.979132,47.241348],"type":"Point"}
 }

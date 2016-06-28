@@ -2,13 +2,14 @@
   "id": 186247027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.573865,47.340435,8.573865,47.340435",
     "geom:latitude":47.340435,
     "geom:longitude":8.573865,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rietholzstrasse 9",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186247027,
-    "wof:lastmodified":1449051940,
+    "wof:lastmodified":1466209450,
     "wof:name":"Wepfer Markus Bauberatung Ag",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.573865,47.340435,8.573865,47.340435],
+  "bbox": [
+    8.573865,
+    47.340435,
+    8.573865,
+    47.340435
+],
   "geometry": {"coordinates":[8.573865,47.340435],"type":"Point"}
 }

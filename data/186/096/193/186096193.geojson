@@ -2,13 +2,14 @@
   "id": 186096193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.677276,47.39027,7.677276,47.39027",
     "geom:latitude":47.39027,
     "geom:longitude":7.677276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 13",
     "sg:city":"Lauwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186096193,
-    "wof:lastmodified":1449051255,
+    "wof:lastmodified":1466210832,
     "wof:name":"Hans Wenger-wagner, Bauarbeiten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.677276,47.39027,7.677276,47.39027],
+  "bbox": [
+    7.677276,
+    47.39027,
+    7.677276,
+    47.39027
+],
   "geometry": {"coordinates":[7.677276,47.39027],"type":"Point"}
 }

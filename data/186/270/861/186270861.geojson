@@ -2,13 +2,14 @@
   "id": 186270861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.738092,47.49675,8.738092,47.49675",
     "geom:latitude":47.49675,
     "geom:longitude":8.738092,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Palmstrasse 8",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186270861,
-    "wof:lastmodified":1449050896,
+    "wof:lastmodified":1466209629,
     "wof:name":"Brack Hoch-& Tiefbau Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.738092,47.49675,8.738092,47.49675],
+  "bbox": [
+    8.738092,
+    47.49675,
+    8.738092,
+    47.49675
+],
   "geometry": {"coordinates":[8.738092,47.49675],"type":"Point"}
 }

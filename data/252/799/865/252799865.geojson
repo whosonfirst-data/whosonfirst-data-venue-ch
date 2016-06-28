@@ -2,13 +2,14 @@
   "id": 252799865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55645,47.364021,8.55645,47.364021",
     "geom:latitude":47.364021,
     "geom:longitude":8.55645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Forchstrasse 19",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252799865,
-    "wof:lastmodified":1449006517,
+    "wof:lastmodified":1466209909,
     "wof:name":"Robert Tanner Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55645,47.364021,8.55645,47.364021],
+  "bbox": [
+    8.55645,
+    47.364021,
+    8.55645,
+    47.364021
+],
   "geometry": {"coordinates":[8.55645,47.364021],"type":"Point"}
 }

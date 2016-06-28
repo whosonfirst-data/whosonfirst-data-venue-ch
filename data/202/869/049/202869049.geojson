@@ -2,13 +2,14 @@
   "id": 202869049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.865794,46.683575,7.865794,46.683575",
     "geom:latitude":46.683575,
     "geom:longitude":7.865794,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klosterstrasse 42",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202869049,
-    "wof:lastmodified":1449062450,
+    "wof:lastmodified":1466212102,
     "wof:name":"Trauffer, Hermann.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.865794,46.683575,7.865794,46.683575],
+  "bbox": [
+    7.865794,
+    46.683575,
+    7.865794,
+    46.683575
+],
   "geometry": {"coordinates":[7.865794,46.683575],"type":"Point"}
 }

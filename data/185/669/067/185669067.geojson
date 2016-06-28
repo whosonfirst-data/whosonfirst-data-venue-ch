@@ -2,13 +2,14 @@
   "id": 185669067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.398454,47.435829,9.398454,47.435829",
     "geom:latitude":47.435829,
     "geom:longitude":9.398454,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Emmenmattstrasse 5",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185669067,
-    "wof:lastmodified":1449006787,
+    "wof:lastmodified":1466211676,
     "wof:name":"B & B B\u00e4ttig & B\u00e4ttig Beschriftungen",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sign"
     ]
 },
-  "bbox": [9.398454,47.435829,9.398454,47.435829],
+  "bbox": [
+    9.398454,
+    47.435829,
+    9.398454,
+    47.435829
+],
   "geometry": {"coordinates":[9.398454,47.435829],"type":"Point"}
 }

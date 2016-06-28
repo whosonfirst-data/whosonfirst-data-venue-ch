@@ -2,13 +2,14 @@
   "id": 203422845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.630837,46.761517,7.630837,46.761517",
     "geom:latitude":46.761517,
     "geom:longitude":7.630837,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Krankenhausstrasse 5g",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203422845,
-    "wof:lastmodified":1449025073,
+    "wof:lastmodified":1466211815,
     "wof:name":"Dr.med.ulrike Krech Th\u00f6nen Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.630837,46.761517,7.630837,46.761517],
+  "bbox": [
+    7.630837,
+    46.761517,
+    7.630837,
+    46.761517
+],
   "geometry": {"coordinates":[7.630837,46.761517],"type":"Point"}
 }

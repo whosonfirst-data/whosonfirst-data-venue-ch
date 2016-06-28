@@ -2,13 +2,14 @@
   "id": 219262499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.379095,46.71196,6.379095,46.71196",
     "geom:latitude":46.71196,
     "geom:longitude":6.379095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1337",
     "sg:city":"Vallorbe",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219262499,
-    "wof:lastmodified":1449072582,
+    "wof:lastmodified":1466208909,
     "wof:name":"Claude S\u00e9moroz Garage Le Day",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.379095,46.71196,6.379095,46.71196],
+  "bbox": [
+    6.379095,
+    46.71196,
+    6.379095,
+    46.71196
+],
   "geometry": {"coordinates":[6.379095,46.71196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253011011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.044197,47.539707,8.044197,47.539707",
     "geom:latitude":47.539707,
     "geom:longitude":8.044197,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 10",
     "sg:city":"Kaisten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253011011,
-    "wof:lastmodified":1449065229,
+    "wof:lastmodified":1466209056,
     "wof:name":"Blumen Merkofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.044197,47.539707,8.044197,47.539707],
+  "bbox": [
+    8.044197,
+    47.539707,
+    8.044197,
+    47.539707
+],
   "geometry": {"coordinates":[8.044197,47.539707],"type":"Point"}
 }

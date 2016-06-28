@@ -2,13 +2,14 @@
   "id": 202721053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587949,47.49057,7.587949,47.49057",
     "geom:latitude":47.49057,
     "geom:longitude":7.587949,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstrasse 33",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202721053,
-    "wof:lastmodified":1449062638,
+    "wof:lastmodified":1466210787,
     "wof:name":"Stettler Konstruktion",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587949,47.49057,7.587949,47.49057],
+  "bbox": [
+    7.587949,
+    47.49057,
+    7.587949,
+    47.49057
+],
   "geometry": {"coordinates":[7.587949,47.49057],"type":"Point"}
 }

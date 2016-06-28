@@ -2,13 +2,14 @@
   "id": 219838161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525417,47.31065,8.525417,47.31065",
     "geom:latitude":47.31065,
     "geom:longitude":8.525417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisstrasse 16",
     "sg:city":"Adliswil",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219838161,
-    "wof:lastmodified":1449070817,
+    "wof:lastmodified":1466212534,
     "wof:name":"Bistro Bar Piccolino",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.525417,47.31065,8.525417,47.31065],
+  "bbox": [
+    8.525417,
+    47.31065,
+    8.525417,
+    47.31065
+],
   "geometry": {"coordinates":[8.525417,47.31065],"type":"Point"}
 }

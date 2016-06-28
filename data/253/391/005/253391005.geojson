@@ -2,13 +2,14 @@
   "id": 253391005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.583684,47.084785,7.583684,47.084785",
     "geom:latitude":47.084785,
     "geom:longitude":7.583684,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchserstrasse 18 5000 Aarau. Postfach",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253391005,
-    "wof:lastmodified":1449064722,
+    "wof:lastmodified":1466212117,
     "wof:name":"Bsh B\u00fcro Service Ag B\u00fcromaschinen &-m\u00f6bel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.583684,47.084785,7.583684,47.084785],
+  "bbox": [
+    7.583684,
+    47.084785,
+    7.583684,
+    47.084785
+],
   "geometry": {"coordinates":[7.583684,47.084785],"type":"Point"}
 }

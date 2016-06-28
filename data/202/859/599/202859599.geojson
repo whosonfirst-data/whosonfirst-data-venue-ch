@@ -2,13 +2,14 @@
   "id": 202859599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.063748,46.090183,7.063748,46.090183",
     "geom:latitude":46.090183,
     "geom:longitude":7.063748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Bourg 45",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202859599,
-    "wof:lastmodified":1449061910,
+    "wof:lastmodified":1466211837,
     "wof:name":"Saudan St\u00e9phane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.063748,46.090183,7.063748,46.090183],
+  "bbox": [
+    7.063748,
+    46.090183,
+    7.063748,
+    46.090183
+],
   "geometry": {"coordinates":[7.063748,46.090183],"type":"Point"}
 }

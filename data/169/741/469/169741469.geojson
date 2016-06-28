@@ -2,13 +2,14 @@
   "id": 169741469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.850067,46.458496,6.850067,46.458496",
     "geom:latitude":46.458496,
     "geom:longitude":6.850067,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofwiesenstrasse 135",
     "sg:city":"Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169741469,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1466211244,
     "wof:name":"Orior Holding Sa",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [6.850067,46.458496,6.850067,46.458496],
+  "bbox": [
+    6.850067,
+    46.458496,
+    6.850067,
+    46.458496
+],
   "geometry": {"coordinates":[6.850067,46.458496],"type":"Point"}
 }

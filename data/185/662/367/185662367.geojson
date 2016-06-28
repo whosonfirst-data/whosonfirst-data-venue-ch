@@ -2,13 +2,14 @@
   "id": 185662367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49462,47.021996,7.49462,47.021996",
     "geom:latitude":47.021996,
     "geom:longitude":7.49462,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenweg 21",
     "sg:city":"Sch\u00f6nb\u00fchl-urtenen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185662367,
-    "wof:lastmodified":1449007674,
+    "wof:lastmodified":1466210548,
     "wof:name":"Egli Druck Ag",
     "wof:parent_id":85800023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postcard"
     ]
 },
-  "bbox": [7.49462,47.021996,7.49462,47.021996],
+  "bbox": [
+    7.49462,
+    47.021996,
+    7.49462,
+    47.021996
+],
   "geometry": {"coordinates":[7.49462,47.021996],"type":"Point"}
 }

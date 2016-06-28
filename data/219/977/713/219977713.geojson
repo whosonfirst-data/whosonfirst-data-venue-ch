@@ -2,13 +2,14 @@
   "id": 219977713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.542527,47.309277,8.542527,47.309277",
     "geom:latitude":47.309277,
     "geom:longitude":8.542527,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemannenweg 33",
     "sg:city":"R\u00fcschlikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219977713,
-    "wof:lastmodified":1449074014,
+    "wof:lastmodified":1466212665,
     "wof:name":"Dalsheim Engineering Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.542527,47.309277,8.542527,47.309277],
+  "bbox": [
+    8.542527,
+    47.309277,
+    8.542527,
+    47.309277
+],
   "geometry": {"coordinates":[8.542527,47.309277],"type":"Point"}
 }

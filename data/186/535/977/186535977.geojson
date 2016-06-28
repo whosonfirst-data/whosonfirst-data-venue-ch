@@ -2,13 +2,14 @@
   "id": 186535977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.505785,46.935013,7.505785,46.935013",
     "geom:latitude":46.935013,
     "geom:longitude":7.505785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 43",
     "sg:city":"G\u00fcmligen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186535977,
-    "wof:lastmodified":1449050906,
+    "wof:lastmodified":1466211792,
     "wof:name":"Alterswohnheim G\u00fcmligen",
     "wof:parent_id":85800239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.505785,46.935013,7.505785,46.935013],
+  "bbox": [
+    7.505785,
+    46.935013,
+    7.505785,
+    46.935013
+],
   "geometry": {"coordinates":[7.505785,46.935013],"type":"Point"}
 }

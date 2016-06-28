@@ -2,13 +2,14 @@
   "id": 203393237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.75084,47.489902,8.75084,47.489902",
     "geom:latitude":47.489902,
     "geom:longitude":8.75084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6rnlistrasse 66",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203393237,
-    "wof:lastmodified":1449025511,
+    "wof:lastmodified":1466211461,
     "wof:name":"Dr.med.rahel Steinhauser Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.75084,47.489902,8.75084,47.489902],
+  "bbox": [
+    8.75084,
+    47.489902,
+    8.75084,
+    47.489902
+],
   "geometry": {"coordinates":[8.75084,47.489902],"type":"Point"}
 }

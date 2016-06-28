@@ -2,13 +2,14 @@
   "id": 219224647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.568645,46.941696,9.568645,46.941696",
     "geom:latitude":46.941696,
     "geom:longitude":9.568645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Salviastrasse 7 7205 Zizers. Postfach",
     "sg:city":"Zizers",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219224647,
-    "wof:lastmodified":1449072982,
+    "wof:lastmodified":1466211213,
     "wof:name":"Sauter Theodor Chemin\u00e9e, Ofenbau U. Plattenbel\u00e4ge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.568645,46.941696,9.568645,46.941696],
+  "bbox": [
+    9.568645,
+    46.941696,
+    9.568645,
+    46.941696
+],
   "geometry": {"coordinates":[9.568645,46.941696],"type":"Point"}
 }

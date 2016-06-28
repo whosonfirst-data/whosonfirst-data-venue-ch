@@ -2,13 +2,14 @@
   "id": 186161189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.373195,47.341042,7.373195,47.341042",
     "geom:latitude":47.341042,
     "geom:longitude":7.373195,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L'eglise 9",
     "sg:city":"Courrendlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186161189,
-    "wof:lastmodified":1449051427,
+    "wof:lastmodified":1466211532,
     "wof:name":"Niederh\u00e4user Jean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.373195,47.341042,7.373195,47.341042],
+  "bbox": [
+    7.373195,
+    47.341042,
+    7.373195,
+    47.341042
+],
   "geometry": {"coordinates":[7.373195,47.341042],"type":"Point"}
 }

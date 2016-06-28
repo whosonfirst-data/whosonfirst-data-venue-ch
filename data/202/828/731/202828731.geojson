@@ -2,13 +2,14 @@
   "id": 202828731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.491391,47.476498,9.491391,47.476498",
     "geom:latitude":47.476498,
     "geom:longitude":9.491391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Signalstrasse 22",
     "sg:city":"Rorschach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202828731,
-    "wof:lastmodified":1449061412,
+    "wof:lastmodified":1466211954,
     "wof:name":"G\u00f6tt Und Stieger Ag.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.491391,47.476498,9.491391,47.476498],
+  "bbox": [
+    9.491391,
+    47.476498,
+    9.491391,
+    47.476498
+],
   "geometry": {"coordinates":[9.491391,47.476498],"type":"Point"}
 }

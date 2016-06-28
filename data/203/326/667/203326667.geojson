@@ -2,13 +2,14 @@
   "id": 203326667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.416452,46.928154,7.416452,46.928154",
     "geom:latitude":46.928154,
     "geom:longitude":7.416452,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00f6nizstrasse 266",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203326667,
-    "wof:lastmodified":1449025734,
+    "wof:lastmodified":1466210799,
     "wof:name":"Dr.med.g\u00e9rard Bugnon Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.416452,46.928154,7.416452,46.928154],
+  "bbox": [
+    7.416452,
+    46.928154,
+    7.416452,
+    46.928154
+],
   "geometry": {"coordinates":[7.416452,46.928154],"type":"Point"}
 }

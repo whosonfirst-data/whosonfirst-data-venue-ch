@@ -2,13 +2,14 @@
   "id": 185684615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.638148,46.519756,6.638148,46.519756",
     "geom:latitude":46.519756,
     "geom:longitude":6.638148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Tribunal-f\u00e9d\u00e9ral 3 1005 Lausanne Case Postale 2452",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185684615,
-    "wof:lastmodified":1449007013,
+    "wof:lastmodified":1466210959,
     "wof:name":"Charton & Damond Etude D'avocat",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.638148,46.519756,6.638148,46.519756],
+  "bbox": [
+    6.638148,
+    46.519756,
+    6.638148,
+    46.519756
+],
   "geometry": {"coordinates":[6.638148,46.519756],"type":"Point"}
 }

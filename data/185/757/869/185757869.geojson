@@ -2,13 +2,14 @@
   "id": 185757869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.82918,47.102165,6.82918,47.102165",
     "geom:latitude":47.102165,
     "geom:longitude":6.82918,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Saint-pierre 2 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185757869,
-    "wof:lastmodified":1449007513,
+    "wof:lastmodified":1466211552,
     "wof:name":"Ch\u00e2telain & L'h\u00e9ritier Etude D'avocat & Notaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.82918,47.102165,6.82918,47.102165],
+  "bbox": [
+    6.82918,
+    47.102165,
+    6.82918,
+    47.102165
+],
   "geometry": {"coordinates":[6.82918,47.102165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185704635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.455737,47.482189,8.455737,47.482189",
     "geom:latitude":47.482189,
     "geom:longitude":8.455737,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 12 8157 Dielsdorf. Postfach 193",
     "sg:city":"Dielsdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185704635,
-    "wof:lastmodified":1449007025,
+    "wof:lastmodified":1466211111,
     "wof:name":"Emil Robert Meier Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.455737,47.482189,8.455737,47.482189],
+  "bbox": [
+    8.455737,
+    47.482189,
+    8.455737,
+    47.482189
+],
   "geometry": {"coordinates":[8.455737,47.482189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202802875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.069068,46.620506,7.069068,46.620506",
     "geom:latitude":46.620506,
     "geom:longitude":7.069068,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Chalamala 59",
     "sg:city":"Bulle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202802875,
-    "wof:lastmodified":1449062192,
+    "wof:lastmodified":1466211549,
     "wof:name":"Atrium Atelier D'architecture Bernard Pasquier Architecture Pasquier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.069068,46.620506,7.069068,46.620506],
+  "bbox": [
+    7.069068,
+    46.620506,
+    7.069068,
+    46.620506
+],
   "geometry": {"coordinates":[7.069068,46.620506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219515663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.596594,47.470459,7.596594,47.470459",
     "geom:latitude":47.470459,
     "geom:longitude":7.596594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 109",
     "sg:city":"Aesch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219515663,
-    "wof:lastmodified":1449071212,
+    "wof:lastmodified":1466211262,
     "wof:name":"Basellandschaftliche, Kantonalbank",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.596594,47.470459,7.596594,47.470459],
+  "bbox": [
+    7.596594,
+    47.470459,
+    7.596594,
+    47.470459
+],
   "geometry": {"coordinates":[7.596594,47.470459],"type":"Point"}
 }

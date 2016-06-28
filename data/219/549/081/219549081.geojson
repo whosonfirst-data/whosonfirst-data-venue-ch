@@ -2,13 +2,14 @@
   "id": 219549081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.445209,47.412575,9.445209,47.412575",
     "geom:latitude":47.412575,
     "geom:longitude":9.445209,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heubrig 165",
     "sg:city":"Speicher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219549081,
-    "wof:lastmodified":1449071374,
+    "wof:lastmodified":1466211585,
     "wof:name":"Ersparniskasse, Speicher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.445209,47.412575,9.445209,47.412575],
+  "bbox": [
+    9.445209,
+    47.412575,
+    9.445209,
+    47.412575
+],
   "geometry": {"coordinates":[9.445209,47.412575],"type":"Point"}
 }

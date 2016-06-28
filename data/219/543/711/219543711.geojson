@@ -2,13 +2,14 @@
   "id": 219543711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146545,46.204559,6.146545,46.204559",
     "geom:latitude":46.204559,
     "geom:longitude":6.146545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Crocicchio Cortogna 6",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219543711,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1466211537,
     "wof:name":"Dresdner Bank - Kleinwort Benson (suisse) Sa",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146545,46.204559,6.146545,46.204559],
+  "bbox": [
+    6.146545,
+    46.204559,
+    6.146545,
+    46.204559
+],
   "geometry": {"coordinates":[6.146545,46.204559],"type":"Point"}
 }

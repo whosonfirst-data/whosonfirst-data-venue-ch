@@ -2,13 +2,14 @@
   "id": 203240703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72056,47.349152,8.72056,47.349152",
     "geom:latitude":47.349152,
     "geom:longitude":8.72056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiestrasse 5",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203240703,
-    "wof:lastmodified":1449025136,
+    "wof:lastmodified":1466209918,
     "wof:name":"Dr.med. Barbara Fischer \u00c4rztin F\u00fcr Hom\u00f6opathie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72056,47.349152,8.72056,47.349152],
+  "bbox": [
+    8.72056,
+    47.349152,
+    8.72056,
+    47.349152
+],
   "geometry": {"coordinates":[8.72056,47.349152],"type":"Point"}
 }

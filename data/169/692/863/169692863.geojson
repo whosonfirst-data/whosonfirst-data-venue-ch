@@ -2,13 +2,14 @@
   "id": 169692863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.439055,46.947163,7.439055,46.947163",
     "geom:latitude":46.947163,
     "geom:longitude":7.439055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanengasse 1",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169692863,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210877,
     "wof:name":"Autork Ag",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [7.439055,46.947163,7.439055,46.947163],
+  "bbox": [
+    7.439055,
+    46.947163,
+    7.439055,
+    46.947163
+],
   "geometry": {"coordinates":[7.439055,46.947163],"type":"Point"}
 }

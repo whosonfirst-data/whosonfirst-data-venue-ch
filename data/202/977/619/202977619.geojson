@@ -2,13 +2,14 @@
   "id": 202977619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.416068,46.948101,7.416068,46.948101",
     "geom:latitude":46.948101,
     "geom:longitude":7.416068,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcterstrasse 8",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202977619,
-    "wof:lastmodified":1449062729,
+    "wof:lastmodified":1466212389,
     "wof:name":"Ernst Gerber Architekturb\u00fcro",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.416068,46.948101,7.416068,46.948101],
+  "bbox": [
+    7.416068,
+    46.948101,
+    7.416068,
+    46.948101
+],
   "geometry": {"coordinates":[7.416068,46.948101],"type":"Point"}
 }

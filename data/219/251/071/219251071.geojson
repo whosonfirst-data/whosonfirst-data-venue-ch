@@ -2,13 +2,14 @@
   "id": 219251071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.723084,47.249699,8.723084,47.249699",
     "geom:latitude":47.249699,
     "geom:longitude":8.723084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allenbergstrasse 16",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219251071,
-    "wof:lastmodified":1449070435,
+    "wof:lastmodified":1466211566,
     "wof:name":"Allenberggarage Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.723084,47.249699,8.723084,47.249699],
+  "bbox": [
+    8.723084,
+    47.249699,
+    8.723084,
+    47.249699
+],
   "geometry": {"coordinates":[8.723084,47.249699],"type":"Point"}
 }

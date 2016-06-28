@@ -2,13 +2,14 @@
   "id": 253112135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.505455,47.048302,7.505455,47.048302",
     "geom:latitude":47.048302,
     "geom:longitude":7.505455,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 20 3303 Jegenstorf. Postfach 36",
     "sg:city":"Jegenstorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253112135,
-    "wof:lastmodified":1449064180,
+    "wof:lastmodified":1466210059,
     "wof:name":"Kaufmann Optik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.505455,47.048302,7.505455,47.048302],
+  "bbox": [
+    7.505455,
+    47.048302,
+    7.505455,
+    47.048302
+],
   "geometry": {"coordinates":[7.505455,47.048302],"type":"Point"}
 }

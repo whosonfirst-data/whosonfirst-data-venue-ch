@@ -2,13 +2,14 @@
   "id": 203223759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628485,46.526356,6.628485,46.526356",
     "geom:latitude":46.526356,
     "geom:longitude":6.628485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Vinet 29",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203223759,
-    "wof:lastmodified":1449025073,
+    "wof:lastmodified":1466209726,
     "wof:name":"Dr M\u00e9d. Ren\u00e9 Lysek M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.628485,46.526356,6.628485,46.526356],
+  "bbox": [
+    6.628485,
+    46.526356,
+    6.628485,
+    46.526356
+],
   "geometry": {"coordinates":[6.628485,46.526356],"type":"Point"}
 }

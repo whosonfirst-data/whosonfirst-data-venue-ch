@@ -2,13 +2,14 @@
   "id": 202797983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522629,47.319096,8.522629,47.319096",
     "geom:latitude":47.319096,
     "geom:longitude":8.522629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Soodstrasse 57",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202797983,
-    "wof:lastmodified":1449062399,
+    "wof:lastmodified":1466211500,
     "wof:name":"Atelier 19, Sihler Hp.",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522629,47.319096,8.522629,47.319096],
+  "bbox": [
+    8.522629,
+    47.319096,
+    8.522629,
+    47.319096
+],
   "geometry": {"coordinates":[8.522629,47.319096],"type":"Point"}
 }

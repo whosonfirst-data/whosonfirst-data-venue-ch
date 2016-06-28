@@ -2,13 +2,14 @@
   "id": 202395291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44605,46.279324,7.44605,46.279324",
     "geom:latitude":46.279324,
     "geom:longitude":7.44605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Dailly 2",
     "sg:city":"Lens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202395291,
-    "wof:lastmodified":1449062287,
+    "wof:lastmodified":1466209672,
     "wof:name":"Bagnoud Jean-luc S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44605,46.279324,7.44605,46.279324],
+  "bbox": [
+    7.44605,
+    46.279324,
+    7.44605,
+    46.279324
+],
   "geometry": {"coordinates":[7.44605,46.279324],"type":"Point"}
 }

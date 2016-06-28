@@ -2,13 +2,14 @@
   "id": 186005145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.240147,47.100914,8.240147,47.100914",
     "geom:latitude":47.100914,
     "geom:longitude":8.240147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasenmoosstrasse 15 6023 Rothenburg. Postfach",
     "sg:city":"Buttisholz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186005145,
-    "wof:lastmodified":1449052809,
+    "wof:lastmodified":1466209003,
     "wof:name":"Aregger Ag Buttisholz Zweigbetrieb Rothenburg Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.240147,47.100914,8.240147,47.100914],
+  "bbox": [
+    8.240147,
+    47.100914,
+    8.240147,
+    47.100914
+],
   "geometry": {"coordinates":[8.240147,47.100914],"type":"Point"}
 }

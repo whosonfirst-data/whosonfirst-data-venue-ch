@@ -2,13 +2,14 @@
   "id": 202649101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.141425,46.183311,6.141425,46.183311",
     "geom:latitude":46.183311,
     "geom:longitude":6.141425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cigale Chemin De La 8 1010 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202649101,
-    "wof:lastmodified":1449061813,
+    "wof:lastmodified":1466210119,
     "wof:name":"Omarini Architecture",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.141425,46.183311,6.141425,46.183311],
+  "bbox": [
+    6.141425,
+    46.183311,
+    6.141425,
+    46.183311
+],
   "geometry": {"coordinates":[6.141425,46.183311],"type":"Point"}
 }

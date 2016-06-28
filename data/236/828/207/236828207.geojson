@@ -2,13 +2,14 @@
   "id": 236828207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.162193,46.805695,7.162193,46.805695",
     "geom:latitude":46.805695,
     "geom:longitude":7.162193,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Epouses 9",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236828207,
-    "wof:lastmodified":1449003302,
+    "wof:lastmodified":1466212921,
     "wof:name":"Fischer Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.162193,46.805695,7.162193,46.805695],
+  "bbox": [
+    7.162193,
+    46.805695,
+    7.162193,
+    46.805695
+],
   "geometry": {"coordinates":[7.162193,46.805695],"type":"Point"}
 }

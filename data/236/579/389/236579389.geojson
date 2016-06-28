@@ -2,13 +2,14 @@
   "id": 236579389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.7078,47.188747,7.7078,47.188747",
     "geom:latitude":47.188747,
     "geom:longitude":7.7078,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintergasse 16 3360 Herzogenbuchsee. Postfach 160",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236579389,
-    "wof:lastmodified":1449002545,
+    "wof:lastmodified":1466212554,
     "wof:name":"Ernst Ingold + Co. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.7078,47.188747,7.7078,47.188747],
+  "bbox": [
+    7.7078,
+    47.188747,
+    7.7078,
+    47.188747
+],
   "geometry": {"coordinates":[7.7078,47.188747],"type":"Point"}
 }

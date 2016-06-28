@@ -2,13 +2,14 @@
   "id": 202725145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.853067,46.183643,8.853067,46.183643",
     "geom:latitude":46.183643,
     "geom:longitude":8.853067,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Privata Vignascia 10",
     "sg:city":"Gordola",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202725145,
-    "wof:lastmodified":1449060732,
+    "wof:lastmodified":1466210823,
     "wof:name":"Studio D'architettura Arch. Jonny Crosio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.853067,46.183643,8.853067,46.183643],
+  "bbox": [
+    8.853067,
+    46.183643,
+    8.853067,
+    46.183643
+],
   "geometry": {"coordinates":[8.853067,46.183643],"type":"Point"}
 }

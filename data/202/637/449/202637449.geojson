@@ -2,13 +2,14 @@
   "id": 202637449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.444963,47.004425,7.444963,47.004425",
     "geom:latitude":47.004425,
     "geom:longitude":7.444963,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirzenfeldweg 9 3052 Zollikofen. Postfach",
     "sg:city":"Zollikofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202637449,
-    "wof:lastmodified":1449060115,
+    "wof:lastmodified":1466210009,
     "wof:name":"Mufo, Schweissberatung Gmbh Schweisstechnische Beratung Usw",
     "wof:parent_id":85800471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.444963,47.004425,7.444963,47.004425],
+  "bbox": [
+    7.444963,
+    47.004425,
+    7.444963,
+    47.004425
+],
   "geometry": {"coordinates":[7.444963,47.004425],"type":"Point"}
 }

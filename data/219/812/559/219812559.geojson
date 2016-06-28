@@ -2,13 +2,14 @@
   "id": 219812559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4683,46.306095,7.4683,46.306095",
     "geom:latitude":46.306095,
     "geom:longitude":7.4683,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Prado",
     "sg:city":"Crans-sur-sierre",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219812559,
-    "wof:lastmodified":1449070464,
+    "wof:lastmodified":1466212487,
     "wof:name":"Memphis Piano-bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4683,46.306095,7.4683,46.306095],
+  "bbox": [
+    7.4683,
+    46.306095,
+    7.4683,
+    46.306095
+],
   "geometry": {"coordinates":[7.4683,46.306095],"type":"Point"}
 }

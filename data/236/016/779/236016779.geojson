@@ -2,13 +2,14 @@
   "id": 236016779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.436885,47.425285,9.436885,47.425285",
     "geom:latitude":47.425285,
     "geom:longitude":9.436885,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaugentobelstrasse 44",
     "sg:city":"Speicherschwendi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236016779,
-    "wof:lastmodified":1449002103,
+    "wof:lastmodified":1466209032,
     "wof:name":"Rechsteiner Heiri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.436885,47.425285,9.436885,47.425285],
+  "bbox": [
+    9.436885,
+    47.425285,
+    9.436885,
+    47.425285
+],
   "geometry": {"coordinates":[9.436885,47.425285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219448055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.100234,46.206245,6.100234,46.206245",
     "geom:latitude":46.206245,
     "geom:longitude":6.100234,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00f6schenweg 15",
     "sg:city":"Birsfelden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219448055,
-    "wof:lastmodified":1449073741,
+    "wof:lastmodified":1466210618,
     "wof:name":"Eric Meylan Sa",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ball"
     ]
 },
-  "bbox": [6.100234,46.206245,6.100234,46.206245],
+  "bbox": [
+    6.100234,
+    46.206245,
+    6.100234,
+    46.206245
+],
   "geometry": {"coordinates":[6.100234,46.206245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203178421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.142885,46.194256,6.142885,46.194256",
     "geom:latitude":46.194256,
     "geom:longitude":6.142885,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Henri-christin\u00e9 5",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203178421,
-    "wof:lastmodified":1449026327,
+    "wof:lastmodified":1466209230,
     "wof:name":"Dr M\u00e9d. Fabien Higelin M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85800091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.142885,46.194256,6.142885,46.194256],
+  "bbox": [
+    6.142885,
+    46.194256,
+    6.142885,
+    46.194256
+],
   "geometry": {"coordinates":[6.142885,46.194256],"type":"Point"}
 }

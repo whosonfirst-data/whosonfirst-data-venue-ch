@@ -2,13 +2,14 @@
   "id": 202586941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.565128,46.880882,7.565128,46.880882",
     "geom:latitude":46.880882,
     "geom:longitude":7.565128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4renstutz 15",
     "sg:city":"M\u00fcnsingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202586941,
-    "wof:lastmodified":1449062357,
+    "wof:lastmodified":1466209538,
     "wof:name":"Jordi + Kolb Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.565128,46.880882,7.565128,46.880882],
+  "bbox": [
+    7.565128,
+    46.880882,
+    7.565128,
+    46.880882
+],
   "geometry": {"coordinates":[7.565128,46.880882],"type":"Point"}
 }

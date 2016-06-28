@@ -2,13 +2,14 @@
   "id": 185729005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632085,46.549347,6.632085,46.549347",
     "geom:latitude":46.549347,
     "geom:longitude":6.632085,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Ch\u00eane 22",
     "sg:city":"Mont-sur-lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185729005,
-    "wof:lastmodified":1449007443,
+    "wof:lastmodified":1466211701,
     "wof:name":"Monique Gisel Etude D'avocat",
     "wof:parent_id":85800151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.632085,46.549347,6.632085,46.549347],
+  "bbox": [
+    6.632085,
+    46.549347,
+    6.632085,
+    46.549347
+],
   "geometry": {"coordinates":[6.632085,46.549347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186613365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.418565,46.926495,7.418565,46.926495",
     "geom:latitude":46.926495,
     "geom:longitude":7.418565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wabersackerstrasse 110 3098 K\u00f6niz. Postfach 795",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186613365,
-    "wof:lastmodified":1449051625,
+    "wof:lastmodified":1466212129,
     "wof:name":"Arbeitsamt Der Gemeinde K\u00f6niz",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.418565,46.926495,7.418565,46.926495],
+  "bbox": [
+    7.418565,
+    46.926495,
+    7.418565,
+    46.926495
+],
   "geometry": {"coordinates":[7.418565,46.926495],"type":"Point"}
 }

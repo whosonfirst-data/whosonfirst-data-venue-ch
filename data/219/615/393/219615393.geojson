@@ -2,13 +2,14 @@
   "id": 219615393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.93412,47.519981,8.93412,47.519981",
     "geom:latitude":47.519981,
     "geom:longitude":8.93412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 40",
     "sg:city":"Matzendorf",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219615393,
-    "wof:lastmodified":1449071511,
+    "wof:lastmodified":1466211950,
     "wof:name":"Raiffeisenbank Matzingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.93412,47.519981,8.93412,47.519981],
+  "bbox": [
+    8.93412,
+    47.519981,
+    8.93412,
+    47.519981
+],
   "geometry": {"coordinates":[8.93412,47.519981],"type":"Point"}
 }

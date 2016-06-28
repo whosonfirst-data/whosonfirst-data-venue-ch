@@ -2,13 +2,14 @@
   "id": 185791659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.31005,47.055447,8.31005,47.055447",
     "geom:latitude":47.055447,
     "geom:longitude":8.31005,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jurastrasse 44 4900 Langenthal. Postfach",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185791659,
-    "wof:lastmodified":1449007860,
+    "wof:lastmodified":1466209055,
     "wof:name":"Peter M\u00f6ri Advokatur-& Notariatsb\u00fcro",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.31005,47.055447,8.31005,47.055447],
+  "bbox": [
+    8.31005,
+    47.055447,
+    8.31005,
+    47.055447
+],
   "geometry": {"coordinates":[8.31005,47.055447],"type":"Point"}
 }

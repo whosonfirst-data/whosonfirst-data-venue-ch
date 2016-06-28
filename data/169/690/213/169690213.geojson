@@ -2,13 +2,14 @@
   "id": 169690213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.458399,47.748993,8.458399,47.748993",
     "geom:latitude":47.748993,
     "geom:longitude":8.458399,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberwiesenweg 2 8226 Schleitheim. Postfach 133",
     "sg:city":"Schleitheim",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169690213,
-    "wof:lastmodified":1449034429,
+    "wof:lastmodified":1466210739,
     "wof:name":"Gonon Isolation Ag (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.458399,47.748993,8.458399,47.748993],
+  "bbox": [
+    8.458399,
+    47.748993,
+    8.458399,
+    47.748993
+],
   "geometry": {"coordinates":[8.458399,47.748993],"type":"Point"}
 }

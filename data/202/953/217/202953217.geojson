@@ -2,13 +2,14 @@
   "id": 202953217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.419218,46.932556,7.419218,46.932556",
     "geom:latitude":46.932556,
     "geom:longitude":7.419218,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldeggstrasse 47",
     "sg:city":"Liebefeld",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202953217,
-    "wof:lastmodified":1449061836,
+    "wof:lastmodified":1466212227,
     "wof:name":"Barben Architekten",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.419218,46.932556,7.419218,46.932556],
+  "bbox": [
+    7.419218,
+    46.932556,
+    7.419218,
+    46.932556
+],
   "geometry": {"coordinates":[7.419218,46.932556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185953615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.159437,47.408878,7.159437,47.408878",
     "geom:latitude":47.408878,
     "geom:longitude":7.159437,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Ch\u00e2teau 22",
     "sg:city":"Cornol",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185953615,
-    "wof:lastmodified":1449007697,
+    "wof:lastmodified":1466210317,
     "wof:name":"Schneider Jean-louis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.159437,47.408878,7.159437,47.408878],
+  "bbox": [
+    7.159437,
+    47.408878,
+    7.159437,
+    47.408878
+],
   "geometry": {"coordinates":[7.159437,47.408878],"type":"Point"}
 }

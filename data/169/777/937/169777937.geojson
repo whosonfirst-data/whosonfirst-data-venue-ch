@@ -2,13 +2,14 @@
   "id": 169777937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.437046,46.956299,7.437046,46.956299",
     "geom:latitude":46.956299,
     "geom:longitude":7.437046,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittelstrasse 55",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169777937,
-    "wof:lastmodified":1449034428,
+    "wof:lastmodified":1466208895,
     "wof:name":"Text Wear",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.437046,46.956299,7.437046,46.956299],
+  "bbox": [
+    7.437046,
+    46.956299,
+    7.437046,
+    46.956299
+],
   "geometry": {"coordinates":[7.437046,46.956299],"type":"Point"}
 }

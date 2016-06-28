@@ -2,13 +2,14 @@
   "id": 219246319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.297012,47.407299,9.297012,47.407299",
     "geom:latitude":47.407299,
     "geom:longitude":9.297012,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 29",
     "sg:city":"Messen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219246319,
-    "wof:lastmodified":1449070624,
+    "wof:lastmodified":1466211491,
     "wof:name":"Breitfeld-garage Ag Mercedes-benz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.297012,47.407299,9.297012,47.407299],
+  "bbox": [
+    9.297012,
+    47.407299,
+    9.297012,
+    47.407299
+],
   "geometry": {"coordinates":[9.297012,47.407299],"type":"Point"}
 }

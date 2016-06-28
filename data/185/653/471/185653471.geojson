@@ -2,13 +2,14 @@
   "id": 185653471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.50294,47.01112,9.50294,47.01112",
     "geom:latitude":47.01112,
     "geom:longitude":9.50294,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Milit\u00e4rstrasse 76",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185653471,
-    "wof:lastmodified":1449006722,
+    "wof:lastmodified":1466210368,
     "wof:name":"Plastic Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plastic"
     ]
 },
-  "bbox": [9.50294,47.01112,9.50294,47.01112],
+  "bbox": [
+    9.50294,
+    47.01112,
+    9.50294,
+    47.01112
+],
   "geometry": {"coordinates":[9.50294,47.01112],"type":"Point"}
 }

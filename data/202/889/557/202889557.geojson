@@ -2,13 +2,14 @@
   "id": 202889557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.620036,47.500366,7.620036,47.500366",
     "geom:latitude":47.500366,
     "geom:longitude":7.620036,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reichensteinerstrasse 3 4144 Arlesheim. Postfach 659",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202889557,
-    "wof:lastmodified":1449060064,
+    "wof:lastmodified":1466212079,
     "wof:name":"Jermann Ingenieure Und Geometer Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.620036,47.500366,7.620036,47.500366],
+  "bbox": [
+    7.620036,
+    47.500366,
+    7.620036,
+    47.500366
+],
   "geometry": {"coordinates":[7.620036,47.500366],"type":"Point"}
 }

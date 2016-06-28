@@ -2,13 +2,14 @@
   "id": 219725179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.918853,47.312996,7.918853,47.312996",
     "geom:latitude":47.312996,
     "geom:longitude":7.918853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstr. 1",
     "sg:city":"Oftringen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219725179,
-    "wof:lastmodified":1449071255,
+    "wof:lastmodified":1466212296,
     "wof:name":"Sparkasse Oftringen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.918853,47.312996,7.918853,47.312996],
+  "bbox": [
+    7.918853,
+    47.312996,
+    7.918853,
+    47.312996
+],
   "geometry": {"coordinates":[7.918853,47.312996],"type":"Point"}
 }

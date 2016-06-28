@@ -2,13 +2,14 @@
   "id": 202622537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.68584,45.246052,0.68584,45.246052",
     "geom:latitude":45.246052,
     "geom:longitude":0.68584,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1837",
     "sg:city":"Ch\u00e2teau-d'oex",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202622537,
-    "wof:lastmodified":1449062205,
+    "wof:lastmodified":1466209868,
     "wof:name":"Martin Daniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.68584,45.246052,0.68584,45.246052],
+  "bbox": [
+    0.68584,
+    45.246052,
+    0.68584,
+    45.246052
+],
   "geometry": {"coordinates":[0.68584,45.246052],"type":"Point"}
 }

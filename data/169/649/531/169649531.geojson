@@ -2,13 +2,14 @@
   "id": 169649531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.514457,47.3298,8.514457,47.3298",
     "geom:latitude":47.3298,
     "geom:longitude":8.514457,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleeweidstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169649531,
-    "wof:lastmodified":1449034941,
+    "wof:lastmodified":1466210072,
     "wof:name":"Intechnik Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bellow"
     ]
 },
-  "bbox": [8.514457,47.3298,8.514457,47.3298],
+  "bbox": [
+    8.514457,
+    47.3298,
+    8.514457,
+    47.3298
+],
   "geometry": {"coordinates":[8.514457,47.3298],"type":"Point"}
 }

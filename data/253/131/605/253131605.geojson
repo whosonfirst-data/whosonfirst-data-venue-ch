@@ -2,13 +2,14 @@
   "id": 253131605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.002329,47.367786,8.002329,47.367786",
     "geom:latitude":47.367786,
     "geom:longitude":8.002329,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quartierstrasse 22",
     "sg:city":"Sch\u00f6nenwerd",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253131605,
-    "wof:lastmodified":1449063711,
+    "wof:lastmodified":1466210283,
     "wof:name":"Andreas Studer B\u00e4ckerei-konditorei",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.002329,47.367786,8.002329,47.367786],
+  "bbox": [
+    8.002329,
+    47.367786,
+    8.002329,
+    47.367786
+],
   "geometry": {"coordinates":[8.002329,47.367786],"type":"Point"}
 }

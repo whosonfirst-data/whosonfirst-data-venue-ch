@@ -2,13 +2,14 @@
   "id": 186499777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.284416,47.074661,8.284416,47.074661",
     "geom:latitude":47.074661,
     "geom:longitude":8.284416,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberhofstrasse 25",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186499777,
-    "wof:lastmodified":1449050916,
+    "wof:lastmodified":1466211435,
     "wof:name":"Betagtenzentrum Herdschwand",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [8.284416,47.074661,8.284416,47.074661],
+  "bbox": [
+    8.284416,
+    47.074661,
+    8.284416,
+    47.074661
+],
   "geometry": {"coordinates":[8.284416,47.074661],"type":"Point"}
 }

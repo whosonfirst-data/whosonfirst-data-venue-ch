@@ -2,13 +2,14 @@
   "id": 202738793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.669497,46.730278,7.669497,46.730278",
     "geom:latitude":46.730278,
     "geom:longitude":7.669497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenmattweg 10 4532 Feldbrunnen. Postfach",
     "sg:city":"Feldbrunnen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202738793,
-    "wof:lastmodified":1449061953,
+    "wof:lastmodified":1466210954,
     "wof:name":"Terraplan Dr.hans Schwarz",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.669497,46.730278,7.669497,46.730278],
+  "bbox": [
+    7.669497,
+    46.730278,
+    7.669497,
+    46.730278
+],
   "geometry": {"coordinates":[7.669497,46.730278],"type":"Point"}
 }

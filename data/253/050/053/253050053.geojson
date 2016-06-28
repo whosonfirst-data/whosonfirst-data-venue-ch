@@ -2,13 +2,14 @@
   "id": 253050053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.582868,47.557121,7.582868,47.557121",
     "geom:latitude":47.557121,
     "geom:longitude":7.582868,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenmattstrasse 1 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253050053,
-    "wof:lastmodified":1449064456,
+    "wof:lastmodified":1466209420,
     "wof:name":"Blumenhaus Am Spalenbrunnen, E. Und K. Neuenschwander",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.582868,47.557121,7.582868,47.557121],
+  "bbox": [
+    7.582868,
+    47.557121,
+    7.582868,
+    47.557121
+],
   "geometry": {"coordinates":[7.582868,47.557121],"type":"Point"}
 }

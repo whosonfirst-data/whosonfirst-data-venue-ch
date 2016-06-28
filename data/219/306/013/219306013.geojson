@@ -2,13 +2,14 @@
   "id": 219306013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.47463,47.541378,8.47463,47.541378",
     "geom:latitude":47.541378,
     "geom:longitude":8.47463,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Birchi 2",
     "sg:city":"Windlach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219306013,
-    "wof:lastmodified":1449073753,
+    "wof:lastmodified":1466209301,
     "wof:name":"Peter Aeschbacher Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.47463,47.541378,8.47463,47.541378],
+  "bbox": [
+    8.47463,
+    47.541378,
+    8.47463,
+    47.541378
+],
   "geometry": {"coordinates":[8.47463,47.541378],"type":"Point"}
 }

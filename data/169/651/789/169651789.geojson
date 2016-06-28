@@ -2,13 +2,14 @@
   "id": 169651789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.537911,47.549736,7.537911,47.549736",
     "geom:latitude":47.549736,
     "geom:longitude":7.537911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberwilerstrasse 28",
     "sg:city":"Allschwil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169651789,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466210116,
     "wof:name":"Teamprint Gmbh",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "book"
     ]
 },
-  "bbox": [7.537911,47.549736,7.537911,47.549736],
+  "bbox": [
+    7.537911,
+    47.549736,
+    7.537911,
+    47.549736
+],
   "geometry": {"coordinates":[7.537911,47.549736],"type":"Point"}
 }

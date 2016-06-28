@@ -2,13 +2,14 @@
   "id": 202684739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.310767,46.982883,8.310767,46.982883",
     "geom:latitude":46.982883,
     "geom:longitude":8.310767,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofweg 14",
     "sg:city":"Wiedlisbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202684739,
-    "wof:lastmodified":1449060750,
+    "wof:lastmodified":1466210448,
     "wof:name":"Ridest Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.310767,46.982883,8.310767,46.982883],
+  "bbox": [
+    8.310767,
+    46.982883,
+    8.310767,
+    46.982883
+],
   "geometry": {"coordinates":[8.310767,46.982883],"type":"Point"}
 }

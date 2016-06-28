@@ -2,13 +2,14 @@
   "id": 186476903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.402183,47.43729,9.402183,47.43729",
     "geom:latitude":47.43729,
     "geom:longitude":9.402183,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Sternengasse 2 4500 Solothurn. Postfach 16",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186476903,
-    "wof:lastmodified":1449051454,
+    "wof:lastmodified":1466211240,
     "wof:name":"Ostschweiz. Ahv-ausgleichs- Kasse F\u00fcr Handel & Industrie",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.402183,47.43729,9.402183,47.43729],
+  "bbox": [
+    9.402183,
+    47.43729,
+    9.402183,
+    47.43729
+],
   "geometry": {"coordinates":[9.402183,47.43729],"type":"Point"}
 }

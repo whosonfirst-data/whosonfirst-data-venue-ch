@@ -2,13 +2,14 @@
   "id": 219347137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.725145,47.49987,7.725145,47.49987",
     "geom:latitude":47.49987,
     "geom:longitude":7.725145,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammerstrasse 19",
     "sg:city":"Liestal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219347137,
-    "wof:lastmodified":1449072100,
+    "wof:lastmodified":1466209669,
     "wof:name":"Turm Garage Marco Cocquio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.725145,47.49987,7.725145,47.49987],
+  "bbox": [
+    7.725145,
+    47.49987,
+    7.725145,
+    47.49987
+],
   "geometry": {"coordinates":[7.725145,47.49987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169822257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.969108,47.465313,8.969108,47.465313",
     "geom:latitude":47.465313,
     "geom:longitude":8.969108,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maiacherstrasse 25",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169822257,
-    "wof:lastmodified":1449035863,
+    "wof:lastmodified":1466209221,
     "wof:name":"Vetter Ed. Ag, Lommis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.969108,47.465313,8.969108,47.465313],
+  "bbox": [
+    8.969108,
+    47.465313,
+    8.969108,
+    47.465313
+],
   "geometry": {"coordinates":[8.969108,47.465313],"type":"Point"}
 }

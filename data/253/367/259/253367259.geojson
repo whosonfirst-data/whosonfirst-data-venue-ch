@@ -2,13 +2,14 @@
   "id": 253367259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527643,47.393448,8.527643,47.393448",
     "geom:latitude":47.393448,
     "geom:longitude":8.527643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6schibachstrasse 69",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253367259,
-    "wof:lastmodified":1449064562,
+    "wof:lastmodified":1466212149,
     "wof:name":"Buchhandlung Tat Und Rat Gmbh",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527643,47.393448,8.527643,47.393448],
+  "bbox": [
+    8.527643,
+    47.393448,
+    8.527643,
+    47.393448
+],
   "geometry": {"coordinates":[8.527643,47.393448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186345235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591143,47.542519,7.591143,47.542519",
     "geom:latitude":47.542519,
     "geom:longitude":7.591143,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornacherstrasse 146",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186345235,
-    "wof:lastmodified":1449052812,
+    "wof:lastmodified":1466210174,
     "wof:name":"A-z Geb\u00e4uderenovationen Ag",
     "wof:parent_id":85799909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.591143,47.542519,7.591143,47.542519],
+  "bbox": [
+    7.591143,
+    47.542519,
+    7.591143,
+    47.542519
+],
   "geometry": {"coordinates":[7.591143,47.542519],"type":"Point"}
 }

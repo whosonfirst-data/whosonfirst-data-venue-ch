@@ -2,13 +2,14 @@
   "id": 202455349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.53037,46.853127,9.53037,46.853127",
     "geom:latitude":46.853127,
     "geom:longitude":9.53037,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 3",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202455349,
-    "wof:lastmodified":1449062256,
+    "wof:lastmodified":1466210893,
     "wof:name":"Conzett, Bronzini, Gartmann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.53037,46.853127,9.53037,46.853127],
+  "bbox": [
+    9.53037,
+    46.853127,
+    9.53037,
+    46.853127
+],
   "geometry": {"coordinates":[9.53037,46.853127],"type":"Point"}
 }

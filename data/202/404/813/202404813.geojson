@@ -2,13 +2,14 @@
   "id": 202404813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.319843,47.060837,8.319843,47.060837",
     "geom:latitude":47.060837,
     "geom:longitude":8.319843,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dreilindenstrasse 86 6006 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202404813,
-    "wof:lastmodified":1449061770,
+    "wof:lastmodified":1466209798,
     "wof:name":"Bendel H. Dr. Beratender Ingenieur, Gerichtsexpertisen In Schadenf\u00e4llen.",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.319843,47.060837,8.319843,47.060837],
+  "bbox": [
+    8.319843,
+    47.060837,
+    8.319843,
+    47.060837
+],
   "geometry": {"coordinates":[8.319843,47.060837],"type":"Point"}
 }

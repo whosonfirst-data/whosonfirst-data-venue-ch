@@ -2,13 +2,14 @@
   "id": 186485851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.815956,47.225872,8.815956,47.225872",
     "geom:latitude":47.225872,
     "geom:longitude":8.815956,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rigistrasse 3 6330 Cham. Postfach 584",
     "sg:city":"Cham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186485851,
-    "wof:lastmodified":1449051998,
+    "wof:lastmodified":1466211316,
     "wof:name":"Altersheim B\u00fcrgerspital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.815956,47.225872,8.815956,47.225872],
+  "bbox": [
+    8.815956,
+    47.225872,
+    8.815956,
+    47.225872
+],
   "geometry": {"coordinates":[8.815956,47.225872],"type":"Point"}
 }

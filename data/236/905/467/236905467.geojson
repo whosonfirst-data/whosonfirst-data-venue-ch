@@ -2,13 +2,14 @@
   "id": 236905467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.496119,47.242348,8.496119,47.242348",
     "geom:latitude":47.242348,
     "geom:longitude":8.496119,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 1 8911 Rifferswil. Postfach 19",
     "sg:city":"Rifferswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236905467,
-    "wof:lastmodified":1449002843,
+    "wof:lastmodified":1466212975,
     "wof:name":"Gutzwiller Informatik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.496119,47.242348,8.496119,47.242348],
+  "bbox": [
+    8.496119,
+    47.242348,
+    8.496119,
+    47.242348
+],
   "geometry": {"coordinates":[8.496119,47.242348],"type":"Point"}
 }

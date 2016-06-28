@@ -2,13 +2,14 @@
   "id": 169839825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575981,46.50079,7.575981,46.50079",
     "geom:latitude":46.50079,
     "geom:longitude":7.575981,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 118",
     "sg:city":"Adelboden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169839825,
-    "wof:lastmodified":1449034664,
+    "wof:lastmodified":1466209347,
     "wof:name":"Abwasserreinigungsanlage Adelboden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.575981,46.50079,7.575981,46.50079],
+  "bbox": [
+    7.575981,
+    46.50079,
+    7.575981,
+    46.50079
+],
   "geometry": {"coordinates":[7.575981,46.50079],"type":"Point"}
 }

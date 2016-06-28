@@ -2,13 +2,14 @@
   "id": 202915803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.832496,46.181076,8.832496,46.181076",
     "geom:latitude":46.181076,
     "geom:longitude":8.832496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Verbano 17a",
     "sg:city":"Minusio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202915803,
-    "wof:lastmodified":1449062612,
+    "wof:lastmodified":1466212298,
     "wof:name":"Marchetti Engineering Sagl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.832496,46.181076,8.832496,46.181076],
+  "bbox": [
+    8.832496,
+    46.181076,
+    8.832496,
+    46.181076
+],
   "geometry": {"coordinates":[8.832496,46.181076],"type":"Point"}
 }

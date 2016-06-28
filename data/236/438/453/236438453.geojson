@@ -2,13 +2,14 @@
   "id": 236438453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58445,47.085178,7.58445,47.085178",
     "geom:latitude":47.085178,
     "geom:longitude":7.58445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schluckmattstrasse 4",
     "sg:city":"Itingen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236438453,
-    "wof:lastmodified":1449002628,
+    "wof:lastmodified":1466212285,
     "wof:name":"Jugend-& Volksbibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "archive"
     ]
 },
-  "bbox": [7.58445,47.085178,7.58445,47.085178],
+  "bbox": [
+    7.58445,
+    47.085178,
+    7.58445,
+    47.085178
+],
   "geometry": {"coordinates":[7.58445,47.085178],"type":"Point"}
 }

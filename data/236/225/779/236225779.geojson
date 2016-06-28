@@ -2,13 +2,14 @@
   "id": 236225779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.552885,47.373322,8.552885,47.373322",
     "geom:latitude":47.373322,
     "geom:longitude":8.552885,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichbergstrasse 22 8000 Z\u00fcrich. Postfach 8032 Z\u00fcrich",
     "sg:city":"Zust",
     "sg:classifiers":[],
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":236225779,
-    "wof:lastmodified":1449002516,
+    "wof:lastmodified":1466211088,
     "wof:name":"Le Chic Enterprises Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.552885,47.373322,8.552885,47.373322],
+  "bbox": [
+    8.552885,
+    47.373322,
+    8.552885,
+    47.373322
+],
   "geometry": {"coordinates":[8.552885,47.373322],"type":"Point"}
 }

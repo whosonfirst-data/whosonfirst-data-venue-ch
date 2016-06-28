@@ -2,13 +2,14 @@
   "id": 169609097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.951995,47.364525,7.951995,47.364525",
     "geom:latitude":47.364525,
     "geom:longitude":7.951995,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Oberg\u00f6sgen",
     "sg:classifiers":[],
     "sg:orig_category":"Shopping U Fachgesch\u00e4fte, Nahrungs- U Genu\u00dfmittel",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":169609097,
-    "wof:lastmodified":1449033920,
+    "wof:lastmodified":1466209274,
     "wof:name":"Oberg\u00f6sgen Online",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.951995,47.364525,7.951995,47.364525],
+  "bbox": [
+    7.951995,
+    47.364525,
+    7.951995,
+    47.364525
+],
   "geometry": {"coordinates":[7.951995,47.364525],"type":"Point"}
 }

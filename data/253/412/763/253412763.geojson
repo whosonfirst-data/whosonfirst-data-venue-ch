@@ -2,13 +2,14 @@
   "id": 253412763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591416,47.565426,7.591416,47.565426",
     "geom:latitude":47.565426,
     "geom:longitude":7.591416,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haltingerstrasse 5",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253412763,
-    "wof:lastmodified":1449063419,
+    "wof:lastmodified":1466212242,
     "wof:name":"Anna Maria Cotoia Brautmode Lacori",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.591416,47.565426,7.591416,47.565426],
+  "bbox": [
+    7.591416,
+    47.565426,
+    7.591416,
+    47.565426
+],
   "geometry": {"coordinates":[7.591416,47.565426],"type":"Point"}
 }

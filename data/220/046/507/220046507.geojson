@@ -2,13 +2,14 @@
   "id": 220046507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.209698,47.396069,9.209698,47.396069",
     "geom:latitude":47.396069,
     "geom:longitude":9.209698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langenentschwil 1482",
     "sg:city":"Flawil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220046507,
-    "wof:lastmodified":1449074500,
+    "wof:lastmodified":1466209277,
     "wof:name":"Werner Reifler Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.209698,47.396069,9.209698,47.396069],
+  "bbox": [
+    9.209698,
+    47.396069,
+    9.209698,
+    47.396069
+],
   "geometry": {"coordinates":[9.209698,47.396069],"type":"Point"}
 }

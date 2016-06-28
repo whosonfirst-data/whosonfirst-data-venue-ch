@@ -2,13 +2,14 @@
   "id": 203371239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.733406,47.500076,8.733406,47.500076",
     "geom:latitude":47.500076,
     "geom:longitude":8.733406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obertor 1",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203371239,
-    "wof:lastmodified":1449026406,
+    "wof:lastmodified":1466211243,
     "wof:name":"Dr.med.marco Ermanni Spezialarzt Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.733406,47.500076,8.733406,47.500076],
+  "bbox": [
+    8.733406,
+    47.500076,
+    8.733406,
+    47.500076
+],
   "geometry": {"coordinates":[8.733406,47.500076],"type":"Point"}
 }

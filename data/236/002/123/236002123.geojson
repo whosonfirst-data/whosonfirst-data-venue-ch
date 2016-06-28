@@ -2,13 +2,14 @@
   "id": 236002123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.851187,46.842686,6.851187,46.842686",
     "geom:latitude":46.842686,
     "geom:longitude":6.851187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi Nord Le Piollet 27",
     "sg:city":"Estavayer-le-lac",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236002123,
-    "wof:lastmodified":1449004528,
+    "wof:lastmodified":1466208913,
     "wof:name":"Staviabois Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.851187,46.842686,6.851187,46.842686],
+  "bbox": [
+    6.851187,
+    46.842686,
+    6.851187,
+    46.842686
+],
   "geometry": {"coordinates":[6.851187,46.842686],"type":"Point"}
 }

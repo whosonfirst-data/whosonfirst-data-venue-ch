@@ -2,13 +2,14 @@
   "id": 253089653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.792904,47.555099,7.792904,47.555099",
     "geom:latitude":47.555099,
     "geom:longitude":7.792904,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 23 4310 Rheinfelden. Postfach",
     "sg:city":"Rheinfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253089653,
-    "wof:lastmodified":1449063412,
+    "wof:lastmodified":1466209814,
     "wof:name":"Delta Optik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.792904,47.555099,7.792904,47.555099],
+  "bbox": [
+    7.792904,
+    47.555099,
+    7.792904,
+    47.555099
+],
   "geometry": {"coordinates":[7.792904,47.555099],"type":"Point"}
 }

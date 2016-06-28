@@ -2,13 +2,14 @@
   "id": 203048027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.07366,46.101601,7.07366,46.101601",
     "geom:latitude":46.101601,
     "geom:longitude":7.07366,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Coll\u00e8ge 1",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203048027,
-    "wof:lastmodified":1449025585,
+    "wof:lastmodified":1466210116,
     "wof:name":"Michel Troillet Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.07366,46.101601,7.07366,46.101601],
+  "bbox": [
+    7.07366,
+    46.101601,
+    7.07366,
+    46.101601
+],
   "geometry": {"coordinates":[7.07366,46.101601],"type":"Point"}
 }

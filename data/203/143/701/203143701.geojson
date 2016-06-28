@@ -2,13 +2,14 @@
   "id": 203143701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.792093,46.168255,8.792093,46.168255",
     "geom:latitude":46.168255,
     "geom:longitude":8.792093,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Francesco 15",
     "sg:city":"Locarno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203143701,
-    "wof:lastmodified":1449026524,
+    "wof:lastmodified":1466211592,
     "wof:name":"Dott.med.marco Ferrazzini Specialista Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.792093,46.168255,8.792093,46.168255],
+  "bbox": [
+    8.792093,
+    46.168255,
+    8.792093,
+    46.168255
+],
   "geometry": {"coordinates":[8.792093,46.168255],"type":"Point"}
 }

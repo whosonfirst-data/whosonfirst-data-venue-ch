@@ -2,13 +2,14 @@
   "id": 202977239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.027445,46.194283,9.027445,46.194283",
     "geom:latitude":46.194283,
     "geom:longitude":9.027445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Stazione 30",
     "sg:city":"Bellinzona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202977239,
-    "wof:lastmodified":1449062728,
+    "wof:lastmodified":1466212475,
     "wof:name":"Ernesto Bolliger Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.027445,46.194283,9.027445,46.194283],
+  "bbox": [
+    9.027445,
+    46.194283,
+    9.027445,
+    46.194283
+],
   "geometry": {"coordinates":[9.027445,46.194283],"type":"Point"}
 }

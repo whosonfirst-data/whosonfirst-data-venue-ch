@@ -2,13 +2,14 @@
   "id": 202770581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.789562,47.466606,7.789562,47.466606",
     "geom:latitude":47.466606,
     "geom:longitude":7.789562,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Geissbrunnenweg 31",
     "sg:city":"Itingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202770581,
-    "wof:lastmodified":1449062704,
+    "wof:lastmodified":1466211250,
     "wof:name":"Wirotec W. Rombach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.789562,47.466606,7.789562,47.466606],
+  "bbox": [
+    7.789562,
+    47.466606,
+    7.789562,
+    47.466606
+],
   "geometry": {"coordinates":[7.789562,47.466606],"type":"Point"}
 }

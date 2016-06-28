@@ -2,13 +2,14 @@
   "id": 236574737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.579597,47.55904,7.579597,47.55904",
     "geom:latitude":47.55904,
     "geom:longitude":7.579597,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Missionsstrasse 8 4055 Basel. Postfach 231",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236574737,
-    "wof:lastmodified":1449001660,
+    "wof:lastmodified":1466212642,
     "wof:name":"F + W Treuhand Gmbh",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.579597,47.55904,7.579597,47.55904],
+  "bbox": [
+    7.579597,
+    47.55904,
+    7.579597,
+    47.55904
+],
   "geometry": {"coordinates":[7.579597,47.55904],"type":"Point"}
 }

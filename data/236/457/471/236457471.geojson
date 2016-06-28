@@ -2,13 +2,14 @@
   "id": 236457471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435256,46.946072,7.435256,46.946072",
     "geom:latitude":46.946072,
     "geom:longitude":7.435256,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seilerstrasse 9 3011 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236457471,
-    "wof:lastmodified":1449003946,
+    "wof:lastmodified":1466212512,
     "wof:name":"Schweizerisches Archiv F\u00fcr Brot Und Geb\u00e4ckkunde",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.435256,46.946072,7.435256,46.946072],
+  "bbox": [
+    7.435256,
+    46.946072,
+    7.435256,
+    46.946072
+],
   "geometry": {"coordinates":[7.435256,46.946072],"type":"Point"}
 }

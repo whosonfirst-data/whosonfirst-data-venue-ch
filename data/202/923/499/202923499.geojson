@@ -2,13 +2,14 @@
   "id": 202923499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.557995,46.961548,9.557995,46.961548",
     "geom:latitude":46.961548,
     "geom:longitude":9.557995,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aehrenstrasse 11",
     "sg:city":"Landquart",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202923499,
-    "wof:lastmodified":1449062555,
+    "wof:lastmodified":1466212233,
     "wof:name":"Lechmann Reto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.557995,46.961548,9.557995,46.961548],
+  "bbox": [
+    9.557995,
+    46.961548,
+    9.557995,
+    46.961548
+],
   "geometry": {"coordinates":[9.557995,46.961548],"type":"Point"}
 }

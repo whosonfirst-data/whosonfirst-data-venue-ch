@@ -2,13 +2,14 @@
   "id": 186227859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.991873,46.321922,7.991873,46.321922",
     "geom:latitude":46.321922,
     "geom:longitude":7.991873,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rhodaniastrasse 5",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186227859,
-    "wof:lastmodified":1449050982,
+    "wof:lastmodified":1466209303,
     "wof:name":"Theler Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.991873,46.321922,7.991873,46.321922],
+  "bbox": [
+    7.991873,
+    46.321922,
+    7.991873,
+    46.321922
+],
   "geometry": {"coordinates":[7.991873,46.321922],"type":"Point"}
 }

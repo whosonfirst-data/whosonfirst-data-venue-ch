@@ -2,13 +2,14 @@
   "id": 219775123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.786155,47.239429,8.786155,47.239429",
     "geom:latitude":47.239429,
     "geom:longitude":8.786155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 1",
     "sg:city":"Feldbach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219775123,
-    "wof:lastmodified":1449073010,
+    "wof:lastmodified":1466212413,
     "wof:name":"Bar Dirty Joe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.786155,47.239429,8.786155,47.239429],
+  "bbox": [
+    8.786155,
+    47.239429,
+    8.786155,
+    47.239429
+],
   "geometry": {"coordinates":[8.786155,47.239429],"type":"Point"}
 }

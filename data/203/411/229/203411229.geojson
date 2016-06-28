@@ -2,13 +2,14 @@
   "id": 203411229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.377367,47.425175,9.377367,47.425175",
     "geom:latitude":47.425175,
     "geom:longitude":9.377367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sierenzerstrasse 13",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203411229,
-    "wof:lastmodified":1449025043,
+    "wof:lastmodified":1466211736,
     "wof:name":"Dr.med.spiros Zisiadis Spezialarzt Fmh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.377367,47.425175,9.377367,47.425175],
+  "bbox": [
+    9.377367,
+    47.425175,
+    9.377367,
+    47.425175
+],
   "geometry": {"coordinates":[9.377367,47.425175],"type":"Point"}
 }

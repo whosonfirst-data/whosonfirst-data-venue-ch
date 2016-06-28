@@ -2,13 +2,14 @@
   "id": 202766327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.650603,47.702698,8.650603,47.702698",
     "geom:latitude":47.702698,
     "geom:longitude":8.650603,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grubenstrasse 115c",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202766327,
-    "wof:lastmodified":1449060074,
+    "wof:lastmodified":1466211212,
     "wof:name":"Werner Stutz Technisches B\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.650603,47.702698,8.650603,47.702698],
+  "bbox": [
+    8.650603,
+    47.702698,
+    8.650603,
+    47.702698
+],
   "geometry": {"coordinates":[8.650603,47.702698],"type":"Point"}
 }

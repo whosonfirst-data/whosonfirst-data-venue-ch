@@ -2,13 +2,14 @@
   "id": 203102239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.530648,46.864517,9.530648,46.864517",
     "geom:latitude":46.864517,
     "geom:longitude":9.530648,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesentalstrasse 164",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203102239,
-    "wof:lastmodified":1449026729,
+    "wof:lastmodified":1466211123,
     "wof:name":"Wilfried Reininger Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.530648,46.864517,9.530648,46.864517],
+  "bbox": [
+    9.530648,
+    46.864517,
+    9.530648,
+    46.864517
+],
   "geometry": {"coordinates":[9.530648,46.864517],"type":"Point"}
 }

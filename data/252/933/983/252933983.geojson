@@ -2,13 +2,14 @@
   "id": 252933983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.142947,47.149742,9.142947,47.149742",
     "geom:latitude":47.149742,
     "geom:longitude":9.142947,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterbergstrasse 2 8873 Amden. Postfach 140",
     "sg:city":"Amden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252933983,
-    "wof:lastmodified":1449005641,
+    "wof:lastmodified":1466211361,
     "wof:name":"Sporthaus Eberle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.142947,47.149742,9.142947,47.149742],
+  "bbox": [
+    9.142947,
+    47.149742,
+    9.142947,
+    47.149742
+],
   "geometry": {"coordinates":[9.142947,47.149742],"type":"Point"}
 }

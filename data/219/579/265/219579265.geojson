@@ -2,13 +2,14 @@
   "id": 219579265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.23351,47.414532,8.23351,47.414532",
     "geom:latitude":47.414532,
     "geom:longitude":8.23351,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00e4genwil",
     "sg:city":"M\u00e4genwil",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219579265,
-    "wof:lastmodified":1449071521,
+    "wof:lastmodified":1466211843,
     "wof:name":"Neue Aargauer Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.23351,47.414532,8.23351,47.414532],
+  "bbox": [
+    8.23351,
+    47.414532,
+    8.23351,
+    47.414532
+],
   "geometry": {"coordinates":[8.23351,47.414532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219848191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.065666,46.098347,7.065666,46.098347",
     "geom:latitude":46.098347,
     "geom:longitude":7.065666,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Fusion 62",
     "sg:city":"Martigny",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219848191,
-    "wof:lastmodified":1449070894,
+    "wof:lastmodified":1466212543,
     "wof:name":"Restaurant & Bar Martigny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.065666,46.098347,7.065666,46.098347],
+  "bbox": [
+    7.065666,
+    46.098347,
+    7.065666,
+    46.098347
+],
   "geometry": {"coordinates":[7.065666,46.098347],"type":"Point"}
 }

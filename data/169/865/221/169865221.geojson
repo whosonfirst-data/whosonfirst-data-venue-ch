@@ -2,13 +2,14 @@
   "id": 169865221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.625295,46.764099,7.625295,46.764099",
     "geom:latitude":46.764099,
     "geom:longitude":7.625295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossstrasse 39a",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169865221,
-    "wof:lastmodified":1449035152,
+    "wof:lastmodified":1466209494,
     "wof:name":"Rohr-reinigungs-service Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.625295,46.764099,7.625295,46.764099],
+  "bbox": [
+    7.625295,
+    46.764099,
+    7.625295,
+    46.764099
+],
   "geometry": {"coordinates":[7.625295,46.764099],"type":"Point"}
 }

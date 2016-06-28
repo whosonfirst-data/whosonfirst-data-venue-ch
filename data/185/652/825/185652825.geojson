@@ -2,13 +2,14 @@
   "id": 185652825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.663134,47.383125,8.663134,47.383125",
     "geom:latitude":47.383125,
     "geom:longitude":8.663134,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ifangstrasse 12",
     "sg:city":"Schwerzenbach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185652825,
-    "wof:lastmodified":1449007637,
+    "wof:lastmodified":1466210348,
     "wof:name":"Big Ideas",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plush"
     ]
 },
-  "bbox": [8.663134,47.383125,8.663134,47.383125],
+  "bbox": [
+    8.663134,
+    47.383125,
+    8.663134,
+    47.383125
+],
   "geometry": {"coordinates":[8.663134,47.383125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220068491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.27148,46.81274,7.27148,46.81274",
     "geom:latitude":46.81274,
     "geom:longitude":7.27148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seezelgstrasse 15",
     "sg:city":"Altnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220068491,
-    "wof:lastmodified":1449074446,
+    "wof:lastmodified":1466209472,
     "wof:name":"Aebischer Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.27148,46.81274,7.27148,46.81274],
+  "bbox": [
+    7.27148,
+    46.81274,
+    7.27148,
+    46.81274
+],
   "geometry": {"coordinates":[7.27148,46.81274],"type":"Point"}
 }

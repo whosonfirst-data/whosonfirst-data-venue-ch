@@ -2,13 +2,14 @@
   "id": 203313619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.73738,47.492165,8.73738,47.492165",
     "geom:latitude":47.492165,
     "geom:longitude":8.73738,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenbachstrasse 24",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203313619,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1466210671,
     "wof:name":"Dr.med.eva-maria Dinkel Aerztin F.allgemeine Medizin",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.73738,47.492165,8.73738,47.492165],
+  "bbox": [
+    8.73738,
+    47.492165,
+    8.73738,
+    47.492165
+],
   "geometry": {"coordinates":[8.73738,47.492165],"type":"Point"}
 }

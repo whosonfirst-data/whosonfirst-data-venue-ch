@@ -2,13 +2,14 @@
   "id": 186607781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.056152,46.620255,7.056152,46.620255",
     "geom:latitude":46.620255,
     "geom:longitude":7.056152,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hartbertstrasse 11 7000 Chur. Postfach",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186607781,
-    "wof:lastmodified":1449050663,
+    "wof:lastmodified":1466211994,
     "wof:name":"Syna Synd.interprofessionnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.056152,46.620255,7.056152,46.620255],
+  "bbox": [
+    7.056152,
+    46.620255,
+    7.056152,
+    46.620255
+],
   "geometry": {"coordinates":[7.056152,46.620255],"type":"Point"}
 }

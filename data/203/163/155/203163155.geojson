@@ -2,13 +2,14 @@
   "id": 203163155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.637295,46.51667,6.637295,46.51667",
     "geom:latitude":46.51667,
     "geom:longitude":6.637295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203163155,
-    "wof:lastmodified":1449026840,
+    "wof:lastmodified":1466209063,
     "wof:name":"Dr M\u00e9d. Christiane Golay M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.637295,46.51667,6.637295,46.51667],
+  "bbox": [
+    6.637295,
+    46.51667,
+    6.637295,
+    46.51667
+],
   "geometry": {"coordinates":[6.637295,46.51667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169622517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.135532,46.219887,6.135532,46.219887",
     "geom:latitude":46.219887,
     "geom:longitude":6.135532,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Giuseppe-motta 50",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169622517,
-    "wof:lastmodified":1449035369,
+    "wof:lastmodified":1466209655,
     "wof:name":"Pricewaterhousecoopers Sa",
     "wof:parent_id":85862455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditing"
     ]
 },
-  "bbox": [6.135532,46.219887,6.135532,46.219887],
+  "bbox": [
+    6.135532,
+    46.219887,
+    6.135532,
+    46.219887
+],
   "geometry": {"coordinates":[6.135532,46.219887],"type":"Point"}
 }

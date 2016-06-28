@@ -2,13 +2,14 @@
   "id": 236234055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.963103,46.008457,8.963103,46.008457",
     "geom:latitude":46.008457,
     "geom:longitude":8.963103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Maggio 19 6900 Lugano. Postfach",
     "sg:city":"Calprino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236234055,
-    "wof:lastmodified":1449005032,
+    "wof:lastmodified":1466211183,
     "wof:name":"Rusport Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.963103,46.008457,8.963103,46.008457],
+  "bbox": [
+    8.963103,
+    46.008457,
+    8.963103,
+    46.008457
+],
   "geometry": {"coordinates":[8.963103,46.008457],"type":"Point"}
 }

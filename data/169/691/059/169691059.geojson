@@ -2,13 +2,14 @@
   "id": 169691059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.717163,47.314392,8.717163,47.314392",
     "geom:latitude":47.314392,
     "geom:longitude":8.717163,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Auenstrasse 761 8617 M\u00f6nchaltorf. Postfach 124",
     "sg:city":"M\u00f6nchaltorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169691059,
-    "wof:lastmodified":1449032951,
+    "wof:lastmodified":1466210749,
     "wof:name":"Keller Fritz Ag, Chemische Fabrik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.717163,47.314392,8.717163,47.314392],
+  "bbox": [
+    8.717163,
+    47.314392,
+    8.717163,
+    47.314392
+],
   "geometry": {"coordinates":[8.717163,47.314392],"type":"Point"}
 }

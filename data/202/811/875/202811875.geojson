@@ -2,13 +2,14 @@
   "id": 202811875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.718324,47.350159,8.718324,47.350159",
     "geom:latitude":47.350159,
     "geom:longitude":8.718324,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldstrasse 39",
     "sg:city":"Oberhelfenschwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202811875,
-    "wof:lastmodified":1449061351,
+    "wof:lastmodified":1466211626,
     "wof:name":"Busenhart Fischer Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.718324,47.350159,8.718324,47.350159],
+  "bbox": [
+    8.718324,
+    47.350159,
+    8.718324,
+    47.350159
+],
   "geometry": {"coordinates":[8.718324,47.350159],"type":"Point"}
 }

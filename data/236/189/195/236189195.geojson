@@ -2,13 +2,14 @@
   "id": 236189195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.510665,47.377216,8.510665,47.377216",
     "geom:latitude":47.377216,
     "geom:longitude":8.510665,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedaustrasse 17",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236189195,
-    "wof:lastmodified":1449004084,
+    "wof:lastmodified":1466210692,
     "wof:name":"Managementcenter Sbs Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.510665,47.377216,8.510665,47.377216],
+  "bbox": [
+    8.510665,
+    47.377216,
+    8.510665,
+    47.377216
+],
   "geometry": {"coordinates":[8.510665,47.377216],"type":"Point"}
 }

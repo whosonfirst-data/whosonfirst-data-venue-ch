@@ -2,13 +2,14 @@
   "id": 236477851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54492,47.049641,8.54492,47.049641",
     "geom:latitude":47.049641,
     "geom:longitude":8.54492,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse",
     "sg:city":"Goldau",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236477851,
-    "wof:lastmodified":1449002098,
+    "wof:lastmodified":1466212382,
     "wof:name":"Andy's Billard Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [8.54492,47.049641,8.54492,47.049641],
+  "bbox": [
+    8.54492,
+    47.049641,
+    8.54492,
+    47.049641
+],
   "geometry": {"coordinates":[8.54492,47.049641],"type":"Point"}
 }

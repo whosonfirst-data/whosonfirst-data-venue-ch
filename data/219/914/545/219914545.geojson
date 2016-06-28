@@ -2,13 +2,14 @@
   "id": 219914545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.39735,47.440113,9.39735,47.440113",
     "geom:latitude":47.440113,
     "geom:longitude":9.39735,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quaderstrasse 16",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219914545,
-    "wof:lastmodified":1449071733,
+    "wof:lastmodified":1466212759,
     "wof:name":"Cellere Ag St. Gallen, Bauunternehmung",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.39735,47.440113,9.39735,47.440113],
+  "bbox": [
+    9.39735,
+    47.440113,
+    9.39735,
+    47.440113
+],
   "geometry": {"coordinates":[9.39735,47.440113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185700801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.615736,47.492569,7.615736,47.492569",
     "geom:latitude":47.492569,
     "geom:longitude":7.615736,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Langacker 5",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185700801,
-    "wof:lastmodified":1449008079,
+    "wof:lastmodified":1466211082,
     "wof:name":"Dr.thomas Christen Advokaturb\u00fcro",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.615736,47.492569,7.615736,47.492569],
+  "bbox": [
+    7.615736,
+    47.492569,
+    7.615736,
+    47.492569
+],
   "geometry": {"coordinates":[7.615736,47.492569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203169531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.929507,46.989029,6.929507,46.989029",
     "geom:latitude":46.989029,
     "geom:longitude":6.929507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du M\u00f4le 3",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203169531,
-    "wof:lastmodified":1449026112,
+    "wof:lastmodified":1466209132,
     "wof:name":"Dr M\u00e9d. Djilali Lakhdari M\u00e9decin Sp\u00e9cialiste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.929507,46.989029,6.929507,46.989029],
+  "bbox": [
+    6.929507,
+    46.989029,
+    6.929507,
+    46.989029
+],
   "geometry": {"coordinates":[6.929507,46.989029],"type":"Point"}
 }

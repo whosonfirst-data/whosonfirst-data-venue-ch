@@ -2,13 +2,14 @@
   "id": 236283419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.514504,47.381493,8.514504,47.381493",
     "geom:latitude":47.381493,
     "geom:longitude":8.514504,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hirzelstrasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236283419,
-    "wof:lastmodified":1449002457,
+    "wof:lastmodified":1466211643,
     "wof:name":"Albert Muggler Carreisen & Taxi",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.514504,47.381493,8.514504,47.381493],
+  "bbox": [
+    8.514504,
+    47.381493,
+    8.514504,
+    47.381493
+],
   "geometry": {"coordinates":[8.514504,47.381493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219297121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.981131,46.299667,8.981131,46.299667",
     "geom:latitude":46.299667,
     "geom:longitude":8.981131,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6527",
     "sg:city":"Lodrino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219297121,
-    "wof:lastmodified":1449072628,
+    "wof:lastmodified":1466209217,
     "wof:name":"Leandro Ferla Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.981131,46.299667,8.981131,46.299667],
+  "bbox": [
+    8.981131,
+    46.299667,
+    8.981131,
+    46.299667
+],
   "geometry": {"coordinates":[8.981131,46.299667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252807547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449822,47.021217,7.449822,47.021217",
     "geom:latitude":47.021217,
     "geom:longitude":7.449822,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 5 3053 M\u00fcnchenbuchsee. Postfach",
     "sg:city":"M\u00fcnchenbuchsee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252807547,
-    "wof:lastmodified":1449005696,
+    "wof:lastmodified":1466209996,
     "wof:name":"Baumgartner H., Modehaus M\u00fcnchenbuchsee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449822,47.021217,7.449822,47.021217],
+  "bbox": [
+    7.449822,
+    47.021217,
+    7.449822,
+    47.021217
+],
   "geometry": {"coordinates":[7.449822,47.021217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203312657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.508593,47.054817,7.508593,47.054817",
     "geom:latitude":47.054817,
     "geom:longitude":7.508593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Staffelstrasse 17",
     "sg:city":"Jegenstorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203312657,
-    "wof:lastmodified":1449025881,
+    "wof:lastmodified":1466210660,
     "wof:name":"Dr.med.ernst Wyss Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.508593,47.054817,7.508593,47.054817],
+  "bbox": [
+    7.508593,
+    47.054817,
+    7.508593,
+    47.054817
+],
   "geometry": {"coordinates":[7.508593,47.054817],"type":"Point"}
 }

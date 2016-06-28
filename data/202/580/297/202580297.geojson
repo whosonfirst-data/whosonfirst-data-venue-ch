@@ -2,13 +2,14 @@
   "id": 202580297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.519736,47.156345,8.519736,47.156345",
     "geom:latitude":47.156345,
     "geom:longitude":8.519736,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerbergstrasse 43 6300 Zug. Postfach",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202580297,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466209478,
     "wof:name":"Isenegger K\u00fcmmerli + Co. Architekten Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.519736,47.156345,8.519736,47.156345],
+  "bbox": [
+    8.519736,
+    47.156345,
+    8.519736,
+    47.156345
+],
   "geometry": {"coordinates":[8.519736,47.156345],"type":"Point"}
 }

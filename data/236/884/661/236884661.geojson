@@ -2,13 +2,14 @@
   "id": 236884661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528603,47.383965,8.528603,47.383965",
     "geom:latitude":47.383965,
     "geom:longitude":8.528603,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gasometerstrasse 9",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236884661,
-    "wof:lastmodified":1449004473,
+    "wof:lastmodified":1466213011,
     "wof:name":"Imachine Projekt Ag",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "database"
     ]
 },
-  "bbox": [8.528603,47.383965,8.528603,47.383965],
+  "bbox": [
+    8.528603,
+    47.383965,
+    8.528603,
+    47.383965
+],
   "geometry": {"coordinates":[8.528603,47.383965],"type":"Point"}
 }

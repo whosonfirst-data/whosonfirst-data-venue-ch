@@ -2,13 +2,14 @@
   "id": 186535249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.246441,47.412617,9.246441,47.412617",
     "geom:latitude":47.412617,
     "geom:longitude":9.246441,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jungfraustrasse 38",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186535249,
-    "wof:lastmodified":1449050899,
+    "wof:lastmodified":1466211920,
     "wof:name":"Altersheim Abendruh Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.246441,47.412617,9.246441,47.412617],
+  "bbox": [
+    9.246441,
+    47.412617,
+    9.246441,
+    47.412617
+],
   "geometry": {"coordinates":[9.246441,47.412617],"type":"Point"}
 }

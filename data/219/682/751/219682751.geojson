@@ -2,13 +2,14 @@
   "id": 219682751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.65419,47.382099,8.65419,47.382099",
     "geom:latitude":47.382099,
     "geom:longitude":8.65419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse",
     "sg:city":"Schwerzenbach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219682751,
-    "wof:lastmodified":1449071005,
+    "wof:lastmodified":1466212029,
     "wof:name":"Schweiz. Kreditanstalt",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.65419,47.382099,8.65419,47.382099],
+  "bbox": [
+    8.65419,
+    47.382099,
+    8.65419,
+    47.382099
+],
   "geometry": {"coordinates":[8.65419,47.382099],"type":"Point"}
 }

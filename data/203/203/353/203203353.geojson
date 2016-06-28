@@ -2,13 +2,14 @@
   "id": 203203353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.154901,46.203983,6.154901,46.203983",
     "geom:latitude":46.203983,
     "geom:longitude":6.154901,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Scie 2",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203203353,
-    "wof:lastmodified":1449025752,
+    "wof:lastmodified":1466209505,
     "wof:name":"Dr M\u00e9d. Maria-jos\u00e9 Justafr\u00e9 M\u00e9decin Sp\u00e9cialiste",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.154901,46.203983,6.154901,46.203983],
+  "bbox": [
+    6.154901,
+    46.203983,
+    6.154901,
+    46.203983
+],
   "geometry": {"coordinates":[6.154901,46.203983],"type":"Point"}
 }

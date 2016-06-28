@@ -2,13 +2,14 @@
   "id": 252882691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.143475,46.185608,6.143475,46.185608",
     "geom:latitude":46.185608,
     "geom:longitude":6.143475,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seetalstrasse 15",
     "sg:city":"Schafisheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252882691,
-    "wof:lastmodified":1449005601,
+    "wof:lastmodified":1466210801,
     "wof:name":"Binz Gauthey-victoria Maria",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.143475,46.185608,6.143475,46.185608],
+  "bbox": [
+    6.143475,
+    46.185608,
+    6.143475,
+    46.185608
+],
   "geometry": {"coordinates":[6.143475,46.185608],"type":"Point"}
 }

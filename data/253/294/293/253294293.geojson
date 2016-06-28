@@ -2,13 +2,14 @@
   "id": 253294293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.953035,47.362621,7.953035,47.362621",
     "geom:latitude":47.362621,
     "geom:longitude":7.953035,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schachenstrasse 25 4653 Oberg\u00f6sgen. Postfach 334",
     "sg:city":"Oberg\u00f6sgen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253294293,
-    "wof:lastmodified":1449064939,
+    "wof:lastmodified":1466211824,
     "wof:name":"Waespe Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.953035,47.362621,7.953035,47.362621],
+  "bbox": [
+    7.953035,
+    47.362621,
+    7.953035,
+    47.362621
+],
   "geometry": {"coordinates":[7.953035,47.362621],"type":"Point"}
 }

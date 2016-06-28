@@ -2,13 +2,14 @@
   "id": 186325213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.819537,46.482731,9.819537,46.482731",
     "geom:latitude":46.482731,
     "geom:longitude":9.819537,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Rochettaz 36",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186325213,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466210017,
     "wof:name":"Pitsch + Pitsch Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.819537,46.482731,9.819537,46.482731],
+  "bbox": [
+    9.819537,
+    46.482731,
+    9.819537,
+    46.482731
+],
   "geometry": {"coordinates":[9.819537,46.482731],"type":"Point"}
 }

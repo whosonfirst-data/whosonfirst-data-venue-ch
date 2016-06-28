@@ -2,13 +2,14 @@
   "id": 253132989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.530749,47.393307,8.530749,47.393307",
     "geom:latitude":47.393307,
     "geom:longitude":8.530749,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotbuchstrasse 66",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253132989,
-    "wof:lastmodified":1449064266,
+    "wof:lastmodified":1466210301,
     "wof:name":"Anton Stadelmann B\u00e4ckerei-konditorei",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.530749,47.393307,8.530749,47.393307],
+  "bbox": [
+    8.530749,
+    47.393307,
+    8.530749,
+    47.393307
+],
   "geometry": {"coordinates":[8.530749,47.393307],"type":"Point"}
 }

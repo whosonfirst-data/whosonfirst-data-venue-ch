@@ -2,13 +2,14 @@
   "id": 185965165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.105845,47.005852,7.105845,47.005852",
     "geom:latitude":47.005852,
     "geom:longitude":7.105845,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schl\u00f6ssli 3232 Ins. Postfach",
     "sg:city":"Ins",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185965165,
-    "wof:lastmodified":1449007720,
+    "wof:lastmodified":1466210449,
     "wof:name":"Verein Schl\u00f6ssli Ins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.105845,47.005852,7.105845,47.005852],
+  "bbox": [
+    7.105845,
+    47.005852,
+    7.105845,
+    47.005852
+],
   "geometry": {"coordinates":[7.105845,47.005852],"type":"Point"}
 }

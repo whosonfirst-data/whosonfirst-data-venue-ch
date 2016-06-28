@@ -2,13 +2,14 @@
   "id": 169740201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516479,47.17173,8.516479,47.17173",
     "geom:latitude":47.17173,
     "geom:longitude":8.516479,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Braarerstrasse 12",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169740201,
-    "wof:lastmodified":1449034168,
+    "wof:lastmodified":1466211222,
     "wof:name":"Driur Rudolf Mosimann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [8.516479,47.17173,8.516479,47.17173],
+  "bbox": [
+    8.516479,
+    47.17173,
+    8.516479,
+    47.17173
+],
   "geometry": {"coordinates":[8.516479,47.17173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203019803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.13679,46.185326,6.13679,46.185326",
     "geom:latitude":46.185326,
     "geom:longitude":6.13679,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Man\u00e8ge",
     "sg:city":"Leysin",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203019803,
-    "wof:lastmodified":1449026042,
+    "wof:lastmodified":1466209600,
     "wof:name":"Jean-jacques M\u00e9gevand Bureau D'architecture",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.13679,46.185326,6.13679,46.185326],
+  "bbox": [
+    6.13679,
+    46.185326,
+    6.13679,
+    46.185326
+],
   "geometry": {"coordinates":[6.13679,46.185326],"type":"Point"}
 }

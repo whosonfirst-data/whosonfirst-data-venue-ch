@@ -2,13 +2,14 @@
   "id": 252800583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.584345,47.552681,7.584345,47.552681",
     "geom:latitude":47.552681,
     "geom:longitude":7.584345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Austrasse 12",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252800583,
-    "wof:lastmodified":1449005497,
+    "wof:lastmodified":1466209920,
     "wof:name":"Heinz Schoch Antiquit\u00e4ten & M\u00fcnzen",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.584345,47.552681,7.584345,47.552681],
+  "bbox": [
+    7.584345,
+    47.552681,
+    7.584345,
+    47.552681
+],
   "geometry": {"coordinates":[7.584345,47.552681],"type":"Point"}
 }

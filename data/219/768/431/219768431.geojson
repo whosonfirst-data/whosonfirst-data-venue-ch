@@ -2,13 +2,14 @@
   "id": 219768431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.553942,47.358055,8.553942,47.358055",
     "geom:latitude":47.358055,
     "geom:longitude":8.553942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 124",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219768431,
-    "wof:lastmodified":1449071744,
+    "wof:lastmodified":1466212401,
     "wof:name":"Armbr\u00fcster, Espluga + Co",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.553942,47.358055,8.553942,47.358055],
+  "bbox": [
+    8.553942,
+    47.358055,
+    8.553942,
+    47.358055
+],
   "geometry": {"coordinates":[8.553942,47.358055],"type":"Point"}
 }

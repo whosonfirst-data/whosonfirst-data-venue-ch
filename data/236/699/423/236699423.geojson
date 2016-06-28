@@ -2,13 +2,14 @@
   "id": 236699423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.692614,47.544647,8.692614,47.544647",
     "geom:latitude":47.544647,
     "geom:longitude":8.692614,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riethofstr. 1",
     "sg:city":"Hettlingen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236699423,
-    "wof:lastmodified":1449002013,
+    "wof:lastmodified":1466212943,
     "wof:name":"Novartis Ophthalmics Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmacy"
     ]
 },
-  "bbox": [8.692614,47.544647,8.692614,47.544647],
+  "bbox": [
+    8.692614,
+    47.544647,
+    8.692614,
+    47.544647
+],
   "geometry": {"coordinates":[8.692614,47.544647],"type":"Point"}
 }

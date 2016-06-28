@@ -2,13 +2,14 @@
   "id": 219200149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.14195,47.377502,8.14195,47.377502",
     "geom:latitude":47.377502,
     "geom:longitude":8.14195,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tannenweg 4",
     "sg:city":"Schafisheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219200149,
-    "wof:lastmodified":1449071796,
+    "wof:lastmodified":1466210947,
     "wof:name":"Heinz Sch\u00f6nauer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.14195,47.377502,8.14195,47.377502],
+  "bbox": [
+    8.14195,
+    47.377502,
+    8.14195,
+    47.377502
+],
   "geometry": {"coordinates":[8.14195,47.377502],"type":"Point"}
 }

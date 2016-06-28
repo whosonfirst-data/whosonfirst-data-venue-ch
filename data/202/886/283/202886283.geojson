@@ -2,13 +2,14 @@
   "id": 202886283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.612655,46.748672,7.612655,46.748672",
     "geom:latitude":46.748672,
     "geom:longitude":7.612655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4nggasse 71 3600 Thun. Postfach",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202886283,
-    "wof:lastmodified":1449061509,
+    "wof:lastmodified":1466212070,
     "wof:name":"Christian Helmle Fotografisches Atelier",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.612655,46.748672,7.612655,46.748672],
+  "bbox": [
+    7.612655,
+    46.748672,
+    7.612655,
+    46.748672
+],
   "geometry": {"coordinates":[7.612655,46.748672],"type":"Point"}
 }

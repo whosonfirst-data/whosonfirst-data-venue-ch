@@ -2,13 +2,14 @@
   "id": 185642165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.247183,47.143936,7.247183,47.143936",
     "geom:latitude":47.143936,
     "geom:longitude":7.247183,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Stand 19a",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185642165,
-    "wof:lastmodified":1449006690,
+    "wof:lastmodified":1466210118,
     "wof:name":"Capt Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [7.247183,47.143936,7.247183,47.143936],
+  "bbox": [
+    7.247183,
+    47.143936,
+    7.247183,
+    47.143936
+],
   "geometry": {"coordinates":[7.247183,47.143936],"type":"Point"}
 }

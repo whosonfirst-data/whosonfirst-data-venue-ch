@@ -2,13 +2,14 @@
   "id": 202637903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.524296,47.173077,7.524296,47.173077",
     "geom:latitude":47.173077,
     "geom:longitude":7.524296,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlehof 3",
     "sg:city":"Schattdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202637903,
-    "wof:lastmodified":1449060113,
+    "wof:lastmodified":1466210015,
     "wof:name":"Mto Ingenieur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.524296,47.173077,7.524296,47.173077],
+  "bbox": [
+    7.524296,
+    47.173077,
+    7.524296,
+    47.173077
+],
   "geometry": {"coordinates":[7.524296,47.173077],"type":"Point"}
 }

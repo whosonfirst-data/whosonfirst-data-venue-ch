@@ -2,13 +2,14 @@
   "id": 202611071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.745614,47.126961,8.745614,47.126961",
     "geom:latitude":47.126961,
     "geom:longitude":8.745614,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanenstrasse 4",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202611071,
-    "wof:lastmodified":1449062123,
+    "wof:lastmodified":1466209761,
     "wof:name":"Leuppi & Partner Raumplanung & Energietechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.745614,47.126961,8.745614,47.126961],
+  "bbox": [
+    8.745614,
+    47.126961,
+    8.745614,
+    47.126961
+],
   "geometry": {"coordinates":[8.745614,47.126961],"type":"Point"}
 }

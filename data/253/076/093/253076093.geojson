@@ -2,13 +2,14 @@
   "id": 253076093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.490417,46.507748,6.490417,46.507748",
     "geom:latitude":46.507748,
     "geom:longitude":6.490417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Claude-anet 3",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253076093,
-    "wof:lastmodified":1449065119,
+    "wof:lastmodified":1466209681,
     "wof:name":"Philippe Berdoz Combustibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.490417,46.507748,6.490417,46.507748],
+  "bbox": [
+    6.490417,
+    46.507748,
+    6.490417,
+    46.507748
+],
   "geometry": {"coordinates":[6.490417,46.507748],"type":"Point"}
 }

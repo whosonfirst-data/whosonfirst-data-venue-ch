@@ -2,13 +2,14 @@
   "id": 253402445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.307963,47.126129,9.307963,47.126129",
     "geom:latitude":47.126129,
     "geom:longitude":9.307963,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 68",
     "sg:city":"Walenstadt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253402445,
-    "wof:lastmodified":1449063767,
+    "wof:lastmodified":1466212280,
     "wof:name":"Computer Shop Seeli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.307963,47.126129,9.307963,47.126129],
+  "bbox": [
+    9.307963,
+    47.126129,
+    9.307963,
+    47.126129
+],
   "geometry": {"coordinates":[9.307963,47.126129],"type":"Point"}
 }

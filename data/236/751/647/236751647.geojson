@@ -2,13 +2,14 @@
   "id": 236751647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.469205,46.909573,7.469205,46.909573",
     "geom:latitude":46.909573,
     "geom:longitude":7.469205,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zimmerwaldstrasse 10",
     "sg:city":"Kehrsatz",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236751647,
-    "wof:lastmodified":1449001816,
+    "wof:lastmodified":1466212866,
     "wof:name":"Mulitclean",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services"
     ]
 },
-  "bbox": [7.469205,46.909573,7.469205,46.909573],
+  "bbox": [
+    7.469205,
+    46.909573,
+    7.469205,
+    46.909573
+],
   "geometry": {"coordinates":[7.469205,46.909573],"type":"Point"}
 }

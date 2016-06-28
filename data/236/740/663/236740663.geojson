@@ -2,13 +2,14 @@
   "id": 236740663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.065633,47.175705,7.065633,47.175705",
     "geom:latitude":47.175705,
     "geom:longitude":7.065633,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 21",
     "sg:city":"Courtelary",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236740663,
-    "wof:lastmodified":1449003089,
+    "wof:lastmodified":1466212980,
     "wof:name":"Chocolats Camille Bloch Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.065633,47.175705,7.065633,47.175705],
+  "bbox": [
+    7.065633,
+    47.175705,
+    7.065633,
+    47.175705
+],
   "geometry": {"coordinates":[7.065633,47.175705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202947131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.298471,47.331505,8.298471,47.331505",
     "geom:latitude":47.331505,
     "geom:longitude":8.298471,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcelisackerstrasse 21",
     "sg:city":"Waltenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202947131,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466212408,
     "wof:name":"Architekt Arno Vogel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.298471,47.331505,8.298471,47.331505],
+  "bbox": [
+    8.298471,
+    47.331505,
+    8.298471,
+    47.331505
+],
   "geometry": {"coordinates":[8.298471,47.331505],"type":"Point"}
 }

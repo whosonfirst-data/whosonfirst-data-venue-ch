@@ -2,13 +2,14 @@
   "id": 236051197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.085773,46.469872,7.085773,46.469872",
     "geom:latitude":46.469872,
     "geom:longitude":7.085773,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Frasse",
     "sg:city":"Rossini\u00e8re",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236051197,
-    "wof:lastmodified":1449003736,
+    "wof:lastmodified":1466209342,
     "wof:name":"Martin, Robert.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.085773,46.469872,7.085773,46.469872],
+  "bbox": [
+    7.085773,
+    46.469872,
+    7.085773,
+    46.469872
+],
   "geometry": {"coordinates":[7.085773,46.469872],"type":"Point"}
 }

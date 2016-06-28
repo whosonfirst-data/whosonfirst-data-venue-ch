@@ -2,13 +2,14 @@
   "id": 169693283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598573,47.489071,7.598573,47.489071",
     "geom:latitude":47.489071,
     "geom:longitude":7.598573,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstr. 4",
     "sg:city":"M\u00fcntschemier",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169693283,
-    "wof:lastmodified":1449032874,
+    "wof:lastmodified":1466210843,
     "wof:name":"Bioreba Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "instrument"
     ]
 },
-  "bbox": [7.598573,47.489071,7.598573,47.489071],
+  "bbox": [
+    7.598573,
+    47.489071,
+    7.598573,
+    47.489071
+],
   "geometry": {"coordinates":[7.598573,47.489071],"type":"Point"}
 }

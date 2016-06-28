@@ -2,13 +2,14 @@
   "id": 203365687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574255,47.54192,7.574255,47.54192",
     "geom:latitude":47.54192,
     "geom:longitude":7.574255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Picassoplatz 8",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203365687,
-    "wof:lastmodified":1449025243,
+    "wof:lastmodified":1466211186,
     "wof:name":"Dr.med.laurenz Ehrenzeller Spezialarzt Fmh",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.574255,47.54192,7.574255,47.54192],
+  "bbox": [
+    7.574255,
+    47.54192,
+    7.574255,
+    47.54192
+],
   "geometry": {"coordinates":[7.574255,47.54192],"type":"Point"}
 }

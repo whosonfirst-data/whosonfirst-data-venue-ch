@@ -2,13 +2,14 @@
   "id": 219354537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.187288,47.260109,8.187288,47.260109",
     "geom:latitude":47.260109,
     "geom:longitude":8.187288,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 21",
     "sg:city":"Lyssach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219354537,
-    "wof:lastmodified":1449073524,
+    "wof:lastmodified":1466209731,
     "wof:name":"Martin Schweizer Autospritzwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.187288,47.260109,8.187288,47.260109],
+  "bbox": [
+    8.187288,
+    47.260109,
+    8.187288,
+    47.260109
+],
   "geometry": {"coordinates":[8.187288,47.260109],"type":"Point"}
 }

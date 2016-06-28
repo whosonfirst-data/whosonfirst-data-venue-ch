@@ -2,13 +2,14 @@
   "id": 185723711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455733,46.941296,7.455733,46.941296",
     "geom:latitude":46.941296,
     "geom:longitude":7.455733,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hans R\u00f6lli-strasse 14 8127 Forch. Postfach 10",
     "sg:city":"Forch",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185723711,
-    "wof:lastmodified":1449007554,
+    "wof:lastmodified":1466211299,
     "wof:name":"Luginbuehl & Janggen",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455733,46.941296,7.455733,46.941296],
+  "bbox": [
+    7.455733,
+    46.941296,
+    7.455733,
+    46.941296
+],
   "geometry": {"coordinates":[7.455733,46.941296],"type":"Point"}
 }

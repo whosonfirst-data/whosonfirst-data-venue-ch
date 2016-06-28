@@ -2,13 +2,14 @@
   "id": 203009809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.766772,47.252377,7.766772,47.252377",
     "geom:latitude":47.252377,
     "geom:longitude":7.766772,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosbachstrasse 6 4911 Schwarzh\u00e4usern. Postfach",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203009809,
-    "wof:lastmodified":1449026846,
+    "wof:lastmodified":1466209297,
     "wof:name":"Hector Andres Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.766772,47.252377,7.766772,47.252377],
+  "bbox": [
+    7.766772,
+    47.252377,
+    7.766772,
+    47.252377
+],
   "geometry": {"coordinates":[7.766772,47.252377],"type":"Point"}
 }

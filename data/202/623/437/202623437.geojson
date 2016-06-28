@@ -2,13 +2,14 @@
   "id": 202623437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.530655,46.292404,7.530655,46.292404",
     "geom:latitude":46.292404,
     "geom:longitude":7.530655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Immeuble Alz\u00e9s B",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202623437,
-    "wof:lastmodified":1449061876,
+    "wof:lastmodified":1466209875,
     "wof:name":"Marzer Raymond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.530655,46.292404,7.530655,46.292404],
+  "bbox": [
+    7.530655,
+    46.292404,
+    7.530655,
+    46.292404
+],
   "geometry": {"coordinates":[7.530655,46.292404],"type":"Point"}
 }

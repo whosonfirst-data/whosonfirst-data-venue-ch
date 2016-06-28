@@ -2,13 +2,14 @@
   "id": 186504703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.246367,46.442822,6.246367,46.442822",
     "geom:latitude":46.442822,
     "geom:longitude":6.246367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Burtigny 11",
     "sg:city":"Begnins",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186504703,
-    "wof:lastmodified":1449050885,
+    "wof:lastmodified":1466211476,
     "wof:name":"Etablissement M\u00e9dico-social Bellevue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [6.246367,46.442822,6.246367,46.442822],
+  "bbox": [
+    6.246367,
+    46.442822,
+    6.246367,
+    46.442822
+],
   "geometry": {"coordinates":[6.246367,46.442822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186637809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.02753,47.151371,9.02753,47.151371",
     "geom:latitude":47.151371,
     "geom:longitude":9.02753,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rufibachstrasse 8865 Bilten. Postfach",
     "sg:city":"Bilten",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186637809,
-    "wof:lastmodified":1449050256,
+    "wof:lastmodified":1466212267,
     "wof:name":"Archibau Bilten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.02753,47.151371,9.02753,47.151371],
+  "bbox": [
+    9.02753,
+    47.151371,
+    9.02753,
+    47.151371
+],
   "geometry": {"coordinates":[9.02753,47.151371],"type":"Point"}
 }

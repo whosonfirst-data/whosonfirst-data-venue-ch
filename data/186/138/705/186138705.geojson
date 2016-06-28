@@ -2,13 +2,14 @@
   "id": 186138705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.040969,47.471893,9.040969,47.471893",
     "geom:latitude":47.471893,
     "geom:longitude":9.040969,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanenplatz 4",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186138705,
-    "wof:lastmodified":1449051150,
+    "wof:lastmodified":1466211379,
     "wof:name":"L\u00fcckhof Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.040969,47.471893,9.040969,47.471893],
+  "bbox": [
+    9.040969,
+    47.471893,
+    9.040969,
+    47.471893
+],
   "geometry": {"coordinates":[9.040969,47.471893],"type":"Point"}
 }

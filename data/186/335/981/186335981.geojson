@@ -2,13 +2,14 @@
   "id": 186335981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.17462,46.80624,7.17462,46.80624",
     "geom:latitude":46.80624,
     "geom:longitude":7.17462,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Fran\u00e7ois-d'alt 5 1700 Fribourg Case Postale 694",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186335981,
-    "wof:lastmodified":1449052138,
+    "wof:lastmodified":1466210104,
     "wof:name":"Entreprise De Construction Jean Piantino Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.17462,46.80624,7.17462,46.80624],
+  "bbox": [
+    7.17462,
+    46.80624,
+    7.17462,
+    46.80624
+],
   "geometry": {"coordinates":[7.17462,46.80624],"type":"Point"}
 }

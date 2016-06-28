@@ -2,13 +2,14 @@
   "id": 219444029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61433,47.425678,8.61433,47.425678",
     "geom:latitude":47.425678,
     "geom:longitude":8.61433,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Loorenstrasse 9",
     "sg:city":"Dietlikon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219444029,
-    "wof:lastmodified":1449073430,
+    "wof:lastmodified":1466210580,
     "wof:name":"Abt Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "balancing"
     ]
 },
-  "bbox": [8.61433,47.425678,8.61433,47.425678],
+  "bbox": [
+    8.61433,
+    47.425678,
+    8.61433,
+    47.425678
+],
   "geometry": {"coordinates":[8.61433,47.425678],"type":"Point"}
 }

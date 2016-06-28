@@ -2,13 +2,14 @@
   "id": 253272643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.097085,47.042858,7.097085,47.042858",
     "geom:latitude":47.042858,
     "geom:longitude":7.097085,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im St\u00e4dtchen 5",
     "sg:city":"Erlach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253272643,
-    "wof:lastmodified":1449065589,
+    "wof:lastmodified":1466211744,
     "wof:name":"W\u00fcthrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.097085,47.042858,7.097085,47.042858],
+  "bbox": [
+    7.097085,
+    47.042858,
+    7.097085,
+    47.042858
+],
   "geometry": {"coordinates":[7.097085,47.042858],"type":"Point"}
 }

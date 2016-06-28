@@ -2,13 +2,14 @@
   "id": 186302733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.378043,47.389194,9.378043,47.389194",
     "geom:latitude":47.389194,
     "geom:longitude":9.378043,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgmattstrasse 4322 Mumpf. Postfach 12",
     "sg:city":"Mumpf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186302733,
-    "wof:lastmodified":1449051288,
+    "wof:lastmodified":1466209857,
     "wof:name":"Paul Preisig Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.378043,47.389194,9.378043,47.389194],
+  "bbox": [
+    9.378043,
+    47.389194,
+    9.378043,
+    47.389194
+],
   "geometry": {"coordinates":[9.378043,47.389194],"type":"Point"}
 }

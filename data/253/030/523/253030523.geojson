@@ -2,13 +2,14 @@
   "id": 253030523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.5391,47.410229,8.5391,47.410229",
     "geom:latitude":47.410229,
     "geom:longitude":8.5391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oleanderstrasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253030523,
-    "wof:lastmodified":1449063913,
+    "wof:lastmodified":1466209243,
     "wof:name":"Rebecca Blank Blumen-werkstatt",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.5391,47.410229,8.5391,47.410229],
+  "bbox": [
+    8.5391,
+    47.410229,
+    8.5391,
+    47.410229
+],
   "geometry": {"coordinates":[8.5391,47.410229],"type":"Point"}
 }

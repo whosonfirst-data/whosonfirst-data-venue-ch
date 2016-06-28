@@ -2,13 +2,14 @@
   "id": 253250857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.001694,47.009438,7.001694,47.009438",
     "geom:latitude":47.009438,
     "geom:longitude":7.001694,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Puits 2",
     "sg:city":"Marin-centre",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253250857,
-    "wof:lastmodified":1449064509,
+    "wof:lastmodified":1466211485,
     "wof:name":"Schenk Werner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.001694,47.009438,7.001694,47.009438],
+  "bbox": [
+    7.001694,
+    47.009438,
+    7.001694,
+    47.009438
+],
   "geometry": {"coordinates":[7.001694,47.009438],"type":"Point"}
 }

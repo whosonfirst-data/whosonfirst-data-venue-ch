@@ -2,13 +2,14 @@
   "id": 253433353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575059,47.493843,7.575059,47.493843",
     "geom:latitude":47.493843,
     "geom:longitude":7.575059,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Centrale 11",
     "sg:city":"Orbe",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253433353,
-    "wof:lastmodified":1449063161,
+    "wof:lastmodified":1466212433,
     "wof:name":"Marie-madeleine Frey Haute-couture",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.575059,47.493843,7.575059,47.493843],
+  "bbox": [
+    7.575059,
+    47.493843,
+    7.575059,
+    47.493843
+],
   "geometry": {"coordinates":[7.575059,47.493843],"type":"Point"}
 }

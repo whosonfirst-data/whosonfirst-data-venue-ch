@@ -2,13 +2,14 @@
   "id": 219337233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.12251,47.084698,8.12251,47.084698",
     "geom:latitude":47.084698,
     "geom:longitude":8.12251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcediswilerstrasse 17",
     "sg:city":"Ruswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219337233,
-    "wof:lastmodified":1449072048,
+    "wof:lastmodified":1466209588,
     "wof:name":"Auto Widmer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.12251,47.084698,8.12251,47.084698],
+  "bbox": [
+    8.12251,
+    47.084698,
+    8.12251,
+    47.084698
+],
   "geometry": {"coordinates":[8.12251,47.084698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185672621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63506,46.516823,6.63506,46.516823",
     "geom:latitude":46.516823,
     "geom:longitude":6.63506,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Av De La Gare",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185672621,
-    "wof:lastmodified":1449006707,
+    "wof:lastmodified":1466210796,
     "wof:name":"24 Heures",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [6.63506,46.516823,6.63506,46.516823],
+  "bbox": [
+    6.63506,
+    46.516823,
+    6.63506,
+    46.516823
+],
   "geometry": {"coordinates":[6.63506,46.516823],"type":"Point"}
 }

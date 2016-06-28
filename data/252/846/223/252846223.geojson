@@ -2,13 +2,14 @@
   "id": 252846223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627099,47.05769,7.627099,47.05769",
     "geom:latitude":47.05769,
     "geom:longitude":7.627099,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kornhausgasse 5.",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252846223,
-    "wof:lastmodified":1449006269,
+    "wof:lastmodified":1466210412,
     "wof:name":"Linea-mode, Gertrud Nyffeler.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627099,47.05769,7.627099,47.05769],
+  "bbox": [
+    7.627099,
+    47.05769,
+    7.627099,
+    47.05769
+],
   "geometry": {"coordinates":[7.627099,47.05769],"type":"Point"}
 }

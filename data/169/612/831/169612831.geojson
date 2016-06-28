@@ -2,13 +2,14 @@
   "id": 169612831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.895081,46.464157,6.895081,46.464157",
     "geom:latitude":46.464157,
     "geom:longitude":6.895081,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Tercier 8",
     "sg:city":"Blonay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169612831,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466209426,
     "wof:name":"Paks Diffusion",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "articles"
     ]
 },
-  "bbox": [6.895081,46.464157,6.895081,46.464157],
+  "bbox": [
+    6.895081,
+    46.464157,
+    6.895081,
+    46.464157
+],
   "geometry": {"coordinates":[6.895081,46.464157],"type":"Point"}
 }

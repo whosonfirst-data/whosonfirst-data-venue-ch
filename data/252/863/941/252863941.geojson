@@ -2,13 +2,14 @@
   "id": 252863941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529564,47.378887,8.529564,47.378887",
     "geom:latitude":47.378887,
     "geom:longitude":8.529564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Milit\u00e4rstrasse 89 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252863941,
-    "wof:lastmodified":1449006144,
+    "wof:lastmodified":1466210602,
     "wof:name":"R\u00fcegger Mirquella",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529564,47.378887,8.529564,47.378887],
+  "bbox": [
+    8.529564,
+    47.378887,
+    8.529564,
+    47.378887
+],
   "geometry": {"coordinates":[8.529564,47.378887],"type":"Point"}
 }

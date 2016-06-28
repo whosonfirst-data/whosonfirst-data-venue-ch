@@ -2,13 +2,14 @@
   "id": 185805499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.924412,46.998417,6.924412,46.998417",
     "geom:latitude":46.998417,
     "geom:longitude":6.924412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Plan 30",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185805499,
-    "wof:lastmodified":1449007138,
+    "wof:lastmodified":1466209159,
     "wof:name":"Ep Spray System Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aerosol"
     ]
 },
-  "bbox": [6.924412,46.998417,6.924412,46.998417],
+  "bbox": [
+    6.924412,
+    46.998417,
+    6.924412,
+    46.998417
+],
   "geometry": {"coordinates":[6.924412,46.998417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186316745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.557284,47.492092,8.557284,47.492092",
     "geom:latitude":47.492092,
     "geom:longitude":8.557284,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttenstrasse 8",
     "sg:city":"Winkel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186316745,
-    "wof:lastmodified":1449052193,
+    "wof:lastmodified":1466209956,
     "wof:name":"Wassmer Rudolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.557284,47.492092,8.557284,47.492092],
+  "bbox": [
+    8.557284,
+    47.492092,
+    8.557284,
+    47.492092
+],
   "geometry": {"coordinates":[8.557284,47.492092],"type":"Point"}
 }

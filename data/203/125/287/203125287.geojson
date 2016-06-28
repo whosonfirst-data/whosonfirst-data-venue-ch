@@ -2,13 +2,14 @@
   "id": 203125287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.358453,47.399776,9.358453,47.399776",
     "geom:latitude":47.399776,
     "geom:longitude":9.358453,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Battenhusstrasse 4",
     "sg:city":"Lustm\u00fchle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203125287,
-    "wof:lastmodified":1449026805,
+    "wof:lastmodified":1466211379,
     "wof:name":"Remo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drive"
     ]
 },
-  "bbox": [9.358453,47.399776,9.358453,47.399776],
+  "bbox": [
+    9.358453,
+    47.399776,
+    9.358453,
+    47.399776
+],
   "geometry": {"coordinates":[9.358453,47.399776],"type":"Point"}
 }

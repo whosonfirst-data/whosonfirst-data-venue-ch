@@ -2,13 +2,14 @@
   "id": 185827425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.139797,46.180553,6.139797,46.180553",
     "geom:latitude":46.180553,
     "geom:longitude":6.139797,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Ancienne 80",
     "sg:city":"Carouge",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185827425,
-    "wof:lastmodified":1449007166,
+    "wof:lastmodified":1466209301,
     "wof:name":"Camfil Farr Sa",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "controlling"
     ]
 },
-  "bbox": [6.139797,46.180553,6.139797,46.180553],
+  "bbox": [
+    6.139797,
+    46.180553,
+    6.139797,
+    46.180553
+],
   "geometry": {"coordinates":[6.139797,46.180553],"type":"Point"}
 }

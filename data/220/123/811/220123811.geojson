@@ -2,13 +2,14 @@
   "id": 220123811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.754984,47.206978,8.754984,47.206978",
     "geom:latitude":47.206978,
     "geom:longitude":8.754984,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantonsstrasse 81 8807 Freienbach. Postfach 62",
     "sg:city":"Freienbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220123811,
-    "wof:lastmodified":1449074256,
+    "wof:lastmodified":1466209943,
     "wof:name":"Murer A. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.754984,47.206978,8.754984,47.206978],
+  "bbox": [
+    8.754984,
+    47.206978,
+    8.754984,
+    47.206978
+],
   "geometry": {"coordinates":[8.754984,47.206978],"type":"Point"}
 }

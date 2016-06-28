@@ -2,13 +2,14 @@
   "id": 235930565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.993165,46.168797,8.993165,46.168797",
     "geom:latitude":46.168797,
     "geom:longitude":8.993165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mondari 15",
     "sg:city":"Giubiasco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235930565,
-    "wof:lastmodified":1449008371,
+    "wof:lastmodified":1466208896,
     "wof:name":"Santini & Delbiaggio Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.993165,46.168797,8.993165,46.168797],
+  "bbox": [
+    8.993165,
+    46.168797,
+    8.993165,
+    46.168797
+],
   "geometry": {"coordinates":[8.993165,46.168797],"type":"Point"}
 }

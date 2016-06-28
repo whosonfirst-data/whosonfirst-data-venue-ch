@@ -2,13 +2,14 @@
   "id": 253127809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.346885,47.106125,9.346885,47.106125",
     "geom:latitude":47.106125,
     "geom:longitude":9.346885,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4ckerstrasse 8892 Berschis. Postfach",
     "sg:city":"Berschis",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253127809,
-    "wof:lastmodified":1449065548,
+    "wof:lastmodified":1466210233,
     "wof:name":"Beck Ott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.346885,47.106125,9.346885,47.106125],
+  "bbox": [
+    9.346885,
+    47.106125,
+    9.346885,
+    47.106125
+],
   "geometry": {"coordinates":[9.346885,47.106125],"type":"Point"}
 }

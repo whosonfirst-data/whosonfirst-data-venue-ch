@@ -2,13 +2,14 @@
   "id": 236706657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.548007,47.503246,7.548007,47.503246",
     "geom:latitude":47.503246,
     "geom:longitude":7.548007,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birsmattstrasse 44",
     "sg:city":"Therwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236706657,
-    "wof:lastmodified":1449001850,
+    "wof:lastmodified":1466212826,
     "wof:name":"Hafnerei Lukas Linsig",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.548007,47.503246,7.548007,47.503246],
+  "bbox": [
+    7.548007,
+    47.503246,
+    7.548007,
+    47.503246
+],
   "geometry": {"coordinates":[7.548007,47.503246],"type":"Point"}
 }

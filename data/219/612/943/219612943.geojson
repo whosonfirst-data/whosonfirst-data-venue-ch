@@ -2,13 +2,14 @@
   "id": 219612943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.960509,47.231598,7.960509,47.231598",
     "geom:latitude":47.231598,
     "geom:longitude":7.960509,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 2",
     "sg:city":"Langnau",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219612943,
-    "wof:lastmodified":1449071953,
+    "wof:lastmodified":1466211945,
     "wof:name":"Raiffeisenbank Langnau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.960509,47.231598,7.960509,47.231598],
+  "bbox": [
+    7.960509,
+    47.231598,
+    7.960509,
+    47.231598
+],
   "geometry": {"coordinates":[7.960509,47.231598],"type":"Point"}
 }

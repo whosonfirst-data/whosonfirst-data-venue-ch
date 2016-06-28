@@ -2,13 +2,14 @@
   "id": 202868779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.956508,46.01461,8.956508,46.01461",
     "geom:latitude":46.01461,
     "geom:longitude":8.956508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bagutti 14 6900 Lugano. Postfach",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202868779,
-    "wof:lastmodified":1449060211,
+    "wof:lastmodified":1466211995,
     "wof:name":"Tmt Design By Di Pilla Sagl Servizi Legati A. Architettura, In Part. Architettura Di Interni Ecc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.956508,46.01461,8.956508,46.01461],
+  "bbox": [
+    8.956508,
+    46.01461,
+    8.956508,
+    46.01461
+],
   "geometry": {"coordinates":[8.956508,46.01461],"type":"Point"}
 }

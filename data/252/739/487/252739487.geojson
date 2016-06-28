@@ -2,13 +2,14 @@
   "id": 252739487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.520166,47.367138,8.520166,47.367138",
     "geom:latitude":47.367138,
     "geom:longitude":8.520166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinstrasse 33",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252739487,
-    "wof:lastmodified":1449005865,
+    "wof:lastmodified":1466209217,
     "wof:name":"Lorenzi Kommunikationsdesign",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [8.520166,47.367138,8.520166,47.367138],
+  "bbox": [
+    8.520166,
+    47.367138,
+    8.520166,
+    47.367138
+],
   "geometry": {"coordinates":[8.520166,47.367138],"type":"Point"}
 }

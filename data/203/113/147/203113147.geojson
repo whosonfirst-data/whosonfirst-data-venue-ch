@@ -2,13 +2,14 @@
   "id": 203113147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.293733,47.14695,8.293733,47.14695",
     "geom:latitude":47.14695,
     "geom:longitude":8.293733,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenbachstrasse 6",
     "sg:city":"Urswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203113147,
-    "wof:lastmodified":1449026704,
+    "wof:lastmodified":1466211237,
     "wof:name":"Bachmann & Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.293733,47.14695,8.293733,47.14695],
+  "bbox": [
+    8.293733,
+    47.14695,
+    8.293733,
+    47.14695
+],
   "geometry": {"coordinates":[8.293733,47.14695],"type":"Point"}
 }

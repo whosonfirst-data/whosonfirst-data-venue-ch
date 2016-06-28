@@ -2,13 +2,14 @@
   "id": 252744985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308645,47.049809,8.308645,47.049809",
     "geom:latitude":47.049809,
     "geom:longitude":8.308645,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pilatusstrasse 3a",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252744985,
-    "wof:lastmodified":1449005796,
+    "wof:lastmodified":1466209276,
     "wof:name":"Dental-labor B\u00fchlmann Und Koller",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "implant"
     ]
 },
-  "bbox": [8.308645,47.049809,8.308645,47.049809],
+  "bbox": [
+    8.308645,
+    47.049809,
+    8.308645,
+    47.049809
+],
   "geometry": {"coordinates":[8.308645,47.049809],"type":"Point"}
 }

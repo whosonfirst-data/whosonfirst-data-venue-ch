@@ -2,13 +2,14 @@
   "id": 219479007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593415,47.555073,7.593415,47.555073",
     "geom:latitude":47.555073,
     "geom:longitude":7.593415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rittergasse 12",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219479007,
-    "wof:lastmodified":1449072803,
+    "wof:lastmodified":1466210937,
     "wof:name":"Bank Ehinger & Cie Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.593415,47.555073,7.593415,47.555073],
+  "bbox": [
+    7.593415,
+    47.555073,
+    7.593415,
+    47.555073
+],
   "geometry": {"coordinates":[7.593415,47.555073],"type":"Point"}
 }

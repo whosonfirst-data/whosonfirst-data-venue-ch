@@ -2,13 +2,14 @@
   "id": 186110755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.979706,45.872635,8.979706,45.872635",
     "geom:latitude":45.872635,
     "geom:longitude":8.979706,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brecch Via 4",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186110755,
-    "wof:lastmodified":1449051275,
+    "wof:lastmodified":1466210974,
     "wof:name":"Incomont Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.979706,45.872635,8.979706,45.872635],
+  "bbox": [
+    8.979706,
+    45.872635,
+    8.979706,
+    45.872635
+],
   "geometry": {"coordinates":[8.979706,45.872635],"type":"Point"}
 }

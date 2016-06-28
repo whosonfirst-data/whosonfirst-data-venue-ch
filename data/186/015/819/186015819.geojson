@@ -2,13 +2,14 @@
   "id": 186015819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61672,47.33609,8.61672,47.33609",
     "geom:latitude":47.33609,
     "geom:longitude":8.61672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"In Der Gandstrasse 5",
     "sg:city":"Zumikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186015819,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466209494,
     "wof:name":"Baukom Baubegleitung Und Kommunikation Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.61672,47.33609,8.61672,47.33609],
+  "bbox": [
+    8.61672,
+    47.33609,
+    8.61672,
+    47.33609
+],
   "geometry": {"coordinates":[8.61672,47.33609],"type":"Point"}
 }

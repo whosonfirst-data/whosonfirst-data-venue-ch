@@ -2,13 +2,14 @@
   "id": 236255223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.614125,46.750973,7.614125,46.750973",
     "geom:latitude":46.750973,
     "geom:longitude":7.614125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pestalozzistrasse 69a",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236255223,
-    "wof:lastmodified":1449003094,
+    "wof:lastmodified":1466211414,
     "wof:name":"Genossenschaft Mur Mehrzweckhalle Unihockey/rollhockey Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.614125,46.750973,7.614125,46.750973],
+  "bbox": [
+    7.614125,
+    46.750973,
+    7.614125,
+    46.750973
+],
   "geometry": {"coordinates":[7.614125,46.750973],"type":"Point"}
 }

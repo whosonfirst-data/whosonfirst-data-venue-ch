@@ -2,13 +2,14 @@
   "id": 252885965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.860443,46.966072,6.860443,46.966072",
     "geom:latitude":46.966072,
     "geom:longitude":6.860443,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlebr\u00fccke 12 2502 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252885965,
-    "wof:lastmodified":1449005998,
+    "wof:lastmodified":1466210834,
     "wof:name":"Boutique Horizon, Pasche Madeline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.860443,46.966072,6.860443,46.966072],
+  "bbox": [
+    6.860443,
+    46.966072,
+    6.860443,
+    46.966072
+],
   "geometry": {"coordinates":[6.860443,46.966072],"type":"Point"}
 }

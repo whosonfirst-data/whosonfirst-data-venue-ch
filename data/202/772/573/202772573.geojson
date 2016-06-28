@@ -2,13 +2,14 @@
   "id": 202772573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.576034,47.564888,7.576034,47.564888",
     "geom:latitude":47.564888,
     "geom:longitude":7.576034,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Davidsrain 21 4056 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202772573,
-    "wof:lastmodified":1449061263,
+    "wof:lastmodified":1466211268,
     "wof:name":"Wyss Lorenz Architekt",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.576034,47.564888,7.576034,47.564888],
+  "bbox": [
+    7.576034,
+    47.564888,
+    7.576034,
+    47.564888
+],
   "geometry": {"coordinates":[7.576034,47.564888],"type":"Point"}
 }

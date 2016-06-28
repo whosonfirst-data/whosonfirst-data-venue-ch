@@ -2,13 +2,14 @@
   "id": 202889233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.877618,46.471401,6.877618,46.471401",
     "geom:latitude":46.471401,
     "geom:longitude":6.877618,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La M\u00e9tralie 26 3960 Sierre Case Postale Case Postale 479",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202889233,
-    "wof:lastmodified":1449060064,
+    "wof:lastmodified":1466212077,
     "wof:name":"Geosat Sa, Succursale De St-l\u00e9gier Bureau D'ing\u00e9nieurs G\u00e9om\u00e8tres Officiels Comprenant Les Secteurs De Mensuration, G\u00e9nie Rural, Photogramm\u00e9trie Etc",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.877618,46.471401,6.877618,46.471401],
+  "bbox": [
+    6.877618,
+    46.471401,
+    6.877618,
+    46.471401
+],
   "geometry": {"coordinates":[6.877618,46.471401],"type":"Point"}
 }

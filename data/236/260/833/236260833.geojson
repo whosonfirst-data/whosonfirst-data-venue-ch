@@ -2,13 +2,14 @@
   "id": 236260833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.560861,47.206642,7.560861,47.206642",
     "geom:latitude":47.206642,
     "geom:longitude":7.560861,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dahlienweg 2",
     "sg:city":"Zuchwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236260833,
-    "wof:lastmodified":1449002087,
+    "wof:lastmodified":1466211467,
     "wof:name":"Herba Rasenbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.560861,47.206642,7.560861,47.206642],
+  "bbox": [
+    7.560861,
+    47.206642,
+    7.560861,
+    47.206642
+],
   "geometry": {"coordinates":[7.560861,47.206642],"type":"Point"}
 }

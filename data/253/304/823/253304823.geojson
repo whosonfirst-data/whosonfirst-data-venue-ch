@@ -2,13 +2,14 @@
   "id": 253304823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.855211,46.685268,7.855211,46.685268",
     "geom:latitude":46.685268,
     "geom:longitude":7.855211,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6heweg 11",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253304823,
-    "wof:lastmodified":1449065023,
+    "wof:lastmodified":1466211749,
     "wof:name":"Paul Haupt Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.855211,46.685268,7.855211,46.685268],
+  "bbox": [
+    7.855211,
+    46.685268,
+    7.855211,
+    46.685268
+],
   "geometry": {"coordinates":[7.855211,46.685268],"type":"Point"}
 }

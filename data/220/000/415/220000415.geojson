@@ -2,13 +2,14 @@
   "id": 220000415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.904312,46.981869,6.904312,46.981869",
     "geom:latitude":46.981869,
     "geom:longitude":6.904312,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Passage Du Temple 1",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220000415,
-    "wof:lastmodified":1449074167,
+    "wof:lastmodified":1466211620,
     "wof:name":"Antonio Moreira Menuiserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.904312,46.981869,6.904312,46.981869],
+  "bbox": [
+    6.904312,
+    46.981869,
+    6.904312,
+    46.981869
+],
   "geometry": {"coordinates":[6.904312,46.981869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219988225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.56363,47.550533,7.56363,47.550533",
     "geom:latitude":47.550533,
     "geom:longitude":7.56363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberalpstrasse 87 4054 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219988225,
-    "wof:lastmodified":1449071616,
+    "wof:lastmodified":1466212780,
     "wof:name":"Werner Baumann Ingenieurb\u00fcro",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.56363,47.550533,7.56363,47.550533],
+  "bbox": [
+    7.56363,
+    47.550533,
+    7.56363,
+    47.550533
+],
   "geometry": {"coordinates":[7.56363,47.550533],"type":"Point"}
 }

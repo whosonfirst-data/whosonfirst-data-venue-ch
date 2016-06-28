@@ -2,13 +2,14 @@
   "id": 253343859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.11948,46.215389,8.11948,46.215389",
     "geom:latitude":46.215389,
     "geom:longitude":8.11948,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Corraterie Rue De La 20 1204 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253343859,
-    "wof:lastmodified":1449064935,
+    "wof:lastmodified":1466212050,
     "wof:name":"Tscherrig Andr\u00e9, Kiosk Gondo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.11948,46.215389,8.11948,46.215389],
+  "bbox": [
+    8.11948,
+    46.215389,
+    8.11948,
+    46.215389
+],
   "geometry": {"coordinates":[8.11948,46.215389],"type":"Point"}
 }

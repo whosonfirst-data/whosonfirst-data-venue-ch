@@ -2,13 +2,14 @@
   "id": 186018731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.74588,47.492226,8.74588,47.492226",
     "geom:latitude":47.492226,
     "geom:longitude":8.74588,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6rnlistr. 30",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186018731,
-    "wof:lastmodified":1449051716,
+    "wof:lastmodified":1466209556,
     "wof:name":"Bauunternehmung Pfarrer Pejzl & Co",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.74588,47.492226,8.74588,47.492226],
+  "bbox": [
+    8.74588,
+    47.492226,
+    8.74588,
+    47.492226
+],
   "geometry": {"coordinates":[8.74588,47.492226],"type":"Point"}
 }

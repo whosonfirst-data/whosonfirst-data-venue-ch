@@ -2,13 +2,14 @@
   "id": 236830807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.259514,47.049988,8.259514,47.049988",
     "geom:latitude":47.049988,
     "geom:longitude":8.259514,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gasshofstrasse 13a",
     "sg:city":"Littau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236830807,
-    "wof:lastmodified":1449002202,
+    "wof:lastmodified":1466212921,
     "wof:name":"Haldi Bedachungen",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.259514,47.049988,8.259514,47.049988],
+  "bbox": [
+    8.259514,
+    47.049988,
+    8.259514,
+    47.049988
+],
   "geometry": {"coordinates":[8.259514,47.049988],"type":"Point"}
 }

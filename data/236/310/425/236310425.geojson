@@ -2,13 +2,14 @@
   "id": 236310425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.02759,46.626751,8.02759,46.626751",
     "geom:latitude":46.626751,
     "geom:longitude":8.02759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spillstatt 2",
     "sg:city":"Grindelwald",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236310425,
-    "wof:lastmodified":1449003724,
+    "wof:lastmodified":1466211913,
     "wof:name":"Oechslin & Graf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.02759,46.626751,8.02759,46.626751],
+  "bbox": [
+    8.02759,
+    46.626751,
+    8.02759,
+    46.626751
+],
   "geometry": {"coordinates":[8.02759,46.626751],"type":"Point"}
 }

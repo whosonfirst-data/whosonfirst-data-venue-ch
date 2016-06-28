@@ -2,13 +2,14 @@
   "id": 219891593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.623166,46.743305,7.623166,46.743305",
     "geom:latitude":46.743305,
     "geom:longitude":7.623166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiestrasse 34",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219891593,
-    "wof:lastmodified":1449072521,
+    "wof:lastmodified":1466212690,
     "wof:name":"Wohnbaugen.alpenblick Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.623166,46.743305,7.623166,46.743305],
+  "bbox": [
+    7.623166,
+    46.743305,
+    7.623166,
+    46.743305
+],
   "geometry": {"coordinates":[7.623166,46.743305],"type":"Point"}
 }

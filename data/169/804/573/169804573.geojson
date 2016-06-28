@@ -2,13 +2,14 @@
   "id": 169804573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.51001,46.986591,9.51001,46.986591",
     "geom:latitude":46.986591,
     "geom:longitude":9.51001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Valens. 7312 Pf\u00e4fers. Postfach",
     "sg:city":"Pf\u00e4fers",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169804573,
-    "wof:lastmodified":1449034987,
+    "wof:lastmodified":1466209102,
     "wof:name":"Lorenz Hobi Aushub-unternehmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.51001,46.986591,9.51001,46.986591],
+  "bbox": [
+    9.51001,
+    46.986591,
+    9.51001,
+    46.986591
+],
   "geometry": {"coordinates":[9.51001,46.986591],"type":"Point"}
 }

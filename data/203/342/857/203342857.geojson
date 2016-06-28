@@ -2,13 +2,14 @@
   "id": 203342857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.624661,47.058239,7.624661,47.058239",
     "geom:latitude":47.058239,
     "geom:longitude":7.624661,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyssachstrasse 5",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203342857,
-    "wof:lastmodified":1449026740,
+    "wof:lastmodified":1466210957,
     "wof:name":"Dr.med.heinz Marti Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.624661,47.058239,7.624661,47.058239],
+  "bbox": [
+    7.624661,
+    47.058239,
+    7.624661,
+    47.058239
+],
   "geometry": {"coordinates":[7.624661,47.058239],"type":"Point"}
 }

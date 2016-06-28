@@ -2,13 +2,14 @@
   "id": 236758021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.802552,47.333225,8.802552,47.333225",
     "geom:latitude":47.333225,
     "geom:longitude":8.802552,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kastellstrasse 1",
     "sg:city":"Wetzikon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236758021,
-    "wof:lastmodified":1449002483,
+    "wof:lastmodified":1466212866,
     "wof:name":"Terxo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pack"
     ]
 },
-  "bbox": [8.802552,47.333225,8.802552,47.333225],
+  "bbox": [
+    8.802552,
+    47.333225,
+    8.802552,
+    47.333225
+],
   "geometry": {"coordinates":[8.802552,47.333225],"type":"Point"}
 }

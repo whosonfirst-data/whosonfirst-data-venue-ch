@@ -2,13 +2,14 @@
   "id": 220168547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.77012,47.555065,8.77012,47.555065",
     "geom:latitude":47.555065,
     "geom:longitude":8.77012,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Choller",
     "sg:city":"Dinhard",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220168547,
-    "wof:lastmodified":1449074460,
+    "wof:lastmodified":1466210317,
     "wof:name":"Arbos Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.77012,47.555065,8.77012,47.555065],
+  "bbox": [
+    8.77012,
+    47.555065,
+    8.77012,
+    47.555065
+],
   "geometry": {"coordinates":[8.77012,47.555065],"type":"Point"}
 }

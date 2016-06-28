@@ -2,13 +2,14 @@
   "id": 202588865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.043515,47.393551,8.043515,47.393551",
     "geom:latitude":47.393551,
     "geom:longitude":8.043515,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollrain 2",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202588865,
-    "wof:lastmodified":1449062166,
+    "wof:lastmodified":1466209558,
     "wof:name":"K. Heller Ingenieurunternehmung",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.043515,47.393551,8.043515,47.393551],
+  "bbox": [
+    8.043515,
+    47.393551,
+    8.043515,
+    47.393551
+],
   "geometry": {"coordinates":[8.043515,47.393551],"type":"Point"}
 }

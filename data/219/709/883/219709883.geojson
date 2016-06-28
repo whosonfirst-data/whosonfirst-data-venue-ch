@@ -2,13 +2,14 @@
   "id": 219709883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.462125,47.40947,8.462125,47.40947",
     "geom:latitude":47.40947,
     "geom:longitude":8.462125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstr. 110",
     "sg:city":"Oberengstringen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219709883,
-    "wof:lastmodified":1449071102,
+    "wof:lastmodified":1466212117,
     "wof:name":"Schweizerische Volksbank",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.462125,47.40947,8.462125,47.40947],
+  "bbox": [
+    8.462125,
+    47.40947,
+    8.462125,
+    47.40947
+],
   "geometry": {"coordinates":[8.462125,47.40947],"type":"Point"}
 }

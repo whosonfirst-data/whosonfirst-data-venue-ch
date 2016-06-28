@@ -2,13 +2,14 @@
   "id": 202902905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.214275,47.417027,8.214275,47.417027",
     "geom:latitude":47.417027,
     "geom:longitude":8.214275,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 3",
     "sg:city":"Brunegg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202902905,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466212246,
     "wof:name":"M\u00fclek M\u00fcller-elektronik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.214275,47.417027,8.214275,47.417027],
+  "bbox": [
+    8.214275,
+    47.417027,
+    8.214275,
+    47.417027
+],
   "geometry": {"coordinates":[8.214275,47.417027],"type":"Point"}
 }

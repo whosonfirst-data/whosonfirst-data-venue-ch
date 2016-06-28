@@ -2,13 +2,14 @@
   "id": 185679295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534565,47.372734,8.534565,47.372734",
     "geom:latitude":47.372734,
     "geom:longitude":8.534565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sihlporte 3 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185679295,
-    "wof:lastmodified":1449007633,
+    "wof:lastmodified":1466210904,
     "wof:name":"Baumgartner Brianza M\u00e4chler Advokaturb\u00fcro",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534565,47.372734,8.534565,47.372734],
+  "bbox": [
+    8.534565,
+    47.372734,
+    8.534565,
+    47.372734
+],
   "geometry": {"coordinates":[8.534565,47.372734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220159717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.639435,46.878811,8.639435,46.878811",
     "geom:latitude":46.878811,
     "geom:longitude":8.639435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantonsstrasse 88",
     "sg:city":"Uffikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220159717,
-    "wof:lastmodified":1449074129,
+    "wof:lastmodified":1466210241,
     "wof:name":"Ziegler Paul Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.639435,46.878811,8.639435,46.878811],
+  "bbox": [
+    8.639435,
+    46.878811,
+    8.639435,
+    46.878811
+],
   "geometry": {"coordinates":[8.639435,46.878811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202824515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.245593,47.132591,7.245593,47.132591",
     "geom:latitude":47.132591,
     "geom:longitude":7.245593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Johann-verresius-strasse 10 2502 Biel/bienne Case Postale 992",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202824515,
-    "wof:lastmodified":1449061005,
+    "wof:lastmodified":1466211810,
     "wof:name":"G. Baumann & F. Khanlari Sia Swb, Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.245593,47.132591,7.245593,47.132591],
+  "bbox": [
+    7.245593,
+    47.132591,
+    7.245593,
+    47.132591
+],
   "geometry": {"coordinates":[7.245593,47.132591],"type":"Point"}
 }

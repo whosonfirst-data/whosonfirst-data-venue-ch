@@ -2,13 +2,14 @@
   "id": 203100853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.440478,46.976723,7.440478,46.976723",
     "geom:latitude":46.976723,
     "geom:longitude":7.440478,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchenstrasse 13 6300 Zug. Postfach 934",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203100853,
-    "wof:lastmodified":1449026363,
+    "wof:lastmodified":1466211123,
     "wof:name":"Werner Trachsel Architekturb\u00fcro",
     "wof:parent_id":85800471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.440478,46.976723,7.440478,46.976723],
+  "bbox": [
+    7.440478,
+    46.976723,
+    7.440478,
+    46.976723
+],
   "geometry": {"coordinates":[7.440478,46.976723],"type":"Point"}
 }

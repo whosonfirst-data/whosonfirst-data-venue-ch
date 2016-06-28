@@ -2,13 +2,14 @@
   "id": 169692209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.98932,47.170631,7.98932,47.170631",
     "geom:latitude":47.170631,
     "geom:longitude":7.98932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gl\u00e4ng 6247 Sch\u00f6tz. Postfach",
     "sg:city":"Sch\u00f6tz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169692209,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210817,
     "wof:name":"Renggli Ag Sch\u00f6tz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.98932,47.170631,7.98932,47.170631],
+  "bbox": [
+    7.98932,
+    47.170631,
+    7.98932,
+    47.170631
+],
   "geometry": {"coordinates":[7.98932,47.170631],"type":"Point"}
 }

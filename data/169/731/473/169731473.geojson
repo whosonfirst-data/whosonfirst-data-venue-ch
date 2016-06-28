@@ -2,13 +2,14 @@
   "id": 169731473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.550788,47.357048,8.550788,47.357048",
     "geom:latitude":47.357048,
     "geom:longitude":8.550788,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellerivestrasse 42 8008 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169731473,
-    "wof:lastmodified":1449035585,
+    "wof:lastmodified":1466211187,
     "wof:name":"Tsr Kampagnenb\u00fcro Aktiengesellschaft",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.550788,47.357048,8.550788,47.357048],
+  "bbox": [
+    8.550788,
+    47.357048,
+    8.550788,
+    47.357048
+],
   "geometry": {"coordinates":[8.550788,47.357048],"type":"Point"}
 }

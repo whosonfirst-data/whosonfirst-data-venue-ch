@@ -2,13 +2,14 @@
   "id": 185870927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.860555,47.660526,8.860555,47.660526",
     "geom:latitude":47.660526,
     "geom:longitude":8.860555,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Forchstrasse 33",
     "sg:city":"Esslingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185870927,
-    "wof:lastmodified":1449007032,
+    "wof:lastmodified":1466209650,
     "wof:name":"Agob Ag F\u00fcr Organisiertes Bauen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.860555,47.660526,8.860555,47.660526],
+  "bbox": [
+    8.860555,
+    47.660526,
+    8.860555,
+    47.660526
+],
   "geometry": {"coordinates":[8.860555,47.660526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252739267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.18509,46.17215,7.18509,46.17215",
     "geom:latitude":46.17215,
     "geom:longitude":7.18509,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Bourg",
     "sg:city":"Saillon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252739267,
-    "wof:lastmodified":1449005867,
+    "wof:lastmodified":1466209214,
     "wof:name":"Yvon & Eveline Cheseaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.18509,46.17215,7.18509,46.17215],
+  "bbox": [
+    7.18509,
+    46.17215,
+    7.18509,
+    46.17215
+],
   "geometry": {"coordinates":[7.18509,46.17215],"type":"Point"}
 }

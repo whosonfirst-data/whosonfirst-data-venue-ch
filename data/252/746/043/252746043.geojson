@@ -2,13 +2,14 @@
   "id": 252746043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.45171,46.942863,7.45171,46.942863",
     "geom:latitude":46.942863,
     "geom:longitude":7.45171,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mottastrasse 1",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252746043,
-    "wof:lastmodified":1449005395,
+    "wof:lastmodified":1466209288,
     "wof:name":"Gerhard Wydler Dental-keramik",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [7.45171,46.942863,7.45171,46.942863],
+  "bbox": [
+    7.45171,
+    46.942863,
+    7.45171,
+    46.942863
+],
   "geometry": {"coordinates":[7.45171,46.942863],"type":"Point"}
 }

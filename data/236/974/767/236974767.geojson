@@ -2,13 +2,14 @@
   "id": 236974767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.595078,47.39809,8.595078,47.39809",
     "geom:latitude":47.39809,
     "geom:longitude":8.595078,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenhof 123",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236974767,
-    "wof:lastmodified":1449004725,
+    "wof:lastmodified":1466213056,
     "wof:name":"Meili Data",
     "wof:parent_id":85862427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.595078,47.39809,8.595078,47.39809],
+  "bbox": [
+    8.595078,
+    47.39809,
+    8.595078,
+    47.39809
+],
   "geometry": {"coordinates":[8.595078,47.39809],"type":"Point"}
 }

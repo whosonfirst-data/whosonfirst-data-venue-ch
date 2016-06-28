@@ -2,13 +2,14 @@
   "id": 185726985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.515509,47.167416,8.515509,47.167416",
     "geom:latitude":47.167416,
     "geom:longitude":8.515509,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugasse 4 6300 Zug. Postfach 4819",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185726985,
-    "wof:lastmodified":1449007689,
+    "wof:lastmodified":1466211324,
     "wof:name":"Markus Zwicky Rechtsanwalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.515509,47.167416,8.515509,47.167416],
+  "bbox": [
+    8.515509,
+    47.167416,
+    8.515509,
+    47.167416
+],
   "geometry": {"coordinates":[8.515509,47.167416],"type":"Point"}
 }

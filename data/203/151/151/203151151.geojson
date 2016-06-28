@@ -2,13 +2,14 @@
   "id": 203151151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.152071,46.800209,7.152071,46.800209",
     "geom:latitude":46.800209,
     "geom:longitude":7.152071,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Locarno 1 1700 Fribourg. Postfach",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203151151,
-    "wof:lastmodified":1449024955,
+    "wof:lastmodified":1466208923,
     "wof:name":"Dr Catherine Plancherel L\u00e9vy M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.152071,46.800209,7.152071,46.800209],
+  "bbox": [
+    7.152071,
+    46.800209,
+    7.152071,
+    46.800209
+],
   "geometry": {"coordinates":[7.152071,46.800209],"type":"Point"}
 }

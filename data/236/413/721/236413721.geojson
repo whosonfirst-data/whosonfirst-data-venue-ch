@@ -2,13 +2,14 @@
   "id": 236413721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.533412,46.722324,6.533412,46.722324",
     "geom:latitude":46.722324,
     "geom:longitude":6.533412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Tournelle 2",
     "sg:city":"Orbe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236413721,
-    "wof:lastmodified":1449002068,
+    "wof:lastmodified":1466212194,
     "wof:name":"Biblioth\u00e8que De La R\u00e9gion D'orbe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [6.533412,46.722324,6.533412,46.722324],
+  "bbox": [
+    6.533412,
+    46.722324,
+    6.533412,
+    46.722324
+],
   "geometry": {"coordinates":[6.533412,46.722324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169618821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.728496,47.539928,7.728496,47.539928",
     "geom:latitude":47.539928,
     "geom:longitude":7.728496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rinaustrasse",
     "sg:city":"Kaiseraugst",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169618821,
-    "wof:lastmodified":1449034738,
+    "wof:lastmodified":1466209591,
     "wof:name":"Provimi Kliba Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pelletizers"
     ]
 },
-  "bbox": [7.728496,47.539928,7.728496,47.539928],
+  "bbox": [
+    7.728496,
+    47.539928,
+    7.728496,
+    47.539928
+],
   "geometry": {"coordinates":[7.728496,47.539928],"type":"Point"}
 }

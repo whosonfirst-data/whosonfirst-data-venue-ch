@@ -2,13 +2,14 @@
   "id": 219310881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.291352,47.354225,7.291352,47.354225",
     "geom:latitude":47.354225,
     "geom:longitude":7.291352,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Porrentruy 3",
     "sg:city":"Develier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219310881,
-    "wof:lastmodified":1449072573,
+    "wof:lastmodified":1466209351,
     "wof:name":"Roger Sugnaux Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.291352,47.354225,7.291352,47.354225],
+  "bbox": [
+    7.291352,
+    47.354225,
+    7.291352,
+    47.354225
+],
   "geometry": {"coordinates":[7.291352,47.354225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253391075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.946731,47.286896,7.946731,47.286896",
     "geom:latitude":47.286896,
     "geom:longitude":7.946731,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vordere Hauptgasse 79",
     "sg:city":"Zofingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253391075,
-    "wof:lastmodified":1449064722,
+    "wof:lastmodified":1466212117,
     "wof:name":"B\u00fcro Bachmann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.946731,47.286896,7.946731,47.286896],
+  "bbox": [
+    7.946731,
+    47.286896,
+    7.946731,
+    47.286896
+],
   "geometry": {"coordinates":[7.946731,47.286896],"type":"Point"}
 }

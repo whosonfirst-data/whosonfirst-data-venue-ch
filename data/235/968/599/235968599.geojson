@@ -2,13 +2,14 @@
   "id": 235968599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.423316,47.270458,8.423316,47.270458",
     "geom:latitude":47.270458,
     "geom:longitude":8.423316,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnenstrasse 4",
     "sg:city":"Obfelden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235968599,
-    "wof:lastmodified":1449008298,
+    "wof:lastmodified":1466209228,
     "wof:name":"Paul Ott Schreinerei & Innenausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.423316,47.270458,8.423316,47.270458],
+  "bbox": [
+    8.423316,
+    47.270458,
+    8.423316,
+    47.270458
+],
   "geometry": {"coordinates":[8.423316,47.270458],"type":"Point"}
 }

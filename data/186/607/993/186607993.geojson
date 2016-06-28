@@ -2,13 +2,14 @@
   "id": 186607993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.083552,46.102772,7.083552,46.102772",
     "geom:latitude":46.102772,
     "geom:longitude":7.083552,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Petit-moncor 1 1752 Villars-sur-gl\u00e2ne. Postfach",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186607993,
-    "wof:lastmodified":1449050664,
+    "wof:lastmodified":1466212101,
     "wof:name":"Synd.chr\u00e9t.de L'industrie,de L'artisanat & Des Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.083552,46.102772,7.083552,46.102772],
+  "bbox": [
+    7.083552,
+    46.102772,
+    7.083552,
+    46.102772
+],
   "geometry": {"coordinates":[7.083552,46.102772],"type":"Point"}
 }

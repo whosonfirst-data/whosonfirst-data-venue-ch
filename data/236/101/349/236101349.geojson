@@ -2,13 +2,14 @@
   "id": 236101349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.022508,46.195225,9.022508,46.195225",
     "geom:latitude":46.195225,
     "geom:longitude":9.022508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vela 9",
     "sg:city":"Bellinzona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236101349,
-    "wof:lastmodified":1449003376,
+    "wof:lastmodified":1466209806,
     "wof:name":"Franco Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.022508,46.195225,9.022508,46.195225],
+  "bbox": [
+    9.022508,
+    46.195225,
+    9.022508,
+    46.195225
+],
   "geometry": {"coordinates":[9.022508,46.195225],"type":"Point"}
 }

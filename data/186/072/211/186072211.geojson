@@ -2,13 +2,14 @@
   "id": 186072211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.656167,47.346622,7.656167,47.346622",
     "geom:latitude":47.346622,
     "geom:longitude":7.656167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Passwangstrasse 184",
     "sg:city":"M\u00fcmliswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186072211,
-    "wof:lastmodified":1449051791,
+    "wof:lastmodified":1466210417,
     "wof:name":"Fluri Paul Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.656167,47.346622,7.656167,47.346622],
+  "bbox": [
+    7.656167,
+    47.346622,
+    7.656167,
+    47.346622
+],
   "geometry": {"coordinates":[7.656167,47.346622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219759751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548237,47.366486,8.548237,47.366486",
     "geom:latitude":47.366486,
     "geom:longitude":8.548237,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadelhoferstrasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219759751,
-    "wof:lastmodified":1449073974,
+    "wof:lastmodified":1466212401,
     "wof:name":"Z\u00fcrcher Kantonalbank",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548237,47.366486,8.548237,47.366486],
+  "bbox": [
+    8.548237,
+    47.366486,
+    8.548237,
+    47.366486
+],
   "geometry": {"coordinates":[8.548237,47.366486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219332677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.523816,47.369797,8.523816,47.369797",
     "geom:latitude":47.369797,
     "geom:longitude":8.523816,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werdstrasse 126 8003 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219332677,
-    "wof:lastmodified":1449072333,
+    "wof:lastmodified":1466209546,
     "wof:name":"Wildhaber Ag Garage & Carrosserie",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.523816,47.369797,8.523816,47.369797],
+  "bbox": [
+    8.523816,
+    47.369797,
+    8.523816,
+    47.369797
+],
   "geometry": {"coordinates":[8.523816,47.369797],"type":"Point"}
 }

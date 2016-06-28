@@ -2,13 +2,14 @@
   "id": 219782449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.06118,46.3895,8.06118,46.3895",
     "geom:latitude":46.3895,
     "geom:longitude":8.06118,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3992",
     "sg:city":"Bettmeralp",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219782449,
-    "wof:lastmodified":1449070365,
+    "wof:lastmodified":1466212503,
     "wof:name":"Bar Mittelaletsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.06118,46.3895,8.06118,46.3895],
+  "bbox": [
+    8.06118,
+    46.3895,
+    8.06118,
+    46.3895
+],
   "geometry": {"coordinates":[8.06118,46.3895],"type":"Point"}
 }

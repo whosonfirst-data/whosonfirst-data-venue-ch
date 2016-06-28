@@ -2,13 +2,14 @@
   "id": 219274265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.920705,47.238129,8.920705,47.238129",
     "geom:latitude":47.238129,
     "geom:longitude":8.920705,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstrasse 11",
     "sg:city":"Bernhardzell",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219274265,
-    "wof:lastmodified":1449070823,
+    "wof:lastmodified":1466209011,
     "wof:name":"Garage Charly B\u00fcsser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.920705,47.238129,8.920705,47.238129],
+  "bbox": [
+    8.920705,
+    47.238129,
+    8.920705,
+    47.238129
+],
   "geometry": {"coordinates":[8.920705,47.238129],"type":"Point"}
 }

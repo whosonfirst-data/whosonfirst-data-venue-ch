@@ -2,13 +2,14 @@
   "id": 186447431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.179269,46.74844,8.179269,46.74844",
     "geom:latitude":46.74844,
     "geom:longitude":8.179269,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstrasse",
     "sg:city":"Brunnenthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186447431,
-    "wof:lastmodified":1449052243,
+    "wof:lastmodified":1466210986,
     "wof:name":"Fritz Von Bergen Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.179269,46.74844,8.179269,46.74844],
+  "bbox": [
+    8.179269,
+    46.74844,
+    8.179269,
+    46.74844
+],
   "geometry": {"coordinates":[8.179269,46.74844],"type":"Point"}
 }

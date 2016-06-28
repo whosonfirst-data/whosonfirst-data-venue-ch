@@ -2,13 +2,14 @@
   "id": 202893671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.307151,47.467033,8.307151,47.467033",
     "geom:latitude":47.467033,
     "geom:longitude":8.307151,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ndliweg 24 5400 Baden. Postfach 1527",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202893671,
-    "wof:lastmodified":1449062187,
+    "wof:lastmodified":1466211986,
     "wof:name":"Martin Wetter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.307151,47.467033,8.307151,47.467033],
+  "bbox": [
+    8.307151,
+    47.467033,
+    8.307151,
+    47.467033
+],
   "geometry": {"coordinates":[8.307151,47.467033],"type":"Point"}
 }

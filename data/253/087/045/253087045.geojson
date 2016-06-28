@@ -2,13 +2,14 @@
   "id": 253087045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.955084,46.299927,6.955084,46.299927",
     "geom:latitude":46.299927,
     "geom:longitude":6.955084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Essertons",
     "sg:city":"Aigle",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253087045,
-    "wof:lastmodified":1449064189,
+    "wof:lastmodified":1466209785,
     "wof:name":"Bp (switzerland)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.955084,46.299927,6.955084,46.299927],
+  "bbox": [
+    6.955084,
+    46.299927,
+    6.955084,
+    46.299927
+],
   "geometry": {"coordinates":[6.955084,46.299927],"type":"Point"}
 }

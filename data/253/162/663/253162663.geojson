@@ -2,13 +2,14 @@
   "id": 253162663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.149795,46.794762,7.149795,46.794762",
     "geom:latitude":46.794762,
     "geom:longitude":7.149795,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route St-nicolas-de-fl\u00fce 2 1700 Fribourg. Postfach",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253162663,
-    "wof:lastmodified":1449065343,
+    "wof:lastmodified":1466210665,
     "wof:name":"Coop Boulangerie & P\u00e2tisserie Broye-fribourg-mol\u00e9son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.149795,46.794762,7.149795,46.794762],
+  "bbox": [
+    7.149795,
+    46.794762,
+    7.149795,
+    46.794762
+],
   "geometry": {"coordinates":[7.149795,46.794762],"type":"Point"}
 }

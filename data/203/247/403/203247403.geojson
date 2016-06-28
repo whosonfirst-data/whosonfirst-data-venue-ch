@@ -2,13 +2,14 @@
   "id": 203247403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.540374,47.202229,7.540374,47.202229",
     "geom:latitude":47.202229,
     "geom:longitude":7.540374,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandmattstrasse 4",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203247403,
-    "wof:lastmodified":1449026055,
+    "wof:lastmodified":1466209991,
     "wof:name":"Dr.med. Franziska Keller \u00c4rztin F.allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.540374,47.202229,7.540374,47.202229],
+  "bbox": [
+    7.540374,
+    47.202229,
+    7.540374,
+    47.202229
+],
   "geometry": {"coordinates":[7.540374,47.202229],"type":"Point"}
 }

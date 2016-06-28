@@ -2,13 +2,14 @@
   "id": 203413373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436234,46.958263,7.436234,46.958263",
     "geom:latitude":46.958263,
     "geom:longitude":7.436234,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neubr\u00fcckstrasse 93",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203413373,
-    "wof:lastmodified":1449025230,
+    "wof:lastmodified":1466211749,
     "wof:name":"Dr.med.stephan Steiner Spezialarzt Fmh",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436234,46.958263,7.436234,46.958263],
+  "bbox": [
+    7.436234,
+    46.958263,
+    7.436234,
+    46.958263
+],
   "geometry": {"coordinates":[7.436234,46.958263],"type":"Point"}
 }

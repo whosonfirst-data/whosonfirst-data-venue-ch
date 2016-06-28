@@ -2,13 +2,14 @@
   "id": 219325273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.423051,47.283016,7.423051,47.283016",
     "geom:latitude":47.283016,
     "geom:longitude":7.423051,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Cantonale 25c",
     "sg:city":"Grandval",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219325273,
-    "wof:lastmodified":1449071774,
+    "wof:lastmodified":1466209482,
     "wof:name":"City Garage Sa Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.423051,47.283016,7.423051,47.283016],
+  "bbox": [
+    7.423051,
+    47.283016,
+    7.423051,
+    47.283016
+],
   "geometry": {"coordinates":[7.423051,47.283016],"type":"Point"}
 }

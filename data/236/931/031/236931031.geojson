@@ -2,13 +2,14 @@
   "id": 236931031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.959361,47.351994,7.959361,47.351994",
     "geom:latitude":47.351994,
     "geom:longitude":7.959361,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oetlingerstrasse 10",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236931031,
-    "wof:lastmodified":1449004894,
+    "wof:lastmodified":1466213026,
     "wof:name":"H + S Logistik Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.959361,47.351994,7.959361,47.351994],
+  "bbox": [
+    7.959361,
+    47.351994,
+    7.959361,
+    47.351994
+],
   "geometry": {"coordinates":[7.959361,47.351994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253402815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.810276,47.332584,8.810276,47.332584",
     "geom:latitude":47.332584,
     "geom:longitude":8.810276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wallisellenstrasse 318 8050 Z\u00fcrich. Postfach 8050 Z\u00fcrich",
     "sg:city":"Zust",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253402815,
-    "wof:lastmodified":1449063770,
+    "wof:lastmodified":1466212282,
     "wof:name":"Easy Way Computer-workshop, Zimmerli R.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.810276,47.332584,8.810276,47.332584],
+  "bbox": [
+    8.810276,
+    47.332584,
+    8.810276,
+    47.332584
+],
   "geometry": {"coordinates":[8.810276,47.332584],"type":"Point"}
 }

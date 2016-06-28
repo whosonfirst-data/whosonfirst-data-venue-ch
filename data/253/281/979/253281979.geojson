@@ -2,13 +2,14 @@
   "id": 253281979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.277245,46.480255,7.277245,46.480255",
     "geom:latitude":46.480255,
     "geom:longitude":7.277245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aebnitstrasse",
     "sg:city":"Gstaad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253281979,
-    "wof:lastmodified":1449065321,
+    "wof:lastmodified":1466211906,
     "wof:name":"Heinz Brand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.277245,46.480255,7.277245,46.480255],
+  "bbox": [
+    7.277245,
+    46.480255,
+    7.277245,
+    46.480255
+],
   "geometry": {"coordinates":[7.277245,46.480255],"type":"Point"}
 }

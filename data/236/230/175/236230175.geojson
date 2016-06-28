@@ -2,13 +2,14 @@
   "id": 236230175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.790197,47.203663,8.790197,47.203663",
     "geom:latitude":47.203663,
     "geom:longitude":8.790197,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seedammstrasse 3 8808 Pf\u00e4ffikon Sz. Postfach",
     "sg:city":"H\u00fcttwilen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236230175,
-    "wof:lastmodified":1449004223,
+    "wof:lastmodified":1466211142,
     "wof:name":"Olympvs International Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.790197,47.203663,8.790197,47.203663],
+  "bbox": [
+    8.790197,
+    47.203663,
+    8.790197,
+    47.203663
+],
   "geometry": {"coordinates":[8.790197,47.203663],"type":"Point"}
 }

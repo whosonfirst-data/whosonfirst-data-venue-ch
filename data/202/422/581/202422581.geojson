@@ -2,13 +2,14 @@
   "id": 202422581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.668978,46.512516,6.668978,46.512516",
     "geom:latitude":46.512516,
     "geom:longitude":6.668978,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Vigneron 16",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202422581,
-    "wof:lastmodified":1449060284,
+    "wof:lastmodified":1466210112,
     "wof:name":"Bsa Ing\u00e9nieurs Conseils",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.668978,46.512516,6.668978,46.512516],
+  "bbox": [
+    6.668978,
+    46.512516,
+    6.668978,
+    46.512516
+],
   "geometry": {"coordinates":[6.668978,46.512516],"type":"Point"}
 }

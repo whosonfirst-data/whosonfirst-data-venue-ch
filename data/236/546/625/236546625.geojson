@@ -2,13 +2,14 @@
   "id": 236546625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.636094,46.523258,6.636094,46.523258",
     "geom:latitude":46.523258,
     "geom:longitude":6.636094,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cit\u00e9-derri\u00e8re Rue 12 1005 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236546625,
-    "wof:lastmodified":1449001674,
+    "wof:lastmodified":1466212588,
     "wof:name":"Ami De La Go\u00e9lette, Mac Innes",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "boot"
     ]
 },
-  "bbox": [6.636094,46.523258,6.636094,46.523258],
+  "bbox": [
+    6.636094,
+    46.523258,
+    6.636094,
+    46.523258
+],
   "geometry": {"coordinates":[6.636094,46.523258],"type":"Point"}
 }

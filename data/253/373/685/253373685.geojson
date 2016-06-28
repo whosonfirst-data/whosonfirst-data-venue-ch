@@ -2,13 +2,14 @@
   "id": 253373685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.630766,46.528645,6.630766,46.528645",
     "geom:latitude":46.528645,
     "geom:longitude":6.630766,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Pontaise 4 1018 Lausanne Case Postale 244",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253373685,
-    "wof:lastmodified":1449064350,
+    "wof:lastmodified":1466212052,
     "wof:name":"S\u00e9galat Roger.",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.630766,46.528645,6.630766,46.528645],
+  "bbox": [
+    6.630766,
+    46.528645,
+    6.630766,
+    46.528645
+],
   "geometry": {"coordinates":[6.630766,46.528645],"type":"Point"}
 }

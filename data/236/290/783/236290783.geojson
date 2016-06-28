@@ -2,13 +2,14 @@
   "id": 236290783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58408,47.459652,7.58408,47.459652",
     "geom:latitude":47.459652,
     "geom:longitude":7.58408,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schollenackerweg 6",
     "sg:city":"Pfeffingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236290783,
-    "wof:lastmodified":1449003003,
+    "wof:lastmodified":1466211799,
     "wof:name":"Cartax Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.58408,47.459652,7.58408,47.459652],
+  "bbox": [
+    7.58408,
+    47.459652,
+    7.58408,
+    47.459652
+],
   "geometry": {"coordinates":[7.58408,47.459652],"type":"Point"}
 }

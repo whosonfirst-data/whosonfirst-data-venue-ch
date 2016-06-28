@@ -2,13 +2,14 @@
   "id": 169708873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.616309,47.513851,7.616309,47.513851",
     "geom:latitude":47.513851,
     "geom:longitude":7.616309,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidenstrasse 27 4142 M\u00fcnchenstein. Postfach",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169708873,
-    "wof:lastmodified":1449033207,
+    "wof:lastmodified":1466210994,
     "wof:name":"Personalversicherungskasse Der Elektra Birseck",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.616309,47.513851,7.616309,47.513851],
+  "bbox": [
+    7.616309,
+    47.513851,
+    7.616309,
+    47.513851
+],
   "geometry": {"coordinates":[7.616309,47.513851],"type":"Point"}
 }

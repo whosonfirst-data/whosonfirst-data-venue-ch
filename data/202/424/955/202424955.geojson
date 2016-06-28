@@ -2,13 +2,14 @@
   "id": 202424955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.476689,47.080296,9.476689,47.080296",
     "geom:latitude":47.080296,
     "geom:longitude":9.476689,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00e4chtergut 3b",
     "sg:city":"Azmoos",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202424955,
-    "wof:lastmodified":1449062488,
+    "wof:lastmodified":1466210156,
     "wof:name":"Bumbacher Bauconsulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.476689,47.080296,9.476689,47.080296],
+  "bbox": [
+    9.476689,
+    47.080296,
+    9.476689,
+    47.080296
+],
   "geometry": {"coordinates":[9.476689,47.080296],"type":"Point"}
 }

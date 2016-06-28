@@ -2,13 +2,14 @@
   "id": 186248837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.236018,47.136326,7.236018,47.136326",
     "geom:latitude":47.136326,
     "geom:longitude":7.236018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seevorstadt 29 2502 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186248837,
-    "wof:lastmodified":1449051849,
+    "wof:lastmodified":1466209463,
     "wof:name":"Widmer Bau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.236018,47.136326,7.236018,47.136326],
+  "bbox": [
+    7.236018,
+    47.136326,
+    7.236018,
+    47.136326
+],
   "geometry": {"coordinates":[7.236018,47.136326],"type":"Point"}
 }

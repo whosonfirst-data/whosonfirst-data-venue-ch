@@ -2,13 +2,14 @@
   "id": 186478559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.905459,47.48999,8.905459,47.48999",
     "geom:latitude":47.48999,
     "geom:longitude":8.905459,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlewiesestrasse 4",
     "sg:city":"Aadorf",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186478559,
-    "wof:lastmodified":1449050356,
+    "wof:lastmodified":1466211254,
     "wof:name":"Alters-& Pflegeheim Aaheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.905459,47.48999,8.905459,47.48999],
+  "bbox": [
+    8.905459,
+    47.48999,
+    8.905459,
+    47.48999
+],
   "geometry": {"coordinates":[8.905459,47.48999],"type":"Point"}
 }

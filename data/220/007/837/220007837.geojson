@@ -2,13 +2,14 @@
   "id": 220007837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.714507,47.322151,7.714507,47.322151",
     "geom:latitude":47.322151,
     "geom:longitude":7.714507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merstrasse 15",
     "sg:city":"Balsthal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220007837,
-    "wof:lastmodified":1449074719,
+    "wof:lastmodified":1466208947,
     "wof:name":"Ernst Eicher Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.714507,47.322151,7.714507,47.322151],
+  "bbox": [
+    7.714507,
+    47.322151,
+    7.714507,
+    47.322151
+],
   "geometry": {"coordinates":[7.714507,47.322151],"type":"Point"}
 }

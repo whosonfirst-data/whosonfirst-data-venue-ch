@@ -2,13 +2,14 @@
   "id": 185637207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598735,47.49173,7.598735,47.49173",
     "geom:latitude":47.49173,
     "geom:longitude":7.598735,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrenweg 40",
     "sg:city":"Reinach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185637207,
-    "wof:lastmodified":1449006595,
+    "wof:lastmodified":1466210038,
     "wof:name":"R. Buser Ip-soft",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [7.598735,47.49173,7.598735,47.49173],
+  "bbox": [
+    7.598735,
+    47.49173,
+    7.598735,
+    47.49173
+],
   "geometry": {"coordinates":[7.598735,47.49173],"type":"Point"}
 }

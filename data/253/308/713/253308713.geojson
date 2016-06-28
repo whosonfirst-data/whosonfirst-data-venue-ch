@@ -2,13 +2,14 @@
   "id": 253308713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.61767,47.522919,7.61767,47.522919",
     "geom:latitude":47.522919,
     "geom:longitude":7.61767,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 71",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253308713,
-    "wof:lastmodified":1449065875,
+    "wof:lastmodified":1466211762,
     "wof:name":"Bistro Zollweiden",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.61767,47.522919,7.61767,47.522919],
+  "bbox": [
+    7.61767,
+    47.522919,
+    7.61767,
+    47.522919
+],
   "geometry": {"coordinates":[7.61767,47.522919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235950051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.528593,47.229214,7.528593,47.229214",
     "geom:latitude":47.229214,
     "geom:longitude":7.528593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 20",
     "sg:city":"R\u00fcttenen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235950051,
-    "wof:lastmodified":1449008391,
+    "wof:lastmodified":1466209064,
     "wof:name":"Edgar Friedli Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.528593,47.229214,7.528593,47.229214],
+  "bbox": [
+    7.528593,
+    47.229214,
+    7.528593,
+    47.229214
+],
   "geometry": {"coordinates":[7.528593,47.229214],"type":"Point"}
 }

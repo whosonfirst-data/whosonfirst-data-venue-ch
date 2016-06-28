@@ -2,13 +2,14 @@
   "id": 203093227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.451127,46.958141,7.451127,46.958141",
     "geom:latitude":46.958141,
     "geom:longitude":7.451127,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"J\u00e4gerweg 7",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203093227,
-    "wof:lastmodified":1449024937,
+    "wof:lastmodified":1466211007,
     "wof:name":"Utiger F. Architekten Ag Architekturb\u00fcro",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.451127,46.958141,7.451127,46.958141],
+  "bbox": [
+    7.451127,
+    46.958141,
+    7.451127,
+    46.958141
+],
   "geometry": {"coordinates":[7.451127,46.958141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203345603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526716,47.361546,8.526716,47.361546",
     "geom:latitude":47.361546,
     "geom:longitude":8.526716,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waffenplatzstrasse 5",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203345603,
-    "wof:lastmodified":1449026719,
+    "wof:lastmodified":1466210986,
     "wof:name":"Dr.med.igor Zilincan Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526716,47.361546,8.526716,47.361546],
+  "bbox": [
+    8.526716,
+    47.361546,
+    8.526716,
+    47.361546
+],
   "geometry": {"coordinates":[8.526716,47.361546],"type":"Point"}
 }

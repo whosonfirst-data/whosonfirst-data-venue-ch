@@ -2,13 +2,14 @@
   "id": 185997539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.436582,47.031216,9.436582,47.031216",
     "geom:latitude":47.031216,
     "geom:longitude":9.436582,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartischweg 3 7323 Wangs. Postfach",
     "sg:city":"Wangs",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185997539,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1466210781,
     "wof:name":"Ackermann Generalbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.436582,47.031216,9.436582,47.031216],
+  "bbox": [
+    9.436582,
+    47.031216,
+    9.436582,
+    47.031216
+],
   "geometry": {"coordinates":[9.436582,47.031216],"type":"Point"}
 }

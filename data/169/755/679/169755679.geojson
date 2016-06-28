@@ -2,13 +2,14 @@
   "id": 169755679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.458573,46.941551,7.458573,46.941551",
     "geom:latitude":46.941551,
     "geom:longitude":7.458573,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchenfeldstrasse 68 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169755679,
-    "wof:lastmodified":1449033613,
+    "wof:lastmodified":1466211394,
     "wof:name":"Israeli Embassy",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.458573,46.941551,7.458573,46.941551],
+  "bbox": [
+    7.458573,
+    46.941551,
+    7.458573,
+    46.941551
+],
   "geometry": {"coordinates":[7.458573,46.941551],"type":"Point"}
 }

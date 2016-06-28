@@ -2,13 +2,14 @@
   "id": 253000805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.467626,46.952389,7.467626,46.952389",
     "geom:latitude":46.952389,
     "geom:longitude":7.467626,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostermundigenstrasse 38",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253000805,
-    "wof:lastmodified":1449063288,
+    "wof:lastmodified":1466211634,
     "wof:name":"Sandra Wanzenried Polster-& Vorhangatelier",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.467626,46.952389,7.467626,46.952389],
+  "bbox": [
+    7.467626,
+    46.952389,
+    7.467626,
+    46.952389
+],
   "geometry": {"coordinates":[7.467626,46.952389],"type":"Point"}
 }

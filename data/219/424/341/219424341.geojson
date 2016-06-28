@@ -2,13 +2,14 @@
   "id": 219424341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633069,46.52013,6.633069,46.52013",
     "geom:latitude":46.52013,
     "geom:longitude":6.633069,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place St.-fran\u00e7ois 6 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219424341,
-    "wof:lastmodified":1449073689,
+    "wof:lastmodified":1466210402,
     "wof:name":"Wagons-lits Tourisme Transports Internationaux",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.633069,46.52013,6.633069,46.52013],
+  "bbox": [
+    6.633069,
+    46.52013,
+    6.633069,
+    46.52013
+],
   "geometry": {"coordinates":[6.633069,46.52013],"type":"Point"}
 }

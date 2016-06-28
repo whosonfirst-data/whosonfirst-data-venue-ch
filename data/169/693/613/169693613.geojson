@@ -2,13 +2,14 @@
   "id": 169693613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.52238,46.52496,6.52238,46.52496",
     "geom:latitude":46.52496,
     "geom:longitude":6.52238,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte Des Denges 8",
     "sg:city":"Lonay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169693613,
-    "wof:lastmodified":1449032874,
+    "wof:lastmodified":1466210853,
     "wof:name":"Hebor Sa",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mechanical"
     ]
 },
-  "bbox": [6.52238,46.52496,6.52238,46.52496],
+  "bbox": [
+    6.52238,
+    46.52496,
+    6.52238,
+    46.52496
+],
   "geometry": {"coordinates":[6.52238,46.52496],"type":"Point"}
 }

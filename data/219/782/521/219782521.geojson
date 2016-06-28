@@ -2,13 +2,14 @@
   "id": 219782521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543022,47.373051,8.543022,47.373051",
     "geom:latitude":47.373051,
     "geom:longitude":8.543022,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosengasse 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":219782521,
-    "wof:lastmodified":1449070366,
+    "wof:lastmodified":1466212503,
     "wof:name":"Bar Nino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543022,47.373051,8.543022,47.373051],
+  "bbox": [
+    8.543022,
+    47.373051,
+    8.543022,
+    47.373051
+],
   "geometry": {"coordinates":[8.543022,47.373051],"type":"Point"}
 }

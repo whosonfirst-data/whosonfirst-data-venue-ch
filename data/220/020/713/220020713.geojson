@@ -2,13 +2,14 @@
   "id": 220020713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.426614,47.374001,9.426614,47.374001",
     "geom:latitude":47.374001,
     "geom:longitude":9.426614,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebne 23",
     "sg:city":"B\u00fchler",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220020713,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1466209056,
     "wof:name":"Jakob Meier Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.426614,47.374001,9.426614,47.374001],
+  "bbox": [
+    9.426614,
+    47.374001,
+    9.426614,
+    47.374001
+],
   "geometry": {"coordinates":[9.426614,47.374001],"type":"Point"}
 }

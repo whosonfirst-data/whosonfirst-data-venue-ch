@@ -2,13 +2,14 @@
   "id": 236366121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.754785,47.203472,8.754785,47.203472",
     "geom:latitude":47.203472,
     "geom:longitude":8.754785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstrasse 24",
     "sg:city":"Freienbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236366121,
-    "wof:lastmodified":1449004173,
+    "wof:lastmodified":1466212134,
     "wof:name":"Realschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.754785,47.203472,8.754785,47.203472],
+  "bbox": [
+    8.754785,
+    47.203472,
+    8.754785,
+    47.203472
+],
   "geometry": {"coordinates":[8.754785,47.203472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219988535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.460649,46.966545,8.460649,46.966545",
     "geom:latitude":46.966545,
     "geom:longitude":8.460649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nidertiststrasse 12 6375 Beckenried. Postfach 51",
     "sg:city":"Beckenried",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219988535,
-    "wof:lastmodified":1449071614,
+    "wof:lastmodified":1466212781,
     "wof:name":"Mathis Sanit\u00e4rplanung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.460649,46.966545,8.460649,46.966545],
+  "bbox": [
+    8.460649,
+    46.966545,
+    8.460649,
+    46.966545
+],
   "geometry": {"coordinates":[8.460649,46.966545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236488819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.345427,47.395718,8.345427,47.395718",
     "geom:latitude":47.395718,
     "geom:longitude":8.345427,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauserstrasse 18",
     "sg:city":"Bellikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236488819,
-    "wof:lastmodified":1449005147,
+    "wof:lastmodified":1466212417,
     "wof:name":"Poseidon Line, Weber Werner Und Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.345427,47.395718,8.345427,47.395718],
+  "bbox": [
+    8.345427,
+    47.395718,
+    8.345427,
+    47.395718
+],
   "geometry": {"coordinates":[8.345427,47.395718],"type":"Point"}
 }

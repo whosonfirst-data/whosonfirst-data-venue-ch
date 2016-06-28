@@ -2,13 +2,14 @@
   "id": 185955395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.843496,47.560692,7.843496,47.560692",
     "geom:latitude":47.560692,
     "geom:longitude":7.843496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"4313",
     "sg:city":"M\u00f6hlin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185955395,
-    "wof:lastmodified":1449007707,
+    "wof:lastmodified":1466210338,
     "wof:name":"Berufswahlschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.843496,47.560692,7.843496,47.560692],
+  "bbox": [
+    7.843496,
+    47.560692,
+    7.843496,
+    47.560692
+],
   "geometry": {"coordinates":[7.843496,47.560692],"type":"Point"}
 }

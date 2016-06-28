@@ -2,13 +2,14 @@
   "id": 203231345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.055702,46.616909,7.055702,46.616909",
     "geom:latitude":46.616909,
     "geom:longitude":7.055702,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Locarno 3",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203231345,
-    "wof:lastmodified":1449025901,
+    "wof:lastmodified":1466209817,
     "wof:name":"Dr M\u00e9d. Viktor Matejovsky M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.055702,46.616909,7.055702,46.616909],
+  "bbox": [
+    7.055702,
+    46.616909,
+    7.055702,
+    46.616909
+],
   "geometry": {"coordinates":[7.055702,46.616909],"type":"Point"}
 }

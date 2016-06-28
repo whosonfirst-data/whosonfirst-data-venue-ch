@@ -2,13 +2,14 @@
   "id": 169625429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.483666,47.389103,8.483666,47.389103",
     "geom:latitude":47.389103,
     "geom:longitude":8.483666,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachmattstr. 59",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169625429,
-    "wof:lastmodified":1449036026,
+    "wof:lastmodified":1466209705,
     "wof:name":"Migros Pensionskasse",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "insurance"
     ]
 },
-  "bbox": [8.483666,47.389103,8.483666,47.389103],
+  "bbox": [
+    8.483666,
+    47.389103,
+    8.483666,
+    47.389103
+],
   "geometry": {"coordinates":[8.483666,47.389103],"type":"Point"}
 }

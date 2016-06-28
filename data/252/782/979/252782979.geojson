@@ -2,13 +2,14 @@
   "id": 252782979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.106336,46.810879,7.106336,46.810879",
     "geom:latitude":46.810879,
     "geom:longitude":7.106336,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Impasse De La Colline 1",
     "sg:city":"Corminboeuf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252782979,
-    "wof:lastmodified":1449005398,
+    "wof:lastmodified":1466209708,
     "wof:name":"Piller Yves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.106336,46.810879,7.106336,46.810879],
+  "bbox": [
+    7.106336,
+    46.810879,
+    7.106336,
+    46.810879
+],
   "geometry": {"coordinates":[7.106336,46.810879],"type":"Point"}
 }

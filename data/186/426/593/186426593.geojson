@@ -2,13 +2,14 @@
   "id": 186426593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.863092,47.176701,8.863092,47.176701",
     "geom:latitude":47.176701,
     "geom:longitude":8.863092,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuchsronsstrasse 43",
     "sg:city":"Galgenen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186426593,
-    "wof:lastmodified":1449050975,
+    "wof:lastmodified":1466210815,
     "wof:name":"Josef Krieg Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.863092,47.176701,8.863092,47.176701],
+  "bbox": [
+    8.863092,
+    47.176701,
+    8.863092,
+    47.176701
+],
   "geometry": {"coordinates":[8.863092,47.176701],"type":"Point"}
 }

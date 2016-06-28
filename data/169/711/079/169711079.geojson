@@ -2,13 +2,14 @@
   "id": 169711079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.606074,46.52594,6.606074,46.52594",
     "geom:latitude":46.52594,
     "geom:longitude":6.606074,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-pr\u00e9 10",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169711079,
-    "wof:lastmodified":1449035355,
+    "wof:lastmodified":1466211053,
     "wof:name":"Unimed S.a.",
     "wof:parent_id":85800425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "moulded"
     ]
 },
-  "bbox": [6.606074,46.52594,6.606074,46.52594],
+  "bbox": [
+    6.606074,
+    46.52594,
+    6.606074,
+    46.52594
+],
   "geometry": {"coordinates":[6.606074,46.52594],"type":"Point"}
 }

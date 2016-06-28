@@ -2,13 +2,14 @@
   "id": 202640831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.900029,47.558052,8.900029,47.558052",
     "geom:latitude":47.558052,
     "geom:longitude":8.900029,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstr. 210",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202640831,
-    "wof:lastmodified":1449061223,
+    "wof:lastmodified":1466210040,
     "wof:name":"M\u00fcller Gabriel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.900029,47.558052,8.900029,47.558052],
+  "bbox": [
+    8.900029,
+    47.558052,
+    8.900029,
+    47.558052
+],
   "geometry": {"coordinates":[8.900029,47.558052],"type":"Point"}
 }

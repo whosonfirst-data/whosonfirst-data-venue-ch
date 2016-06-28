@@ -2,13 +2,14 @@
   "id": 202918133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.949345,47.16256,7.949345,47.16256",
     "geom:latitude":47.16256,
     "geom:longitude":7.949345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6rzingen 2",
     "sg:city":"Ohmstal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202918133,
-    "wof:lastmodified":1449061811,
+    "wof:lastmodified":1466212082,
     "wof:name":"Prodec Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.949345,47.16256,7.949345,47.16256],
+  "bbox": [
+    7.949345,
+    47.16256,
+    7.949345,
+    47.16256
+],
   "geometry": {"coordinates":[7.949345,47.16256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253310431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.726861,47.499271,8.726861,47.499271",
     "geom:latitude":47.499271,
     "geom:longitude":8.726861,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 57 8400 Winterthur. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253310431,
-    "wof:lastmodified":1449064631,
+    "wof:lastmodified":1466211907,
     "wof:name":"Buchhandlung Hoster Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.726861,47.499271,8.726861,47.499271],
+  "bbox": [
+    8.726861,
+    47.499271,
+    8.726861,
+    47.499271
+],
   "geometry": {"coordinates":[8.726861,47.499271],"type":"Point"}
 }

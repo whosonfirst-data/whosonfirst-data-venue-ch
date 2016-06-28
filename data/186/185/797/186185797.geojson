@@ -2,13 +2,14 @@
   "id": 186185797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598434,47.473633,7.598434,47.473633",
     "geom:latitude":47.473633,
     "geom:longitude":7.598434,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baumgartenweg 10",
     "sg:city":"Ittigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186185797,
-    "wof:lastmodified":1449050854,
+    "wof:lastmodified":1466208975,
     "wof:name":"Renovatech Gmbh",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.598434,47.473633,7.598434,47.473633],
+  "bbox": [
+    7.598434,
+    47.473633,
+    7.598434,
+    47.473633
+],
   "geometry": {"coordinates":[7.598434,47.473633],"type":"Point"}
 }

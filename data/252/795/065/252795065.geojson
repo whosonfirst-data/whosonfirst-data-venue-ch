@@ -2,13 +2,14 @@
   "id": 252795065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.098719,46.189915,6.098719,46.189915",
     "geom:latitude":46.189915,
     "geom:longitude":6.098719,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Vieux-moulin 17",
     "sg:city":"Onex",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252795065,
-    "wof:lastmodified":1449006071,
+    "wof:lastmodified":1466209849,
     "wof:name":"Camille Bussard Brocante",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.098719,46.189915,6.098719,46.189915],
+  "bbox": [
+    6.098719,
+    46.189915,
+    6.098719,
+    46.189915
+],
   "geometry": {"coordinates":[6.098719,46.189915],"type":"Point"}
 }

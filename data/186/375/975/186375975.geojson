@@ -2,13 +2,14 @@
   "id": 186375975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312144,46.987637,8.312144,46.987637",
     "geom:latitude":46.987637,
     "geom:longitude":8.312144,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Da Spultri",
     "sg:city":"Poschiavo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186375975,
-    "wof:lastmodified":1449050365,
+    "wof:lastmodified":1466210405,
     "wof:name":"Poli Bau Ag",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.312144,46.987637,8.312144,46.987637],
+  "bbox": [
+    8.312144,
+    46.987637,
+    8.312144,
+    46.987637
+],
   "geometry": {"coordinates":[8.312144,46.987637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185744253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.373594,47.426014,9.373594,47.426014",
     "geom:latitude":47.426014,
     "geom:longitude":9.373594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grauholzstrasse 54",
     "sg:city":"Ittigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185744253,
-    "wof:lastmodified":1449007176,
+    "wof:lastmodified":1466211473,
     "wof:name":"Thomas Rietmann Advokaturb\u00fcro",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.373594,47.426014,9.373594,47.426014],
+  "bbox": [
+    9.373594,
+    47.426014,
+    9.373594,
+    47.426014
+],
   "geometry": {"coordinates":[9.373594,47.426014],"type":"Point"}
 }

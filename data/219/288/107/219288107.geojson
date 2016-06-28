@@ -2,13 +2,14 @@
   "id": 219288107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.140407,46.220322,6.140407,46.220322",
     "geom:latitude":46.220322,
     "geom:longitude":6.140407,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchacker 52",
     "sg:city":"H\u00f6chstetten",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219288107,
-    "wof:lastmodified":1449070758,
+    "wof:lastmodified":1466209136,
     "wof:name":"Heinz Schiller Garage",
     "wof:parent_id":85862455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.140407,46.220322,6.140407,46.220322],
+  "bbox": [
+    6.140407,
+    46.220322,
+    6.140407,
+    46.220322
+],
   "geometry": {"coordinates":[6.140407,46.220322],"type":"Point"}
 }

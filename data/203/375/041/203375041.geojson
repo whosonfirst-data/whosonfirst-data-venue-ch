@@ -2,13 +2,14 @@
   "id": 203375041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.568418,46.87188,7.568418,46.87188",
     "geom:latitude":46.87188,
     "geom:longitude":7.568418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Krankenhausweg 18a",
     "sg:city":"M\u00fcnsingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203375041,
-    "wof:lastmodified":1449025018,
+    "wof:lastmodified":1466211282,
     "wof:name":"Dr.med.markus C. Michel Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.568418,46.87188,7.568418,46.87188],
+  "bbox": [
+    7.568418,
+    46.87188,
+    7.568418,
+    46.87188
+],
   "geometry": {"coordinates":[7.568418,46.87188],"type":"Point"}
 }

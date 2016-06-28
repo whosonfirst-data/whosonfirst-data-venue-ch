@@ -2,13 +2,14 @@
   "id": 202903081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.235835,47.331783,7.235835,47.331783",
     "geom:latitude":47.331783,
     "geom:longitude":7.235835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Crosattes-dessus 9",
     "sg:city":"Bassecourt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202903081,
-    "wof:lastmodified":1449060260,
+    "wof:lastmodified":1466212019,
     "wof:name":"Cep Technique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.235835,47.331783,7.235835,47.331783],
+  "bbox": [
+    7.235835,
+    47.331783,
+    7.235835,
+    47.331783
+],
   "geometry": {"coordinates":[7.235835,47.331783],"type":"Point"}
 }

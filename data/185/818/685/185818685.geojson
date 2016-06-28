@@ -2,13 +2,14 @@
   "id": 185818685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.434152,47.440552,8.434152,47.440552",
     "geom:latitude":47.440552,
     "geom:longitude":8.434152,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4nikerstr. 31",
     "sg:city":"D\u00e4llikon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185818685,
-    "wof:lastmodified":1449007413,
+    "wof:lastmodified":1466209241,
     "wof:name":"Forster Gem\u00dcse Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [8.434152,47.440552,8.434152,47.440552],
+  "bbox": [
+    8.434152,
+    47.440552,
+    8.434152,
+    47.440552
+],
   "geometry": {"coordinates":[8.434152,47.440552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219210571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.349251,46.890881,7.349251,46.890881",
     "geom:latitude":46.890881,
     "geom:longitude":7.349251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnmattstrasse 13",
     "sg:city":"Th\u00f6rishaus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219210571,
-    "wof:lastmodified":1449071600,
+    "wof:lastmodified":1466211076,
     "wof:name":"Wampfler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "assembly"
     ]
 },
-  "bbox": [7.349251,46.890881,7.349251,46.890881],
+  "bbox": [
+    7.349251,
+    46.890881,
+    7.349251,
+    46.890881
+],
   "geometry": {"coordinates":[7.349251,46.890881],"type":"Point"}
 }

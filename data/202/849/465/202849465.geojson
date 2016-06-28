@@ -2,13 +2,14 @@
   "id": 202849465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.136655,46.179714,6.136655,46.179714",
     "geom:latitude":46.179714,
     "geom:longitude":6.136655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dufourstrasse 195 8008 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202849465,
-    "wof:lastmodified":1449060578,
+    "wof:lastmodified":1466211908,
     "wof:name":"Omarini Et Heubi",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.136655,46.179714,6.136655,46.179714],
+  "bbox": [
+    6.136655,
+    46.179714,
+    6.136655,
+    46.179714
+],
   "geometry": {"coordinates":[6.136655,46.179714],"type":"Point"}
 }

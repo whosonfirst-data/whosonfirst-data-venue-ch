@@ -2,13 +2,14 @@
   "id": 236399201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593252,47.554111,7.593252,47.554111",
     "geom:latitude":47.554111,
     "geom:longitude":7.593252,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-graben 8 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236399201,
-    "wof:lastmodified":1449002113,
+    "wof:lastmodified":1466212242,
     "wof:name":"Bibliothek Der Basler Handelskammer",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.593252,47.554111,7.593252,47.554111],
+  "bbox": [
+    7.593252,
+    47.554111,
+    7.593252,
+    47.554111
+],
   "geometry": {"coordinates":[7.593252,47.554111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236636845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196013,47.22916,9.196013,47.22916",
     "geom:latitude":47.22916,
     "geom:longitude":9.196013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstrasse 38",
     "sg:city":"Matzingen",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236636845,
-    "wof:lastmodified":1449002869,
+    "wof:lastmodified":1466212729,
     "wof:name":"Meyer-mayor Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "canvas"
     ]
 },
-  "bbox": [9.196013,47.22916,9.196013,47.22916],
+  "bbox": [
+    9.196013,
+    47.22916,
+    9.196013,
+    47.22916
+],
   "geometry": {"coordinates":[9.196013,47.22916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169664855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.21748,47.162212,7.21748,47.162212",
     "geom:latitude":47.162212,
     "geom:longitude":7.21748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Du Village 1",
     "sg:city":"Orvin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169664855,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466210336,
     "wof:name":"Banque Raiffeisen De Chasseral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.21748,47.162212,7.21748,47.162212],
+  "bbox": [
+    7.21748,
+    47.162212,
+    7.21748,
+    47.162212
+],
   "geometry": {"coordinates":[7.21748,47.162212],"type":"Point"}
 }

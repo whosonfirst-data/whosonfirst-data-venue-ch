@@ -2,13 +2,14 @@
   "id": 236542433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.569226,47.463837,9.569226,47.463837",
     "geom:latitude":47.463837,
     "geom:longitude":9.569226,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Appenzellerstrasse 2",
     "sg:city":"Thal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236542433,
-    "wof:lastmodified":1449004356,
+    "wof:lastmodified":1466212580,
     "wof:name":"Vetter Druck Thal Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [9.569226,47.463837,9.569226,47.463837],
+  "bbox": [
+    9.569226,
+    47.463837,
+    9.569226,
+    47.463837
+],
   "geometry": {"coordinates":[9.569226,47.463837],"type":"Point"}
 }

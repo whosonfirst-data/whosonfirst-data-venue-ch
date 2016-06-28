@@ -2,13 +2,14 @@
   "id": 219371185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.698425,47.48214,8.698425,47.48214",
     "geom:latitude":47.48214,
     "geom:longitude":8.698425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bodenweg 13",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219371185,
-    "wof:lastmodified":1449073149,
+    "wof:lastmodified":1466209882,
     "wof:name":"Calgra Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automation"
     ]
 },
-  "bbox": [8.698425,47.48214,8.698425,47.48214],
+  "bbox": [
+    8.698425,
+    47.48214,
+    8.698425,
+    47.48214
+],
   "geometry": {"coordinates":[8.698425,47.48214],"type":"Point"}
 }

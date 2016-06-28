@@ -2,13 +2,14 @@
   "id": 236657359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591122,47.555134,7.591122,47.555134",
     "geom:latitude":47.555134,
     "geom:longitude":7.591122,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnsterberg 2",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236657359,
-    "wof:lastmodified":1449001954,
+    "wof:lastmodified":1466212759,
     "wof:name":"Metzger & Lampert Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shirt"
     ]
 },
-  "bbox": [7.591122,47.555134,7.591122,47.555134],
+  "bbox": [
+    7.591122,
+    47.555134,
+    7.591122,
+    47.555134
+],
   "geometry": {"coordinates":[7.591122,47.555134],"type":"Point"}
 }

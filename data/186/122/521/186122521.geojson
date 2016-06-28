@@ -2,13 +2,14 @@
   "id": 186122521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.276142,46.874626,7.276142,46.874626",
     "geom:latitude":46.874626,
     "geom:longitude":7.276142,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinckerstrasse 10 W\u00fcnnewil 3184 W\u00fcnnewil. Postfach",
     "sg:city":"W\u00fcnnewil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186122521,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466211110,
     "wof:name":"Keller Ag Bau & Planung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.276142,46.874626,7.276142,46.874626],
+  "bbox": [
+    7.276142,
+    46.874626,
+    7.276142,
+    46.874626
+],
   "geometry": {"coordinates":[7.276142,46.874626],"type":"Point"}
 }

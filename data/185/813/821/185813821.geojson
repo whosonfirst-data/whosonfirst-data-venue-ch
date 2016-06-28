@@ -2,13 +2,14 @@
   "id": 185813821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.64125,46.307011,7.64125,46.307011",
     "geom:latitude":46.307011,
     "geom:longitude":7.64125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grosses Pletschg\u00e4ssi 37",
     "sg:city":"Susten",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185813821,
-    "wof:lastmodified":1449007022,
+    "wof:lastmodified":1466209206,
     "wof:name":"Walther Ag Landmaschinen Und Kommunalfahrzeuge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "machinery"
     ]
 },
-  "bbox": [7.64125,46.307011,7.64125,46.307011],
+  "bbox": [
+    7.64125,
+    46.307011,
+    7.64125,
+    46.307011
+],
   "geometry": {"coordinates":[7.64125,46.307011],"type":"Point"}
 }

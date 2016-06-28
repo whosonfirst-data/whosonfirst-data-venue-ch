@@ -2,13 +2,14 @@
   "id": 236115277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.835728,47.305649,8.835728,47.305649",
     "geom:latitude":47.305649,
     "geom:longitude":8.835728,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nova 42 7013 Domat/ems. Postfach 122",
     "sg:city":"Domat/ems",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236115277,
-    "wof:lastmodified":1449001656,
+    "wof:lastmodified":1466209928,
     "wof:name":"R\u00fcegg & G\u00fcbeli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.835728,47.305649,8.835728,47.305649],
+  "bbox": [
+    8.835728,
+    47.305649,
+    8.835728,
+    47.305649
+],
   "geometry": {"coordinates":[8.835728,47.305649],"type":"Point"}
 }

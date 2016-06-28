@@ -2,13 +2,14 @@
   "id": 236640821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.3251,47.108234,8.3251,47.108234",
     "geom:latitude":47.108234,
     "geom:longitude":8.3251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldmattstrasse 15",
     "sg:city":"Emmen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236640821,
-    "wof:lastmodified":1449003023,
+    "wof:lastmodified":1466212737,
     "wof:name":"Franz Kneub\u00fchler Messebau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lettering"
     ]
 },
-  "bbox": [8.3251,47.108234,8.3251,47.108234],
+  "bbox": [
+    8.3251,
+    47.108234,
+    8.3251,
+    47.108234
+],
   "geometry": {"coordinates":[8.3251,47.108234],"type":"Point"}
 }

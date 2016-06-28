@@ -2,13 +2,14 @@
   "id": 236245601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.016689,47.326412,8.016689,47.326412",
     "geom:latitude":47.326412,
     "geom:longitude":8.016689,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstrasse 12",
     "sg:city":"K\u00f6lliken",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236245601,
-    "wof:lastmodified":1449005117,
+    "wof:lastmodified":1466211320,
     "wof:name":"Feed-in Studio, Br\u00e4ndli Andr\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.016689,47.326412,8.016689,47.326412],
+  "bbox": [
+    8.016689,
+    47.326412,
+    8.016689,
+    47.326412
+],
   "geometry": {"coordinates":[8.016689,47.326412],"type":"Point"}
 }

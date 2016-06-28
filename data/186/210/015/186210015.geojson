@@ -2,13 +2,14 @@
   "id": 186210015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.663418,46.544357,6.663418,46.544357",
     "geom:latitude":46.544357,
     "geom:longitude":6.663418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Croix-blanche 1 1066 Epalinges Case Postale 17",
     "sg:city":"Epalinges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186210015,
-    "wof:lastmodified":1449051300,
+    "wof:lastmodified":1466209163,
     "wof:name":"Siemens Building Technologies (schweiz) Ag",
     "wof:parent_id":85862347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.663418,46.544357,6.663418,46.544357],
+  "bbox": [
+    6.663418,
+    46.544357,
+    6.663418,
+    46.544357
+],
   "geometry": {"coordinates":[6.663418,46.544357],"type":"Point"}
 }

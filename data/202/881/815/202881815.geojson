@@ -2,13 +2,14 @@
   "id": 202881815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.187211,47.445984,8.187211,47.445984",
     "geom:latitude":47.445984,
     "geom:longitude":8.187211,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6li 162",
     "sg:city":"Scherz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202881815,
-    "wof:lastmodified":1449061584,
+    "wof:lastmodified":1466212179,
     "wof:name":"Roth Informing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.187211,47.445984,8.187211,47.445984],
+  "bbox": [
+    8.187211,
+    47.445984,
+    8.187211,
+    47.445984
+],
   "geometry": {"coordinates":[8.187211,47.445984],"type":"Point"}
 }

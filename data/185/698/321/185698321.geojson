@@ -2,13 +2,14 @@
   "id": 185698321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.819736,46.79533,9.819736,46.79533",
     "geom:latitude":46.79533,
     "geom:longitude":9.819736,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schellenbergstrasse 56",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185698321,
-    "wof:lastmodified":1449008109,
+    "wof:lastmodified":1466211065,
     "wof:name":"Dr.luzius Schmid Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.819736,46.79533,9.819736,46.79533],
+  "bbox": [
+    9.819736,
+    46.79533,
+    9.819736,
+    46.79533
+],
   "geometry": {"coordinates":[9.819736,46.79533],"type":"Point"}
 }

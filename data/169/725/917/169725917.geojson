@@ -2,13 +2,14 @@
   "id": 169725917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.332211,46.53875,6.332211,46.53875",
     "geom:latitude":46.53875,
     "geom:longitude":6.332211,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Marchairuz",
     "sg:city":"Bi\u00e8re",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169725917,
-    "wof:lastmodified":1449033496,
+    "wof:lastmodified":1466211146,
     "wof:name":"Edwin Hess",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accessory"
     ]
 },
-  "bbox": [6.332211,46.53875,6.332211,46.53875],
+  "bbox": [
+    6.332211,
+    46.53875,
+    6.332211,
+    46.53875
+],
   "geometry": {"coordinates":[6.332211,46.53875],"type":"Point"}
 }

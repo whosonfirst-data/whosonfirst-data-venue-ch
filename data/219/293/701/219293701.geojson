@@ -2,13 +2,14 @@
   "id": 219293701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.243009,46.8479,7.243009,46.8479",
     "geom:latitude":46.8479,
     "geom:longitude":7.243009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Fritz-marchand 37",
     "sg:city":"Sonvilier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219293701,
-    "wof:lastmodified":1449071087,
+    "wof:lastmodified":1466209185,
     "wof:name":"Josef Baeriswyl Autogarage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.243009,46.8479,7.243009,46.8479],
+  "bbox": [
+    7.243009,
+    46.8479,
+    7.243009,
+    46.8479
+],
   "geometry": {"coordinates":[7.243009,46.8479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220190403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.818932,34.978191,-83.818932,34.978191",
     "geom:latitude":34.978191,
     "geom:longitude":-83.818932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Campagne Levade",
     "sg:city":"St-l\u00e9gier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220190403,
-    "wof:lastmodified":1449074838,
+    "wof:lastmodified":1466210510,
     "wof:name":"Laurent Ducraux Menuiserie & \u00e9b\u00e9nisterie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.818932,34.978191,-83.818932,34.978191],
+  "bbox": [
+    -83.818932,
+    34.978191,
+    -83.818932,
+    34.978191
+],
   "geometry": {"coordinates":[-83.818932,34.978191],"type":"Point"}
 }

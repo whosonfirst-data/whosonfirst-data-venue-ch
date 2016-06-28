@@ -2,13 +2,14 @@
   "id": 186276083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.425655,46.870731,10.425655,46.870731",
     "geom:latitude":46.870731,
     "geom:longitude":10.425655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Samalgors",
     "sg:city":"Tschlin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186276083,
-    "wof:lastmodified":1449050371,
+    "wof:lastmodified":1466211641,
     "wof:name":"Conrad Horber Hoch-& Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.425655,46.870731,10.425655,46.870731],
+  "bbox": [
+    10.425655,
+    46.870731,
+    10.425655,
+    46.870731
+],
   "geometry": {"coordinates":[10.425655,46.870731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235977811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.640917,46.780357,7.640917,46.780357",
     "geom:latitude":46.780357,
     "geom:longitude":7.640917,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gummweg 88",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":235977811,
-    "wof:lastmodified":1449008609,
+    "wof:lastmodified":1466209315,
     "wof:name":"Wenger Innenausbau Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.640917,46.780357,7.640917,46.780357],
+  "bbox": [
+    7.640917,
+    46.780357,
+    7.640917,
+    46.780357
+],
   "geometry": {"coordinates":[7.640917,46.780357],"type":"Point"}
 }

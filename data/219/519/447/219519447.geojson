@@ -2,13 +2,14 @@
   "id": 219519447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.674855,46.68985,7.674855,46.68985",
     "geom:latitude":46.68985,
     "geom:longitude":7.674855,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kronenpl.",
     "sg:city":"Spiez",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219519447,
-    "wof:lastmodified":1449073673,
+    "wof:lastmodified":1466211299,
     "wof:name":"Berner Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.674855,46.68985,7.674855,46.68985],
+  "bbox": [
+    7.674855,
+    46.68985,
+    7.674855,
+    46.68985
+],
   "geometry": {"coordinates":[7.674855,46.68985],"type":"Point"}
 }

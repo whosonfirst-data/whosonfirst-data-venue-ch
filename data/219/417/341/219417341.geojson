@@ -2,13 +2,14 @@
   "id": 219417341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.028121,45.835003,9.028121,45.835003",
     "geom:latitude":45.835003,
     "geom:longitude":9.028121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso San Gottardo 73",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219417341,
-    "wof:lastmodified":1449071835,
+    "wof:lastmodified":1466210339,
     "wof:name":"Castelletti Sa Spedizioni Internazionali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.028121,45.835003,9.028121,45.835003],
+  "bbox": [
+    9.028121,
+    45.835003,
+    9.028121,
+    45.835003
+],
   "geometry": {"coordinates":[9.028121,45.835003],"type":"Point"}
 }

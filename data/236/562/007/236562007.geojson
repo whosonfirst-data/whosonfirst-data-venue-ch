@@ -2,13 +2,14 @@
   "id": 236562007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.08957,47.290321,9.08957,47.290321",
     "geom:latitude":47.290321,
     "geom:longitude":9.08957,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bleikenstrasse 56",
     "sg:city":"Wattwil",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236562007,
-    "wof:lastmodified":1449003395,
+    "wof:lastmodified":1466212702,
     "wof:name":"Pozzi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [9.08957,47.290321,9.08957,47.290321],
+  "bbox": [
+    9.08957,
+    47.290321,
+    9.08957,
+    47.290321
+],
   "geometry": {"coordinates":[9.08957,47.290321],"type":"Point"}
 }

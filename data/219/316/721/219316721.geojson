@@ -2,13 +2,14 @@
   "id": 219316721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.406805,47.500454,8.406805,47.500454",
     "geom:latitude":47.500454,
     "geom:longitude":8.406805,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 25",
     "sg:city":"Oberweningen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219316721,
-    "wof:lastmodified":1449072780,
+    "wof:lastmodified":1466209407,
     "wof:name":"Touring Garage Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.406805,47.500454,8.406805,47.500454],
+  "bbox": [
+    8.406805,
+    47.500454,
+    8.406805,
+    47.500454
+],
   "geometry": {"coordinates":[8.406805,47.500454],"type":"Point"}
 }

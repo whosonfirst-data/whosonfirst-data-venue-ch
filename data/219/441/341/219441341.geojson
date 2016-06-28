@@ -2,13 +2,14 @@
   "id": 219441341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628963,46.517101,6.628963,46.517101",
     "geom:latitude":46.517101,
     "geom:longitude":6.628963,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place De La Gare 11",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219441341,
-    "wof:lastmodified":1449070663,
+    "wof:lastmodified":1466210556,
     "wof:name":"Caf\u00e9 Freeport",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.628963,46.517101,6.628963,46.517101],
+  "bbox": [
+    6.628963,
+    46.517101,
+    6.628963,
+    46.517101
+],
   "geometry": {"coordinates":[6.628963,46.517101],"type":"Point"}
 }

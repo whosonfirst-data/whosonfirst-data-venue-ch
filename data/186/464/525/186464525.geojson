@@ -2,13 +2,14 @@
   "id": 186464525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.549103,46.538605,6.549103,46.538605",
     "geom:latitude":46.538605,
     "geom:longitude":6.549103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Venoge 10",
     "sg:city":"Echandens",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186464525,
-    "wof:lastmodified":1449051106,
+    "wof:lastmodified":1466211123,
     "wof:name":"Zschokke Construction Sa",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.549103,46.538605,6.549103,46.538605],
+  "bbox": [
+    6.549103,
+    46.538605,
+    6.549103,
+    46.538605
+],
   "geometry": {"coordinates":[6.549103,46.538605],"type":"Point"}
 }

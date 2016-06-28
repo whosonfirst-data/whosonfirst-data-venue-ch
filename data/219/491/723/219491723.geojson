@@ -2,13 +2,14 @@
   "id": 219491723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.013083,46.343563,7.013083,46.343563",
     "geom:latitude":46.343563,
     "geom:longitude":7.013083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Du March\u00e9",
     "sg:city":"Leysin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219491723,
-    "wof:lastmodified":1449070324,
+    "wof:lastmodified":1466211059,
     "wof:name":"Banque Cantonale Vaudoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.013083,46.343563,7.013083,46.343563],
+  "bbox": [
+    7.013083,
+    46.343563,
+    7.013083,
+    46.343563
+],
   "geometry": {"coordinates":[7.013083,46.343563],"type":"Point"}
 }

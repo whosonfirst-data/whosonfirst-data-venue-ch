@@ -2,13 +2,14 @@
   "id": 186614477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.542073,47.416756,8.542073,47.416756",
     "geom:latitude":47.416756,
     "geom:longitude":8.542073,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eggb\u00fchlstrasse 36 8050 Z\u00fcrich. Postfach 8153",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186614477,
-    "wof:lastmodified":1449053093,
+    "wof:lastmodified":1466212254,
     "wof:name":"Rav - Regionales Arbeits- Vermittlungszentrum Z\u00fcrich",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.542073,47.416756,8.542073,47.416756],
+  "bbox": [
+    8.542073,
+    47.416756,
+    8.542073,
+    47.416756
+],
   "geometry": {"coordinates":[8.542073,47.416756],"type":"Point"}
 }

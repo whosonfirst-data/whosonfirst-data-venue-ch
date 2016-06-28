@@ -2,13 +2,14 @@
   "id": 253168483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.526021,46.29084,7.526021,46.29084",
     "geom:latitude":46.29084,
     "geom:longitude":7.526021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Sion 21",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253168483,
-    "wof:lastmodified":1449064368,
+    "wof:lastmodified":1466210728,
     "wof:name":"Emery Marcel Tea-room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.526021,46.29084,7.526021,46.29084],
+  "bbox": [
+    7.526021,
+    46.29084,
+    7.526021,
+    46.29084
+],
   "geometry": {"coordinates":[7.526021,46.29084],"type":"Point"}
 }

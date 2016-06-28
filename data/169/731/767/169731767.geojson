@@ -2,13 +2,14 @@
   "id": 169731767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580187,47.318604,8.580187,47.318604",
     "geom:latitude":47.318604,
     "geom:longitude":8.580187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 17",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169731767,
-    "wof:lastmodified":1449035585,
+    "wof:lastmodified":1466211189,
     "wof:name":"Apc Advanced Personal Communications Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580187,47.318604,8.580187,47.318604],
+  "bbox": [
+    8.580187,
+    47.318604,
+    8.580187,
+    47.318604
+],
   "geometry": {"coordinates":[8.580187,47.318604],"type":"Point"}
 }

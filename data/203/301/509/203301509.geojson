@@ -2,13 +2,14 @@
   "id": 203301509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.35476,47.36615,8.35476,47.36615",
     "geom:latitude":47.36615,
     "geom:longitude":8.35476,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Roosmatten 21",
     "sg:city":"Widen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203301509,
-    "wof:lastmodified":1449025401,
+    "wof:lastmodified":1466210552,
     "wof:name":"Dr.med.daniel P. Balsiger Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.35476,47.36615,8.35476,47.36615],
+  "bbox": [
+    8.35476,
+    47.36615,
+    8.35476,
+    47.36615
+],
   "geometry": {"coordinates":[8.35476,47.36615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202837283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.637533,46.52002,6.637533,46.52002",
     "geom:latitude":46.52002,
     "geom:longitude":6.637533,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Enning 8",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202837283,
-    "wof:lastmodified":1449060500,
+    "wof:lastmodified":1466211859,
     "wof:name":"Kolecek Ivan, Atelier D'architecture S\u00e0rl",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.637533,46.52002,6.637533,46.52002],
+  "bbox": [
+    6.637533,
+    46.52002,
+    6.637533,
+    46.52002
+],
   "geometry": {"coordinates":[6.637533,46.52002],"type":"Point"}
 }

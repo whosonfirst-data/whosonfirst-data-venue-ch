@@ -2,13 +2,14 @@
   "id": 169772889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.292616,47.405018,9.292616,47.405018",
     "geom:latitude":47.405018,
     "geom:longitude":9.292616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schoretshuebstrasse 25",
     "sg:city":"St. Gallen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169772889,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1466211571,
     "wof:name":"Steinemann Technology Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.292616,47.405018,9.292616,47.405018],
+  "bbox": [
+    9.292616,
+    47.405018,
+    9.292616,
+    47.405018
+],
   "geometry": {"coordinates":[9.292616,47.405018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236783305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.626693,47.418343,8.626693,47.418343",
     "geom:latitude":47.418343,
     "geom:longitude":8.626693,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstr 21",
     "sg:city":"Br\u00fcttisellen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236783305,
-    "wof:lastmodified":1449001757,
+    "wof:lastmodified":1466212989,
     "wof:name":"T. Systems Cs Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [8.626693,47.418343,8.626693,47.418343],
+  "bbox": [
+    8.626693,
+    47.418343,
+    8.626693,
+    47.418343
+],
   "geometry": {"coordinates":[8.626693,47.418343],"type":"Point"}
 }

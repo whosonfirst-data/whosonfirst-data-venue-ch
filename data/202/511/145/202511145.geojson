@@ -2,13 +2,14 @@
   "id": 202511145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.869575,47.265926,8.869575,47.265926",
     "geom:latitude":47.265926,
     "geom:longitude":8.869575,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aux Pruats 26",
     "sg:city":"St-imier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202511145,
-    "wof:lastmodified":1449061293,
+    "wof:lastmodified":1466211545,
     "wof:name":"Gemag Engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.869575,47.265926,8.869575,47.265926],
+  "bbox": [
+    8.869575,
+    47.265926,
+    8.869575,
+    47.265926
+],
   "geometry": {"coordinates":[8.869575,47.265926],"type":"Point"}
 }

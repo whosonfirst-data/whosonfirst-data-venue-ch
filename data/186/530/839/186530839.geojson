@@ -2,13 +2,14 @@
   "id": 186530839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.374571,46.961834,8.374571,46.961834",
     "geom:latitude":46.961834,
     "geom:longitude":8.374571,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buochserstrasse 45",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186530839,
-    "wof:lastmodified":1449051802,
+    "wof:lastmodified":1466211772,
     "wof:name":"Wohnheim Mettenweg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.374571,46.961834,8.374571,46.961834],
+  "bbox": [
+    8.374571,
+    46.961834,
+    8.374571,
+    46.961834
+],
   "geometry": {"coordinates":[8.374571,46.961834],"type":"Point"}
 }

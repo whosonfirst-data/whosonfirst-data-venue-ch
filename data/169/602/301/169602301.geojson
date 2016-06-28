@@ -2,13 +2,14 @@
   "id": 169602301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.499488,46.891251,7.499488,46.891251",
     "geom:latitude":46.891251,
     "geom:longitude":7.499488,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Belp",
     "sg:classifiers":[],
     "sg:orig_category":"Industrie, Elektronik U Elektrik",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169602301,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466208947,
     "wof:name":"Emmesys Ruegsegger",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.499488,46.891251,7.499488,46.891251],
+  "bbox": [
+    7.499488,
+    46.891251,
+    7.499488,
+    46.891251
+],
   "geometry": {"coordinates":[7.499488,46.891251],"type":"Point"}
 }

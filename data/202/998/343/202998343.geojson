@@ -2,13 +2,14 @@
   "id": 202998343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.203012,46.192657,6.203012,46.192657",
     "geom:latitude":46.192657,
     "geom:longitude":6.203012,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Gen\u00e8ve 122 1226 Th\u00f4nex Case Postale 207",
     "sg:city":"Th\u00f4nex",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202998343,
-    "wof:lastmodified":1449060946,
+    "wof:lastmodified":1466212453,
     "wof:name":"G\u00e9rard Varesio Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.203012,46.192657,6.203012,46.192657],
+  "bbox": [
+    6.203012,
+    46.192657,
+    6.203012,
+    46.192657
+],
   "geometry": {"coordinates":[6.203012,46.192657],"type":"Point"}
 }

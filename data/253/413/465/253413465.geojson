@@ -2,13 +2,14 @@
   "id": 253413465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.632605,47.570793,7.632605,47.570793",
     "geom:latitude":47.570793,
     "geom:longitude":7.632605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rauracherstrasse 33",
     "sg:city":"Riehen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253413465,
-    "wof:lastmodified":1449063283,
+    "wof:lastmodified":1466212250,
     "wof:name":"B-mode Damenmode",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.632605,47.570793,7.632605,47.570793],
+  "bbox": [
+    7.632605,
+    47.570793,
+    7.632605,
+    47.570793
+],
   "geometry": {"coordinates":[7.632605,47.570793],"type":"Point"}
 }

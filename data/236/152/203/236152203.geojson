@@ -2,13 +2,14 @@
   "id": 236152203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.416685,47.444679,9.416685,47.444679",
     "geom:latitude":47.444679,
     "geom:longitude":9.416685,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Clem. Maraini 7 6900 Lugano. Postfach",
     "sg:city":"Calprino",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236152203,
-    "wof:lastmodified":1449004334,
+    "wof:lastmodified":1466210285,
     "wof:name":"Furor Gas Grill Gartenm\u00f6bel Camping",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.416685,47.444679,9.416685,47.444679],
+  "bbox": [
+    9.416685,
+    47.444679,
+    9.416685,
+    47.444679
+],
   "geometry": {"coordinates":[9.416685,47.444679],"type":"Point"}
 }

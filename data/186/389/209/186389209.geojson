@@ -2,13 +2,14 @@
   "id": 186389209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.55355,47.548199,7.55355,47.548199",
     "geom:latitude":47.548199,
     "geom:longitude":7.55355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitzwaldstrasse 199",
     "sg:city":"Allschwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186389209,
-    "wof:lastmodified":1449052463,
+    "wof:lastmodified":1466210508,
     "wof:name":"Hohl Rolf Malergesch\u00e4ft Renovationsbetrieb, Malergesch\u00e4ft, Fassadenrenovationen",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.55355,47.548199,7.55355,47.548199],
+  "bbox": [
+    7.55355,
+    47.548199,
+    7.55355,
+    47.548199
+],
   "geometry": {"coordinates":[7.55355,47.548199],"type":"Point"}
 }

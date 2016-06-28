@@ -2,13 +2,14 @@
   "id": 202416951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.952345,45.873409,8.952345,45.873409",
     "geom:latitude":45.873409,
     "geom:longitude":8.952345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Robiana Via 1",
     "sg:city":"Besazio",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202416951,
-    "wof:lastmodified":1449061266,
+    "wof:lastmodified":1466210000,
     "wof:name":"Borlini & Zanini Sa, Succursale Di Besazio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.952345,45.873409,8.952345,45.873409],
+  "bbox": [
+    8.952345,
+    45.873409,
+    8.952345,
+    45.873409
+],
   "geometry": {"coordinates":[8.952345,45.873409],"type":"Point"}
 }

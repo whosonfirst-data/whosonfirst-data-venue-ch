@@ -2,13 +2,14 @@
   "id": 220140259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.37413,46.555756,7.37413,46.555756",
     "geom:latitude":46.555756,
     "geom:longitude":7.37413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 12 3770 Zweisimmen. Postfach 430",
     "sg:city":"Zweisimmen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220140259,
-    "wof:lastmodified":1449074143,
+    "wof:lastmodified":1466210082,
     "wof:name":"Schreinerei Gebr\u00fcder Stalder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.37413,46.555756,7.37413,46.555756],
+  "bbox": [
+    7.37413,
+    46.555756,
+    7.37413,
+    46.555756
+],
   "geometry": {"coordinates":[7.37413,46.555756],"type":"Point"}
 }

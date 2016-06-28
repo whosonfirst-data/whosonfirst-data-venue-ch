@@ -2,13 +2,14 @@
   "id": 236738327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.135198,46.187988,6.135198,46.187988",
     "geom:latitude":46.187988,
     "geom:longitude":6.135198,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pr\u00e9 De La Tour 10",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236738327,
-    "wof:lastmodified":1449004183,
+    "wof:lastmodified":1466212978,
     "wof:name":"Gorgerat Fran\u00e7ois Bureau D'achat, Vente D'\u00e9tablissements Publics",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.135198,46.187988,6.135198,46.187988],
+  "bbox": [
+    6.135198,
+    46.187988,
+    6.135198,
+    46.187988
+],
   "geometry": {"coordinates":[6.135198,46.187988],"type":"Point"}
 }

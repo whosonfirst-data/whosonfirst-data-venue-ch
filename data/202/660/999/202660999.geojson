@@ -2,13 +2,14 @@
   "id": 202660999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.546849,47.367966,8.546849,47.367966",
     "geom:latitude":47.367966,
     "geom:longitude":8.546849,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4mistrasse 18 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202660999,
-    "wof:lastmodified":1449062383,
+    "wof:lastmodified":1466210230,
     "wof:name":"Pfd Project Finance & Development Gmbh",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.546849,47.367966,8.546849,47.367966],
+  "bbox": [
+    8.546849,
+    47.367966,
+    8.546849,
+    47.367966
+],
   "geometry": {"coordinates":[8.546849,47.367966],"type":"Point"}
 }

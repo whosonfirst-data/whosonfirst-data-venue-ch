@@ -2,13 +2,14 @@
   "id": 236142039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.264018,47.014019,8.264018,47.014019",
     "geom:latitude":47.014019,
     "geom:longitude":8.264018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Krienseregg",
     "sg:city":"Kriens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236142039,
-    "wof:lastmodified":1449004456,
+    "wof:lastmodified":1466210178,
     "wof:name":"Berggasthaus Dorschnei",
     "wof:parent_id":85859521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.264018,47.014019,8.264018,47.014019],
+  "bbox": [
+    8.264018,
+    47.014019,
+    8.264018,
+    47.014019
+],
   "geometry": {"coordinates":[8.264018,47.014019],"type":"Point"}
 }

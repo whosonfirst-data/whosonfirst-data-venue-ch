@@ -2,13 +2,14 @@
   "id": 253303961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.527225,46.517151,6.527225,46.517151",
     "geom:latitude":46.517151,
     "geom:longitude":6.527225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z.i. Le Tr\u00e9si 6",
     "sg:city":"Pr\u00e9verenges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253303961,
-    "wof:lastmodified":1449062848,
+    "wof:lastmodified":1466211893,
     "wof:name":"Maison De La Bible Librairie",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.527225,46.517151,6.527225,46.517151],
+  "bbox": [
+    6.527225,
+    46.517151,
+    6.527225,
+    46.517151
+],
   "geometry": {"coordinates":[6.527225,46.517151],"type":"Point"}
 }

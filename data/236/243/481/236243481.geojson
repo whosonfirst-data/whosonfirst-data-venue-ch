@@ -2,13 +2,14 @@
   "id": 236243481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545344,47.387157,8.545344,47.387157",
     "geom:latitude":47.387157,
     "geom:longitude":8.545344,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedtlistrasse 74",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236243481,
-    "wof:lastmodified":1449002572,
+    "wof:lastmodified":1466211293,
     "wof:name":"Pro Ton Studios Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545344,47.387157,8.545344,47.387157],
+  "bbox": [
+    8.545344,
+    47.387157,
+    8.545344,
+    47.387157
+],
   "geometry": {"coordinates":[8.545344,47.387157],"type":"Point"}
 }

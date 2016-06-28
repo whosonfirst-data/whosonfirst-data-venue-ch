@@ -2,13 +2,14 @@
   "id": 202422497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.300327,47.375114,8.300327,47.375114",
     "geom:latitude":47.375114,
     "geom:longitude":8.300327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General-wille-strasse 133 8706 Feldmeilen. Postfach",
     "sg:city":"Feldmeilen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202422497,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466210110,
     "wof:name":"Br\u00f6nnimann Niklaus Innenarchitektur & Gestaltung B\u00fcro U. Atelier F\u00fcr Innenarchitektur U. Gestaltung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.300327,47.375114,8.300327,47.375114],
+  "bbox": [
+    8.300327,
+    47.375114,
+    8.300327,
+    47.375114
+],
   "geometry": {"coordinates":[8.300327,47.375114],"type":"Point"}
 }

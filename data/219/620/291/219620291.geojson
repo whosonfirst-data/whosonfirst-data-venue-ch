@@ -2,13 +2,14 @@
   "id": 219620291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.131273,47.441059,8.131273,47.441059",
     "geom:latitude":47.441059,
     "geom:longitude":8.131273,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 3",
     "sg:city":"Oberflachs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219620291,
-    "wof:lastmodified":1449073613,
+    "wof:lastmodified":1466211844,
     "wof:name":"Raiffeisenbank Oberflachs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.131273,47.441059,8.131273,47.441059],
+  "bbox": [
+    8.131273,
+    47.441059,
+    8.131273,
+    47.441059
+],
   "geometry": {"coordinates":[8.131273,47.441059],"type":"Point"}
 }

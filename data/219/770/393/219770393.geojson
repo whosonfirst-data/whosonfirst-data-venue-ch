@@ -2,13 +2,14 @@
   "id": 219770393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.821381,46.178375,8.821381,46.178375",
     "geom:latitude":46.178375,
     "geom:longitude":8.821381,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Gottardo 124",
     "sg:city":"Minusio",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219770393,
-    "wof:lastmodified":1449073995,
+    "wof:lastmodified":1466212404,
     "wof:name":"Bar Al Fontile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.821381,46.178375,8.821381,46.178375],
+  "bbox": [
+    8.821381,
+    46.178375,
+    8.821381,
+    46.178375
+],
   "geometry": {"coordinates":[8.821381,46.178375],"type":"Point"}
 }

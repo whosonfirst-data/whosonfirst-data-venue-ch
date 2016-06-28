@@ -2,13 +2,14 @@
   "id": 185878577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.536013,46.927074,9.536013,46.927074",
     "geom:latitude":46.927074,
     "geom:longitude":9.536013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 3a 7204 Untervaz. Postfach",
     "sg:city":"Untervaz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185878577,
-    "wof:lastmodified":1449007471,
+    "wof:lastmodified":1466209701,
     "wof:name":"Fresto Plessur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.536013,46.927074,9.536013,46.927074],
+  "bbox": [
+    9.536013,
+    46.927074,
+    9.536013,
+    46.927074
+],
   "geometry": {"coordinates":[9.536013,46.927074],"type":"Point"}
 }

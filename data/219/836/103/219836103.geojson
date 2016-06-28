@@ -2,13 +2,14 @@
   "id": 219836103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591507,47.562057,7.591507,47.562057",
     "geom:latitude":47.562057,
     "geom:longitude":7.591507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ochsengasse 18",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219836103,
-    "wof:lastmodified":1449072715,
+    "wof:lastmodified":1466212468,
     "wof:name":"Bar-club Moulin Rouge",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.591507,47.562057,7.591507,47.562057],
+  "bbox": [
+    7.591507,
+    47.562057,
+    7.591507,
+    47.562057
+],
   "geometry": {"coordinates":[7.591507,47.562057],"type":"Point"}
 }

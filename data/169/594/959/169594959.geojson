@@ -2,13 +2,14 @@
   "id": 169594959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.509239,46.933235,7.509239,46.933235",
     "geom:latitude":46.933235,
     "geom:longitude":7.509239,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mattenstr. 6",
     "sg:city":"G\u00fcmligen",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":169594959,
-    "wof:lastmodified":1449033166,
+    "wof:lastmodified":1466208891,
     "wof:name":"Rba-service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "insurance"
     ]
 },
-  "bbox": [7.509239,46.933235,7.509239,46.933235],
+  "bbox": [
+    7.509239,
+    46.933235,
+    7.509239,
+    46.933235
+],
   "geometry": {"coordinates":[7.509239,46.933235],"type":"Point"}
 }

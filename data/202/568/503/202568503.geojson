@@ -2,13 +2,14 @@
   "id": 202568503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.047493,47.465221,9.047493,47.465221",
     "geom:latitude":47.465221,
     "geom:longitude":9.047493,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fchlfeldstrasse 8",
     "sg:city":"Berikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202568503,
-    "wof:lastmodified":1449060053,
+    "wof:lastmodified":1466209368,
     "wof:name":"Ingenieurb\u00fcro Nobel Marcel Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.047493,47.465221,9.047493,47.465221],
+  "bbox": [
+    9.047493,
+    47.465221,
+    9.047493,
+    47.465221
+],
   "geometry": {"coordinates":[9.047493,47.465221],"type":"Point"}
 }

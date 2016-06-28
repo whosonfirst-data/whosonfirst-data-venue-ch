@@ -2,13 +2,14 @@
   "id": 202683863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.401206,47.530342,9.401206,47.530342",
     "geom:latitude":47.530342,
     "geom:longitude":9.401206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wohnstrasse 21",
     "sg:city":"Frasnacht",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202683863,
-    "wof:lastmodified":1449061043,
+    "wof:lastmodified":1466210440,
     "wof:name":"Rf Engineering Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.401206,47.530342,9.401206,47.530342],
+  "bbox": [
+    9.401206,
+    47.530342,
+    9.401206,
+    47.530342
+],
   "geometry": {"coordinates":[9.401206,47.530342],"type":"Point"}
 }

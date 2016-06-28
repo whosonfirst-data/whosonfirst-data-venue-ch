@@ -2,13 +2,14 @@
   "id": 236300919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.618703,47.521797,7.618703,47.521797",
     "geom:latitude":47.521797,
     "geom:longitude":7.618703,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zollweidenstrasse 29",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236300919,
-    "wof:lastmodified":1449003523,
+    "wof:lastmodified":1466211718,
     "wof:name":"Hansruedi Buser Taxi",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.618703,47.521797,7.618703,47.521797],
+  "bbox": [
+    7.618703,
+    47.521797,
+    7.618703,
+    47.521797
+],
   "geometry": {"coordinates":[7.618703,47.521797],"type":"Point"}
 }

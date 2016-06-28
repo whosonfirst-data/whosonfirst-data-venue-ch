@@ -2,13 +2,14 @@
   "id": 236221655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.495714,46.974594,7.495714,46.974594",
     "geom:latitude":46.974594,
     "geom:longitude":7.495714,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstrasse 9",
     "sg:city":"Bolligen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236221655,
-    "wof:lastmodified":1449003042,
+    "wof:lastmodified":1466211041,
     "wof:name":"Genossenschaft Reberhaus Bolligen",
     "wof:parent_id":85800605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.495714,46.974594,7.495714,46.974594],
+  "bbox": [
+    7.495714,
+    46.974594,
+    7.495714,
+    46.974594
+],
   "geometry": {"coordinates":[7.495714,46.974594],"type":"Point"}
 }

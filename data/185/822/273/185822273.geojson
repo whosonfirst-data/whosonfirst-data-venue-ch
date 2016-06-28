@@ -2,13 +2,14 @@
   "id": 185822273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.585065,46.543037,6.585065,46.543037",
     "geom:latitude":46.543037,
     "geom:longitude":6.585065,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De La Garenne 33",
     "sg:city":"Vernier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185822273,
-    "wof:lastmodified":1449008141,
+    "wof:lastmodified":1466209266,
     "wof:name":"P\u00c9pini\u00c8res Meylan & Cie",
     "wof:parent_id":85800443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "livestock"
     ]
 },
-  "bbox": [6.585065,46.543037,6.585065,46.543037],
+  "bbox": [
+    6.585065,
+    46.543037,
+    6.585065,
+    46.543037
+],
   "geometry": {"coordinates":[6.585065,46.543037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203173649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.150425,46.07859,7.150425,46.07859",
     "geom:latitude":46.07859,
     "geom:longitude":7.150425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Immeuble St-jean",
     "sg:city":"Sembrancher",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203173649,
-    "wof:lastmodified":1449025298,
+    "wof:lastmodified":1466209179,
     "wof:name":"Dr M\u00e9d. Fran\u00e7ois Barmettler M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.150425,46.07859,7.150425,46.07859],
+  "bbox": [
+    7.150425,
+    46.07859,
+    7.150425,
+    46.07859
+],
   "geometry": {"coordinates":[7.150425,46.07859],"type":"Point"}
 }

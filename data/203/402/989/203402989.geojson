@@ -2,13 +2,14 @@
   "id": 203402989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.524992,47.412159,8.524992,47.412159",
     "geom:latitude":47.412159,
     "geom:longitude":8.524992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 296 8046 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203402989,
-    "wof:lastmodified":1449025521,
+    "wof:lastmodified":1466211569,
     "wof:name":"Dr.med.rolf Steinbr\u00fcchel Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.524992,47.412159,8.524992,47.412159],
+  "bbox": [
+    8.524992,
+    47.412159,
+    8.524992,
+    47.412159
+],
   "geometry": {"coordinates":[8.524992,47.412159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203364841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.750619,47.215347,7.750619,47.215347",
     "geom:latitude":47.215347,
     "geom:longitude":7.750619,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstrasse 9",
     "sg:city":"B\u00fctzberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203364841,
-    "wof:lastmodified":1449026015,
+    "wof:lastmodified":1466211177,
     "wof:name":"Dr.med.kurt Dubach Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.750619,47.215347,7.750619,47.215347],
+  "bbox": [
+    7.750619,
+    47.215347,
+    7.750619,
+    47.215347
+],
   "geometry": {"coordinates":[7.750619,47.215347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220138593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.56246,47.178478,7.56246,47.178478",
     "geom:latitude":47.178478,
     "geom:longitude":7.56246,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammstrasse 22",
     "sg:city":"Biberist",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220138593,
-    "wof:lastmodified":1449074247,
+    "wof:lastmodified":1466210068,
     "wof:name":"Schreinerei B\u00fchler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.56246,47.178478,7.56246,47.178478],
+  "bbox": [
+    7.56246,
+    47.178478,
+    7.56246,
+    47.178478
+],
   "geometry": {"coordinates":[7.56246,47.178478],"type":"Point"}
 }

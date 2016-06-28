@@ -2,13 +2,14 @@
   "id": 219187253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.509487,47.378029,8.509487,47.378029",
     "geom:latitude":47.378029,
     "geom:longitude":8.509487,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisriederstrasse 5",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219187253,
-    "wof:lastmodified":1449070913,
+    "wof:lastmodified":1466210780,
     "wof:name":"G. Fassbind & S. Binder Ern\u00e4hrungsberatung",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.509487,47.378029,8.509487,47.378029],
+  "bbox": [
+    8.509487,
+    47.378029,
+    8.509487,
+    47.378029
+],
   "geometry": {"coordinates":[8.509487,47.378029],"type":"Point"}
 }

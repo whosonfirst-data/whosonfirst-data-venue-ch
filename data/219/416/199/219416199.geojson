@@ -2,13 +2,14 @@
   "id": 219416199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.208203,47.43206,8.208203,47.43206",
     "geom:latitude":47.43206,
     "geom:longitude":8.208203,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttenstrasse 62",
     "sg:city":"Birr",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219416199,
-    "wof:lastmodified":1449071983,
+    "wof:lastmodified":1466210328,
     "wof:name":"B\u00dctra Transporte Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.208203,47.43206,8.208203,47.43206],
+  "bbox": [
+    8.208203,
+    47.43206,
+    8.208203,
+    47.43206
+],
   "geometry": {"coordinates":[8.208203,47.43206],"type":"Point"}
 }

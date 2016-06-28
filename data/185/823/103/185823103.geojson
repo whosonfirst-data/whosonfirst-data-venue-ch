@@ -2,13 +2,14 @@
   "id": 185823103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.684925,47.399551,8.684925,47.399551",
     "geom:latitude":47.399551,
     "geom:longitude":8.684925,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langacherweg",
     "sg:city":"Volketswil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185823103,
-    "wof:lastmodified":1449008180,
+    "wof:lastmodified":1466209272,
     "wof:name":"Wartmann & Co",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "livestock"
     ]
 },
-  "bbox": [8.684925,47.399551,8.684925,47.399551],
+  "bbox": [
+    8.684925,
+    47.399551,
+    8.684925,
+    47.399551
+],
   "geometry": {"coordinates":[8.684925,47.399551],"type":"Point"}
 }

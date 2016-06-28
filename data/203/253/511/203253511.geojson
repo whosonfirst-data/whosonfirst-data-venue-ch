@@ -2,13 +2,14 @@
   "id": 203253511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604384,47.551575,7.604384,47.551575",
     "geom:latitude":47.551575,
     "geom:longitude":7.604384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sevogelstrasse 34",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203253511,
-    "wof:lastmodified":1449026628,
+    "wof:lastmodified":1466210060,
     "wof:name":"Dr.med. Martin Schmid Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604384,47.551575,7.604384,47.551575],
+  "bbox": [
+    7.604384,
+    47.551575,
+    7.604384,
+    47.551575
+],
   "geometry": {"coordinates":[7.604384,47.551575],"type":"Point"}
 }

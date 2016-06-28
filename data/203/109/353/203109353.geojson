@@ -2,13 +2,14 @@
   "id": 203109353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.778637,47.255993,8.778637,47.255993",
     "geom:latitude":47.255993,
     "geom:longitude":8.778637,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00fctzelstrasse 5",
     "sg:city":"Hombrechtikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203109353,
-    "wof:lastmodified":1449025578,
+    "wof:lastmodified":1466211203,
     "wof:name":"Luis Schneider Geopathologe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.778637,47.255993,8.778637,47.255993],
+  "bbox": [
+    8.778637,
+    47.255993,
+    8.778637,
+    47.255993
+],
   "geometry": {"coordinates":[8.778637,47.255993],"type":"Point"}
 }

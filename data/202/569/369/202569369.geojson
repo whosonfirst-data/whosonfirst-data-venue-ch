@@ -2,13 +2,14 @@
   "id": 202569369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43333,46.94305,7.43333,46.94305",
     "geom:latitude":46.94305,
     "geom:longitude":7.43333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutenbergstrasse 44 3011 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202569369,
-    "wof:lastmodified":1449062541,
+    "wof:lastmodified":1466209376,
     "wof:name":"Ingenieurb\u00fcro Schafroth Prod. Bes. Im Freizeit- U Konsumg\u00fcterbereich; Engineering, Entw. Usw",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43333,46.94305,7.43333,46.94305],
+  "bbox": [
+    7.43333,
+    46.94305,
+    7.43333,
+    46.94305
+],
   "geometry": {"coordinates":[7.43333,46.94305],"type":"Point"}
 }

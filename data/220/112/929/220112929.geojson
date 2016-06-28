@@ -2,13 +2,14 @@
   "id": 220112929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.360631,47.287861,8.360631,47.287861",
     "geom:latitude":47.287861,
     "geom:longitude":8.360631,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6sliacker 414",
     "sg:city":"Aristau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220112929,
-    "wof:lastmodified":1449074387,
+    "wof:lastmodified":1466209847,
     "wof:name":"Lang & Sachs Bauschreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.360631,47.287861,8.360631,47.287861],
+  "bbox": [
+    8.360631,
+    47.287861,
+    8.360631,
+    47.287861
+],
   "geometry": {"coordinates":[8.360631,47.287861],"type":"Point"}
 }

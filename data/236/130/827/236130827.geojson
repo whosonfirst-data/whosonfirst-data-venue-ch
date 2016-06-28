@@ -2,13 +2,14 @@
   "id": 236130827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.89593,47.393608,7.89593,47.393608",
     "geom:latitude":47.393608,
     "geom:longitude":7.89593,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 2 8712 St\u00e4fa. Postfach 535",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236130827,
-    "wof:lastmodified":1449002646,
+    "wof:lastmodified":1466210064,
     "wof:name":"Baukommission Der Gemeinde Wisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.89593,47.393608,7.89593,47.393608],
+  "bbox": [
+    7.89593,
+    47.393608,
+    7.89593,
+    47.393608
+],
   "geometry": {"coordinates":[7.89593,47.393608],"type":"Point"}
 }

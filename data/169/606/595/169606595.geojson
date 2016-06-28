@@ -2,13 +2,14 @@
   "id": 169606595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.101526,46.272861,10.101526,46.272861",
     "geom:latitude":46.272861,
     "geom:longitude":10.101526,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Miralago",
     "sg:classifiers":[],
     "sg:orig_category":"Reisen, Tourismusinfo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169606595,
-    "wof:lastmodified":1449033202,
+    "wof:lastmodified":1466209178,
     "wof:name":"Albergo Ristorante Grotto Miralago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.101526,46.272861,10.101526,46.272861],
+  "bbox": [
+    10.101526,
+    46.272861,
+    10.101526,
+    46.272861
+],
   "geometry": {"coordinates":[10.101526,46.272861],"type":"Point"}
 }

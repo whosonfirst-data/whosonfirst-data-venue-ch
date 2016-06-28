@@ -2,13 +2,14 @@
   "id": 236673609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.258731,46.908321,8.258731,46.908321",
     "geom:latitude":46.908321,
     "geom:longitude":8.258731,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00e4giswilerstrasse 47",
     "sg:city":"Sarnen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236673609,
-    "wof:lastmodified":1449002830,
+    "wof:lastmodified":1466212787,
     "wof:name":"Halter & Colledani Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "covering"
     ]
 },
-  "bbox": [8.258731,46.908321,8.258731,46.908321],
+  "bbox": [
+    8.258731,
+    46.908321,
+    8.258731,
+    46.908321
+],
   "geometry": {"coordinates":[8.258731,46.908321],"type":"Point"}
 }

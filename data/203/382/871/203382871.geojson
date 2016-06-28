@@ -2,13 +2,14 @@
   "id": 203382871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.628746,46.925209,7.628746,46.925209",
     "geom:latitude":46.925209,
     "geom:longitude":7.628746,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrstrasse 51 3507 Biglen. Postfach",
     "sg:city":"Biglen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203382871,
-    "wof:lastmodified":1449025416,
+    "wof:lastmodified":1466211354,
     "wof:name":"Dr.med.peter Abb\u00fchl Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.628746,46.925209,7.628746,46.925209],
+  "bbox": [
+    7.628746,
+    46.925209,
+    7.628746,
+    46.925209
+],
   "geometry": {"coordinates":[7.628746,46.925209],"type":"Point"}
 }

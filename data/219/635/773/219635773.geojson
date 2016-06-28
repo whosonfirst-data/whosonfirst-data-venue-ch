@@ -2,13 +2,14 @@
   "id": 219635773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.53299,46.77993,7.53299,46.77993",
     "geom:latitude":46.77993,
     "geom:longitude":7.53299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Post",
     "sg:city":"Gurzelen",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219635773,
-    "wof:lastmodified":1449071913,
+    "wof:lastmodified":1466211994,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.53299,46.77993,7.53299,46.77993],
+  "bbox": [
+    7.53299,
+    46.77993,
+    7.53299,
+    46.77993
+],
   "geometry": {"coordinates":[7.53299,46.77993],"type":"Point"}
 }

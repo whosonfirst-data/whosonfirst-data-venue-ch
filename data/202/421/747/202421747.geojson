@@ -2,13 +2,14 @@
   "id": 202421747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.667212,47.109272,7.667212,47.109272",
     "geom:latitude":47.109272,
     "geom:longitude":7.667212,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedtwilstrasse 66",
     "sg:city":"Wynigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202421747,
-    "wof:lastmodified":1449061698,
+    "wof:lastmodified":1466210095,
     "wof:name":"Bruno Jost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.667212,47.109272,7.667212,47.109272],
+  "bbox": [
+    7.667212,
+    47.109272,
+    7.667212,
+    47.109272
+],
   "geometry": {"coordinates":[7.667212,47.109272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202904551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.231255,46.898441,7.231255,46.898441",
     "geom:latitude":46.898441,
     "geom:longitude":7.231255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6singenfeldstrasse 32",
     "sg:city":"B\u00f6singen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202904551,
-    "wof:lastmodified":1449062720,
+    "wof:lastmodified":1466212129,
     "wof:name":"Virtech Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.231255,46.898441,7.231255,46.898441],
+  "bbox": [
+    7.231255,
+    46.898441,
+    7.231255,
+    46.898441
+],
   "geometry": {"coordinates":[7.231255,46.898441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236786597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.490381,46.959751,7.490381,46.959751",
     "geom:latitude":46.959751,
     "geom:longitude":7.490381,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grubenstr. 12",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236786597,
-    "wof:lastmodified":1449002000,
+    "wof:lastmodified":1466212892,
     "wof:name":"K\u00c4stli Ag Bauunternehmung",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [7.490381,46.959751,7.490381,46.959751],
+  "bbox": [
+    7.490381,
+    46.959751,
+    7.490381,
+    46.959751
+],
   "geometry": {"coordinates":[7.490381,46.959751],"type":"Point"}
 }

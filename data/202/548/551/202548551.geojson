@@ -2,13 +2,14 @@
   "id": 202548551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543842,47.410351,8.543842,47.410351",
     "geom:latitude":47.410351,
     "geom:longitude":8.543842,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202548551,
-    "wof:lastmodified":1449061841,
+    "wof:lastmodified":1466209178,
     "wof:name":"H\u00f6ltschi Und Schurter, Dipl. Ing. Eth/sia Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543842,47.410351,8.543842,47.410351],
+  "bbox": [
+    8.543842,
+    47.410351,
+    8.543842,
+    47.410351
+],
   "geometry": {"coordinates":[8.543842,47.410351],"type":"Point"}
 }

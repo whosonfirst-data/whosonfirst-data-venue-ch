@@ -2,13 +2,14 @@
   "id": 236179109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.049294,47.391785,8.049294,47.391785",
     "geom:latitude":47.391785,
     "geom:longitude":8.049294,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kasernenstrasse 28",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236179109,
-    "wof:lastmodified":1449004836,
+    "wof:lastmodified":1466210582,
     "wof:name":"Coiffeurfachschule Livio",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.049294,47.391785,8.049294,47.391785],
+  "bbox": [
+    8.049294,
+    47.391785,
+    8.049294,
+    47.391785
+],
   "geometry": {"coordinates":[8.049294,47.391785],"type":"Point"}
 }

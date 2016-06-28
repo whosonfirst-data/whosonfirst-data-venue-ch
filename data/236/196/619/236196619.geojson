@@ -2,13 +2,14 @@
   "id": 236196619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.572743,47.536652,7.572743,47.536652",
     "geom:latitude":47.536652,
     "geom:longitude":7.572743,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schafmattweg 12",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236196619,
-    "wof:lastmodified":1449002237,
+    "wof:lastmodified":1466210778,
     "wof:name":"Bestattungen Hans Kopp & Sohn",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.572743,47.536652,7.572743,47.536652],
+  "bbox": [
+    7.572743,
+    47.536652,
+    7.572743,
+    47.536652
+],
   "geometry": {"coordinates":[7.572743,47.536652],"type":"Point"}
 }

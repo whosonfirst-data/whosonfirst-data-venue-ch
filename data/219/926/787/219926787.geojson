@@ -2,13 +2,14 @@
   "id": 219926787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.055295,47.395012,8.055295,47.395012",
     "geom:latitude":47.395012,
     "geom:longitude":8.055295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hunzikerstrasse 9",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219926787,
-    "wof:lastmodified":1449071625,
+    "wof:lastmodified":1466212677,
     "wof:name":"Valli Ag Strassenbau",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.055295,47.395012,8.055295,47.395012],
+  "bbox": [
+    8.055295,
+    47.395012,
+    8.055295,
+    47.395012
+],
   "geometry": {"coordinates":[8.055295,47.395012],"type":"Point"}
 }

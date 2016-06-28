@@ -2,13 +2,14 @@
   "id": 236687857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.065783,47.041164,9.065783,47.041164",
     "geom:latitude":47.041164,
     "geom:longitude":9.065783,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerichtshausstrasse 39",
     "sg:city":"Glarus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236687857,
-    "wof:lastmodified":1449002392,
+    "wof:lastmodified":1466212904,
     "wof:name":"Milchzentrale Glarus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.065783,47.041164,9.065783,47.041164],
+  "bbox": [
+    9.065783,
+    47.041164,
+    9.065783,
+    47.041164
+],
   "geometry": {"coordinates":[9.065783,47.041164],"type":"Point"}
 }

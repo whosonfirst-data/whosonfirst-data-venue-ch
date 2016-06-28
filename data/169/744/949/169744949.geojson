@@ -2,13 +2,14 @@
   "id": 169744949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.553139,47.357853,8.553139,47.357853",
     "geom:latitude":47.357853,
     "geom:longitude":8.553139,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 34",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169744949,
-    "wof:lastmodified":1449033879,
+    "wof:lastmodified":1466211279,
     "wof:name":"Sch\u00f6nstatt Bewegung Schweiz",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.553139,47.357853,8.553139,47.357853],
+  "bbox": [
+    8.553139,
+    47.357853,
+    8.553139,
+    47.357853
+],
   "geometry": {"coordinates":[8.553139,47.357853],"type":"Point"}
 }

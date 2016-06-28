@@ -2,13 +2,14 @@
   "id": 169756293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.13224,46.223801,6.13224,46.223801",
     "geom:latitude":46.223801,
     "geom:longitude":6.13224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"28a Chemin Du Petit - Saconnex -",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169756293,
-    "wof:lastmodified":1449034661,
+    "wof:lastmodified":1466211399,
     "wof:name":"New Zealand General Consulate",
     "wof:parent_id":85862451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [6.13224,46.223801,6.13224,46.223801],
+  "bbox": [
+    6.13224,
+    46.223801,
+    6.13224,
+    46.223801
+],
   "geometry": {"coordinates":[6.13224,46.223801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252975117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.013486,47.379158,8.013486,47.379158",
     "geom:latitude":47.379158,
     "geom:longitude":8.013486,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grundstrasse 36 5012 Sch\u00f6nenwerd. Postfach",
     "sg:city":"Sch\u00f6nenwerd",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252975117,
-    "wof:lastmodified":1449006362,
+    "wof:lastmodified":1466211686,
     "wof:name":"Eng Gardinen Gmbh",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.013486,47.379158,8.013486,47.379158],
+  "bbox": [
+    8.013486,
+    47.379158,
+    8.013486,
+    47.379158
+],
   "geometry": {"coordinates":[8.013486,47.379158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220140979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.586181,47.135693,8.586181,47.135693",
     "geom:latitude":47.135693,
     "geom:longitude":8.586181,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lidostrasse 21",
     "sg:city":"Unter\u00e4geri",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220140979,
-    "wof:lastmodified":1449074144,
+    "wof:lastmodified":1466210086,
     "wof:name":"Schreinerei Hugener Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.586181,47.135693,8.586181,47.135693],
+  "bbox": [
+    8.586181,
+    47.135693,
+    8.586181,
+    47.135693
+],
   "geometry": {"coordinates":[8.586181,47.135693],"type":"Point"}
 }

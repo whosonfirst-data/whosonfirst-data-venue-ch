@@ -2,13 +2,14 @@
   "id": 203345107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453391,46.956337,7.453391,46.956337",
     "geom:latitude":46.956337,
     "geom:longitude":7.453391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldh\u00f6heweg 6",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203345107,
-    "wof:lastmodified":1449026715,
+    "wof:lastmodified":1466210981,
     "wof:name":"Dr.med.hubert Christoph Hanke Spezialarzt Fmh",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453391,46.956337,7.453391,46.956337],
+  "bbox": [
+    7.453391,
+    46.956337,
+    7.453391,
+    46.956337
+],
   "geometry": {"coordinates":[7.453391,46.956337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186499177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.068768,46.994865,9.068768,46.994865",
     "geom:latitude":46.994865,
     "geom:longitude":9.068768,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rondoweg 2",
     "sg:city":"Safenwil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186499177,
-    "wof:lastmodified":1449050917,
+    "wof:lastmodified":1466211431,
     "wof:name":"Alterszentrum Schwanden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [9.068768,46.994865,9.068768,46.994865],
+  "bbox": [
+    9.068768,
+    46.994865,
+    9.068768,
+    46.994865
+],
   "geometry": {"coordinates":[9.068768,46.994865],"type":"Point"}
 }

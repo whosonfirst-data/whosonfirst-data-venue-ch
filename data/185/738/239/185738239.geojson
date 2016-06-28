@@ -2,13 +2,14 @@
   "id": 185738239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.959605,46.006683,8.959605,46.006683",
     "geom:latitude":46.006683,
     "geom:longitude":8.959605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Canonica 16 6900 Lugano. Postfach Caselle Postale 3172",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185738239,
-    "wof:lastmodified":1449007765,
+    "wof:lastmodified":1466211411,
     "wof:name":"Rocco Olgiati Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.959605,46.006683,8.959605,46.006683],
+  "bbox": [
+    8.959605,
+    46.006683,
+    8.959605,
+    46.006683
+],
   "geometry": {"coordinates":[8.959605,46.006683],"type":"Point"}
 }

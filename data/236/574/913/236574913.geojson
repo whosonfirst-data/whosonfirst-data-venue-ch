@@ -2,13 +2,14 @@
   "id": 236574913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.494306,46.517277,6.494306,46.517277",
     "geom:latitude":46.517277,
     "geom:longitude":6.494306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Des Reneveyres 28",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236574913,
-    "wof:lastmodified":1449001661,
+    "wof:lastmodified":1466212549,
     "wof:name":"Fiduciaire Germain-genoux",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.494306,46.517277,6.494306,46.517277],
+  "bbox": [
+    6.494306,
+    46.517277,
+    6.494306,
+    46.517277
+],
   "geometry": {"coordinates":[6.494306,46.517277],"type":"Point"}
 }

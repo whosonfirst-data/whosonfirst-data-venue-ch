@@ -2,13 +2,14 @@
   "id": 203333557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.729218,47.499599,8.729218,47.499599",
     "geom:latitude":47.499599,
     "geom:longitude":8.729218,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 23",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203333557,
-    "wof:lastmodified":1449026745,
+    "wof:lastmodified":1466210869,
     "wof:name":"Dr.med.hans-peter Wille Spezialarzt Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.729218,47.499599,8.729218,47.499599],
+  "bbox": [
+    8.729218,
+    47.499599,
+    8.729218,
+    47.499599
+],
   "geometry": {"coordinates":[8.729218,47.499599],"type":"Point"}
 }

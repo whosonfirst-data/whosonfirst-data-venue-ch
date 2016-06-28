@@ -2,13 +2,14 @@
   "id": 236692301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.491282,47.397068,8.491282,47.397068",
     "geom:latitude":47.397068,
     "geom:longitude":8.491282,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00fcffenwies 16-22",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236692301,
-    "wof:lastmodified":1449002337,
+    "wof:lastmodified":1466212806,
     "wof:name":"Sika Schweiz Ag",
     "wof:parent_id":85800071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "by-product"
     ]
 },
-  "bbox": [8.491282,47.397068,8.491282,47.397068],
+  "bbox": [
+    8.491282,
+    47.397068,
+    8.491282,
+    47.397068
+],
   "geometry": {"coordinates":[8.491282,47.397068],"type":"Point"}
 }

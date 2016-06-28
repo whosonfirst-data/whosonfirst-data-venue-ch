@@ -2,13 +2,14 @@
   "id": 186298033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.232105,46.701439,8.232105,46.701439",
     "geom:latitude":46.701439,
     "geom:longitude":8.232105,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grimselstrasse 3862 Innertkirchen. Postfach 89",
     "sg:city":"Innertkirchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186298033,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1466209821,
     "wof:name":"Maurer & Raz Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.232105,46.701439,8.232105,46.701439],
+  "bbox": [
+    8.232105,
+    46.701439,
+    8.232105,
+    46.701439
+],
   "geometry": {"coordinates":[8.232105,46.701439],"type":"Point"}
 }

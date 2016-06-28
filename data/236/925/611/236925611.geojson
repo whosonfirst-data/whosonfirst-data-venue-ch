@@ -2,13 +2,14 @@
   "id": 236925611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.37356,46.921124,7.37356,46.921124",
     "geom:latitude":46.921124,
     "geom:longitude":7.37356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue C\u00f4tes-de-montbenon 30 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236925611,
-    "wof:lastmodified":1449001698,
+    "wof:lastmodified":1466212920,
     "wof:name":"Techem Messdienst Ag Abrechnen Von Wasser & W\u00e4rme",
     "wof:parent_id":85800349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.37356,46.921124,7.37356,46.921124],
+  "bbox": [
+    7.37356,
+    46.921124,
+    7.37356,
+    46.921124
+],
   "geometry": {"coordinates":[7.37356,46.921124],"type":"Point"}
 }

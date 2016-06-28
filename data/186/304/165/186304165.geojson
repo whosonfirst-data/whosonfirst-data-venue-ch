@@ -2,13 +2,14 @@
   "id": 186304165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.467314,47.435146,8.467314,47.435146",
     "geom:latitude":47.435146,
     "geom:longitude":8.467314,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Fey 1510 Moudon Case Postale 240",
     "sg:city":"Moudon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186304165,
-    "wof:lastmodified":1449052346,
+    "wof:lastmodified":1466209867,
     "wof:name":"Rau G. Ag Bauunternehmung",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.467314,47.435146,8.467314,47.435146],
+  "bbox": [
+    8.467314,
+    47.435146,
+    8.467314,
+    47.435146
+],
   "geometry": {"coordinates":[8.467314,47.435146],"type":"Point"}
 }

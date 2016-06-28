@@ -2,13 +2,14 @@
   "id": 219244111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.014347,47.15453,7.014347,47.15453",
     "geom:latitude":47.15453,
     "geom:longitude":7.014347,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Principale 62",
     "sg:city":"Villeret",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219244111,
-    "wof:lastmodified":1449071792,
+    "wof:lastmodified":1466211468,
     "wof:name":"Jean-pierre Gerster Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.014347,47.15453,7.014347,47.15453],
+  "bbox": [
+    7.014347,
+    47.15453,
+    7.014347,
+    47.15453
+],
   "geometry": {"coordinates":[7.014347,47.15453],"type":"Point"}
 }

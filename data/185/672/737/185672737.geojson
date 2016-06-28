@@ -2,13 +2,14 @@
   "id": 185672737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.399086,46.942524,7.399086,46.942524",
     "geom:latitude":46.942524,
     "geom:longitude":7.399086,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Churer Str. 168",
     "sg:city":"Pf\u00e4ffikon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185672737,
-    "wof:lastmodified":1449006700,
+    "wof:lastmodified":1466210798,
     "wof:name":"Publisuisse Sa",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [7.399086,46.942524,7.399086,46.942524],
+  "bbox": [
+    7.399086,
+    46.942524,
+    7.399086,
+    46.942524
+],
   "geometry": {"coordinates":[7.399086,46.942524],"type":"Point"}
 }

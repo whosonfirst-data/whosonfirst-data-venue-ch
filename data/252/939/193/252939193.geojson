@@ -2,13 +2,14 @@
   "id": 252939193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545578,47.284515,8.545578,47.284515",
     "geom:latitude":47.284515,
     "geom:longitude":8.545578,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenmatt 9",
     "sg:city":"Gattikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252939193,
-    "wof:lastmodified":1449005740,
+    "wof:lastmodified":1466211415,
     "wof:name":"Bame Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545578,47.284515,8.545578,47.284515],
+  "bbox": [
+    8.545578,
+    47.284515,
+    8.545578,
+    47.284515
+],
   "geometry": {"coordinates":[8.545578,47.284515],"type":"Point"}
 }

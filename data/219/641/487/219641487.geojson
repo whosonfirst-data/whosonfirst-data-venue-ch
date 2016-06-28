@@ -2,13 +2,14 @@
   "id": 219641487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.324781,47.49929,8.324781,47.49929",
     "geom:latitude":47.49929,
     "geom:longitude":8.324781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 63",
     "sg:city":"Freienwil",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219641487,
-    "wof:lastmodified":1449073082,
+    "wof:lastmodified":1466211899,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.324781,47.49929,8.324781,47.49929],
+  "bbox": [
+    8.324781,
+    47.49929,
+    8.324781,
+    47.49929
+],
   "geometry": {"coordinates":[8.324781,47.49929],"type":"Point"}
 }

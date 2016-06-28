@@ -2,13 +2,14 @@
   "id": 236479891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.466385,46.50927,6.466385,46.50927",
     "geom:latitude":46.50927,
     "geom:longitude":6.466385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochbergerstrasse 158 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236479891,
-    "wof:lastmodified":1449003996,
+    "wof:lastmodified":1466212478,
     "wof:name":"Beltomar Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.466385,46.50927,6.466385,46.50927],
+  "bbox": [
+    6.466385,
+    46.50927,
+    6.466385,
+    46.50927
+],
   "geometry": {"coordinates":[6.466385,46.50927],"type":"Point"}
 }

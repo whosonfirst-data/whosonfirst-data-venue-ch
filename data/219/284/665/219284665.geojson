@@ -2,13 +2,14 @@
   "id": 219284665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.589462,47.30666,8.589462,47.30666",
     "geom:latitude":47.30666,
     "geom:longitude":8.589462,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3208",
     "sg:city":"Gurbr\u00fc",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219284665,
-    "wof:lastmodified":1449072587,
+    "wof:lastmodified":1466209104,
     "wof:name":"Hans K\u00e4stli Garage",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.589462,47.30666,8.589462,47.30666],
+  "bbox": [
+    8.589462,
+    47.30666,
+    8.589462,
+    47.30666
+],
   "geometry": {"coordinates":[8.589462,47.30666],"type":"Point"}
 }

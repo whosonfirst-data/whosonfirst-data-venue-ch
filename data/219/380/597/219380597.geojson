@@ -2,13 +2,14 @@
   "id": 219380597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.546416,46.805695,7.546416,46.805695",
     "geom:latitude":46.805695,
     "geom:longitude":7.546416,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnerstrasse 231",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219380597,
-    "wof:lastmodified":1449072031,
+    "wof:lastmodified":1466209989,
     "wof:name":"Andreas Zysset Reiseunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.546416,46.805695,7.546416,46.805695],
+  "bbox": [
+    7.546416,
+    46.805695,
+    7.546416,
+    46.805695
+],
   "geometry": {"coordinates":[7.546416,46.805695],"type":"Point"}
 }

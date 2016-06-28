@@ -2,13 +2,14 @@
   "id": 169757971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.00491,47.407421,8.00491,47.407421",
     "geom:latitude":47.407421,
     "geom:longitude":8.00491,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 126",
     "sg:city":"Erlinsbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169757971,
-    "wof:lastmodified":1449034550,
+    "wof:lastmodified":1466211412,
     "wof:name":"Landgasthof Ochsen",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.00491,47.407421,8.00491,47.407421],
+  "bbox": [
+    8.00491,
+    47.407421,
+    8.00491,
+    47.407421
+],
   "geometry": {"coordinates":[8.00491,47.407421],"type":"Point"}
 }

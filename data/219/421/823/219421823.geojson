@@ -2,13 +2,14 @@
   "id": 219421823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.612422,47.792828,8.612422,47.792828",
     "geom:latitude":47.792828,
     "geom:longitude":8.612422,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Carlo Maderno 5",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219421823,
-    "wof:lastmodified":1449072625,
+    "wof:lastmodified":1466210378,
     "wof:name":"Log-trans Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.612422,47.792828,8.612422,47.792828],
+  "bbox": [
+    8.612422,
+    47.792828,
+    8.612422,
+    47.792828
+],
   "geometry": {"coordinates":[8.612422,47.792828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203204983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.617906,46.53236,6.617906,46.53236",
     "geom:latitude":46.53236,
     "geom:longitude":6.617906,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Boisy 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203204983,
-    "wof:lastmodified":1449026902,
+    "wof:lastmodified":1466209527,
     "wof:name":"Dr M\u00e9d. Martha Emery M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.617906,46.53236,6.617906,46.53236],
+  "bbox": [
+    6.617906,
+    46.53236,
+    6.617906,
+    46.53236
+],
   "geometry": {"coordinates":[6.617906,46.53236],"type":"Point"}
 }

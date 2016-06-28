@@ -2,13 +2,14 @@
   "id": 219613943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.057026,47.615654,9.057026,47.615654",
     "geom:latitude":47.615654,
     "geom:longitude":9.057026,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststr.",
     "sg:city":"Lipperswil",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219613943,
-    "wof:lastmodified":1449072035,
+    "wof:lastmodified":1466211946,
     "wof:name":"Raiffeisenbank Lipperswil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.057026,47.615654,9.057026,47.615654],
+  "bbox": [
+    9.057026,
+    47.615654,
+    9.057026,
+    47.615654
+],
   "geometry": {"coordinates":[9.057026,47.615654],"type":"Point"}
 }

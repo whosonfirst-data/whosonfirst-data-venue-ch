@@ -2,13 +2,14 @@
   "id": 253083011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.309744,47.138485,7.309744,47.138485",
     "geom:latitude":47.138485,
     "geom:longitude":7.309744,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 198",
     "sg:city":"Orpund",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253083011,
-    "wof:lastmodified":1449064228,
+    "wof:lastmodified":1466209746,
     "wof:name":"Alfred & Heidi Lucchin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.309744,47.138485,7.309744,47.138485],
+  "bbox": [
+    7.309744,
+    47.138485,
+    7.309744,
+    47.138485
+],
   "geometry": {"coordinates":[7.309744,47.138485],"type":"Point"}
 }

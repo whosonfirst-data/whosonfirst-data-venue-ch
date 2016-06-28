@@ -2,13 +2,14 @@
   "id": 219828713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.900707,47.348976,7.900707,47.348976",
     "geom:latitude":47.348976,
     "geom:longitude":7.900707,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leberngasse 9",
     "sg:city":"Olten",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219828713,
-    "wof:lastmodified":1449072176,
+    "wof:lastmodified":1466212575,
     "wof:name":"Stadtmix-bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.900707,47.348976,7.900707,47.348976],
+  "bbox": [
+    7.900707,
+    47.348976,
+    7.900707,
+    47.348976
+],
   "geometry": {"coordinates":[7.900707,47.348976],"type":"Point"}
 }

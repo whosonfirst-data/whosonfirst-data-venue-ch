@@ -2,13 +2,14 @@
   "id": 219520501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.19621,46.74691,8.19621,46.74691",
     "geom:latitude":46.74691,
     "geom:longitude":8.19621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserwendi",
     "sg:city":"Hasliberg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219520501,
-    "wof:lastmodified":1449071563,
+    "wof:lastmodified":1466211309,
     "wof:name":"Berner Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.19621,46.74691,8.19621,46.74691],
+  "bbox": [
+    8.19621,
+    46.74691,
+    8.19621,
+    46.74691
+],
   "geometry": {"coordinates":[8.19621,46.74691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236509591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.054352,47.466568,9.054352,47.466568",
     "geom:latitude":47.466568,
     "geom:longitude":9.054352,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bifang 9",
     "sg:city":"Lenzburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236509591,
-    "wof:lastmodified":1449001780,
+    "wof:lastmodified":1466212536,
     "wof:name":"Rutishauser Hobby-flor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.054352,47.466568,9.054352,47.466568],
+  "bbox": [
+    9.054352,
+    47.466568,
+    9.054352,
+    47.466568
+],
   "geometry": {"coordinates":[9.054352,47.466568],"type":"Point"}
 }

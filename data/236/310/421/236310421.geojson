@@ -2,13 +2,14 @@
   "id": 236310421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.708916,47.285591,7.708916,47.285591",
     "geom:latitude":47.285591,
     "geom:longitude":7.708916,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 1107",
     "sg:city":"Oensingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236310421,
-    "wof:lastmodified":1449003727,
+    "wof:lastmodified":1466211912,
     "wof:name":"Nowak Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.708916,47.285591,7.708916,47.285591],
+  "bbox": [
+    7.708916,
+    47.285591,
+    7.708916,
+    47.285591
+],
   "geometry": {"coordinates":[7.708916,47.285591],"type":"Point"}
 }

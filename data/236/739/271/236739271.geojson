@@ -2,13 +2,14 @@
   "id": 236739271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628787,46.51189,6.628787,46.51189",
     "geom:latitude":46.51189,
     "geom:longitude":6.628787,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Joliette 5",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236739271,
-    "wof:lastmodified":1449002969,
+    "wof:lastmodified":1466212853,
     "wof:name":"Roland Noirat Chiropraticien",
     "wof:parent_id":85862339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.628787,46.51189,6.628787,46.51189],
+  "bbox": [
+    6.628787,
+    46.51189,
+    6.628787,
+    46.51189
+],
   "geometry": {"coordinates":[6.628787,46.51189],"type":"Point"}
 }

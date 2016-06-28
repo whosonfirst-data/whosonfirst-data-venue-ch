@@ -2,13 +2,14 @@
   "id": 186037287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.637042,47.362225,8.637042,47.362225",
     "geom:latitude":47.362225,
     "geom:longitude":8.637042,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bodenacherstrasse 39",
     "sg:city":"Benglen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186037287,
-    "wof:lastmodified":1449053071,
+    "wof:lastmodified":1466209829,
     "wof:name":"Captol Services Gmbh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.637042,47.362225,8.637042,47.362225],
+  "bbox": [
+    8.637042,
+    47.362225,
+    8.637042,
+    47.362225
+],
   "geometry": {"coordinates":[8.637042,47.362225],"type":"Point"}
 }

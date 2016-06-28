@@ -2,13 +2,14 @@
   "id": 236950349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.4965,47.386452,8.4965,47.386452",
     "geom:latitude":47.386452,
     "geom:longitude":8.4965,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Flurstrasse 32",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236950349,
-    "wof:lastmodified":1449002838,
+    "wof:lastmodified":1466213006,
     "wof:name":"Kdlabs Knowledge Discov.&data Mining",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.4965,47.386452,8.4965,47.386452],
+  "bbox": [
+    8.4965,
+    47.386452,
+    8.4965,
+    47.386452
+],
   "geometry": {"coordinates":[8.4965,47.386452],"type":"Point"}
 }

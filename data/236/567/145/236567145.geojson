@@ -2,13 +2,14 @@
   "id": 236567145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.429382,46.94413,7.429382,46.94413",
     "geom:latitude":46.94413,
     "geom:longitude":7.429382,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fliederweg 5",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236567145,
-    "wof:lastmodified":1449005279,
+    "wof:lastmodified":1466212630,
     "wof:name":"Eicher Offsetdruck",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "production"
     ]
 },
-  "bbox": [7.429382,46.94413,7.429382,46.94413],
+  "bbox": [
+    7.429382,
+    46.94413,
+    7.429382,
+    46.94413
+],
   "geometry": {"coordinates":[7.429382,46.94413],"type":"Point"}
 }

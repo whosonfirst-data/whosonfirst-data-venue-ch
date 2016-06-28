@@ -2,13 +2,14 @@
   "id": 202672681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.652669,46.875587,8.652669,46.875587",
     "geom:latitude":46.875587,
     "geom:longitude":8.652669,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kappelenring 18d 3033 Wohlen B. Bern. Postfach",
     "sg:city":"Hinterkappelen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202672681,
-    "wof:lastmodified":1449060273,
+    "wof:lastmodified":1466210335,
     "wof:name":"Probst Technik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.652669,46.875587,8.652669,46.875587],
+  "bbox": [
+    8.652669,
+    46.875587,
+    8.652669,
+    46.875587
+],
   "geometry": {"coordinates":[8.652669,46.875587],"type":"Point"}
 }

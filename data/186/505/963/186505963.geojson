@@ -2,13 +2,14 @@
   "id": 186505963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.630159,46.767151,7.630159,46.767151",
     "geom:latitude":46.767151,
     "geom:longitude":7.630159,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 38",
     "sg:city":"Steffisburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186505963,
-    "wof:lastmodified":1449052569,
+    "wof:lastmodified":1466211485,
     "wof:name":"Glockenthal Altersheim",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.630159,46.767151,7.630159,46.767151],
+  "bbox": [
+    7.630159,
+    46.767151,
+    7.630159,
+    46.767151
+],
   "geometry": {"coordinates":[7.630159,46.767151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202408837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.045981,47.381081,8.045981,47.381081",
     "geom:latitude":47.381081,
     "geom:longitude":8.045981,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserfluhweg 12",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202408837,
-    "wof:lastmodified":1449060409,
+    "wof:lastmodified":1466209851,
     "wof:name":"Bf Architektinnen Gmbh",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.045981,47.381081,8.045981,47.381081],
+  "bbox": [
+    8.045981,
+    47.381081,
+    8.045981,
+    47.381081
+],
   "geometry": {"coordinates":[8.045981,47.381081],"type":"Point"}
 }

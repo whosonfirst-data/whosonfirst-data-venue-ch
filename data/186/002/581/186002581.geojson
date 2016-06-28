@@ -2,13 +2,14 @@
   "id": 186002581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.565821,47.350086,8.565821,47.350086",
     "geom:latitude":47.350086,
     "geom:longitude":8.565821,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fl\u00fchgasse 35 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186002581,
-    "wof:lastmodified":1449052523,
+    "wof:lastmodified":1466208929,
     "wof:name":"Andr\u00e0skay Tunnelberatung Gmbh",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.565821,47.350086,8.565821,47.350086],
+  "bbox": [
+    8.565821,
+    47.350086,
+    8.565821,
+    47.350086
+],
   "geometry": {"coordinates":[8.565821,47.350086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203397397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72526,47.499596,8.72526,47.499596",
     "geom:latitude":47.499596,
     "geom:longitude":8.72526,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stadthausstrasse 135",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203397397,
-    "wof:lastmodified":1449025672,
+    "wof:lastmodified":1466211508,
     "wof:name":"Dr.med.ricardo A. Torriani Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72526,47.499596,8.72526,47.499596],
+  "bbox": [
+    8.72526,
+    47.499596,
+    8.72526,
+    47.499596
+],
   "geometry": {"coordinates":[8.72526,47.499596],"type":"Point"}
 }

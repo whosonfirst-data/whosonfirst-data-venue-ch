@@ -2,13 +2,14 @@
   "id": 185952559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.452967,47.400661,8.452967,47.400661",
     "geom:latitude":47.400661,
     "geom:longitude":8.452967,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctistrasse 26",
     "sg:city":"Schlieren",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185952559,
-    "wof:lastmodified":1449007754,
+    "wof:lastmodified":1466210307,
     "wof:name":"Gillette Group Switzerland Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alkaline"
     ]
 },
-  "bbox": [8.452967,47.400661,8.452967,47.400661],
+  "bbox": [
+    8.452967,
+    47.400661,
+    8.452967,
+    47.400661
+],
   "geometry": {"coordinates":[8.452967,47.400661],"type":"Point"}
 }

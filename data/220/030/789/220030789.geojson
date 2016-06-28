@@ -2,13 +2,14 @@
   "id": 220030789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.009825,47.29987,8.009825,47.29987",
     "geom:latitude":47.29987,
     "geom:longitude":8.009825,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neudorf 114",
     "sg:city":"Uerkheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220030789,
-    "wof:lastmodified":1449074324,
+    "wof:lastmodified":1466209138,
     "wof:name":"Max Fretz Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.009825,47.29987,8.009825,47.29987],
+  "bbox": [
+    8.009825,
+    47.29987,
+    8.009825,
+    47.29987
+],
   "geometry": {"coordinates":[8.009825,47.29987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202695969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.560133,47.513504,7.560133,47.513504",
     "geom:latitude":47.513504,
     "geom:longitude":7.560133,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grey Avenue Du 14 1004 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202695969,
-    "wof:lastmodified":1449061072,
+    "wof:lastmodified":1466210550,
     "wof:name":"Saladin Cad Vision",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.560133,47.513504,7.560133,47.513504],
+  "bbox": [
+    7.560133,
+    47.513504,
+    7.560133,
+    47.513504
+],
   "geometry": {"coordinates":[7.560133,47.513504],"type":"Point"}
 }

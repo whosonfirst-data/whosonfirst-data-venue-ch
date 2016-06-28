@@ -2,13 +2,14 @@
   "id": 203014525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.599039,47.467331,7.599039,47.467331",
     "geom:latitude":47.467331,
     "geom:longitude":7.599039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altenbergstrasse 24",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203014525,
-    "wof:lastmodified":1449025852,
+    "wof:lastmodified":1466209511,
     "wof:name":"Huber Architektur Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.599039,47.467331,7.599039,47.467331],
+  "bbox": [
+    7.599039,
+    47.467331,
+    7.599039,
+    47.467331
+],
   "geometry": {"coordinates":[7.599039,47.467331],"type":"Point"}
 }

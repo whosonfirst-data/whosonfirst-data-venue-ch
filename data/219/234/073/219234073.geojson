@@ -2,13 +2,14 @@
   "id": 219234073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.424816,47.395657,8.424816,47.395657",
     "geom:latitude":47.395657,
     "geom:longitude":8.424816,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinackerstrasse 42",
     "sg:city":"Urdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219234073,
-    "wof:lastmodified":1449073713,
+    "wof:lastmodified":1466211325,
     "wof:name":"Prader-display-service-digitalprinting Prader-digitalprinting",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.424816,47.395657,8.424816,47.395657],
+  "bbox": [
+    8.424816,
+    47.395657,
+    8.424816,
+    47.395657
+],
   "geometry": {"coordinates":[8.424816,47.395657],"type":"Point"}
 }

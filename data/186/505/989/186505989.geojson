@@ -2,13 +2,14 @@
   "id": 186505989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.23439,46.59737,6.23439,46.59737",
     "geom:latitude":46.59737,
     "geom:longitude":6.23439,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chez Villard 21",
     "sg:city":"Orient",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186505989,
-    "wof:lastmodified":1449052571,
+    "wof:lastmodified":1466211486,
     "wof:name":"Foyer L'agap\u00ea Maison De Retraite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [6.23439,46.59737,6.23439,46.59737],
+  "bbox": [
+    6.23439,
+    46.59737,
+    6.23439,
+    46.59737
+],
   "geometry": {"coordinates":[6.23439,46.59737],"type":"Point"}
 }

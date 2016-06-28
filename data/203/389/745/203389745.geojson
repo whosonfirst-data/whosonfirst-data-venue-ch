@@ -2,13 +2,14 @@
   "id": 203389745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560911,47.369152,8.560911,47.369152",
     "geom:latitude":47.369152,
     "geom:longitude":8.560911,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctistrasse 11",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203389745,
-    "wof:lastmodified":1449026443,
+    "wof:lastmodified":1466211423,
     "wof:name":"Dr.med.peter W. Wyss Spezialarzt Fmh",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560911,47.369152,8.560911,47.369152],
+  "bbox": [
+    8.560911,
+    47.369152,
+    8.560911,
+    47.369152
+],
   "geometry": {"coordinates":[8.560911,47.369152],"type":"Point"}
 }

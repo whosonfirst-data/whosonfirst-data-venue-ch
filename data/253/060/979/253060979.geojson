@@ -2,13 +2,14 @@
   "id": 253060979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.238185,46.382656,6.238185,46.382656",
     "geom:latitude":46.382656,
     "geom:longitude":6.238185,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Bel-air 6",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253060979,
-    "wof:lastmodified":1449065517,
+    "wof:lastmodified":1466209535,
     "wof:name":"Realini Fleurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.238185,46.382656,6.238185,46.382656],
+  "bbox": [
+    6.238185,
+    46.382656,
+    6.238185,
+    46.382656
+],
   "geometry": {"coordinates":[6.238185,46.382656],"type":"Point"}
 }

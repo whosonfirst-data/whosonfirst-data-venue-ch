@@ -2,13 +2,14 @@
   "id": 203200949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.147188,46.204056,6.147188,46.204056",
     "geom:latitude":46.204056,
     "geom:longitude":6.147188,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Rh\u00f4ne 46",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203200949,
-    "wof:lastmodified":1449025680,
+    "wof:lastmodified":1466209480,
     "wof:name":"Dr M\u00e9d. Luigi Leonardo Polla M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.147188,46.204056,6.147188,46.204056],
+  "bbox": [
+    6.147188,
+    46.204056,
+    6.147188,
+    46.204056
+],
   "geometry": {"coordinates":[6.147188,46.204056],"type":"Point"}
 }

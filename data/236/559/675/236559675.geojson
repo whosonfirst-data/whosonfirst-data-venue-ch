@@ -2,13 +2,14 @@
   "id": 236559675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.897521,47.362133,7.897521,47.362133",
     "geom:latitude":47.362133,
     "geom:longitude":7.897521,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Basler Str. 139",
     "sg:city":"Trimbach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236559675,
-    "wof:lastmodified":1449004381,
+    "wof:lastmodified":1466212611,
     "wof:name":"Wernli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "bread"
     ]
 },
-  "bbox": [7.897521,47.362133,7.897521,47.362133],
+  "bbox": [
+    7.897521,
+    47.362133,
+    7.897521,
+    47.362133
+],
   "geometry": {"coordinates":[7.897521,47.362133],"type":"Point"}
 }

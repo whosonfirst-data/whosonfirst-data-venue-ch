@@ -2,13 +2,14 @@
   "id": 202606417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.733936,46.607941,6.733936,46.607941",
     "geom:latitude":46.607941,
     "geom:longitude":6.733936,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vers-chez-porchet 1082 Corcelles-le-jorat. Postfach",
     "sg:city":"Corcelles-le-jorat",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202606417,
-    "wof:lastmodified":1449060494,
+    "wof:lastmodified":1466209719,
     "wof:name":"La Domaniale Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.733936,46.607941,6.733936,46.607941],
+  "bbox": [
+    6.733936,
+    46.607941,
+    6.733936,
+    46.607941
+],
   "geometry": {"coordinates":[6.733936,46.607941],"type":"Point"}
 }

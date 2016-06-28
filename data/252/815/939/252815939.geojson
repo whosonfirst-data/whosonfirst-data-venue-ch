@@ -2,13 +2,14 @@
   "id": 252815939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.068295,47.040791,9.068295,47.040791",
     "geom:latitude":47.040791,
     "geom:longitude":9.068295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Postgasse 22",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252815939,
-    "wof:lastmodified":1449005937,
+    "wof:lastmodified":1466210080,
     "wof:name":"Boutique Orchid Berchtold Ursula",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.068295,47.040791,9.068295,47.040791],
+  "bbox": [
+    9.068295,
+    47.040791,
+    9.068295,
+    47.040791
+],
   "geometry": {"coordinates":[9.068295,47.040791],"type":"Point"}
 }

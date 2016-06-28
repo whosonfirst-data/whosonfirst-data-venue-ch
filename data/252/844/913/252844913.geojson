@@ -2,13 +2,14 @@
   "id": 252844913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.63487,47.451469,9.63487,47.451469",
     "geom:latitude":47.451469,
     "geom:longitude":9.63487,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Niesenbergstrasse 3",
     "sg:city":"Uezwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252844913,
-    "wof:lastmodified":1449005875,
+    "wof:lastmodified":1466210397,
     "wof:name":"Lazou D.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.63487,47.451469,9.63487,47.451469],
+  "bbox": [
+    9.63487,
+    47.451469,
+    9.63487,
+    47.451469
+],
   "geometry": {"coordinates":[9.63487,47.451469],"type":"Point"}
 }

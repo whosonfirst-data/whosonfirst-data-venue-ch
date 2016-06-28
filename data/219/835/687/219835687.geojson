@@ -2,13 +2,14 @@
   "id": 219835687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.024941,46.198483,9.024941,46.198483",
     "geom:latitude":46.198483,
     "geom:longitude":9.024941,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Giuseppe Motta 4d",
     "sg:city":"Bellinzona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219835687,
-    "wof:lastmodified":1449070899,
+    "wof:lastmodified":1466212465,
     "wof:name":"Bar & Osteria Mirasole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [9.024941,46.198483,9.024941,46.198483],
+  "bbox": [
+    9.024941,
+    46.198483,
+    9.024941,
+    46.198483
+],
   "geometry": {"coordinates":[9.024941,46.198483],"type":"Point"}
 }

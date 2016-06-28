@@ -2,13 +2,14 @@
   "id": 203202067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.530507,46.517124,6.530507,46.517124",
     "geom:latitude":46.517124,
     "geom:longitude":6.530507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Lausanne 65",
     "sg:city":"Pr\u00e9verenges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203202067,
-    "wof:lastmodified":1449026612,
+    "wof:lastmodified":1466209493,
     "wof:name":"Dr M\u00e9d. Marc-andr\u00e9 Perrin M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.530507,46.517124,6.530507,46.517124],
+  "bbox": [
+    6.530507,
+    46.517124,
+    6.530507,
+    46.517124
+],
   "geometry": {"coordinates":[6.530507,46.517124],"type":"Point"}
 }

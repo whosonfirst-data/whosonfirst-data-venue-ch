@@ -2,13 +2,14 @@
   "id": 186105201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390309,47.461956,8.390309,47.461956",
     "geom:latitude":47.461956,
     "geom:longitude":8.390309,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boppelserstrasse 40",
     "sg:city":"Otelfingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186105201,
-    "wof:lastmodified":1449051403,
+    "wof:lastmodified":1466210941,
     "wof:name":"H\u00e4fele Bauleitungen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.390309,47.461956,8.390309,47.461956],
+  "bbox": [
+    8.390309,
+    47.461956,
+    8.390309,
+    47.461956
+],
   "geometry": {"coordinates":[8.390309,47.461956],"type":"Point"}
 }

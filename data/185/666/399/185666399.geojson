@@ -2,13 +2,14 @@
   "id": 185666399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597787,47.565025,7.597787,47.565025",
     "geom:latitude":47.565025,
     "geom:longitude":7.597787,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klingentalstrasse 87",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185666399,
-    "wof:lastmodified":1449007186,
+    "wof:lastmodified":1466210621,
     "wof:name":"Druckereien Klingental Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "poster"
     ]
 },
-  "bbox": [7.597787,47.565025,7.597787,47.565025],
+  "bbox": [
+    7.597787,
+    47.565025,
+    7.597787,
+    47.565025
+],
   "geometry": {"coordinates":[7.597787,47.565025],"type":"Point"}
 }

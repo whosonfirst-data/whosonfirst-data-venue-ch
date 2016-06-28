@@ -2,13 +2,14 @@
   "id": 236223101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.452155,47.410603,8.452155,47.410603",
     "geom:latitude":47.410603,
     "geom:longitude":8.452155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6nggerstrasse 18 8103 Unterengstringen. Postfach",
     "sg:city":"Unterengstringen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236223101,
-    "wof:lastmodified":1449001847,
+    "wof:lastmodified":1466211056,
     "wof:name":"Highlight Productions Gmbh Kulturveranstaltungen, Events, Shows; Produktion, Vermarktung, Promotion. K\u00fcnstler, Auff\u00fchrungsrechte; Management Usw",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.452155,47.410603,8.452155,47.410603],
+  "bbox": [
+    8.452155,
+    47.410603,
+    8.452155,
+    47.410603
+],
   "geometry": {"coordinates":[8.452155,47.410603],"type":"Point"}
 }

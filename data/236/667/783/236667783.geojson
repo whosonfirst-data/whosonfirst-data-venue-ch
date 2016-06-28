@@ -2,13 +2,14 @@
   "id": 236667783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.530206,47.37553,8.530206,47.37553",
     "geom:latitude":47.37553,
     "geom:longitude":8.530206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Jakobstrasse 59",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236667783,
-    "wof:lastmodified":1449003882,
+    "wof:lastmodified":1466212779,
     "wof:name":"Guttmann-catering",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.530206,47.37553,8.530206,47.37553],
+  "bbox": [
+    8.530206,
+    47.37553,
+    8.530206,
+    47.37553
+],
   "geometry": {"coordinates":[8.530206,47.37553],"type":"Point"}
 }

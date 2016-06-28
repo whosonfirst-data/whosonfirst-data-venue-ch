@@ -2,13 +2,14 @@
   "id": 236690835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.61433,46.772369,7.61433,46.772369",
     "geom:latitude":46.772369,
     "geom:longitude":7.61433,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wittenwilerstr. 31",
     "sg:city":"Aadorf",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236690835,
-    "wof:lastmodified":1449003388,
+    "wof:lastmodified":1466212808,
     "wof:name":"Held Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "by-product"
     ]
 },
-  "bbox": [7.61433,46.772369,7.61433,46.772369],
+  "bbox": [
+    7.61433,
+    46.772369,
+    7.61433,
+    46.772369
+],
   "geometry": {"coordinates":[7.61433,46.772369],"type":"Point"}
 }

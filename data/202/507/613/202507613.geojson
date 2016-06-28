@@ -2,13 +2,14 @@
   "id": 202507613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.158826,46.780209,7.158826,46.780209",
     "geom:latitude":46.780209,
     "geom:longitude":7.158826,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Bourguillon 19 1723 Marly. Postfach",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202507613,
-    "wof:lastmodified":1449061420,
+    "wof:lastmodified":1466211512,
     "wof:name":"Gacm Geo-acqua Consultants, Mandia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.158826,46.780209,7.158826,46.780209],
+  "bbox": [
+    7.158826,
+    46.780209,
+    7.158826,
+    46.780209
+],
   "geometry": {"coordinates":[7.158826,46.780209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236714317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.365879,47.565514,9.365879,47.565514",
     "geom:latitude":47.565514,
     "geom:longitude":9.365879,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 73",
     "sg:city":"Romanshorn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236714317,
-    "wof:lastmodified":1449003242,
+    "wof:lastmodified":1466212830,
     "wof:name":"Coop Tankstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.365879,47.565514,9.365879,47.565514],
+  "bbox": [
+    9.365879,
+    47.565514,
+    9.365879,
+    47.565514
+],
   "geometry": {"coordinates":[9.365879,47.565514],"type":"Point"}
 }

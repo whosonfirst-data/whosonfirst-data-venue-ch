@@ -2,13 +2,14 @@
   "id": 219629697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.816994,41.461403,-72.816994,41.461403",
     "geom:latitude":41.461403,
     "geom:longitude":-72.816994,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vaz",
     "sg:city":"Vaz",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219629697,
-    "wof:lastmodified":1449073105,
+    "wof:lastmodified":1466211983,
     "wof:name":"Raiffeisenbank Vaz Obervaz",
     "wof:parent_id":85843519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.816994,41.461403,-72.816994,41.461403],
-  "geometry": {"coordinates":[-72.816994,41.461403],"type":"Point"}
+  "bbox": [
+    -72.816994,
+    41.461403,
+    -72.816994,
+    41.461403
+],
+  "geometry": {"coordinates":[-72.81699399999999,41.461403],"type":"Point"}
 }

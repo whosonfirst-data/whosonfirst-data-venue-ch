@@ -2,13 +2,14 @@
   "id": 236209357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600572,47.567173,7.600572,47.567173",
     "geom:latitude":47.567173,
     "geom:longitude":7.600572,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maulbeerstrasse 23 4000 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236209357,
-    "wof:lastmodified":1449004821,
+    "wof:lastmodified":1466210899,
     "wof:name":"Sutter Events",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600572,47.567173,7.600572,47.567173],
+  "bbox": [
+    7.600572,
+    47.567173,
+    7.600572,
+    47.567173
+],
   "geometry": {"coordinates":[7.600572,47.567173],"type":"Point"}
 }

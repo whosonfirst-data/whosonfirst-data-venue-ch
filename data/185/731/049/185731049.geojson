@@ -2,13 +2,14 @@
   "id": 185731049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.072483,46.100834,7.072483,46.100834",
     "geom:latitude":46.100834,
     "geom:longitude":7.072483,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Centrale 9",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185731049,
-    "wof:lastmodified":1449008039,
+    "wof:lastmodified":1466211348,
     "wof:name":"Olivier Couchepin Etude D'avocat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.072483,46.100834,7.072483,46.100834],
+  "bbox": [
+    7.072483,
+    46.100834,
+    7.072483,
+    46.100834
+],
   "geometry": {"coordinates":[7.072483,46.100834],"type":"Point"}
 }

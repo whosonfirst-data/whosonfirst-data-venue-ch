@@ -2,13 +2,14 @@
   "id": 202684325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.271385,47.094566,8.271385,47.094566",
     "geom:latitude":47.094566,
     "geom:longitude":8.271385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Franz Zelgerstrasse 4",
     "sg:city":"Rothenburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202684325,
-    "wof:lastmodified":1449060750,
+    "wof:lastmodified":1466210443,
     "wof:name":"Riedi Thomas Immobilien Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.271385,47.094566,8.271385,47.094566],
+  "bbox": [
+    8.271385,
+    47.094566,
+    8.271385,
+    47.094566
+],
   "geometry": {"coordinates":[8.271385,47.094566],"type":"Point"}
 }

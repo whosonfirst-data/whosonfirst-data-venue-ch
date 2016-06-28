@@ -2,13 +2,14 @@
   "id": 253401231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.425035,46.943363,7.425035,46.943363",
     "geom:latitude":46.943363,
     "geom:longitude":7.425035,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wagnerstrasse 23",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253401231,
-    "wof:lastmodified":1449065334,
+    "wof:lastmodified":1466212280,
     "wof:name":"Highway 3000 Gmbh",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.425035,46.943363,7.425035,46.943363],
+  "bbox": [
+    7.425035,
+    46.943363,
+    7.425035,
+    46.943363
+],
   "geometry": {"coordinates":[7.425035,46.943363],"type":"Point"}
 }

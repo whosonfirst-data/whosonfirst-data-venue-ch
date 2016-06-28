@@ -2,13 +2,14 @@
   "id": 253212703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.970242,47.393139,7.970242,47.393139",
     "geom:latitude":47.393139,
     "geom:longitude":7.970242,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gygergasse 2",
     "sg:city":"St\u00fcsslingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253212703,
-    "wof:lastmodified":1449064750,
+    "wof:lastmodified":1466211134,
     "wof:name":"Landbeck Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.970242,47.393139,7.970242,47.393139],
+  "bbox": [
+    7.970242,
+    47.393139,
+    7.970242,
+    47.393139
+],
   "geometry": {"coordinates":[7.970242,47.393139],"type":"Point"}
 }

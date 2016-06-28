@@ -2,13 +2,14 @@
   "id": 185908417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.443629,46.933926,7.443629,46.933926",
     "geom:latitude":46.933926,
     "geom:longitude":7.443629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nauweg 10",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185908417,
-    "wof:lastmodified":1449007517,
+    "wof:lastmodified":1466209912,
     "wof:name":"Walter Liechti Architektur & Generaluntern.",
     "wof:parent_id":85800599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.443629,46.933926,7.443629,46.933926],
+  "bbox": [
+    7.443629,
+    46.933926,
+    7.443629,
+    46.933926
+],
   "geometry": {"coordinates":[7.443629,46.933926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236796431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.220649,47.60387,8.220649,47.60387",
     "geom:latitude":47.60387,
     "geom:longitude":8.220649,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 25",
     "sg:city":"Felsenau",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236796431,
-    "wof:lastmodified":1449003159,
+    "wof:lastmodified":1466212900,
     "wof:name":"K. Winkler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sliding"
     ]
 },
-  "bbox": [8.220649,47.60387,8.220649,47.60387],
+  "bbox": [
+    8.220649,
+    47.60387,
+    8.220649,
+    47.60387
+],
   "geometry": {"coordinates":[8.220649,47.60387],"type":"Point"}
 }

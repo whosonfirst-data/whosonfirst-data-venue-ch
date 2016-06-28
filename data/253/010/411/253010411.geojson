@@ -2,13 +2,14 @@
   "id": 253010411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.503065,47.215916,7.503065,47.215916",
     "geom:latitude":47.215916,
     "geom:longitude":7.503065,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 3 4512 Bellach. Postfach",
     "sg:city":"Bellach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253010411,
-    "wof:lastmodified":1449064655,
+    "wof:lastmodified":1466209050,
     "wof:name":"Blumen Epp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.503065,47.215916,7.503065,47.215916],
+  "bbox": [
+    7.503065,
+    47.215916,
+    7.503065,
+    47.215916
+],
   "geometry": {"coordinates":[7.503065,47.215916],"type":"Point"}
 }

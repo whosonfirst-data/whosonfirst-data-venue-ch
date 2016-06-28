@@ -2,13 +2,14 @@
   "id": 185956087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63076,46.521515,6.63076,46.521515",
     "geom:latitude":46.521515,
     "geom:longitude":6.63076,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Pichard 20 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185956087,
-    "wof:lastmodified":1449006885,
+    "wof:lastmodified":1466210346,
     "wof:name":"Ecole Alphalif, Lazreg",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63076,46.521515,6.63076,46.521515],
+  "bbox": [
+    6.63076,
+    46.521515,
+    6.63076,
+    46.521515
+],
   "geometry": {"coordinates":[6.63076,46.521515],"type":"Point"}
 }

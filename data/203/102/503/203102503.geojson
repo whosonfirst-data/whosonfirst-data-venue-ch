@@ -2,13 +2,14 @@
   "id": 203102503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.842625,47.300869,8.842625,47.300869",
     "geom:latitude":47.300869,
     "geom:longitude":8.842625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00fcrntnerstrasse 19",
     "sg:city":"Hinwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203102503,
-    "wof:lastmodified":1449026733,
+    "wof:lastmodified":1466211123,
     "wof:name":"Willi Christen Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.842625,47.300869,8.842625,47.300869],
+  "bbox": [
+    8.842625,
+    47.300869,
+    8.842625,
+    47.300869
+],
   "geometry": {"coordinates":[8.842625,47.300869],"type":"Point"}
 }

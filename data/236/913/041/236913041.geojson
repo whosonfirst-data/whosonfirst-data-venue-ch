@@ -2,13 +2,14 @@
   "id": 236913041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.612454,47.42387,8.612454,47.42387",
     "geom:latitude":47.42387,
     "geom:longitude":8.612454,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerenstrasse 15",
     "sg:city":"Dietlikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236913041,
-    "wof:lastmodified":1449002826,
+    "wof:lastmodified":1466212982,
     "wof:name":"Pegro Informatic Peter Grossert",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.612454,47.42387,8.612454,47.42387],
+  "bbox": [
+    8.612454,
+    47.42387,
+    8.612454,
+    47.42387
+],
   "geometry": {"coordinates":[8.612454,47.42387],"type":"Point"}
 }

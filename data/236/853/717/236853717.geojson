@@ -2,13 +2,14 @@
   "id": 236853717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.395816,47.418201,8.395816,47.418201",
     "geom:latitude":47.418201,
     "geom:longitude":8.395816,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St.-karli-str. 22",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236853717,
-    "wof:lastmodified":1449002894,
+    "wof:lastmodified":1466212939,
     "wof:name":"W Ottiger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [8.395816,47.418201,8.395816,47.418201],
+  "bbox": [
+    8.395816,
+    47.418201,
+    8.395816,
+    47.418201
+],
   "geometry": {"coordinates":[8.395816,47.418201],"type":"Point"}
 }

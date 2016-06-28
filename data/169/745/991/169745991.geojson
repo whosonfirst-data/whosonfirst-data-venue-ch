@@ -2,13 +2,14 @@
   "id": 169745991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.828283,47.470039,8.828283,47.470039",
     "geom:latitude":47.470039,
     "geom:longitude":8.828283,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhaus",
     "sg:city":"Waltenstein",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169745991,
-    "wof:lastmodified":1449035811,
+    "wof:lastmodified":1466211297,
     "wof:name":"Swissfot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.828283,47.470039,8.828283,47.470039],
+  "bbox": [
+    8.828283,
+    47.470039,
+    8.828283,
+    47.470039
+],
   "geometry": {"coordinates":[8.828283,47.470039],"type":"Point"}
 }

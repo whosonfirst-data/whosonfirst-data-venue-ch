@@ -2,13 +2,14 @@
   "id": 236485279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.314845,47.047264,8.314845,47.047264",
     "geom:latitude":47.047264,
     "geom:longitude":8.314845,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werftestrasse 5 6005 Luzern. Postfach 4265",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236485279,
-    "wof:lastmodified":1449003703,
+    "wof:lastmodified":1466212493,
     "wof:name":"Schifffahrtsgesellschaft Des Vierwaldst\u00e4ttersees (sgv)",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.314845,47.047264,8.314845,47.047264],
+  "bbox": [
+    8.314845,
+    47.047264,
+    8.314845,
+    47.047264
+],
   "geometry": {"coordinates":[8.314845,47.047264],"type":"Point"}
 }

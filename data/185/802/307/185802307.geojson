@@ -2,13 +2,14 @@
   "id": 185802307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.474527,47.393215,8.474527,47.393215",
     "geom:latitude":47.393215,
     "geom:longitude":8.474527,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 812",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185802307,
-    "wof:lastmodified":1449007926,
+    "wof:lastmodified":1466209136,
     "wof:name":"Lehmann + Hug Ag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aerator"
     ]
 },
-  "bbox": [8.474527,47.393215,8.474527,47.393215],
+  "bbox": [
+    8.474527,
+    47.393215,
+    8.474527,
+    47.393215
+],
   "geometry": {"coordinates":[8.474527,47.393215],"type":"Point"}
 }

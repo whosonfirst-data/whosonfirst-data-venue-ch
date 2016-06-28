@@ -2,13 +2,14 @@
   "id": 203240195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.685807,47.006989,7.685807,47.006989",
     "geom:latitude":47.006989,
     "geom:longitude":7.685807,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Emmestrasse 1",
     "sg:city":"L\u00fctzelfl\u00fch-goldb",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203240195,
-    "wof:lastmodified":1449025136,
+    "wof:lastmodified":1466209914,
     "wof:name":"Dr.med. Annemarie Baumgartner Spezial\u00e4rztin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.685807,47.006989,7.685807,47.006989],
+  "bbox": [
+    7.685807,
+    47.006989,
+    7.685807,
+    47.006989
+],
   "geometry": {"coordinates":[7.685807,47.006989],"type":"Point"}
 }

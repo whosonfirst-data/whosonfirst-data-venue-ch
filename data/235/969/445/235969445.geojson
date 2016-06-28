@@ -2,13 +2,14 @@
   "id": 235969445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453354,46.948933,7.453354,46.948933",
     "geom:latitude":46.948933,
     "geom:longitude":7.453354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandrainstrasse 3",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":235969445,
-    "wof:lastmodified":1449008335,
+    "wof:lastmodified":1466209236,
     "wof:name":"Phoenix M\u00f6bel + Innenausbau Eichenberger T.",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453354,46.948933,7.453354,46.948933],
+  "bbox": [
+    7.453354,
+    46.948933,
+    7.453354,
+    46.948933
+],
   "geometry": {"coordinates":[7.453354,46.948933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203239775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449464,46.937588,7.449464,46.937588",
     "geom:latitude":46.937588,
     "geom:longitude":7.449464,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jubil\u00e4umsstrasse 51",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203239775,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466209910,
     "wof:name":"Dr.med. Areti Guioulami Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449464,46.937588,7.449464,46.937588],
+  "bbox": [
+    7.449464,
+    46.937588,
+    7.449464,
+    46.937588
+],
   "geometry": {"coordinates":[7.449464,46.937588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202472579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.460579,47.453716,8.460579,47.453716",
     "geom:latitude":47.453716,
     "geom:longitude":8.460579,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kr\u00e4stelstrasse 21",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202472579,
-    "wof:lastmodified":1449060308,
+    "wof:lastmodified":1466211049,
     "wof:name":"Dufour Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.460579,47.453716,8.460579,47.453716],
+  "bbox": [
+    8.460579,
+    47.453716,
+    8.460579,
+    47.453716
+],
   "geometry": {"coordinates":[8.460579,47.453716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219348953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.82064,46.178532,8.82064,46.178532",
     "geom:latitude":46.178532,
     "geom:longitude":8.82064,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Gottardo 153",
     "sg:city":"Minusio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219348953,
-    "wof:lastmodified":1449070525,
+    "wof:lastmodified":1466209683,
     "wof:name":"D & D Gomme Sagl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.82064,46.178532,8.82064,46.178532],
+  "bbox": [
+    8.82064,
+    46.178532,
+    8.82064,
+    46.178532
+],
   "geometry": {"coordinates":[8.82064,46.178532],"type":"Point"}
 }

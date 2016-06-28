@@ -2,13 +2,14 @@
   "id": 236390631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.92556,46.42091,6.92556,46.42091",
     "geom:latitude":46.42091,
     "geom:longitude":6.92556,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Chillon 57",
     "sg:city":"Territet-veytaux",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236390631,
-    "wof:lastmodified":1449005290,
+    "wof:lastmodified":1466212216,
     "wof:name":"Institut Monte Rosa Pour Jeunes Gens",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.92556,46.42091,6.92556,46.42091],
+  "bbox": [
+    6.92556,
+    46.42091,
+    6.92556,
+    46.42091
+],
   "geometry": {"coordinates":[6.92556,46.42091],"type":"Point"}
 }

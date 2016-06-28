@@ -2,13 +2,14 @@
   "id": 202616131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.582884,47.545094,7.582884,47.545094",
     "geom:latitude":47.545094,
     "geom:longitude":7.582884,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Margarethenstrasse 77",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202616131,
-    "wof:lastmodified":1449061963,
+    "wof:lastmodified":1466209809,
     "wof:name":"L\u00fcem Ag, Ingenieurb\u00fcro",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.582884,47.545094,7.582884,47.545094],
+  "bbox": [
+    7.582884,
+    47.545094,
+    7.582884,
+    47.545094
+],
   "geometry": {"coordinates":[7.582884,47.545094],"type":"Point"}
 }

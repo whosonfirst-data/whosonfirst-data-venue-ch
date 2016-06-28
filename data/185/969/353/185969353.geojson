@@ -2,13 +2,14 @@
   "id": 185969353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.59975,47.512661,7.59975,47.512661",
     "geom:latitude":47.512661,
     "geom:longitude":7.59975,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Pran 157",
     "sg:city":"Glovelier",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185969353,
-    "wof:lastmodified":1449006999,
+    "wof:lastmodified":1466210505,
     "wof:name":"International School Of The Basel Region Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.59975,47.512661,7.59975,47.512661],
+  "bbox": [
+    7.59975,
+    47.512661,
+    7.59975,
+    47.512661
+],
   "geometry": {"coordinates":[7.59975,47.512661],"type":"Point"}
 }

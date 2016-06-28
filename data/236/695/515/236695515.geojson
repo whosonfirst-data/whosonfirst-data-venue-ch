@@ -2,13 +2,14 @@
   "id": 236695515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.601141,47.553566,7.601141,47.553566",
     "geom:latitude":47.553566,
     "geom:longitude":7.601141,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-vorstadt 90",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236695515,
-    "wof:lastmodified":1449002796,
+    "wof:lastmodified":1466212750,
     "wof:name":"Jungbunzlauer Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chemistry"
     ]
 },
-  "bbox": [7.601141,47.553566,7.601141,47.553566],
+  "bbox": [
+    7.601141,
+    47.553566,
+    7.601141,
+    47.553566
+],
   "geometry": {"coordinates":[7.601141,47.553566],"type":"Point"}
 }

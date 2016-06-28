@@ -2,13 +2,14 @@
   "id": 236551323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.57847,47.318371,8.57847,47.318371",
     "geom:latitude":47.318371,
     "geom:longitude":8.57847,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6berstrasse 5",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236551323,
-    "wof:lastmodified":1449002173,
+    "wof:lastmodified":1466212589,
     "wof:name":"Bootswerft Weber",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.57847,47.318371,8.57847,47.318371],
+  "bbox": [
+    8.57847,
+    47.318371,
+    8.57847,
+    47.318371
+],
   "geometry": {"coordinates":[8.57847,47.318371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202811039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.149075,46.792912,7.149075,46.792912",
     "geom:latitude":46.792912,
     "geom:longitude":7.149075,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Saint-nicolas-de-fl\u00fce 22 1700 Fribourg. Postfach",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202811039,
-    "wof:lastmodified":1449061354,
+    "wof:lastmodified":1466211620,
     "wof:name":"Bureau D'architecture Longchamp Gilbert Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.149075,46.792912,7.149075,46.792912],
+  "bbox": [
+    7.149075,
+    46.792912,
+    7.149075,
+    46.792912
+],
   "geometry": {"coordinates":[7.149075,46.792912],"type":"Point"}
 }

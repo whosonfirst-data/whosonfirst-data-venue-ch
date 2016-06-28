@@ -2,13 +2,14 @@
   "id": 202750327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.743264,47.12727,8.743264,47.12727",
     "geom:latitude":47.12727,
     "geom:longitude":8.743264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mythenstrasse 8 8840 Einsiedeln. Postfach",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202750327,
-    "wof:lastmodified":1449061658,
+    "wof:lastmodified":1466211056,
     "wof:name":"Ulrich Vermessungstechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.743264,47.12727,8.743264,47.12727],
+  "bbox": [
+    8.743264,
+    47.12727,
+    8.743264,
+    47.12727
+],
   "geometry": {"coordinates":[8.743264,47.12727],"type":"Point"}
 }

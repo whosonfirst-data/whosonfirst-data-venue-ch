@@ -2,13 +2,14 @@
   "id": 252865279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.514419,47.37624,8.514419,47.37624",
     "geom:latitude":47.37624,
     "geom:longitude":8.514419,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badenerstrasse 279",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252865279,
-    "wof:lastmodified":1449006236,
+    "wof:lastmodified":1466210617,
     "wof:name":"Samuel Warmund Pulli Hus Rita",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.514419,47.37624,8.514419,47.37624],
+  "bbox": [
+    8.514419,
+    47.37624,
+    8.514419,
+    47.37624
+],
   "geometry": {"coordinates":[8.514419,47.37624],"type":"Point"}
 }

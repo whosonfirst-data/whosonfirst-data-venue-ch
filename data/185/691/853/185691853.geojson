@@ -2,13 +2,14 @@
   "id": 185691853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.552416,47.357578,8.552416,47.357578",
     "geom:latitude":47.357578,
     "geom:longitude":8.552416,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dufourstrasse 122 8008 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185691853,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1466211043,
     "wof:name":"Dr.andr\u00e9 P. Rees Advokaturb\u00fcro",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.552416,47.357578,8.552416,47.357578],
+  "bbox": [
+    8.552416,
+    47.357578,
+    8.552416,
+    47.357578
+],
   "geometry": {"coordinates":[8.552416,47.357578],"type":"Point"}
 }

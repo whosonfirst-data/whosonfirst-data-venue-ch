@@ -2,13 +2,14 @@
   "id": 202911177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632697,46.54192,6.632697,46.54192",
     "geom:latitude":46.54192,
     "geom:longitude":6.632697,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Lausanne 128",
     "sg:city":"Mont-sur-lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202911177,
-    "wof:lastmodified":1449062248,
+    "wof:lastmodified":1466212051,
     "wof:name":"Francis Gendre Architecture D'int\u00e9rieur Sa",
     "wof:parent_id":85800151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.632697,46.54192,6.632697,46.54192],
+  "bbox": [
+    6.632697,
+    46.54192,
+    6.632697,
+    46.54192
+],
   "geometry": {"coordinates":[6.632697,46.54192],"type":"Point"}
 }

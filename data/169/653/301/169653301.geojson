@@ -2,13 +2,14 @@
   "id": 169653301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.820051,47.226479,8.820051,47.226479",
     "geom:latitude":47.226479,
     "geom:longitude":8.820051,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Merkurstrasse 29",
     "sg:city":"Rapperswil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169653301,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466210149,
     "wof:name":"Henry Wieland & Senn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "communion"
     ]
 },
-  "bbox": [8.820051,47.226479,8.820051,47.226479],
+  "bbox": [
+    8.820051,
+    47.226479,
+    8.820051,
+    47.226479
+],
   "geometry": {"coordinates":[8.820051,47.226479],"type":"Point"}
 }

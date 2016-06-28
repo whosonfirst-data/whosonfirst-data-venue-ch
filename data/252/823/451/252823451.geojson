@@ -2,13 +2,14 @@
   "id": 252823451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.016382,45.847958,9.016382,45.847958",
     "geom:latitude":45.847958,
     "geom:longitude":9.016382,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Angelo Maspoli 18",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252823451,
-    "wof:lastmodified":1449006497,
+    "wof:lastmodified":1466210166,
     "wof:name":"Della Spina Eliana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.016382,45.847958,9.016382,45.847958],
+  "bbox": [
+    9.016382,
+    45.847958,
+    9.016382,
+    45.847958
+],
   "geometry": {"coordinates":[9.016382,45.847958],"type":"Point"}
 }

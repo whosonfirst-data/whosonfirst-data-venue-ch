@@ -2,13 +2,14 @@
   "id": 186561625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.623171,46.783581,6.623171,46.783581",
     "geom:latitude":46.783581,
     "geom:longitude":6.623171,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Uttins 38",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186561625,
-    "wof:lastmodified":1449052260,
+    "wof:lastmodified":1466211910,
     "wof:name":"Irdam S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "anemometer"
     ]
 },
-  "bbox": [6.623171,46.783581,6.623171,46.783581],
+  "bbox": [
+    6.623171,
+    46.783581,
+    6.623171,
+    46.783581
+],
   "geometry": {"coordinates":[6.623171,46.783581],"type":"Point"}
 }

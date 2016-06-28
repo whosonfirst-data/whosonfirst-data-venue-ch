@@ -2,13 +2,14 @@
   "id": 202562637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.493525,47.183361,8.493525,47.183361",
     "geom:latitude":47.183361,
     "geom:longitude":8.493525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinhauserstrasse 25",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202562637,
-    "wof:lastmodified":1449061451,
+    "wof:lastmodified":1466209316,
     "wof:name":"Ingenieurb\u00fcro Frey & Schwartz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.493525,47.183361,8.493525,47.183361],
+  "bbox": [
+    8.493525,
+    47.183361,
+    8.493525,
+    47.183361
+],
   "geometry": {"coordinates":[8.493525,47.183361],"type":"Point"}
 }

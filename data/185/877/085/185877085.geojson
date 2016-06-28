@@ -2,13 +2,14 @@
   "id": 185877085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.95294,46.00444,8.95294,46.00444",
     "geom:latitude":46.00444,
     "geom:longitude":8.95294,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Posta 2",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185877085,
-    "wof:lastmodified":1449007729,
+    "wof:lastmodified":1466209693,
     "wof:name":"Edilmanta Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.95294,46.00444,8.95294,46.00444],
+  "bbox": [
+    8.95294,
+    46.00444,
+    8.95294,
+    46.00444
+],
   "geometry": {"coordinates":[8.95294,46.00444],"type":"Point"}
 }

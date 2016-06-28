@@ -2,13 +2,14 @@
   "id": 236660451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.823575,47.230949,8.823575,47.230949",
     "geom:latitude":47.230949,
     "geom:longitude":8.823575,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmattalstrasse 130 8049 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236660451,
-    "wof:lastmodified":1449004834,
+    "wof:lastmodified":1466212666,
     "wof:name":"Dieci Pizza-kurier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.823575,47.230949,8.823575,47.230949],
+  "bbox": [
+    8.823575,
+    47.230949,
+    8.823575,
+    47.230949
+],
   "geometry": {"coordinates":[8.823575,47.230949],"type":"Point"}
 }

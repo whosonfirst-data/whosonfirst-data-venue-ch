@@ -2,13 +2,14 @@
   "id": 169687993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.68223,47.433605,8.68223,47.433605",
     "geom:latitude":47.433605,
     "geom:longitude":8.68223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gl\u00e4rnischstrasse 33",
     "sg:city":"Effretikon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169687993,
-    "wof:lastmodified":1449033609,
+    "wof:lastmodified":1466210743,
     "wof:name":"Elka Antriebe",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [8.68223,47.433605,8.68223,47.433605],
+  "bbox": [
+    8.68223,
+    47.433605,
+    8.68223,
+    47.433605
+],
   "geometry": {"coordinates":[8.68223,47.433605],"type":"Point"}
 }

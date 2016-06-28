@@ -2,13 +2,14 @@
   "id": 236904139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.444508,47.175945,8.444508,47.175945",
     "geom:latitude":47.175945,
     "geom:longitude":8.444508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rainweidstr. 12b",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236904139,
-    "wof:lastmodified":1449005338,
+    "wof:lastmodified":1466212970,
     "wof:name":"Frey Martin Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.444508,47.175945,8.444508,47.175945],
+  "bbox": [
+    8.444508,
+    47.175945,
+    8.444508,
+    47.175945
+],
   "geometry": {"coordinates":[8.444508,47.175945],"type":"Point"}
 }

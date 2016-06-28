@@ -2,13 +2,14 @@
   "id": 202484739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.134568,46.185753,6.134568,46.185753",
     "geom:latitude":46.185753,
     "geom:longitude":6.134568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Predigerhofstrasse 25",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202484739,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466211254,
     "wof:name":"Epars Et Devaud Sa",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.134568,46.185753,6.134568,46.185753],
+  "bbox": [
+    6.134568,
+    46.185753,
+    6.134568,
+    46.185753
+],
   "geometry": {"coordinates":[6.134568,46.185753],"type":"Point"}
 }

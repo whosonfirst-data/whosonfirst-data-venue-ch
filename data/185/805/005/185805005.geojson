@@ -2,13 +2,14 @@
   "id": 185805005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.439562,47.275948,8.439562,47.275948",
     "geom:latitude":47.275948,
     "geom:longitude":8.439562,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 11",
     "sg:city":"M\u00f6hlin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185805005,
-    "wof:lastmodified":1449007139,
+    "wof:lastmodified":1466209156,
     "wof:name":"D\u00e4llenbach Maschinen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sealing"
     ]
 },
-  "bbox": [8.439562,47.275948,8.439562,47.275948],
+  "bbox": [
+    8.439562,
+    47.275948,
+    8.439562,
+    47.275948
+],
   "geometry": {"coordinates":[8.439562,47.275948],"type":"Point"}
 }

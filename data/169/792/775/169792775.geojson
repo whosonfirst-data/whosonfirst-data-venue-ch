@@ -2,13 +2,14 @@
   "id": 169792775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.489875,47.476414,7.489875,47.476414",
     "geom:latitude":47.476414,
     "geom:longitude":7.489875,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Info@kloster-mariastein.ch",
     "sg:city":"Mariastein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169792775,
-    "wof:lastmodified":1449033392,
+    "wof:lastmodified":1466209015,
     "wof:name":"Benediktinerkloster Mariastein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.489875,47.476414,7.489875,47.476414],
+  "bbox": [
+    7.489875,
+    47.476414,
+    7.489875,
+    47.476414
+],
   "geometry": {"coordinates":[7.489875,47.476414],"type":"Point"}
 }

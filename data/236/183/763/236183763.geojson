@@ -2,13 +2,14 @@
   "id": 236183763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.677211,47.377235,8.677211,47.377235",
     "geom:latitude":47.377235,
     "geom:longitude":8.677211,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6lzliwisenstrasse 11",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236183763,
-    "wof:lastmodified":1449003426,
+    "wof:lastmodified":1466210635,
     "wof:name":"Lehr-& Versuchswerkst\u00e4tte Der Winterthur-unfall Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.677211,47.377235,8.677211,47.377235],
+  "bbox": [
+    8.677211,
+    47.377235,
+    8.677211,
+    47.377235
+],
   "geometry": {"coordinates":[8.677211,47.377235],"type":"Point"}
 }

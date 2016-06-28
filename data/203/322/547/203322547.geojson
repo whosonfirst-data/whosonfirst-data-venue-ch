@@ -2,13 +2,14 @@
   "id": 203322547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.684498,47.51997,7.684498,47.51997",
     "geom:latitude":47.51997,
     "geom:longitude":7.684498,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Jakobstrasse 59",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203322547,
-    "wof:lastmodified":1449024923,
+    "wof:lastmodified":1466210760,
     "wof:name":"Dr.med.georg Weymuth Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.684498,47.51997,7.684498,47.51997],
+  "bbox": [
+    7.684498,
+    47.51997,
+    7.684498,
+    47.51997
+],
   "geometry": {"coordinates":[7.684498,47.51997],"type":"Point"}
 }

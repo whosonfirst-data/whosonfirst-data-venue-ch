@@ -2,13 +2,14 @@
   "id": 202907667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.999065,47.603146,8.999065,47.603146",
     "geom:latitude":47.603146,
     "geom:longitude":8.999065,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterdorfstrasse 14 8918 Unterlunkhofen. Postfach 4",
     "sg:city":"Unterlunkhofen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202907667,
-    "wof:lastmodified":1449062455,
+    "wof:lastmodified":1466212159,
     "wof:name":"Cad Engineering Baumann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.999065,47.603146,8.999065,47.603146],
+  "bbox": [
+    8.999065,
+    47.603146,
+    8.999065,
+    47.603146
+],
   "geometry": {"coordinates":[8.999065,47.603146],"type":"Point"}
 }

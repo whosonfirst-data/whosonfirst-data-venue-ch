@@ -2,13 +2,14 @@
   "id": 202526459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.719333,47.512775,8.719333,47.512775",
     "geom:latitude":47.512775,
     "geom:longitude":8.719333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gl\u00e4rnischweg 5",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202526459,
-    "wof:lastmodified":1449060895,
+    "wof:lastmodified":1466208969,
     "wof:name":"Guzzo Rolf",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.719333,47.512775,8.719333,47.512775],
+  "bbox": [
+    8.719333,
+    47.512775,
+    8.719333,
+    47.512775
+],
   "geometry": {"coordinates":[8.719333,47.512775],"type":"Point"}
 }

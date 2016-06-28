@@ -2,13 +2,14 @@
   "id": 169784749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529384,47.196026,8.529384,47.196026",
     "geom:latitude":47.196026,
     "geom:longitude":8.529384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstr. 2",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169784749,
-    "wof:lastmodified":1449034892,
+    "wof:lastmodified":1466208951,
     "wof:name":"Groma Buchverlag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.529384,47.196026,8.529384,47.196026],
+  "bbox": [
+    8.529384,
+    47.196026,
+    8.529384,
+    47.196026
+],
   "geometry": {"coordinates":[8.529384,47.196026],"type":"Point"}
 }

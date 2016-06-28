@@ -2,13 +2,14 @@
   "id": 253345701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.635727,47.455635,8.635727,47.455635",
     "geom:latitude":47.455635,
     "geom:longitude":8.635727,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuwiesstrasse 2",
     "sg:city":"N\u00fcrensdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253345701,
-    "wof:lastmodified":1449065560,
+    "wof:lastmodified":1466211959,
     "wof:name":"Avantcard Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.635727,47.455635,8.635727,47.455635],
+  "bbox": [
+    8.635727,
+    47.455635,
+    8.635727,
+    47.455635
+],
   "geometry": {"coordinates":[8.635727,47.455635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220125281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5368,47.392773,7.5368,47.392773",
     "geom:latitude":47.392773,
     "geom:longitude":7.5368,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzstrasse 23",
     "sg:city":"B\u00fcsserach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220125281,
-    "wof:lastmodified":1449074846,
+    "wof:lastmodified":1466209958,
     "wof:name":"Nussbaumer Stephan, Schreinerei-innenausbau-k\u00fcchenbau-m\u00f6belrestauration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.5368,47.392773,7.5368,47.392773],
+  "bbox": [
+    7.5368,
+    47.392773,
+    7.5368,
+    47.392773
+],
   "geometry": {"coordinates":[7.5368,47.392773],"type":"Point"}
 }

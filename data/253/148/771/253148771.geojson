@@ -2,13 +2,14 @@
   "id": 253148771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.590126,47.569508,7.590126,47.569508",
     "geom:latitude":47.569508,
     "geom:longitude":7.590126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klybeckstrasse 107",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253148771,
-    "wof:lastmodified":1449065306,
+    "wof:lastmodified":1466210495,
     "wof:name":"B\u00e4ckerei Firat Gmbh",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.590126,47.569508,7.590126,47.569508],
+  "bbox": [
+    7.590126,
+    47.569508,
+    7.590126,
+    47.569508
+],
   "geometry": {"coordinates":[7.590126,47.569508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236625181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.350239,47.363445,7.350239,47.363445",
     "geom:latitude":47.363445,
     "geom:longitude":7.350239,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Grande Ecluse",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236625181,
-    "wof:lastmodified":1449005311,
+    "wof:lastmodified":1466212716,
     "wof:name":"Camp Du Tcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.350239,47.363445,7.350239,47.363445],
+  "bbox": [
+    7.350239,
+    47.363445,
+    7.350239,
+    47.363445
+],
   "geometry": {"coordinates":[7.350239,47.363445],"type":"Point"}
 }

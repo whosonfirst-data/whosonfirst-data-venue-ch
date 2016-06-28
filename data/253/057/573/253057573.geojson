@@ -2,13 +2,14 @@
   "id": 253057573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.576459,47.563244,7.576459,47.563244",
     "geom:latitude":47.563244,
     "geom:longitude":7.576459,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittlere Strasse 82",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253057573,
-    "wof:lastmodified":1449064285,
+    "wof:lastmodified":1466209497,
     "wof:name":"La Vie En Roses Reichlin Anouk",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.576459,47.563244,7.576459,47.563244],
+  "bbox": [
+    7.576459,
+    47.563244,
+    7.576459,
+    47.563244
+],
   "geometry": {"coordinates":[7.576459,47.563244],"type":"Point"}
 }

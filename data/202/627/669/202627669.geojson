@@ -2,13 +2,14 @@
   "id": 202627669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.147583,46.802029,7.147583,46.802029",
     "geom:latitude":46.802029,
     "geom:longitude":7.147583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beauregard Avenue 12",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202627669,
-    "wof:lastmodified":1449062718,
+    "wof:lastmodified":1466209914,
     "wof:name":"Meed Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.147583,46.802029,7.147583,46.802029],
+  "bbox": [
+    7.147583,
+    46.802029,
+    7.147583,
+    46.802029
+],
   "geometry": {"coordinates":[7.147583,46.802029],"type":"Point"}
 }

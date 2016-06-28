@@ -2,13 +2,14 @@
   "id": 219759371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543465,47.375156,8.543465,47.375156",
     "geom:latitude":47.375156,
     "geom:longitude":8.543465,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatquai 112",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219759371,
-    "wof:lastmodified":1449073976,
+    "wof:lastmodified":1466212396,
     "wof:name":"Z\u00fcrcher Kantonalbank",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543465,47.375156,8.543465,47.375156],
+  "bbox": [
+    8.543465,
+    47.375156,
+    8.543465,
+    47.375156
+],
   "geometry": {"coordinates":[8.543465,47.375156],"type":"Point"}
 }

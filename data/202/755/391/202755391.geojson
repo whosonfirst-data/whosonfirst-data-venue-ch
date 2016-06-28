@@ -2,13 +2,14 @@
   "id": 202755391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.500025,47.467628,8.500025,47.467628",
     "geom:latitude":47.467628,
     "geom:longitude":8.500025,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birchstr. 183 8155 Niederhasli. Postfach",
     "sg:city":"Oberhasli",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202755391,
-    "wof:lastmodified":1449060840,
+    "wof:lastmodified":1466211108,
     "wof:name":"Visio Bachmann Engineering",
     "wof:parent_id":85862429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.500025,47.467628,8.500025,47.467628],
+  "bbox": [
+    8.500025,
+    47.467628,
+    8.500025,
+    47.467628
+],
   "geometry": {"coordinates":[8.500025,47.467628],"type":"Point"}
 }

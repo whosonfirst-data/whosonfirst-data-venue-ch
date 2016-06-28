@@ -2,13 +2,14 @@
   "id": 202796599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.019117,46.190903,9.019117,46.190903",
     "geom:latitude":46.190903,
     "geom:longitude":9.019117,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Canonico Ghiringhelli 5",
     "sg:city":"Bellinzona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202796599,
-    "wof:lastmodified":1449061322,
+    "wof:lastmodified":1466211487,
     "wof:name":"Architettura Indipendenza Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.019117,46.190903,9.019117,46.190903],
+  "bbox": [
+    9.019117,
+    46.190903,
+    9.019117,
+    46.190903
+],
   "geometry": {"coordinates":[9.019117,46.190903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185744725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.636948,46.520477,6.636948,46.520477",
     "geom:latitude":46.520477,
     "geom:longitude":6.636948,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Caroline 7 1003 Lausanne Case Postale 3520",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185744725,
-    "wof:lastmodified":1449007174,
+    "wof:lastmodified":1466211477,
     "wof:name":"Trivelli Pelot & Sutter Etude D'avocat",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.636948,46.520477,6.636948,46.520477],
+  "bbox": [
+    6.636948,
+    46.520477,
+    6.636948,
+    46.520477
+],
   "geometry": {"coordinates":[6.636948,46.520477],"type":"Point"}
 }

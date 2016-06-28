@@ -2,13 +2,14 @@
   "id": 220104345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.475473,47.096016,9.475473,47.096016",
     "geom:latitude":47.096016,
     "geom:longitude":9.475473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pradaweg 15",
     "sg:city":"Oberschan",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220104345,
-    "wof:lastmodified":1449074369,
+    "wof:lastmodified":1466209777,
     "wof:name":"H\u00f6hener Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.475473,47.096016,9.475473,47.096016],
+  "bbox": [
+    9.475473,
+    47.096016,
+    9.475473,
+    47.096016
+],
   "geometry": {"coordinates":[9.475473,47.096016],"type":"Point"}
 }

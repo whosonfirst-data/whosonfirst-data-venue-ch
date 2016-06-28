@@ -2,13 +2,14 @@
   "id": 219873505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.639166,47.36861,8.639166,47.36861",
     "geom:latitude":47.36861,
     "geom:longitude":8.639166,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hopplenweg 1",
     "sg:city":"F\u00e4llanden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219873505,
-    "wof:lastmodified":1449071132,
+    "wof:lastmodified":1466212599,
     "wof:name":"Baugenossenschaft Fenichland",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.639166,47.36861,8.639166,47.36861],
+  "bbox": [
+    8.639166,
+    47.36861,
+    8.639166,
+    47.36861
+],
   "geometry": {"coordinates":[8.639166,47.36861],"type":"Point"}
 }

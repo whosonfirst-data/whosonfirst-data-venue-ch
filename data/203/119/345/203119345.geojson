@@ -2,13 +2,14 @@
   "id": 203119345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58055,47.559307,7.58055,47.559307",
     "geom:latitude":47.559307,
     "geom:longitude":7.58055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nbeinstrasse 21",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203119345,
-    "wof:lastmodified":1449026323,
+    "wof:lastmodified":1466211296,
     "wof:name":"Mhb Montagebau Gmbh",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.58055,47.559307,7.58055,47.559307],
+  "bbox": [
+    7.58055,
+    47.559307,
+    7.58055,
+    47.559307
+],
   "geometry": {"coordinates":[7.58055,47.559307],"type":"Point"}
 }

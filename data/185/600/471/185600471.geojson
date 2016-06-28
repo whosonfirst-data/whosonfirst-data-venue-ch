@@ -2,13 +2,14 @@
   "id": 185600471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.128064,46.176723,6.128064,46.176723",
     "geom:latitude":46.176723,
     "geom:longitude":6.128064,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte Des Jeunes 18",
     "sg:city":"Grand-lancy",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185600471,
-    "wof:lastmodified":1449006760,
+    "wof:lastmodified":1466208920,
     "wof:name":"C.i.d.e.c. Jaggi Jean-pierre",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.128064,46.176723,6.128064,46.176723],
+  "bbox": [
+    6.128064,
+    46.176723,
+    6.128064,
+    46.176723
+],
   "geometry": {"coordinates":[6.128064,46.176723],"type":"Point"}
 }

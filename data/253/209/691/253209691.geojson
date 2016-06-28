@@ -2,13 +2,14 @@
   "id": 253209691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.261009,47.609241,9.261009,47.609241",
     "geom:latitude":47.609241,
     "geom:longitude":9.261009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcttinger Strasse 30",
     "sg:city":"Altnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253209691,
-    "wof:lastmodified":1449065462,
+    "wof:lastmodified":1466211107,
     "wof:name":"Kunz Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.261009,47.609241,9.261009,47.609241],
+  "bbox": [
+    9.261009,
+    47.609241,
+    9.261009,
+    47.609241
+],
   "geometry": {"coordinates":[9.261009,47.609241],"type":"Point"}
 }

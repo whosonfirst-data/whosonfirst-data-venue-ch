@@ -2,13 +2,14 @@
   "id": 185845667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53407,47.372551,8.53407,47.372551",
     "geom:latitude":47.372551,
     "geom:longitude":8.53407,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sihlstrasse 55",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185845667,
-    "wof:lastmodified":1449006875,
+    "wof:lastmodified":1466209445,
     "wof:name":"Japan Air Lines Ltd.",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air-freight"
     ]
 },
-  "bbox": [8.53407,47.372551,8.53407,47.372551],
+  "bbox": [
+    8.53407,
+    47.372551,
+    8.53407,
+    47.372551
+],
   "geometry": {"coordinates":[8.53407,47.372551],"type":"Point"}
 }

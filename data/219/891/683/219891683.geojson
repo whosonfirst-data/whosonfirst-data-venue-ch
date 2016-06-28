@@ -2,13 +2,14 @@
   "id": 219891683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.499411,46.840137,7.499411,46.840137",
     "geom:latitude":46.840137,
     "geom:longitude":7.499411,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrmatt 1",
     "sg:city":"Kaufdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219891683,
-    "wof:lastmodified":1449072517,
+    "wof:lastmodified":1466212619,
     "wof:name":"Wohnbaugen.aarche Rohrmatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.499411,46.840137,7.499411,46.840137],
+  "bbox": [
+    7.499411,
+    46.840137,
+    7.499411,
+    46.840137
+],
   "geometry": {"coordinates":[7.499411,46.840137],"type":"Point"}
 }

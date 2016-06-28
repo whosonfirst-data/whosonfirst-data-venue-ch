@@ -2,13 +2,14 @@
   "id": 202516075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.66042,46.617119,6.66042,46.617119",
     "geom:latitude":46.617119,
     "geom:longitude":6.66042,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laufenplatz 148",
     "sg:city":"Laufenburg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202516075,
-    "wof:lastmodified":1449060599,
+    "wof:lastmodified":1466211599,
     "wof:name":"Ghattas M., Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.66042,46.617119,6.66042,46.617119],
+  "bbox": [
+    6.66042,
+    46.617119,
+    6.66042,
+    46.617119
+],
   "geometry": {"coordinates":[6.66042,46.617119],"type":"Point"}
 }

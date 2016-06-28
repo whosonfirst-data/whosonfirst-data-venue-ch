@@ -2,13 +2,14 @@
   "id": 253302881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.497552,46.509106,6.497552,46.509106",
     "geom:latitude":46.509106,
     "geom:longitude":6.497552,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Foss\u00e9s 39",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253302881,
-    "wof:lastmodified":1449063818,
+    "wof:lastmodified":1466211884,
     "wof:name":"Librairie La Tache D'encre",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.497552,46.509106,6.497552,46.509106],
+  "bbox": [
+    6.497552,
+    46.509106,
+    6.497552,
+    46.509106
+],
   "geometry": {"coordinates":[6.497552,46.509106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185830243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.814108,47.462593,7.814108,47.462593",
     "geom:latitude":47.462593,
     "geom:longitude":7.814108,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 25",
     "sg:city":"Sissach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185830243,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466209321,
     "wof:name":"Diener Service Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "air"
     ]
 },
-  "bbox": [7.814108,47.462593,7.814108,47.462593],
+  "bbox": [
+    7.814108,
+    47.462593,
+    7.814108,
+    47.462593
+],
   "geometry": {"coordinates":[7.814108,47.462593],"type":"Point"}
 }

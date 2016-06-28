@@ -2,13 +2,14 @@
   "id": 186428227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.331912,47.352322,8.331912,47.352322",
     "geom:latitude":47.352322,
     "geom:longitude":8.331912,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Salvatorenstrasse 49",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186428227,
-    "wof:lastmodified":1449052850,
+    "wof:lastmodified":1466210828,
     "wof:name":"Comolli Immobau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.331912,47.352322,8.331912,47.352322],
+  "bbox": [
+    8.331912,
+    47.352322,
+    8.331912,
+    47.352322
+],
   "geometry": {"coordinates":[8.331912,47.352322],"type":"Point"}
 }

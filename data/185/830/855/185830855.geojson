@@ -2,13 +2,14 @@
   "id": 185830855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.84434,47.297871,8.84434,47.297871",
     "geom:latitude":47.297871,
     "geom:longitude":8.84434,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcssenb\u00fcelstrasse 20",
     "sg:city":"Hinwil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185830855,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466209326,
     "wof:name":"Lwt Steiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [8.84434,47.297871,8.84434,47.297871],
+  "bbox": [
+    8.84434,
+    47.297871,
+    8.84434,
+    47.297871
+],
   "geometry": {"coordinates":[8.84434,47.297871],"type":"Point"}
 }

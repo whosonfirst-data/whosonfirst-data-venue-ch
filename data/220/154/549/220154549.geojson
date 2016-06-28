@@ -2,13 +2,14 @@
   "id": 220154549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.159775,46.785362,8.159775,46.785362",
     "geom:latitude":46.785362,
     "geom:longitude":8.159775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 4 6078 Lungern. Postfach 32",
     "sg:city":"Lungern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220154549,
-    "wof:lastmodified":1449074888,
+    "wof:lastmodified":1466210201,
     "wof:name":"Von Ah H.p. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.159775,46.785362,8.159775,46.785362],
+  "bbox": [
+    8.159775,
+    46.785362,
+    8.159775,
+    46.785362
+],
   "geometry": {"coordinates":[8.159775,46.785362],"type":"Point"}
 }

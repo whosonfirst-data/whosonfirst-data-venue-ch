@@ -2,13 +2,14 @@
   "id": 236300429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.042299,47.462616,9.042299,47.462616",
     "geom:latitude":47.462616,
     "geom:longitude":9.042299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frohheimstrasse 10",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236300429,
-    "wof:lastmodified":1449003524,
+    "wof:lastmodified":1466211855,
     "wof:name":"Guido Wick A Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.042299,47.462616,9.042299,47.462616],
+  "bbox": [
+    9.042299,
+    47.462616,
+    9.042299,
+    47.462616
+],
   "geometry": {"coordinates":[9.042299,47.462616],"type":"Point"}
 }

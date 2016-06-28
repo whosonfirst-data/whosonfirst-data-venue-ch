@@ -2,13 +2,14 @@
   "id": 219377495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.691831,47.528221,8.691831,47.528221",
     "geom:latitude":47.528221,
     "geom:longitude":8.691831,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedhofstrasse 157",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219377495,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466209954,
     "wof:name":"Wewi Automobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [8.691831,47.528221,8.691831,47.528221],
+  "bbox": [
+    8.691831,
+    47.528221,
+    8.691831,
+    47.528221
+],
   "geometry": {"coordinates":[8.691831,47.528221],"type":"Point"}
 }

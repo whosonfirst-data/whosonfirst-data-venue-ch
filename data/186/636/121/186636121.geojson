@@ -2,13 +2,14 @@
   "id": 186636121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.542393,47.55389,7.542393,47.55389",
     "geom:latitude":47.55389,
     "geom:longitude":7.542393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenring 8",
     "sg:city":"Allschwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186636121,
-    "wof:lastmodified":1449051433,
+    "wof:lastmodified":1466212150,
     "wof:name":"Arcade Engineering Ag",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.542393,47.55389,7.542393,47.55389],
+  "bbox": [
+    7.542393,
+    47.55389,
+    7.542393,
+    47.55389
+],
   "geometry": {"coordinates":[7.542393,47.55389],"type":"Point"}
 }

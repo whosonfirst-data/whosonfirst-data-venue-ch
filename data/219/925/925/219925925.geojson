@@ -2,13 +2,14 @@
   "id": 219925925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39508,46.816891,8.39508,46.816891",
     "geom:latitude":46.816891,
     "geom:longitude":8.39508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birkenstrasse 78",
     "sg:city":"Engelberg",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219925925,
-    "wof:lastmodified":1449070398,
+    "wof:lastmodified":1466212583,
     "wof:name":"Strassengenossenschaft Birkenstrasse, Engelberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39508,46.816891,8.39508,46.816891],
+  "bbox": [
+    8.39508,
+    46.816891,
+    8.39508,
+    46.816891
+],
   "geometry": {"coordinates":[8.39508,46.816891],"type":"Point"}
 }

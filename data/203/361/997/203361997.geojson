@@ -2,13 +2,14 @@
   "id": 203361997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.503882,47.606476,8.503882,47.606476",
     "geom:latitude":47.606476,
     "geom:longitude":8.503882,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerechtigkeitsgasse 53",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203361997,
-    "wof:lastmodified":1449026350,
+    "wof:lastmodified":1466211150,
     "wof:name":"Dr.med.kaspar Wieland Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.503882,47.606476,8.503882,47.606476],
+  "bbox": [
+    8.503882,
+    47.606476,
+    8.503882,
+    47.606476
+],
   "geometry": {"coordinates":[8.503882,47.606476],"type":"Point"}
 }

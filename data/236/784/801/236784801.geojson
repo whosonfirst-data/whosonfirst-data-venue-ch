@@ -2,13 +2,14 @@
   "id": 236784801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.469188,47.341702,8.469188,47.341702",
     "geom:latitude":47.341702,
     "geom:longitude":8.469188,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenggenweg 7",
     "sg:city":"Wettswil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236784801,
-    "wof:lastmodified":1449003935,
+    "wof:lastmodified":1466212895,
     "wof:name":"Dingetschweiler Ag",
     "wof:parent_id":85800629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [8.469188,47.341702,8.469188,47.341702],
+  "bbox": [
+    8.469188,
+    47.341702,
+    8.469188,
+    47.341702
+],
   "geometry": {"coordinates":[8.469188,47.341702],"type":"Point"}
 }

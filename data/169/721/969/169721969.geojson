@@ -2,13 +2,14 @@
   "id": 169721969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.109629,46.167248,6.109629,46.167248",
     "geom:latitude":46.167248,
     "geom:longitude":6.109629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. Du Champ-des-filles 5",
     "sg:city":"Plan-les-ouates",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169721969,
-    "wof:lastmodified":1449035958,
+    "wof:lastmodified":1466211139,
     "wof:name":"Scolari Dominique",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "smart"
     ]
 },
-  "bbox": [6.109629,46.167248,6.109629,46.167248],
+  "bbox": [
+    6.109629,
+    46.167248,
+    6.109629,
+    46.167248
+],
   "geometry": {"coordinates":[6.109629,46.167248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202873849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.556723,47.355652,8.556723,47.355652",
     "geom:latitude":47.355652,
     "geom:longitude":8.556723,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ceresstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202873849,
-    "wof:lastmodified":1449060642,
+    "wof:lastmodified":1466212025,
     "wof:name":"Wunderli Theo & Partner Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.556723,47.355652,8.556723,47.355652],
+  "bbox": [
+    8.556723,
+    47.355652,
+    8.556723,
+    47.355652
+],
   "geometry": {"coordinates":[8.556723,47.355652],"type":"Point"}
 }

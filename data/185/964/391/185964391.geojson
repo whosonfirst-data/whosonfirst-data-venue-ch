@@ -2,13 +2,14 @@
   "id": 185964391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.913809,47.346123,7.913809,47.346123",
     "geom:latitude":47.346123,
     "geom:longitude":7.913809,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfarrweg 15",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185964391,
-    "wof:lastmodified":1449007824,
+    "wof:lastmodified":1466210442,
     "wof:name":"Studer Und Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.913809,47.346123,7.913809,47.346123],
+  "bbox": [
+    7.913809,
+    47.346123,
+    7.913809,
+    47.346123
+],
   "geometry": {"coordinates":[7.913809,47.346123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185634031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.517287,47.21357,7.517287,47.21357",
     "geom:latitude":47.21357,
     "geom:longitude":7.517287,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langendorfstrasse 2",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185634031,
-    "wof:lastmodified":1449007389,
+    "wof:lastmodified":1466209984,
     "wof:name":"Bug Keramik, Salvatore Giandinoto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tiles"
     ]
 },
-  "bbox": [7.517287,47.21357,7.517287,47.21357],
+  "bbox": [
+    7.517287,
+    47.21357,
+    7.517287,
+    47.21357
+],
   "geometry": {"coordinates":[7.517287,47.21357],"type":"Point"}
 }

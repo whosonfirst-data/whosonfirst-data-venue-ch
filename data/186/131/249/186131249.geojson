@@ -2,13 +2,14 @@
   "id": 186131249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.057397,47.092415,9.057397,47.092415",
     "geom:latitude":47.092415,
     "geom:longitude":9.057397,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altweg 28 8752 N\u00e4fels. Postfach",
     "sg:city":"N\u00e4fels",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186131249,
-    "wof:lastmodified":1449051188,
+    "wof:lastmodified":1466211215,
     "wof:name":"Landolt F. Generalunternehmung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.057397,47.092415,9.057397,47.092415],
+  "bbox": [
+    9.057397,
+    47.092415,
+    9.057397,
+    47.092415
+],
   "geometry": {"coordinates":[9.057397,47.092415],"type":"Point"}
 }

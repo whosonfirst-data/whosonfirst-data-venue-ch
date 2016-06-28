@@ -2,13 +2,14 @@
   "id": 236219711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.9126,46.429543,6.9126,46.429543",
     "geom:latitude":46.429543,
     "geom:longitude":6.9126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Th\u00e9\u00e2tre Rue Du 5",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236219711,
-    "wof:lastmodified":1449005087,
+    "wof:lastmodified":1466211021,
     "wof:name":"Fondation Du Festival International De Musique Et D'art Lyrique De Montreux-vevey",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.9126,46.429543,6.9126,46.429543],
+  "bbox": [
+    6.9126,
+    46.429543,
+    6.9126,
+    46.429543
+],
   "geometry": {"coordinates":[6.9126,46.429543],"type":"Point"}
 }

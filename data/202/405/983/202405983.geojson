@@ -2,13 +2,14 @@
   "id": 202405983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548244,47.284248,8.548244,47.284248",
     "geom:latitude":47.284248,
     "geom:longitude":8.548244,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gattikonerstrasse 101",
     "sg:city":"Gattikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202405983,
-    "wof:lastmodified":1449062448,
+    "wof:lastmodified":1466209817,
     "wof:name":"Benno M\u00fcller Planungsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548244,47.284248,8.548244,47.284248],
+  "bbox": [
+    8.548244,
+    47.284248,
+    8.548244,
+    47.284248
+],
   "geometry": {"coordinates":[8.548244,47.284248],"type":"Point"}
 }

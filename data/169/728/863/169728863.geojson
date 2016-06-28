@@ -2,13 +2,14 @@
   "id": 169728863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.132243,47.406437,7.132243,47.406437",
     "geom:latitude":47.406437,
     "geom:longitude":7.132243,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Pales 6",
     "sg:city":"Courgenay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169728863,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1466211167,
     "wof:name":"Multiplex Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [7.132243,47.406437,7.132243,47.406437],
+  "bbox": [
+    7.132243,
+    47.406437,
+    7.132243,
+    47.406437
+],
   "geometry": {"coordinates":[7.132243,47.406437],"type":"Point"}
 }

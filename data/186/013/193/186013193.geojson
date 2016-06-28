@@ -2,13 +2,14 @@
   "id": 186013193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.871705,47.539078,7.871705,47.539078",
     "geom:latitude":47.539078,
     "geom:longitude":7.871705,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fclirain 5",
     "sg:city":"Zeiningen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186013193,
-    "wof:lastmodified":1449052184,
+    "wof:lastmodified":1466209381,
     "wof:name":"Bau-con Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.871705,47.539078,7.871705,47.539078],
+  "bbox": [
+    7.871705,
+    47.539078,
+    7.871705,
+    47.539078
+],
   "geometry": {"coordinates":[7.871705,47.539078],"type":"Point"}
 }

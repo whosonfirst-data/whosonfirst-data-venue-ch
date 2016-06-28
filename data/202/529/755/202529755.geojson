@@ -2,13 +2,14 @@
   "id": 202529755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.39781,47.432381,9.39781,47.432381",
     "geom:latitude":47.432381,
     "geom:longitude":9.39781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00f6merstrasse 26 4314 Zeiningen. Postfach",
     "sg:city":"Zeiningen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202529755,
-    "wof:lastmodified":1449061230,
+    "wof:lastmodified":1466208999,
     "wof:name":"Haaf, B\u00fcro F\u00fcr Bauphysikalische Untersuchungen W\u00e4rmetechn. Beratungen.",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.39781,47.432381,9.39781,47.432381],
+  "bbox": [
+    9.39781,
+    47.432381,
+    9.39781,
+    47.432381
+],
   "geometry": {"coordinates":[9.39781,47.432381],"type":"Point"}
 }

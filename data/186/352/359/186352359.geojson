@@ -2,13 +2,14 @@
   "id": 186352359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.297982,46.465008,7.297982,46.465008",
     "geom:latitude":46.465008,
     "geom:longitude":7.297982,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ngenbergstrasse 1 8200 Schaffhausen. Postfach",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186352359,
-    "wof:lastmodified":1449052006,
+    "wof:lastmodified":1466210228,
     "wof:name":"Bonaria Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.297982,46.465008,7.297982,46.465008],
+  "bbox": [
+    7.297982,
+    46.465008,
+    7.297982,
+    46.465008
+],
   "geometry": {"coordinates":[7.297982,46.465008],"type":"Point"}
 }

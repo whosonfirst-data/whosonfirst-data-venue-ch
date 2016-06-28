@@ -2,13 +2,14 @@
   "id": 219428601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.52221,46.522514,6.52221,46.522514",
     "geom:latitude":46.522514,
     "geom:longitude":6.52221,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Pr\u00e9verenges1 1027 Lonay Case Postale 90",
     "sg:city":"Lonay",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219428601,
-    "wof:lastmodified":1449073665,
+    "wof:lastmodified":1466210443,
     "wof:name":"Eureka D\u00e9m\u00e9nagements S\u00e0rl",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.52221,46.522514,6.52221,46.522514],
+  "bbox": [
+    6.52221,
+    46.522514,
+    6.52221,
+    46.522514
+],
   "geometry": {"coordinates":[6.52221,46.522514],"type":"Point"}
 }

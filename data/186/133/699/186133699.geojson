@@ -2,13 +2,14 @@
   "id": 186133699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.579282,47.736023,8.579282,47.736023",
     "geom:latitude":47.736023,
     "geom:longitude":8.579282,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mettlerhof 34",
     "sg:city":"Hemmental",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186133699,
-    "wof:lastmodified":1449052544,
+    "wof:lastmodified":1466211269,
     "wof:name":"Leu Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.579282,47.736023,8.579282,47.736023],
+  "bbox": [
+    8.579282,
+    47.736023,
+    8.579282,
+    47.736023
+],
   "geometry": {"coordinates":[8.579282,47.736023],"type":"Point"}
 }

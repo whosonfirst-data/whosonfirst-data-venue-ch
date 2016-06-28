@@ -2,13 +2,14 @@
   "id": 236080981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.395912,47.439877,9.395912,47.439877",
     "geom:latitude":47.439877,
     "geom:longitude":9.395912,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 16",
     "sg:city":"Murten",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236080981,
-    "wof:lastmodified":1449005141,
+    "wof:lastmodified":1466209622,
     "wof:name":"Kurt Kreihsig Spenglerei & Installationen",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.395912,47.439877,9.395912,47.439877],
+  "bbox": [
+    9.395912,
+    47.439877,
+    9.395912,
+    47.439877
+],
   "geometry": {"coordinates":[9.395912,47.439877],"type":"Point"}
 }

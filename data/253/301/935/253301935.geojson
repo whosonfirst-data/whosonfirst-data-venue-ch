@@ -2,13 +2,14 @@
   "id": 253301935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.76742,46.155865,8.76742,46.155865",
     "geom:latitude":46.155865,
     "geom:longitude":8.76742,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Borgo 30 6612 Ascona. Postfach Caselle Postale 706",
     "sg:city":"Ascona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253301935,
-    "wof:lastmodified":1449063575,
+    "wof:lastmodified":1466211732,
     "wof:name":"Il Gufo Libreria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.76742,46.155865,8.76742,46.155865],
+  "bbox": [
+    8.76742,
+    46.155865,
+    8.76742,
+    46.155865
+],
   "geometry": {"coordinates":[8.76742,46.155865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169615217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.223583,47.131149,8.223583,47.131149",
     "geom:latitude":47.131149,
     "geom:longitude":8.223583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thuraustr.",
     "sg:city":"Henau",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169615217,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466209529,
     "wof:name":"Suisag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "animal"
     ]
 },
-  "bbox": [8.223583,47.131149,8.223583,47.131149],
+  "bbox": [
+    8.223583,
+    47.131149,
+    8.223583,
+    47.131149
+],
   "geometry": {"coordinates":[8.223583,47.131149],"type":"Point"}
 }

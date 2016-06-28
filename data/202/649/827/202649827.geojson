@@ -2,13 +2,14 @@
   "id": 202649827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.500928,46.888569,7.500928,46.888569",
     "geom:latitude":46.888569,
     "geom:longitude":7.500928,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4getstrasse 5",
     "sg:city":"Belp",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202649827,
-    "wof:lastmodified":1449061813,
+    "wof:lastmodified":1466210125,
     "wof:name":"Organisation Zoller Sa",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.500928,46.888569,7.500928,46.888569],
+  "bbox": [
+    7.500928,
+    46.888569,
+    7.500928,
+    46.888569
+],
   "geometry": {"coordinates":[7.500928,46.888569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203201529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.137576,46.185368,6.137576,46.185368",
     "geom:latitude":46.185368,
     "geom:longitude":6.137576,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Ruchonnet 2",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203201529,
-    "wof:lastmodified":1449026608,
+    "wof:lastmodified":1466209489,
     "wof:name":"Dr M\u00e9d. Marc Lacour M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.137576,46.185368,6.137576,46.185368],
+  "bbox": [
+    6.137576,
+    46.185368,
+    6.137576,
+    46.185368
+],
   "geometry": {"coordinates":[6.137576,46.185368],"type":"Point"}
 }

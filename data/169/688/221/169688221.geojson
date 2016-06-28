@@ -2,13 +2,14 @@
   "id": 169688221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628816,46.541279,6.628816,46.541279",
     "geom:latitude":46.541279,
     "geom:longitude":6.628816,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Maillefer 36 1052 Mont-sur-lausanne Case Postale 455",
     "sg:city":"Mont-sur-lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169688221,
-    "wof:lastmodified":1449033923,
+    "wof:lastmodified":1466210638,
     "wof:name":"Stock'in Sa",
     "wof:parent_id":85862309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.628816,46.541279,6.628816,46.541279],
+  "bbox": [
+    6.628816,
+    46.541279,
+    6.628816,
+    46.541279
+],
   "geometry": {"coordinates":[6.628816,46.541279],"type":"Point"}
 }

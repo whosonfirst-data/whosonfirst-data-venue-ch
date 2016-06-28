@@ -2,13 +2,14 @@
   "id": 252987693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.940035,46.883659,6.940035,46.883659",
     "geom:latitude":46.883659,
     "geom:longitude":6.940035,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chesard",
     "sg:city":"Grandcour",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252987693,
-    "wof:lastmodified":1449006018,
+    "wof:lastmodified":1466211729,
     "wof:name":"Marc Baud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.940035,46.883659,6.940035,46.883659],
+  "bbox": [
+    6.940035,
+    46.883659,
+    6.940035,
+    46.883659
+],
   "geometry": {"coordinates":[6.940035,46.883659],"type":"Point"}
 }

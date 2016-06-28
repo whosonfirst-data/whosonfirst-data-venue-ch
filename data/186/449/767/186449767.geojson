@@ -2,13 +2,14 @@
   "id": 186449767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.770695,47.253101,8.770695,47.253101",
     "geom:latitude":47.253101,
     "geom:longitude":8.770695,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altersheimstrasse 2 8634 Hombrechtikon. Postfach 369",
     "sg:city":"Hombrechtikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186449767,
-    "wof:lastmodified":1449052832,
+    "wof:lastmodified":1466211004,
     "wof:name":"G\u00fcnter Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.770695,47.253101,8.770695,47.253101],
+  "bbox": [
+    8.770695,
+    47.253101,
+    8.770695,
+    47.253101
+],
   "geometry": {"coordinates":[8.770695,47.253101],"type":"Point"}
 }

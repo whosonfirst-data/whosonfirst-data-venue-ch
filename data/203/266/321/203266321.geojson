@@ -2,13 +2,14 @@
   "id": 203266321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.519415,47.574142,8.519415,47.574142",
     "geom:latitude":47.574142,
     "geom:longitude":8.519415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mettlenstrasse 28",
     "sg:city":"Eglisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203266321,
-    "wof:lastmodified":1449025012,
+    "wof:lastmodified":1466210190,
     "wof:name":"Dr.med.adrian Grunder Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.519415,47.574142,8.519415,47.574142],
+  "bbox": [
+    8.519415,
+    47.574142,
+    8.519415,
+    47.574142
+],
   "geometry": {"coordinates":[8.519415,47.574142],"type":"Point"}
 }

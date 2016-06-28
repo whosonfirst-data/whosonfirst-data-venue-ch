@@ -2,13 +2,14 @@
   "id": 202384733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.38038,47.28162,7.38038,47.28162",
     "geom:latitude":47.28162,
     "geom:longitude":7.38038,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Nant 9",
     "sg:city":"Montagne-moutier",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202384733,
-    "wof:lastmodified":1449060416,
+    "wof:lastmodified":1466209399,
     "wof:name":"Association Jurassienne Des Ing\u00e9nieurs Civils (ajic)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.38038,47.28162,7.38038,47.28162],
+  "bbox": [
+    7.38038,
+    47.28162,
+    7.38038,
+    47.28162
+],
   "geometry": {"coordinates":[7.38038,47.28162],"type":"Point"}
 }

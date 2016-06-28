@@ -2,13 +2,14 @@
   "id": 185629013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.636893,47.536469,7.636893,47.536469",
     "geom:latitude":47.536469,
     "geom:longitude":7.636893,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofackerstrasse 75",
     "sg:city":"Muttenz",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185629013,
-    "wof:lastmodified":1449007853,
+    "wof:lastmodified":1466211653,
     "wof:name":"Bmz Druck Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "label"
     ]
 },
-  "bbox": [7.636893,47.536469,7.636893,47.536469],
+  "bbox": [
+    7.636893,
+    47.536469,
+    7.636893,
+    47.536469
+],
   "geometry": {"coordinates":[7.636893,47.536469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252731321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.531474,47.007507,9.531474,47.007507",
     "geom:latitude":47.007507,
     "geom:longitude":9.531474,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00e4dtli 2 7304 Maienfeld. Postfach",
     "sg:city":"Maienfeld",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252731321,
-    "wof:lastmodified":1449006390,
+    "wof:lastmodified":1466209149,
     "wof:name":"Weingut Pola, Inhaber Von Sprecher Andreas Weine, Gebranntes Wasser; Produktion, Handel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.531474,47.007507,9.531474,47.007507],
+  "bbox": [
+    9.531474,
+    47.007507,
+    9.531474,
+    47.007507
+],
   "geometry": {"coordinates":[9.531474,47.007507],"type":"Point"}
 }

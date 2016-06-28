@@ -2,13 +2,14 @@
   "id": 186516511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.123267,46.222683,6.123267,46.222683",
     "geom:latitude":46.222683,
     "geom:longitude":6.123267,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Colladon 5-7",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186516511,
-    "wof:lastmodified":1449050918,
+    "wof:lastmodified":1466211579,
     "wof:name":"Si R\u00e9sidence Colladon",
     "wof:parent_id":85862451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [6.123267,46.222683,6.123267,46.222683],
+  "bbox": [
+    6.123267,
+    46.222683,
+    6.123267,
+    46.222683
+],
   "geometry": {"coordinates":[6.123267,46.222683],"type":"Point"}
 }

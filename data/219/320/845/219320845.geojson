@@ -2,13 +2,14 @@
   "id": 219320845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.664039,47.263836,8.664039,47.263836",
     "geom:latitude":47.263836,
     "geom:longitude":8.664039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im D\u00f6rfli 21",
     "sg:city":"Meilen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219320845,
-    "wof:lastmodified":1449071286,
+    "wof:lastmodified":1466209443,
     "wof:name":"Werner Forrer Jun. D\u00f6rfligarage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.664039,47.263836,8.664039,47.263836],
+  "bbox": [
+    8.664039,
+    47.263836,
+    8.664039,
+    47.263836
+],
   "geometry": {"coordinates":[8.664039,47.263836],"type":"Point"}
 }

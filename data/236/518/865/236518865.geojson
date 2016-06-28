@@ -2,13 +2,14 @@
   "id": 236518865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.240343,47.38168,8.240343,47.38168",
     "geom:latitude":47.38168,
     "geom:longitude":8.240343,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 25",
     "sg:city":"Dottikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236518865,
-    "wof:lastmodified":1449003531,
+    "wof:lastmodified":1466212650,
     "wof:name":"Heinz Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.240343,47.38168,8.240343,47.38168],
+  "bbox": [
+    8.240343,
+    47.38168,
+    8.240343,
+    47.38168
+],
   "geometry": {"coordinates":[8.240343,47.38168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202445041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.348776,47.37011,7.348776,47.37011",
     "geom:latitude":47.37011,
     "geom:longitude":7.348776,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Vorbourg 45 2800 Del\u00e9mont Case Postale 2010",
     "sg:city":"Delsberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202445041,
-    "wof:lastmodified":1449060445,
+    "wof:lastmodified":1466210587,
     "wof:name":"Centec Sa Ing\u00e9nieurs-conseils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.348776,47.37011,7.348776,47.37011],
+  "bbox": [
+    7.348776,
+    47.37011,
+    7.348776,
+    47.37011
+],
   "geometry": {"coordinates":[7.348776,47.37011],"type":"Point"}
 }

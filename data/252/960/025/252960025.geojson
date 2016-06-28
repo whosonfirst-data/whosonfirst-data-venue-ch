@@ -2,13 +2,14 @@
   "id": 252960025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.608031,46.779819,7.608031,46.779819",
     "geom:latitude":46.779819,
     "geom:longitude":7.608031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bl\u00fcmlisalpstrasse 61 3627 Heimberg. Postfach 33",
     "sg:city":"Heimberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252960025,
-    "wof:lastmodified":1449006178,
+    "wof:lastmodified":1466211624,
     "wof:name":"Fust Ag Elektroapparate",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.608031,46.779819,7.608031,46.779819],
+  "bbox": [
+    7.608031,
+    46.779819,
+    7.608031,
+    46.779819
+],
   "geometry": {"coordinates":[7.608031,46.779819],"type":"Point"}
 }

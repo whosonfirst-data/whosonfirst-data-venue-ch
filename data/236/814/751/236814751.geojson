@@ -2,13 +2,14 @@
   "id": 236814751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.326358,47.455173,8.326358,47.455173",
     "geom:latitude":47.455173,
     "geom:longitude":8.326358,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 4",
     "sg:city":"Neuenhof",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236814751,
-    "wof:lastmodified":1449002130,
+    "wof:lastmodified":1466212917,
     "wof:name":"Tecton Flachdach Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.326358,47.455173,8.326358,47.455173],
+  "bbox": [
+    8.326358,
+    47.455173,
+    8.326358,
+    47.455173
+],
   "geometry": {"coordinates":[8.326358,47.455173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202412615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.482338,47.271351,8.482338,47.271351",
     "geom:latitude":47.271351,
     "geom:longitude":8.482338,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Krauchthalstrasse 18 3065 Bolligen. Postfach",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202412615,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466209920,
     "wof:name":"Bitag Ingenieurunternehmung Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.482338,47.271351,8.482338,47.271351],
+  "bbox": [
+    8.482338,
+    47.271351,
+    8.482338,
+    47.271351
+],
   "geometry": {"coordinates":[8.482338,47.271351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253418829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.639344,46.779018,6.639344,46.779018",
     "geom:latitude":46.779018,
     "geom:longitude":6.639344,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Milieu 24 1400 Yverdon-les-bains Case Postale 104",
     "sg:city":"Yverdon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253418829,
-    "wof:lastmodified":1449065117,
+    "wof:lastmodified":1466212280,
     "wof:name":"Boutique Madeleine Bis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.639344,46.779018,6.639344,46.779018],
+  "bbox": [
+    6.639344,
+    46.779018,
+    6.639344,
+    46.779018
+],
   "geometry": {"coordinates":[6.639344,46.779018],"type":"Point"}
 }

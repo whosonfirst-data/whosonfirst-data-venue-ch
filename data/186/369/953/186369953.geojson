@@ -2,13 +2,14 @@
   "id": 186369953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.106658,47.173607,8.106658,47.173607",
     "geom:latitude":47.173607,
     "geom:longitude":8.106658,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Urbanstrasse 1",
     "sg:city":"Sursee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186369953,
-    "wof:lastmodified":1449052902,
+    "wof:lastmodified":1466210359,
     "wof:name":"Kurmann + Balmer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.106658,47.173607,8.106658,47.173607],
+  "bbox": [
+    8.106658,
+    47.173607,
+    8.106658,
+    47.173607
+],
   "geometry": {"coordinates":[8.106658,47.173607],"type":"Point"}
 }

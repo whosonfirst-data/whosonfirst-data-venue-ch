@@ -2,13 +2,14 @@
   "id": 203285897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.579557,47.550877,7.579557,47.550877",
     "geom:latitude":47.550877,
     "geom:longitude":7.579557,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberwilerstrasse 9",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203285897,
-    "wof:lastmodified":1449025002,
+    "wof:lastmodified":1466210394,
     "wof:name":"Dr.med.bernhard Radanowicz Spezialarzt Fmh",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.579557,47.550877,7.579557,47.550877],
+  "bbox": [
+    7.579557,
+    47.550877,
+    7.579557,
+    47.550877
+],
   "geometry": {"coordinates":[7.579557,47.550877],"type":"Point"}
 }

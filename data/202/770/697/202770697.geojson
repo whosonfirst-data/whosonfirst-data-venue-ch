@@ -2,13 +2,14 @@
   "id": 202770697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18406,47.41431,9.18406,47.41431",
     "geom:latitude":47.41431,
     "geom:longitude":9.18406,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weideggstrasse 16",
     "sg:city":"Flawil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202770697,
-    "wof:lastmodified":1449062705,
+    "wof:lastmodified":1466211251,
     "wof:name":"Wismer Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18406,47.41431,9.18406,47.41431],
+  "bbox": [
+    9.18406,
+    47.41431,
+    9.18406,
+    47.41431
+],
   "geometry": {"coordinates":[9.18406,47.41431],"type":"Point"}
 }

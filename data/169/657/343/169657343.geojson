@@ -2,13 +2,14 @@
   "id": 169657343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.319169,47.045486,8.319169,47.045486",
     "geom:latitude":47.045486,
     "geom:longitude":8.319169,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenqaui 28",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169657343,
-    "wof:lastmodified":1449033050,
+    "wof:lastmodified":1466210233,
     "wof:name":"Buchecker Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ceramic"
     ]
 },
-  "bbox": [8.319169,47.045486,8.319169,47.045486],
+  "bbox": [
+    8.319169,
+    47.045486,
+    8.319169,
+    47.045486
+],
   "geometry": {"coordinates":[8.319169,47.045486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219779611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.014009,46.34211,7.014009,46.34211",
     "geom:latitude":46.34211,
     "geom:longitude":7.014009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Ormonts",
     "sg:city":"Leysin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219779611,
-    "wof:lastmodified":1449070932,
+    "wof:lastmodified":1466212417,
     "wof:name":"Bar Le Braconnier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.014009,46.34211,7.014009,46.34211],
+  "bbox": [
+    7.014009,
+    46.34211,
+    7.014009,
+    46.34211
+],
   "geometry": {"coordinates":[7.014009,46.34211],"type":"Point"}
 }

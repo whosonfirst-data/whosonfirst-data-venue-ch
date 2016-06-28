@@ -2,13 +2,14 @@
   "id": 236913349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.585825,47.348038,8.585825,47.348038",
     "geom:latitude":47.348038,
     "geom:longitude":8.585825,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebwiesstrasse 38",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236913349,
-    "wof:lastmodified":1449002825,
+    "wof:lastmodified":1466212982,
     "wof:name":"Peter Zurkirchen Informatik Consulting",
     "wof:parent_id":85800647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.585825,47.348038,8.585825,47.348038],
+  "bbox": [
+    8.585825,
+    47.348038,
+    8.585825,
+    47.348038
+],
   "geometry": {"coordinates":[8.585825,47.348038],"type":"Point"}
 }

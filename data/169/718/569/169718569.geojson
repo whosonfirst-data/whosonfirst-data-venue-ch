@@ -2,13 +2,14 @@
   "id": 169718569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.584355,47.406471,8.584355,47.406471",
     "geom:latitude":47.406471,
     "geom:longitude":8.584355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterthurerstrasse 698 8051 Z\u00fcrich. Postfach 337",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169718569,
-    "wof:lastmodified":1449033399,
+    "wof:lastmodified":1466211107,
     "wof:name":"Scherrer Restaurationsbetriebe Ag Restaurationsbetriebe M. Bar-dancing.",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.584355,47.406471,8.584355,47.406471],
+  "bbox": [
+    8.584355,
+    47.406471,
+    8.584355,
+    47.406471
+],
   "geometry": {"coordinates":[8.584355,47.406471],"type":"Point"}
 }

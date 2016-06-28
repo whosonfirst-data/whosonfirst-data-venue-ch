@@ -2,13 +2,14 @@
   "id": 220145161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.270311,47.079323,8.270311,47.079323",
     "geom:latitude":47.079323,
     "geom:longitude":8.270311,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Erlenstrasse 16b",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220145161,
-    "wof:lastmodified":1449074264,
+    "wof:lastmodified":1466210122,
     "wof:name":"Schremo Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.270311,47.079323,8.270311,47.079323],
+  "bbox": [
+    8.270311,
+    47.079323,
+    8.270311,
+    47.079323
+],
   "geometry": {"coordinates":[8.270311,47.079323],"type":"Point"}
 }

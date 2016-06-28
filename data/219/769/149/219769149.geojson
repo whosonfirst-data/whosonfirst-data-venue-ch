@@ -2,13 +2,14 @@
   "id": 219769149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587165,47.550564,7.587165,47.550564",
     "geom:latitude":47.550564,
     "geom:longitude":7.587165,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Innere Margarethenstrasse 5",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219769149,
-    "wof:lastmodified":1449071565,
+    "wof:lastmodified":1466212399,
     "wof:name":"Bar & Bistro L-opera",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587165,47.550564,7.587165,47.550564],
+  "bbox": [
+    7.587165,
+    47.550564,
+    7.587165,
+    47.550564
+],
   "geometry": {"coordinates":[7.587165,47.550564],"type":"Point"}
 }

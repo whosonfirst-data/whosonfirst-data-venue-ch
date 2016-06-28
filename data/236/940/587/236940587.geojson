@@ -2,13 +2,14 @@
   "id": 236940587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.345684,47.057816,8.345684,47.057816",
     "geom:latitude":47.057816,
     "geom:longitude":8.345684,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00e4dr\u00fctihalde 5",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236940587,
-    "wof:lastmodified":1449002284,
+    "wof:lastmodified":1466213033,
     "wof:name":"Dc Informatik",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.345684,47.057816,8.345684,47.057816],
+  "bbox": [
+    8.345684,
+    47.057816,
+    8.345684,
+    47.057816
+],
   "geometry": {"coordinates":[8.345684,47.057816],"type":"Point"}
 }

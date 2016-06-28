@@ -2,13 +2,14 @@
   "id": 169619453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.953838,46.008091,8.953838,46.008091",
     "geom:latitude":46.008091,
     "geom:longitude":8.953838,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Serafino Balestra 7",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169619453,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1466209599,
     "wof:name":"La Loggia Luigi Tomiello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.953838,46.008091,8.953838,46.008091],
+  "bbox": [
+    8.953838,
+    46.008091,
+    8.953838,
+    46.008091
+],
   "geometry": {"coordinates":[8.953838,46.008091],"type":"Point"}
 }

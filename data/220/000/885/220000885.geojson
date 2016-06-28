@@ -2,13 +2,14 @@
   "id": 220000885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.83805,46.214619,7.83805,46.214619",
     "geom:latitude":46.214619,
     "geom:longitude":7.83805,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3922",
     "sg:city":"Kalpetran",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220000885,
-    "wof:lastmodified":1449074166,
+    "wof:lastmodified":1466211718,
     "wof:name":"Arnold Bumann Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.83805,46.214619,7.83805,46.214619],
+  "bbox": [
+    7.83805,
+    46.214619,
+    7.83805,
+    46.214619
+],
   "geometry": {"coordinates":[7.83805,46.214619],"type":"Point"}
 }

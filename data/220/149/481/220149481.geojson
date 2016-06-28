@@ -2,13 +2,14 @@
   "id": 220149481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.433906,47.40361,7.433906,47.40361",
     "geom:latitude":47.40361,
     "geom:longitude":7.433906,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strassburgerallee 27 4055 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220149481,
-    "wof:lastmodified":1449074063,
+    "wof:lastmodified":1466210158,
     "wof:name":"Steiner Schreinerei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.433906,47.40361,7.433906,47.40361],
+  "bbox": [
+    7.433906,
+    47.40361,
+    7.433906,
+    47.40361
+],
   "geometry": {"coordinates":[7.433906,47.40361],"type":"Point"}
 }

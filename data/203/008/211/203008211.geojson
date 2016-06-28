@@ -2,13 +2,14 @@
   "id": 203008211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.75815,46.164528,8.75815,46.164528",
     "geom:latitude":46.164528,
     "geom:longitude":8.75815,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Mondrigo 14",
     "sg:city":"Losone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203008211,
-    "wof:lastmodified":1449025507,
+    "wof:lastmodified":1466209251,
     "wof:name":"Hanspeter Sonderegger Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.75815,46.164528,8.75815,46.164528],
+  "bbox": [
+    8.75815,
+    46.164528,
+    8.75815,
+    46.164528
+],
   "geometry": {"coordinates":[8.75815,46.164528],"type":"Point"}
 }

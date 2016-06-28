@@ -2,13 +2,14 @@
   "id": 202900465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.493936,46.905094,7.493936,46.905094",
     "geom:latitude":46.905094,
     "geom:longitude":7.493936,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fchnerhubel 81",
     "sg:city":"Belp",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202900465,
-    "wof:lastmodified":1449061212,
+    "wof:lastmodified":1466212240,
     "wof:name":"Jenni Georg Ag",
     "wof:parent_id":85800111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.493936,46.905094,7.493936,46.905094],
+  "bbox": [
+    7.493936,
+    46.905094,
+    7.493936,
+    46.905094
+],
   "geometry": {"coordinates":[7.493936,46.905094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169621323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.59178,47.563812,7.59178,47.563812",
     "geom:latitude":47.563812,
     "geom:longitude":7.59178,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klybeckstrasse 20",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169621323,
-    "wof:lastmodified":1449035557,
+    "wof:lastmodified":1466209630,
     "wof:name":"Alcasa K\u00fcchen Ag",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.59178,47.563812,7.59178,47.563812],
+  "bbox": [
+    7.59178,
+    47.563812,
+    7.59178,
+    47.563812
+],
   "geometry": {"coordinates":[7.59178,47.563812],"type":"Point"}
 }

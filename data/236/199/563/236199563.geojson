@@ -2,13 +2,14 @@
   "id": 236199563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.768907,47.251102,8.768907,47.251102",
     "geom:latitude":47.251102,
     "geom:longitude":8.768907,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichtalstrasse 1",
     "sg:city":"Hombrechtikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236199563,
-    "wof:lastmodified":1449001929,
+    "wof:lastmodified":1466210805,
     "wof:name":"Epting & Willimann Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.768907,47.251102,8.768907,47.251102],
+  "bbox": [
+    8.768907,
+    47.251102,
+    8.768907,
+    47.251102
+],
   "geometry": {"coordinates":[8.768907,47.251102],"type":"Point"}
 }

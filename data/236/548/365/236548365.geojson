@@ -2,13 +2,14 @@
   "id": 236548365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.490618,46.513367,6.490618,46.513367",
     "geom:latitude":46.513367,
     "geom:longitude":6.490618,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Petit-d\u00e9zaley",
     "sg:city":"Morges",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236548365,
-    "wof:lastmodified":1449004026,
+    "wof:lastmodified":1466212585,
     "wof:name":"Chantier Naval Balmer-ravay Roland.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boot"
     ]
 },
-  "bbox": [6.490618,46.513367,6.490618,46.513367],
+  "bbox": [
+    6.490618,
+    46.513367,
+    6.490618,
+    46.513367
+],
   "geometry": {"coordinates":[6.490618,46.513367],"type":"Point"}
 }

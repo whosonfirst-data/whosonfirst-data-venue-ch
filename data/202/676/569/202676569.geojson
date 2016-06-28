@@ -2,13 +2,14 @@
   "id": 202676569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.524412,47.395878,8.524412,47.395878",
     "geom:latitude":47.395878,
     "geom:longitude":8.524412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zschokkestrasse 20",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202676569,
-    "wof:lastmodified":1449061716,
+    "wof:lastmodified":1466210372,
     "wof:name":"R. Knupp, Projekt Und Baumanagement",
     "wof:parent_id":85800643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.524412,47.395878,8.524412,47.395878],
+  "bbox": [
+    8.524412,
+    47.395878,
+    8.524412,
+    47.395878
+],
   "geometry": {"coordinates":[8.524412,47.395878],"type":"Point"}
 }

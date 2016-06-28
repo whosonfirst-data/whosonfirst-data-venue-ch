@@ -2,13 +2,14 @@
   "id": 253268233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.28128,46.49921,7.28128,46.49921",
     "geom:latitude":46.49921,
     "geom:longitude":7.28128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haupstrasse 3778 Sch\u00f6nried. Postfach",
     "sg:city":"Sch\u00f6nried",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253268233,
-    "wof:lastmodified":1449064507,
+    "wof:lastmodified":1466211624,
     "wof:name":"Wehren & Dubi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.28128,46.49921,7.28128,46.49921],
+  "bbox": [
+    7.28128,
+    46.49921,
+    7.28128,
+    46.49921
+],
   "geometry": {"coordinates":[7.28128,46.49921],"type":"Point"}
 }

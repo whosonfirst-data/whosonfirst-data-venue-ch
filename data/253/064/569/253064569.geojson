@@ -2,13 +2,14 @@
   "id": 253064569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.367052,47.009331,7.367052,47.009331",
     "geom:latitude":47.009331,
     "geom:longitude":7.367052,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weissensteinstrasse 33",
     "sg:city":"Meikirch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253064569,
-    "wof:lastmodified":1449063871,
+    "wof:lastmodified":1466209570,
     "wof:name":"Langenegger Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.367052,47.009331,7.367052,47.009331],
+  "bbox": [
+    7.367052,
+    47.009331,
+    7.367052,
+    47.009331
+],
   "geometry": {"coordinates":[7.367052,47.009331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236034921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.12836,46.237598,9.12836,46.237598",
     "geom:latitude":46.237598,
     "geom:longitude":9.12836,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Ch\u00e2teau 4",
     "sg:city":"Peseux",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236034921,
-    "wof:lastmodified":1449001953,
+    "wof:lastmodified":1466209196,
     "wof:name":"Renato Franchi Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.12836,46.237598,9.12836,46.237598],
+  "bbox": [
+    9.12836,
+    46.237598,
+    9.12836,
+    46.237598
+],
   "geometry": {"coordinates":[9.12836,46.237598],"type":"Point"}
 }

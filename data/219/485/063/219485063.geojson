@@ -2,13 +2,14 @@
   "id": 219485063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540656,47.36908,8.540656,47.36908",
     "geom:latitude":47.36908,
     "geom:longitude":8.540656,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fraum\u00fcnsterstr 23",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219485063,
-    "wof:lastmodified":1449072544,
+    "wof:lastmodified":1466210999,
     "wof:name":"Bank Sparhafen Z\u00fcrich",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540656,47.36908,8.540656,47.36908],
+  "bbox": [
+    8.540656,
+    47.36908,
+    8.540656,
+    47.36908
+],
   "geometry": {"coordinates":[8.540656,47.36908],"type":"Point"}
 }

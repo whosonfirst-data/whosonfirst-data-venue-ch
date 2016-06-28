@@ -2,13 +2,14 @@
   "id": 202711881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.576106,47.549557,7.576106,47.549557",
     "geom:latitude":47.549557,
     "geom:longitude":7.576106,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Therwilerstrasse 40 4054 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202711881,
-    "wof:lastmodified":1449062199,
+    "wof:lastmodified":1466210705,
     "wof:name":"Sim-x Ag",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.576106,47.549557,7.576106,47.549557],
+  "bbox": [
+    7.576106,
+    47.549557,
+    7.576106,
+    47.549557
+],
   "geometry": {"coordinates":[7.576106,47.549557],"type":"Point"}
 }

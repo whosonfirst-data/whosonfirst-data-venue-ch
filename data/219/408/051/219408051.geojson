@@ -2,13 +2,14 @@
   "id": 219408051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52583,47.46114,8.52583,47.46114",
     "geom:latitude":47.46114,
     "geom:longitude":8.52583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedmattstrasse 5",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219408051,
-    "wof:lastmodified":1449070829,
+    "wof:lastmodified":1466210255,
     "wof:name":"Rolf Stocker Carrosserie",
     "wof:parent_id":85862429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52583,47.46114,8.52583,47.46114],
+  "bbox": [
+    8.52583,
+    47.46114,
+    8.52583,
+    47.46114
+],
   "geometry": {"coordinates":[8.52583,47.46114],"type":"Point"}
 }

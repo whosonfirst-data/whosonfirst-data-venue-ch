@@ -2,13 +2,14 @@
   "id": 236497625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.718828,47.188911,8.718828,47.188911",
     "geom:latitude":47.188911,
     "geom:longitude":8.718828,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4rberstrasse 24",
     "sg:city":"Wollerau",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236497625,
-    "wof:lastmodified":1449005195,
+    "wof:lastmodified":1466212517,
     "wof:name":"Clinico Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [8.718828,47.188911,8.718828,47.188911],
+  "bbox": [
+    8.718828,
+    47.188911,
+    8.718828,
+    47.188911
+],
   "geometry": {"coordinates":[8.718828,47.188911],"type":"Point"}
 }

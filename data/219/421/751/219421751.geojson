@@ -2,13 +2,14 @@
   "id": 219421751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59414,47.520447,8.59414,47.520447",
     "geom:latitude":47.520447,
     "geom:longitude":8.59414,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptgeb\u00e4ude 7 8423 Embrach-embraport. Postfach",
     "sg:city":"Embrach-embraport",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219421751,
-    "wof:lastmodified":1449072621,
+    "wof:lastmodified":1466210378,
     "wof:name":"Lamprecht Transport Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59414,47.520447,8.59414,47.520447],
+  "bbox": [
+    8.59414,
+    47.520447,
+    8.59414,
+    47.520447
+],
   "geometry": {"coordinates":[8.59414,47.520447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202993561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146672,46.24332,6.146672,46.24332",
     "geom:latitude":46.24332,
     "geom:longitude":6.146672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Chambesy 19 1292 Chamb\u00e9sy Case Postale 49",
     "sg:city":"Chamb\u00e9sy",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202993561,
-    "wof:lastmodified":1449061249,
+    "wof:lastmodified":1466212446,
     "wof:name":"Gilbert Rousset Bureau D'architecture",
     "wof:parent_id":85897669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146672,46.24332,6.146672,46.24332],
+  "bbox": [
+    6.146672,
+    46.24332,
+    6.146672,
+    46.24332
+],
   "geometry": {"coordinates":[6.146672,46.24332],"type":"Point"}
 }

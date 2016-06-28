@@ -2,13 +2,14 @@
   "id": 253195025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.50591,47.048679,7.50591,47.048679",
     "geom:latitude":47.048679,
     "geom:longitude":7.50591,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Staatsstrasse 21",
     "sg:city":"Niederb\u00fcren",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253195025,
-    "wof:lastmodified":1449064787,
+    "wof:lastmodified":1466210974,
     "wof:name":"Holzer-kl\u00f6tzli B.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.50591,47.048679,7.50591,47.048679],
+  "bbox": [
+    7.50591,
+    47.048679,
+    7.50591,
+    47.048679
+],
   "geometry": {"coordinates":[7.50591,47.048679],"type":"Point"}
 }

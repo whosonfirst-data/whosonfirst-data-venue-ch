@@ -2,13 +2,14 @@
   "id": 203188403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633524,46.534473,6.633524,46.534473",
     "geom:latitude":46.534473,
     "geom:longitude":6.633524,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Aloys-fauquez 56",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203188403,
-    "wof:lastmodified":1449025872,
+    "wof:lastmodified":1466209340,
     "wof:name":"Dr M\u00e9d. Jacques Stal\u00e9 M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85799753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.633524,46.534473,6.633524,46.534473],
+  "bbox": [
+    6.633524,
+    46.534473,
+    6.633524,
+    46.534473
+],
   "geometry": {"coordinates":[6.633524,46.534473],"type":"Point"}
 }

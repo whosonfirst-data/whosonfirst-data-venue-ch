@@ -2,13 +2,14 @@
   "id": 203248851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.7781,47.199581,8.7781,47.199581",
     "geom:latitude":47.199581,
     "geom:longitude":8.7781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pilatusstrasse 15",
     "sg:city":"Kriens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203248851,
-    "wof:lastmodified":1449025985,
+    "wof:lastmodified":1466210007,
     "wof:name":"Dr.med. Hans-ch. Von Mitzlaff Spezialarzt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.7781,47.199581,8.7781,47.199581],
+  "bbox": [
+    8.7781,
+    47.199581,
+    8.7781,
+    47.199581
+],
   "geometry": {"coordinates":[8.7781,47.199581],"type":"Point"}
 }

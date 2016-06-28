@@ -2,13 +2,14 @@
   "id": 186322341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522251,47.304184,8.522251,47.304184",
     "geom:latitude":47.304184,
     "geom:longitude":8.522251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Albisstrasse 68 8134 Adliswil. Postfach",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186322341,
-    "wof:lastmodified":1449050226,
+    "wof:lastmodified":1466209993,
     "wof:name":"Entr\u00e9e Generalunternehmung Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522251,47.304184,8.522251,47.304184],
+  "bbox": [
+    8.522251,
+    47.304184,
+    8.522251,
+    47.304184
+],
   "geometry": {"coordinates":[8.522251,47.304184],"type":"Point"}
 }

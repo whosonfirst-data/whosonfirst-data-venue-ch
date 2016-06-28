@@ -2,13 +2,14 @@
   "id": 202596411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.335724,47.009205,8.335724,47.009205",
     "geom:latitude":47.009205,
     "geom:longitude":8.335724,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornimatte 5 6047 Kastanienbaum. Postfach",
     "sg:city":"Kastanienbaum",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202596411,
-    "wof:lastmodified":1449061415,
+    "wof:lastmodified":1466209632,
     "wof:name":"Koch Kurt",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.335724,47.009205,8.335724,47.009205],
+  "bbox": [
+    8.335724,
+    47.009205,
+    8.335724,
+    47.009205
+],
   "geometry": {"coordinates":[8.335724,47.009205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236283865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.622989,46.750835,7.622989,46.750835",
     "geom:latitude":46.750835,
     "geom:longitude":7.622989,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brahmsweg 9",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236283865,
-    "wof:lastmodified":1449002457,
+    "wof:lastmodified":1466211742,
     "wof:name":"Alfred Oesch Taxi",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.622989,46.750835,7.622989,46.750835],
+  "bbox": [
+    7.622989,
+    46.750835,
+    7.622989,
+    46.750835
+],
   "geometry": {"coordinates":[7.622989,46.750835],"type":"Point"}
 }

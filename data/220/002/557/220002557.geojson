@@ -2,13 +2,14 @@
   "id": 220002557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.95483,47.025921,6.95483,47.025921",
     "geom:latitude":47.025921,
     "geom:longitude":6.95483,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Chaumont 81",
     "sg:city":"Chaumont",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220002557,
-    "wof:lastmodified":1449074706,
+    "wof:lastmodified":1466208900,
     "wof:name":"Bernard Scherly Menuiserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.95483,47.025921,6.95483,47.025921],
+  "bbox": [
+    6.95483,
+    47.025921,
+    6.95483,
+    47.025921
+],
   "geometry": {"coordinates":[6.95483,47.025921],"type":"Point"}
 }

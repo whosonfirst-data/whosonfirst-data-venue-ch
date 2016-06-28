@@ -2,13 +2,14 @@
   "id": 203347631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448657,46.948109,7.448657,46.948109",
     "geom:latitude":46.948109,
     "geom:longitude":7.448657,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kramgasse 76",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203347631,
-    "wof:lastmodified":1449025831,
+    "wof:lastmodified":1466211008,
     "wof:name":"Dr.med.jan Cibula Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448657,46.948109,7.448657,46.948109],
+  "bbox": [
+    7.448657,
+    46.948109,
+    7.448657,
+    46.948109
+],
   "geometry": {"coordinates":[7.448657,46.948109],"type":"Point"}
 }

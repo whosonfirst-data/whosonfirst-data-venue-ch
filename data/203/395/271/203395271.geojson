@@ -2,13 +2,14 @@
   "id": 203395271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.697924,47.518883,7.697924,47.518883",
     "geom:latitude":47.518883,
     "geom:longitude":7.697924,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberemattstrasse 33",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203395271,
-    "wof:lastmodified":1449026572,
+    "wof:lastmodified":1466211483,
     "wof:name":"Dr.med.remo Bittel Spezialarzt Fmh",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.697924,47.518883,7.697924,47.518883],
+  "bbox": [
+    7.697924,
+    47.518883,
+    7.697924,
+    47.518883
+],
   "geometry": {"coordinates":[7.697924,47.518883],"type":"Point"}
 }

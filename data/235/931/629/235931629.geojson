@@ -2,13 +2,14 @@
   "id": 235931629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.127395,47.56398,8.127395,47.56398",
     "geom:latitude":47.56398,
     "geom:longitude":8.127395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 44",
     "sg:city":"Mettau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235931629,
-    "wof:lastmodified":1449008588,
+    "wof:lastmodified":1466208906,
     "wof:name":"Sg Schreinerei Gr\u00fctter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.127395,47.56398,8.127395,47.56398],
+  "bbox": [
+    8.127395,
+    47.56398,
+    8.127395,
+    47.56398
+],
   "geometry": {"coordinates":[8.127395,47.56398],"type":"Point"}
 }

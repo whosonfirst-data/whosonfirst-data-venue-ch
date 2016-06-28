@@ -2,13 +2,14 @@
   "id": 236560251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.633256,47.6968,8.633256,47.6968",
     "geom:latitude":47.6968,
     "geom:longitude":8.633256,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fronwagplatz 11",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236560251,
-    "wof:lastmodified":1449004303,
+    "wof:lastmodified":1466212612,
     "wof:name":"Zuckerb\u00e4ckerei Ermatinger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bread"
     ]
 },
-  "bbox": [8.633256,47.6968,8.633256,47.6968],
+  "bbox": [
+    8.633256,
+    47.6968,
+    8.633256,
+    47.6968
+],
   "geometry": {"coordinates":[8.633256,47.6968],"type":"Point"}
 }

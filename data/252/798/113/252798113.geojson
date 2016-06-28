@@ -2,13 +2,14 @@
   "id": 252798113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.843725,46.682606,7.843725,46.682606",
     "geom:latitude":46.682606,
     "geom:longitude":7.843725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weissenaustrasse 6",
     "sg:city":"Unterseen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252798113,
-    "wof:lastmodified":1449005621,
+    "wof:lastmodified":1466209889,
     "wof:name":"Markus Jorns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.843725,46.682606,7.843725,46.682606],
+  "bbox": [
+    7.843725,
+    46.682606,
+    7.843725,
+    46.682606
+],
   "geometry": {"coordinates":[7.843725,46.682606],"type":"Point"}
 }

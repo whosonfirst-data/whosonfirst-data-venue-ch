@@ -2,13 +2,14 @@
   "id": 253233213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.615507,46.732399,7.615507,46.732399",
     "geom:latitude":46.732399,
     "geom:longitude":7.615507,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Von May-strasse 39",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253233213,
-    "wof:lastmodified":1449065847,
+    "wof:lastmodified":1466211323,
     "wof:name":"Peter & Edith Linder B\u00e4ckerei & Konditorei",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.615507,46.732399,7.615507,46.732399],
+  "bbox": [
+    7.615507,
+    46.732399,
+    7.615507,
+    46.732399
+],
   "geometry": {"coordinates":[7.615507,46.732399],"type":"Point"}
 }

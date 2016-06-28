@@ -2,13 +2,14 @@
   "id": 203132077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.981973,45.865555,8.981973,45.865555",
     "geom:latitude":45.865555,
     "geom:longitude":8.981973,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giacomo Rizzi 1",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203132077,
-    "wof:lastmodified":1449025838,
+    "wof:lastmodified":1466211706,
     "wof:name":"Dott.med. Gianfranco Bolognini Specialista Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.981973,45.865555,8.981973,45.865555],
+  "bbox": [
+    8.981973,
+    45.865555,
+    8.981973,
+    45.865555
+],
   "geometry": {"coordinates":[8.981973,45.865555],"type":"Point"}
 }

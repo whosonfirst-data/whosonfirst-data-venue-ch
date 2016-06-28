@@ -2,13 +2,14 @@
   "id": 236112629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.666064,46.692696,7.666064,46.692696",
     "geom:latitude":46.692696,
     "geom:longitude":7.666064,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 86",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236112629,
-    "wof:lastmodified":1449003117,
+    "wof:lastmodified":1466209904,
     "wof:name":"Peter Weibel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.666064,46.692696,7.666064,46.692696],
+  "bbox": [
+    7.666064,
+    46.692696,
+    7.666064,
+    46.692696
+],
   "geometry": {"coordinates":[7.666064,46.692696],"type":"Point"}
 }

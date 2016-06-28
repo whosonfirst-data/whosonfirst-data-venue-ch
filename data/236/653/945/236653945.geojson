@@ -2,13 +2,14 @@
   "id": 236653945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.518913,47.512386,8.518913,47.512386",
     "geom:latitude":47.512386,
     "geom:longitude":8.518913,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstrasse 21",
     "sg:city":"H\u00f6ri",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236653945,
-    "wof:lastmodified":1449001854,
+    "wof:lastmodified":1466212753,
     "wof:name":"Burgmann (schweiz) Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "seal"
     ]
 },
-  "bbox": [8.518913,47.512386,8.518913,47.512386],
+  "bbox": [
+    8.518913,
+    47.512386,
+    8.518913,
+    47.512386
+],
   "geometry": {"coordinates":[8.518913,47.512386],"type":"Point"}
 }

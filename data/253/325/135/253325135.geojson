@@ -2,13 +2,14 @@
   "id": 253325135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.482,47.412079,8.482,47.412079",
     "geom:latitude":47.412079,
     "geom:longitude":8.482,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Giblenstrasse 50",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253325135,
-    "wof:lastmodified":1449063981,
+    "wof:lastmodified":1466211984,
     "wof:name":"Kiosk Peter Greuter",
     "wof:parent_id":85800481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.482,47.412079,8.482,47.412079],
+  "bbox": [
+    8.482,
+    47.412079,
+    8.482,
+    47.412079
+],
   "geometry": {"coordinates":[8.482,47.412079],"type":"Point"}
 }

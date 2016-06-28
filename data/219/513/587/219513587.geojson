@@ -2,13 +2,14 @@
   "id": 219513587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.033413,47.384998,7.033413,47.384998",
     "geom:latitude":47.384998,
     "geom:longitude":7.033413,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Brussattes 2",
     "sg:city":"Bressaucourt",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219513587,
-    "wof:lastmodified":1449072722,
+    "wof:lastmodified":1466211239,
     "wof:name":"Banque Raiffeisen, De Bressaucourt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.033413,47.384998,7.033413,47.384998],
+  "bbox": [
+    7.033413,
+    47.384998,
+    7.033413,
+    47.384998
+],
   "geometry": {"coordinates":[7.033413,47.384998],"type":"Point"}
 }

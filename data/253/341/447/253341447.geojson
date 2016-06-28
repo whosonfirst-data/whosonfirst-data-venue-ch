@@ -2,13 +2,14 @@
   "id": 253341447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.14327,46.195312,6.14327,46.195312",
     "geom:latitude":46.195312,
     "geom:longitude":6.14327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Carouge Rue De 34 1205 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253341447,
-    "wof:lastmodified":1449065673,
+    "wof:lastmodified":1466212040,
     "wof:name":"Soci\u00e9t\u00e9 Coop\u00e9rative Du Grep",
     "wof:parent_id":85800091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.14327,46.195312,6.14327,46.195312],
+  "bbox": [
+    6.14327,
+    46.195312,
+    6.14327,
+    46.195312
+],
   "geometry": {"coordinates":[6.14327,46.195312],"type":"Point"}
 }

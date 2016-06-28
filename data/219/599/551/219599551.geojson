@@ -2,13 +2,14 @@
   "id": 219599551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.499161,47.212715,7.499161,47.212715",
     "geom:latitude":47.212715,
     "geom:longitude":7.499161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 11",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219599551,
-    "wof:lastmodified":1449072032,
+    "wof:lastmodified":1466211913,
     "wof:name":"Raiffeisenbank Bellach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.499161,47.212715,7.499161,47.212715],
+  "bbox": [
+    7.499161,
+    47.212715,
+    7.499161,
+    47.212715
+],
   "geometry": {"coordinates":[7.499161,47.212715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203121087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.17216,47.370972,8.17216,47.370972",
     "geom:latitude":47.370972,
     "geom:longitude":8.17216,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seonerstrasse 75",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203121087,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466211304,
     "wof:name":"Sauerstoffwerk Lenzburg Ag - Sl Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "liquid"
     ]
 },
-  "bbox": [8.17216,47.370972,8.17216,47.370972],
+  "bbox": [
+    8.17216,
+    47.370972,
+    8.17216,
+    47.370972
+],
   "geometry": {"coordinates":[8.17216,47.370972],"type":"Point"}
 }

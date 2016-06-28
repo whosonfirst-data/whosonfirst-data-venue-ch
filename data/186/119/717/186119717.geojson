@@ -2,13 +2,14 @@
   "id": 186119717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.60051,46.705429,8.60051,46.705429",
     "geom:latitude":46.705429,
     "geom:longitude":8.60051,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Melserstrasse 1",
     "sg:city":"Wangs",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186119717,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466211073,
     "wof:name":"Kalbermatter Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.60051,46.705429,8.60051,46.705429],
+  "bbox": [
+    8.60051,
+    46.705429,
+    8.60051,
+    46.705429
+],
   "geometry": {"coordinates":[8.60051,46.705429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236426059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.074903,46.995239,9.074903,46.995239",
     "geom:latitude":46.995239,
     "geom:longitude":9.074903,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00e4mistrasse 101 8092 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236426059,
-    "wof:lastmodified":1449002205,
+    "wof:lastmodified":1466212439,
     "wof:name":"Evang.-ref. Pfarramt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [9.074903,46.995239,9.074903,46.995239],
+  "bbox": [
+    9.074903,
+    46.995239,
+    9.074903,
+    46.995239
+],
   "geometry": {"coordinates":[9.074903,46.995239],"type":"Point"}
 }

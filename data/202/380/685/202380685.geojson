@@ -2,13 +2,14 @@
   "id": 202380685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594949,47.528645,7.594949,47.528645",
     "geom:latitude":47.528645,
     "geom:longitude":7.594949,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reservoirstrasse 174",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202380685,
-    "wof:lastmodified":1449061301,
+    "wof:lastmodified":1466209230,
     "wof:name":"Arl Ag",
     "wof:parent_id":85800335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.594949,47.528645,7.594949,47.528645],
+  "bbox": [
+    7.594949,
+    47.528645,
+    7.594949,
+    47.528645
+],
   "geometry": {"coordinates":[7.594949,47.528645],"type":"Point"}
 }

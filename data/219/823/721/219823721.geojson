@@ -2,13 +2,14 @@
   "id": 219823721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.001574,47.153587,7.001574,47.153587",
     "geom:latitude":47.153587,
     "geom:longitude":7.001574,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Dr-schwab 9",
     "sg:city":"St-imier",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219823721,
-    "wof:lastmodified":1449073882,
+    "wof:lastmodified":1466212566,
     "wof:name":"Rio Bar Dos Santos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.001574,47.153587,7.001574,47.153587],
+  "bbox": [
+    7.001574,
+    47.153587,
+    7.001574,
+    47.153587
+],
   "geometry": {"coordinates":[7.001574,47.153587],"type":"Point"}
 }

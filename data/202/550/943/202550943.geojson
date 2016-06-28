@@ -2,13 +2,14 @@
   "id": 202550943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.219448,47.428192,8.219448,47.428192",
     "geom:latitude":47.428192,
     "geom:longitude":8.219448,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 15",
     "sg:city":"Birr-lupfig",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202550943,
-    "wof:lastmodified":1449061483,
+    "wof:lastmodified":1466209202,
     "wof:name":"Ibk Bacher Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.219448,47.428192,8.219448,47.428192],
+  "bbox": [
+    8.219448,
+    47.428192,
+    8.219448,
+    47.428192
+],
   "geometry": {"coordinates":[8.219448,47.428192],"type":"Point"}
 }

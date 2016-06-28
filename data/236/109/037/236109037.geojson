@@ -2,13 +2,14 @@
   "id": 236109037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.987077,45.84267,8.987077,45.84267",
     "geom:latitude":45.84267,
     "geom:longitude":8.987077,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torraccia La Pobbia",
     "sg:city":"Novazzano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236109037,
-    "wof:lastmodified":1449002660,
+    "wof:lastmodified":1466209873,
     "wof:name":"Lattoneria Edile Sud Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.987077,45.84267,8.987077,45.84267],
+  "bbox": [
+    8.987077,
+    45.84267,
+    8.987077,
+    45.84267
+],
   "geometry": {"coordinates":[8.987077,45.84267],"type":"Point"}
 }

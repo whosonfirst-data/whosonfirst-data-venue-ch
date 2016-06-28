@@ -2,13 +2,14 @@
   "id": 253277035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.27681,46.780815,7.27681,46.780815",
     "geom:latitude":46.780815,
     "geom:longitude":7.27681,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 10",
     "sg:city":"Dotzigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253277035,
-    "wof:lastmodified":1449063152,
+    "wof:lastmodified":1466211892,
     "wof:name":"Bruno Waeber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.27681,46.780815,7.27681,46.780815],
+  "bbox": [
+    7.27681,
+    46.780815,
+    7.27681,
+    46.780815
+],
   "geometry": {"coordinates":[7.27681,46.780815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202639753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.530932,47.369621,8.530932,47.369621",
     "geom:latitude":47.369621,
     "geom:longitude":8.530932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzgasse 6 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202639753,
-    "wof:lastmodified":1449062630,
+    "wof:lastmodified":1466210030,
     "wof:name":"M\u00fcller Andreas, Dipl. Architekt Eth, Architekturb\u00fcro Sia Architektur, S\u00e4dtebau, Design, Raumplanung, Usw",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.530932,47.369621,8.530932,47.369621],
+  "bbox": [
+    8.530932,
+    47.369621,
+    8.530932,
+    47.369621
+],
   "geometry": {"coordinates":[8.530932,47.369621],"type":"Point"}
 }

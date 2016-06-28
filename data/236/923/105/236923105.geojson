@@ -2,13 +2,14 @@
   "id": 236923105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.728446,47.499741,8.728446,47.499741",
     "geom:latitude":47.499741,
     "geom:longitude":8.728446,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktgasse 52 8400 Winterthur. Postfach 956",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236923105,
-    "wof:lastmodified":1449005113,
+    "wof:lastmodified":1466212993,
     "wof:name":"Gradag Art & Design Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.728446,47.499741,8.728446,47.499741],
+  "bbox": [
+    8.728446,
+    47.499741,
+    8.728446,
+    47.499741
+],
   "geometry": {"coordinates":[8.728446,47.499741],"type":"Point"}
 }

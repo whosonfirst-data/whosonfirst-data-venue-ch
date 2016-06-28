@@ -2,13 +2,14 @@
   "id": 219314269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.522794,47.126499,9.522794,47.126499",
     "geom:latitude":47.126499,
     "geom:longitude":9.522794,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neugutweg 1",
     "sg:city":"Vaduz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219314269,
-    "wof:lastmodified":1449073763,
+    "wof:lastmodified":1466209385,
     "wof:name":"Sportgarage Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.522794,47.126499,9.522794,47.126499],
+  "bbox": [
+    9.522794,
+    47.126499,
+    9.522794,
+    47.126499
+],
   "geometry": {"coordinates":[9.522794,47.126499],"type":"Point"}
 }

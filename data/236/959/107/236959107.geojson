@@ -2,13 +2,14 @@
   "id": 236959107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.688086,47.487808,8.688086,47.487808",
     "geom:latitude":47.487808,
     "geom:longitude":8.688086,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4ttnauerstrasse 91a",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236959107,
-    "wof:lastmodified":1449004849,
+    "wof:lastmodified":1466213044,
     "wof:name":"Rvi Informatik Gmbh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.688086,47.487808,8.688086,47.487808],
+  "bbox": [
+    8.688086,
+    47.487808,
+    8.688086,
+    47.487808
+],
   "geometry": {"coordinates":[8.688086,47.487808],"type":"Point"}
 }

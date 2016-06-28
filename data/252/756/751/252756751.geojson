@@ -2,13 +2,14 @@
   "id": 252756751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533912,47.363552,8.533912,47.363552",
     "geom:latitude":47.363552,
     "geom:longitude":8.533912,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General Wille-strasse 8 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252756751,
-    "wof:lastmodified":1449006076,
+    "wof:lastmodified":1466209387,
     "wof:name":"Antique Corner, Ardessi Loredana Antiquit\u00e4tenhandel Usw.",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533912,47.363552,8.533912,47.363552],
+  "bbox": [
+    8.533912,
+    47.363552,
+    8.533912,
+    47.363552
+],
   "geometry": {"coordinates":[8.533912,47.363552],"type":"Point"}
 }

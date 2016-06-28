@@ -2,13 +2,14 @@
   "id": 236850257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.73573,47.128136,8.73573,47.128136",
     "geom:latitude":47.128136,
     "geom:longitude":8.73573,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rietstrasse 19 8840 Einsiedeln. Postfach 335",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236850257,
-    "wof:lastmodified":1449003579,
+    "wof:lastmodified":1466212933,
     "wof:name":"Fritz Naef Holzbau & Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.73573,47.128136,8.73573,47.128136],
+  "bbox": [
+    8.73573,
+    47.128136,
+    8.73573,
+    47.128136
+],
   "geometry": {"coordinates":[8.73573,47.128136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236449597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.791567,46.168545,8.791567,46.168545",
     "geom:latitude":46.168545,
     "geom:longitude":8.791567,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via All'ospedale 1 6600 Locarno. Postfach",
     "sg:city":"Locarno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236449597,
-    "wof:lastmodified":1449004964,
+    "wof:lastmodified":1466212331,
     "wof:name":"Ospedale Regionale Di Locarno La Carit\u00e0",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.791567,46.168545,8.791567,46.168545],
+  "bbox": [
+    8.791567,
+    46.168545,
+    8.791567,
+    46.168545
+],
   "geometry": {"coordinates":[8.791567,46.168545],"type":"Point"}
 }

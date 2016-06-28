@@ -2,13 +2,14 @@
   "id": 220162417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.299847,47.336132,8.299847,47.336132",
     "geom:latitude":47.336132,
     "geom:longitude":8.299847,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenweg 8",
     "sg:city":"Waltenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220162417,
-    "wof:lastmodified":1449074751,
+    "wof:lastmodified":1466210265,
     "wof:name":"Fiwa Schreinerei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.299847,47.336132,8.299847,47.336132],
+  "bbox": [
+    8.299847,
+    47.336132,
+    8.299847,
+    47.336132
+],
   "geometry": {"coordinates":[8.299847,47.336132],"type":"Point"}
 }

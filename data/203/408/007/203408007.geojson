@@ -2,13 +2,14 @@
   "id": 203408007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.557059,47.304459,8.557059,47.304459",
     "geom:latitude":47.304459,
     "geom:longitude":8.557059,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 78",
     "sg:city":"R\u00fcschlikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203408007,
-    "wof:lastmodified":1449025184,
+    "wof:lastmodified":1466211617,
     "wof:name":"Dr.med.ruedi Zollinger Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.557059,47.304459,8.557059,47.304459],
+  "bbox": [
+    8.557059,
+    47.304459,
+    8.557059,
+    47.304459
+],
   "geometry": {"coordinates":[8.557059,47.304459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202396819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.243459,47.136536,7.243459,47.136536",
     "geom:latitude":47.136536,
     "geom:longitude":7.243459,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl\u00e4nkestrasse 12 2502 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202396819,
-    "wof:lastmodified":1449061747,
+    "wof:lastmodified":1466209687,
     "wof:name":"Bart & Buchhofer Architekten Ag Architekturb\u00fcro Mit Planung, Ausf\u00fchrung, Forschung Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.243459,47.136536,7.243459,47.136536],
+  "bbox": [
+    7.243459,
+    47.136536,
+    7.243459,
+    47.136536
+],
   "geometry": {"coordinates":[7.243459,47.136536],"type":"Point"}
 }

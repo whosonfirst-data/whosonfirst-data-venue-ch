@@ -2,13 +2,14 @@
   "id": 236200495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.293727,47.053627,8.293727,47.053627",
     "geom:latitude":47.053627,
     "geom:longitude":8.293727,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 62 6003 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236200495,
-    "wof:lastmodified":1449002884,
+    "wof:lastmodified":1466210815,
     "wof:name":"Hansruedi M\u00fchlemann Bestattungsinstitut",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.293727,47.053627,8.293727,47.053627],
+  "bbox": [
+    8.293727,
+    47.053627,
+    8.293727,
+    47.053627
+],
   "geometry": {"coordinates":[8.293727,47.053627],"type":"Point"}
 }

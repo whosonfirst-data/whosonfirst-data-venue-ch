@@ -2,13 +2,14 @@
   "id": 202884839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.56297,47.514301,7.56297,47.514301",
     "geom:latitude":47.514301,
     "geom:longitude":7.56297,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Glockenacker 67",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202884839,
-    "wof:lastmodified":1449062178,
+    "wof:lastmodified":1466212074,
     "wof:name":"M\u00fcller + M\u00fcller Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.56297,47.514301,7.56297,47.514301],
+  "bbox": [
+    7.56297,
+    47.514301,
+    7.56297,
+    47.514301
+],
   "geometry": {"coordinates":[7.56297,47.514301],"type":"Point"}
 }

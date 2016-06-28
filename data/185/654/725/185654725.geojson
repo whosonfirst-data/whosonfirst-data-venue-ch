@@ -2,13 +2,14 @@
   "id": 185654725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.074471,47.44516,9.074471,47.44516",
     "geom:latitude":47.44516,
     "geom:longitude":9.074471,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 15",
     "sg:city":"Schwarzenbach",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185654725,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1466210370,
     "wof:name":"Pds Peter Handels Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "articles"
     ]
 },
-  "bbox": [9.074471,47.44516,9.074471,47.44516],
+  "bbox": [
+    9.074471,
+    47.44516,
+    9.074471,
+    47.44516
+],
   "geometry": {"coordinates":[9.074471,47.44516],"type":"Point"}
 }

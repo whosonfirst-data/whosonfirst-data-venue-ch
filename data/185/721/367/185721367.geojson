@@ -2,13 +2,14 @@
   "id": 185721367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.439167,46.946953,7.439167,46.946953",
     "geom:latitude":46.946953,
     "geom:longitude":7.439167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwanengasse 5/7 3011 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185721367,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1466211279,
     "wof:name":"Kurt St\u00f6ckli Advokaturb\u00fcro",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.439167,46.946953,7.439167,46.946953],
+  "bbox": [
+    7.439167,
+    46.946953,
+    7.439167,
+    46.946953
+],
   "geometry": {"coordinates":[7.439167,46.946953],"type":"Point"}
 }

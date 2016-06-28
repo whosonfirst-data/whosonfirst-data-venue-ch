@@ -2,13 +2,14 @@
   "id": 202406749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.627452,47.69479,8.627452,47.69479",
     "geom:latitude":47.69479,
     "geom:longitude":8.627452,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00e4senstaubstrasse 15",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202406749,
-    "wof:lastmodified":1449061472,
+    "wof:lastmodified":1466209833,
     "wof:name":"Beratungsb\u00fcro Waeber Tatiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.627452,47.69479,8.627452,47.69479],
+  "bbox": [
+    8.627452,
+    47.69479,
+    8.627452,
+    47.69479
+],
   "geometry": {"coordinates":[8.627452,47.69479],"type":"Point"}
 }

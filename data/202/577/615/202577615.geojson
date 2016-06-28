@@ -2,13 +2,14 @@
   "id": 202577615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.384097,46.929874,7.384097,46.929874",
     "geom:latitude":46.929874,
     "geom:longitude":7.384097,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 480 3000 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202577615,
-    "wof:lastmodified":1449062748,
+    "wof:lastmodified":1466209451,
     "wof:name":"Interbaugroup Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.384097,46.929874,7.384097,46.929874],
+  "bbox": [
+    7.384097,
+    46.929874,
+    7.384097,
+    46.929874
+],
   "geometry": {"coordinates":[7.384097,46.929874],"type":"Point"}
 }

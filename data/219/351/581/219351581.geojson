@@ -2,13 +2,14 @@
   "id": 219351581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.86264,47.468513,7.86264,47.468513",
     "geom:latitude":47.468513,
     "geom:longitude":7.86264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ergolzstrasse 36",
     "sg:city":"Gelterkinden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219351581,
-    "wof:lastmodified":1449073379,
+    "wof:lastmodified":1466209706,
     "wof:name":"Autospritzwerk Bieri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.86264,47.468513,7.86264,47.468513],
+  "bbox": [
+    7.86264,
+    47.468513,
+    7.86264,
+    47.468513
+],
   "geometry": {"coordinates":[7.86264,47.468513],"type":"Point"}
 }

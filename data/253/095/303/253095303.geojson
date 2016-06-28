@@ -2,13 +2,14 @@
   "id": 253095303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.493156,46.975868,7.493156,46.975868",
     "geom:latitude":46.975868,
     "geom:longitude":7.493156,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchstrasse 18",
     "sg:city":"Bolligen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253095303,
-    "wof:lastmodified":1449064322,
+    "wof:lastmodified":1466209880,
     "wof:name":"Richard Geiser Augenoptik",
     "wof:parent_id":85800083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.493156,46.975868,7.493156,46.975868],
+  "bbox": [
+    7.493156,
+    46.975868,
+    7.493156,
+    46.975868
+],
   "geometry": {"coordinates":[7.493156,46.975868],"type":"Point"}
 }

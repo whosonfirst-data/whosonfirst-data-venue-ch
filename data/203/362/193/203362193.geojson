@@ -2,13 +2,14 @@
   "id": 203362193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.463898,46.949158,7.463898,46.949158",
     "geom:latitude":46.949158,
     "geom:longitude":7.463898,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haspelgasse 24",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203362193,
-    "wof:lastmodified":1449026196,
+    "wof:lastmodified":1466211151,
     "wof:name":"Dr.med.klaus B\u00fchlmann Spezialarzt Fmh",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.463898,46.949158,7.463898,46.949158],
+  "bbox": [
+    7.463898,
+    46.949158,
+    7.463898,
+    46.949158
+],
   "geometry": {"coordinates":[7.463898,46.949158],"type":"Point"}
 }

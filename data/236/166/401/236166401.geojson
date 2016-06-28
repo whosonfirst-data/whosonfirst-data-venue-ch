@@ -2,13 +2,14 @@
   "id": 236166401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.373128,47.422569,9.373128,47.422569",
     "geom:latitude":47.422569,
     "geom:longitude":9.373128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schreinerstrasse 1",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236166401,
-    "wof:lastmodified":1449003510,
+    "wof:lastmodified":1466210437,
     "wof:name":"Ausbildungszentrum Credit Suisse",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.373128,47.422569,9.373128,47.422569],
+  "bbox": [
+    9.373128,
+    47.422569,
+    9.373128,
+    47.422569
+],
   "geometry": {"coordinates":[9.373128,47.422569],"type":"Point"}
 }

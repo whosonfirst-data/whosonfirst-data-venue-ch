@@ -2,13 +2,14 @@
   "id": 252879709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.141179,46.185562,6.141179,46.185562",
     "geom:latitude":46.185562,
     "geom:longitude":6.141179,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Arboner Strasse 3",
     "sg:city":"Kronb\u00fchl",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252879709,
-    "wof:lastmodified":1449005418,
+    "wof:lastmodified":1466210767,
     "wof:name":"Zabo Chapeaux",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.141179,46.185562,6.141179,46.185562],
+  "bbox": [
+    6.141179,
+    46.185562,
+    6.141179,
+    46.185562
+],
   "geometry": {"coordinates":[6.141179,46.185562],"type":"Point"}
 }

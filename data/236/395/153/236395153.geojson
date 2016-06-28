@@ -2,13 +2,14 @@
   "id": 236395153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543195,47.284313,8.543195,47.284313",
     "geom:latitude":47.284313,
     "geom:longitude":8.543195,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pestalozzistrasse 20",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236395153,
-    "wof:lastmodified":1449004663,
+    "wof:lastmodified":1466212235,
     "wof:name":"Arbeiterbibliothek Der Spinnerei Langnau Am Albis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "archive"
     ]
 },
-  "bbox": [8.543195,47.284313,8.543195,47.284313],
+  "bbox": [
+    8.543195,
+    47.284313,
+    8.543195,
+    47.284313
+],
   "geometry": {"coordinates":[8.543195,47.284313],"type":"Point"}
 }

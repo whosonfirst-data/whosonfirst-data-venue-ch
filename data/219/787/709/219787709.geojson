@@ -2,13 +2,14 @@
   "id": 219787709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.949368,45.872898,8.949368,45.872898",
     "geom:latitude":45.872898,
     "geom:longitude":8.949368,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cantonale",
     "sg:city":"Besazio",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219787709,
-    "wof:lastmodified":1449071992,
+    "wof:lastmodified":1466212430,
     "wof:name":"Bar Stella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.949368,45.872898,8.949368,45.872898],
+  "bbox": [
+    8.949368,
+    45.872898,
+    8.949368,
+    45.872898
+],
   "geometry": {"coordinates":[8.949368,45.872898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253121795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.40499,46.821453,8.40499,46.821453",
     "geom:latitude":46.821453,
     "geom:longitude":8.40499,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 26",
     "sg:city":"Engelberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253121795,
-    "wof:lastmodified":1449065106,
+    "wof:lastmodified":1466210157,
     "wof:name":"Philipp Guntensperger Uhren-& Brillencenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.40499,46.821453,8.40499,46.821453],
+  "bbox": [
+    8.40499,
+    46.821453,
+    8.40499,
+    46.821453
+],
   "geometry": {"coordinates":[8.40499,46.821453],"type":"Point"}
 }

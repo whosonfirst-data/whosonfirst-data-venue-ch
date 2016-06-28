@@ -2,13 +2,14 @@
   "id": 253163121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.06734,46.766129,7.06734,46.766129",
     "geom:latitude":46.766129,
     "geom:longitude":7.06734,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"San Carlo",
     "sg:city":"Poschiavo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253163121,
-    "wof:lastmodified":1449065742,
+    "wof:lastmodified":1466210670,
     "wof:name":"Crausaz Raoul.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.06734,46.766129,7.06734,46.766129],
+  "bbox": [
+    7.06734,
+    46.766129,
+    7.06734,
+    46.766129
+],
   "geometry": {"coordinates":[7.06734,46.766129],"type":"Point"}
 }

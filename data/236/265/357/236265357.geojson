@@ -2,13 +2,14 @@
   "id": 236265357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.550556,46.900238,7.550556,46.900238",
     "geom:latitude":46.900238,
     "geom:longitude":7.550556,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wydenhofstrasse 12",
     "sg:city":"Rubigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236265357,
-    "wof:lastmodified":1449002637,
+    "wof:lastmodified":1466211510,
     "wof:name":"Ponato Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.550556,46.900238,7.550556,46.900238],
+  "bbox": [
+    7.550556,
+    46.900238,
+    7.550556,
+    46.900238
+],
   "geometry": {"coordinates":[7.550556,46.900238],"type":"Point"}
 }

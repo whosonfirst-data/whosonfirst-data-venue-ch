@@ -2,13 +2,14 @@
   "id": 203405407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.47208,47.22707,7.47208,47.22707",
     "geom:latitude":47.22707,
     "geom:longitude":7.47208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 17",
     "sg:city":"Lommiswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203405407,
-    "wof:lastmodified":1449026700,
+    "wof:lastmodified":1466211593,
     "wof:name":"Dr.med.rudolf Fischer Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.47208,47.22707,7.47208,47.22707],
+  "bbox": [
+    7.47208,
+    47.22707,
+    7.47208,
+    47.22707
+],
   "geometry": {"coordinates":[7.47208,47.22707],"type":"Point"}
 }

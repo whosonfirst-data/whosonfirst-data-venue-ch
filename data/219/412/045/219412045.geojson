@@ -2,13 +2,14 @@
   "id": 219412045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.299568,47.545048,9.299568,47.545048",
     "geom:latitude":47.545048,
     "geom:longitude":9.299568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im D\u00f6rfli Auenhofen",
     "sg:city":"Hefenhofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219412045,
-    "wof:lastmodified":1449071116,
+    "wof:lastmodified":1466210294,
     "wof:name":"Willi Kugler Autospenglerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.299568,47.545048,9.299568,47.545048],
+  "bbox": [
+    9.299568,
+    47.545048,
+    9.299568,
+    47.545048
+],
   "geometry": {"coordinates":[9.299568,47.545048],"type":"Point"}
 }

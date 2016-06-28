@@ -2,13 +2,14 @@
   "id": 252719925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53085,47.383209,8.53085,47.383209",
     "geom:latitude":47.383209,
     "geom:longitude":8.53085,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Josefstrasse 92 8005 Z\u00fcrich. Postfach 3341",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":252719925,
-    "wof:lastmodified":1449005543,
+    "wof:lastmodified":1466209056,
     "wof:name":"Trisag Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53085,47.383209,8.53085,47.383209],
+  "bbox": [
+    8.53085,
+    47.383209,
+    8.53085,
+    47.383209
+],
   "geometry": {"coordinates":[8.53085,47.383209],"type":"Point"}
 }

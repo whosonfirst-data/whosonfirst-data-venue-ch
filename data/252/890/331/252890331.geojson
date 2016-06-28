@@ -2,13 +2,14 @@
   "id": 252890331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.649802,47.701271,8.649802,47.701271",
     "geom:latitude":47.701271,
     "geom:longitude":8.649802,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kesselstrasse 7 8200 Schaffhausen. Postfach",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252890331,
-    "wof:lastmodified":1449005668,
+    "wof:lastmodified":1466210881,
     "wof:name":"Dalpiaz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.649802,47.701271,8.649802,47.701271],
+  "bbox": [
+    8.649802,
+    47.701271,
+    8.649802,
+    47.701271
+],
   "geometry": {"coordinates":[8.649802,47.701271],"type":"Point"}
 }

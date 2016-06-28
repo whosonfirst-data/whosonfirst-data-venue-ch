@@ -2,13 +2,14 @@
   "id": 219901219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.544896,47.513721,7.544896,47.513721",
     "geom:latitude":47.513721,
     "geom:longitude":7.544896,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwertstrasse 2 8200 Schaffhausen. Postfach",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219901219,
-    "wof:lastmodified":1449071867,
+    "wof:lastmodified":1466212634,
     "wof:name":"Wohngen.auf Der Wacht",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.544896,47.513721,7.544896,47.513721],
+  "bbox": [
+    7.544896,
+    47.513721,
+    7.544896,
+    47.513721
+],
   "geometry": {"coordinates":[7.544896,47.513721],"type":"Point"}
 }

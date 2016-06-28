@@ -2,13 +2,14 @@
   "id": 169819331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.185379,46.166126,6.185379,46.166126",
     "geom:latitude":46.166126,
     "geom:longitude":6.185379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Jules-ed-gottret 17",
     "sg:city":"Veyrier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169819331,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466209199,
     "wof:name":"Tratech Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.185379,46.166126,6.185379,46.166126],
+  "bbox": [
+    6.185379,
+    46.166126,
+    6.185379,
+    46.166126
+],
   "geometry": {"coordinates":[6.185379,46.166126],"type":"Point"}
 }

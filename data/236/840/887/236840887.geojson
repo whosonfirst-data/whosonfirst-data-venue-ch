@@ -2,13 +2,14 @@
   "id": 236840887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.089028,46.101006,7.089028,46.101006",
     "geom:latitude":46.101006,
     "geom:longitude":7.089028,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichmatt 45",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236840887,
-    "wof:lastmodified":1449004353,
+    "wof:lastmodified":1466212934,
     "wof:name":"Pradervand Et Cie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.089028,46.101006,7.089028,46.101006],
+  "bbox": [
+    7.089028,
+    46.101006,
+    7.089028,
+    46.101006
+],
   "geometry": {"coordinates":[7.089028,46.101006],"type":"Point"}
 }

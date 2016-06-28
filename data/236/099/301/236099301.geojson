@@ -2,13 +2,14 @@
   "id": 236099301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.158712,46.35004,7.158712,46.35004",
     "geom:latitude":46.35004,
     "geom:longitude":7.158712,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringstrasse 35c 7000 Chur. Postfach 252",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236099301,
-    "wof:lastmodified":1449003870,
+    "wof:lastmodified":1466209788,
     "wof:name":"Dubied Francis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.158712,46.35004,7.158712,46.35004],
+  "bbox": [
+    7.158712,
+    46.35004,
+    7.158712,
+    46.35004
+],
   "geometry": {"coordinates":[7.158712,46.35004],"type":"Point"}
 }

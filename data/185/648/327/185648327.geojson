@@ -2,13 +2,14 @@
   "id": 185648327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.376445,47.392876,8.376445,47.392876",
     "geom:latitude":47.392876,
     "geom:longitude":8.376445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fcrmattstrasse 27a",
     "sg:city":"Kindhausen",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":185648327,
-    "wof:lastmodified":1449007046,
+    "wof:lastmodified":1466210246,
     "wof:name":"Pan Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [8.376445,47.392876,8.376445,47.392876],
+  "bbox": [
+    8.376445,
+    47.392876,
+    8.376445,
+    47.392876
+],
   "geometry": {"coordinates":[8.376445,47.392876],"type":"Point"}
 }

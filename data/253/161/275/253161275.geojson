@@ -2,13 +2,14 @@
   "id": 253161275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588933,47.55497,7.588933,47.55497",
     "geom:latitude":47.55497,
     "geom:longitude":7.588933,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Barf\u00fcsserplatz 20",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253161275,
-    "wof:lastmodified":1449063995,
+    "wof:lastmodified":1466210646,
     "wof:name":"Confiserie Br\u00e4ndli Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.588933,47.55497,7.588933,47.55497],
+  "bbox": [
+    7.588933,
+    47.55497,
+    7.588933,
+    47.55497
+],
   "geometry": {"coordinates":[7.588933,47.55497],"type":"Point"}
 }

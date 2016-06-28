@@ -2,13 +2,14 @@
   "id": 169643857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.28646,47.358376,9.28646,47.358376",
     "geom:latitude":47.358376,
     "geom:longitude":9.28646,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Waldstatt",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169643857,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466209951,
     "wof:name":"Raiffeisenkasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.28646,47.358376,9.28646,47.358376],
+  "bbox": [
+    9.28646,
+    47.358376,
+    9.28646,
+    47.358376
+],
   "geometry": {"coordinates":[9.28646,47.358376],"type":"Point"}
 }

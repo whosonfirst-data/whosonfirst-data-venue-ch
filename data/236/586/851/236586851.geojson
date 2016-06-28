@@ -2,13 +2,14 @@
   "id": 236586851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.461149,46.939903,7.461149,46.939903",
     "geom:latitude":46.939903,
     "geom:longitude":7.461149,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elfenstr. 9",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236586851,
-    "wof:lastmodified":1449004791,
+    "wof:lastmodified":1466212656,
     "wof:name":"Polnische Botschaft Wirtschafts- Und Handelsabteilung",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "advice"
     ]
 },
-  "bbox": [7.461149,46.939903,7.461149,46.939903],
+  "bbox": [
+    7.461149,
+    46.939903,
+    7.461149,
+    46.939903
+],
   "geometry": {"coordinates":[7.461149,46.939903],"type":"Point"}
 }

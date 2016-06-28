@@ -2,13 +2,14 @@
   "id": 236717987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.038955,47.387547,8.038955,47.387547",
     "geom:latitude":47.387547,
     "geom:longitude":8.038955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammweg 5",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236717987,
-    "wof:lastmodified":1449001745,
+    "wof:lastmodified":1466212838,
     "wof:name":"Ideal Textilreinigung",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.038955,47.387547,8.038955,47.387547],
+  "bbox": [
+    8.038955,
+    47.387547,
+    8.038955,
+    47.387547
+],
   "geometry": {"coordinates":[8.038955,47.387547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185871211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.656169,47.593796,7.656169,47.593796",
     "geom:latitude":47.593796,
     "geom:longitude":7.656169,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grienbodenweg 29",
     "sg:city":"Riehen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185871211,
-    "wof:lastmodified":1449007118,
+    "wof:lastmodified":1466209654,
     "wof:name":"Artemo Ag",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.656169,47.593796,7.656169,47.593796],
+  "bbox": [
+    7.656169,
+    47.593796,
+    7.656169,
+    47.593796
+],
   "geometry": {"coordinates":[7.656169,47.593796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236343163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.204745,47.523186,9.204745,47.523186",
     "geom:latitude":47.523186,
     "geom:longitude":9.204745,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberfeldstrasse 9",
     "sg:city":"Kradolf",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236343163,
-    "wof:lastmodified":1449004099,
+    "wof:lastmodified":1466212055,
     "wof:name":"Humbel Zahnr\u00e4der Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gear"
     ]
 },
-  "bbox": [9.204745,47.523186,9.204745,47.523186],
+  "bbox": [
+    9.204745,
+    47.523186,
+    9.204745,
+    47.523186
+],
   "geometry": {"coordinates":[9.204745,47.523186],"type":"Point"}
 }

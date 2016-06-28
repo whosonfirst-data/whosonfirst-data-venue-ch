@@ -2,13 +2,14 @@
   "id": 169671551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.361713,47.066628,7.361713,47.066628",
     "geom:latitude":47.066628,
     "geom:longitude":7.361713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 49 3257 Grossaffoltern. Postfach 55",
     "sg:city":"Grossaffoltern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169671551,
-    "wof:lastmodified":1449033451,
+    "wof:lastmodified":1466210476,
     "wof:name":"Ernst Uhlmann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.361713,47.066628,7.361713,47.066628],
+  "bbox": [
+    7.361713,
+    47.066628,
+    7.361713,
+    47.066628
+],
   "geometry": {"coordinates":[7.361713,47.066628],"type":"Point"}
 }

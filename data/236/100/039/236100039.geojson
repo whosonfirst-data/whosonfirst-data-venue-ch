@@ -2,13 +2,14 @@
   "id": 236100039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.685564,47.404297,8.685564,47.404297",
     "geom:latitude":47.404297,
     "geom:longitude":8.685564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gruebstrasse 598",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236100039,
-    "wof:lastmodified":1449004220,
+    "wof:lastmodified":1466209793,
     "wof:name":"Ernst Otter Bauspenglerei",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.685564,47.404297,8.685564,47.404297],
+  "bbox": [
+    8.685564,
+    47.404297,
+    8.685564,
+    47.404297
+],
   "geometry": {"coordinates":[8.685564,47.404297],"type":"Point"}
 }

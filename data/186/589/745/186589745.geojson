@@ -2,13 +2,14 @@
   "id": 186589745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540224,47.517838,8.540224,47.517838",
     "geom:latitude":47.517838,
     "geom:longitude":8.540224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcsegg 3 8180 B\u00fclach. Postfach 4611",
     "sg:city":"B\u00fclach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186589745,
-    "wof:lastmodified":1449051807,
+    "wof:lastmodified":1466211907,
     "wof:name":"Gewerkschaft Bau & Industrie Sektion Z\u00fcrcher-unterland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540224,47.517838,8.540224,47.517838],
+  "bbox": [
+    8.540224,
+    47.517838,
+    8.540224,
+    47.517838
+],
   "geometry": {"coordinates":[8.540224,47.517838],"type":"Point"}
 }

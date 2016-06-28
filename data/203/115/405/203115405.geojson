@@ -2,13 +2,14 @@
   "id": 203115405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.190321,47.033779,7.190321,47.033779",
     "geom:latitude":47.033779,
     "geom:longitude":7.190321,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzb\u00fcndtenstrasse 19 5727 Oberkulm. Postfach",
     "sg:city":"Oberkulm",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203115405,
-    "wof:lastmodified":1449024928,
+    "wof:lastmodified":1466211249,
     "wof:name":"Meyer Hermann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.190321,47.033779,7.190321,47.033779],
+  "bbox": [
+    7.190321,
+    47.033779,
+    7.190321,
+    47.033779
+],
   "geometry": {"coordinates":[7.190321,47.033779],"type":"Point"}
 }

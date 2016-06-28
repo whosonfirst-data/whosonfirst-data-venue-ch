@@ -2,13 +2,14 @@
   "id": 185824063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.412356,46.926254,7.412356,46.926254",
     "geom:latitude":46.926254,
     "geom:longitude":7.412356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4gemattstrasse 70",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185824063,
-    "wof:lastmodified":1449007156,
+    "wof:lastmodified":1466209278,
     "wof:name":"Exovap Ag",
     "wof:parent_id":85800169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [7.412356,46.926254,7.412356,46.926254],
+  "bbox": [
+    7.412356,
+    46.926254,
+    7.412356,
+    46.926254
+],
   "geometry": {"coordinates":[7.412356,46.926254],"type":"Point"}
 }

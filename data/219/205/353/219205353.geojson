@@ -2,13 +2,14 @@
   "id": 219205353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.524956,47.047047,7.524956,47.047047",
     "geom:latitude":47.047047,
     "geom:longitude":7.524956,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Husacher 15",
     "sg:city":"M\u00fcnchringen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219205353,
-    "wof:lastmodified":1449072524,
+    "wof:lastmodified":1466211019,
     "wof:name":"Hbm Sanit\u00e4rdienstleistungs Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contract"
     ]
 },
-  "bbox": [7.524956,47.047047,7.524956,47.047047],
+  "bbox": [
+    7.524956,
+    47.047047,
+    7.524956,
+    47.047047
+],
   "geometry": {"coordinates":[7.524956,47.047047],"type":"Point"}
 }

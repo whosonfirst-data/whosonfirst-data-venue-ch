@@ -2,13 +2,14 @@
   "id": 253310627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544837,47.374454,8.544837,47.374454",
     "geom:latitude":47.374454,
     "geom:longitude":8.544837,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlegasse 19 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253310627,
-    "wof:lastmodified":1449064636,
+    "wof:lastmodified":1466212021,
     "wof:name":"Buchhandlung Wurzel E., Inhaber Gaal Peter",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544837,47.374454,8.544837,47.374454],
+  "bbox": [
+    8.544837,
+    47.374454,
+    8.544837,
+    47.374454
+],
   "geometry": {"coordinates":[8.544837,47.374454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203049505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539055,47.20023,8.539055,47.20023",
     "geom:latitude":47.20023,
     "geom:longitude":8.539055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttichstrasse 8 6340 Baar. Postfach 2555",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203049505,
-    "wof:lastmodified":1449025867,
+    "wof:lastmodified":1466210140,
     "wof:name":"M\u00fcller & Staub Partner Ag Architekten Eth/sia/htl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.539055,47.20023,8.539055,47.20023],
+  "bbox": [
+    8.539055,
+    47.20023,
+    8.539055,
+    47.20023
+],
   "geometry": {"coordinates":[8.539055,47.20023],"type":"Point"}
 }

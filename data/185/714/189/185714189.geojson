@@ -2,13 +2,14 @@
   "id": 185714189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544913,47.367577,8.544913,47.367577",
     "geom:latitude":47.367577,
     "geom:longitude":8.544913,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatquai 1 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185714189,
-    "wof:lastmodified":1449007419,
+    "wof:lastmodified":1466211256,
     "wof:name":"Homberger & Partner Advokaturb\u00fcro",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544913,47.367577,8.544913,47.367577],
+  "bbox": [
+    8.544913,
+    47.367577,
+    8.544913,
+    47.367577
+],
   "geometry": {"coordinates":[8.544913,47.367577],"type":"Point"}
 }

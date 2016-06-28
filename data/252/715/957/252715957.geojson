@@ -2,13 +2,14 @@
   "id": 252715957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526161,47.371159,8.526161,47.371159",
     "geom:latitude":47.371159,
     "geom:longitude":8.526161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6ntalstrasse 28",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252715957,
-    "wof:lastmodified":1449006282,
+    "wof:lastmodified":1466209013,
     "wof:name":"Schick J. & Partner Ag, Informationsplanung",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526161,47.371159,8.526161,47.371159],
+  "bbox": [
+    8.526161,
+    47.371159,
+    8.526161,
+    47.371159
+],
   "geometry": {"coordinates":[8.526161,47.371159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253309775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.572875,47.344883,8.572875,47.344883",
     "geom:latitude":47.344883,
     "geom:longitude":8.572875,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gustav-maurer-strasse 25",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253309775,
-    "wof:lastmodified":1449063461,
+    "wof:lastmodified":1466211773,
     "wof:name":"Buch & Ton Sibylle Andreae",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.572875,47.344883,8.572875,47.344883],
+  "bbox": [
+    8.572875,
+    47.344883,
+    8.572875,
+    47.344883
+],
   "geometry": {"coordinates":[8.572875,47.344883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220170575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.852616,47.339455,7.852616,47.339455",
     "geom:latitude":47.339455,
     "geom:longitude":7.852616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 8",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220170575,
-    "wof:lastmodified":1449074098,
+    "wof:lastmodified":1466210336,
     "wof:name":"Borner Andreas M\u00f6belrestaurationen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.852616,47.339455,7.852616,47.339455],
+  "bbox": [
+    7.852616,
+    47.339455,
+    7.852616,
+    47.339455
+],
   "geometry": {"coordinates":[7.852616,47.339455],"type":"Point"}
 }

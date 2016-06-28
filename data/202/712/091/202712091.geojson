@@ -2,13 +2,14 @@
   "id": 202712091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.617021,46.743946,7.617021,46.743946",
     "geom:latitude":46.743946,
     "geom:longitude":7.617021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchholzstrasse 7b",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202712091,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466210707,
     "wof:name":"Simeg Ingenieurb\u00fcro Eggimann S.",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.617021,46.743946,7.617021,46.743946],
+  "bbox": [
+    7.617021,
+    46.743946,
+    7.617021,
+    46.743946
+],
   "geometry": {"coordinates":[7.617021,46.743946],"type":"Point"}
 }

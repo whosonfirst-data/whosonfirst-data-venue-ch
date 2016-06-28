@@ -2,13 +2,14 @@
   "id": 186387263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.896415,47.191296,8.896415,47.191296",
     "geom:latitude":47.191296,
     "geom:longitude":8.896415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 11 6340 Baar. Postfach",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186387263,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466210491,
     "wof:name":"Z\u00fcger Fritz, Bauunternehmung.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.896415,47.191296,8.896415,47.191296],
+  "bbox": [
+    8.896415,
+    47.191296,
+    8.896415,
+    47.191296
+],
   "geometry": {"coordinates":[8.896415,47.191296],"type":"Point"}
 }

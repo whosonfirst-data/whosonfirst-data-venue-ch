@@ -2,13 +2,14 @@
   "id": 219585923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.986485,46.046272,8.986485,46.046272",
     "geom:latitude":46.046272,
     "geom:longitude":8.986485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Sant'agata",
     "sg:city":"Cadro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219585923,
-    "wof:lastmodified":1449072736,
+    "wof:lastmodified":1466211730,
     "wof:name":"Raiffeisen Di Cadro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.986485,46.046272,8.986485,46.046272],
+  "bbox": [
+    8.986485,
+    46.046272,
+    8.986485,
+    46.046272
+],
   "geometry": {"coordinates":[8.986485,46.046272],"type":"Point"}
 }

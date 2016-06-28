@@ -2,13 +2,14 @@
   "id": 236930379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.35242,47.173382,8.35242,47.173382",
     "geom:latitude":47.173382,
     "geom:longitude":8.35242,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 13",
     "sg:city":"Kriens",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236930379,
-    "wof:lastmodified":1449002547,
+    "wof:lastmodified":1466213025,
     "wof:name":"Daba Informatik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "provider"
     ]
 },
-  "bbox": [8.35242,47.173382,8.35242,47.173382],
+  "bbox": [
+    8.35242,
+    47.173382,
+    8.35242,
+    47.173382
+],
   "geometry": {"coordinates":[8.35242,47.173382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252936131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.555977,47.355782,8.555977,47.355782",
     "geom:latitude":47.355782,
     "geom:longitude":8.555977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hornbachstrasse 56",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252936131,
-    "wof:lastmodified":1449005769,
+    "wof:lastmodified":1466211382,
     "wof:name":"Globol Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.555977,47.355782,8.555977,47.355782],
+  "bbox": [
+    8.555977,
+    47.355782,
+    8.555977,
+    47.355782
+],
   "geometry": {"coordinates":[8.555977,47.355782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202772695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.553328,47.363605,8.553328,47.363605",
     "geom:latitude":47.363605,
     "geom:longitude":8.553328,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kleinstrasse 16",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202772695,
-    "wof:lastmodified":1449061263,
+    "wof:lastmodified":1466211270,
     "wof:name":"W\u00e4chter Ag Bauingenieure",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.553328,47.363605,8.553328,47.363605],
+  "bbox": [
+    8.553328,
+    47.363605,
+    8.553328,
+    47.363605
+],
   "geometry": {"coordinates":[8.553328,47.363605],"type":"Point"}
 }

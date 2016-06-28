@@ -2,13 +2,14 @@
   "id": 186569165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.55975,46.53006,6.55975,46.53006",
     "geom:latitude":46.53006,
     "geom:longitude":6.55975,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Pierre 22",
     "sg:city":"Ecublens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186569165,
-    "wof:lastmodified":1449052936,
+    "wof:lastmodified":1466211805,
     "wof:name":"Dassault Syst\u00e8mes (suisse) Sa",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "anti-virus"
     ]
 },
-  "bbox": [6.55975,46.53006,6.55975,46.53006],
+  "bbox": [
+    6.55975,
+    46.53006,
+    6.55975,
+    46.53006
+],
   "geometry": {"coordinates":[6.55975,46.53006],"type":"Point"}
 }

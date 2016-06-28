@@ -2,13 +2,14 @@
   "id": 236940851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540232,47.388134,8.540232,47.388134",
     "geom:latitude":47.388134,
     "geom:longitude":8.540232,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gemsenstrasse 2",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236940851,
-    "wof:lastmodified":1449002284,
+    "wof:lastmodified":1466213034,
     "wof:name":"Dg Digital-graphics Ag",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540232,47.388134,8.540232,47.388134],
+  "bbox": [
+    8.540232,
+    47.388134,
+    8.540232,
+    47.388134
+],
   "geometry": {"coordinates":[8.540232,47.388134],"type":"Point"}
 }

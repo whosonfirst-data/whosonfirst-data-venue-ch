@@ -2,13 +2,14 @@
   "id": 253442113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.483912,47.382195,8.483912,47.382195",
     "geom:latitude":47.382195,
     "geom:longitude":8.483912,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altstetterstrasse 223",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253442113,
-    "wof:lastmodified":1449064125,
+    "wof:lastmodified":1466212462,
     "wof:name":"Ursula Walti Couture",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.483912,47.382195,8.483912,47.382195],
+  "bbox": [
+    8.483912,
+    47.382195,
+    8.483912,
+    47.382195
+],
   "geometry": {"coordinates":[8.483912,47.382195],"type":"Point"}
 }

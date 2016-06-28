@@ -2,13 +2,14 @@
   "id": 220047267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.143984,47.267849,8.143984,47.267849",
     "geom:latitude":47.267849,
     "geom:longitude":8.143984,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 439",
     "sg:city":"Gontenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220047267,
-    "wof:lastmodified":1449074574,
+    "wof:lastmodified":1466209283,
     "wof:name":"Willy Wiederkehr Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.143984,47.267849,8.143984,47.267849],
+  "bbox": [
+    8.143984,
+    47.267849,
+    8.143984,
+    47.267849
+],
   "geometry": {"coordinates":[8.143984,47.267849],"type":"Point"}
 }

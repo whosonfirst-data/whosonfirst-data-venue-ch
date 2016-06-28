@@ -2,13 +2,14 @@
   "id": 236562855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.635382,46.520161,6.635382,46.520161",
     "geom:latitude":46.520161,
     "geom:longitude":6.635382,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Bourg 15",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236562855,
-    "wof:lastmodified":1449003396,
+    "wof:lastmodified":1466212707,
     "wof:name":"Grandoptical Grand Vision Optique Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.635382,46.520161,6.635382,46.520161],
+  "bbox": [
+    6.635382,
+    46.520161,
+    6.635382,
+    46.520161
+],
   "geometry": {"coordinates":[6.635382,46.520161],"type":"Point"}
 }

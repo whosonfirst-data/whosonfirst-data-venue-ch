@@ -2,13 +2,14 @@
   "id": 185720977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.639224,46.779041,6.639224,46.779041",
     "geom:latitude":46.779041,
     "geom:longitude":6.639224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Centrale 5 1003 Lausanne Case Postale 3149",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185720977,
-    "wof:lastmodified":1449006999,
+    "wof:lastmodified":1466211281,
     "wof:name":"Koelliker Morier-genoud Perrot & Seeger Tappy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.639224,46.779041,6.639224,46.779041],
+  "bbox": [
+    6.639224,
+    46.779041,
+    6.639224,
+    46.779041
+],
   "geometry": {"coordinates":[6.639224,46.779041],"type":"Point"}
 }

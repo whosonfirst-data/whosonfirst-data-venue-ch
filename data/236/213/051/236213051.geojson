@@ -2,13 +2,14 @@
   "id": 236213051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.346143,47.429813,9.346143,47.429813",
     "geom:latitude":47.429813,
     "geom:longitude":9.346143,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebnetstrasse 27c",
     "sg:city":"Gaiserwald",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236213051,
-    "wof:lastmodified":1449001708,
+    "wof:lastmodified":1466210942,
     "wof:name":"Bb Art Service Gmbh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.346143,47.429813,9.346143,47.429813],
+  "bbox": [
+    9.346143,
+    47.429813,
+    9.346143,
+    47.429813
+],
   "geometry": {"coordinates":[9.346143,47.429813],"type":"Point"}
 }

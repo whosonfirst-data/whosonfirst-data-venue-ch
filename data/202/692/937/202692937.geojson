@@ -2,13 +2,14 @@
   "id": 202692937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.637248,47.696114,8.637248,47.696114",
     "geom:latitude":47.696114,
     "geom:longitude":8.637248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vordergasse 14",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202692937,
-    "wof:lastmodified":1449060789,
+    "wof:lastmodified":1466210522,
     "wof:name":"Ruh + Blum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.637248,47.696114,8.637248,47.696114],
+  "bbox": [
+    8.637248,
+    47.696114,
+    8.637248,
+    47.696114
+],
   "geometry": {"coordinates":[8.637248,47.696114],"type":"Point"}
 }

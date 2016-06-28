@@ -2,13 +2,14 @@
   "id": 236493889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.460437,47.486031,9.460437,47.486031",
     "geom:latitude":47.486031,
     "geom:longitude":9.460437,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenstrasse 8 9327 T\u00fcbach. Postfach",
     "sg:city":"T\u00fcbach",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236493889,
-    "wof:lastmodified":1449002536,
+    "wof:lastmodified":1466212508,
     "wof:name":"Bechtiger Edelstahl Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "blank"
     ]
 },
-  "bbox": [9.460437,47.486031,9.460437,47.486031],
+  "bbox": [
+    9.460437,
+    47.486031,
+    9.460437,
+    47.486031
+],
   "geometry": {"coordinates":[9.460437,47.486031],"type":"Point"}
 }

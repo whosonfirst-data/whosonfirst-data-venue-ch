@@ -2,13 +2,14 @@
   "id": 236586561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.376047,47.423573,9.376047,47.423573",
     "geom:latitude":47.423573,
     "geom:longitude":9.376047,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De L'a\u00e9roport 33 1215 Gen\u00e8ve",
     "sg:city":"A\u00e9roport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236586561,
-    "wof:lastmodified":1449004790,
+    "wof:lastmodified":1466212655,
     "wof:name":"Industirie Und Handelskammer St Gallen Appenzell",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advice"
     ]
 },
-  "bbox": [9.376047,47.423573,9.376047,47.423573],
+  "bbox": [
+    9.376047,
+    47.423573,
+    9.376047,
+    47.423573
+],
   "geometry": {"coordinates":[9.376047,47.423573],"type":"Point"}
 }

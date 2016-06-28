@@ -2,13 +2,14 @@
   "id": 186290445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.365132,47.27956,7.365132,47.27956",
     "geom:latitude":47.27956,
     "geom:longitude":7.365132,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Neust\u00e9 15",
     "sg:city":"Moutier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186290445,
-    "wof:lastmodified":1449051525,
+    "wof:lastmodified":1466209766,
     "wof:name":"Interpass Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.365132,47.27956,7.365132,47.27956],
+  "bbox": [
+    7.365132,
+    47.27956,
+    7.365132,
+    47.27956
+],
   "geometry": {"coordinates":[7.365132,47.27956],"type":"Point"}
 }

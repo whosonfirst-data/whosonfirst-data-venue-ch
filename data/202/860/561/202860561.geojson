@@ -2,13 +2,14 @@
   "id": 202860561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.694516,47.183285,7.694516,47.183285",
     "geom:latitude":47.183285,
     "geom:longitude":7.694516,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 45 3363 Ober\u00f6nz. Postfach 26",
     "sg:city":"Ober\u00f6nz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202860561,
-    "wof:lastmodified":1449061252,
+    "wof:lastmodified":1466212060,
     "wof:name":"Schlunegger + Aebi Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.694516,47.183285,7.694516,47.183285],
+  "bbox": [
+    7.694516,
+    47.183285,
+    7.694516,
+    47.183285
+],
   "geometry": {"coordinates":[7.694516,47.183285],"type":"Point"}
 }

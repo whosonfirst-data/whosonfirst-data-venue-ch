@@ -2,13 +2,14 @@
   "id": 236559685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.109624,46.920593,7.109624,46.920593",
     "geom:latitude":46.920593,
     "geom:longitude":7.109624,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiburgstrasse 49",
     "sg:city":"Murten",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236559685,
-    "wof:lastmodified":1449004381,
+    "wof:lastmodified":1466212612,
     "wof:name":"Roland Murten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bread"
     ]
 },
-  "bbox": [7.109624,46.920593,7.109624,46.920593],
+  "bbox": [
+    7.109624,
+    46.920593,
+    7.109624,
+    46.920593
+],
   "geometry": {"coordinates":[7.109624,46.920593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202704161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.080977,47.401138,8.080977,47.401138",
     "geom:latitude":47.401138,
     "geom:longitude":8.080977,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachlettenstrasse 52",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202704161,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466210627,
     "wof:name":"Schmidt + Partner, Bauingenieure Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.080977,47.401138,8.080977,47.401138],
+  "bbox": [
+    8.080977,
+    47.401138,
+    8.080977,
+    47.401138
+],
   "geometry": {"coordinates":[8.080977,47.401138],"type":"Point"}
 }

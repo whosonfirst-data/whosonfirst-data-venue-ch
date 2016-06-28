@@ -2,13 +2,14 @@
   "id": 202831393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.584095,47.554489,7.584095,47.554489",
     "geom:latitude":47.554489,
     "geom:longitude":7.584095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holbeinstrasse 14 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202831393,
-    "wof:lastmodified":1449061602,
+    "wof:lastmodified":1466211839,
     "wof:name":"Holbi 14 Architekten Gmbh Dienstleistungen Im Bereich Architektur, Planung, Bauleitung",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.584095,47.554489,7.584095,47.554489],
+  "bbox": [
+    7.584095,
+    47.554489,
+    7.584095,
+    47.554489
+],
   "geometry": {"coordinates":[7.584095,47.554489],"type":"Point"}
 }

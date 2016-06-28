@@ -2,13 +2,14 @@
   "id": 186267129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522454,47.386463,8.522454,47.386463",
     "geom:latitude":47.386463,
     "geom:longitude":8.522454,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viaduktstrasse 10",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186267129,
-    "wof:lastmodified":1449052782,
+    "wof:lastmodified":1466209599,
     "wof:name":"Baurep Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522454,47.386463,8.522454,47.386463],
+  "bbox": [
+    8.522454,
+    47.386463,
+    8.522454,
+    47.386463
+],
   "geometry": {"coordinates":[8.522454,47.386463],"type":"Point"}
 }

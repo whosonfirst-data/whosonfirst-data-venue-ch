@@ -2,13 +2,14 @@
   "id": 219711107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.94653,47.288776,7.94653,47.288776",
     "geom:latitude":47.288776,
     "geom:longitude":7.94653,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Niklaus-thut-platz",
     "sg:city":"Zofingen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219711107,
-    "wof:lastmodified":1449073277,
+    "wof:lastmodified":1466212248,
     "wof:name":"Schweizerischer Bankverein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.94653,47.288776,7.94653,47.288776],
+  "bbox": [
+    7.94653,
+    47.288776,
+    7.94653,
+    47.288776
+],
   "geometry": {"coordinates":[7.94653,47.288776],"type":"Point"}
 }

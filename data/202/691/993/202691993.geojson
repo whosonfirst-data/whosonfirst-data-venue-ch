@@ -2,13 +2,14 @@
   "id": 202691993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.242104,47.120186,7.242104,47.120186",
     "geom:latitude":47.120186,
     "geom:longitude":7.242104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 95",
     "sg:city":"Nidau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202691993,
-    "wof:lastmodified":1449060328,
+    "wof:lastmodified":1466210514,
     "wof:name":"Rudolf Forster Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.242104,47.120186,7.242104,47.120186],
+  "bbox": [
+    7.242104,
+    47.120186,
+    7.242104,
+    47.120186
+],
   "geometry": {"coordinates":[7.242104,47.120186],"type":"Point"}
 }

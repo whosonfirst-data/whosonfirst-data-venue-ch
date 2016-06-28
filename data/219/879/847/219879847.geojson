@@ -2,13 +2,14 @@
   "id": 219879847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.803103,47.328781,8.803103,47.328781",
     "geom:latitude":47.328781,
     "geom:longitude":8.803103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 64d",
     "sg:city":"Sch\u00fcpbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219879847,
-    "wof:lastmodified":1449070404,
+    "wof:lastmodified":1466212610,
     "wof:name":"Gen.alterssiedlung Wetzikon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.803103,47.328781,8.803103,47.328781],
+  "bbox": [
+    8.803103,
+    47.328781,
+    8.803103,
+    47.328781
+],
   "geometry": {"coordinates":[8.803103,47.328781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219487611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.127329,47.403248,7.127329,47.403248",
     "geom:latitude":47.403248,
     "geom:longitude":7.127329,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte. De Courtemblin 3",
     "sg:city":"Courgenay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219487611,
-    "wof:lastmodified":1449071553,
+    "wof:lastmodified":1466211024,
     "wof:name":"Banque Cantonale Du Jura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.127329,47.403248,7.127329,47.403248],
+  "bbox": [
+    7.127329,
+    47.403248,
+    7.127329,
+    47.403248
+],
   "geometry": {"coordinates":[7.127329,47.403248],"type":"Point"}
 }

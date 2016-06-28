@@ -2,13 +2,14 @@
   "id": 236334383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.601529,47.567444,7.601529,47.567444",
     "geom:latitude":47.567444,
     "geom:longitude":7.601529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maulbeerstrasse 37",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236334383,
-    "wof:lastmodified":1449002443,
+    "wof:lastmodified":1466212014,
     "wof:name":"Transtax Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.601529,47.567444,7.601529,47.567444],
+  "bbox": [
+    7.601529,
+    47.567444,
+    7.601529,
+    47.567444
+],
   "geometry": {"coordinates":[7.601529,47.567444],"type":"Point"}
 }

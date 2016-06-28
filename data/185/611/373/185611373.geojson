@@ -2,13 +2,14 @@
   "id": 185611373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.878348,47.305958,7.878348,47.305958",
     "geom:latitude":47.305958,
     "geom:longitude":7.878348,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 11",
     "sg:city":"Rothrist",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185611373,
-    "wof:lastmodified":1449007884,
+    "wof:lastmodified":1466209553,
     "wof:name":"Gerber Reisen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.878348,47.305958,7.878348,47.305958],
+  "bbox": [
+    7.878348,
+    47.305958,
+    7.878348,
+    47.305958
+],
   "geometry": {"coordinates":[7.878348,47.305958],"type":"Point"}
 }

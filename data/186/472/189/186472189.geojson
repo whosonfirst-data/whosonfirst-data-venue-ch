@@ -2,13 +2,14 @@
   "id": 186472189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.632722,47.696526,8.632722,47.696526",
     "geom:latitude":47.696526,
     "geom:longitude":8.632722,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberstadt 9",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186472189,
-    "wof:lastmodified":1449050458,
+    "wof:lastmodified":1466211187,
     "wof:name":"Arbeitslosenkasse Des Kantons Schaffhausen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.632722,47.696526,8.632722,47.696526],
+  "bbox": [
+    8.632722,
+    47.696526,
+    8.632722,
+    47.696526
+],
   "geometry": {"coordinates":[8.632722,47.696526],"type":"Point"}
 }

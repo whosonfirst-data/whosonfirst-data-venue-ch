@@ -2,13 +2,14 @@
   "id": 252770323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.455501,46.948051,7.455501,46.948051",
     "geom:latitude":46.948051,
     "geom:longitude":7.455501,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Junkerngasse 17",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252770323,
-    "wof:lastmodified":1449006539,
+    "wof:lastmodified":1466209553,
     "wof:name":"Lions-trend Ag",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.455501,46.948051,7.455501,46.948051],
+  "bbox": [
+    7.455501,
+    46.948051,
+    7.455501,
+    46.948051
+],
   "geometry": {"coordinates":[7.455501,46.948051],"type":"Point"}
 }

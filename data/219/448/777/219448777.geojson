@@ -2,13 +2,14 @@
   "id": 219448777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517374,47.17617,8.517374,47.17617",
     "geom:latitude":47.17617,
     "geom:longitude":8.517374,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 63",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219448777,
-    "wof:lastmodified":1449073743,
+    "wof:lastmodified":1466210625,
     "wof:name":"Spherotech Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ball"
     ]
 },
-  "bbox": [8.517374,47.17617,8.517374,47.17617],
+  "bbox": [
+    8.517374,
+    47.17617,
+    8.517374,
+    47.17617
+],
   "geometry": {"coordinates":[8.517374,47.17617],"type":"Point"}
 }

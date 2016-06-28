@@ -2,13 +2,14 @@
   "id": 169799141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.505599,46.661175,6.505599,46.661175",
     "geom:latitude":46.661175,
     "geom:longitude":6.505599,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wiesenbergstrasse 12",
     "sg:city":"Dallenwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169799141,
-    "wof:lastmodified":1449035986,
+    "wof:lastmodified":1466209065,
     "wof:name":"Chevalier P.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.505599,46.661175,6.505599,46.661175],
+  "bbox": [
+    6.505599,
+    46.661175,
+    6.505599,
+    46.661175
+],
   "geometry": {"coordinates":[6.505599,46.661175],"type":"Point"}
 }

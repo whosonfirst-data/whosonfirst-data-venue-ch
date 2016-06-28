@@ -2,13 +2,14 @@
   "id": 202689411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.936112,46.00869,8.936112,46.00869",
     "geom:latitude":46.00869,
     "geom:longitude":8.936112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gemmo Via 11",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202689411,
-    "wof:lastmodified":1449062235,
+    "wof:lastmodified":1466210488,
     "wof:name":"Roman W. Immobiliare Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.936112,46.00869,8.936112,46.00869],
+  "bbox": [
+    8.936112,
+    46.00869,
+    8.936112,
+    46.00869
+],
   "geometry": {"coordinates":[8.936112,46.00869],"type":"Point"}
 }

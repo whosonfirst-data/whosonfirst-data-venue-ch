@@ -2,13 +2,14 @@
   "id": 252769989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516271,47.392628,8.516271,47.392628",
     "geom:latitude":47.392628,
     "geom:longitude":8.516271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardturmstrasse 102 8005 Z\u00fcrich. Postfach 199",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252769989,
-    "wof:lastmodified":1449005764,
+    "wof:lastmodified":1466209548,
     "wof:name":"Galerie Koller Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516271,47.392628,8.516271,47.392628],
+  "bbox": [
+    8.516271,
+    47.392628,
+    8.516271,
+    47.392628
+],
   "geometry": {"coordinates":[8.516271,47.392628],"type":"Point"}
 }

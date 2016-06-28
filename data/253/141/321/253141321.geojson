@@ -2,13 +2,14 @@
   "id": 253141321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.127671,46.222897,6.127671,46.222897",
     "geom:latitude":46.222897,
     "geom:longitude":6.127671,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Du Petit-saconnex 5",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253141321,
-    "wof:lastmodified":1449063857,
+    "wof:lastmodified":1466210404,
     "wof:name":"Boulangerie Contel Sa",
     "wof:parent_id":85862451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.127671,46.222897,6.127671,46.222897],
+  "bbox": [
+    6.127671,
+    46.222897,
+    6.127671,
+    46.222897
+],
   "geometry": {"coordinates":[6.127671,46.222897],"type":"Point"}
 }

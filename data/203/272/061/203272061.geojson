@@ -2,13 +2,14 @@
   "id": 203272061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.41588,46.923847,7.41588,46.923847",
     "geom:latitude":46.923847,
     "geom:longitude":7.41588,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzenburgstrasse 261",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203272061,
-    "wof:lastmodified":1449026753,
+    "wof:lastmodified":1466210248,
     "wof:name":"Dr.med.andreas Gerbig Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.41588,46.923847,7.41588,46.923847],
+  "bbox": [
+    7.41588,
+    46.923847,
+    7.41588,
+    46.923847
+],
   "geometry": {"coordinates":[7.41588,46.923847],"type":"Point"}
 }

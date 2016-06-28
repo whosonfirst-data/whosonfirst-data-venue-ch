@@ -2,13 +2,14 @@
   "id": 185698099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.30631,47.543789,9.30631,47.543789",
     "geom:latitude":47.543789,
     "geom:longitude":9.30631,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Arbonerstrasse 61c",
     "sg:city":"Amriswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185698099,
-    "wof:lastmodified":1449008112,
+    "wof:lastmodified":1466211062,
     "wof:name":"Dr.lukas Br\u00fchwiler Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.30631,47.543789,9.30631,47.543789],
+  "bbox": [
+    9.30631,
+    47.543789,
+    9.30631,
+    47.543789
+],
   "geometry": {"coordinates":[9.30631,47.543789],"type":"Point"}
 }

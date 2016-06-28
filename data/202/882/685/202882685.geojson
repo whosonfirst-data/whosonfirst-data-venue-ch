@@ -2,13 +2,14 @@
   "id": 202882685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.609429,47.496799,7.609429,47.496799",
     "geom:latitude":47.496799,
     "geom:longitude":7.609429,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talstrasse 40",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202882685,
-    "wof:lastmodified":1449060554,
+    "wof:lastmodified":1466211959,
     "wof:name":"Rohrbach Und Partner Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.609429,47.496799,7.609429,47.496799],
+  "bbox": [
+    7.609429,
+    47.496799,
+    7.609429,
+    47.496799
+],
   "geometry": {"coordinates":[7.609429,47.496799],"type":"Point"}
 }

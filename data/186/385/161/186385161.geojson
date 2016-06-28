@@ -2,13 +2,14 @@
   "id": 186385161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.153791,47.34737,8.153791,47.34737",
     "geom:latitude":47.34737,
     "geom:longitude":8.153791,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 54",
     "sg:city":"Seon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186385161,
-    "wof:lastmodified":1449051962,
+    "wof:lastmodified":1466210474,
     "wof:name":"W. Kaminsky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.153791,47.34737,8.153791,47.34737],
+  "bbox": [
+    8.153791,
+    47.34737,
+    8.153791,
+    47.34737
+],
   "geometry": {"coordinates":[8.153791,47.34737],"type":"Point"}
 }

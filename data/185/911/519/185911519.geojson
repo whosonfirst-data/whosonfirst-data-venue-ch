@@ -2,13 +2,14 @@
   "id": 185911519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.304663,47.051857,8.304663,47.051857",
     "geom:latitude":47.051857,
     "geom:longitude":8.304663,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinmarkt 6",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185911519,
-    "wof:lastmodified":1449007970,
+    "wof:lastmodified":1466209940,
     "wof:name":"Domo Ag Luzern",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.304663,47.051857,8.304663,47.051857],
+  "bbox": [
+    8.304663,
+    47.051857,
+    8.304663,
+    47.051857
+],
   "geometry": {"coordinates":[8.304663,47.051857],"type":"Point"}
 }

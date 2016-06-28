@@ -2,13 +2,14 @@
   "id": 236297613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.617895,47.498795,7.617895,47.498795",
     "geom:latitude":47.498795,
     "geom:longitude":7.617895,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birseckstrasse 5 4144 Arlesheim. Postfach 343",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236297613,
-    "wof:lastmodified":1449003808,
+    "wof:lastmodified":1466211843,
     "wof:name":"Garage Faller Ag Taxi",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.617895,47.498795,7.617895,47.498795],
+  "bbox": [
+    7.617895,
+    47.498795,
+    7.617895,
+    47.498795
+],
   "geometry": {"coordinates":[7.617895,47.498795],"type":"Point"}
 }

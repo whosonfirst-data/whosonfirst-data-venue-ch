@@ -2,13 +2,14 @@
   "id": 220093813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.022148,46.886921,8.022148,46.886921",
     "geom:latitude":46.886921,
     "geom:longitude":8.022148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 14",
     "sg:city":"Huttwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220093813,
-    "wof:lastmodified":1449074056,
+    "wof:lastmodified":1466209684,
     "wof:name":"Gebr. Schmid Holzbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.022148,46.886921,8.022148,46.886921],
+  "bbox": [
+    8.022148,
+    46.886921,
+    8.022148,
+    46.886921
+],
   "geometry": {"coordinates":[8.022148,46.886921],"type":"Point"}
 }

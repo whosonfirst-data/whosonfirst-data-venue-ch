@@ -2,13 +2,14 @@
   "id": 253197825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.06463,47.056141,7.06463,47.056141",
     "geom:latitude":47.056141,
     "geom:longitude":7.06463,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 69",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253197825,
-    "wof:lastmodified":1449065398,
+    "wof:lastmodified":1466211000,
     "wof:name":"J. Jaquier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.06463,47.056141,7.06463,47.056141],
+  "bbox": [
+    7.06463,
+    47.056141,
+    7.06463,
+    47.056141
+],
   "geometry": {"coordinates":[7.06463,47.056141],"type":"Point"}
 }

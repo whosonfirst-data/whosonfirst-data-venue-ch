@@ -2,13 +2,14 @@
   "id": 236571373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536569,47.368385,8.536569,47.368385",
     "geom:latitude":47.368385,
     "geom:longitude":8.536569,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bleicherweg 14 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236571373,
-    "wof:lastmodified":1449003995,
+    "wof:lastmodified":1466212637,
     "wof:name":"Rgs Administrations Ag Buchhaltungs- U. Verwaltungsmandate, Revisions- U. Treuhandfunktionen",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536569,47.368385,8.536569,47.368385],
+  "bbox": [
+    8.536569,
+    47.368385,
+    8.536569,
+    47.368385
+],
   "geometry": {"coordinates":[8.536569,47.368385],"type":"Point"}
 }

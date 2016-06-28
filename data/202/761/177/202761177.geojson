@@ -2,13 +2,14 @@
   "id": 202761177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.187698,47.47776,9.187698,47.47776",
     "geom:latitude":47.47776,
     "geom:longitude":9.187698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossberg 22 Zuckenriet",
     "sg:city":"Niederhelfenschwil",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202761177,
-    "wof:lastmodified":1449062055,
+    "wof:lastmodified":1466211165,
     "wof:name":"Walter Erni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.187698,47.47776,9.187698,47.47776],
+  "bbox": [
+    9.187698,
+    47.47776,
+    9.187698,
+    47.47776
+],
   "geometry": {"coordinates":[9.187698,47.47776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236774785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.504705,47.490238,7.504705,47.490238",
     "geom:latitude":47.490238,
     "geom:longitude":7.504705,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattstrasse 13",
     "sg:city":"B\u00e4ttwil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236774785,
-    "wof:lastmodified":1449002837,
+    "wof:lastmodified":1466212885,
     "wof:name":"Hakama Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cnc"
     ]
 },
-  "bbox": [7.504705,47.490238,7.504705,47.490238],
+  "bbox": [
+    7.504705,
+    47.490238,
+    7.504705,
+    47.490238
+],
   "geometry": {"coordinates":[7.504705,47.490238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202816583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.555104,47.500175,7.555104,47.500175",
     "geom:latitude":47.500175,
     "geom:longitude":7.555104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterweg 14",
     "sg:city":"Therwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202816583,
-    "wof:lastmodified":1449061596,
+    "wof:lastmodified":1466211660,
     "wof:name":"Degen Hettenbach, Hettenbach-degen, M\u00fcller Gygax",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.555104,47.500175,7.555104,47.500175],
+  "bbox": [
+    7.555104,
+    47.500175,
+    7.555104,
+    47.500175
+],
   "geometry": {"coordinates":[7.555104,47.500175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219612065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.393901,47.295555,8.393901,47.295555",
     "geom:latitude":47.295555,
     "geom:longitude":8.393901,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lettenstr. 1",
     "sg:city":"Jonen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219612065,
-    "wof:lastmodified":1449071956,
+    "wof:lastmodified":1466212044,
     "wof:name":"Raiffeisenbank Jonen-ottenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.393901,47.295555,8.393901,47.295555],
+  "bbox": [
+    8.393901,
+    47.295555,
+    8.393901,
+    47.295555
+],
   "geometry": {"coordinates":[8.393901,47.295555],"type":"Point"}
 }

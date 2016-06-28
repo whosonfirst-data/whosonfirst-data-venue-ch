@@ -2,13 +2,14 @@
   "id": 219839745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.538883,47.374111,8.538883,47.374111",
     "geom:latitude":47.374111,
     "geom:longitude":8.538883,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rennweg 58",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219839745,
-    "wof:lastmodified":1449072512,
+    "wof:lastmodified":1466212536,
     "wof:name":"Caf\u00e9 Bar La Cafette",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.538883,47.374111,8.538883,47.374111],
+  "bbox": [
+    8.538883,
+    47.374111,
+    8.538883,
+    47.374111
+],
   "geometry": {"coordinates":[8.538883,47.374111],"type":"Point"}
 }

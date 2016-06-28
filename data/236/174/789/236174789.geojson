@@ -2,13 +2,14 @@
   "id": 236174789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.530855,47.445679,9.530855,47.445679",
     "geom:latitude":47.445679,
     "geom:longitude":9.530855,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Badstrasse 31",
     "sg:city":"Heiden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236174789,
-    "wof:lastmodified":1449002011,
+    "wof:lastmodified":1466210531,
     "wof:name":"Kantonale Berufsberatung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.530855,47.445679,9.530855,47.445679],
+  "bbox": [
+    9.530855,
+    47.445679,
+    9.530855,
+    47.445679
+],
   "geometry": {"coordinates":[9.530855,47.445679],"type":"Point"}
 }

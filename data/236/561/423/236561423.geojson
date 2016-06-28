@@ -2,13 +2,14 @@
   "id": 236561423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598621,47.497612,7.598621,47.497612",
     "geom:latitude":47.497612,
     "geom:longitude":7.598621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenweg 14",
     "sg:city":"Reinach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236561423,
-    "wof:lastmodified":1449004092,
+    "wof:lastmodified":1466212621,
     "wof:name":"Promotec Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [7.598621,47.497612,7.598621,47.497612],
+  "bbox": [
+    7.598621,
+    47.497612,
+    7.598621,
+    47.497612
+],
   "geometry": {"coordinates":[7.598621,47.497612],"type":"Point"}
 }

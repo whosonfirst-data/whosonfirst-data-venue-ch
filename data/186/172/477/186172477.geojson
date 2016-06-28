@@ -2,13 +2,14 @@
   "id": 186172477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.908799,47.551556,8.908799,47.551556",
     "geom:latitude":47.551556,
     "geom:longitude":8.908799,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Broteggstrasse 43",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186172477,
-    "wof:lastmodified":1449051451,
+    "wof:lastmodified":1466211577,
     "wof:name":"Pfaffenholz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.908799,47.551556,8.908799,47.551556],
+  "bbox": [
+    8.908799,
+    47.551556,
+    8.908799,
+    47.551556
+],
   "geometry": {"coordinates":[8.908799,47.551556],"type":"Point"}
 }

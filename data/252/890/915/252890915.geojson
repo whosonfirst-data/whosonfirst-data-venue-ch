@@ -2,13 +2,14 @@
   "id": 252890915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53935,47.371807,8.53935,47.371807",
     "geom:latitude":47.371807,
     "geom:longitude":8.53935,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnzplatz 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252890915,
-    "wof:lastmodified":1449005668,
+    "wof:lastmodified":1466210886,
     "wof:name":"Fidelio Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53935,47.371807,8.53935,47.371807],
+  "bbox": [
+    8.53935,
+    47.371807,
+    8.53935,
+    47.371807
+],
   "geometry": {"coordinates":[8.53935,47.371807],"type":"Point"}
 }

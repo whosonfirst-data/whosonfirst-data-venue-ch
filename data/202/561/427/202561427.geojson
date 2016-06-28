@@ -2,13 +2,14 @@
   "id": 202561427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.945151,47.387367,7.945151,47.387367",
     "geom:latitude":47.387367,
     "geom:longitude":7.945151,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 37",
     "sg:city":"Lostorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202561427,
-    "wof:lastmodified":1449061897,
+    "wof:lastmodified":1466209305,
     "wof:name":"Ingenieurb\u00fcro Dietschi Stefan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.945151,47.387367,7.945151,47.387367],
+  "bbox": [
+    7.945151,
+    47.387367,
+    7.945151,
+    47.387367
+],
   "geometry": {"coordinates":[7.945151,47.387367],"type":"Point"}
 }

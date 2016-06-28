@@ -2,13 +2,14 @@
   "id": 236304699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.248652,47.128296,7.248652,47.128296",
     "geom:latitude":47.128296,
     "geom:longitude":7.248652,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexander-moser-strasse 20",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236304699,
-    "wof:lastmodified":1449004230,
+    "wof:lastmodified":1466211741,
     "wof:name":"Kohler & Trachsel Taxi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.248652,47.128296,7.248652,47.128296],
+  "bbox": [
+    7.248652,
+    47.128296,
+    7.248652,
+    47.128296
+],
   "geometry": {"coordinates":[7.248652,47.128296],"type":"Point"}
 }

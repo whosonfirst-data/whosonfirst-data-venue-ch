@@ -2,13 +2,14 @@
   "id": 236369765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.732417,47.485458,7.732417,47.485458",
     "geom:latitude":47.485458,
     "geom:longitude":7.732417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"4410",
     "sg:city":"Liestal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236369765,
-    "wof:lastmodified":1449005046,
+    "wof:lastmodified":1466212157,
     "wof:name":"Sekundarschule Burg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.732417,47.485458,7.732417,47.485458],
+  "bbox": [
+    7.732417,
+    47.485458,
+    7.732417,
+    47.485458
+],
   "geometry": {"coordinates":[7.732417,47.485458],"type":"Point"}
 }

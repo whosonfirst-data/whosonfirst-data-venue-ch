@@ -2,13 +2,14 @@
   "id": 236835557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.630764,46.776596,7.630764,46.776596",
     "geom:latitude":46.776596,
     "geom:longitude":7.630764,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zulgstrasse 35",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236835557,
-    "wof:lastmodified":1449002027,
+    "wof:lastmodified":1466212926,
     "wof:name":"Kunz Dach + Wand Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.630764,46.776596,7.630764,46.776596],
+  "bbox": [
+    7.630764,
+    46.776596,
+    7.630764,
+    46.776596
+],
   "geometry": {"coordinates":[7.630764,46.776596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169656655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532725,47.346977,8.532725,47.346977",
     "geom:latitude":47.346977,
     "geom:longitude":8.532725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 336",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169656655,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466210221,
     "wof:name":"Gamma Ag",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "figurine"
     ]
 },
-  "bbox": [8.532725,47.346977,8.532725,47.346977],
+  "bbox": [
+    8.532725,
+    47.346977,
+    8.532725,
+    47.346977
+],
   "geometry": {"coordinates":[8.532725,47.346977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203380291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.998807,47.477825,8.998807,47.477825",
     "geom:latitude":47.477825,
     "geom:longitude":8.998807,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Gallerstrasse 32",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203380291,
-    "wof:lastmodified":1449025795,
+    "wof:lastmodified":1466211330,
     "wof:name":"Dr.med.martin Gisin Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.998807,47.477825,8.998807,47.477825],
+  "bbox": [
+    8.998807,
+    47.477825,
+    8.998807,
+    47.477825
+],
   "geometry": {"coordinates":[8.998807,47.477825],"type":"Point"}
 }

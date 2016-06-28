@@ -2,13 +2,14 @@
   "id": 186611163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.45011,47.168571,9.45011,47.168571",
     "geom:latitude":47.168571,
     "geom:longitude":9.45011,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Widackerstrasse 4",
     "sg:city":"Egerkingen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186611163,
-    "wof:lastmodified":1449052445,
+    "wof:lastmodified":1466212017,
     "wof:name":"Verband Schweiz.zollbeamter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.45011,47.168571,9.45011,47.168571],
+  "bbox": [
+    9.45011,
+    47.168571,
+    9.45011,
+    47.168571
+],
   "geometry": {"coordinates":[9.45011,47.168571],"type":"Point"}
 }

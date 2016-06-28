@@ -2,13 +2,14 @@
   "id": 236049079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.042578,47.549751,8.042578,47.549751",
     "geom:latitude":47.549751,
     "geom:longitude":8.042578,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obert 455",
     "sg:city":"Kaisten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236049079,
-    "wof:lastmodified":1449003253,
+    "wof:lastmodified":1466209324,
     "wof:name":"Jauslin + Sohn Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.042578,47.549751,8.042578,47.549751],
+  "bbox": [
+    8.042578,
+    47.549751,
+    8.042578,
+    47.549751
+],
   "geometry": {"coordinates":[8.042578,47.549751],"type":"Point"}
 }

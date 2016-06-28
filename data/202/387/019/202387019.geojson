@@ -2,13 +2,14 @@
   "id": 202387019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.64285,46.52293,6.64285,46.52293",
     "geom:latitude":46.52293,
     "geom:longitude":6.64285,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Universit\u00e9 Avenue De L' 9",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202387019,
-    "wof:lastmodified":1449062314,
+    "wof:lastmodified":1466211635,
     "wof:name":"Atelier D'architecture K. Hofmann S\u00e0rl",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.64285,46.52293,6.64285,46.52293],
+  "bbox": [
+    6.64285,
+    46.52293,
+    6.64285,
+    46.52293
+],
   "geometry": {"coordinates":[6.64285,46.52293],"type":"Point"}
 }

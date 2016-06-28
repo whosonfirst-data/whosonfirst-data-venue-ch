@@ -2,13 +2,14 @@
   "id": 252765471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.506987,47.427021,8.506987,47.427021",
     "geom:latitude":47.427021,
     "geom:longitude":8.506987,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kornamtsweg 3",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252765471,
-    "wof:lastmodified":1449006042,
+    "wof:lastmodified":1466209491,
     "wof:name":"Sammlerstube Mosberger & Co",
     "wof:parent_id":85800355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.506987,47.427021,8.506987,47.427021],
+  "bbox": [
+    8.506987,
+    47.427021,
+    8.506987,
+    47.427021
+],
   "geometry": {"coordinates":[8.506987,47.427021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236587493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.620714,46.51009,6.620714,46.51009",
     "geom:latitude":46.51009,
     "geom:longitude":6.620714,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Bellerive 23",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236587493,
-    "wof:lastmodified":1449002644,
+    "wof:lastmodified":1466212660,
     "wof:name":"Imd",
     "wof:parent_id":85799759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advice"
     ]
 },
-  "bbox": [6.620714,46.51009,6.620714,46.51009],
+  "bbox": [
+    6.620714,
+    46.51009,
+    6.620714,
+    46.51009
+],
   "geometry": {"coordinates":[6.620714,46.51009],"type":"Point"}
 }

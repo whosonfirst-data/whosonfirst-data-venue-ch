@@ -2,13 +2,14 @@
   "id": 202511719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.655783,47.384708,8.655783,47.384708",
     "geom:latitude":47.384708,
     "geom:longitude":8.655783,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 5 8603 Schwerzenbach. Postfach 451",
     "sg:city":"Schwerzenbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202511719,
-    "wof:lastmodified":1449061293,
+    "wof:lastmodified":1466211550,
     "wof:name":"Geoexpert Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.655783,47.384708,8.655783,47.384708],
+  "bbox": [
+    8.655783,
+    47.384708,
+    8.655783,
+    47.384708
+],
   "geometry": {"coordinates":[8.655783,47.384708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236516245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.713646,47.359539,8.713646,47.359539",
     "geom:latitude":47.359539,
     "geom:longitude":8.713646,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gschwaderstrasse 43",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236516245,
-    "wof:lastmodified":1449002154,
+    "wof:lastmodified":1466212552,
     "wof:name":"Fritz Ackermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.713646,47.359539,8.713646,47.359539],
+  "bbox": [
+    8.713646,
+    47.359539,
+    8.713646,
+    47.359539
+],
   "geometry": {"coordinates":[8.713646,47.359539],"type":"Point"}
 }

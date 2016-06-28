@@ -2,13 +2,14 @@
   "id": 236896005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600572,47.486229,7.600572,47.486229",
     "geom:latitude":47.486229,
     "geom:longitude":7.600572,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschikerstrasse 21 8307 Effretikon. Postfach",
     "sg:city":"Effretikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236896005,
-    "wof:lastmodified":1449002728,
+    "wof:lastmodified":1466212845,
     "wof:name":"Axept Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600572,47.486229,7.600572,47.486229],
+  "bbox": [
+    7.600572,
+    47.486229,
+    7.600572,
+    47.486229
+],
   "geometry": {"coordinates":[7.600572,47.486229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236473791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.478277,47.747597,8.478277,47.747597",
     "geom:latitude":47.747597,
     "geom:longitude":8.478277,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwarzwaldstrasse 12",
     "sg:city":"Schleitheim",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236473791,
-    "wof:lastmodified":1449002193,
+    "wof:lastmodified":1466212463,
     "wof:name":"Meyer Zweiradsport Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.478277,47.747597,8.478277,47.747597],
+  "bbox": [
+    8.478277,
+    47.747597,
+    8.478277,
+    47.747597
+],
   "geometry": {"coordinates":[8.478277,47.747597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236612681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.175623,47.402576,8.175623,47.402576",
     "geom:latitude":47.402576,
     "geom:longitude":8.175623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlestrasse 6",
     "sg:city":"Niederlenz",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236612681,
-    "wof:lastmodified":1449003052,
+    "wof:lastmodified":1466212697,
     "wof:name":"Lila System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [8.175623,47.402576,8.175623,47.402576],
+  "bbox": [
+    8.175623,
+    47.402576,
+    8.175623,
+    47.402576
+],
   "geometry": {"coordinates":[8.175623,47.402576],"type":"Point"}
 }

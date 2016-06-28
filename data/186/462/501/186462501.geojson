@@ -2,13 +2,14 @@
   "id": 186462501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51747,47.192657,8.51747,47.192657",
     "geom:latitude":47.192657,
     "geom:longitude":8.51747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altgasse 46b 6340 Baar. Postfach 623",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186462501,
-    "wof:lastmodified":1449052938,
+    "wof:lastmodified":1466211107,
     "wof:name":"W\u00fcest Ag, Bauunternehmung, Baar Hoch Und Tiefbauunternehmung Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.51747,47.192657,8.51747,47.192657],
+  "bbox": [
+    8.51747,
+    47.192657,
+    8.51747,
+    47.192657
+],
   "geometry": {"coordinates":[8.51747,47.192657],"type":"Point"}
 }

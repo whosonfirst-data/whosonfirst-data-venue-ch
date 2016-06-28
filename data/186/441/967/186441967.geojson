@@ -2,13 +2,14 @@
   "id": 186441967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.531281,47.340431,9.531281,47.340431",
     "geom:latitude":47.340431,
     "geom:longitude":9.531281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberrieter Strasse 18",
     "sg:city":"Eichberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186441967,
-    "wof:lastmodified":1449050455,
+    "wof:lastmodified":1466210945,
     "wof:name":"Anton Dellai Baugesch\u00e4ft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.531281,47.340431,9.531281,47.340431],
+  "bbox": [
+    9.531281,
+    47.340431,
+    9.531281,
+    47.340431
+],
   "geometry": {"coordinates":[9.531281,47.340431],"type":"Point"}
 }

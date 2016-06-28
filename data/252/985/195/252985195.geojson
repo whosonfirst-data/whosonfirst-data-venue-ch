@@ -2,13 +2,14 @@
   "id": 252985195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.326104,47.465919,8.326104,47.465919",
     "geom:latitude":47.465919,
     "geom:longitude":8.326104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 90",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252985195,
-    "wof:lastmodified":1449005957,
+    "wof:lastmodified":1466211856,
     "wof:name":"Fust Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.326104,47.465919,8.326104,47.465919],
+  "bbox": [
+    8.326104,
+    47.465919,
+    8.326104,
+    47.465919
+],
   "geometry": {"coordinates":[8.326104,47.465919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203386661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.618755,47.499092,7.618755,47.499092",
     "geom:latitude":47.499092,
     "geom:longitude":7.618755,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neumattstrasse 62 4144 Arlesheim. Postfach 458",
     "sg:city":"Arlesheim",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203386661,
-    "wof:lastmodified":1449025938,
+    "wof:lastmodified":1466211391,
     "wof:name":"Dr.med.peter Kryl Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.618755,47.499092,7.618755,47.499092],
+  "bbox": [
+    7.618755,
+    47.499092,
+    7.618755,
+    47.499092
+],
   "geometry": {"coordinates":[7.618755,47.499092],"type":"Point"}
 }

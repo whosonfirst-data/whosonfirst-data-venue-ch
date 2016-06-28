@@ -2,13 +2,14 @@
   "id": 185830375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.201073,47.325375,8.201073,47.325375",
     "geom:latitude":47.325375,
     "geom:longitude":8.201073,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boniswilerstrasse 10",
     "sg:city":"Seengen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185830375,
-    "wof:lastmodified":1449006954,
+    "wof:lastmodified":1466209321,
     "wof:name":"Oskar Bereuter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [8.201073,47.325375,8.201073,47.325375],
+  "bbox": [
+    8.201073,
+    47.325375,
+    8.201073,
+    47.325375
+],
   "geometry": {"coordinates":[8.201073,47.325375],"type":"Point"}
 }

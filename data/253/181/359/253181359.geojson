@@ -2,13 +2,14 @@
   "id": 253181359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.111444,46.768681,10.111444,46.768681",
     "geom:latitude":46.768681,
     "geom:longitude":10.111444,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7543",
     "sg:city":"Lavin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253181359,
-    "wof:lastmodified":1449064622,
+    "wof:lastmodified":1466210852,
     "wof:name":"Giacometti Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.111444,46.768681,10.111444,46.768681],
+  "bbox": [
+    10.111444,
+    46.768681,
+    10.111444,
+    46.768681
+],
   "geometry": {"coordinates":[10.111444,46.768681],"type":"Point"}
 }

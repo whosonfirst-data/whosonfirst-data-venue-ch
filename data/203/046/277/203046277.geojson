@@ -2,13 +2,14 @@
   "id": 203046277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545167,47.385674,8.545167,47.385674",
     "geom:latitude":47.385674,
     "geom:longitude":8.545167,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scheuchzerstrasse 47",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203046277,
-    "wof:lastmodified":1449025997,
+    "wof:lastmodified":1466210097,
     "wof:name":"Menn & Salis Architekturb\u00fcro",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545167,47.385674,8.545167,47.385674],
+  "bbox": [
+    8.545167,
+    47.385674,
+    8.545167,
+    47.385674
+],
   "geometry": {"coordinates":[8.545167,47.385674],"type":"Point"}
 }

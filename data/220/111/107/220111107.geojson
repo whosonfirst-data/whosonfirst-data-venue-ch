@@ -2,13 +2,14 @@
   "id": 220111107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.818525,47.344967,8.818525,47.344967",
     "geom:latitude":47.344967,
     "geom:longitude":8.818525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wetzikerstrasse 114",
     "sg:city":"Hittnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220111107,
-    "wof:lastmodified":1449074896,
+    "wof:lastmodified":1466209833,
     "wof:name":"Krauer Ernst Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.818525,47.344967,8.818525,47.344967],
+  "bbox": [
+    8.818525,
+    47.344967,
+    8.818525,
+    47.344967
+],
   "geometry": {"coordinates":[8.818525,47.344967],"type":"Point"}
 }

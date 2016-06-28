@@ -2,13 +2,14 @@
   "id": 219742843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.998208,47.463284,8.998208,47.463284",
     "geom:latitude":47.463284,
     "geom:longitude":8.998208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frauenfelder Str. 5",
     "sg:city":"Sirnach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219742843,
-    "wof:lastmodified":1449070614,
+    "wof:lastmodified":1466212347,
     "wof:name":"Thurgauer Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.998208,47.463284,8.998208,47.463284],
+  "bbox": [
+    8.998208,
+    47.463284,
+    8.998208,
+    47.463284
+],
   "geometry": {"coordinates":[8.998208,47.463284],"type":"Point"}
 }

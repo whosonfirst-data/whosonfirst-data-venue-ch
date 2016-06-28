@@ -2,13 +2,14 @@
   "id": 219248537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.272771,47.022854,7.272771,47.022854",
     "geom:latitude":47.022854,
     "geom:longitude":7.272771,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarbergstrasse 10",
     "sg:city":"Radelfingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219248537,
-    "wof:lastmodified":1449072314,
+    "wof:lastmodified":1466211519,
     "wof:name":"Abc-garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.272771,47.022854,7.272771,47.022854],
+  "bbox": [
+    7.272771,
+    47.022854,
+    7.272771,
+    47.022854
+],
   "geometry": {"coordinates":[7.272771,47.022854],"type":"Point"}
 }

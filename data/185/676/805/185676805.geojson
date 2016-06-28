@@ -2,13 +2,14 @@
   "id": 185676805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.547106,47.320587,8.547106,47.320587",
     "geom:latitude":47.320587,
     "geom:longitude":8.547106,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 10 6300 Zug. Postfach 724",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185676805,
-    "wof:lastmodified":1449007625,
+    "wof:lastmodified":1466210871,
     "wof:name":"Andreas Gantner Advokaturb\u00fcro",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.547106,47.320587,8.547106,47.320587],
+  "bbox": [
+    8.547106,
+    47.320587,
+    8.547106,
+    47.320587
+],
   "geometry": {"coordinates":[8.547106,47.320587],"type":"Point"}
 }

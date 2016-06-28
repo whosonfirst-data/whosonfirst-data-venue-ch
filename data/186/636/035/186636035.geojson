@@ -2,13 +2,14 @@
   "id": 186636035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606357,47.527672,7.606357,47.527672",
     "geom:latitude":47.527672,
     "geom:longitude":7.606357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankfurtstrasse 76 4142 M\u00fcnchenstein. Postfach",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186636035,
-    "wof:lastmodified":1449051432,
+    "wof:lastmodified":1466212149,
     "wof:name":"Arca Cavegn Reto Architekturb\u00fcro Cad/3d",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.606357,47.527672,7.606357,47.527672],
+  "bbox": [
+    7.606357,
+    47.527672,
+    7.606357,
+    47.527672
+],
   "geometry": {"coordinates":[7.606357,47.527672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220181785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.933329,46.067173,8.933329,46.067173",
     "geom:latitude":46.067173,
     "geom:longitude":8.933329,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rainedo",
     "sg:city":"Taverne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220181785,
-    "wof:lastmodified":1449074526,
+    "wof:lastmodified":1466210431,
     "wof:name":"Giuseppe Gerna Falegnameria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.933329,46.067173,8.933329,46.067173],
+  "bbox": [
+    8.933329,
+    46.067173,
+    8.933329,
+    46.067173
+],
   "geometry": {"coordinates":[8.933329,46.067173],"type":"Point"}
 }

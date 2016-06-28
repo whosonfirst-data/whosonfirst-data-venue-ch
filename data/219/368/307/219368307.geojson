@@ -2,13 +2,14 @@
   "id": 219368307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525264,47.309647,8.525264,47.309647",
     "geom:latitude":47.309647,
     "geom:longitude":8.525264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebweg 3",
     "sg:city":"Adliswil",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219368307,
-    "wof:lastmodified":1449071204,
+    "wof:lastmodified":1466209854,
     "wof:name":"Jakob Brauchli Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [8.525264,47.309647,8.525264,47.309647],
+  "bbox": [
+    8.525264,
+    47.309647,
+    8.525264,
+    47.309647
+],
   "geometry": {"coordinates":[8.525264,47.309647],"type":"Point"}
 }

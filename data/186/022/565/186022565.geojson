@@ -2,13 +2,14 @@
   "id": 186022565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.45591,47.360161,8.45591,47.360161",
     "geom:latitude":47.360161,
     "geom:longitude":8.45591,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00e4rd\u00f6pfuhoger 17 4812 M\u00fchlethal. Postfach",
     "sg:city":"M\u00fchlethal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186022565,
-    "wof:lastmodified":1449051284,
+    "wof:lastmodified":1466209619,
     "wof:name":"Besier + Stutz Ag, Zweigniederlassung Uitikon.",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.45591,47.360161,8.45591,47.360161],
+  "bbox": [
+    8.45591,
+    47.360161,
+    8.45591,
+    47.360161
+],
   "geometry": {"coordinates":[8.45591,47.360161],"type":"Point"}
 }

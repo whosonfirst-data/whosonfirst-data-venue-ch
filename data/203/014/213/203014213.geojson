@@ -2,13 +2,14 @@
   "id": 203014213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.795914,47.553642,7.795914,47.553642",
     "geom:latitude":47.553642,
     "geom:longitude":7.795914,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gottesackerweg 4",
     "sg:city":"Rheinfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203014213,
-    "wof:lastmodified":1449025848,
+    "wof:lastmodified":1466209507,
     "wof:name":"Hirt & Sprenger Architekten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.795914,47.553642,7.795914,47.553642],
+  "bbox": [
+    7.795914,
+    47.553642,
+    7.795914,
+    47.553642
+],
   "geometry": {"coordinates":[7.795914,47.553642],"type":"Point"}
 }

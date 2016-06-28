@@ -2,13 +2,14 @@
   "id": 185772353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.362155,46.231895,7.362155,46.231895",
     "geom:latitude":46.231895,
     "geom:longitude":7.362155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Goldgasse 3 4710 Balsthal. Postfach 229",
     "sg:city":"Balsthal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185772353,
-    "wof:lastmodified":1449007337,
+    "wof:lastmodified":1466208929,
     "wof:name":"Fran\u00e7ois Pfefferl\u00e9 Etude D'avocat & Notaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.362155,46.231895,7.362155,46.231895],
+  "bbox": [
+    7.362155,
+    46.231895,
+    7.362155,
+    46.231895
+],
   "geometry": {"coordinates":[7.362155,46.231895],"type":"Point"}
 }

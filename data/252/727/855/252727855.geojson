@@ -2,13 +2,14 @@
   "id": 252727855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.768525,46.49279,6.768525,46.49279",
     "geom:latitude":46.49279,
     "geom:longitude":6.768525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Verney 1070 Puidoux. Postfach",
     "sg:city":"Puidoux-gare",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252727855,
-    "wof:lastmodified":1449005570,
+    "wof:lastmodified":1466209120,
     "wof:name":"Oenovin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.768525,46.49279,6.768525,46.49279],
+  "bbox": [
+    6.768525,
+    46.49279,
+    6.768525,
+    46.49279
+],
   "geometry": {"coordinates":[6.768525,46.49279],"type":"Point"}
 }

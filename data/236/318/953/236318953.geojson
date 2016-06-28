@@ -2,13 +2,14 @@
   "id": 236318953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.513462,47.412048,8.513462,47.412048",
     "geom:latitude":47.412048,
     "geom:longitude":8.513462,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Glaubtenstrasse 96 8000 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236318953,
-    "wof:lastmodified":1449002224,
+    "wof:lastmodified":1466211850,
     "wof:name":"Taxi Deng Gmbh",
     "wof:parent_id":85800071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.513462,47.412048,8.513462,47.412048],
+  "bbox": [
+    8.513462,
+    47.412048,
+    8.513462,
+    47.412048
+],
   "geometry": {"coordinates":[8.513462,47.412048],"type":"Point"}
 }

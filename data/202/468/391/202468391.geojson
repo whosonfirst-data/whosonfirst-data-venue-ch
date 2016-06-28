@@ -2,13 +2,14 @@
   "id": 202468391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155084,46.79483,7.155084,46.79483",
     "geom:latitude":46.79483,
     "geom:longitude":7.155084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaiser Rue Wilhelm- 9 1700 Fribourg Case Postale 62",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202468391,
-    "wof:lastmodified":1449061916,
+    "wof:lastmodified":1466211034,
     "wof:name":"Dmt Travaux Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155084,46.79483,7.155084,46.79483],
+  "bbox": [
+    7.155084,
+    46.79483,
+    7.155084,
+    46.79483
+],
   "geometry": {"coordinates":[7.155084,46.79483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185641007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.367717,47.423531,9.367717,47.423531",
     "geom:latitude":47.423531,
     "geom:longitude":9.367717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fluhm\u00fchlerain 12",
     "sg:city":"Reussb\u00fchl",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185641007,
-    "wof:lastmodified":1449007843,
+    "wof:lastmodified":1466211659,
     "wof:name":"Bpr Communications Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [9.367717,47.423531,9.367717,47.423531],
+  "bbox": [
+    9.367717,
+    47.423531,
+    9.367717,
+    47.423531
+],
   "geometry": {"coordinates":[9.367717,47.423531],"type":"Point"}
 }

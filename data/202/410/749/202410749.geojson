@@ -2,13 +2,14 @@
   "id": 202410749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.303215,47.057129,8.303215,47.057129",
     "geom:latitude":47.057129,
     "geom:longitude":8.303215,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brambergstrasse 22",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202410749,
-    "wof:lastmodified":1449060141,
+    "wof:lastmodified":1466209877,
     "wof:name":"Binnenkade Ingenieurb\u00fcro",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.303215,47.057129,8.303215,47.057129],
+  "bbox": [
+    8.303215,
+    47.057129,
+    8.303215,
+    47.057129
+],
   "geometry": {"coordinates":[8.303215,47.057129],"type":"Point"}
 }

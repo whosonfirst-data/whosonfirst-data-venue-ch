@@ -2,13 +2,14 @@
   "id": 236654507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.569063,46.845142,7.569063,46.845142",
     "geom:latitude":46.845142,
     "geom:longitude":7.569063,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seilereistrasse 19",
     "sg:city":"Wichtrach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236654507,
-    "wof:lastmodified":1449002612,
+    "wof:lastmodified":1466212812,
     "wof:name":"Urs Bernhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.569063,46.845142,7.569063,46.845142],
+  "bbox": [
+    7.569063,
+    46.845142,
+    7.569063,
+    46.845142
+],
   "geometry": {"coordinates":[7.569063,46.845142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252800243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.767049,47.43211,8.767049,47.43211",
     "geom:latitude":47.43211,
     "geom:longitude":8.767049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lendikerstrasse 15",
     "sg:city":"Weisslingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252800243,
-    "wof:lastmodified":1449005496,
+    "wof:lastmodified":1466209916,
     "wof:name":"Max Denzler Antike Uhren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.767049,47.43211,8.767049,47.43211],
+  "bbox": [
+    8.767049,
+    47.43211,
+    8.767049,
+    47.43211
+],
   "geometry": {"coordinates":[8.767049,47.43211],"type":"Point"}
 }

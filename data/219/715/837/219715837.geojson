@@ -2,13 +2,14 @@
   "id": 219715837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.610845,47.488766,7.610845,47.488766",
     "geom:latitude":47.488766,
     "geom:longitude":7.610845,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Amthausstrasse",
     "sg:city":"Dornach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219715837,
-    "wof:lastmodified":1449073220,
+    "wof:lastmodified":1466212151,
     "wof:name":"Solothurner Bank",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.610845,47.488766,7.610845,47.488766],
+  "bbox": [
+    7.610845,
+    47.488766,
+    7.610845,
+    47.488766
+],
   "geometry": {"coordinates":[7.610845,47.488766],"type":"Point"}
 }

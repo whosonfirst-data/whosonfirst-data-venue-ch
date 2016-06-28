@@ -2,13 +2,14 @@
   "id": 203243095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.591273,47.215187,7.591273,47.215187",
     "geom:latitude":47.215187,
     "geom:longitude":7.591273,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Affolterstrasse 24",
     "sg:city":"Luterbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203243095,
-    "wof:lastmodified":1449025535,
+    "wof:lastmodified":1466209943,
     "wof:name":"Dr.med. Christian Ehrler Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.591273,47.215187,7.591273,47.215187],
+  "bbox": [
+    7.591273,
+    47.215187,
+    7.591273,
+    47.215187
+],
   "geometry": {"coordinates":[7.591273,47.215187],"type":"Point"}
 }

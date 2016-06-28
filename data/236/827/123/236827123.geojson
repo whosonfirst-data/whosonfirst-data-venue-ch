@@ -2,13 +2,14 @@
   "id": 236827123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.443792,46.959156,7.443792,46.959156",
     "geom:latitude":46.959156,
     "geom:longitude":7.443792,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jurastrasse 26",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236827123,
-    "wof:lastmodified":1449002702,
+    "wof:lastmodified":1466212920,
     "wof:name":"Fankhauser Ag, Bedachungen",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.443792,46.959156,7.443792,46.959156],
+  "bbox": [
+    7.443792,
+    46.959156,
+    7.443792,
+    46.959156
+],
   "geometry": {"coordinates":[7.443792,46.959156],"type":"Point"}
 }

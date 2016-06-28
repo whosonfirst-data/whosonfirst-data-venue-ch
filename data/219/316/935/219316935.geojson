@@ -2,13 +2,14 @@
   "id": 219316935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.803505,47.441952,8.803505,47.441952",
     "geom:latitude":47.441952,
     "geom:longitude":8.803505,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birmensdorferstrasse 484",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219316935,
-    "wof:lastmodified":1449072780,
+    "wof:lastmodified":1466209407,
     "wof:name":"T\u00f6sstal-garage Rikon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.803505,47.441952,8.803505,47.441952],
+  "bbox": [
+    8.803505,
+    47.441952,
+    8.803505,
+    47.441952
+],
   "geometry": {"coordinates":[8.803505,47.441952],"type":"Point"}
 }

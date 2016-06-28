@@ -2,13 +2,14 @@
   "id": 220045161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.463796,46.949959,7.463796,46.949959",
     "geom:latitude":46.949959,
     "geom:longitude":7.463796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laubeggstrasse 36",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220045161,
-    "wof:lastmodified":1449074779,
+    "wof:lastmodified":1466209266,
     "wof:name":"Walter Ulrich Schreinerei",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.463796,46.949959,7.463796,46.949959],
+  "bbox": [
+    7.463796,
+    46.949959,
+    7.463796,
+    46.949959
+],
   "geometry": {"coordinates":[7.463796,46.949959],"type":"Point"}
 }

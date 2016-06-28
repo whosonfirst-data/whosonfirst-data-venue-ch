@@ -2,13 +2,14 @@
   "id": 252815955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.950441,46.006203,8.950441,46.006203",
     "geom:latitude":46.006203,
     "geom:longitude":8.950441,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Peri 21a",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252815955,
-    "wof:lastmodified":1449005940,
+    "wof:lastmodified":1466210080,
     "wof:name":"Boutique Orchidea Di Margaretha Geser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.950441,46.006203,8.950441,46.006203],
+  "bbox": [
+    8.950441,
+    46.006203,
+    8.950441,
+    46.006203
+],
   "geometry": {"coordinates":[8.950441,46.006203],"type":"Point"}
 }

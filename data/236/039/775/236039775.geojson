@@ -2,13 +2,14 @@
   "id": 236039775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.534615,47.140289,7.534615,47.140289",
     "geom:latitude":47.140289,
     "geom:longitude":7.534615,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chrometweg 9",
     "sg:city":"Kr\u00e4iligen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236039775,
-    "wof:lastmodified":1449004753,
+    "wof:lastmodified":1466209241,
     "wof:name":"Werner Leuenberger Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.534615,47.140289,7.534615,47.140289],
+  "bbox": [
+    7.534615,
+    47.140289,
+    7.534615,
+    47.140289
+],
   "geometry": {"coordinates":[7.534615,47.140289],"type":"Point"}
 }

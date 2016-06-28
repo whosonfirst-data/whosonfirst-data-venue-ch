@@ -2,13 +2,14 @@
   "id": 203300461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436637,46.93552,7.436637,46.93552",
     "geom:latitude":46.93552,
     "geom:longitude":7.436637,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Monbijoustrasse 130",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203300461,
-    "wof:lastmodified":1449026021,
+    "wof:lastmodified":1466210540,
     "wof:name":"Dr.med.daniel K\u00fcng Spezialarzt Fmh",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436637,46.93552,7.436637,46.93552],
+  "bbox": [
+    7.436637,
+    46.93552,
+    7.436637,
+    46.93552
+],
   "geometry": {"coordinates":[7.436637,46.93552],"type":"Point"}
 }

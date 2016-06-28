@@ -2,13 +2,14 @@
   "id": 236245377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.504913,46.515366,6.504913,46.515366",
     "geom:latitude":46.515366,
     "geom:longitude":6.504913,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Lausanne 54",
     "sg:city":"Morges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236245377,
-    "wof:lastmodified":1449005117,
+    "wof:lastmodified":1466211316,
     "wof:name":"Nimbe-musique, Kneuss C.",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.504913,46.515366,6.504913,46.515366],
+  "bbox": [
+    6.504913,
+    46.515366,
+    6.504913,
+    46.515366
+],
   "geometry": {"coordinates":[6.504913,46.515366],"type":"Point"}
 }

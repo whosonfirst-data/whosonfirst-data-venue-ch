@@ -2,13 +2,14 @@
   "id": 202800767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.210894,47.333256,7.210894,47.333256",
     "geom:latitude":47.333256,
     "geom:longitude":7.210894,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Raisse 28 2855 Glovelier. Postfach",
     "sg:city":"Glovelier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202800767,
-    "wof:lastmodified":1449060312,
+    "wof:lastmodified":1466211526,
     "wof:name":"Atelier D'architecture Le Ch\u00e9sal, Montavon Alain, Loviat Laurent Et Chapatte Pierre Atelier D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.210894,47.333256,7.210894,47.333256],
+  "bbox": [
+    7.210894,
+    47.333256,
+    7.210894,
+    47.333256
+],
   "geometry": {"coordinates":[7.210894,47.333256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253355155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.057775,46.619259,7.057775,46.619259",
     "geom:latitude":46.619259,
     "geom:longitude":7.057775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Promenade 33",
     "sg:city":"Bulle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253355155,
-    "wof:lastmodified":1449063641,
+    "wof:lastmodified":1466212111,
     "wof:name":"Kiosque De La Promenade, Rime Michel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.057775,46.619259,7.057775,46.619259],
+  "bbox": [
+    7.057775,
+    46.619259,
+    7.057775,
+    46.619259
+],
   "geometry": {"coordinates":[7.057775,46.619259],"type":"Point"}
 }

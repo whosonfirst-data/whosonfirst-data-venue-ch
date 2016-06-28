@@ -2,13 +2,14 @@
   "id": 219455367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53955,47.37706,8.53955,47.37706",
     "geom:latitude":47.37706,
     "geom:longitude":8.53955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnsterhof 17/ K\u00e4mbelgasse 6 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219455367,
-    "wof:lastmodified":1449073349,
+    "wof:lastmodified":1466210688,
     "wof:name":"Mirabaud & Cie, Zweigniederlassung Z\u00fcrich",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53955,47.37706,8.53955,47.37706],
+  "bbox": [
+    8.53955,
+    47.37706,
+    8.53955,
+    47.37706
+],
   "geometry": {"coordinates":[8.53955,47.37706],"type":"Point"}
 }

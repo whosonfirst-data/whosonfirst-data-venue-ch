@@ -2,13 +2,14 @@
   "id": 253384125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.558531,47.404358,8.558531,47.404358",
     "geom:latitude":47.404358,
     "geom:longitude":8.558531,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schwamendingenstrasse 118",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253384125,
-    "wof:lastmodified":1449063192,
+    "wof:lastmodified":1466212219,
     "wof:name":"Bolliger & Co, B\u00fcromaschinen",
     "wof:parent_id":85800509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.558531,47.404358,8.558531,47.404358],
+  "bbox": [
+    8.558531,
+    47.404358,
+    8.558531,
+    47.404358
+],
   "geometry": {"coordinates":[8.558531,47.404358],"type":"Point"}
 }

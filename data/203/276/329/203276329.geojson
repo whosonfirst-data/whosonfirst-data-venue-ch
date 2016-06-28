@@ -2,13 +2,14 @@
   "id": 203276329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.271306,47.089066,8.271306,47.089066",
     "geom:latitude":47.089066,
     "geom:longitude":8.271306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlematt 12",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203276329,
-    "wof:lastmodified":1449025021,
+    "wof:lastmodified":1466210292,
     "wof:name":"Dr.med.anna K\u00f6r\u00f6si Aerztin F.allgemeine Medizin",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.271306,47.089066,8.271306,47.089066],
+  "bbox": [
+    8.271306,
+    47.089066,
+    8.271306,
+    47.089066
+],
   "geometry": {"coordinates":[8.271306,47.089066],"type":"Point"}
 }

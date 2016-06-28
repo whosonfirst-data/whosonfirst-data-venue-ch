@@ -2,13 +2,14 @@
   "id": 219298373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.157995,47.222176,8.157995,47.222176",
     "geom:latitude":47.222176,
     "geom:longitude":8.157995,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langenthalstrasse 57",
     "sg:city":"Lotzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219298373,
-    "wof:lastmodified":1449071362,
+    "wof:lastmodified":1466209228,
     "wof:name":"Marcel Burkart Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.157995,47.222176,8.157995,47.222176],
+  "bbox": [
+    8.157995,
+    47.222176,
+    8.157995,
+    47.222176
+],
   "geometry": {"coordinates":[8.157995,47.222176],"type":"Point"}
 }

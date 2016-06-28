@@ -2,13 +2,14 @@
   "id": 202761317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.400531,47.427544,8.400531,47.427544",
     "geom:latitude":47.427544,
     "geom:longitude":8.400531,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reservoirstrasse 11",
     "sg:city":"Oetwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202761317,
-    "wof:lastmodified":1449062053,
+    "wof:lastmodified":1466211166,
     "wof:name":"Walter Kuhn, Dipl. Bauing. Eth/sia, Beratender Ingenieur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.400531,47.427544,8.400531,47.427544],
+  "bbox": [
+    8.400531,
+    47.427544,
+    8.400531,
+    47.427544
+],
   "geometry": {"coordinates":[8.400531,47.427544],"type":"Point"}
 }

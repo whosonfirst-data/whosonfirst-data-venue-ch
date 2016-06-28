@@ -2,13 +2,14 @@
   "id": 202631721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.910461,46.432613,6.910461,46.432613",
     "geom:latitude":46.432613,
     "geom:longitude":6.910461,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand Rue 16",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202631721,
-    "wof:lastmodified":1449060901,
+    "wof:lastmodified":1466209955,
     "wof:name":"Meylan, Bernard, Ing\u00e9nieur",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.910461,46.432613,6.910461,46.432613],
+  "bbox": [
+    6.910461,
+    46.432613,
+    6.910461,
+    46.432613
+],
   "geometry": {"coordinates":[6.910461,46.432613],"type":"Point"}
 }

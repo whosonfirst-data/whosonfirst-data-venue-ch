@@ -2,13 +2,14 @@
   "id": 169607333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.31121,46.983139,8.31121,46.983139",
     "geom:latitude":46.983139,
     "geom:longitude":8.31121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Hergiswil",
     "sg:classifiers":[],
     "sg:orig_category":"Reisen, Unterk\u00fcnfte",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169607333,
-    "wof:lastmodified":1449033124,
+    "wof:lastmodified":1466209197,
     "wof:name":"Seehotel Pilatus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.31121,46.983139,8.31121,46.983139],
+  "bbox": [
+    8.31121,
+    46.983139,
+    8.31121,
+    46.983139
+],
   "geometry": {"coordinates":[8.31121,46.983139],"type":"Point"}
 }

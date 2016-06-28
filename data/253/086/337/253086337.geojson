@@ -2,13 +2,14 @@
   "id": 253086337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.663233,47.717468,8.663233,47.717468",
     "geom:latitude":47.717468,
     "geom:longitude":8.663233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gennersbrunnerstrasse 61 8207 Schaffhausen. Postfach 1020",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253086337,
-    "wof:lastmodified":1449064820,
+    "wof:lastmodified":1466209776,
     "wof:name":"Landwirtschaftlicher Genossenschaftsverband Schaffhausen (gvs)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.663233,47.717468,8.663233,47.717468],
+  "bbox": [
+    8.663233,
+    47.717468,
+    8.663233,
+    47.717468
+],
   "geometry": {"coordinates":[8.663233,47.717468],"type":"Point"}
 }

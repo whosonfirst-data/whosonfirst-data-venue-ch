@@ -2,13 +2,14 @@
   "id": 220015185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.711865,46.996941,7.711865,46.996941",
     "geom:latitude":46.996941,
     "geom:longitude":7.711865,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langnaustrasse",
     "sg:city":"Ramsei",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220015185,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466209009,
     "wof:name":"Hans Eggimann Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.711865,46.996941,7.711865,46.996941],
+  "bbox": [
+    7.711865,
+    46.996941,
+    7.711865,
+    46.996941
+],
   "geometry": {"coordinates":[7.711865,46.996941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252988909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.279944,47.033604,8.279944,47.033604",
     "geom:latitude":47.033604,
     "geom:longitude":8.279944,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gallusstrasse 3 6010 Kriens. Postfach 75",
     "sg:city":"Kriens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252988909,
-    "wof:lastmodified":1449005778,
+    "wof:lastmodified":1466211989,
     "wof:name":"Eisen-meier",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.279944,47.033604,8.279944,47.033604],
+  "bbox": [
+    8.279944,
+    47.033604,
+    8.279944,
+    47.033604
+],
   "geometry": {"coordinates":[8.279944,47.033604],"type":"Point"}
 }

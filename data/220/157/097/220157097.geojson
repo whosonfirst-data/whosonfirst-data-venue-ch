@@ -2,13 +2,14 @@
   "id": 220157097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048332,46.992645,8.048332,46.992645",
     "geom:latitude":46.992645,
     "geom:longitude":8.048332,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldeggweg 21",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220157097,
-    "wof:lastmodified":1449074761,
+    "wof:lastmodified":1466210222,
     "wof:name":"Wespi Urs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.048332,46.992645,8.048332,46.992645],
+  "bbox": [
+    8.048332,
+    46.992645,
+    8.048332,
+    46.992645
+],
   "geometry": {"coordinates":[8.048332,46.992645],"type":"Point"}
 }

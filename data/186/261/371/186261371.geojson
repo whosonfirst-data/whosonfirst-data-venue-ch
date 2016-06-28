@@ -2,13 +2,14 @@
   "id": 186261371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.987016,46.310333,7.987016,46.310333",
     "geom:latitude":46.310333,
     "geom:longitude":7.987016,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuweg 13",
     "sg:city":"Glis",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186261371,
-    "wof:lastmodified":1449050304,
+    "wof:lastmodified":1466209560,
     "wof:name":"Fux Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.987016,46.310333,7.987016,46.310333],
+  "bbox": [
+    7.987016,
+    46.310333,
+    7.987016,
+    46.310333
+],
   "geometry": {"coordinates":[7.987016,46.310333],"type":"Point"}
 }

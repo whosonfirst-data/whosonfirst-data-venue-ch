@@ -2,13 +2,14 @@
   "id": 236813457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.738324,46.65242,6.738324,46.65242",
     "geom:latitude":46.65242,
     "geom:longitude":6.738324,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Solitude",
     "sg:city":"Sottens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236813457,
-    "wof:lastmodified":1449002316,
+    "wof:lastmodified":1466212912,
     "wof:name":"Jutzi Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.738324,46.65242,6.738324,46.65242],
+  "bbox": [
+    6.738324,
+    46.65242,
+    6.738324,
+    46.65242
+],
   "geometry": {"coordinates":[6.738324,46.65242],"type":"Point"}
 }

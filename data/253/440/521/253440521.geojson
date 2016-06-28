@@ -2,13 +2,14 @@
   "id": 253440521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.851558,47.192337,8.851558,47.192337",
     "geom:latitude":47.192337,
     "geom:longitude":8.851558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 18/20 3011 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253440521,
-    "wof:lastmodified":1449063879,
+    "wof:lastmodified":1466212456,
     "wof:name":"Sch\u00f6chlin Mode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.851558,47.192337,8.851558,47.192337],
+  "bbox": [
+    8.851558,
+    47.192337,
+    8.851558,
+    47.192337
+],
   "geometry": {"coordinates":[8.851558,47.192337],"type":"Point"}
 }

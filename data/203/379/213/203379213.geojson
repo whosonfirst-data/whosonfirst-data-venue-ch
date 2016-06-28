@@ -2,13 +2,14 @@
   "id": 203379213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.186431,47.643085,9.186431,47.643085",
     "geom:latitude":47.643085,
     "geom:longitude":9.186431,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rebenstrasse 26",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203379213,
-    "wof:lastmodified":1449026040,
+    "wof:lastmodified":1466211319,
     "wof:name":"Dr.med.martin Butscher Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.186431,47.643085,9.186431,47.643085],
+  "bbox": [
+    9.186431,
+    47.643085,
+    9.186431,
+    47.643085
+],
   "geometry": {"coordinates":[9.186431,47.643085],"type":"Point"}
 }

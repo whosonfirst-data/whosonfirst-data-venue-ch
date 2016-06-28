@@ -2,13 +2,14 @@
   "id": 186085229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.950779,46.250553,6.950779,46.250553",
     "geom:latitude":46.250553,
     "geom:longitude":6.950779,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Marquisat 5",
     "sg:city":"Monthey",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186085229,
-    "wof:lastmodified":1449051066,
+    "wof:lastmodified":1466211674,
     "wof:name":"Giamboni Emile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.950779,46.250553,6.950779,46.250553],
+  "bbox": [
+    6.950779,
+    46.250553,
+    6.950779,
+    46.250553
+],
   "geometry": {"coordinates":[6.950779,46.250553],"type":"Point"}
 }

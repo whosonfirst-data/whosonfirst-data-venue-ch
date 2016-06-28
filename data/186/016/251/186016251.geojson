@@ -2,13 +2,14 @@
   "id": 186016251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525151,46.990788,8.525151,46.990788",
     "geom:latitude":46.990788,
     "geom:longitude":8.525151,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00f6hnenberg 6442 Gersau. Postfach",
     "sg:city":"Gersau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186016251,
-    "wof:lastmodified":1449050879,
+    "wof:lastmodified":1466209518,
     "wof:name":"Bauguet Gmbh Bau- U. Planungsunternehmung F\u00fcr Hoch- U. Teifbau Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525151,46.990788,8.525151,46.990788],
+  "bbox": [
+    8.525151,
+    46.990788,
+    8.525151,
+    46.990788
+],
   "geometry": {"coordinates":[8.525151,46.990788],"type":"Point"}
 }

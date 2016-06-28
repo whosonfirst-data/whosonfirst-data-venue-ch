@@ -2,13 +2,14 @@
   "id": 219256815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.670767,47.515507,8.670767,47.515507",
     "geom:latitude":47.515507,
     "geom:longitude":8.670767,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wydenweg",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219256815,
-    "wof:lastmodified":1449073088,
+    "wof:lastmodified":1466211605,
     "wof:name":"Bahnhof-garage Emil Frei Inh.heinz & Rolf Frei",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.670767,47.515507,8.670767,47.515507],
+  "bbox": [
+    8.670767,
+    47.515507,
+    8.670767,
+    47.515507
+],
   "geometry": {"coordinates":[8.670767,47.515507],"type":"Point"}
 }

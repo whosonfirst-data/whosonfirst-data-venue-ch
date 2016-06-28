@@ -2,13 +2,14 @@
   "id": 185673817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.484058,47.390339,8.484058,47.390339",
     "geom:latitude":47.390339,
     "geom:longitude":8.484058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachmattstrasse 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185673817,
-    "wof:lastmodified":1449007241,
+    "wof:lastmodified":1466210796,
     "wof:name":"Advokatur Schmid&partner",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.484058,47.390339,8.484058,47.390339],
+  "bbox": [
+    8.484058,
+    47.390339,
+    8.484058,
+    47.390339
+],
   "geometry": {"coordinates":[8.484058,47.390339],"type":"Point"}
 }

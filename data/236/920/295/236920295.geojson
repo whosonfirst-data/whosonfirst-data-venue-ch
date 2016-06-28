@@ -2,13 +2,14 @@
   "id": 236920295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.855688,46.966415,6.855688,46.966415",
     "geom:latitude":46.966415,
     "geom:longitude":6.855688,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Pierre-fatio 15",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236920295,
-    "wof:lastmodified":1449004344,
+    "wof:lastmodified":1466212988,
     "wof:name":"Unicible",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.855688,46.966415,6.855688,46.966415],
+  "bbox": [
+    6.855688,
+    46.966415,
+    6.855688,
+    46.966415
+],
   "geometry": {"coordinates":[6.855688,46.966415],"type":"Point"}
 }

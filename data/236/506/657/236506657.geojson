@@ -2,13 +2,14 @@
   "id": 236506657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.130253,46.246429,10.130253,46.246429",
     "geom:latitude":46.246429,
     "geom:longitude":10.130253,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Maestra-carlin 215",
     "sg:city":"Campascio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236506657,
-    "wof:lastmodified":1449001732,
+    "wof:lastmodified":1466212533,
     "wof:name":"Mario Compagnoni Giardiniere & Fiorista",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.130253,46.246429,10.130253,46.246429],
+  "bbox": [
+    10.130253,
+    46.246429,
+    10.130253,
+    46.246429
+],
   "geometry": {"coordinates":[10.130253,46.246429],"type":"Point"}
 }

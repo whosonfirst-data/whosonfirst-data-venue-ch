@@ -2,13 +2,14 @@
   "id": 186080809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.476895,46.935394,7.476895,46.935394",
     "geom:latitude":46.935394,
     "geom:longitude":7.476895,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunantstrasse 27 3006 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186080809,
-    "wof:lastmodified":1449052964,
+    "wof:lastmodified":1466210548,
     "wof:name":"Gebr. Merz Ag G\u00fcmligen Baugesch\u00e4ft",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.476895,46.935394,7.476895,46.935394],
+  "bbox": [
+    7.476895,
+    46.935394,
+    7.476895,
+    46.935394
+],
   "geometry": {"coordinates":[7.476895,46.935394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236540465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390868,46.932133,8.390868,46.932133",
     "geom:latitude":46.932133,
     "geom:longitude":8.390868,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 2",
     "sg:city":"Dallenwil",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236540465,
-    "wof:lastmodified":1449002857,
+    "wof:lastmodified":1466212579,
     "wof:name":"Druckerei Odermatt Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [8.390868,46.932133,8.390868,46.932133],
+  "bbox": [
+    8.390868,
+    46.932133,
+    8.390868,
+    46.932133
+],
   "geometry": {"coordinates":[8.390868,46.932133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253128059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.140013,46.202534,6.140013,46.202534",
     "geom:latitude":46.202534,
     "geom:longitude":6.140013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard Georges-favon 18",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253128059,
-    "wof:lastmodified":1449063976,
+    "wof:lastmodified":1466210238,
     "wof:name":"A. Pouly",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.140013,46.202534,6.140013,46.202534],
+  "bbox": [
+    6.140013,
+    46.202534,
+    6.140013,
+    46.202534
+],
   "geometry": {"coordinates":[6.140013,46.202534],"type":"Point"}
 }

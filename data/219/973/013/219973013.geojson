@@ -2,13 +2,14 @@
   "id": 219973013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.760722,47.483559,8.760722,47.483559",
     "geom:latitude":47.483559,
     "geom:longitude":8.760722,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanzleistrasse 11 8405 Iberg (winterthur). Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219973013,
-    "wof:lastmodified":1449072506,
+    "wof:lastmodified":1466212653,
     "wof:name":"Schudel Partner Engineering Gmbh Haustechnikanlagen, Industrielle- U. Gewerbliche K\u00e4lteplanung Usw.; Planung, Fachkoordination",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.760722,47.483559,8.760722,47.483559],
+  "bbox": [
+    8.760722,
+    47.483559,
+    8.760722,
+    47.483559
+],
   "geometry": {"coordinates":[8.760722,47.483559],"type":"Point"}
 }

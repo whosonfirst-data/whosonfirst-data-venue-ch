@@ -2,13 +2,14 @@
   "id": 236748163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.437784,46.934841,7.437784,46.934841",
     "geom:latitude":46.934841,
     "geom:longitude":7.437784,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seftigenstrasse 83",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236748163,
-    "wof:lastmodified":1449004255,
+    "wof:lastmodified":1466212983,
     "wof:name":"Wirz Tapeten Ag",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clean-room"
     ]
 },
-  "bbox": [7.437784,46.934841,7.437784,46.934841],
+  "bbox": [
+    7.437784,
+    46.934841,
+    7.437784,
+    46.934841
+],
   "geometry": {"coordinates":[7.437784,46.934841],"type":"Point"}
 }

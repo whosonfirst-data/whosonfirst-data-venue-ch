@@ -2,13 +2,14 @@
   "id": 253352807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516387,47.171398,8.516387,47.171398",
     "geom:latitude":47.171398,
     "geom:longitude":8.516387,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 8",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253352807,
-    "wof:lastmodified":1449064628,
+    "wof:lastmodified":1466211996,
     "wof:name":"Papier & Tinte Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516387,47.171398,8.516387,47.171398],
+  "bbox": [
+    8.516387,
+    47.171398,
+    8.516387,
+    47.171398
+],
   "geometry": {"coordinates":[8.516387,47.171398],"type":"Point"}
 }

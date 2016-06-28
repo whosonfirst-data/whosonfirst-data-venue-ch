@@ -2,13 +2,14 @@
   "id": 202934867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.152354,46.182198,6.152354,46.182198",
     "geom:latitude":46.182198,
     "geom:longitude":6.152354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Charles-secr\u00e9tan 12",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202934867,
-    "wof:lastmodified":1449060228,
+    "wof:lastmodified":1466212272,
     "wof:name":"A. Gallay & J. Berger Bureau D'architecture",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.152354,46.182198,6.152354,46.182198],
+  "bbox": [
+    6.152354,
+    46.182198,
+    6.152354,
+    46.182198
+],
   "geometry": {"coordinates":[6.152354,46.182198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236043901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.445264,46.960102,7.445264,46.960102",
     "geom:latitude":46.960102,
     "geom:longitude":7.445264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberstrasse 24 8274 T\u00e4gerwilen. Postfach 50",
     "sg:city":"T\u00e4gerwilen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236043901,
-    "wof:lastmodified":1449004238,
+    "wof:lastmodified":1466209278,
     "wof:name":"B\u00f6hlen Ag",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.445264,46.960102,7.445264,46.960102],
+  "bbox": [
+    7.445264,
+    46.960102,
+    7.445264,
+    46.960102
+],
   "geometry": {"coordinates":[7.445264,46.960102],"type":"Point"}
 }

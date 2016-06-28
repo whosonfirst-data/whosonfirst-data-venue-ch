@@ -2,13 +2,14 @@
   "id": 202401571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.282817,47.31702,9.282817,47.31702",
     "geom:latitude":47.31702,
     "geom:longitude":9.282817,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorf 5 9107 Urn\u00e4sch. Postfach 127",
     "sg:city":"Urn\u00e4sch",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202401571,
-    "wof:lastmodified":1449062284,
+    "wof:lastmodified":1466209740,
     "wof:name":"Bauplanung B\u00f6sch Ernst Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.282817,47.31702,9.282817,47.31702],
+  "bbox": [
+    9.282817,
+    47.31702,
+    9.282817,
+    47.31702
+],
   "geometry": {"coordinates":[9.282817,47.31702],"type":"Point"}
 }

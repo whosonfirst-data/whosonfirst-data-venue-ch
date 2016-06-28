@@ -2,13 +2,14 @@
   "id": 186142939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.401169,47.204369,7.401169,47.204369",
     "geom:latitude":47.204369,
     "geom:longitude":7.401169,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 104",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186142939,
-    "wof:lastmodified":1449052476,
+    "wof:lastmodified":1466211390,
     "wof:name":"Marti Ag Grenchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.401169,47.204369,7.401169,47.204369],
+  "bbox": [
+    7.401169,
+    47.204369,
+    7.401169,
+    47.204369
+],
   "geometry": {"coordinates":[7.401169,47.204369],"type":"Point"}
 }

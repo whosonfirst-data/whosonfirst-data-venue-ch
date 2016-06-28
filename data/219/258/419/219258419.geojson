@@ -2,13 +2,14 @@
   "id": 219258419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.225713,47.107449,7.225713,47.107449",
     "geom:latitude":47.107449,
     "geom:longitude":7.225713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 5",
     "sg:city":"Bellmund",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219258419,
-    "wof:lastmodified":1449073212,
+    "wof:lastmodified":1466211615,
     "wof:name":"Bellmund Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.225713,47.107449,7.225713,47.107449],
+  "bbox": [
+    7.225713,
+    47.107449,
+    7.225713,
+    47.107449
+],
   "geometry": {"coordinates":[7.225713,47.107449],"type":"Point"}
 }

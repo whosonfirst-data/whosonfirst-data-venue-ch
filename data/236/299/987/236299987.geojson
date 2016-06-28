@@ -2,13 +2,14 @@
   "id": 236299987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.613642,46.536983,6.613642,46.536983",
     "geom:latitude":46.536983,
     "geom:longitude":6.613642,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Boisy 54",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236299987,
-    "wof:lastmodified":1449002309,
+    "wof:lastmodified":1466211858,
     "wof:name":"G\u00e9rard Ethenoz Taxi",
     "wof:parent_id":85862343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.613642,46.536983,6.613642,46.536983],
+  "bbox": [
+    6.613642,
+    46.536983,
+    6.613642,
+    46.536983
+],
   "geometry": {"coordinates":[6.613642,46.536983],"type":"Point"}
 }

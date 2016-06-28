@@ -2,13 +2,14 @@
   "id": 186612943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545286,47.414616,8.545286,47.414616",
     "geom:latitude":47.414616,
     "geom:longitude":8.545286,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 409",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186612943,
-    "wof:lastmodified":1449051561,
+    "wof:lastmodified":1466212134,
     "wof:name":"Syna - Die Gewerkschaft Regionalsekretariat",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545286,47.414616,8.545286,47.414616],
+  "bbox": [
+    8.545286,
+    47.414616,
+    8.545286,
+    47.414616
+],
   "geometry": {"coordinates":[8.545286,47.414616],"type":"Point"}
 }

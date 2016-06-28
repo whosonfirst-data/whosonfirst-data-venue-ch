@@ -2,13 +2,14 @@
   "id": 219936245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580395,47.449909,8.580395,47.449909",
     "geom:latitude":47.449909,
     "geom:longitude":8.580395,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obstgartenstrasse 8",
     "sg:city":"Kloten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219936245,
-    "wof:lastmodified":1449071574,
+    "wof:lastmodified":1466212692,
     "wof:name":"Fries Jos. Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580395,47.449909,8.580395,47.449909],
+  "bbox": [
+    8.580395,
+    47.449909,
+    8.580395,
+    47.449909
+],
   "geometry": {"coordinates":[8.580395,47.449909],"type":"Point"}
 }

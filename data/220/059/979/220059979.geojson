@@ -2,13 +2,14 @@
   "id": 220059979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4476,46.941814,7.4476,46.941814",
     "geom:latitude":46.941814,
     "geom:longitude":7.4476,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Archivstrasse 6",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220059979,
-    "wof:lastmodified":1449074239,
+    "wof:lastmodified":1466209396,
     "wof:name":"Heinz Aebischer Schreinerei & Glaserei",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4476,46.941814,7.4476,46.941814],
+  "bbox": [
+    7.4476,
+    46.941814,
+    7.4476,
+    46.941814
+],
   "geometry": {"coordinates":[7.4476,46.941814],"type":"Point"}
 }

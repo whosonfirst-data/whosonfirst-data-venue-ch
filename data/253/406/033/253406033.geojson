@@ -2,13 +2,14 @@
   "id": 253406033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.165363,46.805389,7.165363,46.805389",
     "geom:latitude":46.805389,
     "geom:longitude":7.165363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Zaehringen 7 1700 Fribourg Case Postale 43",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253406033,
-    "wof:lastmodified":1449064411,
+    "wof:lastmodified":1466212191,
     "wof:name":"Bti Bit Tech Informatics Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.165363,46.805389,7.165363,46.805389],
+  "bbox": [
+    7.165363,
+    46.805389,
+    7.165363,
+    46.805389
+],
   "geometry": {"coordinates":[7.165363,46.805389],"type":"Point"}
 }

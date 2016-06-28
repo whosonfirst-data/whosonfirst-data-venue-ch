@@ -2,13 +2,14 @@
   "id": 169755821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53801,47.369091,8.53801,47.369091",
     "geom:latitude":47.369091,
     "geom:longitude":8.53801,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Todstrasse 67 -",
     "sg:city":"Zurigo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169755821,
-    "wof:lastmodified":1449033614,
+    "wof:lastmodified":1466211395,
     "wof:name":"Italian Consulate General",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [8.53801,47.369091,8.53801,47.369091],
+  "bbox": [
+    8.53801,
+    47.369091,
+    8.53801,
+    47.369091
+],
   "geometry": {"coordinates":[8.53801,47.369091],"type":"Point"}
 }

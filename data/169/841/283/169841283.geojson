@@ -2,13 +2,14 @@
   "id": 169841283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.498629,46.838184,7.498629,46.838184",
     "geom:latitude":46.838184,
     "geom:longitude":7.498629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3126",
     "sg:city":"Kaufdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169841283,
-    "wof:lastmodified":1449033378,
+    "wof:lastmodified":1466209357,
     "wof:name":"Abwasserreinigungsanlage G\u00fcrbetal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.498629,46.838184,7.498629,46.838184],
+  "bbox": [
+    7.498629,
+    46.838184,
+    7.498629,
+    46.838184
+],
   "geometry": {"coordinates":[7.498629,46.838184],"type":"Point"}
 }

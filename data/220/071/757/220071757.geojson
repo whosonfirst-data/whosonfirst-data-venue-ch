@@ -2,13 +2,14 @@
   "id": 220071757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.094826,38.844479,-86.094826,38.844479",
     "geom:latitude":38.844479,
     "geom:longitude":-86.094826,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Vanna",
     "sg:city":"Vallon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220071757,
-    "wof:lastmodified":1449074551,
+    "wof:lastmodified":1466209502,
     "wof:name":"Ballam Bois, Ballaman Christian",
     "wof:parent_id":85818369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.094826,38.844479,-86.094826,38.844479],
+  "bbox": [
+    -86.094826,
+    38.844479,
+    -86.094826,
+    38.844479
+],
   "geometry": {"coordinates":[-86.094826,38.844479],"type":"Point"}
 }

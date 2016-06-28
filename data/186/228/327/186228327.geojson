@@ -2,13 +2,14 @@
   "id": 186228327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.133026,40.476929,-77.133026,40.476929",
     "geom:latitude":40.476929,
     "geom:longitude":-77.133026,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Adlikerstrasse 60 8105 Regensdorf. Postfach",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186228327,
-    "wof:lastmodified":1449051216,
+    "wof:lastmodified":1466209306,
     "wof:name":"Timorit Ag",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.133026,40.476929,-77.133026,40.476929],
+  "bbox": [
+    -77.133026,
+    40.476929,
+    -77.133026,
+    40.476929
+],
   "geometry": {"coordinates":[-77.133026,40.476929],"type":"Point"}
 }

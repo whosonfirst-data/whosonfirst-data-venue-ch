@@ -2,13 +2,14 @@
   "id": 252756947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.580936,47.199509,7.580936,47.199509",
     "geom:latitude":47.199509,
     "geom:longitude":7.580936,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luzernstrasse 2",
     "sg:city":"Derendingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252756947,
-    "wof:lastmodified":1449006077,
+    "wof:lastmodified":1466209389,
     "wof:name":"Antikmarkt Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.580936,47.199509,7.580936,47.199509],
+  "bbox": [
+    7.580936,
+    47.199509,
+    7.580936,
+    47.199509
+],
   "geometry": {"coordinates":[7.580936,47.199509],"type":"Point"}
 }

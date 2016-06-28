@@ -2,13 +2,14 @@
   "id": 202687355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.84909,47.343861,7.84909,47.343861",
     "geom:latitude":47.343861,
     "geom:longitude":7.84909,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchplatz 4 4800 Zofingen. Postfach",
     "sg:city":"Zofingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202687355,
-    "wof:lastmodified":1449060829,
+    "wof:lastmodified":1466210470,
     "wof:name":"Robert Architektur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.84909,47.343861,7.84909,47.343861],
+  "bbox": [
+    7.84909,
+    47.343861,
+    7.84909,
+    47.343861
+],
   "geometry": {"coordinates":[7.84909,47.343861],"type":"Point"}
 }

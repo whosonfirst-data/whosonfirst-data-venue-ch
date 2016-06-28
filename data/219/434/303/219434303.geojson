@@ -2,13 +2,14 @@
   "id": 219434303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.614453,46.524624,6.614453,46.524624",
     "geom:latitude":46.524624,
     "geom:longitude":6.614453,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Gen\u00e8ve 77b",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219434303,
-    "wof:lastmodified":1449071159,
+    "wof:lastmodified":1466210499,
     "wof:name":"Ampa (suisse) Sa",
     "wof:parent_id":85862435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [6.614453,46.524624,6.614453,46.524624],
+  "bbox": [
+    6.614453,
+    46.524624,
+    6.614453,
+    46.524624
+],
   "geometry": {"coordinates":[6.614453,46.524624],"type":"Point"}
 }

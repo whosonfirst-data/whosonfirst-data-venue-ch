@@ -2,13 +2,14 @@
   "id": 220082671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.67183,46.655445,6.67183,46.655445",
     "geom:latitude":46.655445,
     "geom:longitude":6.67183,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Rebibe",
     "sg:city":"Sugnens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220082671,
-    "wof:lastmodified":1449074080,
+    "wof:lastmodified":1466209593,
     "wof:name":"Crottaz Yvan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.67183,46.655445,6.67183,46.655445],
+  "bbox": [
+    6.67183,
+    46.655445,
+    6.67183,
+    46.655445
+],
   "geometry": {"coordinates":[6.67183,46.655445],"type":"Point"}
 }

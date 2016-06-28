@@ -2,13 +2,14 @@
   "id": 202719783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544435,47.386719,8.544435,47.386719",
     "geom:latitude":47.386719,
     "geom:longitude":8.544435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ekkehardstrasse 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202719783,
-    "wof:lastmodified":1449060429,
+    "wof:lastmodified":1466210776,
     "wof:name":"Steiger F., Beratender Ingenieur",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544435,47.386719,8.544435,47.386719],
+  "bbox": [
+    8.544435,
+    47.386719,
+    8.544435,
+    47.386719
+],
   "geometry": {"coordinates":[8.544435,47.386719],"type":"Point"}
 }

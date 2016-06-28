@@ -2,13 +2,14 @@
   "id": 186060919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.45607,47.397385,8.45607,47.397385",
     "geom:latitude":47.397385,
     "geom:longitude":8.45607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenhofstrasse 12",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186060919,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466210229,
     "wof:name":"Elsasser Umbauten Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.45607,47.397385,8.45607,47.397385],
+  "bbox": [
+    8.45607,
+    47.397385,
+    8.45607,
+    47.397385
+],
   "geometry": {"coordinates":[8.45607,47.397385],"type":"Point"}
 }

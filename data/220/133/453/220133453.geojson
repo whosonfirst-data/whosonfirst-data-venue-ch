@@ -2,13 +2,14 @@
   "id": 220133453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.88465,46.865025,9.88465,46.865025",
     "geom:latitude":46.865025,
     "geom:longitude":9.88465,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Doggilochstrasse 27",
     "sg:city":"Klosters",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220133453,
-    "wof:lastmodified":1449074717,
+    "wof:lastmodified":1466210027,
     "wof:name":"Ruosch + Luck Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.88465,46.865025,9.88465,46.865025],
+  "bbox": [
+    9.88465,
+    46.865025,
+    9.88465,
+    46.865025
+],
   "geometry": {"coordinates":[9.88465,46.865025],"type":"Point"}
 }

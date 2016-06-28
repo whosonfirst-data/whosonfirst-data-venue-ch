@@ -2,13 +2,14 @@
   "id": 186229789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.598777,47.259083,8.598777,47.259083",
     "geom:latitude":47.259083,
     "geom:longitude":8.598777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerstrasse 35",
     "sg:city":"Horgen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186229789,
-    "wof:lastmodified":1449052469,
+    "wof:lastmodified":1466209317,
     "wof:name":"Tomiss Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.598777,47.259083,8.598777,47.259083],
+  "bbox": [
+    8.598777,
+    47.259083,
+    8.598777,
+    47.259083
+],
   "geometry": {"coordinates":[8.598777,47.259083],"type":"Point"}
 }

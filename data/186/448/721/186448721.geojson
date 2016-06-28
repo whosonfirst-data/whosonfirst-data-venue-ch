@@ -2,13 +2,14 @@
   "id": 186448721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449125,47.210129,7.449125,47.210129",
     "geom:latitude":47.210129,
     "geom:longitude":7.449125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosg\u00e4ssli 2",
     "sg:city":"Selzach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186448721,
-    "wof:lastmodified":1449052913,
+    "wof:lastmodified":1466210996,
     "wof:name":"Gebr\u00fcder Danz Baugesch\u00e4ft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449125,47.210129,7.449125,47.210129],
+  "bbox": [
+    7.449125,
+    47.210129,
+    7.449125,
+    47.210129
+],
   "geometry": {"coordinates":[7.449125,47.210129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253037795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.005923,47.500664,8.005923,47.500664",
     "geom:latitude":47.500664,
     "geom:longitude":8.005923,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 14",
     "sg:city":"Gipf-oberfrick",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253037795,
-    "wof:lastmodified":1449065854,
+    "wof:lastmodified":1466209310,
     "wof:name":"Werner W\u00fcthrich Blumenst\u00fcbli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.005923,47.500664,8.005923,47.500664],
+  "bbox": [
+    8.005923,
+    47.500664,
+    8.005923,
+    47.500664
+],
   "geometry": {"coordinates":[8.005923,47.500664],"type":"Point"}
 }

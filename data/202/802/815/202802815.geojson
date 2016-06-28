@@ -2,13 +2,14 @@
   "id": 202802815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.669514,47.228107,8.669514,47.228107",
     "geom:latitude":47.228107,
     "geom:longitude":8.669514,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 16 8820 W\u00e4denswil. Postfach",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202802815,
-    "wof:lastmodified":1449062192,
+    "wof:lastmodified":1466211548,
     "wof:name":"Atool Gmbh Bauvorhaben; Dienstleistungen, Planung, Ausf\u00fchrung, Bewirtschaftung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.669514,47.228107,8.669514,47.228107],
+  "bbox": [
+    8.669514,
+    47.228107,
+    8.669514,
+    47.228107
+],
   "geometry": {"coordinates":[8.669514,47.228107],"type":"Point"}
 }

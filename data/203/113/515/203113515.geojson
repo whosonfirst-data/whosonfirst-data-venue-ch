@@ -2,13 +2,14 @@
   "id": 203113515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.949778,46.014568,8.949778,46.014568",
     "geom:latitude":46.014568,
     "geom:longitude":8.949778,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tesserete 45 6900 Massagno. Postfach",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203113515,
-    "wof:lastmodified":1449026702,
+    "wof:lastmodified":1466211240,
     "wof:name":"Studio Cad Di Thomas B\u00fcrgisser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.949778,46.014568,8.949778,46.014568],
+  "bbox": [
+    8.949778,
+    46.014568,
+    8.949778,
+    46.014568
+],
   "geometry": {"coordinates":[8.949778,46.014568],"type":"Point"}
 }

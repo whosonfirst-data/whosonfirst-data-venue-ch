@@ -2,13 +2,14 @@
   "id": 203174961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155634,46.803963,7.155634,46.803963",
     "geom:latitude":46.803963,
     "geom:longitude":7.155634,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue St-pierre 12",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203174961,
-    "wof:lastmodified":1449025201,
+    "wof:lastmodified":1466209193,
     "wof:name":"Dr M\u00e9d. Fr\u00e9d\u00e9ric Robert M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155634,46.803963,7.155634,46.803963],
+  "bbox": [
+    7.155634,
+    46.803963,
+    7.155634,
+    46.803963
+],
   "geometry": {"coordinates":[7.155634,46.803963],"type":"Point"}
 }

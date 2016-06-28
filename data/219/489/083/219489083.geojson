@@ -2,13 +2,14 @@
   "id": 219489083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.303717,46.218166,7.303717,46.218166",
     "geom:latitude":46.218166,
     "geom:longitude":7.303717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R Des Fougeres 18",
     "sg:city":"Conthey",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219489083,
-    "wof:lastmodified":1449072304,
+    "wof:lastmodified":1466211036,
     "wof:name":"Banque Cantonale Du Valais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.303717,46.218166,7.303717,46.218166],
+  "bbox": [
+    7.303717,
+    46.218166,
+    7.303717,
+    46.218166
+],
   "geometry": {"coordinates":[7.303717,46.218166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236367033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.941391,46.013416,8.941391,46.013416",
     "geom:latitude":46.013416,
     "geom:longitude":8.941391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Cattaneo 4 6900 Lugano. Postfach",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236367033,
-    "wof:lastmodified":1449003626,
+    "wof:lastmodified":1466212249,
     "wof:name":"Scuola Media Massagno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.941391,46.013416,8.941391,46.013416],
+  "bbox": [
+    8.941391,
+    46.013416,
+    8.941391,
+    46.013416
+],
   "geometry": {"coordinates":[8.941391,46.013416],"type":"Point"}
 }

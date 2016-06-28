@@ -2,13 +2,14 @@
   "id": 220053143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.636529,47.511791,8.636529,47.511791",
     "geom:latitude":47.511791,
     "geom:longitude":8.636529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reckholdernstrasse 6",
     "sg:city":"Pfungen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220053143,
-    "wof:lastmodified":1449074193,
+    "wof:lastmodified":1466209332,
     "wof:name":"Hans Steiner Schreinerei K\u00fcchenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.636529,47.511791,8.636529,47.511791],
+  "bbox": [
+    8.636529,
+    47.511791,
+    8.636529,
+    47.511791
+],
   "geometry": {"coordinates":[8.636529,47.511791],"type":"Point"}
 }

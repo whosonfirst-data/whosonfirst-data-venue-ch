@@ -2,13 +2,14 @@
   "id": 169703799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.481915,47.190247,8.481915,47.190247",
     "geom:latitude":47.190247,
     "geom:longitude":8.481915,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sennweidstrasse 35 6312 Steinhausen. Postfach 225",
     "sg:city":"Steinhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169703799,
-    "wof:lastmodified":1449033690,
+    "wof:lastmodified":1466210945,
     "wof:name":"Victor Hotz Ag F\u00fcr Satz Bild & Druck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.481915,47.190247,8.481915,47.190247],
+  "bbox": [
+    8.481915,
+    47.190247,
+    8.481915,
+    47.190247
+],
   "geometry": {"coordinates":[8.481915,47.190247],"type":"Point"}
 }

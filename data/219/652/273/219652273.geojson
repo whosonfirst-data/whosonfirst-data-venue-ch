@@ -2,13 +2,14 @@
   "id": 219652273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.84998,46.23737,7.84998,46.23737",
     "geom:latitude":46.23737,
     "geom:longitude":7.84998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6rbel",
     "sg:city":"T\u00f6rbel",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219652273,
-    "wof:lastmodified":1449072660,
+    "wof:lastmodified":1466212036,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.84998,46.23737,7.84998,46.23737],
+  "bbox": [
+    7.84998,
+    46.23737,
+    7.84998,
+    46.23737
+],
   "geometry": {"coordinates":[7.84998,46.23737],"type":"Point"}
 }

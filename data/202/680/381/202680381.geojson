@@ -2,13 +2,14 @@
   "id": 202680381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.593477,47.50729,8.593477,47.50729",
     "geom:latitude":47.50729,
     "geom:longitude":8.593477,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 99",
     "sg:city":"Embrach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202680381,
-    "wof:lastmodified":1449061871,
+    "wof:lastmodified":1466210408,
     "wof:name":"Regli Walter, Dipl. Ing. Eth/sia, Ingenieurb\u00fcro Ag F\u00fcr Hoch, Tief Und Stahlbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.593477,47.50729,8.593477,47.50729],
+  "bbox": [
+    8.593477,
+    47.50729,
+    8.593477,
+    47.50729
+],
   "geometry": {"coordinates":[8.593477,47.50729],"type":"Point"}
 }

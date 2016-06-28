@@ -2,13 +2,14 @@
   "id": 219461385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.238953,47.294922,8.238953,47.294922",
     "geom:latitude":47.294922,
     "geom:longitude":8.238953,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 11",
     "sg:city":"Fahrwangen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219461385,
-    "wof:lastmodified":1449071720,
+    "wof:lastmodified":1466210771,
     "wof:name":"Aargauische Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.238953,47.294922,8.238953,47.294922],
+  "bbox": [
+    8.238953,
+    47.294922,
+    8.238953,
+    47.294922
+],
   "geometry": {"coordinates":[8.238953,47.294922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202949551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.374731,47.424286,9.374731,47.424286",
     "geom:latitude":47.424286,
     "geom:longitude":9.374731,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 2",
     "sg:city":"Felsberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202949551,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466212315,
     "wof:name":"Arnold Flammer Architekturb\u00fcro",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.374731,47.424286,9.374731,47.424286],
+  "bbox": [
+    9.374731,
+    47.424286,
+    9.374731,
+    47.424286
+],
   "geometry": {"coordinates":[9.374731,47.424286],"type":"Point"}
 }

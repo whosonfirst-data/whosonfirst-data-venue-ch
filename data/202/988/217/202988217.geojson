@@ -2,13 +2,14 @@
   "id": 202988217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.63095,47.02948,8.63095,47.02948",
     "geom:latitude":47.02948,
     "geom:longitude":8.63095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofwiesenstrasse 6",
     "sg:city":"Hombrechtikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202988217,
-    "wof:lastmodified":1449060988,
+    "wof:lastmodified":1466212329,
     "wof:name":"Freitag Architektur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.63095,47.02948,8.63095,47.02948],
+  "bbox": [
+    8.63095,
+    47.02948,
+    8.63095,
+    47.02948
+],
   "geometry": {"coordinates":[8.63095,47.02948],"type":"Point"}
 }

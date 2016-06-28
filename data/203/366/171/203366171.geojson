@@ -2,13 +2,14 @@
   "id": 203366171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.509021,47.053997,7.509021,47.053997",
     "geom:latitude":47.053997,
     "geom:longitude":7.509021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenweg 25",
     "sg:city":"Jegenstorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203366171,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466211190,
     "wof:name":"Dr.med.laurent Bentz Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.509021,47.053997,7.509021,47.053997],
+  "bbox": [
+    7.509021,
+    47.053997,
+    7.509021,
+    47.053997
+],
   "geometry": {"coordinates":[7.509021,47.053997],"type":"Point"}
 }

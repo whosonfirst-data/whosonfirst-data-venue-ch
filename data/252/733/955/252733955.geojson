@@ -2,13 +2,14 @@
   "id": 252733955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.870108,46.980675,6.870108,46.980675",
     "geom:latitude":46.980675,
     "geom:longitude":6.870108,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 25",
     "sg:city":"Cormondr\u00e8che",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252733955,
-    "wof:lastmodified":1449005551,
+    "wof:lastmodified":1466209171,
     "wof:name":"Association De Viticulteurs De La C\u00f4te Neuch\u00e2teloise, Caves Du Prieur\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.870108,46.980675,6.870108,46.980675],
+  "bbox": [
+    6.870108,
+    46.980675,
+    6.870108,
+    46.980675
+],
   "geometry": {"coordinates":[6.870108,46.980675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202950601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.317761,46.224308,7.317761,46.224308",
     "geom:latitude":46.224308,
     "geom:longitude":7.317761,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Lucet 25",
     "sg:city":"Pont-de-la-morge",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202950601,
-    "wof:lastmodified":1449061105,
+    "wof:lastmodified":1466212317,
     "wof:name":"Arthur Proz Bureau D'architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.317761,46.224308,7.317761,46.224308],
+  "bbox": [
+    7.317761,
+    46.224308,
+    7.317761,
+    46.224308
+],
   "geometry": {"coordinates":[7.317761,46.224308],"type":"Point"}
 }

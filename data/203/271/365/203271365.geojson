@@ -2,13 +2,14 @@
   "id": 203271365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.282071,47.065556,8.282071,47.065556",
     "geom:latitude":47.065556,
     "geom:longitude":8.282071,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00e4schmattstrasse 1 6015 Reussb\u00fchl. Postfach",
     "sg:city":"Reussb\u00fchl",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203271365,
-    "wof:lastmodified":1449025931,
+    "wof:lastmodified":1466210242,
     "wof:name":"Dr.med.andreas Bitzi Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.282071,47.065556,8.282071,47.065556],
+  "bbox": [
+    8.282071,
+    47.065556,
+    8.282071,
+    47.065556
+],
   "geometry": {"coordinates":[8.282071,47.065556],"type":"Point"}
 }

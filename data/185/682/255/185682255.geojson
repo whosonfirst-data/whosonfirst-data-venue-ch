@@ -2,13 +2,14 @@
   "id": 185682255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.530076,47.378311,8.530076,47.378311",
     "geom:latitude":47.378311,
     "geom:longitude":8.530076,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Milit\u00e4rstrasse 76 8004 Z\u00fcrich. Postfach 3976",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185682255,
-    "wof:lastmodified":1449006893,
+    "wof:lastmodified":1466210950,
     "wof:name":"Brem & Borer",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.530076,47.378311,8.530076,47.378311],
+  "bbox": [
+    8.530076,
+    47.378311,
+    8.530076,
+    47.378311
+],
   "geometry": {"coordinates":[8.530076,47.378311],"type":"Point"}
 }

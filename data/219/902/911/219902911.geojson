@@ -2,13 +2,14 @@
   "id": 219902911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.64385,46.745804,7.64385,46.745804",
     "geom:latitude":46.745804,
     "geom:longitude":7.64385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Thunstrasse 36",
     "sg:city":"H\u00fcnibach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219902911,
-    "wof:lastmodified":1449073018,
+    "wof:lastmodified":1466212638,
     "wof:name":"Baugenossenschaft A - Z",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.64385,46.745804,7.64385,46.745804],
+  "bbox": [
+    7.64385,
+    46.745804,
+    7.64385,
+    46.745804
+],
   "geometry": {"coordinates":[7.64385,46.745804],"type":"Point"}
 }

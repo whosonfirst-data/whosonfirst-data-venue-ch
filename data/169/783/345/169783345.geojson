@@ -2,13 +2,14 @@
   "id": 169783345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.896902,46.561806,7.896902,46.561806",
     "geom:latitude":46.561806,
     "geom:longitude":7.896902,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse",
     "sg:city":"Muerren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169783345,
-    "wof:lastmodified":1449032795,
+    "wof:lastmodified":1466208939,
     "wof:name":"Hotel Blumental Muerren Schweiz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.896902,46.561806,7.896902,46.561806],
+  "bbox": [
+    7.896902,
+    46.561806,
+    7.896902,
+    46.561806
+],
   "geometry": {"coordinates":[7.896902,46.561806],"type":"Point"}
 }

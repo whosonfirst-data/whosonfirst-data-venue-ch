@@ -2,13 +2,14 @@
   "id": 236715763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.361365,46.231934,7.361365,46.231934",
     "geom:latitude":46.231934,
     "geom:longitude":7.361365,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruelle Du Midi",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236715763,
-    "wof:lastmodified":1449004450,
+    "wof:lastmodified":1466212835,
     "wof:name":"Claude Sixt Pressing Du Midi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.361365,46.231934,7.361365,46.231934],
+  "bbox": [
+    7.361365,
+    46.231934,
+    7.361365,
+    46.231934
+],
   "geometry": {"coordinates":[7.361365,46.231934],"type":"Point"}
 }

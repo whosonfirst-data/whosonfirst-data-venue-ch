@@ -2,13 +2,14 @@
   "id": 252946119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.378121,47.565544,9.378121,47.565544",
     "geom:latitude":47.565544,
     "geom:longitude":9.378121,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 6 8590 Romanshorn. Postfach 86",
     "sg:city":"Romanshorn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252946119,
-    "wof:lastmodified":1449006387,
+    "wof:lastmodified":1466211483,
     "wof:name":"Sch\u00e4ffeler Sport Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.378121,47.565544,9.378121,47.565544],
+  "bbox": [
+    9.378121,
+    47.565544,
+    9.378121,
+    47.565544
+],
   "geometry": {"coordinates":[9.378121,47.565544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202431727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.652214,46.509956,6.652214,46.509956",
     "geom:latitude":46.509956,
     "geom:longitude":6.652214,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue C.-f.-ramuz 26",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202431727,
-    "wof:lastmodified":1449060446,
+    "wof:lastmodified":1466210305,
     "wof:name":"Bureau Technique Recima, Zoller.",
     "wof:parent_id":85800439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.652214,46.509956,6.652214,46.509956],
+  "bbox": [
+    6.652214,
+    46.509956,
+    6.652214,
+    46.509956
+],
   "geometry": {"coordinates":[6.652214,46.509956],"type":"Point"}
 }

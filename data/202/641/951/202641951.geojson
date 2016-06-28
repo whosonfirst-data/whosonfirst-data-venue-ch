@@ -2,13 +2,14 @@
   "id": 202641951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.480955,46.977432,7.480955,46.977432",
     "geom:latitude":46.977432,
     "geom:longitude":7.480955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarstr. 16",
     "sg:city":"Ittigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202641951,
-    "wof:lastmodified":1449062044,
+    "wof:lastmodified":1466210051,
     "wof:name":"Nbg Ingenieure Ag",
     "wof:parent_id":85800083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.480955,46.977432,7.480955,46.977432],
+  "bbox": [
+    7.480955,
+    46.977432,
+    7.480955,
+    46.977432
+],
   "geometry": {"coordinates":[7.480955,46.977432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219250945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.190926,47.231636,9.190926,47.231636",
     "geom:latitude":47.231636,
     "geom:longitude":9.190926,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfungenerstrasse 27",
     "sg:city":"Oberembrach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219250945,
-    "wof:lastmodified":1449072387,
+    "wof:lastmodified":1466211536,
     "wof:name":"Alfred Manser Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.190926,47.231636,9.190926,47.231636],
+  "bbox": [
+    9.190926,
+    47.231636,
+    9.190926,
+    47.231636
+],
   "geometry": {"coordinates":[9.190926,47.231636],"type":"Point"}
 }

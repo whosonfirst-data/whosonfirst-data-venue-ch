@@ -2,13 +2,14 @@
   "id": 236575217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.307486,47.045929,8.307486,47.045929",
     "geom:latitude":47.045929,
     "geom:longitude":8.307486,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkelriedstrasse 62",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236575217,
-    "wof:lastmodified":1449002433,
+    "wof:lastmodified":1466212733,
     "wof:name":"Gisler & Partner Treuhand Gmbh",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.307486,47.045929,8.307486,47.045929],
+  "bbox": [
+    8.307486,
+    47.045929,
+    8.307486,
+    47.045929
+],
   "geometry": {"coordinates":[8.307486,47.045929],"type":"Point"}
 }

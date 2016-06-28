@@ -2,13 +2,14 @@
   "id": 219400939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.695513,47.519718,8.695513,47.519718",
     "geom:latitude":47.519718,
     "geom:longitude":8.695513,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedhofstrasse 92 8408 Winterthur. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219400939,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466210190,
     "wof:name":"Karl Kummer Karrosserie Lantig",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.695513,47.519718,8.695513,47.519718],
+  "bbox": [
+    8.695513,
+    47.519718,
+    8.695513,
+    47.519718
+],
   "geometry": {"coordinates":[8.695513,47.519718],"type":"Point"}
 }

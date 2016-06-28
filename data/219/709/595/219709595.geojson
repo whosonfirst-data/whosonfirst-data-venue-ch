@@ -2,13 +2,14 @@
   "id": 219709595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.718629,47.349953,8.718629,47.349953",
     "geom:latitude":47.349953,
     "geom:longitude":8.718629,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bankstr. 5",
     "sg:city":"Uster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219709595,
-    "wof:lastmodified":1449071102,
+    "wof:lastmodified":1466212114,
     "wof:name":"Schweizerische Volksbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.718629,47.349953,8.718629,47.349953],
+  "bbox": [
+    8.718629,
+    47.349953,
+    8.718629,
+    47.349953
+],
   "geometry": {"coordinates":[8.718629,47.349953],"type":"Point"}
 }

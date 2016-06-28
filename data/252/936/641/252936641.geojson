@@ -2,13 +2,14 @@
   "id": 252936641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.37544,47.422901,9.37544,47.422901",
     "geom:latitude":47.422901,
     "geom:longitude":9.37544,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ueberlandstrasse 99",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252936641,
-    "wof:lastmodified":1449005769,
+    "wof:lastmodified":1466211388,
     "wof:name":"Licacom Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.37544,47.422901,9.37544,47.422901],
+  "bbox": [
+    9.37544,
+    47.422901,
+    9.37544,
+    47.422901
+],
   "geometry": {"coordinates":[9.37544,47.422901],"type":"Point"}
 }

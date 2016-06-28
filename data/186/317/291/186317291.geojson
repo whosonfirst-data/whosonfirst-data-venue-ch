@@ -2,13 +2,14 @@
   "id": 186317291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.720428,47.515255,7.720428,47.515255",
     "geom:latitude":47.515255,
     "geom:longitude":7.720428,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schneckelerstrasse 22",
     "sg:city":"F\u00fcllinsdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186317291,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466209959,
     "wof:name":"Wenk Ag Hoch Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.720428,47.515255,7.720428,47.515255],
+  "bbox": [
+    7.720428,
+    47.515255,
+    7.720428,
+    47.515255
+],
   "geometry": {"coordinates":[7.720428,47.515255],"type":"Point"}
 }

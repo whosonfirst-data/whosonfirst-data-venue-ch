@@ -2,13 +2,14 @@
   "id": 169802495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.017778,47.305176,8.017778,47.305176",
     "geom:latitude":47.305176,
     "geom:longitude":8.017778,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grossmatten 568",
     "sg:city":"Uerkheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169802495,
-    "wof:lastmodified":1449035341,
+    "wof:lastmodified":1466209088,
     "wof:name":"Heiniger Ag Uerkheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.017778,47.305176,8.017778,47.305176],
+  "bbox": [
+    8.017778,
+    47.305176,
+    8.017778,
+    47.305176
+],
   "geometry": {"coordinates":[8.017778,47.305176],"type":"Point"}
 }

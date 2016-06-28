@@ -2,13 +2,14 @@
   "id": 236144449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53942,47.383308,8.53942,47.383308",
     "geom:latitude":47.383308,
     "geom:longitude":8.53942,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserwerkstrasse 17 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236144449,
-    "wof:lastmodified":1449004181,
+    "wof:lastmodified":1466210202,
     "wof:name":"Genossenschaft Campo Cortoi",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53942,47.383308,8.53942,47.383308],
+  "bbox": [
+    8.53942,
+    47.383308,
+    8.53942,
+    47.383308
+],
   "geometry": {"coordinates":[8.53942,47.383308],"type":"Point"}
 }

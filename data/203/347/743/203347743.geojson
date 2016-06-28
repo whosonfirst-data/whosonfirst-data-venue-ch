@@ -2,13 +2,14 @@
   "id": 203347743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.24112,47.256618,8.24112,47.256618",
     "geom:latitude":47.256618,
     "geom:longitude":8.24112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Johanns-vorstadt 66",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203347743,
-    "wof:lastmodified":1449025834,
+    "wof:lastmodified":1466211009,
     "wof:name":"Dr.med.jakob Bieri Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.24112,47.256618,8.24112,47.256618],
+  "bbox": [
+    8.24112,
+    47.256618,
+    8.24112,
+    47.256618
+],
   "geometry": {"coordinates":[8.24112,47.256618],"type":"Point"}
 }

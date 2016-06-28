@@ -2,13 +2,14 @@
   "id": 202640645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.585923,47.407833,8.585923,47.407833",
     "geom:latitude":47.407833,
     "geom:longitude":8.585923,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ueberlandstrasse 387",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202640645,
-    "wof:lastmodified":1449061221,
+    "wof:lastmodified":1466210038,
     "wof:name":"M\u00fcller Peter Lukas",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.585923,47.407833,8.585923,47.407833],
+  "bbox": [
+    8.585923,
+    47.407833,
+    8.585923,
+    47.407833
+],
   "geometry": {"coordinates":[8.585923,47.407833],"type":"Point"}
 }

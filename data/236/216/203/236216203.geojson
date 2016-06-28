@@ -2,13 +2,14 @@
   "id": 236216203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.418253,47.410969,8.418253,47.410969",
     "geom:latitude":47.410969,
     "geom:longitude":8.418253,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunaustrasse 184 8951 Fahrweid. Postfach",
     "sg:city":"Fahrweid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236216203,
-    "wof:lastmodified":1449004794,
+    "wof:lastmodified":1466210980,
     "wof:name":"D. Petrovic",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.418253,47.410969,8.418253,47.410969],
+  "bbox": [
+    8.418253,
+    47.410969,
+    8.418253,
+    47.410969
+],
   "geometry": {"coordinates":[8.418253,47.410969],"type":"Point"}
 }

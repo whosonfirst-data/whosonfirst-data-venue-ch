@@ -2,13 +2,14 @@
   "id": 186455525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.059558,46.747269,8.059558,46.747269",
     "geom:latitude":46.747269,
     "geom:longitude":8.059558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eigerweg 22 3073 G\u00fcmligen. Postfach 173",
     "sg:city":"G\u00fcmligen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186455525,
-    "wof:lastmodified":1449052575,
+    "wof:lastmodified":1466211050,
     "wof:name":"Michel Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.059558,46.747269,8.059558,46.747269],
+  "bbox": [
+    8.059558,
+    46.747269,
+    8.059558,
+    46.747269
+],
   "geometry": {"coordinates":[8.059558,46.747269],"type":"Point"}
 }

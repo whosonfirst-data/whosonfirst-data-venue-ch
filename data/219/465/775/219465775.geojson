@@ -2,13 +2,14 @@
   "id": 219465775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.632333,46.757767,7.632333,46.757767",
     "geom:latitude":46.757767,
     "geom:longitude":7.632333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstettenstr. 2",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219465775,
-    "wof:lastmodified":1449072761,
+    "wof:lastmodified":1466210811,
     "wof:name":"Amtsersparniskasse, Thun",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.632333,46.757767,7.632333,46.757767],
+  "bbox": [
+    7.632333,
+    46.757767,
+    7.632333,
+    46.757767
+],
   "geometry": {"coordinates":[7.632333,46.757767],"type":"Point"}
 }

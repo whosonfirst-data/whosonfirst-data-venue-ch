@@ -2,13 +2,14 @@
   "id": 185815677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.352717,46.826733,7.352717,46.826733",
     "geom:latitude":46.826733,
     "geom:longitude":7.352717,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ried",
     "sg:city":"Schwarzenburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185815677,
-    "wof:lastmodified":1449007405,
+    "wof:lastmodified":1466209218,
     "wof:name":"Narida Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [7.352717,46.826733,7.352717,46.826733],
+  "bbox": [
+    7.352717,
+    46.826733,
+    7.352717,
+    46.826733
+],
   "geometry": {"coordinates":[7.352717,46.826733],"type":"Point"}
 }

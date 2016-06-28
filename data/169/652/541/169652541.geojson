@@ -2,13 +2,14 @@
   "id": 169652541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.632427,47.374283,8.632427,47.374283",
     "geom:latitude":47.374283,
     "geom:longitude":8.632427,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruggacherstrasse 8",
     "sg:city":"F\u00e4llanden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169652541,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466210135,
     "wof:name":"Max Baldinger Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bottle"
     ]
 },
-  "bbox": [8.632427,47.374283,8.632427,47.374283],
+  "bbox": [
+    8.632427,
+    47.374283,
+    8.632427,
+    47.374283
+],
   "geometry": {"coordinates":[8.632427,47.374283],"type":"Point"}
 }

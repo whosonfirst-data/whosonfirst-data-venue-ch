@@ -2,13 +2,14 @@
   "id": 219281649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.646158,46.778908,6.646158,46.778908",
     "geom:latitude":46.778908,
     "geom:longitude":6.646158,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1695",
     "sg:city":"Rueyres-st-laurent",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219281649,
-    "wof:lastmodified":1449073375,
+    "wof:lastmodified":1466209076,
     "wof:name":"Georges Gruet Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.646158,46.778908,6.646158,46.778908],
+  "bbox": [
+    6.646158,
+    46.778908,
+    6.646158,
+    46.778908
+],
   "geometry": {"coordinates":[6.646158,46.778908],"type":"Point"}
 }

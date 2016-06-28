@@ -2,13 +2,14 @@
   "id": 186578209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64887,47.245998,8.64887,47.245998",
     "geom:latitude":47.245998,
     "geom:longitude":8.64887,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 295",
     "sg:city":"Au",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186578209,
-    "wof:lastmodified":1449051072,
+    "wof:lastmodified":1466211847,
     "wof:name":"Auparc Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "apparatus"
     ]
 },
-  "bbox": [8.64887,47.245998,8.64887,47.245998],
+  "bbox": [
+    8.64887,
+    47.245998,
+    8.64887,
+    47.245998
+],
   "geometry": {"coordinates":[8.64887,47.245998],"type":"Point"}
 }

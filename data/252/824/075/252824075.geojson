@@ -2,13 +2,14 @@
   "id": 252824075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.541474,47.381237,8.541474,47.381237",
     "geom:latitude":47.381237,
     "geom:longitude":8.541474,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Walchestrasse 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252824075,
-    "wof:lastmodified":1449005790,
+    "wof:lastmodified":1466210172,
     "wof:name":"Diesel Concept Sa",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.541474,47.381237,8.541474,47.381237],
+  "bbox": [
+    8.541474,
+    47.381237,
+    8.541474,
+    47.381237
+],
   "geometry": {"coordinates":[8.541474,47.381237],"type":"Point"}
 }

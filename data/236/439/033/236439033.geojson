@@ -2,13 +2,14 @@
   "id": 236439033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.732411,47.484318,7.732411,47.484318",
     "geom:latitude":47.484318,
     "geom:longitude":7.732411,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 16",
     "sg:city":"Liestal",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236439033,
-    "wof:lastmodified":1449002374,
+    "wof:lastmodified":1466212374,
     "wof:name":"Kantonsbibliothek Baselland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.732411,47.484318,7.732411,47.484318],
+  "bbox": [
+    7.732411,
+    47.484318,
+    7.732411,
+    47.484318
+],
   "geometry": {"coordinates":[7.732411,47.484318],"type":"Point"}
 }

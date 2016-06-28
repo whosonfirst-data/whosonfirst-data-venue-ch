@@ -2,13 +2,14 @@
   "id": 202449659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.527225,46.517151,6.527225,46.517151",
     "geom:latitude":46.517151,
     "geom:longitude":6.527225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rami\u00e8re Chemin De La 9",
     "sg:city":"Pr\u00e9verenges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202449659,
-    "wof:lastmodified":1449062464,
+    "wof:lastmodified":1466210820,
     "wof:name":"Claus Notheisen S\u00e0rl",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.527225,46.517151,6.527225,46.517151],
+  "bbox": [
+    6.527225,
+    46.517151,
+    6.527225,
+    46.517151
+],
   "geometry": {"coordinates":[6.527225,46.517151],"type":"Point"}
 }

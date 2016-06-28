@@ -2,13 +2,14 @@
   "id": 203095511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.545581,47.410442,7.545581,47.410442",
     "geom:latitude":47.410442,
     "geom:longitude":7.545581,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrgasse 17",
     "sg:city":"Breitenbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203095511,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466211033,
     "wof:name":"Walter B. H\u00fcgli Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.545581,47.410442,7.545581,47.410442],
+  "bbox": [
+    7.545581,
+    47.410442,
+    7.545581,
+    47.410442
+],
   "geometry": {"coordinates":[7.545581,47.410442],"type":"Point"}
 }

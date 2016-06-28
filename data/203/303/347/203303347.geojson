@@ -2,13 +2,14 @@
   "id": 203303347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629087,46.756134,7.629087,46.756134",
     "geom:latitude":46.756134,
     "geom:longitude":7.629087,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frutigenstrasse 6",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203303347,
-    "wof:lastmodified":1449024950,
+    "wof:lastmodified":1466210571,
     "wof:name":"Dr.med.dieter Lehmann Spezialarzt Fmh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629087,46.756134,7.629087,46.756134],
+  "bbox": [
+    7.629087,
+    46.756134,
+    7.629087,
+    46.756134
+],
   "geometry": {"coordinates":[7.629087,46.756134],"type":"Point"}
 }

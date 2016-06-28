@@ -2,13 +2,14 @@
   "id": 202802777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.014365,46.33493,8.014365,46.33493",
     "geom:latitude":46.33493,
     "geom:longitude":8.014365,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3982",
     "sg:city":"Bitsch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202802777,
-    "wof:lastmodified":1449062192,
+    "wof:lastmodified":1466211547,
     "wof:name":"Atelier Ritzo Gmbh Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.014365,46.33493,8.014365,46.33493],
+  "bbox": [
+    8.014365,
+    46.33493,
+    8.014365,
+    46.33493
+],
   "geometry": {"coordinates":[8.014365,46.33493],"type":"Point"}
 }

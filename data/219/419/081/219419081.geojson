@@ -2,13 +2,14 @@
   "id": 219419081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.087711,46.101559,7.087711,46.101559",
     "geom:latitude":46.101559,
     "geom:longitude":7.087711,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3942",
     "sg:city":"Niedergesteln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219419081,
-    "wof:lastmodified":1449073845,
+    "wof:lastmodified":1466210353,
     "wof:name":"Favre Sa Transports Internationaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.087711,46.101559,7.087711,46.101559],
+  "bbox": [
+    7.087711,
+    46.101559,
+    7.087711,
+    46.101559
+],
   "geometry": {"coordinates":[7.087711,46.101559],"type":"Point"}
 }

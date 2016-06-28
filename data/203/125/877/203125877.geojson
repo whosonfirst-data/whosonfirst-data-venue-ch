@@ -2,13 +2,14 @@
   "id": 203125877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.771742,47.548965,7.771742,47.548965",
     "geom:latitude":47.548965,
     "geom:longitude":7.771742,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidenweg 25",
     "sg:city":"Rheinfelden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203125877,
-    "wof:lastmodified":1449026807,
+    "wof:lastmodified":1466211385,
     "wof:name":"Rh Rheinfelder Keramik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artistic"
     ]
 },
-  "bbox": [7.771742,47.548965,7.771742,47.548965],
+  "bbox": [
+    7.771742,
+    47.548965,
+    7.771742,
+    47.548965
+],
   "geometry": {"coordinates":[7.771742,47.548965],"type":"Point"}
 }

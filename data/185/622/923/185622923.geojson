@@ -2,13 +2,14 @@
   "id": 185622923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.931302,46.995678,6.931302,46.995678",
     "geom:latitude":46.995678,
     "geom:longitude":6.931302,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Sablons 32 2000 Neuenburg. Postfach",
     "sg:city":"Neuenburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185622923,
-    "wof:lastmodified":1449007939,
+    "wof:lastmodified":1466209778,
     "wof:name":"Emergence, Soci\u00e9t\u00e9 \u00e0 Responsabilit\u00e9 \u00e0 Bonneville, F, Succursale De Neuch\u00e2tel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.931302,46.995678,6.931302,46.995678],
+  "bbox": [
+    6.931302,
+    46.995678,
+    6.931302,
+    46.995678
+],
   "geometry": {"coordinates":[6.931302,46.995678],"type":"Point"}
 }

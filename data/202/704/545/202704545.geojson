@@ -2,13 +2,14 @@
   "id": 202704545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.517141,46.932377,7.517141,46.932377",
     "geom:latitude":46.932377,
     "geom:longitude":7.517141,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Worbstr. 306 3074 Muri B. Bern. Postfach",
     "sg:city":"G\u00fcmligen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202704545,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466210631,
     "wof:name":"Schneiter + Suter Elektroplanung",
     "wof:parent_id":85800551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.517141,46.932377,7.517141,46.932377],
+  "bbox": [
+    7.517141,
+    46.932377,
+    7.517141,
+    46.932377
+],
   "geometry": {"coordinates":[7.517141,46.932377],"type":"Point"}
 }

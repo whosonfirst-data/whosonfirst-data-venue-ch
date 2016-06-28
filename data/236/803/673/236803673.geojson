@@ -2,13 +2,14 @@
   "id": 236803673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.76117,47.18536,7.76117,47.18536",
     "geom:latitude":47.18536,
     "geom:longitude":7.76117,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctschelenstrasse 128",
     "sg:city":"Bleienbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236803673,
-    "wof:lastmodified":1449005292,
+    "wof:lastmodified":1466212803,
     "wof:name":"Franz Reinmann Bedachungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.76117,47.18536,7.76117,47.18536],
+  "bbox": [
+    7.76117,
+    47.18536,
+    7.76117,
+    47.18536
+],
   "geometry": {"coordinates":[7.76117,47.18536],"type":"Point"}
 }

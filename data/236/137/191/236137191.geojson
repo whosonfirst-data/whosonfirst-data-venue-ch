@@ -2,13 +2,14 @@
   "id": 236137191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539754,47.375195,8.539754,47.375195",
     "geom:latitude":47.375195,
     "geom:longitude":8.539754,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Werdm\u00fchleplatz 3 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236137191,
-    "wof:lastmodified":1449004701,
+    "wof:lastmodified":1466210126,
     "wof:name":"Tiefbauamt Der Stadt Z\u00fcrich Amtshaus V",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.539754,47.375195,8.539754,47.375195],
+  "bbox": [
+    8.539754,
+    47.375195,
+    8.539754,
+    47.375195
+],
   "geometry": {"coordinates":[8.539754,47.375195],"type":"Point"}
 }

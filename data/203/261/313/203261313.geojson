@@ -2,13 +2,14 @@
   "id": 203261313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.426261,47.199371,7.426261,47.199371",
     "geom:latitude":47.199371,
     "geom:longitude":7.426261,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfplatz 12",
     "sg:city":"Bettlach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203261313,
-    "wof:lastmodified":1449024969,
+    "wof:lastmodified":1466210141,
     "wof:name":"Dr.med. Stefan Ryf Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.426261,47.199371,7.426261,47.199371],
+  "bbox": [
+    7.426261,
+    47.199371,
+    7.426261,
+    47.199371
+],
   "geometry": {"coordinates":[7.426261,47.199371],"type":"Point"}
 }

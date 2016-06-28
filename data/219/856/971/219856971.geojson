@@ -2,13 +2,14 @@
   "id": 219856971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.955904,46.011292,8.955904,46.011292",
     "geom:latitude":46.011292,
     "geom:longitude":8.955904,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Zurigo 3",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219856971,
-    "wof:lastmodified":1449071406,
+    "wof:lastmodified":1466212562,
     "wof:name":"Ristorante Gestibar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.955904,46.011292,8.955904,46.011292],
+  "bbox": [
+    8.955904,
+    46.011292,
+    8.955904,
+    46.011292
+],
   "geometry": {"coordinates":[8.955904,46.011292],"type":"Point"}
 }

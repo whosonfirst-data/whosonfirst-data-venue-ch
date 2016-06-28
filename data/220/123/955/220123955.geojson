@@ -2,13 +2,14 @@
   "id": 220123955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.271366,46.480751,7.271366,46.480751",
     "geom:latitude":46.480751,
     "geom:longitude":7.271366,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcbeldorf",
     "sg:city":"Saanen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220123955,
-    "wof:lastmodified":1449074257,
+    "wof:lastmodified":1466209945,
     "wof:name":"M\u00f6sching Lorenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.271366,46.480751,7.271366,46.480751],
+  "bbox": [
+    7.271366,
+    46.480751,
+    7.271366,
+    46.480751
+],
   "geometry": {"coordinates":[7.271366,46.480751],"type":"Point"}
 }

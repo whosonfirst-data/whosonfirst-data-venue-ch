@@ -2,13 +2,14 @@
   "id": 219808765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.587869,47.401302,9.587869,47.401302",
     "geom:latitude":47.401302,
     "geom:longitude":9.587869,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schartenstrasse 20 9445 Rebstein. Postfach",
     "sg:city":"Rebstein",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219808765,
-    "wof:lastmodified":1449070545,
+    "wof:lastmodified":1466212485,
     "wof:name":"La Isla Bar Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.587869,47.401302,9.587869,47.401302],
+  "bbox": [
+    9.587869,
+    47.401302,
+    9.587869,
+    47.401302
+],
   "geometry": {"coordinates":[9.587869,47.401302],"type":"Point"}
 }

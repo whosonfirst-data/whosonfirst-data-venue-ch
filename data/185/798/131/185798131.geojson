@@ -2,13 +2,14 @@
   "id": 185798131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.033725,45.832294,9.033725,45.832294",
     "geom:latitude":45.832294,
     "geom:longitude":9.033725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso San Gottardo 3 6830 Chiasso. Postfach Caselle Postale 146",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185798131,
-    "wof:lastmodified":1449006920,
+    "wof:lastmodified":1466209100,
     "wof:name":"Stadler & Meier Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.033725,45.832294,9.033725,45.832294],
+  "bbox": [
+    9.033725,
+    45.832294,
+    9.033725,
+    45.832294
+],
   "geometry": {"coordinates":[9.033725,45.832294],"type":"Point"}
 }

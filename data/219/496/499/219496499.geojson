@@ -2,13 +2,14 @@
   "id": 219496499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.172735,46.810719,7.172735,46.810719",
     "geom:latitude":46.810719,
     "geom:longitude":7.172735,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Tavel 2",
     "sg:city":"Fribourg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219496499,
-    "wof:lastmodified":1449073377,
+    "wof:lastmodified":1466211102,
     "wof:name":"Banque De L'etat De Fribourg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.172735,46.810719,7.172735,46.810719],
+  "bbox": [
+    7.172735,
+    46.810719,
+    7.172735,
+    46.810719
+],
   "geometry": {"coordinates":[7.172735,46.810719],"type":"Point"}
 }

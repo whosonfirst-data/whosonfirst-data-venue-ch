@@ -2,13 +2,14 @@
   "id": 236226167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.547739,46.515575,6.547739,46.515575",
     "geom:latitude":46.515575,
     "geom:longitude":6.547739,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Cr\u00eat-du-lac.",
     "sg:city":"Vaumarcus",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236226167,
-    "wof:lastmodified":1449004155,
+    "wof:lastmodified":1466211094,
     "wof:name":"Les Productions Canthus S\u00e0rl",
     "wof:parent_id":85799935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.547739,46.515575,6.547739,46.515575],
+  "bbox": [
+    6.547739,
+    46.515575,
+    6.547739,
+    46.515575
+],
   "geometry": {"coordinates":[6.547739,46.515575],"type":"Point"}
 }

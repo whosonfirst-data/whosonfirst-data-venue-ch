@@ -2,13 +2,14 @@
   "id": 186468629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.090407,45.044331,6.090407,45.044331",
     "geom:latitude":45.044331,
     "geom:longitude":6.090407,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Ouches",
     "sg:city":"Mont-la-ville",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186468629,
-    "wof:lastmodified":1449052283,
+    "wof:lastmodified":1466211155,
     "wof:name":"Jean-claude Gaudin Ferblanterie & Couverture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.090407,45.044331,6.090407,45.044331],
+  "bbox": [
+    6.090407,
+    45.044331,
+    6.090407,
+    45.044331
+],
   "geometry": {"coordinates":[6.090407,45.044331],"type":"Point"}
 }

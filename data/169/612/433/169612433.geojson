@@ -2,13 +2,14 @@
   "id": 169612433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54232,47.385471,8.54232,47.385471",
     "geom:latitude":47.385471,
     "geom:longitude":8.54232,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weinbergstrasse 103",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169612433,
-    "wof:lastmodified":1449034129,
+    "wof:lastmodified":1466209421,
     "wof:name":"Onshop Preprint Sandmeier Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [8.54232,47.385471,8.54232,47.385471],
+  "bbox": [
+    8.54232,
+    47.385471,
+    8.54232,
+    47.385471
+],
   "geometry": {"coordinates":[8.54232,47.385471],"type":"Point"}
 }

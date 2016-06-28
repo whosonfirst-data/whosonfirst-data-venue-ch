@@ -2,13 +2,14 @@
   "id": 219804979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.346528,46.981972,8.346528,46.981972",
     "geom:latitude":46.981972,
     "geom:longitude":8.346528,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Harissenbucht",
     "sg:city":"Stansstad",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219804979,
-    "wof:lastmodified":1449072850,
+    "wof:lastmodified":1466212389,
     "wof:name":"Harissen-bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.346528,46.981972,8.346528,46.981972],
+  "bbox": [
+    8.346528,
+    46.981972,
+    8.346528,
+    46.981972
+],
   "geometry": {"coordinates":[8.346528,46.981972],"type":"Point"}
 }

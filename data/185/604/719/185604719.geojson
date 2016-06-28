@@ -2,13 +2,14 @@
   "id": 185604719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.349881,47.084377,8.349881,47.084377",
     "geom:latitude":47.084377,
     "geom:longitude":8.349881,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdierikonerstrasse 17",
     "sg:city":"Ebikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185604719,
-    "wof:lastmodified":1449008036,
+    "wof:lastmodified":1466209105,
     "wof:name":"Lebruto A.l. Recycling",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.349881,47.084377,8.349881,47.084377],
+  "bbox": [
+    8.349881,
+    47.084377,
+    8.349881,
+    47.084377
+],
   "geometry": {"coordinates":[8.349881,47.084377],"type":"Point"}
 }

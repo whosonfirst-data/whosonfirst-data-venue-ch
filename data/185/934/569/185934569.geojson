@@ -2,13 +2,14 @@
   "id": 185934569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.463779,47.49342,9.463779,47.49342",
     "geom:latitude":47.49342,
     "geom:longitude":9.463779,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 17",
     "sg:city":"Horn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185934569,
-    "wof:lastmodified":1449006664,
+    "wof:lastmodified":1466210136,
     "wof:name":"Kinderspitex Sks Schweiz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.463779,47.49342,9.463779,47.49342],
+  "bbox": [
+    9.463779,
+    47.49342,
+    9.463779,
+    47.49342
+],
   "geometry": {"coordinates":[9.463779,47.49342],"type":"Point"}
 }

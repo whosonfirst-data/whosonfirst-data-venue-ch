@@ -2,13 +2,14 @@
   "id": 169837865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59529,47.412872,8.59529,47.412872",
     "geom:latitude":47.412872,
     "geom:longitude":8.59529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotackerstrasse 21",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169837865,
-    "wof:lastmodified":1449033207,
+    "wof:lastmodified":1466209330,
     "wof:name":"Digana Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "absolute"
     ]
 },
-  "bbox": [8.59529,47.412872,8.59529,47.412872],
+  "bbox": [
+    8.59529,
+    47.412872,
+    8.59529,
+    47.412872
+],
   "geometry": {"coordinates":[8.59529,47.412872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203049067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448334,46.948883,7.448334,46.948883",
     "geom:latitude":46.948883,
     "geom:longitude":7.448334,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunngasse 60",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203049067,
-    "wof:lastmodified":1449025863,
+    "wof:lastmodified":1466210134,
     "wof:name":"M\u00fcller Jean-pierre Architekten Ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448334,46.948883,7.448334,46.948883],
+  "bbox": [
+    7.448334,
+    46.948883,
+    7.448334,
+    46.948883
+],
   "geometry": {"coordinates":[7.448334,46.948883],"type":"Point"}
 }

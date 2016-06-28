@@ -2,13 +2,14 @@
   "id": 186526523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.463929,46.934788,7.463929,46.934788",
     "geom:latitude":46.934788,
     "geom:longitude":7.463929,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elfenauweg 68",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186526523,
-    "wof:lastmodified":1449051196,
+    "wof:lastmodified":1466211748,
     "wof:name":"Krankenheim Elfenau Ruth Moser",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.463929,46.934788,7.463929,46.934788],
+  "bbox": [
+    7.463929,
+    46.934788,
+    7.463929,
+    46.934788
+],
   "geometry": {"coordinates":[7.463929,46.934788],"type":"Point"}
 }

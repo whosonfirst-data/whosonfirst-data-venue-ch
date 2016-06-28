@@ -2,13 +2,14 @@
   "id": 220050695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.71,47.748055,8.71,47.748055",
     "geom:latitude":47.748055,
     "geom:longitude":8.71,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ratsteig 4",
     "sg:city":"Thayngen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220050695,
-    "wof:lastmodified":1449074495,
+    "wof:lastmodified":1466209314,
     "wof:name":"Ernst Stamm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.71,47.748055,8.71,47.748055],
+  "bbox": [
+    8.71,
+    47.748055,
+    8.71,
+    47.748055
+],
   "geometry": {"coordinates":[8.71,47.748055],"type":"Point"}
 }

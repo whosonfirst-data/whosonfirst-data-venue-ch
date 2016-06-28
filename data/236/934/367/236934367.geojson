@@ -2,13 +2,14 @@
   "id": 236934367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.584999,47.412647,8.584999,47.412647",
     "geom:latitude":47.412647,
     "geom:longitude":8.584999,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 19 8304 Wallisellen. Postfach",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236934367,
-    "wof:lastmodified":1449001800,
+    "wof:lastmodified":1466213004,
     "wof:name":"Atos Origin (schweiz) Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.584999,47.412647,8.584999,47.412647],
+  "bbox": [
+    8.584999,
+    47.412647,
+    8.584999,
+    47.412647
+],
   "geometry": {"coordinates":[8.584999,47.412647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186577949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.007585,47.324776,8.007585,47.324776",
     "geom:latitude":47.324776,
     "geom:longitude":8.007585,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hofstrasse 71",
     "sg:city":"K\u00f6lliken",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186577949,
-    "wof:lastmodified":1449053103,
+    "wof:lastmodified":1466212066,
     "wof:name":"Zimmerli Apparatebau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "apparatus"
     ]
 },
-  "bbox": [8.007585,47.324776,8.007585,47.324776],
+  "bbox": [
+    8.007585,
+    47.324776,
+    8.007585,
+    47.324776
+],
   "geometry": {"coordinates":[8.007585,47.324776],"type":"Point"}
 }

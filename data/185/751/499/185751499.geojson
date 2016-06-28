@@ -2,13 +2,14 @@
   "id": 185751499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.711254,46.119766,8.711254,46.119766",
     "geom:latitude":46.119766,
     "geom:longitude":8.711254,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Leoncavallo 3 6614 Brissago. Postfach Caselle Postale 246",
     "sg:city":"Brissago",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185751499,
-    "wof:lastmodified":1449006678,
+    "wof:lastmodified":1466211516,
     "wof:name":"Alfredo Berta Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.711254,46.119766,8.711254,46.119766],
+  "bbox": [
+    8.711254,
+    46.119766,
+    8.711254,
+    46.119766
+],
   "geometry": {"coordinates":[8.711254,46.119766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202912477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597742,47.554493,7.597742,47.554493",
     "geom:latitude":47.554493,
     "geom:longitude":7.597742,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-vorstadt 49",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202912477,
-    "wof:lastmodified":1449061376,
+    "wof:lastmodified":1466212180,
     "wof:name":"Peper + Partner Ag, Generalplaner",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.597742,47.554493,7.597742,47.554493],
+  "bbox": [
+    7.597742,
+    47.554493,
+    7.597742,
+    47.554493
+],
   "geometry": {"coordinates":[7.597742,47.554493],"type":"Point"}
 }

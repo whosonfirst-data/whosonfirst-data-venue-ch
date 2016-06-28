@@ -2,13 +2,14 @@
   "id": 203300409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.305607,47.055706,8.305607,47.055706",
     "geom:latitude":47.055706,
     "geom:longitude":8.305607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brambergstrasse 8",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203300409,
-    "wof:lastmodified":1449026021,
+    "wof:lastmodified":1466210539,
     "wof:name":"Dr.med.daniel Kr\u00e4henb\u00fchl Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.305607,47.055706,8.305607,47.055706],
+  "bbox": [
+    8.305607,
+    47.055706,
+    8.305607,
+    47.055706
+],
   "geometry": {"coordinates":[8.305607,47.055706],"type":"Point"}
 }

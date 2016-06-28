@@ -2,13 +2,14 @@
   "id": 253264227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.60616,47.25761,8.60616,47.25761",
     "geom:latitude":47.25761,
     "geom:longitude":8.60616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 305",
     "sg:city":"Horgen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253264227,
-    "wof:lastmodified":1449064754,
+    "wof:lastmodified":1466211600,
     "wof:name":"Vetterli-hemmi Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.60616,47.25761,8.60616,47.25761],
+  "bbox": [
+    8.60616,
+    47.25761,
+    8.60616,
+    47.25761
+],
   "geometry": {"coordinates":[8.60616,47.25761],"type":"Point"}
 }

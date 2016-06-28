@@ -2,13 +2,14 @@
   "id": 186221411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.021203,47.510834,8.021203,47.510834",
     "geom:latitude":47.510834,
     "geom:longitude":8.021203,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neumatt 33 5070 Frick. Postfach",
     "sg:city":"Frick",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186221411,
-    "wof:lastmodified":1449051553,
+    "wof:lastmodified":1466209250,
     "wof:name":"Studer + Schmid Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.021203,47.510834,8.021203,47.510834],
+  "bbox": [
+    8.021203,
+    47.510834,
+    8.021203,
+    47.510834
+],
   "geometry": {"coordinates":[8.021203,47.510834],"type":"Point"}
 }

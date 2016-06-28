@@ -2,13 +2,14 @@
   "id": 203001973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.556789,47.307442,8.556789,47.307442",
     "geom:latitude":47.307442,
     "geom:longitude":8.556789,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bethaniaweg 6",
     "sg:city":"R\u00fcschlikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203001973,
-    "wof:lastmodified":1449025362,
+    "wof:lastmodified":1466208926,
     "wof:name":"Hans Michel Architekturb\u00fcro",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.556789,47.307442,8.556789,47.307442],
+  "bbox": [
+    8.556789,
+    47.307442,
+    8.556789,
+    47.307442
+],
   "geometry": {"coordinates":[8.556789,47.307442],"type":"Point"}
 }

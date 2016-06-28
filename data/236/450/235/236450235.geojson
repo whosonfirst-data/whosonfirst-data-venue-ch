@@ -2,13 +2,14 @@
   "id": 236450235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.38255,47.429806,9.38255,47.429806",
     "geom:latitude":47.429806,
     "geom:longitude":9.38255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weissensteinstrasse 102 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236450235,
-    "wof:lastmodified":1449004638,
+    "wof:lastmodified":1466212423,
     "wof:name":"P\u00e4dagog.hochschule St.gallen Bibliothek",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [9.38255,47.429806,9.38255,47.429806],
+  "bbox": [
+    9.38255,
+    47.429806,
+    9.38255,
+    47.429806
+],
   "geometry": {"coordinates":[9.38255,47.429806],"type":"Point"}
 }

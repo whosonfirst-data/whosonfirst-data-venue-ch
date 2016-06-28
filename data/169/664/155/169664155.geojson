@@ -2,13 +2,14 @@
   "id": 169664155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.25138,47.12767,7.25138,47.12767",
     "geom:latitude":47.12767,
     "geom:longitude":7.25138,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tiefenmattweg 4",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169664155,
-    "wof:lastmodified":1449033914,
+    "wof:lastmodified":1466210329,
     "wof:name":"Dianding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.25138,47.12767,7.25138,47.12767],
+  "bbox": [
+    7.25138,
+    47.12767,
+    7.25138,
+    47.12767
+],
   "geometry": {"coordinates":[7.25138,47.12767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219882799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.737205,47.131145,8.737205,47.131145",
     "geom:latitude":47.131145,
     "geom:longitude":8.737205,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Katzenstrickstrasse 8",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219882799,
-    "wof:lastmodified":1449071026,
+    "wof:lastmodified":1466212613,
     "wof:name":"Genossenschaft Offenes Huus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.737205,47.131145,8.737205,47.131145],
+  "bbox": [
+    8.737205,
+    47.131145,
+    8.737205,
+    47.131145
+],
   "geometry": {"coordinates":[8.737205,47.131145],"type":"Point"}
 }

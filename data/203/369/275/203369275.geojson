@@ -2,13 +2,14 @@
   "id": 203369275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.602214,47.45089,9.602214,47.45089",
     "geom:latitude":47.45089,
     "geom:longitude":9.602214,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorf 86 9428 Walzenhausen. Postfach 142",
     "sg:city":"Walzenhausen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203369275,
-    "wof:lastmodified":1449026777,
+    "wof:lastmodified":1466211223,
     "wof:name":"Dr.med.luzius Kn\u00f6pfli Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.602214,47.45089,9.602214,47.45089],
+  "bbox": [
+    9.602214,
+    47.45089,
+    9.602214,
+    47.45089
+],
   "geometry": {"coordinates":[9.602214,47.45089],"type":"Point"}
 }

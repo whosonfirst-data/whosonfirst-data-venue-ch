@@ -2,13 +2,14 @@
   "id": 252879447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.12958,47.348396,9.12958,47.348396",
     "geom:latitude":47.348396,
     "geom:longitude":9.12958,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 450",
     "sg:city":"Necker",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252879447,
-    "wof:lastmodified":1449005417,
+    "wof:lastmodified":1466210765,
     "wof:name":"Willy Leuthold Textilien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.12958,47.348396,9.12958,47.348396],
+  "bbox": [
+    9.12958,
+    47.348396,
+    9.12958,
+    47.348396
+],
   "geometry": {"coordinates":[9.12958,47.348396],"type":"Point"}
 }

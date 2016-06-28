@@ -2,13 +2,14 @@
   "id": 219439759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.068242,47.175575,7.068242,47.175575",
     "geom:latitude":47.175575,
     "geom:longitude":7.068242,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place De La Gare 3",
     "sg:city":"Courtelary",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219439759,
-    "wof:lastmodified":1449071380,
+    "wof:lastmodified":1466210544,
     "wof:name":"Restaurant Buffet De La Gare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.068242,47.175575,7.068242,47.175575],
+  "bbox": [
+    7.068242,
+    47.175575,
+    7.068242,
+    47.175575
+],
   "geometry": {"coordinates":[7.068242,47.175575],"type":"Point"}
 }

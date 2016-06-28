@@ -2,13 +2,14 @@
   "id": 202475351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632254,46.514866,6.632254,46.514866",
     "geom:latitude":46.514866,
     "geom:longitude":6.632254,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De Grancy 1 1006 Lausanne Case Postale 525",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202475351,
-    "wof:lastmodified":1449061166,
+    "wof:lastmodified":1466211104,
     "wof:name":"Ecoscan Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.632254,46.514866,6.632254,46.514866],
+  "bbox": [
+    6.632254,
+    46.514866,
+    6.632254,
+    46.514866
+],
   "geometry": {"coordinates":[6.632254,46.514866],"type":"Point"}
 }

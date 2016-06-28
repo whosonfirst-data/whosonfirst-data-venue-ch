@@ -2,13 +2,14 @@
   "id": 253433855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.955317,46.011349,8.955317,46.011349",
     "geom:latitude":46.011349,
     "geom:longitude":8.955317,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Zurigo 5",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253433855,
-    "wof:lastmodified":1449063163,
+    "wof:lastmodified":1466212508,
     "wof:name":"Mariella Bassi Boutique A Modo Mio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.955317,46.011349,8.955317,46.011349],
+  "bbox": [
+    8.955317,
+    46.011349,
+    8.955317,
+    46.011349
+],
   "geometry": {"coordinates":[8.955317,46.011349],"type":"Point"}
 }

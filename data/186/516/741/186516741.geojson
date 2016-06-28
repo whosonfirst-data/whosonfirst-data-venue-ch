@@ -2,13 +2,14 @@
   "id": 186516741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.638725,46.752247,7.638725,46.752247",
     "geom:latitude":46.752247,
     "geom:longitude":7.638725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenhofweg 12",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186516741,
-    "wof:lastmodified":1449050917,
+    "wof:lastmodified":1466211581,
     "wof:name":"Sonnenhof Altersheim",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.638725,46.752247,7.638725,46.752247],
+  "bbox": [
+    7.638725,
+    46.752247,
+    7.638725,
+    46.752247
+],
   "geometry": {"coordinates":[7.638725,46.752247],"type":"Point"}
 }

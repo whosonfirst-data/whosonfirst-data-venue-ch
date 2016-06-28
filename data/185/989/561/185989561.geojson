@@ -2,13 +2,14 @@
   "id": 185989561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.541873,46.536205,6.541873,46.536205",
     "geom:latitude":46.536205,
     "geom:longitude":6.541873,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Ch\u00e2teau 19",
     "sg:city":"Echandens",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185989561,
-    "wof:lastmodified":1449007772,
+    "wof:lastmodified":1466210710,
     "wof:name":"Alfred Etter P\u00e9pini\u00e8res Cultures Fruiti\u00e8res",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.541873,46.536205,6.541873,46.536205],
+  "bbox": [
+    6.541873,
+    46.536205,
+    6.541873,
+    46.536205
+],
   "geometry": {"coordinates":[6.541873,46.536205],"type":"Point"}
 }

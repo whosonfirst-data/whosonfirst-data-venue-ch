@@ -2,13 +2,14 @@
   "id": 219765903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585005,47.556561,7.585005,47.556561",
     "geom:latitude":47.556561,
     "geom:longitude":7.585005,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heuberg 4",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219765903,
-    "wof:lastmodified":1449072417,
+    "wof:lastmodified":1466212487,
     "wof:name":"Restaurant Bodega Espana",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "restaurant"
     ]
 },
-  "bbox": [7.585005,47.556561,7.585005,47.556561],
+  "bbox": [
+    7.585005,
+    47.556561,
+    7.585005,
+    47.556561
+],
   "geometry": {"coordinates":[7.585005,47.556561],"type":"Point"}
 }

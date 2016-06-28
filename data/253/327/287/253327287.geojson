@@ -2,13 +2,14 @@
   "id": 253327287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.902605,47.059227,6.902605,47.059227",
     "geom:latitude":47.059227,
     "geom:longitude":6.902605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Fr\u00e9d\u00e9ric Soguel 18 2053 Cernier. Postfach",
     "sg:city":"Cernier",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253327287,
-    "wof:lastmodified":1449063042,
+    "wof:lastmodified":1466211991,
     "wof:name":"Kiosque Du 1er Mars S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.902605,47.059227,6.902605,47.059227],
+  "bbox": [
+    6.902605,
+    47.059227,
+    6.902605,
+    47.059227
+],
   "geometry": {"coordinates":[6.902605,47.059227],"type":"Point"}
 }

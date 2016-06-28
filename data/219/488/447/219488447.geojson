@@ -2,13 +2,14 @@
   "id": 219488447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.29234,46.237949,7.29234,46.237949",
     "geom:latitude":46.237949,
     "geom:longitude":7.29234,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Erde",
     "sg:city":"Erde",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219488447,
-    "wof:lastmodified":1449073822,
+    "wof:lastmodified":1466211030,
     "wof:name":"Banque Cantonale Du Valais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.29234,46.237949,7.29234,46.237949],
+  "bbox": [
+    7.29234,
+    46.237949,
+    7.29234,
+    46.237949
+],
   "geometry": {"coordinates":[7.29234,46.237949],"type":"Point"}
 }

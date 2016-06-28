@@ -2,13 +2,14 @@
   "id": 186498885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.167197,47.416668,8.167197,47.416668",
     "geom:latitude":47.416668,
     "geom:longitude":8.167197,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruggerstrasse 13",
     "sg:city":"Wildegg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186498885,
-    "wof:lastmodified":1449052355,
+    "wof:lastmodified":1466211428,
     "wof:name":"Alterszentrum Chestenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [8.167197,47.416668,8.167197,47.416668],
+  "bbox": [
+    8.167197,
+    47.416668,
+    8.167197,
+    47.416668
+],
   "geometry": {"coordinates":[8.167197,47.416668],"type":"Point"}
 }

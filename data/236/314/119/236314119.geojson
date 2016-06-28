@@ -2,13 +2,14 @@
   "id": 236314119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574418,47.549648,7.574418,47.549648",
     "geom:latitude":47.549648,
     "geom:longitude":7.574418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kluserstrasse 25 4054 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236314119,
-    "wof:lastmodified":1449005080,
+    "wof:lastmodified":1466211805,
     "wof:name":"Rollmerc Ag",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.574418,47.549648,7.574418,47.549648],
+  "bbox": [
+    7.574418,
+    47.549648,
+    7.574418,
+    47.549648
+],
   "geometry": {"coordinates":[7.574418,47.549648],"type":"Point"}
 }

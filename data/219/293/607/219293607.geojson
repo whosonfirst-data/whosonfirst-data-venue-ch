@@ -2,13 +2,14 @@
   "id": 219293607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.473288,47.480392,9.473288,47.480392",
     "geom:latitude":47.480392,
     "geom:longitude":9.473288,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rietbergstrasse 26",
     "sg:city":"Goldach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219293607,
-    "wof:lastmodified":1449071085,
+    "wof:lastmodified":1466209183,
     "wof:name":"Josef Bauer Autoreparaturen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.473288,47.480392,9.473288,47.480392],
+  "bbox": [
+    9.473288,
+    47.480392,
+    9.473288,
+    47.480392
+],
   "geometry": {"coordinates":[9.473288,47.480392],"type":"Point"}
 }

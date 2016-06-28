@@ -2,13 +2,14 @@
   "id": 236964531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.3883,46.934265,7.3883,46.934265",
     "geom:latitude":46.934265,
     "geom:longitude":7.3883,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Morgenstrasse 136",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236964531,
-    "wof:lastmodified":1449004265,
+    "wof:lastmodified":1466213015,
     "wof:name":"Wistar Informatik Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.3883,46.934265,7.3883,46.934265],
+  "bbox": [
+    7.3883,
+    46.934265,
+    7.3883,
+    46.934265
+],
   "geometry": {"coordinates":[7.3883,46.934265],"type":"Point"}
 }

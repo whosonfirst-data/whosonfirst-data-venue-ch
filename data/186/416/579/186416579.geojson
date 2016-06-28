@@ -2,13 +2,14 @@
   "id": 186416579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.855404,47.335526,8.855404,47.335526",
     "geom:latitude":47.335526,
     "geom:longitude":8.855404,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 9",
     "sg:city":"B\u00e4retswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186416579,
-    "wof:lastmodified":1449051579,
+    "wof:lastmodified":1466210731,
     "wof:name":"Wyss Hoch Und Tiefbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.855404,47.335526,8.855404,47.335526],
+  "bbox": [
+    8.855404,
+    47.335526,
+    8.855404,
+    47.335526
+],
   "geometry": {"coordinates":[8.855404,47.335526],"type":"Point"}
 }

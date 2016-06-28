@@ -2,13 +2,14 @@
   "id": 253388775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.457189,46.988861,7.457189,46.988861",
     "geom:latitude":46.988861,
     "geom:longitude":7.457189,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4tternweg 40",
     "sg:city":"Zollikofen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253388775,
-    "wof:lastmodified":1449062937,
+    "wof:lastmodified":1466212330,
     "wof:name":"Von May R. B\u00fcro-dialog",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.457189,46.988861,7.457189,46.988861],
+  "bbox": [
+    7.457189,
+    46.988861,
+    7.457189,
+    46.988861
+],
   "geometry": {"coordinates":[7.457189,46.988861],"type":"Point"}
 }

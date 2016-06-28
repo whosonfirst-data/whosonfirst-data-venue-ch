@@ -2,13 +2,14 @@
   "id": 236620399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.21156,47.093048,7.21156,47.093048",
     "geom:latitude":47.093048,
     "geom:longitude":7.21156,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6rigenweg 10",
     "sg:city":"Sutz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236620399,
-    "wof:lastmodified":1449004904,
+    "wof:lastmodified":1466212789,
     "wof:name":"Campingplatz Lindenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.21156,47.093048,7.21156,47.093048],
+  "bbox": [
+    7.21156,
+    47.093048,
+    7.21156,
+    47.093048
+],
   "geometry": {"coordinates":[7.21156,47.093048],"type":"Point"}
 }

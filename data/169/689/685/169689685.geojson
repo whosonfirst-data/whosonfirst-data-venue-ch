@@ -2,13 +2,14 @@
   "id": 169689685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.05367,47.238632,8.05367,47.238632",
     "geom:latitude":47.238632,
     "geom:longitude":8.05367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 6235 Winikon. Postfach",
     "sg:city":"Winikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169689685,
-    "wof:lastmodified":1449035413,
+    "wof:lastmodified":1466210706,
     "wof:name":"Biene Ag Winikon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.05367,47.238632,8.05367,47.238632],
+  "bbox": [
+    8.05367,
+    47.238632,
+    8.05367,
+    47.238632
+],
   "geometry": {"coordinates":[8.05367,47.238632],"type":"Point"}
 }

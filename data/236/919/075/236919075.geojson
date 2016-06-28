@@ -2,13 +2,14 @@
   "id": 236919075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.394485,47.419849,8.394485,47.419849",
     "geom:latitude":47.419849,
     "geom:longitude":8.394485,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedstrasse 8",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236919075,
-    "wof:lastmodified":1449004273,
+    "wof:lastmodified":1466213023,
     "wof:name":"Techfleet Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.394485,47.419849,8.394485,47.419849],
+  "bbox": [
+    8.394485,
+    47.419849,
+    8.394485,
+    47.419849
+],
   "geometry": {"coordinates":[8.394485,47.419849],"type":"Point"}
 }

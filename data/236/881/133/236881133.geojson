@@ -2,13 +2,14 @@
   "id": 236881133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.576237,47.416195,8.576237,47.416195",
     "geom:latitude":47.416195,
     "geom:longitude":8.576237,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hertistrasse 29",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236881133,
-    "wof:lastmodified":1449003584,
+    "wof:lastmodified":1466212951,
     "wof:name":"H\u00e4rry Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "acquisition"
     ]
 },
-  "bbox": [8.576237,47.416195,8.576237,47.416195],
+  "bbox": [
+    8.576237,
+    47.416195,
+    8.576237,
+    47.416195
+],
   "geometry": {"coordinates":[8.576237,47.416195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252771427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.53987,46.843681,9.53987,46.843681",
     "geom:latitude":46.843681,
     "geom:longitude":9.53987,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandstrasse 59",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252771427,
-    "wof:lastmodified":1449006002,
+    "wof:lastmodified":1466209567,
     "wof:name":"Albert Graf Kupferantiquit\u00e4ten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.53987,46.843681,9.53987,46.843681],
+  "bbox": [
+    9.53987,
+    46.843681,
+    9.53987,
+    46.843681
+],
   "geometry": {"coordinates":[9.53987,46.843681],"type":"Point"}
 }

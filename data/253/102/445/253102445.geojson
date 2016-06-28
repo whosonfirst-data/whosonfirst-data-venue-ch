@@ -2,13 +2,14 @@
   "id": 253102445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629578,46.755875,7.629578,46.755875",
     "geom:latitude":46.755875,
     "geom:longitude":7.629578,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 8",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253102445,
-    "wof:lastmodified":1449065569,
+    "wof:lastmodified":1466209957,
     "wof:name":"Optik Thoma",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629578,46.755875,7.629578,46.755875],
+  "bbox": [
+    7.629578,
+    46.755875,
+    7.629578,
+    46.755875
+],
   "geometry": {"coordinates":[7.629578,46.755875],"type":"Point"}
 }

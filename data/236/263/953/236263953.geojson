@@ -2,13 +2,14 @@
   "id": 236263953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.71161,47.531479,7.71161,47.531479",
     "geom:latitude":47.531479,
     "geom:longitude":7.71161,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Giebenacherstrasse 101",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236263953,
-    "wof:lastmodified":1449005129,
+    "wof:lastmodified":1466211496,
     "wof:name":"Minigolf Ergolz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.71161,47.531479,7.71161,47.531479],
+  "bbox": [
+    7.71161,
+    47.531479,
+    7.71161,
+    47.531479
+],
   "geometry": {"coordinates":[7.71161,47.531479],"type":"Point"}
 }

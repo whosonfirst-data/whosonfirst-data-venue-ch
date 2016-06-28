@@ -2,13 +2,14 @@
   "id": 186486817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.606476,47.397423,8.606476,47.397423",
     "geom:latitude":47.397423,
     "geom:longitude":8.606476,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ringwiesenstrasse 17",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186486817,
-    "wof:lastmodified":1449051878,
+    "wof:lastmodified":1466211324,
     "wof:name":"Altersheim Emmaus-z\u00fcrich",
     "wof:parent_id":85862427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [8.606476,47.397423,8.606476,47.397423],
+  "bbox": [
+    8.606476,
+    47.397423,
+    8.606476,
+    47.397423
+],
   "geometry": {"coordinates":[8.606476,47.397423],"type":"Point"}
 }

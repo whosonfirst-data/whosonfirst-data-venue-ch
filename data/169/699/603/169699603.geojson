@@ -2,13 +2,14 @@
   "id": 169699603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633713,46.520233,6.633713,46.520233",
     "geom:latitude":46.520233,
     "geom:longitude":6.633713,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue St Fran\u00e7ois 18",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169699603,
-    "wof:lastmodified":1449033140,
+    "wof:lastmodified":1466210923,
     "wof:name":"Schaefer Sports Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "miscellaneous"
     ]
 },
-  "bbox": [6.633713,46.520233,6.633713,46.520233],
+  "bbox": [
+    6.633713,
+    46.520233,
+    6.633713,
+    46.520233
+],
   "geometry": {"coordinates":[6.633713,46.520233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236107987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.54675,46.95417,7.54675,46.95417",
     "geom:latitude":46.95417,
     "geom:longitude":7.54675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 20",
     "sg:city":"Boll",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236107987,
-    "wof:lastmodified":1449001685,
+    "wof:lastmodified":1466209862,
     "wof:name":"Krebs Ag, Boll",
     "wof:parent_id":85800475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.54675,46.95417,7.54675,46.95417],
+  "bbox": [
+    7.54675,
+    46.95417,
+    7.54675,
+    46.95417
+],
   "geometry": {"coordinates":[7.54675,46.95417],"type":"Point"}
 }

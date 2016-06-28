@@ -2,13 +2,14 @@
   "id": 253329431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.158251,46.804829,7.158251,46.804829",
     "geom:latitude":46.804829,
     "geom:longitude":7.158251,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Alpes 1",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253329431,
-    "wof:lastmodified":1449063634,
+    "wof:lastmodified":1466212102,
     "wof:name":"Labastrou Jean-claude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.158251,46.804829,7.158251,46.804829],
+  "bbox": [
+    7.158251,
+    46.804829,
+    7.158251,
+    46.804829
+],
   "geometry": {"coordinates":[7.158251,46.804829],"type":"Point"}
 }

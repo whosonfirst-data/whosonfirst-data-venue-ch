@@ -2,13 +2,14 @@
   "id": 169687793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.605495,46.525211,6.605495,46.525211",
     "geom:latitude":46.525211,
     "geom:longitude":6.605495,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterofenstr. 23",
     "sg:city":"Koblenz",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169687793,
-    "wof:lastmodified":1449033608,
+    "wof:lastmodified":1466210702,
     "wof:name":"Plastique Industrielle Sa",
     "wof:parent_id":85800425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "plastic"
     ]
 },
-  "bbox": [6.605495,46.525211,6.605495,46.525211],
+  "bbox": [
+    6.605495,
+    46.525211,
+    6.605495,
+    46.525211
+],
   "geometry": {"coordinates":[6.605495,46.525211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202819107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.463213,46.941284,7.463213,46.941284",
     "geom:latitude":46.941284,
     "geom:longitude":7.463213,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Grey 1",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202819107,
-    "wof:lastmodified":1449060711,
+    "wof:lastmodified":1466211671,
     "wof:name":"Entro Ag",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.463213,46.941284,7.463213,46.941284],
+  "bbox": [
+    7.463213,
+    46.941284,
+    7.463213,
+    46.941284
+],
   "geometry": {"coordinates":[7.463213,46.941284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219773341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.952302,46.149578,8.952302,46.149578",
     "geom:latitude":46.149578,
     "geom:longitude":8.952302,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Residenza Laura",
     "sg:city":"Cadenazzo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219773341,
-    "wof:lastmodified":1449070844,
+    "wof:lastmodified":1466212320,
     "wof:name":"Bar Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.952302,46.149578,8.952302,46.149578],
+  "bbox": [
+    8.952302,
+    46.149578,
+    8.952302,
+    46.149578
+],
   "geometry": {"coordinates":[8.952302,46.149578],"type":"Point"}
 }

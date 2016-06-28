@@ -2,13 +2,14 @@
   "id": 202476329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.049721,46.749683,8.049721,46.749683",
     "geom:latitude":46.749683,
     "geom:longitude":8.049721,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beillon Chemin De",
     "sg:city":"Venth\u00f4ne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202476329,
-    "wof:lastmodified":1449061141,
+    "wof:lastmodified":1466211129,
     "wof:name":"Edac Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.049721,46.749683,8.049721,46.749683],
+  "bbox": [
+    8.049721,
+    46.749683,
+    8.049721,
+    46.749683
+],
   "geometry": {"coordinates":[8.049721,46.749683],"type":"Point"}
 }

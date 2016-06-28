@@ -2,13 +2,14 @@
   "id": 253036793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.604643,46.585121,6.604643,46.585121",
     "geom:latitude":46.585121,
     "geom:longitude":6.604643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Lausanne 6",
     "sg:city":"Cheseaux-lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253036793,
-    "wof:lastmodified":1449063469,
+    "wof:lastmodified":1466209300,
     "wof:name":"Vert-tige Fleurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.604643,46.585121,6.604643,46.585121],
+  "bbox": [
+    6.604643,
+    46.585121,
+    6.604643,
+    46.585121
+],
   "geometry": {"coordinates":[6.604643,46.585121],"type":"Point"}
 }

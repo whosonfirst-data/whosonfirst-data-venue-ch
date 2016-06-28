@@ -2,13 +2,14 @@
   "id": 219610603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.754187,47.332722,7.754187,47.332722",
     "geom:latitude":47.332722,
     "geom:longitude":7.754187,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfzentrum 97",
     "sg:city":"Holderbank",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219610603,
-    "wof:lastmodified":1449073859,
+    "wof:lastmodified":1466211940,
     "wof:name":"Raiffeisenbank Holderbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.754187,47.332722,7.754187,47.332722],
+  "bbox": [
+    7.754187,
+    47.332722,
+    7.754187,
+    47.332722
+],
   "geometry": {"coordinates":[7.754187,47.332722],"type":"Point"}
 }

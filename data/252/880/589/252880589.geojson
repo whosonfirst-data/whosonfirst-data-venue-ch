@@ -2,13 +2,14 @@
   "id": 252880589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.302519,47.050945,8.302519,47.050945",
     "geom:latitude":47.050945,
     "geom:longitude":8.302519,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfistergasse 14",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252880589,
-    "wof:lastmodified":1449006520,
+    "wof:lastmodified":1466210778,
     "wof:name":"Selection 1847 Gmbh",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.302519,47.050945,8.302519,47.050945],
+  "bbox": [
+    8.302519,
+    47.050945,
+    8.302519,
+    47.050945
+],
   "geometry": {"coordinates":[8.302519,47.050945],"type":"Point"}
 }

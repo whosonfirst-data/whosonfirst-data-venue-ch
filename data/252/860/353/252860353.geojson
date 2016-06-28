@@ -2,13 +2,14 @@
   "id": 252860353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.536641,47.208046,7.536641,47.208046",
     "geom:latitude":47.208046,
     "geom:longitude":7.536641,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gurzelngasse 12 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252860353,
-    "wof:lastmodified":1449005893,
+    "wof:lastmodified":1466210567,
     "wof:name":"Pot Shop Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.536641,47.208046,7.536641,47.208046],
+  "bbox": [
+    7.536641,
+    47.208046,
+    7.536641,
+    47.208046
+],
   "geometry": {"coordinates":[7.536641,47.208046],"type":"Point"}
 }

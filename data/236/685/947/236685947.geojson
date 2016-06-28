@@ -2,13 +2,14 @@
   "id": 236685947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.63009,43.893356,2.63009,43.893356",
     "geom:latitude":43.893356,
     "geom:longitude":2.63009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Cardinal- Mermillod 6",
     "sg:city":"Carouge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236685947,
-    "wof:lastmodified":1449005151,
+    "wof:lastmodified":1466212727,
     "wof:name":"Neuchatel Chamber Of Commerce And Industry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commerce"
     ]
 },
-  "bbox": [2.63009,43.893356,2.63009,43.893356],
+  "bbox": [
+    2.63009,
+    43.893356,
+    2.63009,
+    43.893356
+],
   "geometry": {"coordinates":[2.63009,43.893356],"type":"Point"}
 }

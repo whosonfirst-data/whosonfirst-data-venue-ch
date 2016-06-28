@@ -2,13 +2,14 @@
   "id": 203203385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.645354,46.514023,6.645354,46.514023",
     "geom:latitude":46.514023,
     "geom:longitude":6.645354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Trabandan 19",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203203385,
-    "wof:lastmodified":1449025751,
+    "wof:lastmodified":1466209506,
     "wof:name":"Dr M\u00e9d. Mariana Hunger M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.645354,46.514023,6.645354,46.514023],
+  "bbox": [
+    6.645354,
+    46.514023,
+    6.645354,
+    46.514023
+],
   "geometry": {"coordinates":[6.645354,46.514023],"type":"Point"}
 }

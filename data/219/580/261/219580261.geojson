@@ -2,13 +2,14 @@
   "id": 219580261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.345988,47.351448,8.345988,47.351448",
     "geom:latitude":47.351448,
     "geom:longitude":8.345988,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 8",
     "sg:city":"Bremgarten",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219580261,
-    "wof:lastmodified":1449072762,
+    "wof:lastmodified":1466211709,
     "wof:name":"Neue Aargauer Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.345988,47.351448,8.345988,47.351448],
+  "bbox": [
+    8.345988,
+    47.351448,
+    8.345988,
+    47.351448
+],
   "geometry": {"coordinates":[8.345988,47.351448],"type":"Point"}
 }

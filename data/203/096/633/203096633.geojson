@@ -2,13 +2,14 @@
   "id": 203096633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.19442,47.11565,8.19442,47.11565",
     "geom:latitude":47.11565,
     "geom:longitude":8.19442,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6henweg 3b",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203096633,
-    "wof:lastmodified":1449025534,
+    "wof:lastmodified":1466211036,
     "wof:name":"Walter Gabriel Bautreuhand-immobilien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.19442,47.11565,8.19442,47.11565],
+  "bbox": [
+    8.19442,
+    47.11565,
+    8.19442,
+    47.11565
+],
   "geometry": {"coordinates":[8.19442,47.11565],"type":"Point"}
 }

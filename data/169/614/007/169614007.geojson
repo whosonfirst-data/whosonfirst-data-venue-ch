@@ -2,13 +2,14 @@
   "id": 169614007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.443918,47.41048,9.443918,47.41048",
     "geom:latitude":47.41048,
     "geom:longitude":9.443918,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 18",
     "sg:city":"Speicher",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169614007,
-    "wof:lastmodified":1449036061,
+    "wof:lastmodified":1466211635,
     "wof:name":"Lutz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postcard"
     ]
 },
-  "bbox": [9.443918,47.41048,9.443918,47.41048],
+  "bbox": [
+    9.443918,
+    47.41048,
+    9.443918,
+    47.41048
+],
   "geometry": {"coordinates":[9.443918,47.41048],"type":"Point"}
 }

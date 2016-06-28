@@ -2,13 +2,14 @@
   "id": 252933391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.042777,47.465923,9.042777,47.465923",
     "geom:latitude":47.465923,
     "geom:longitude":9.042777,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bronschhoferstrasse 16a 9500 Wil Sg Case Postale 92",
     "sg:city":"Bulle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252933391,
-    "wof:lastmodified":1449005639,
+    "wof:lastmodified":1466211353,
     "wof:name":"Saner Sportswear Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.042777,47.465923,9.042777,47.465923],
+  "bbox": [
+    9.042777,
+    47.465923,
+    9.042777,
+    47.465923
+],
   "geometry": {"coordinates":[9.042777,47.465923],"type":"Point"}
 }

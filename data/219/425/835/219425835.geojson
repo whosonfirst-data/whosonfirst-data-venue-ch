@@ -2,13 +2,14 @@
   "id": 219425835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.984715,46.848118,6.984715,46.848118",
     "geom:latitude":46.848118,
     "geom:longitude":6.984715,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Verwaltungsgeb\u00e4ude Z 8423 Embrach-embraport. Postfach",
     "sg:city":"Embrach-embraport",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219425835,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466210417,
     "wof:name":"Trans Littoral Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.984715,46.848118,6.984715,46.848118],
+  "bbox": [
+    6.984715,
+    46.848118,
+    6.984715,
+    46.848118
+],
   "geometry": {"coordinates":[6.984715,46.848118],"type":"Point"}
 }

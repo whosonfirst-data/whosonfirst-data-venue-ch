@@ -2,13 +2,14 @@
   "id": 219756455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.534265,47.367676,8.534265,47.367676",
     "geom:latitude":47.367676,
     "geom:longitude":8.534265,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bohl 17",
     "sg:city":"St. Gallen",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219756455,
-    "wof:lastmodified":1449072503,
+    "wof:lastmodified":1466212477,
     "wof:name":"Westdeutsche Landesbank (schweiz) Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.534265,47.367676,8.534265,47.367676],
+  "bbox": [
+    8.534265,
+    47.367676,
+    8.534265,
+    47.367676
+],
   "geometry": {"coordinates":[8.534265,47.367676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236781955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435492,46.95451,7.435492,46.95451",
     "geom:latitude":46.95451,
     "geom:longitude":7.435492,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00e4hringerstr. 21",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236781955,
-    "wof:lastmodified":1449002141,
+    "wof:lastmodified":1466212901,
     "wof:name":"Sbd Bibliothek Ss Ag",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [7.435492,46.95451,7.435492,46.95451],
+  "bbox": [
+    7.435492,
+    46.95451,
+    7.435492,
+    46.95451
+],
   "geometry": {"coordinates":[7.435492,46.95451],"type":"Point"}
 }

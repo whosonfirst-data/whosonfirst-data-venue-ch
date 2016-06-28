@@ -2,13 +2,14 @@
   "id": 236437661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.942986,46.996212,6.942986,46.996212",
     "geom:latitude":46.996212,
     "geom:longitude":6.942986,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1618",
     "sg:city":"Ch\u00e2tel-st-denis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236437661,
-    "wof:lastmodified":1449004148,
+    "wof:lastmodified":1466212281,
     "wof:name":"H\u00f4pital Pourtal\u00e8s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [6.942986,46.996212,6.942986,46.996212],
+  "bbox": [
+    6.942986,
+    46.996212,
+    6.942986,
+    46.996212
+],
   "geometry": {"coordinates":[6.942986,46.996212],"type":"Point"}
 }

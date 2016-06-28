@@ -2,13 +2,14 @@
   "id": 219833851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.147365,46.214348,6.147365,46.214348",
     "geom:latitude":46.214348,
     "geom:longitude":6.147365,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Richemont 5",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219833851,
-    "wof:lastmodified":1449070845,
+    "wof:lastmodified":1466212524,
     "wof:name":"Cabaret \u00able Bagheera\u00bb Sarl",
     "wof:parent_id":85800155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.147365,46.214348,6.147365,46.214348],
+  "bbox": [
+    6.147365,
+    46.214348,
+    6.147365,
+    46.214348
+],
   "geometry": {"coordinates":[6.147365,46.214348],"type":"Point"}
 }

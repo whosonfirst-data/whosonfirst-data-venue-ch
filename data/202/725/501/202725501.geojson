@@ -2,13 +2,14 @@
   "id": 202725501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.932125,46.042927,8.932125,46.042927",
     "geom:latitude":46.042927,
     "geom:longitude":8.932125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Girella Via",
     "sg:city":"Lamone",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202725501,
-    "wof:lastmodified":1449060734,
+    "wof:lastmodified":1466210827,
     "wof:name":"Studio D'architettura Franchini & Co Sagl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.932125,46.042927,8.932125,46.042927],
+  "bbox": [
+    8.932125,
+    46.042927,
+    8.932125,
+    46.042927
+],
   "geometry": {"coordinates":[8.932125,46.042927],"type":"Point"}
 }

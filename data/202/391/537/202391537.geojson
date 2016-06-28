@@ -2,13 +2,14 @@
   "id": 202391537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.08299,46.109928,7.08299,46.109928",
     "geom:latitude":46.109928,
     "geom:longitude":7.08299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Bonnes Luites 70",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202391537,
-    "wof:lastmodified":1449061709,
+    "wof:lastmodified":1466209606,
     "wof:name":"Auras, O., Technical Programs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.08299,46.109928,7.08299,46.109928],
+  "bbox": [
+    7.08299,
+    46.109928,
+    7.08299,
+    46.109928
+],
   "geometry": {"coordinates":[7.08299,46.109928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219757935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.485537,47.196281,8.485537,47.196281",
     "geom:latitude":47.196281,
     "geom:longitude":8.485537,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerstr. 5",
     "sg:city":"Steinhausen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219757935,
-    "wof:lastmodified":1449072366,
+    "wof:lastmodified":1466212304,
     "wof:name":"Zuger Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.485537,47.196281,8.485537,47.196281],
+  "bbox": [
+    8.485537,
+    47.196281,
+    8.485537,
+    47.196281
+],
   "geometry": {"coordinates":[8.485537,47.196281],"type":"Point"}
 }

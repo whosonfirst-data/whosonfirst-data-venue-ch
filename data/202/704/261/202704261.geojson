@@ -2,13 +2,14 @@
   "id": 202704261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048325,47.406811,8.048325,47.406811",
     "geom:latitude":47.406811,
     "geom:longitude":8.048325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ahornweg 16",
     "sg:city":"Rombach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202704261,
-    "wof:lastmodified":1449060774,
+    "wof:lastmodified":1466210628,
     "wof:name":"Schneider Consulting",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.048325,47.406811,8.048325,47.406811],
+  "bbox": [
+    8.048325,
+    47.406811,
+    8.048325,
+    47.406811
+],
   "geometry": {"coordinates":[8.048325,47.406811],"type":"Point"}
 }

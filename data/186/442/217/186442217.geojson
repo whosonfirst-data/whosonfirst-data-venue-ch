@@ -2,13 +2,14 @@
   "id": 186442217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600775,46.74519,7.600775,46.74519",
     "geom:latitude":46.74519,
     "geom:longitude":7.600775,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6675",
     "sg:city":"Cevio",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186442217,
-    "wof:lastmodified":1449051552,
+    "wof:lastmodified":1466210947,
     "wof:name":"Benz Hoch-& Tiefbau Gmbh",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600775,46.74519,7.600775,46.74519],
+  "bbox": [
+    7.600775,
+    46.74519,
+    7.600775,
+    46.74519
+],
   "geometry": {"coordinates":[7.600775,46.74519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202515659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.685811,46.5023,6.685811,46.5023",
     "geom:latitude":46.5023,
     "geom:longitude":6.685811,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Bourg 1",
     "sg:city":"Lutry",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202515659,
-    "wof:lastmodified":1449060694,
+    "wof:lastmodified":1466211599,
     "wof:name":"Giacomini & Jolliet Ing\u00e9nieurs Civils & Associ\u00e9s Sa",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.685811,46.5023,6.685811,46.5023],
+  "bbox": [
+    6.685811,
+    46.5023,
+    6.685811,
+    46.5023
+],
   "geometry": {"coordinates":[6.685811,46.5023],"type":"Point"}
 }

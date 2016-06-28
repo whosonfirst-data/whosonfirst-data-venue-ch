@@ -2,13 +2,14 @@
   "id": 219249065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.602559,47.307625,8.602559,47.307625",
     "geom:latitude":47.307625,
     "geom:longitude":8.602559,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gruebstrasse 1",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219249065,
-    "wof:lastmodified":1449070565,
+    "wof:lastmodified":1466211517,
     "wof:name":"Albert Riethmann Garage Allmend",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.602559,47.307625,8.602559,47.307625],
+  "bbox": [
+    8.602559,
+    47.307625,
+    8.602559,
+    47.307625
+],
   "geometry": {"coordinates":[8.602559,47.307625],"type":"Point"}
 }

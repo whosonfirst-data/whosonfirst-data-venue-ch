@@ -2,13 +2,14 @@
   "id": 219860065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.138872,46.208454,6.138872,46.208454",
     "geom:latitude":46.208454,
     "geom:longitude":6.138872,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Jean-dassier 14",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219860065,
-    "wof:lastmodified":1449071969,
+    "wof:lastmodified":1466212503,
     "wof:name":"Caf\u00e9-bar Nazar",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tea-rooms"
     ]
 },
-  "bbox": [6.138872,46.208454,6.138872,46.208454],
+  "bbox": [
+    6.138872,
+    46.208454,
+    6.138872,
+    46.208454
+],
   "geometry": {"coordinates":[6.138872,46.208454],"type":"Point"}
 }

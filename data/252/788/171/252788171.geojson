@@ -2,13 +2,14 @@
   "id": 252788171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.746261,47.126526,8.746261,47.126526",
     "geom:latitude":47.126526,
     "geom:longitude":8.746261,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlestrasse 3a",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252788171,
-    "wof:lastmodified":1449005981,
+    "wof:lastmodified":1466209766,
     "wof:name":"Ernst Hensler Antik & Brockenstube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.746261,47.126526,8.746261,47.126526],
+  "bbox": [
+    8.746261,
+    47.126526,
+    8.746261,
+    47.126526
+],
   "geometry": {"coordinates":[8.746261,47.126526],"type":"Point"}
 }

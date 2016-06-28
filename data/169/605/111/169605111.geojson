@@ -2,13 +2,14 @@
   "id": 169605111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.272315,50.000561,8.272315,50.000561",
     "geom:latitude":50.000561,
     "geom:longitude":8.272315,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Frankfurt Am Main",
     "sg:classifiers":[],
     "sg:orig_category":"Medien, Multimedia",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169605111,
-    "wof:lastmodified":1449034291,
+    "wof:lastmodified":1466209136,
     "wof:name":"Atkon Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.272315,50.000561,8.272315,50.000561],
+  "bbox": [
+    8.272315,
+    50.000561,
+    8.272315,
+    50.000561
+],
   "geometry": {"coordinates":[8.272315,50.000561],"type":"Point"}
 }

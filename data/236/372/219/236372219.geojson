@@ -2,13 +2,14 @@
   "id": 236372219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465715,46.947323,7.465715,46.947323",
     "geom:latitude":46.947323,
     "geom:longitude":7.465715,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 19",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236372219,
-    "wof:lastmodified":1449003695,
+    "wof:lastmodified":1466212169,
     "wof:name":"Sekundarschule Laubegg",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465715,46.947323,7.465715,46.947323],
+  "bbox": [
+    7.465715,
+    46.947323,
+    7.465715,
+    46.947323
+],
   "geometry": {"coordinates":[7.465715,46.947323],"type":"Point"}
 }

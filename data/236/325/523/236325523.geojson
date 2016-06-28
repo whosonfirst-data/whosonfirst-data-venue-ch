@@ -2,13 +2,14 @@
   "id": 236325523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155357,46.809608,7.155357,46.809608",
     "geom:latitude":46.809608,
     "geom:longitude":7.155357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Jean-grimoux 17 1700 Fribourg Case Postale 904",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236325523,
-    "wof:lastmodified":1449002851,
+    "wof:lastmodified":1466211874,
     "wof:name":"Taxis-r\u00e9unis Abc Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155357,46.809608,7.155357,46.809608],
+  "bbox": [
+    7.155357,
+    46.809608,
+    7.155357,
+    46.809608
+],
   "geometry": {"coordinates":[7.155357,46.809608],"type":"Point"}
 }

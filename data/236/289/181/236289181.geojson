@@ -2,13 +2,14 @@
   "id": 236289181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.245857,47.584743,8.245857,47.584743",
     "geom:latitude":47.584743,
     "geom:longitude":8.245857,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Felsenweg 13",
     "sg:city":"Klingnau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236289181,
-    "wof:lastmodified":1449004588,
+    "wof:lastmodified":1466211672,
     "wof:name":"Biotaxi Maslic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.245857,47.584743,8.245857,47.584743],
+  "bbox": [
+    8.245857,
+    47.584743,
+    8.245857,
+    47.584743
+],
   "geometry": {"coordinates":[8.245857,47.584743],"type":"Point"}
 }

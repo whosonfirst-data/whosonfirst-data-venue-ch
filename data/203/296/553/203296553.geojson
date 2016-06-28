@@ -2,13 +2,14 @@
   "id": 203296553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436498,46.955013,7.436498,46.955013",
     "geom:latitude":46.955013,
     "geom:longitude":7.436498,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frohbergweg 9",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203296553,
-    "wof:lastmodified":1449026484,
+    "wof:lastmodified":1466210499,
     "wof:name":"Dr.med.christoph Zimmermann Spezialarzt Fmh",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436498,46.955013,7.436498,46.955013],
+  "bbox": [
+    7.436498,
+    46.955013,
+    7.436498,
+    46.955013
+],
   "geometry": {"coordinates":[7.436498,46.955013],"type":"Point"}
 }

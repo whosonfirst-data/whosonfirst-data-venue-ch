@@ -2,13 +2,14 @@
   "id": 253073059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.300412,47.545834,9.300412,47.545834",
     "geom:latitude":47.545834,
     "geom:longitude":9.300412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Romanshornerstrasse 3",
     "sg:city":"Amriswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253073059,
-    "wof:lastmodified":1449063228,
+    "wof:lastmodified":1466209655,
     "wof:name":"Forsthuber Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.300412,47.545834,9.300412,47.545834],
+  "bbox": [
+    9.300412,
+    47.545834,
+    9.300412,
+    47.545834
+],
   "geometry": {"coordinates":[9.300412,47.545834],"type":"Point"}
 }

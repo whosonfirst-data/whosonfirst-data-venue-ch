@@ -2,13 +2,14 @@
   "id": 186450493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.542478,46.513264,6.542478,46.513264",
     "geom:latitude":46.513264,
     "geom:longitude":6.542478,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St\u00f6renbergstrasse 16",
     "sg:city":"Mammern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186450493,
-    "wof:lastmodified":1449052595,
+    "wof:lastmodified":1466211011,
     "wof:name":"Imhof Sa Lausanne Entreprise De Construction",
     "wof:parent_id":85800161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.542478,46.513264,6.542478,46.513264],
+  "bbox": [
+    6.542478,
+    46.513264,
+    6.542478,
+    46.513264
+],
   "geometry": {"coordinates":[6.542478,46.513264],"type":"Point"}
 }

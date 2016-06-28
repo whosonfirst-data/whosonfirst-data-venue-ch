@@ -2,13 +2,14 @@
   "id": 203191629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.540417,46.577187,6.540417,46.577187",
     "geom:latitude":46.577187,
     "geom:longitude":6.540417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Poste",
     "sg:city":"Vufflens-la-ville",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203191629,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1466209379,
     "wof:name":"Dr M\u00e9d. Jean-denis Croisier M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.540417,46.577187,6.540417,46.577187],
+  "bbox": [
+    6.540417,
+    46.577187,
+    6.540417,
+    46.577187
+],
   "geometry": {"coordinates":[6.540417,46.577187],"type":"Point"}
 }

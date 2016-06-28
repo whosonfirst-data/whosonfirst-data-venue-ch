@@ -2,13 +2,14 @@
   "id": 219782485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.958556,46.357132,8.958556,46.357132",
     "geom:latitude":46.357132,
     "geom:longitude":8.958556,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ai Chiabi 16",
     "sg:city":"Biasca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219782485,
-    "wof:lastmodified":1449070364,
+    "wof:lastmodified":1466212503,
     "wof:name":"Bar Mondo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.958556,46.357132,8.958556,46.357132],
+  "bbox": [
+    8.958556,
+    46.357132,
+    8.958556,
+    46.357132
+],
   "geometry": {"coordinates":[8.958556,46.357132],"type":"Point"}
 }

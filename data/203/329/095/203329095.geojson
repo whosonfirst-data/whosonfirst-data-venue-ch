@@ -2,13 +2,14 @@
   "id": 203329095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436097,46.943207,7.436097,46.943207",
     "geom:latitude":46.943207,
     "geom:longitude":7.436097,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Monbijoustrasse 39",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203329095,
-    "wof:lastmodified":1449025432,
+    "wof:lastmodified":1466210825,
     "wof:name":"Dr.med.hans Kr\u00e4uchi Spezialarzt Fmh",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.436097,46.943207,7.436097,46.943207],
+  "bbox": [
+    7.436097,
+    46.943207,
+    7.436097,
+    46.943207
+],
   "geometry": {"coordinates":[7.436097,46.943207],"type":"Point"}
 }

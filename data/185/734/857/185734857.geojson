@@ -2,13 +2,14 @@
   "id": 185734857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.153519,46.20129,6.153519,46.20129",
     "geom:latitude":46.20129,
     "geom:longitude":6.153519,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterdorf 13",
     "sg:city":"Speicher",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185734857,
-    "wof:lastmodified":1449008020,
+    "wof:lastmodified":1466211366,
     "wof:name":"Pietro Sansonetti Etude D'avocat",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.153519,46.20129,6.153519,46.20129],
+  "bbox": [
+    6.153519,
+    46.20129,
+    6.153519,
+    46.20129
+],
   "geometry": {"coordinates":[6.153519,46.20129],"type":"Point"}
 }

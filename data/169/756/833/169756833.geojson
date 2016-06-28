@@ -2,13 +2,14 @@
   "id": 169756833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.457982,46.941612,7.457982,46.941612",
     "geom:latitude":46.941612,
     "geom:longitude":7.457982,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenstrasse 29 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169756833,
-    "wof:lastmodified":1449034661,
+    "wof:lastmodified":1466211407,
     "wof:name":"South Africa Embassy",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.457982,46.941612,7.457982,46.941612],
+  "bbox": [
+    7.457982,
+    46.941612,
+    7.457982,
+    46.941612
+],
   "geometry": {"coordinates":[7.457982,46.941612],"type":"Point"}
 }

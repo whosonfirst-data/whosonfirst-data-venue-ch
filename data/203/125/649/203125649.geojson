@@ -2,13 +2,14 @@
   "id": 203125649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.145785,46.202923,6.145785,46.202923",
     "geom:latitude":46.202923,
     "geom:longitude":6.145785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La R\u00f4tisserie 4",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203125649,
-    "wof:lastmodified":1449026808,
+    "wof:lastmodified":1466211383,
     "wof:name":"Loretti Sa",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "glazings"
     ]
 },
-  "bbox": [6.145785,46.202923,6.145785,46.202923],
+  "bbox": [
+    6.145785,
+    46.202923,
+    6.145785,
+    46.202923
+],
   "geometry": {"coordinates":[6.145785,46.202923],"type":"Point"}
 }

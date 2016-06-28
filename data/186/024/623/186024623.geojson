@@ -2,13 +2,14 @@
   "id": 186024623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.740156,47.061802,7.740156,47.061802",
     "geom:latitude":47.061802,
     "geom:longitude":7.740156,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hertistrasse 1 8304 Wallisellen. Postfach",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186024623,
-    "wof:lastmodified":1449051671,
+    "wof:lastmodified":1466209642,
     "wof:name":"Bieri Paul Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.740156,47.061802,7.740156,47.061802],
+  "bbox": [
+    7.740156,
+    47.061802,
+    7.740156,
+    47.061802
+],
   "geometry": {"coordinates":[7.740156,47.061802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236262371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.503337,47.17802,8.503337,47.17802",
     "geom:latitude":47.17802,
     "geom:longitude":8.503337,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"General-guisan-strasse 6300 Zug. Postfach 3337",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236262371,
-    "wof:lastmodified":1449003740,
+    "wof:lastmodified":1466211482,
     "wof:name":"Kunsteisbahn Zug Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.503337,47.17802,8.503337,47.17802],
+  "bbox": [
+    8.503337,
+    47.17802,
+    8.503337,
+    47.17802
+],
   "geometry": {"coordinates":[8.503337,47.17802],"type":"Point"}
 }

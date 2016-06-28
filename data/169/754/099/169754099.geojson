@@ -2,13 +2,14 @@
   "id": 169754099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.457488,46.940662,7.457488,46.940662",
     "geom:latitude":46.940662,
     "geom:longitude":7.457488,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 50 - P.o. Box 265 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169754099,
-    "wof:lastmodified":1449034851,
+    "wof:lastmodified":1466211377,
     "wof:name":"British Embassy",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.457488,46.940662,7.457488,46.940662],
+  "bbox": [
+    7.457488,
+    46.940662,
+    7.457488,
+    46.940662
+],
   "geometry": {"coordinates":[7.457488,46.940662],"type":"Point"}
 }

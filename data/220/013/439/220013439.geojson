@@ -2,13 +2,14 @@
   "id": 220013439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.981001,45.871918,8.981001,45.871918",
     "geom:latitude":45.871918,
     "geom:longitude":8.981001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Francesco Catenazzi 33",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220013439,
-    "wof:lastmodified":1449074596,
+    "wof:lastmodified":1466208996,
     "wof:name":"Gerardo Marchio Falegnameria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.981001,45.871918,8.981001,45.871918],
+  "bbox": [
+    8.981001,
+    45.871918,
+    8.981001,
+    45.871918
+],
   "geometry": {"coordinates":[8.981001,45.871918],"type":"Point"}
 }

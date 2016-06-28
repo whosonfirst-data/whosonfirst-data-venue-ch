@@ -2,13 +2,14 @@
   "id": 185721923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.566293,47.37075,8.566293,47.37075",
     "geom:latitude":47.37075,
     "geom:longitude":8.566293,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Heuelstrasse 21 8032 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185721923,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1466211286,
     "wof:name":"Langner Stieger & Trachsel Advokaturb\u00fcro",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.566293,47.37075,8.566293,47.37075],
+  "bbox": [
+    8.566293,
+    47.37075,
+    8.566293,
+    47.37075
+],
   "geometry": {"coordinates":[8.566293,47.37075],"type":"Point"}
 }

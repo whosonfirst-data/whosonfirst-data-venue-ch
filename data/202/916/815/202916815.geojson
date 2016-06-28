@@ -2,13 +2,14 @@
   "id": 202916815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.654438,47.253948,7.654438,47.253948",
     "geom:latitude":47.253948,
     "geom:longitude":7.654438,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 32d",
     "sg:city":"Wiedlisbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202916815,
-    "wof:lastmodified":1449061500,
+    "wof:lastmodified":1466212076,
     "wof:name":"Fichtel Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.654438,47.253948,7.654438,47.253948],
+  "bbox": [
+    7.654438,
+    47.253948,
+    7.654438,
+    47.253948
+],
   "geometry": {"coordinates":[7.654438,47.253948],"type":"Point"}
 }

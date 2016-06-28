@@ -2,13 +2,14 @@
   "id": 219846021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.595919,47.381859,8.595919,47.381859",
     "geom:latitude":47.381859,
     "geom:longitude":8.595919,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tobelhofstrasse 344",
     "sg:city":"Gockhausen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219846021,
-    "wof:lastmodified":1449073141,
+    "wof:lastmodified":1466212640,
     "wof:name":"Restaurant & Bar Cordon Rouge",
     "wof:parent_id":85800565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.595919,47.381859,8.595919,47.381859],
+  "bbox": [
+    8.595919,
+    47.381859,
+    8.595919,
+    47.381859
+],
   "geometry": {"coordinates":[8.595919,47.381859],"type":"Point"}
 }

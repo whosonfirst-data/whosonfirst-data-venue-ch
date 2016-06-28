@@ -2,13 +2,14 @@
   "id": 219836167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.813062,46.176434,8.813062,46.176434",
     "geom:latitude":46.176434,
     "geom:longitude":8.813062,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Gottardo 66",
     "sg:city":"Minusio",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219836167,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466212531,
     "wof:name":"Bar Capriccio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.813062,46.176434,8.813062,46.176434],
+  "bbox": [
+    8.813062,
+    46.176434,
+    8.813062,
+    46.176434
+],
   "geometry": {"coordinates":[8.813062,46.176434],"type":"Point"}
 }

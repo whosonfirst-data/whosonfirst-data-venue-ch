@@ -2,13 +2,14 @@
   "id": 169763269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.610883,47.404079,7.610883,47.404079",
     "geom:latitude":47.404079,
     "geom:longitude":7.610883,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ramster\u00fctti 23",
     "sg:city":"Nunningen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169763269,
-    "wof:lastmodified":1449035956,
+    "wof:lastmodified":1466211457,
     "wof:name":"Carart Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.610883,47.404079,7.610883,47.404079],
+  "bbox": [
+    7.610883,
+    47.404079,
+    7.610883,
+    47.404079
+],
   "geometry": {"coordinates":[7.610883,47.404079],"type":"Point"}
 }

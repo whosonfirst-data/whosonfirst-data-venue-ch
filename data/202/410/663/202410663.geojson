@@ -2,13 +2,14 @@
   "id": 202410663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.650233,47.022556,8.650233,47.022556",
     "geom:latitude":47.022556,
     "geom:longitude":8.650233,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrengasse 34 6430 Schwyz. Postfach 43",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202410663,
-    "wof:lastmodified":1449060143,
+    "wof:lastmodified":1466209876,
     "wof:name":"Bigler Ag, Ingenieure & Planer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.650233,47.022556,8.650233,47.022556],
+  "bbox": [
+    8.650233,
+    47.022556,
+    8.650233,
+    47.022556
+],
   "geometry": {"coordinates":[8.650233,47.022556],"type":"Point"}
 }

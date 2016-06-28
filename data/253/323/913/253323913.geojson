@@ -2,13 +2,14 @@
   "id": 253323913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.447681,46.932049,7.447681,46.932049",
     "geom:latitude":46.932049,
     "geom:longitude":7.447681,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarhaldenstr. 21 (post Wabern) 3000 Bern. Postfach",
     "sg:city":"Gurten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253323913,
-    "wof:lastmodified":1449063070,
+    "wof:lastmodified":1466211973,
     "wof:name":"Kiba M. Zurfluh",
     "wof:parent_id":85800599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.447681,46.932049,7.447681,46.932049],
+  "bbox": [
+    7.447681,
+    46.932049,
+    7.447681,
+    46.932049
+],
   "geometry": {"coordinates":[7.447681,46.932049],"type":"Point"}
 }

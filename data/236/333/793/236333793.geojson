@@ -2,13 +2,14 @@
   "id": 236333793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.085246,47.378326,9.085246,47.378326",
     "geom:latitude":47.378326,
     "geom:longitude":9.085246,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Toggenburgerstrasse 37",
     "sg:city":"Ganterschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236333793,
-    "wof:lastmodified":1449004973,
+    "wof:lastmodified":1466211900,
     "wof:name":"Hobi Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.085246,47.378326,9.085246,47.378326],
+  "bbox": [
+    9.085246,
+    47.378326,
+    9.085246,
+    47.378326
+],
   "geometry": {"coordinates":[9.085246,47.378326],"type":"Point"}
 }

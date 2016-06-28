@@ -2,13 +2,14 @@
   "id": 185960441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.393128,46.968056,7.393128,46.968056",
     "geom:latitude":46.968056,
     "geom:longitude":7.393128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnmattweg 9 3032 Hinterkappelen. Postfach",
     "sg:city":"Hinterkappelen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185960441,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466210397,
     "wof:name":"Libruda Ag",
     "wof:parent_id":85799967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.393128,46.968056,7.393128,46.968056],
+  "bbox": [
+    7.393128,
+    46.968056,
+    7.393128,
+    46.968056
+],
   "geometry": {"coordinates":[7.393128,46.968056],"type":"Point"}
 }

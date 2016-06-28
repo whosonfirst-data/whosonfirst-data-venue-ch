@@ -2,13 +2,14 @@
   "id": 236310323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.947311,45.99025,8.947311,45.99025",
     "geom:latitude":45.99025,
     "geom:longitude":8.947311,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bosia 15",
     "sg:city":"Paradiso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236310323,
-    "wof:lastmodified":1449003723,
+    "wof:lastmodified":1466211912,
     "wof:name":"Nuova Express Taxi Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.947311,45.99025,8.947311,45.99025],
+  "bbox": [
+    8.947311,
+    45.99025,
+    8.947311,
+    45.99025
+],
   "geometry": {"coordinates":[8.947311,45.99025],"type":"Point"}
 }

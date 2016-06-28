@@ -2,13 +2,14 @@
   "id": 253104055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.58259,47.317562,8.58259,47.317562",
     "geom:latitude":47.317562,
     "geom:longitude":8.58259,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wehntalerstrasse 536 8046 Z\u00fcrich. Postfach 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253104055,
-    "wof:lastmodified":1449064045,
+    "wof:lastmodified":1466209974,
     "wof:name":"Augenoptik Gotheil Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.58259,47.317562,8.58259,47.317562],
+  "bbox": [
+    8.58259,
+    47.317562,
+    8.58259,
+    47.317562
+],
   "geometry": {"coordinates":[8.58259,47.317562],"type":"Point"}
 }

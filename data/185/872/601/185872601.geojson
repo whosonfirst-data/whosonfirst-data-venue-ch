@@ -2,13 +2,14 @@
   "id": 185872601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.503899,46.933895,7.503899,46.933895",
     "geom:latitude":46.933895,
     "geom:longitude":7.503899,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Worbstrasse 204",
     "sg:city":"G\u00fcmligen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185872601,
-    "wof:lastmodified":1449006751,
+    "wof:lastmodified":1466209662,
     "wof:name":"Baumag Baumanagement Ag G\u00fcmligen",
     "wof:parent_id":85800239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.503899,46.933895,7.503899,46.933895],
+  "bbox": [
+    7.503899,
+    46.933895,
+    7.503899,
+    46.933895
+],
   "geometry": {"coordinates":[7.503899,46.933895],"type":"Point"}
 }

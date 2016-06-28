@@ -2,13 +2,14 @@
   "id": 219659559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.545559,47.479076,7.545559,47.479076",
     "geom:latitude":47.479076,
     "geom:longitude":7.545559,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im G\u00fcggelbach 2",
     "sg:city":"Ettingen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219659559,
-    "wof:lastmodified":1449070771,
+    "wof:lastmodified":1466212174,
     "wof:name":"Raiffeisenkasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.545559,47.479076,7.545559,47.479076],
+  "bbox": [
+    7.545559,
+    47.479076,
+    7.545559,
+    47.479076
+],
   "geometry": {"coordinates":[7.545559,47.479076],"type":"Point"}
 }

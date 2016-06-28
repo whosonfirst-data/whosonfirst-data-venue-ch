@@ -2,13 +2,14 @@
   "id": 169622593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.63739,46.523357,6.63739,46.523357",
     "geom:latitude":46.523357,
     "geom:longitude":6.63739,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Saint-martin 28 1005 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169622593,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466209656,
     "wof:name":"Belfor (suisse) Ag",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.63739,46.523357,6.63739,46.523357],
+  "bbox": [
+    6.63739,
+    46.523357,
+    6.63739,
+    46.523357
+],
   "geometry": {"coordinates":[6.63739,46.523357],"type":"Point"}
 }

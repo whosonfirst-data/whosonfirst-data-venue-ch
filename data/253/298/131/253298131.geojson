@@ -2,13 +2,14 @@
   "id": 253298131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53957,47.375931,8.53957,47.375931",
     "geom:latitude":47.375931,
     "geom:longitude":8.53957,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofpassage 94",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253298131,
-    "wof:lastmodified":1449063613,
+    "wof:lastmodified":1466211850,
     "wof:name":"Alfred Barth Ag Buchhandlung",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53957,47.375931,8.53957,47.375931],
+  "bbox": [
+    8.53957,
+    47.375931,
+    8.53957,
+    47.375931
+],
   "geometry": {"coordinates":[8.53957,47.375931],"type":"Point"}
 }

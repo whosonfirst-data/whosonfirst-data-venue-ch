@@ -2,13 +2,14 @@
   "id": 219234313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.520788,47.36459,8.520788,47.36459",
     "geom:latitude":47.36459,
     "geom:longitude":8.520788,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Uetlibergstrasse 24 8045 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219234313,
-    "wof:lastmodified":1449073713,
+    "wof:lastmodified":1466211329,
     "wof:name":"Jimmy's Services Ag Partyservice Und Eventmarketing",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.520788,47.36459,8.520788,47.36459],
+  "bbox": [
+    8.520788,
+    47.36459,
+    8.520788,
+    47.36459
+],
   "geometry": {"coordinates":[8.520788,47.36459],"type":"Point"}
 }

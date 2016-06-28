@@ -2,13 +2,14 @@
   "id": 185938583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.38011,47.546181,8.38011,47.546181",
     "geom:latitude":47.546181,
     "geom:longitude":8.38011,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 210",
     "sg:city":"Siglistorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185938583,
-    "wof:lastmodified":1449007802,
+    "wof:lastmodified":1466210168,
     "wof:name":"Spitex Region Studenland Krankenpflege",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.38011,47.546181,8.38011,47.546181],
+  "bbox": [
+    8.38011,
+    47.546181,
+    8.38011,
+    47.546181
+],
   "geometry": {"coordinates":[8.38011,47.546181],"type":"Point"}
 }

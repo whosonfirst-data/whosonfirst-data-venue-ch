@@ -2,13 +2,14 @@
   "id": 169824191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.163101,47.470795,8.163101,47.470795",
     "geom:latitude":47.470795,
     "geom:longitude":8.163101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintergasse 4",
     "sg:city":"Villnachern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169824191,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1466209233,
     "wof:name":"Rufra Immobilien Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.163101,47.470795,8.163101,47.470795],
+  "bbox": [
+    8.163101,
+    47.470795,
+    8.163101,
+    47.470795
+],
   "geometry": {"coordinates":[8.163101,47.470795],"type":"Point"}
 }

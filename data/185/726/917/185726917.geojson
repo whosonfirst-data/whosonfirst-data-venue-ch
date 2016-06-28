@@ -2,13 +2,14 @@
   "id": 185726917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545147,47.368073,8.545147,47.368073",
     "geom:latitude":47.368073,
     "geom:longitude":8.545147,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schiffl\u00e4nde26",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185726917,
-    "wof:lastmodified":1449007689,
+    "wof:lastmodified":1466211323,
     "wof:name":"Martin Rickli Rechtsanwalt",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545147,47.368073,8.545147,47.368073],
+  "bbox": [
+    8.545147,
+    47.368073,
+    8.545147,
+    47.368073
+],
   "geometry": {"coordinates":[8.545147,47.368073],"type":"Point"}
 }

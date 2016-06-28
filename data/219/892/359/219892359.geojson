@@ -2,13 +2,14 @@
   "id": 219892359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.322433,47.462921,8.322433,47.462921",
     "geom:latitude":47.462921,
     "geom:longitude":8.322433,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alberich Zwyssigstrasse 41",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219892359,
-    "wof:lastmodified":1449070906,
+    "wof:lastmodified":1466212615,
     "wof:name":"Wohnbaugen.an Der Limmat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.322433,47.462921,8.322433,47.462921],
+  "bbox": [
+    8.322433,
+    47.462921,
+    8.322433,
+    47.462921
+],
   "geometry": {"coordinates":[8.322433,47.462921],"type":"Point"}
 }

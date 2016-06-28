@@ -2,13 +2,14 @@
   "id": 252745181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.385725,46.95639,8.385725,46.95639",
     "geom:latitude":46.95639,
     "geom:longitude":8.385725,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 10",
     "sg:city":"Oberdorf",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252745181,
-    "wof:lastmodified":1449006452,
+    "wof:lastmodified":1466209278,
     "wof:name":"Dentalstudio Dr. H. C. Erwin Kreit Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gold"
     ]
 },
-  "bbox": [8.385725,46.95639,8.385725,46.95639],
+  "bbox": [
+    8.385725,
+    46.95639,
+    8.385725,
+    46.95639
+],
   "geometry": {"coordinates":[8.385725,46.95639],"type":"Point"}
 }

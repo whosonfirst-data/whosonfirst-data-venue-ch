@@ -2,13 +2,14 @@
   "id": 186260907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.655836,47.019978,8.655836,47.019978",
     "geom:latitude":47.019978,
     "geom:longitude":8.655836,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strehlgasse 16",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186260907,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466209557,
     "wof:name":"Z\u00dcwo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.655836,47.019978,8.655836,47.019978],
+  "bbox": [
+    8.655836,
+    47.019978,
+    8.655836,
+    47.019978
+],
   "geometry": {"coordinates":[8.655836,47.019978],"type":"Point"}
 }

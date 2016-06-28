@@ -2,13 +2,14 @@
   "id": 236893499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.685797,46.529293,6.685797,46.529293",
     "geom:latitude":46.529293,
     "geom:longitude":6.685797,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Louche 18 1092 Belmont-lausanne Case Postale 23",
     "sg:city":"Ch\u00e2telard-lutry",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236893499,
-    "wof:lastmodified":1449004496,
+    "wof:lastmodified":1466213012,
     "wof:name":"Adp Organisation Sa",
     "wof:parent_id":85799767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.685797,46.529293,6.685797,46.529293],
+  "bbox": [
+    6.685797,
+    46.529293,
+    6.685797,
+    46.529293
+],
   "geometry": {"coordinates":[6.685797,46.529293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236920017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.461779,46.939129,7.461779,46.939129",
     "geom:latitude":46.939129,
     "geom:longitude":7.461779,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elfenstrasse 16 3006 Bern. Postfach 5333",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236920017,
-    "wof:lastmodified":1449004348,
+    "wof:lastmodified":1466212988,
     "wof:name":"Valiant Informatik Ag Rechenzentrum, Informatik-dienstl. Usw F\u00fcr Banken",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.461779,46.939129,7.461779,46.939129],
+  "bbox": [
+    7.461779,
+    46.939129,
+    7.461779,
+    46.939129
+],
   "geometry": {"coordinates":[7.461779,46.939129],"type":"Point"}
 }

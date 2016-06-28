@@ -2,13 +2,14 @@
   "id": 236426649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594113,47.472431,7.594113,47.472431",
     "geom:latitude":47.472431,
     "geom:longitude":7.594113,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 11",
     "sg:city":"Brittnau",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236426649,
-    "wof:lastmodified":1449002205,
+    "wof:lastmodified":1466212345,
     "wof:name":"Gemeinde-& Schulbibliothek",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archive"
     ]
 },
-  "bbox": [7.594113,47.472431,7.594113,47.472431],
+  "bbox": [
+    7.594113,
+    47.472431,
+    7.594113,
+    47.472431
+],
   "geometry": {"coordinates":[7.594113,47.472431],"type":"Point"}
 }

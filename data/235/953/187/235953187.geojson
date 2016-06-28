@@ -2,13 +2,14 @@
   "id": 235953187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.085235,46.108364,7.085235,46.108364",
     "geom:latitude":46.108364,
     "geom:longitude":7.085235,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Emmentalstrasse 60 3414 Oberburg. Postfach",
     "sg:city":"Oberburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235953187,
-    "wof:lastmodified":1449008470,
+    "wof:lastmodified":1466209092,
     "wof:name":"Fournier Daniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.085235,46.108364,7.085235,46.108364],
+  "bbox": [
+    7.085235,
+    46.108364,
+    7.085235,
+    46.108364
+],
   "geometry": {"coordinates":[7.085235,46.108364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202522237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.86124,46.988281,6.86124,46.988281",
     "geom:latitude":46.988281,
     "geom:longitude":6.86124,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttenstrasse 25",
     "sg:city":"W\u00fcrenlos",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202522237,
-    "wof:lastmodified":1449061331,
+    "wof:lastmodified":1466208927,
     "wof:name":"Gresset Jean, Ing\u00e9nieur Conseil An Propri\u00e9t\u00e9 Industrielle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.86124,46.988281,6.86124,46.988281],
+  "bbox": [
+    6.86124,
+    46.988281,
+    6.86124,
+    46.988281
+],
   "geometry": {"coordinates":[6.86124,46.988281],"type":"Point"}
 }

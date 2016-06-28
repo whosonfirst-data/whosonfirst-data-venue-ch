@@ -2,13 +2,14 @@
   "id": 202708707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.640756,46.774105,6.640756,46.774105",
     "geom:latitude":46.774105,
     "geom:longitude":6.640756,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Valentin Rue Du 80 1400 Yverdon-les-bains. Postfach",
     "sg:city":"Cheseaux-nor\u00e9az",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202708707,
-    "wof:lastmodified":1449060507,
+    "wof:lastmodified":1466210672,
     "wof:name":"Sd Ing\u00e9nierie Lausanne Sa Bureau Technique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.640756,46.774105,6.640756,46.774105],
+  "bbox": [
+    6.640756,
+    46.774105,
+    6.640756,
+    46.774105
+],
   "geometry": {"coordinates":[6.640756,46.774105],"type":"Point"}
 }

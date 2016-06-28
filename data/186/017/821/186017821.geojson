@@ -2,13 +2,14 @@
   "id": 186017821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.451221,47.475361,8.451221,47.475361",
     "geom:latitude":47.475361,
     "geom:longitude":8.451221,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freilerstrasse 8",
     "sg:city":"Dielsdorf",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186017821,
-    "wof:lastmodified":1449051800,
+    "wof:lastmodified":1466209539,
     "wof:name":"Baur + Partner Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.451221,47.475361,8.451221,47.475361],
+  "bbox": [
+    8.451221,
+    47.475361,
+    8.451221,
+    47.475361
+],
   "geometry": {"coordinates":[8.451221,47.475361],"type":"Point"}
 }

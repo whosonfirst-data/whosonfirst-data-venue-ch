@@ -2,13 +2,14 @@
   "id": 202497661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.173369,47.653461,9.173369,47.653461",
     "geom:latitude":47.653461,
     "geom:longitude":9.173369,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 14",
     "sg:city":"Kreuzlingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202497661,
-    "wof:lastmodified":1449062598,
+    "wof:lastmodified":1466211405,
     "wof:name":"Flammer F.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.173369,47.653461,9.173369,47.653461],
+  "bbox": [
+    9.173369,
+    47.653461,
+    9.173369,
+    47.653461
+],
   "geometry": {"coordinates":[9.173369,47.653461],"type":"Point"}
 }

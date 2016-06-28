@@ -2,13 +2,14 @@
   "id": 252880331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.869698,48.7052,-114.869698,48.7052",
     "geom:latitude":48.7052,
     "geom:longitude":-114.869698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Gilbert 40 1217 Meyrin. Postfach",
     "sg:city":"Meyrin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252880331,
-    "wof:lastmodified":1449006519,
+    "wof:lastmodified":1466210774,
     "wof:name":"Zap, Fr\u00e9d\u00e9rique Goy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.869698,48.7052,-114.869698,48.7052],
+  "bbox": [
+    -114.869698,
+    48.7052,
+    -114.869698,
+    48.7052
+],
   "geometry": {"coordinates":[-114.869698,48.7052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236638861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.935375,47.292664,7.935375,47.292664",
     "geom:latitude":47.292664,
     "geom:longitude":7.935375,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"W\u00e4ssermattenweg 11",
     "sg:city":"Zofingen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236638861,
-    "wof:lastmodified":1449001813,
+    "wof:lastmodified":1466212732,
     "wof:name":"David Wiederkehr Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [7.935375,47.292664,7.935375,47.292664],
+  "bbox": [
+    7.935375,
+    47.292664,
+    7.935375,
+    47.292664
+],
   "geometry": {"coordinates":[7.935375,47.292664],"type":"Point"}
 }

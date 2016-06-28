@@ -2,13 +2,14 @@
   "id": 203108965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.919182,46.042507,8.919182,46.042507",
     "geom:latitude":46.042507,
     "geom:longitude":8.919182,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cantonale 28",
     "sg:city":"Gravesano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203108965,
-    "wof:lastmodified":1449024980,
+    "wof:lastmodified":1466211184,
     "wof:name":"Marco Baranzini Studio D'architettura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.919182,46.042507,8.919182,46.042507],
+  "bbox": [
+    8.919182,
+    46.042507,
+    8.919182,
+    46.042507
+],
   "geometry": {"coordinates":[8.919182,46.042507],"type":"Point"}
 }

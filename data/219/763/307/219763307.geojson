@@ -2,13 +2,14 @@
   "id": 219763307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.493858,47.380051,8.493858,47.380051",
     "geom:latitude":47.380051,
     "geom:longitude":8.493858,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rautistrasse 19",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219763307,
-    "wof:lastmodified":1449073899,
+    "wof:lastmodified":1466212309,
     "wof:name":"Ernst Hausammann & Co Ag",
     "wof:parent_id":85799695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pump"
     ]
 },
-  "bbox": [8.493858,47.380051,8.493858,47.380051],
+  "bbox": [
+    8.493858,
+    47.380051,
+    8.493858,
+    47.380051
+],
   "geometry": {"coordinates":[8.493858,47.380051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169688591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632335,46.519596,6.632335,46.519596",
     "geom:latitude":46.519596,
     "geom:longitude":6.632335,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Morges Avenue De 33bis 1004 Lausanne Case Postale 102",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169688591,
-    "wof:lastmodified":1449033924,
+    "wof:lastmodified":1466210714,
     "wof:name":"Premaco Lausanne Sa Prod. Industriels Etc.; Fabr., Transformat., Vente",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.632335,46.519596,6.632335,46.519596],
+  "bbox": [
+    6.632335,
+    46.519596,
+    6.632335,
+    46.519596
+],
   "geometry": {"coordinates":[6.632335,46.519596],"type":"Point"}
 }

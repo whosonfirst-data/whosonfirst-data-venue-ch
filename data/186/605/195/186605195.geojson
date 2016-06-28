@@ -2,13 +2,14 @@
   "id": 186605195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.486118,46.957729,7.486118,46.957729",
     "geom:latitude":46.957729,
     "geom:longitude":7.486118,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sophiestrasse 1",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186605195,
-    "wof:lastmodified":1449051678,
+    "wof:lastmodified":1466211983,
     "wof:name":"Schweizerischer Verband Der Versicherungs-inspektoren Be",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.486118,46.957729,7.486118,46.957729],
+  "bbox": [
+    7.486118,
+    46.957729,
+    7.486118,
+    46.957729
+],
   "geometry": {"coordinates":[7.486118,46.957729],"type":"Point"}
 }

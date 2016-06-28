@@ -2,13 +2,14 @@
   "id": 219803701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.67533,47.227722,8.67533,47.227722",
     "geom:latitude":47.227722,
     "geom:longitude":8.67533,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 93 8820 W\u00e4denswil. Postfach",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219803701,
-    "wof:lastmodified":1449073964,
+    "wof:lastmodified":1466212539,
     "wof:name":"Go Inn Walder Bar Barbetrieb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.67533,47.227722,8.67533,47.227722],
+  "bbox": [
+    8.67533,
+    47.227722,
+    8.67533,
+    47.227722
+],
   "geometry": {"coordinates":[8.67533,47.227722],"type":"Point"}
 }

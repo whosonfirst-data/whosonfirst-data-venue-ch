@@ -2,13 +2,14 @@
   "id": 203175879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.051082,46.30093,7.051082,46.30093",
     "geom:latitude":46.30093,
     "geom:longitude":7.051082,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Coq-d'inde 20",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203175879,
-    "wof:lastmodified":1449026290,
+    "wof:lastmodified":1466209201,
     "wof:name":"Dr M\u00e9d. Didier Grob M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.051082,46.30093,7.051082,46.30093],
+  "bbox": [
+    7.051082,
+    46.30093,
+    7.051082,
+    46.30093
+],
   "geometry": {"coordinates":[7.051082,46.30093],"type":"Point"}
 }

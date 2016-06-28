@@ -2,13 +2,14 @@
   "id": 186611633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308693,47.049427,8.308693,47.049427",
     "geom:latitude":47.049427,
     "geom:longitude":8.308693,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankenstrasse 4 6003 Luzern. Postfach 3463",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186611633,
-    "wof:lastmodified":1449052444,
+    "wof:lastmodified":1466212022,
     "wof:name":"Vereinig.luzern.angestellten- & Beamtenverb\u00e4nde",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.308693,47.049427,8.308693,47.049427],
+  "bbox": [
+    8.308693,
+    47.049427,
+    8.308693,
+    47.049427
+],
   "geometry": {"coordinates":[8.308693,47.049427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236341849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.430654,46.94735,7.430654,46.94735",
     "geom:latitude":46.94735,
     "geom:longitude":7.430654,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Alban-vorstadt 12 4052 Basel. Postfach 124",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236341849,
-    "wof:lastmodified":1449005073,
+    "wof:lastmodified":1466211947,
     "wof:name":"Theater Stop. P.t.",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.430654,46.94735,7.430654,46.94735],
+  "bbox": [
+    7.430654,
+    46.94735,
+    7.430654,
+    46.94735
+],
   "geometry": {"coordinates":[7.430654,46.94735],"type":"Point"}
 }

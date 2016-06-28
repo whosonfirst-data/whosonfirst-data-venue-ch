@@ -2,13 +2,14 @@
   "id": 236336999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.02496,45.833,9.02496,45.833",
     "geom:latitude":45.833,
     "geom:longitude":9.02496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6830",
     "sg:city":"Chiasso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236336999,
-    "wof:lastmodified":1449001630,
+    "wof:lastmodified":1466211917,
     "wof:name":"Autolinea Mendrisiense Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.02496,45.833,9.02496,45.833],
+  "bbox": [
+    9.02496,
+    45.833,
+    9.02496,
+    45.833
+],
   "geometry": {"coordinates":[9.02496,45.833],"type":"Point"}
 }

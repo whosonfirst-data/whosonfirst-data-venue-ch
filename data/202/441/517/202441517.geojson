@@ -2,13 +2,14 @@
   "id": 202441517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.509575,47.209335,8.509575,47.209335",
     "geom:latitude":47.209335,
     "geom:longitude":8.509575,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gulmmatt",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202441517,
-    "wof:lastmodified":1449060307,
+    "wof:lastmodified":1466210442,
     "wof:name":"Caliaro Michel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.509575,47.209335,8.509575,47.209335],
+  "bbox": [
+    8.509575,
+    47.209335,
+    8.509575,
+    47.209335
+],
   "geometry": {"coordinates":[8.509575,47.209335],"type":"Point"}
 }

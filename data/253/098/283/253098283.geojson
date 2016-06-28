@@ -2,13 +2,14 @@
   "id": 253098283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.550083,47.370544,8.550083,47.370544",
     "geom:latitude":47.370544,
     "geom:longitude":8.550083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wolfbachstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253098283,
-    "wof:lastmodified":1449065467,
+    "wof:lastmodified":1466209914,
     "wof:name":"Huggel Ren\u00e9, Praxis F\u00fcr H\u00f6rger\u00e4teakustik Und Audiometrie",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.550083,47.370544,8.550083,47.370544],
+  "bbox": [
+    8.550083,
+    47.370544,
+    8.550083,
+    47.370544
+],
   "geometry": {"coordinates":[8.550083,47.370544],"type":"Point"}
 }

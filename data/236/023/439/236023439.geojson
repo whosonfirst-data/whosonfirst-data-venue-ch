@@ -2,13 +2,14 @@
   "id": 236023439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.492455,47.37841,8.492455,47.37841",
     "geom:latitude":47.37841,
     "geom:longitude":8.492455,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freilagerstrasse 14",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236023439,
-    "wof:lastmodified":1449004859,
+    "wof:lastmodified":1466209093,
     "wof:name":"Emil Bachmann Spenglerei & Dachdeckerei",
     "wof:parent_id":85799695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.492455,47.37841,8.492455,47.37841],
+  "bbox": [
+    8.492455,
+    47.37841,
+    8.492455,
+    47.37841
+],
   "geometry": {"coordinates":[8.492455,47.37841],"type":"Point"}
 }

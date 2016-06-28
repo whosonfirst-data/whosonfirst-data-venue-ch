@@ -2,13 +2,14 @@
   "id": 202888081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.790141,46.168072,8.790141,46.168072",
     "geom:latitude":46.168072,
     "geom:longitude":8.790141,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vicolo Appiani 1",
     "sg:city":"Locarno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202888081,
-    "wof:lastmodified":1449061687,
+    "wof:lastmodified":1466212075,
     "wof:name":"Peter Muheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.790141,46.168072,8.790141,46.168072],
+  "bbox": [
+    8.790141,
+    46.168072,
+    8.790141,
+    46.168072
+],
   "geometry": {"coordinates":[8.790141,46.168072],"type":"Point"}
 }

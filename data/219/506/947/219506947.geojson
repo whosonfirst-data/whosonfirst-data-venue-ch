@@ -2,13 +2,14 @@
   "id": 219506947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.845095,46.833675,6.845095,46.833675",
     "geom:latitude":46.833675,
     "geom:longitude":6.845095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vy-de-montorge 1",
     "sg:city":"Mies",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219506947,
-    "wof:lastmodified":1449070447,
+    "wof:lastmodified":1466211190,
     "wof:name":"Banque Raiffeisen Region Estavayer-le-lac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.845095,46.833675,6.845095,46.833675],
+  "bbox": [
+    6.845095,
+    46.833675,
+    6.845095,
+    46.833675
+],
   "geometry": {"coordinates":[6.845095,46.833675],"type":"Point"}
 }

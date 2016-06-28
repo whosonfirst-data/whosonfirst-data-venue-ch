@@ -2,13 +2,14 @@
   "id": 185931679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083255,47.39938,9.083255,47.39938",
     "geom:latitude":47.39938,
     "geom:longitude":9.083255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Speerstrasse 16",
     "sg:city":"L\u00fctisburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185931679,
-    "wof:lastmodified":1449008072,
+    "wof:lastmodified":1466210109,
     "wof:name":"Spitex-verein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.083255,47.39938,9.083255,47.39938],
+  "bbox": [
+    9.083255,
+    47.39938,
+    9.083255,
+    47.39938
+],
   "geometry": {"coordinates":[9.083255,47.39938],"type":"Point"}
 }

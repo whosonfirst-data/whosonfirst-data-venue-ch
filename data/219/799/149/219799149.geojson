@@ -2,13 +2,14 @@
   "id": 219799149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.971063,45.905544,8.971063,45.905544",
     "geom:latitude":45.905544,
     "geom:longitude":8.971063,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pr\u00e9vost-martin Rue 21 1205 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219799149,
-    "wof:lastmodified":1449073936,
+    "wof:lastmodified":1466212523,
     "wof:name":"Devil's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.971063,45.905544,8.971063,45.905544],
+  "bbox": [
+    8.971063,
+    45.905544,
+    8.971063,
+    45.905544
+],
   "geometry": {"coordinates":[8.971063,45.905544],"type":"Point"}
 }

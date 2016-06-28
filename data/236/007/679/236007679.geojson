@@ -2,13 +2,14 @@
   "id": 236007679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.317155,47.4091,7.317155,47.4091",
     "geom:latitude":47.4091,
     "geom:longitude":7.317155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"2812",
     "sg:city":"Movelier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236007679,
-    "wof:lastmodified":1449004564,
+    "wof:lastmodified":1466208958,
     "wof:name":"Eric Maeder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.317155,47.4091,7.317155,47.4091],
+  "bbox": [
+    7.317155,
+    47.4091,
+    7.317155,
+    47.4091
+],
   "geometry": {"coordinates":[7.317155,47.4091],"type":"Point"}
 }

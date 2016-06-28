@@ -2,13 +2,14 @@
   "id": 185789939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.069124,47.040558,9.069124,47.040558",
     "geom:latitude":47.040558,
     "geom:longitude":9.069124,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstrasse 16 8750 Glarus. Postfach 621",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185789939,
-    "wof:lastmodified":1449007342,
+    "wof:lastmodified":1466209042,
     "wof:name":"M\u00fcller & Speich Advokatur & Notariat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.069124,47.040558,9.069124,47.040558],
+  "bbox": [
+    9.069124,
+    47.040558,
+    9.069124,
+    47.040558
+],
   "geometry": {"coordinates":[9.069124,47.040558],"type":"Point"}
 }

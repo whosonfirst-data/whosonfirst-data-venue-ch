@@ -2,13 +2,14 @@
   "id": 185785159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.957781,46.007679,8.957781,46.007679",
     "geom:latitude":46.007679,
     "geom:longitude":8.957781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Balestra 18",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185785159,
-    "wof:lastmodified":1449007954,
+    "wof:lastmodified":1466209012,
     "wof:name":"Luca Vanetta Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.957781,46.007679,8.957781,46.007679],
+  "bbox": [
+    8.957781,
+    46.007679,
+    8.957781,
+    46.007679
+],
   "geometry": {"coordinates":[8.957781,46.007679],"type":"Point"}
 }

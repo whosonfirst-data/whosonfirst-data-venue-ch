@@ -2,13 +2,14 @@
   "id": 252726009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.62361,47.046383,8.62361,47.046383",
     "geom:latitude":47.046383,
     "geom:longitude":8.62361,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wyler 2",
     "sg:city":"Steinen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252726009,
-    "wof:lastmodified":1449006137,
+    "wof:lastmodified":1466209105,
     "wof:name":"Kirschenverwertungsgenossenschaft Innerschwyz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.62361,47.046383,8.62361,47.046383],
+  "bbox": [
+    8.62361,
+    47.046383,
+    8.62361,
+    47.046383
+],
   "geometry": {"coordinates":[8.62361,47.046383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202567891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.433224,47.385887,8.433224,47.385887",
     "geom:latitude":47.385887,
     "geom:longitude":8.433224,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"In Der Rebhalden 11",
     "sg:city":"Urdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202567891,
-    "wof:lastmodified":1449062666,
+    "wof:lastmodified":1466209364,
     "wof:name":"Ingenieurb\u00fcro Mazan Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.433224,47.385887,8.433224,47.385887],
+  "bbox": [
+    8.433224,
+    47.385887,
+    8.433224,
+    47.385887
+],
   "geometry": {"coordinates":[8.433224,47.385887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203351683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.646009,47.528599,7.646009,47.528599",
     "geom:latitude":47.528599,
     "geom:longitude":7.646009,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Jakobs-strasse 14",
     "sg:city":"Muttenz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203351683,
-    "wof:lastmodified":1449026563,
+    "wof:lastmodified":1466211051,
     "wof:name":"Dr.med.josef B\u00e4ttig Spezialarzt Fmh",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.646009,47.528599,7.646009,47.528599],
+  "bbox": [
+    7.646009,
+    47.528599,
+    7.646009,
+    47.528599
+],
   "geometry": {"coordinates":[7.646009,47.528599],"type":"Point"}
 }

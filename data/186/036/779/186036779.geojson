@@ -2,13 +2,14 @@
   "id": 186036779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.538258,46.929962,9.538258,46.929962",
     "geom:latitude":46.929962,
     "geom:longitude":9.538258,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altwingert",
     "sg:city":"Untervaz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186036779,
-    "wof:lastmodified":1449050993,
+    "wof:lastmodified":1466209819,
     "wof:name":"Calanda Hallen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.538258,46.929962,9.538258,46.929962],
+  "bbox": [
+    9.538258,
+    46.929962,
+    9.538258,
+    46.929962
+],
   "geometry": {"coordinates":[9.538258,46.929962],"type":"Point"}
 }

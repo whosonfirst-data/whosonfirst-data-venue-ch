@@ -2,13 +2,14 @@
   "id": 186104473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.382445,47.042904,7.382445,47.042904",
     "geom:latitude":47.042904,
     "geom:longitude":7.382445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaltberg 44",
     "sg:city":"Sch\u00fcpfen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186104473,
-    "wof:lastmodified":1449051481,
+    "wof:lastmodified":1466210928,
     "wof:name":"Hunziker Rolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.382445,47.042904,7.382445,47.042904],
+  "bbox": [
+    7.382445,
+    47.042904,
+    7.382445,
+    47.042904
+],
   "geometry": {"coordinates":[7.382445,47.042904],"type":"Point"}
 }

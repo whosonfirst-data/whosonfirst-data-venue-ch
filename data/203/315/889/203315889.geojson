@@ -2,13 +2,14 @@
   "id": 203315889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.566345,47.365063,8.566345,47.365063",
     "geom:latitude":47.365063,
     "geom:longitude":8.566345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bergstrasse 163",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203315889,
-    "wof:lastmodified":1449026770,
+    "wof:lastmodified":1466210694,
     "wof:name":"Dr.med.fernando Buletti Spezialarzt Fmh",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.566345,47.365063,8.566345,47.365063],
+  "bbox": [
+    8.566345,
+    47.365063,
+    8.566345,
+    47.365063
+],
   "geometry": {"coordinates":[8.566345,47.365063],"type":"Point"}
 }

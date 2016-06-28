@@ -2,13 +2,14 @@
   "id": 203329385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.719805,47.500866,8.719805,47.500866",
     "geom:latitude":47.500866,
     "geom:longitude":8.719805,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Paulstrasse 19",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203329385,
-    "wof:lastmodified":1449025432,
+    "wof:lastmodified":1466210827,
     "wof:name":"Dr.med.hans M\u00f6ckli Spezialarzt",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.719805,47.500866,8.719805,47.500866],
+  "bbox": [
+    8.719805,
+    47.500866,
+    8.719805,
+    47.500866
+],
   "geometry": {"coordinates":[8.719805,47.500866],"type":"Point"}
 }

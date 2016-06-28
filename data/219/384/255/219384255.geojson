@@ -2,13 +2,14 @@
   "id": 219384255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.166712,46.193359,6.166712,46.193359",
     "geom:latitude":46.193359,
     "geom:longitude":6.166712,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Le Corbusier 22a",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219384255,
-    "wof:lastmodified":1449070833,
+    "wof:lastmodified":1466210026,
     "wof:name":"Fert & Cie",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.166712,46.193359,6.166712,46.193359],
+  "bbox": [
+    6.166712,
+    46.193359,
+    6.166712,
+    46.193359
+],
   "geometry": {"coordinates":[6.166712,46.193359],"type":"Point"}
 }

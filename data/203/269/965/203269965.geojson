@@ -2,13 +2,14 @@
   "id": 203269965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.467099,46.941826,7.467099,46.941826",
     "geom:latitude":46.941826,
     "geom:longitude":7.467099,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ostring 4",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203269965,
-    "wof:lastmodified":1449026150,
+    "wof:lastmodified":1466210228,
     "wof:name":"Dr.med.alfred Weiersm\u00fcller Spezialarzt Fmh",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.467099,46.941826,7.467099,46.941826],
+  "bbox": [
+    7.467099,
+    46.941826,
+    7.467099,
+    46.941826
+],
   "geometry": {"coordinates":[7.467099,46.941826],"type":"Point"}
 }

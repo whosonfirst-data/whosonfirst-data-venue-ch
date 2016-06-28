@@ -2,13 +2,14 @@
   "id": 219991079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62516,46.759659,7.62516,46.759659",
     "geom:latitude":46.759659,
     "geom:longitude":7.62516,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allmendstrasse 2",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219991079,
-    "wof:lastmodified":1449071506,
+    "wof:lastmodified":1466212682,
     "wof:name":"Thomas Hungerb\u00fchler Baumanagement",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62516,46.759659,7.62516,46.759659],
+  "bbox": [
+    7.62516,
+    46.759659,
+    7.62516,
+    46.759659
+],
   "geometry": {"coordinates":[7.62516,46.759659],"type":"Point"}
 }

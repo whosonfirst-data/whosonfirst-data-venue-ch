@@ -2,13 +2,14 @@
   "id": 185979165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.00154,47.409649,8.00154,47.409649",
     "geom:latitude":47.409649,
     "geom:longitude":8.00154,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Saalhofstrasse 41",
     "sg:city":"Obererlinsbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185979165,
-    "wof:lastmodified":1449007736,
+    "wof:lastmodified":1466210603,
     "wof:name":"Wenger Ag, Gartenbau",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.00154,47.409649,8.00154,47.409649],
+  "bbox": [
+    8.00154,
+    47.409649,
+    8.00154,
+    47.409649
+],
   "geometry": {"coordinates":[8.00154,47.409649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202761007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048148,47.135075,8.048148,47.135075",
     "geom:latitude":47.135075,
     "geom:longitude":8.048148,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlestrasse 9 6022 Grosswangen. Postfach",
     "sg:city":"Grosswangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202761007,
-    "wof:lastmodified":1449062053,
+    "wof:lastmodified":1466211161,
     "wof:name":"Walter Bossardt Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.048148,47.135075,8.048148,47.135075],
+  "bbox": [
+    8.048148,
+    47.135075,
+    8.048148,
+    47.135075
+],
   "geometry": {"coordinates":[8.048148,47.135075],"type":"Point"}
 }

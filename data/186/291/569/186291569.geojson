@@ -2,13 +2,14 @@
   "id": 186291569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.846116,47.192554,7.846116,47.192554",
     "geom:latitude":47.192554,
     "geom:longitude":7.846116,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gjuchstrasse 11",
     "sg:city":"Melchnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186291569,
-    "wof:lastmodified":1449051204,
+    "wof:lastmodified":1466209774,
     "wof:name":"Jenzer Bau & Transport Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.846116,47.192554,7.846116,47.192554],
+  "bbox": [
+    7.846116,
+    47.192554,
+    7.846116,
+    47.192554
+],
   "geometry": {"coordinates":[7.846116,47.192554],"type":"Point"}
 }

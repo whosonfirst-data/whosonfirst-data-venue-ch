@@ -2,13 +2,14 @@
   "id": 186002315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.374219,47.044403,8.374219,47.044403",
     "geom:latitude":47.044403,
     "geom:longitude":8.374219,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fridolin-hoferstrasse 11",
     "sg:city":"Meggen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186002315,
-    "wof:lastmodified":1449052526,
+    "wof:lastmodified":1466208927,
     "wof:name":"Ammann Ag Meggen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.374219,47.044403,8.374219,47.044403],
+  "bbox": [
+    8.374219,
+    47.044403,
+    8.374219,
+    47.044403
+],
   "geometry": {"coordinates":[8.374219,47.044403],"type":"Point"}
 }

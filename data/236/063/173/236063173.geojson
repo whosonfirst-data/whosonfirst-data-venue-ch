@@ -2,13 +2,14 @@
   "id": 236063173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.204504,47.432259,8.204504,47.432259",
     "geom:latitude":47.432259,
     "geom:longitude":8.204504,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttenstrasse 31",
     "sg:city":"Birr",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236063173,
-    "wof:lastmodified":1449001889,
+    "wof:lastmodified":1466209454,
     "wof:name":"Kurt Frey Spenglerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.204504,47.432259,8.204504,47.432259],
+  "bbox": [
+    8.204504,
+    47.432259,
+    8.204504,
+    47.432259
+],
   "geometry": {"coordinates":[8.204504,47.432259],"type":"Point"}
 }

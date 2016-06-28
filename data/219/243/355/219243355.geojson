@@ -2,13 +2,14 @@
   "id": 219243355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.80014,46.938381,7.80014,46.938381",
     "geom:latitude":46.938381,
     "geom:longitude":7.80014,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00e4raugrundstrasse 2 3552 B\u00e4rau. Postfach 502",
     "sg:city":"B\u00e4rau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219243355,
-    "wof:lastmodified":1449071540,
+    "wof:lastmodified":1466211461,
     "wof:name":"Garage Tag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.80014,46.938381,7.80014,46.938381],
+  "bbox": [
+    7.80014,
+    46.938381,
+    7.80014,
+    46.938381
+],
   "geometry": {"coordinates":[7.80014,46.938381],"type":"Point"}
 }

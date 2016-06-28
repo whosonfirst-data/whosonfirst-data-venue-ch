@@ -2,13 +2,14 @@
   "id": 236718433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.718264,47.315395,8.718264,47.315395",
     "geom:latitude":47.315395,
     "geom:longitude":8.718264,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langenmattstrasse 34",
     "sg:city":"M\u00f6nchaltorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236718433,
-    "wof:lastmodified":1449002209,
+    "wof:lastmodified":1466212833,
     "wof:name":"Helmut Hein Chemische Reinigung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.718264,47.315395,8.718264,47.315395],
+  "bbox": [
+    8.718264,
+    47.315395,
+    8.718264,
+    47.315395
+],
   "geometry": {"coordinates":[8.718264,47.315395],"type":"Point"}
 }

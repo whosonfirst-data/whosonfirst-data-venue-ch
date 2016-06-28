@@ -2,13 +2,14 @@
   "id": 202880825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594549,47.199493,7.594549,47.199493",
     "geom:latitude":47.199493,
     "geom:longitude":7.594549,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Meisenweg 3",
     "sg:city":"Derendingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202880825,
-    "wof:lastmodified":1449062674,
+    "wof:lastmodified":1466212055,
     "wof:name":"Zaugg Hans, Dipl. Innen-architekt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.594549,47.199493,7.594549,47.199493],
+  "bbox": [
+    7.594549,
+    47.199493,
+    7.594549,
+    47.199493
+],
   "geometry": {"coordinates":[7.594549,47.199493],"type":"Point"}
 }

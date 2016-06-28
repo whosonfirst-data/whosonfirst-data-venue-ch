@@ -2,13 +2,14 @@
   "id": 236856567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.230759,46.245609,6.230759,46.245609",
     "geom:latitude":46.245609,
     "geom:longitude":6.230759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Gy 27",
     "sg:city":"Meinier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236856567,
-    "wof:lastmodified":1449002406,
+    "wof:lastmodified":1466212939,
     "wof:name":"Banque Raiffeisen D'arve & Lac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.230759,46.245609,6.230759,46.245609],
+  "bbox": [
+    6.230759,
+    46.245609,
+    6.230759,
+    46.245609
+],
   "geometry": {"coordinates":[6.230759,46.245609],"type":"Point"}
 }

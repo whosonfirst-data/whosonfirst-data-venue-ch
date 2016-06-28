@@ -2,13 +2,14 @@
   "id": 252965119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.608473,46.78194,7.608473,46.78194",
     "geom:latitude":46.78194,
     "geom:longitude":7.608473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stationsweg 4",
     "sg:city":"Heimberg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252965119,
-    "wof:lastmodified":1449006158,
+    "wof:lastmodified":1466211649,
     "wof:name":"Casaforum Haushalt & Geschenke",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.608473,46.78194,7.608473,46.78194],
+  "bbox": [
+    7.608473,
+    46.78194,
+    7.608473,
+    46.78194
+],
   "geometry": {"coordinates":[7.608473,46.78194],"type":"Point"}
 }

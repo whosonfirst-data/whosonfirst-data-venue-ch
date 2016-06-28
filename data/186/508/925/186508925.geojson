@@ -2,13 +2,14 @@
   "id": 186508925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.473354,46.933895,7.473354,46.933895",
     "geom:latitude":46.933895,
     "geom:longitude":7.473354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexandraweg 22",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186508925,
-    "wof:lastmodified":1449051884,
+    "wof:lastmodified":1466211511,
     "wof:name":"Krankenheim Alexandra",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.473354,46.933895,7.473354,46.933895],
+  "bbox": [
+    7.473354,
+    46.933895,
+    7.473354,
+    46.933895
+],
   "geometry": {"coordinates":[7.473354,46.933895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236115795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.607018,46.535027,6.607018,46.535027",
     "geom:latitude":46.535027,
     "geom:longitude":6.607018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Centenaire 8 1008 Prilly Case Postale 333",
     "sg:city":"Prilly",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236115795,
-    "wof:lastmodified":1449001658,
+    "wof:lastmodified":1466209932,
     "wof:name":"Schmidt Fr\u00e8res Sa",
     "wof:parent_id":85800433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.607018,46.535027,6.607018,46.535027],
+  "bbox": [
+    6.607018,
+    46.535027,
+    6.607018,
+    46.535027
+],
   "geometry": {"coordinates":[6.607018,46.535027],"type":"Point"}
 }

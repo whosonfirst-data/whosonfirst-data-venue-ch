@@ -2,13 +2,14 @@
   "id": 236365823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.75198,47.392548,7.75198,47.392548",
     "geom:latitude":47.392548,
     "geom:longitude":7.75198,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhaus Dagmersellen",
     "sg:city":"Dagmersellen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236365823,
-    "wof:lastmodified":1449002076,
+    "wof:lastmodified":1466212251,
     "wof:name":"Realschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.75198,47.392548,7.75198,47.392548],
+  "bbox": [
+    7.75198,
+    47.392548,
+    7.75198,
+    47.392548
+],
   "geometry": {"coordinates":[7.75198,47.392548],"type":"Point"}
 }

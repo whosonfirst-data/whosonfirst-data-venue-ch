@@ -2,13 +2,14 @@
   "id": 202457069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516599,47.169449,8.516599,47.169449",
     "geom:latitude":47.169449,
     "geom:longitude":8.516599,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 14",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202457069,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466211682,
     "wof:name":"Crm Management Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516599,47.169449,8.516599,47.169449],
+  "bbox": [
+    8.516599,
+    47.169449,
+    8.516599,
+    47.169449
+],
   "geometry": {"coordinates":[8.516599,47.169449],"type":"Point"}
 }

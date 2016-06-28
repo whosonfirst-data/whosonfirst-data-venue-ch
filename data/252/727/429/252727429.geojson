@@ -2,13 +2,14 @@
   "id": 252727429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.382445,47.042904,7.382445,47.042904",
     "geom:latitude":47.042904,
     "geom:longitude":7.382445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3054",
     "sg:city":"Sch\u00fcpfen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252727429,
-    "wof:lastmodified":1449005573,
+    "wof:lastmodified":1466209116,
     "wof:name":"Obstverwertungsgenossenschaft Sch\u00fcpfen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.382445,47.042904,7.382445,47.042904],
+  "bbox": [
+    7.382445,
+    47.042904,
+    7.382445,
+    47.042904
+],
   "geometry": {"coordinates":[7.382445,47.042904],"type":"Point"}
 }

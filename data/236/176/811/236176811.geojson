@@ -2,13 +2,14 @@
   "id": 236176811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.647038,46.535625,6.647038,46.535625",
     "geom:latitude":46.535625,
     "geom:longitude":6.647038,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Berne 47",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236176811,
-    "wof:lastmodified":1449003880,
+    "wof:lastmodified":1466210555,
     "wof:name":"Agr Services Formation De Vente",
     "wof:parent_id":85800129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.647038,46.535625,6.647038,46.535625],
+  "bbox": [
+    6.647038,
+    46.535625,
+    6.647038,
+    46.535625
+],
   "geometry": {"coordinates":[6.647038,46.535625],"type":"Point"}
 }

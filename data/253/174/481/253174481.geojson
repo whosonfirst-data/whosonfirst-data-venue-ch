@@ -2,13 +2,14 @@
   "id": 253174481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.568785,47.20401,7.568785,47.20401",
     "geom:latitude":47.20401,
     "geom:longitude":7.568785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langfeldstrasse 22 4528 Zuchwil. Postfach",
     "sg:city":"Zuchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253174481,
-    "wof:lastmodified":1449063224,
+    "wof:lastmodified":1466210787,
     "wof:name":"Fortisa Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.568785,47.20401,7.568785,47.20401],
+  "bbox": [
+    7.568785,
+    47.20401,
+    7.568785,
+    47.20401
+],
   "geometry": {"coordinates":[7.568785,47.20401],"type":"Point"}
 }

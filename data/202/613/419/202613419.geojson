@@ -2,13 +2,14 @@
   "id": 202613419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.649666,47.267654,8.649666,47.267654",
     "geom:latitude":47.267654,
     "geom:longitude":8.649666,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 194 8706 Meilen. Postfach",
     "sg:city":"Meilen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202613419,
-    "wof:lastmodified":1449061307,
+    "wof:lastmodified":1466209784,
     "wof:name":"Locher & Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.649666,47.267654,8.649666,47.267654],
+  "bbox": [
+    8.649666,
+    47.267654,
+    8.649666,
+    47.267654
+],
   "geometry": {"coordinates":[8.649666,47.267654],"type":"Point"}
 }

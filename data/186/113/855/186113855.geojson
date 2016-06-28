@@ -2,13 +2,14 @@
   "id": 186113855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.132207,46.209049,6.132207,46.209049",
     "geom:latitude":46.209049,
     "geom:longitude":6.132207,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Poterie 3 1200 Genf. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186113855,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1466211010,
     "wof:name":"J. Antonio Et M. Magalhaes Martins Teixeira",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.132207,46.209049,6.132207,46.209049],
+  "bbox": [
+    6.132207,
+    46.209049,
+    6.132207,
+    46.209049
+],
   "geometry": {"coordinates":[6.132207,46.209049],"type":"Point"}
 }

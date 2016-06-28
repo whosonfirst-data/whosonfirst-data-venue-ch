@@ -2,13 +2,14 @@
   "id": 202659821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.47718,47.441628,9.47718,47.441628",
     "geom:latitude":47.441628,
     "geom:longitude":9.47718,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpsteinstrasse 4",
     "sg:city":"Eggersriet",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202659821,
-    "wof:lastmodified":1449060380,
+    "wof:lastmodified":1466210217,
     "wof:name":"Peter Bretscher Ingenieurb\u00fcro F\u00fcr Wirtschaftsentwicklung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.47718,47.441628,9.47718,47.441628],
+  "bbox": [
+    9.47718,
+    47.441628,
+    9.47718,
+    47.441628
+],
   "geometry": {"coordinates":[9.47718,47.441628],"type":"Point"}
 }

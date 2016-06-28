@@ -2,13 +2,14 @@
   "id": 236473071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560494,47.211765,8.560494,47.211765",
     "geom:latitude":47.211765,
     "geom:longitude":8.560494,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruessenstrasse 6",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236473071,
-    "wof:lastmodified":1449002193,
+    "wof:lastmodified":1466212369,
     "wof:name":"Uvex (schweiz) Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bicycle"
     ]
 },
-  "bbox": [8.560494,47.211765,8.560494,47.211765],
+  "bbox": [
+    8.560494,
+    47.211765,
+    8.560494,
+    47.211765
+],
   "geometry": {"coordinates":[8.560494,47.211765],"type":"Point"}
 }

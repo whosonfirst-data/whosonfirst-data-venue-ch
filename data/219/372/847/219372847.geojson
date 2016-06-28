@@ -2,13 +2,14 @@
   "id": 219372847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.122839,47.48875,9.122839,47.48875",
     "geom:latitude":47.48875,
     "geom:longitude":9.122839,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Glernischweg 1",
     "sg:city":"Hosenruck",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219372847,
-    "wof:lastmodified":1449072535,
+    "wof:lastmodified":1466209900,
     "wof:name":"Software Engineering Fretz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "automation"
     ]
 },
-  "bbox": [9.122839,47.48875,9.122839,47.48875],
+  "bbox": [
+    9.122839,
+    47.48875,
+    9.122839,
+    47.48875
+],
   "geometry": {"coordinates":[9.122839,47.48875],"type":"Point"}
 }

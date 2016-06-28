@@ -2,13 +2,14 @@
   "id": 236608025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.225835,47.411564,8.225835,47.411564",
     "geom:latitude":47.411564,
     "geom:longitude":8.225835,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterm\u00e4ttlistrasse 11",
     "sg:city":"M\u00e4genwil",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236608025,
-    "wof:lastmodified":1449002997,
+    "wof:lastmodified":1466212606,
     "wof:name":"Cablecom Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "installation"
     ]
 },
-  "bbox": [8.225835,47.411564,8.225835,47.411564],
+  "bbox": [
+    8.225835,
+    47.411564,
+    8.225835,
+    47.411564
+],
   "geometry": {"coordinates":[8.225835,47.411564],"type":"Point"}
 }

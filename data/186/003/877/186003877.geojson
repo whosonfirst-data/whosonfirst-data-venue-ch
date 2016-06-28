@@ -2,13 +2,14 @@
   "id": 186003877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.350585,47.05006,8.350585,47.05006",
     "geom:latitude":47.05006,
     "geom:longitude":8.350585,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzbuchrain 10",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186003877,
-    "wof:lastmodified":1449052818,
+    "wof:lastmodified":1466208953,
     "wof:name":"Anliker Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.350585,47.05006,8.350585,47.05006],
+  "bbox": [
+    8.350585,
+    47.05006,
+    8.350585,
+    47.05006
+],
   "geometry": {"coordinates":[8.350585,47.05006],"type":"Point"}
 }

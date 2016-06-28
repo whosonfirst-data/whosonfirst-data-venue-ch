@@ -2,13 +2,14 @@
   "id": 202563609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.224653,46.883064,8.224653,46.883064",
     "geom:latitude":46.883064,
     "geom:longitude":8.224653,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanzleistrasse 120 8004 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202563609,
-    "wof:lastmodified":1449060145,
+    "wof:lastmodified":1466209326,
     "wof:name":"Ingenieurb\u00fcro Gasser & Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.224653,46.883064,8.224653,46.883064],
+  "bbox": [
+    8.224653,
+    46.883064,
+    8.224653,
+    46.883064
+],
   "geometry": {"coordinates":[8.224653,46.883064],"type":"Point"}
 }

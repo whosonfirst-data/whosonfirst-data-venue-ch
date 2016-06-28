@@ -2,13 +2,14 @@
   "id": 202816473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.156076,46.191185,6.156076,46.191185",
     "geom:latitude":46.191185,
     "geom:longitude":6.156076,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Dumas 21a 1206 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202816473,
-    "wof:lastmodified":1449061593,
+    "wof:lastmodified":1466211660,
     "wof:name":"De Planta & Portier Architectes Sa",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.156076,46.191185,6.156076,46.191185],
+  "bbox": [
+    6.156076,
+    46.191185,
+    6.156076,
+    46.191185
+],
   "geometry": {"coordinates":[6.156076,46.191185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219908029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.33665,47.411636,9.33665,47.411636",
     "geom:latitude":47.411636,
     "geom:longitude":9.33665,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Auerstrasse 38",
     "sg:city":"Berneck",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219908029,
-    "wof:lastmodified":1449072382,
+    "wof:lastmodified":1466212548,
     "wof:name":"Sportring Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.33665,47.411636,9.33665,47.411636],
+  "bbox": [
+    9.33665,
+    47.411636,
+    9.33665,
+    47.411636
+],
   "geometry": {"coordinates":[9.33665,47.411636],"type":"Point"}
 }

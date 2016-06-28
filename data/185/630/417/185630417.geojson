@@ -2,13 +2,14 @@
   "id": 185630417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.787198,47.366497,8.787198,47.366497",
     "geom:latitude":47.366497,
     "geom:longitude":8.787198,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sophie Guyerstrasse 9",
     "sg:city":"Pf\u00e4ffikon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185630417,
-    "wof:lastmodified":1449007162,
+    "wof:lastmodified":1466209914,
     "wof:name":"Ics Identcode Systeme Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "label"
     ]
 },
-  "bbox": [8.787198,47.366497,8.787198,47.366497],
+  "bbox": [
+    8.787198,
+    47.366497,
+    8.787198,
+    47.366497
+],
   "geometry": {"coordinates":[8.787198,47.366497],"type":"Point"}
 }

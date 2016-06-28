@@ -2,13 +2,14 @@
   "id": 219279845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522936,47.089958,8.522936,47.089958",
     "geom:latitude":47.089958,
     "geom:longitude":8.522936,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Artherstrasse 61a",
     "sg:city":"Walchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219279845,
-    "wof:lastmodified":1449072020,
+    "wof:lastmodified":1466209060,
     "wof:name":"Garage St. Adrian Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522936,47.089958,8.522936,47.089958],
+  "bbox": [
+    8.522936,
+    47.089958,
+    8.522936,
+    47.089958
+],
   "geometry": {"coordinates":[8.522936,47.089958],"type":"Point"}
 }

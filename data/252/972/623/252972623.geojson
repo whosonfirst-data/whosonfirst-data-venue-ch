@@ -2,13 +2,14 @@
   "id": 252972623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.373298,47.421394,9.373298,47.421394",
     "geom:latitude":47.421394,
     "geom:longitude":9.373298,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Du Midi 9",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252972623,
-    "wof:lastmodified":1449005963,
+    "wof:lastmodified":1466211780,
     "wof:name":"Classic Decor Gmbh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.373298,47.421394,9.373298,47.421394],
+  "bbox": [
+    9.373298,
+    47.421394,
+    9.373298,
+    47.421394
+],
   "geometry": {"coordinates":[9.373298,47.421394],"type":"Point"}
 }

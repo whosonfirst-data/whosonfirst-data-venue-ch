@@ -2,13 +2,14 @@
   "id": 202401989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.98932,47.170631,7.98932,47.170631",
     "geom:latitude":47.170631,
     "geom:longitude":7.98932,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burghalde 6 6247 Sch\u00f6tz. Postfach",
     "sg:city":"Sch\u00f6tz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202401989,
-    "wof:lastmodified":1449062285,
+    "wof:lastmodified":1466209744,
     "wof:name":"Baureag Architektengruppe Ag, Zweigniederlassung Sch\u00f6tz Architekturb\u00fcro Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.98932,47.170631,7.98932,47.170631],
+  "bbox": [
+    7.98932,
+    47.170631,
+    7.98932,
+    47.170631
+],
   "geometry": {"coordinates":[7.98932,47.170631],"type":"Point"}
 }

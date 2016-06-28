@@ -2,13 +2,14 @@
   "id": 253065559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.758982,46.174446,8.758982,46.174446",
     "geom:latitude":46.174446,
     "geom:longitude":8.758982,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pezza Venerdi 14",
     "sg:city":"Losone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253065559,
-    "wof:lastmodified":1449065775,
+    "wof:lastmodified":1466209582,
     "wof:name":"Muser Beat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.758982,46.174446,8.758982,46.174446],
+  "bbox": [
+    8.758982,
+    46.174446,
+    8.758982,
+    46.174446
+],
   "geometry": {"coordinates":[8.758982,46.174446],"type":"Point"}
 }

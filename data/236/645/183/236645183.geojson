@@ -2,13 +2,14 @@
   "id": 236645183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.512652,47.225277,7.512652,47.225277",
     "geom:latitude":47.225277,
     "geom:longitude":7.512652,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weissensteinstrasse 62",
     "sg:city":"Langendorf",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236645183,
-    "wof:lastmodified":1449001923,
+    "wof:lastmodified":1466212741,
     "wof:name":"W. Bucher Dipl. Masch.-ing. Eth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "indexable"
     ]
 },
-  "bbox": [7.512652,47.225277,7.512652,47.225277],
+  "bbox": [
+    7.512652,
+    47.225277,
+    7.512652,
+    47.225277
+],
   "geometry": {"coordinates":[7.512652,47.225277],"type":"Point"}
 }

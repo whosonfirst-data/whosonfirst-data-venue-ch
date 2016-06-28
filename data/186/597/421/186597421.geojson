@@ -2,13 +2,14 @@
   "id": 186597421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.494748,46.923981,7.494748,46.923981",
     "geom:latitude":46.923981,
     "geom:longitude":7.494748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4listrasse 3",
     "sg:city":"Oftringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186597421,
-    "wof:lastmodified":1449053003,
+    "wof:lastmodified":1466212051,
     "wof:name":"Musikerverband Zentralsekretariat",
     "wof:parent_id":85800111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.494748,46.923981,7.494748,46.923981],
+  "bbox": [
+    7.494748,
+    46.923981,
+    7.494748,
+    46.923981
+],
   "geometry": {"coordinates":[7.494748,46.923981],"type":"Point"}
 }

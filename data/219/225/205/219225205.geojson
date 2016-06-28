@@ -2,13 +2,14 @@
   "id": 219225205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.615107,46.738716,7.615107,46.738716",
     "geom:latitude":46.738716,
     "geom:longitude":7.615107,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 64 3606 Thun. Postfach 372",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219225205,
-    "wof:lastmodified":1449071495,
+    "wof:lastmodified":1466211232,
     "wof:name":"Zaugg F. Ag, K\u00fchlanlagen K\u00e4lte Und Klima",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.615107,46.738716,7.615107,46.738716],
+  "bbox": [
+    7.615107,
+    46.738716,
+    7.615107,
+    46.738716
+],
   "geometry": {"coordinates":[7.615107,46.738716],"type":"Point"}
 }

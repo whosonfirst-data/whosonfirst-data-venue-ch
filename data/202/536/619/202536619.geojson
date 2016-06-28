@@ -2,13 +2,14 @@
   "id": 202536619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.290155,47.389179,9.290155,47.389179",
     "geom:latitude":47.389179,
     "geom:longitude":9.290155,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenfeldstrasse 4",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202536619,
-    "wof:lastmodified":1449061628,
+    "wof:lastmodified":1466209063,
     "wof:name":"Heinrich Ammann Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.290155,47.389179,9.290155,47.389179],
+  "bbox": [
+    9.290155,
+    47.389179,
+    9.290155,
+    47.389179
+],
   "geometry": {"coordinates":[9.290155,47.389179],"type":"Point"}
 }

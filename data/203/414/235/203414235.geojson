@@ -2,13 +2,14 @@
   "id": 203414235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.30787,47.060894,8.30787,47.060894",
     "geom:latitude":47.060894,
     "geom:longitude":8.30787,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedenstrasse 9",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203414235,
-    "wof:lastmodified":1449025803,
+    "wof:lastmodified":1466211650,
     "wof:name":"Dr.med.sylvia Lentzsch Spezial\u00e4rztin",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.30787,47.060894,8.30787,47.060894],
+  "bbox": [
+    8.30787,
+    47.060894,
+    8.30787,
+    47.060894
+],
   "geometry": {"coordinates":[8.30787,47.060894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169694661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.84112,46.942497,6.84112,46.942497",
     "geom:latitude":46.942497,
     "geom:longitude":6.84112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chem Des Pi\u00e8ces-chaperon 14",
     "sg:city":"Cortaillod",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169694661,
-    "wof:lastmodified":1449033610,
+    "wof:lastmodified":1466210886,
     "wof:name":"Zimmerli Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mechanical"
     ]
 },
-  "bbox": [6.84112,46.942497,6.84112,46.942497],
+  "bbox": [
+    6.84112,
+    46.942497,
+    6.84112,
+    46.942497
+],
   "geometry": {"coordinates":[6.84112,46.942497],"type":"Point"}
 }

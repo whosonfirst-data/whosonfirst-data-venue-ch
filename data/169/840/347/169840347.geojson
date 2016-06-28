@@ -2,13 +2,14 @@
   "id": 169840347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.753826,46.029186,7.753826,46.029186",
     "geom:latitude":46.029186,
     "geom:longitude":7.753826,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spissstrasse 111",
     "sg:city":"Zermatt",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169840347,
-    "wof:lastmodified":1449035214,
+    "wof:lastmodified":1466209352,
     "wof:name":"Abwasserreinigungsanlage Ara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.753826,46.029186,7.753826,46.029186],
+  "bbox": [
+    7.753826,
+    46.029186,
+    7.753826,
+    46.029186
+],
   "geometry": {"coordinates":[7.753826,46.029186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186472727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.554125,47.380135,8.554125,47.380135",
     "geom:latitude":47.380135,
     "geom:longitude":8.554125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmelzbergstrasse 56 8044 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186472727,
-    "wof:lastmodified":1449050457,
+    "wof:lastmodified":1466211194,
     "wof:name":"Ausgleichskasse Des Schreiner- M\u00f6bel-& Holzgewerbes",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.554125,47.380135,8.554125,47.380135],
+  "bbox": [
+    8.554125,
+    47.380135,
+    8.554125,
+    47.380135
+],
   "geometry": {"coordinates":[8.554125,47.380135],"type":"Point"}
 }

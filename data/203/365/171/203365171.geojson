@@ -2,13 +2,14 @@
   "id": 203365171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.531276,47.447369,8.531276,47.447369",
     "geom:latitude":47.447369,
     "geom:longitude":8.531276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obermattenstrasse 7",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203365171,
-    "wof:lastmodified":1449025245,
+    "wof:lastmodified":1466211180,
     "wof:name":"Dr.med.k\u00f6bi W\u00fcest Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.531276,47.447369,8.531276,47.447369],
+  "bbox": [
+    8.531276,
+    47.447369,
+    8.531276,
+    47.447369
+],
   "geometry": {"coordinates":[8.531276,47.447369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185913807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56138,47.350071,8.56138,47.350071",
     "geom:latitude":47.350071,
     "geom:longitude":8.56138,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellerivestrasse 245",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185913807,
-    "wof:lastmodified":1449007234,
+    "wof:lastmodified":1466209961,
     "wof:name":"Dalgo Gmbh",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.56138,47.350071,8.56138,47.350071],
+  "bbox": [
+    8.56138,
+    47.350071,
+    8.56138,
+    47.350071
+],
   "geometry": {"coordinates":[8.56138,47.350071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219636583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.983648,47.320713,7.983648,47.320713",
     "geom:latitude":47.320713,
     "geom:longitude":7.983648,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr. 11",
     "sg:city":"Safenwil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219636583,
-    "wof:lastmodified":1449071787,
+    "wof:lastmodified":1466211993,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.983648,47.320713,7.983648,47.320713],
+  "bbox": [
+    7.983648,
+    47.320713,
+    7.983648,
+    47.320713
+],
   "geometry": {"coordinates":[7.983648,47.320713],"type":"Point"}
 }

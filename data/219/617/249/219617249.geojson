@@ -2,13 +2,14 @@
   "id": 219617249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606643,47.520332,7.606643,47.520332",
     "geom:latitude":47.520332,
     "geom:longitude":7.606643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstadt 1",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219617249,
-    "wof:lastmodified":1449070489,
+    "wof:lastmodified":1466211833,
     "wof:name":"Raiffeisenbank M\u00fcnchenstein",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.606643,47.520332,7.606643,47.520332],
+  "bbox": [
+    7.606643,
+    47.520332,
+    7.606643,
+    47.520332
+],
   "geometry": {"coordinates":[7.606643,47.520332],"type":"Point"}
 }

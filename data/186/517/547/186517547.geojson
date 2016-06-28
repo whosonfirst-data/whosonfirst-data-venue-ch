@@ -2,13 +2,14 @@
   "id": 186517547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.539198,47.386951,8.539198,47.386951",
     "geom:latitude":47.386951,
     "geom:longitude":8.539198,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenbachstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186517547,
-    "wof:lastmodified":1449051913,
+    "wof:lastmodified":1466211589,
     "wof:name":"St\u00e4dt.altersheim Stampfenbach",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [8.539198,47.386951,8.539198,47.386951],
+  "bbox": [
+    8.539198,
+    47.386951,
+    8.539198,
+    47.386951
+],
   "geometry": {"coordinates":[8.539198,47.386951],"type":"Point"}
 }

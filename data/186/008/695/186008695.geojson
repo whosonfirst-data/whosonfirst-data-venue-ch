@@ -2,13 +2,14 @@
   "id": 186008695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.49533,47.230511,8.49533,47.230511",
     "geom:latitude":47.230511,
     "geom:longitude":8.49533,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornacherstrasse 404 4053 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186008695,
-    "wof:lastmodified":1449051222,
+    "wof:lastmodified":1466209168,
     "wof:name":"B-tiefbau, B\u00e4r Kurt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.49533,47.230511,8.49533,47.230511],
+  "bbox": [
+    8.49533,
+    47.230511,
+    8.49533,
+    47.230511
+],
   "geometry": {"coordinates":[8.49533,47.230511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219322007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.40216,47.0639,7.40216,47.0639",
     "geom:latitude":47.0639,
     "geom:longitude":7.40216,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bethlehemstrasse 197",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219322007,
-    "wof:lastmodified":1449070341,
+    "wof:lastmodified":1466209452,
     "wof:name":"Willy & Heinrich Gerber Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.40216,47.0639,7.40216,47.0639],
+  "bbox": [
+    7.40216,
+    47.0639,
+    7.40216,
+    47.0639
+],
   "geometry": {"coordinates":[7.40216,47.0639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202475371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.587449,47.412636,8.587449,47.412636",
     "geom:latitude":47.412636,
     "geom:longitude":8.587449,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grindelstrasse 5 8304 Wallisellen. Postfach",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202475371,
-    "wof:lastmodified":1449061165,
+    "wof:lastmodified":1466211104,
     "wof:name":"Ecosens Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.587449,47.412636,8.587449,47.412636],
+  "bbox": [
+    8.587449,
+    47.412636,
+    8.587449,
+    47.412636
+],
   "geometry": {"coordinates":[8.587449,47.412636],"type":"Point"}
 }

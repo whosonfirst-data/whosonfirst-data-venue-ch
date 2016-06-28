@@ -2,13 +2,14 @@
   "id": 219354963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.030759,47.479889,9.030759,47.479889",
     "geom:latitude":47.479889,
     "geom:longitude":9.030759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Amp-strasse 1",
     "sg:city":"Bronschhofen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219354963,
-    "wof:lastmodified":1449073520,
+    "wof:lastmodified":1466209734,
     "wof:name":"Paul Wiederkehr Autospritzwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.030759,47.479889,9.030759,47.479889],
+  "bbox": [
+    9.030759,
+    47.479889,
+    9.030759,
+    47.479889
+],
   "geometry": {"coordinates":[9.030759,47.479889],"type":"Point"}
 }

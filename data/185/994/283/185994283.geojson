@@ -2,13 +2,14 @@
   "id": 185994283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.912325,46.98872,6.912325,46.98872",
     "geom:latitude":46.98872,
     "geom:longitude":6.912325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichli 23 6370 Stans. Postfach",
     "sg:city":"Beckenried",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185994283,
-    "wof:lastmodified":1449006655,
+    "wof:lastmodified":1466210750,
     "wof:name":"Centre Autoroute Police Cantonale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.912325,46.98872,6.912325,46.98872],
+  "bbox": [
+    6.912325,
+    46.98872,
+    6.912325,
+    46.98872
+],
   "geometry": {"coordinates":[6.912325,46.98872],"type":"Point"}
 }

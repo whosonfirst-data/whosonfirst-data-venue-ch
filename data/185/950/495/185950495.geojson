@@ -2,13 +2,14 @@
   "id": 185950495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532998,47.376816,8.532998,47.376816",
     "geom:latitude":47.376816,
     "geom:longitude":8.532998,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Reitergasse 3",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185950495,
-    "wof:lastmodified":1449007248,
+    "wof:lastmodified":1466210287,
     "wof:name":"Securnova P.huber",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532998,47.376816,8.532998,47.376816],
+  "bbox": [
+    8.532998,
+    47.376816,
+    8.532998,
+    47.376816
+],
   "geometry": {"coordinates":[8.532998,47.376816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202758767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.98988,46.326508,7.98988,46.326508",
     "geom:latitude":46.326508,
     "geom:longitude":7.98988,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blattenstrasse 14",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202758767,
-    "wof:lastmodified":1449060878,
+    "wof:lastmodified":1466211142,
     "wof:name":"Vwi Ingenieure Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.98988,46.326508,7.98988,46.326508],
+  "bbox": [
+    7.98988,
+    46.326508,
+    7.98988,
+    46.326508
+],
   "geometry": {"coordinates":[7.98988,46.326508],"type":"Point"}
 }

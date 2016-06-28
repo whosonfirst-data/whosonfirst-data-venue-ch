@@ -2,13 +2,14 @@
   "id": 169692357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.530815,46.52298,6.530815,46.52298",
     "geom:latitude":46.52298,
     "geom:longitude":6.530815,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zone Industrielle Tresi 6b",
     "sg:city":"Pr\u00e9verenges",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169692357,
-    "wof:lastmodified":1449033563,
+    "wof:lastmodified":1466210831,
     "wof:name":"C-mag S\u00e0rl",
     "wof:parent_id":85799935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "internet"
     ]
 },
-  "bbox": [6.530815,46.52298,6.530815,46.52298],
+  "bbox": [
+    6.530815,
+    46.52298,
+    6.530815,
+    46.52298
+],
   "geometry": {"coordinates":[6.530815,46.52298],"type":"Point"}
 }

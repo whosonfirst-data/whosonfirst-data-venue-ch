@@ -2,13 +2,14 @@
   "id": 185819773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.362508,47.418827,9.362508,47.418827",
     "geom:latitude":47.418827,
     "geom:longitude":9.362508,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aeschenvorstadt 24 Postfach 121",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185819773,
-    "wof:lastmodified":1449006989,
+    "wof:lastmodified":1466209250,
     "wof:name":"Blumen E. C. Fischer & Co.",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "livestock"
     ]
 },
-  "bbox": [9.362508,47.418827,9.362508,47.418827],
+  "bbox": [
+    9.362508,
+    47.418827,
+    9.362508,
+    47.418827
+],
   "geometry": {"coordinates":[9.362508,47.418827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253386541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.919564,46.051727,8.919564,46.051727",
     "geom:latitude":46.051727,
     "geom:longitude":8.919564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cantonale",
     "sg:city":"Bedano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253386541,
-    "wof:lastmodified":1449064375,
+    "wof:lastmodified":1466212224,
     "wof:name":"Fraschina Silvano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.919564,46.051727,8.919564,46.051727],
+  "bbox": [
+    8.919564,
+    46.051727,
+    8.919564,
+    46.051727
+],
   "geometry": {"coordinates":[8.919564,46.051727],"type":"Point"}
 }

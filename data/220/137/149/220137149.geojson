@@ -2,13 +2,14 @@
   "id": 220137149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.585011,47.53252,8.585011,47.53252",
     "geom:latitude":47.53252,
     "geom:longitude":8.585011,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4ttlikerstrasse 33",
     "sg:city":"Freienstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220137149,
-    "wof:lastmodified":1449074762,
+    "wof:lastmodified":1466210055,
     "wof:name":"Schneider Ag, Freienstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.585011,47.53252,8.585011,47.53252],
+  "bbox": [
+    8.585011,
+    47.53252,
+    8.585011,
+    47.53252
+],
   "geometry": {"coordinates":[8.585011,47.53252],"type":"Point"}
 }

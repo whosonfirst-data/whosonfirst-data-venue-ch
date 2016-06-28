@@ -2,13 +2,14 @@
   "id": 219588285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.13001,46.855259,7.13001,46.855259",
     "geom:latitude":46.855259,
     "geom:longitude":7.13001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De Fribourg 370",
     "sg:city":"Courtepin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219588285,
-    "wof:lastmodified":1449073236,
+    "wof:lastmodified":1466211879,
     "wof:name":"Raiffeisen Du Haut-lac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.13001,46.855259,7.13001,46.855259],
+  "bbox": [
+    7.13001,
+    46.855259,
+    7.13001,
+    46.855259
+],
   "geometry": {"coordinates":[7.13001,46.855259],"type":"Point"}
 }

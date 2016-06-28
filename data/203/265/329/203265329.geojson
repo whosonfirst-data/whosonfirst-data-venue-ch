@@ -2,13 +2,14 @@
   "id": 203265329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.448347,47.397392,8.448347,47.397392",
     "geom:latitude":47.397392,
     "geom:longitude":8.448347,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 4",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203265329,
-    "wof:lastmodified":1449025559,
+    "wof:lastmodified":1466210180,
     "wof:name":"Dr.med.a. Frei Rothenb\u00fchler Aerztin F.allgemeine Medizin",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.448347,47.397392,8.448347,47.397392],
+  "bbox": [
+    8.448347,
+    47.397392,
+    8.448347,
+    47.397392
+],
   "geometry": {"coordinates":[8.448347,47.397392],"type":"Point"}
 }

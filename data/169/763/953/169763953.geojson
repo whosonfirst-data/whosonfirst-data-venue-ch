@@ -2,13 +2,14 @@
   "id": 169763953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.23667,46.383289,6.23667,46.383289",
     "geom:latitude":46.383289,
     "geom:longitude":6.23667,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Bis",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169763953,
-    "wof:lastmodified":1449035957,
+    "wof:lastmodified":1466211463,
     "wof:name":"Concours Danse Nyon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.23667,46.383289,6.23667,46.383289],
+  "bbox": [
+    6.23667,
+    46.383289,
+    6.23667,
+    46.383289
+],
   "geometry": {"coordinates":[6.23667,46.383289],"type":"Point"}
 }

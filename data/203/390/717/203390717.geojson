@@ -2,13 +2,14 @@
   "id": 203390717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.583322,47.557121,7.583322,47.557121",
     "geom:latitude":47.557121,
     "geom:longitude":7.583322,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spalenvorstadt 11",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203390717,
-    "wof:lastmodified":1449026873,
+    "wof:lastmodified":1466211432,
     "wof:name":"Dr.med.philipp Basci Spezialarzt",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.583322,47.557121,7.583322,47.557121],
+  "bbox": [
+    7.583322,
+    47.557121,
+    7.583322,
+    47.557121
+],
   "geometry": {"coordinates":[7.583322,47.557121],"type":"Point"}
 }

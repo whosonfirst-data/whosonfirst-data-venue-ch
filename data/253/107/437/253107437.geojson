@@ -2,13 +2,14 @@
   "id": 253107437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.159277,46.80566,7.159277,46.80566",
     "geom:latitude":46.80566,
     "geom:longitude":7.159277,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Lausanne 36",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253107437,
-    "wof:lastmodified":1449062837,
+    "wof:lastmodified":1466210011,
     "wof:name":"Contact Optique Chuard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.159277,46.80566,7.159277,46.80566],
+  "bbox": [
+    7.159277,
+    46.80566,
+    7.159277,
+    46.80566
+],
   "geometry": {"coordinates":[7.159277,46.80566],"type":"Point"}
 }

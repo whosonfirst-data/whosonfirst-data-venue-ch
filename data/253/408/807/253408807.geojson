@@ -2,13 +2,14 @@
   "id": 253408807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.259325,46.822689,7.259325,46.822689",
     "geom:latitude":46.822689,
     "geom:longitude":7.259325,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonneggstrasse 82 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253408807,
-    "wof:lastmodified":1449063187,
+    "wof:lastmodified":1466212216,
     "wof:name":"Urs Klemenz Consulting & Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.259325,46.822689,7.259325,46.822689],
+  "bbox": [
+    7.259325,
+    46.822689,
+    7.259325,
+    46.822689
+],
   "geometry": {"coordinates":[7.259325,46.822689],"type":"Point"}
 }

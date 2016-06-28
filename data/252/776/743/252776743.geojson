@@ -2,13 +2,14 @@
   "id": 252776743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146606,46.194645,6.146606,46.194645",
     "geom:latitude":46.194645,
     "geom:longitude":6.146606,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Goetz-monin 8",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252776743,
-    "wof:lastmodified":1449005666,
+    "wof:lastmodified":1466209630,
     "wof:name":"Gabriel & Isabelle Nessim Antiquit\u00e9s",
     "wof:parent_id":85800091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146606,46.194645,6.146606,46.194645],
+  "bbox": [
+    6.146606,
+    46.194645,
+    6.146606,
+    46.194645
+],
   "geometry": {"coordinates":[6.146606,46.194645],"type":"Point"}
 }

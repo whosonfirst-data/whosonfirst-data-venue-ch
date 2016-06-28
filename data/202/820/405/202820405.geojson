@@ -2,13 +2,14 @@
   "id": 202820405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.654544,47.186749,7.654544,47.186749",
     "geom:latitude":47.186749,
     "geom:longitude":7.654544,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4genmoosweg 11",
     "sg:city":"Etziken",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202820405,
-    "wof:lastmodified":1449061433,
+    "wof:lastmodified":1466211788,
     "wof:name":"Erwin Beck Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.654544,47.186749,7.654544,47.186749],
+  "bbox": [
+    7.654544,
+    47.186749,
+    7.654544,
+    47.186749
+],
   "geometry": {"coordinates":[7.654544,47.186749],"type":"Point"}
 }

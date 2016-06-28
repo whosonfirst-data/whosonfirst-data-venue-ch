@@ -2,13 +2,14 @@
   "id": 169615325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.120853,46.866024,7.120853,46.866024",
     "geom:latitude":46.866024,
     "geom:longitude":7.120853,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De L'industrie 25",
     "sg:city":"Courtepin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169615325,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466209531,
     "wof:name":"Micarna Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "agriculture"
     ]
 },
-  "bbox": [7.120853,46.866024,7.120853,46.866024],
+  "bbox": [
+    7.120853,
+    46.866024,
+    7.120853,
+    46.866024
+],
   "geometry": {"coordinates":[7.120853,46.866024],"type":"Point"}
 }

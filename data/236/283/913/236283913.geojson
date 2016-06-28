@@ -2,13 +2,14 @@
   "id": 236283913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.155338,46.808353,7.155338,46.808353",
     "geom:latitude":46.808353,
     "geom:longitude":7.155338,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Jean-grimoux 24",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236283913,
-    "wof:lastmodified":1449002455,
+    "wof:lastmodified":1466211742,
     "wof:name":"Albert Jenny Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.155338,46.808353,7.155338,46.808353],
+  "bbox": [
+    7.155338,
+    46.808353,
+    7.155338,
+    46.808353
+],
   "geometry": {"coordinates":[7.155338,46.808353],"type":"Point"}
 }

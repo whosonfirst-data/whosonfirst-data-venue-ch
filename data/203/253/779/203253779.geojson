@@ -2,13 +2,14 @@
   "id": 203253779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.343744,47.313831,8.343744,47.313831",
     "geom:latitude":47.313831,
     "geom:longitude":8.343744,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantonsstrasse 10",
     "sg:city":"Besenb\u00fcren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203253779,
-    "wof:lastmodified":1449026628,
+    "wof:lastmodified":1466210064,
     "wof:name":"Dr.med. Martin Jirovec Arzt F. Allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.343744,47.313831,8.343744,47.313831],
+  "bbox": [
+    8.343744,
+    47.313831,
+    8.343744,
+    47.313831
+],
   "geometry": {"coordinates":[8.343744,47.313831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202764629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.505744,47.10973,8.505744,47.10973",
     "geom:latitude":47.10973,
     "geom:longitude":8.505744,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6rndlirain 20",
     "sg:city":"Walchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202764629,
-    "wof:lastmodified":1449062530,
+    "wof:lastmodified":1466211198,
     "wof:name":"Weiss & Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.505744,47.10973,8.505744,47.10973],
+  "bbox": [
+    8.505744,
+    47.10973,
+    8.505744,
+    47.10973
+],
   "geometry": {"coordinates":[8.505744,47.10973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202821087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549489,47.505653,8.549489,47.505653",
     "geom:latitude":47.505653,
     "geom:longitude":8.549489,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lachenstrasse 10",
     "sg:city":"Bachenb\u00fclach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202821087,
-    "wof:lastmodified":1449061493,
+    "wof:lastmodified":1466211677,
     "wof:name":"F & R Bauplanung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.549489,47.505653,8.549489,47.505653],
+  "bbox": [
+    8.549489,
+    47.505653,
+    8.549489,
+    47.505653
+],
   "geometry": {"coordinates":[8.549489,47.505653],"type":"Point"}
 }

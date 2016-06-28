@@ -2,13 +2,14 @@
   "id": 253402685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.491669,46.958443,7.491669,46.958443",
     "geom:latitude":46.958443,
     "geom:longitude":7.491669,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 83",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253402685,
-    "wof:lastmodified":1449063771,
+    "wof:lastmodified":1466212176,
     "wof:name":"Innodesign Gmbh",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.491669,46.958443,7.491669,46.958443],
+  "bbox": [
+    7.491669,
+    46.958443,
+    7.491669,
+    46.958443
+],
   "geometry": {"coordinates":[7.491669,46.958443],"type":"Point"}
 }

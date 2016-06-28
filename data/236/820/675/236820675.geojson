@@ -2,13 +2,14 @@
   "id": 236820675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.22698,47.496826,8.22698,47.496826",
     "geom:latitude":47.496826,
     "geom:longitude":8.22698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hubstrasse 80",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236820675,
-    "wof:lastmodified":1449003339,
+    "wof:lastmodified":1466212915,
     "wof:name":"Anton W\u00fcthrich Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.22698,47.496826,8.22698,47.496826],
+  "bbox": [
+    8.22698,
+    47.496826,
+    8.22698,
+    47.496826
+],
   "geometry": {"coordinates":[8.22698,47.496826],"type":"Point"}
 }

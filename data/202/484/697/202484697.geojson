@@ -2,13 +2,14 @@
   "id": 202484697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.27992,47.481441,8.27992,47.481441",
     "geom:latitude":47.481441,
     "geom:longitude":8.27992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fluhmattstrasse 37",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202484697,
-    "wof:lastmodified":1449062502,
+    "wof:lastmodified":1466211254,
     "wof:name":"Enrico Fontana Technisches B\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.27992,47.481441,8.27992,47.481441],
+  "bbox": [
+    8.27992,
+    47.481441,
+    8.27992,
+    47.481441
+],
   "geometry": {"coordinates":[8.27992,47.481441],"type":"Point"}
 }

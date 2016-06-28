@@ -2,13 +2,14 @@
   "id": 219788927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.523863,47.376537,8.523863,47.376537",
     "geom:latitude":47.376537,
     "geom:longitude":8.523863,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Engelstrasse 60",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219788927,
-    "wof:lastmodified":1449072201,
+    "wof:lastmodified":1466212507,
     "wof:name":"Bar-cabaret Mephisto",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.523863,47.376537,8.523863,47.376537],
+  "bbox": [
+    8.523863,
+    47.376537,
+    8.523863,
+    47.376537
+],
   "geometry": {"coordinates":[8.523863,47.376537],"type":"Point"}
 }

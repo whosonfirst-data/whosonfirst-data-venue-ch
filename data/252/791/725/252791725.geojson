@@ -2,13 +2,14 @@
   "id": 252791725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.449868,46.94783,7.449868,46.94783",
     "geom:latitude":46.94783,
     "geom:longitude":7.449868,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerstrasse 38 6330 Cham. Postfach 521",
     "sg:city":"Cham",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252791725,
-    "wof:lastmodified":1449006256,
+    "wof:lastmodified":1466209804,
     "wof:name":"Atelier Irmak, Irmak Abdulkadir Teppiche; Restauration U Beratung",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.449868,46.94783,7.449868,46.94783],
+  "bbox": [
+    7.449868,
+    46.94783,
+    7.449868,
+    46.94783
+],
   "geometry": {"coordinates":[7.449868,46.94783],"type":"Point"}
 }

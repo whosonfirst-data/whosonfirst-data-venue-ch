@@ -2,13 +2,14 @@
   "id": 253340035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.244384,47.137669,7.244384,47.137669",
     "geom:latitude":47.137669,
     "geom:longitude":7.244384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fcschli Rue Du 16 2502 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253340035,
-    "wof:lastmodified":1449065086,
+    "wof:lastmodified":1466212152,
     "wof:name":"Salupo S.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.244384,47.137669,7.244384,47.137669],
+  "bbox": [
+    7.244384,
+    47.137669,
+    7.244384,
+    47.137669
+],
   "geometry": {"coordinates":[7.244384,47.137669],"type":"Point"}
 }

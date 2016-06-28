@@ -2,13 +2,14 @@
   "id": 219278535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.269415,47.142242,7.269415,47.142242",
     "geom:latitude":47.142242,
     "geom:longitude":7.269415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mettstrasse 113",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219278535,
-    "wof:lastmodified":1449072323,
+    "wof:lastmodified":1466209048,
     "wof:name":"Garage Mettfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.269415,47.142242,7.269415,47.142242],
+  "bbox": [
+    7.269415,
+    47.142242,
+    7.269415,
+    47.142242
+],
   "geometry": {"coordinates":[7.269415,47.142242],"type":"Point"}
 }

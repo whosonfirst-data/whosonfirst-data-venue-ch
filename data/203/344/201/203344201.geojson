@@ -2,13 +2,14 @@
   "id": 203344201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.645018,47.694817,8.645018,47.694817",
     "geom:latitude":47.694817,
     "geom:longitude":8.645018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fischerh\u00e4userstrasse 44 8200 Schaffhausen. Postfach",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203344201,
-    "wof:lastmodified":1449025046,
+    "wof:lastmodified":1466210970,
     "wof:name":"Dr.med.helga W\u00fcest Spezial\u00e4rztin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.645018,47.694817,8.645018,47.694817],
+  "bbox": [
+    8.645018,
+    47.694817,
+    8.645018,
+    47.694817
+],
   "geometry": {"coordinates":[8.645018,47.694817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236146517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435446,46.959728,7.435446,46.959728",
     "geom:latitude":46.959728,
     "geom:longitude":7.435446,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neubr\u00fcckstrasse 114",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236146517,
-    "wof:lastmodified":1449002939,
+    "wof:lastmodified":1466210223,
     "wof:name":"Stiftung Campo Enrico Pestalozzi, Arcegno",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435446,46.959728,7.435446,46.959728],
+  "bbox": [
+    7.435446,
+    46.959728,
+    7.435446,
+    46.959728
+],
   "geometry": {"coordinates":[7.435446,46.959728],"type":"Point"}
 }

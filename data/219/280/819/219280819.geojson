@@ -2,13 +2,14 @@
   "id": 219280819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.2295,46.900654,7.2295,46.900654",
     "geom:latitude":46.900654,
     "geom:longitude":7.2295,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 41",
     "sg:city":"B\u00f6singen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219280819,
-    "wof:lastmodified":1449072113,
+    "wof:lastmodified":1466209068,
     "wof:name":"Garage Weyer W.schenk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.2295,46.900654,7.2295,46.900654],
+  "bbox": [
+    7.2295,
+    46.900654,
+    7.2295,
+    46.900654
+],
   "geometry": {"coordinates":[7.2295,46.900654],"type":"Point"}
 }

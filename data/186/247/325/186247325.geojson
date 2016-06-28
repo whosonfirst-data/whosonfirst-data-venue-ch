@@ -2,13 +2,14 @@
   "id": 186247325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545225,47.36837,8.545225,47.36837",
     "geom:latitude":47.36837,
     "geom:longitude":8.545225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weite Gasse 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186247325,
-    "wof:lastmodified":1449051943,
+    "wof:lastmodified":1466209452,
     "wof:name":"Werst Ag Wohn- U. Gesch\u00e4ftsh\u00e4user Usw; Erwerb, Bau, Verwaltung",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545225,47.36837,8.545225,47.36837],
+  "bbox": [
+    8.545225,
+    47.36837,
+    8.545225,
+    47.36837
+],
   "geometry": {"coordinates":[8.545225,47.36837],"type":"Point"}
 }

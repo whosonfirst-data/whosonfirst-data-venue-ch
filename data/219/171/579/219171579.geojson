@@ -2,13 +2,14 @@
   "id": 219171579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.59599,47.564159,7.59599,47.564159",
     "geom:latitude":47.564159,
     "geom:longitude":7.59599,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klingentalstrasse 58",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219171579,
-    "wof:lastmodified":1449073931,
+    "wof:lastmodified":1466210332,
     "wof:name":"Dres Med. Gl\u00e4ttli & Stockmeyer \u00c4rzte F.allgemeine Medizin Fmh",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.59599,47.564159,7.59599,47.564159],
+  "bbox": [
+    7.59599,
+    47.564159,
+    7.59599,
+    47.564159
+],
   "geometry": {"coordinates":[7.59599,47.564159],"type":"Point"}
 }

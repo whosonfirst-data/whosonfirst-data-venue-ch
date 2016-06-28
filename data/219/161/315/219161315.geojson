@@ -2,13 +2,14 @@
   "id": 219161315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.427328,46.942272,7.427328,46.942272",
     "geom:latitude":46.942272,
     "geom:longitude":7.427328,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Tscharnerstrasse 36",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219161315,
-    "wof:lastmodified":1449071783,
+    "wof:lastmodified":1466210079,
     "wof:name":"Dr.med.waltraud Tschaggelar Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.427328,46.942272,7.427328,46.942272],
+  "bbox": [
+    7.427328,
+    46.942272,
+    7.427328,
+    46.942272
+],
   "geometry": {"coordinates":[7.427328,46.942272],"type":"Point"}
 }

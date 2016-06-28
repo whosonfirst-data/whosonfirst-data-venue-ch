@@ -2,13 +2,14 @@
   "id": 252871471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.486397,46.931877,7.486397,46.931877",
     "geom:latitude":46.931877,
     "geom:longitude":7.486397,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzb\u00fchlstrasse 42",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252871471,
-    "wof:lastmodified":1449005754,
+    "wof:lastmodified":1466210682,
     "wof:name":"T-art Sa",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.486397,46.931877,7.486397,46.931877],
+  "bbox": [
+    7.486397,
+    46.931877,
+    7.486397,
+    46.931877
+],
   "geometry": {"coordinates":[7.486397,46.931877],"type":"Point"}
 }

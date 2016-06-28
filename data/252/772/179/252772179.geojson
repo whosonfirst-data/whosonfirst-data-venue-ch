@@ -2,13 +2,14 @@
   "id": 252772179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.401924,47.416245,9.401924,47.416245",
     "geom:latitude":47.416245,
     "geom:longitude":9.401924,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 79",
     "sg:city":"M\u00f6hlin",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252772179,
-    "wof:lastmodified":1449005898,
+    "wof:lastmodified":1466209577,
     "wof:name":"Arthur St\u00e4heli Antiquit\u00e4ten",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.401924,47.416245,9.401924,47.416245],
+  "bbox": [
+    9.401924,
+    47.416245,
+    9.401924,
+    47.416245
+],
   "geometry": {"coordinates":[9.401924,47.416245],"type":"Point"}
 }

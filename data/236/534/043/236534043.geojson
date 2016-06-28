@@ -2,13 +2,14 @@
   "id": 236534043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.07852,46.908531,7.07852,46.908531",
     "geom:latitude":46.908531,
     "geom:longitude":7.07852,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1595",
     "sg:city":"Faoug",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236534043,
-    "wof:lastmodified":1449002322,
+    "wof:lastmodified":1466212572,
     "wof:name":"Philippe Ibach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.07852,46.908531,7.07852,46.908531],
+  "bbox": [
+    7.07852,
+    46.908531,
+    7.07852,
+    46.908531
+],
   "geometry": {"coordinates":[7.07852,46.908531],"type":"Point"}
 }

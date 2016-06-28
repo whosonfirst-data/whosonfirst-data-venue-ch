@@ -2,13 +2,14 @@
   "id": 219586117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.88112,45.974152,8.88112,45.974152",
     "geom:latitude":45.974152,
     "geom:longitude":8.88112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Prati 1",
     "sg:city":"Caslano",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219586117,
-    "wof:lastmodified":1449073515,
+    "wof:lastmodified":1466211732,
     "wof:name":"Raiffeisen Di Caslano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.88112,45.974152,8.88112,45.974152],
+  "bbox": [
+    8.88112,
+    45.974152,
+    8.88112,
+    45.974152
+],
   "geometry": {"coordinates":[8.88112,45.974152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169692791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.433039,46.93792,7.433039,46.93792",
     "geom:latitude":46.93792,
     "geom:longitude":7.433039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weissenb\u00fchlweg 8",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169692791,
-    "wof:lastmodified":1449033561,
+    "wof:lastmodified":1466210871,
     "wof:name":"B\u00fchlmann + Partner Ag",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planning"
     ]
 },
-  "bbox": [7.433039,46.93792,7.433039,46.93792],
+  "bbox": [
+    7.433039,
+    46.93792,
+    7.433039,
+    46.93792
+],
   "geometry": {"coordinates":[7.433039,46.93792],"type":"Point"}
 }

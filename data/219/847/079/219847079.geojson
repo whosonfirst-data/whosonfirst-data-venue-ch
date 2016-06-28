@@ -2,13 +2,14 @@
   "id": 219847079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.607172,46.534218,6.607172,46.534218",
     "geom:latitude":46.534218,
     "geom:longitude":6.607172,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Centenaire 4",
     "sg:city":"Prilly",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219847079,
-    "wof:lastmodified":1449071673,
+    "wof:lastmodified":1466212640,
     "wof:name":"Restaurant & Bar La Cascade",
     "wof:parent_id":85800433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [6.607172,46.534218,6.607172,46.534218],
+  "bbox": [
+    6.607172,
+    46.534218,
+    6.607172,
+    46.534218
+],
   "geometry": {"coordinates":[6.607172,46.534218],"type":"Point"}
 }

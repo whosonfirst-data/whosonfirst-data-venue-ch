@@ -2,13 +2,14 @@
   "id": 185852117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.838231,46.497181,9.838231,46.497181",
     "geom:latitude":46.497181,
     "geom:longitude":9.838231,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Galeries Benjamin-constant 1 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185852117,
-    "wof:lastmodified":1449007961,
+    "wof:lastmodified":1466209498,
     "wof:name":"Banque Scs Alliance Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.838231,46.497181,9.838231,46.497181],
+  "bbox": [
+    9.838231,
+    46.497181,
+    9.838231,
+    46.497181
+],
   "geometry": {"coordinates":[9.838231,46.497181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203122781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.169577,47.387405,8.169577,47.387405",
     "geom:latitude":47.387405,
     "geom:longitude":8.169577,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aarauerstrasse 24",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203122781,
-    "wof:lastmodified":1449026027,
+    "wof:lastmodified":1466211336,
     "wof:name":"Edition Fona Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "art"
     ]
 },
-  "bbox": [8.169577,47.387405,8.169577,47.387405],
+  "bbox": [
+    8.169577,
+    47.387405,
+    8.169577,
+    47.387405
+],
   "geometry": {"coordinates":[8.169577,47.387405],"type":"Point"}
 }

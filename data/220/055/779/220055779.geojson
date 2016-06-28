@@ -2,13 +2,14 @@
   "id": 220055779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535101,47.389557,8.535101,47.389557",
     "geom:latitude":47.389557,
     "geom:longitude":8.535101,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weizenstrasse 5",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220055779,
-    "wof:lastmodified":1449074216,
+    "wof:lastmodified":1466209356,
     "wof:name":"H\u00e4chler Ren\u00e9 Modellbau",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535101,47.389557,8.535101,47.389557],
+  "bbox": [
+    8.535101,
+    47.389557,
+    8.535101,
+    47.389557
+],
   "geometry": {"coordinates":[8.535101,47.389557],"type":"Point"}
 }

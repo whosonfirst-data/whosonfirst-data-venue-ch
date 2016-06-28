@@ -2,13 +2,14 @@
   "id": 236502345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.483031,46.958469,7.483031,46.958469",
     "geom:latitude":46.958469,
     "geom:longitude":7.483031,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosweg 21",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236502345,
-    "wof:lastmodified":1449003108,
+    "wof:lastmodified":1466212624,
     "wof:name":"G\u00e4rtnerei Fritz Woodtli",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.483031,46.958469,7.483031,46.958469],
+  "bbox": [
+    7.483031,
+    46.958469,
+    7.483031,
+    46.958469
+],
   "geometry": {"coordinates":[7.483031,46.958469],"type":"Point"}
 }

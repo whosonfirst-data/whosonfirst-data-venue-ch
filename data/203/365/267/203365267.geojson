@@ -2,13 +2,14 @@
   "id": 203365267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.605326,47.694206,8.605326,47.694206",
     "geom:latitude":47.694206,
     "geom:longitude":8.605326,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 245",
     "sg:city":"Beringen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203365267,
-    "wof:lastmodified":1449025245,
+    "wof:lastmodified":1466211181,
     "wof:name":"Dr.med.kurt Neck Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.605326,47.694206,8.605326,47.694206],
+  "bbox": [
+    8.605326,
+    47.694206,
+    8.605326,
+    47.694206
+],
   "geometry": {"coordinates":[8.605326,47.694206],"type":"Point"}
 }

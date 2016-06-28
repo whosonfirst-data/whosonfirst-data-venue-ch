@@ -2,13 +2,14 @@
   "id": 203091671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604729,46.795601,7.604729,46.795601",
     "geom:latitude":46.795601,
     "geom:longitude":7.604729,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Schulg\u00e4ssli 2",
     "sg:city":"Heimberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203091671,
-    "wof:lastmodified":1449025124,
+    "wof:lastmodified":1466210986,
     "wof:name":"Urs Aebi Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604729,46.795601,7.604729,46.795601],
+  "bbox": [
+    7.604729,
+    46.795601,
+    7.604729,
+    46.795601
+],
   "geometry": {"coordinates":[7.604729,46.795601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185982801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.04708,47.554031,8.04708,47.554031",
     "geom:latitude":47.554031,
     "geom:longitude":8.04708,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Galgenrain 18",
     "sg:city":"Laufenburg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185982801,
-    "wof:lastmodified":1449006890,
+    "wof:lastmodified":1466210645,
     "wof:name":"Gartenservice A-z",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.04708,47.554031,8.04708,47.554031],
+  "bbox": [
+    8.04708,
+    47.554031,
+    8.04708,
+    47.554031
+],
   "geometry": {"coordinates":[8.04708,47.554031],"type":"Point"}
 }

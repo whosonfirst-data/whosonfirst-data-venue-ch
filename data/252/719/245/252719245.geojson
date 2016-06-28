@@ -2,13 +2,14 @@
   "id": 252719245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.628646,46.519253,6.628646,46.519253",
     "geom:latitude":46.519253,
     "geom:longitude":6.628646,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Charmettes 7 1003 Lausanne Case Postale 3453",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252719245,
-    "wof:lastmodified":1449005545,
+    "wof:lastmodified":1466209050,
     "wof:name":"Ofisa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.628646,46.519253,6.628646,46.519253],
+  "bbox": [
+    6.628646,
+    46.519253,
+    6.628646,
+    46.519253
+],
   "geometry": {"coordinates":[6.628646,46.519253],"type":"Point"}
 }

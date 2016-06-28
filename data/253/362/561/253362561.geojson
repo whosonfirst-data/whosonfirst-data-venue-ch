@@ -2,13 +2,14 @@
   "id": 253362561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.053289,47.392555,8.053289,47.392555",
     "geom:latitude":47.392555,
     "geom:longitude":8.053289,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 92 5000 Aarau. Postfach 346",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253362561,
-    "wof:lastmodified":1449064747,
+    "wof:lastmodified":1466212256,
     "wof:name":"Roth Bruno.",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.053289,47.392555,8.053289,47.392555],
+  "bbox": [
+    8.053289,
+    47.392555,
+    8.053289,
+    47.392555
+],
   "geometry": {"coordinates":[8.053289,47.392555],"type":"Point"}
 }

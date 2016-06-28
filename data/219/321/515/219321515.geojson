@@ -2,13 +2,14 @@
   "id": 219321515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.485605,47.010155,8.485605,47.010155",
     "geom:latitude":47.010155,
     "geom:longitude":8.485605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ober-m\u00fchle",
     "sg:city":"Vitznau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219321515,
-    "wof:lastmodified":1449070449,
+    "wof:lastmodified":1466209448,
     "wof:name":"Werner Zimmermann Dorfgarage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.485605,47.010155,8.485605,47.010155],
+  "bbox": [
+    8.485605,
+    47.010155,
+    8.485605,
+    47.010155
+],
   "geometry": {"coordinates":[8.485605,47.010155],"type":"Point"}
 }

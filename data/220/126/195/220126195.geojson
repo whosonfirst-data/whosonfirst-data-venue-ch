@@ -2,13 +2,14 @@
   "id": 220126195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604902,46.794872,7.604902,46.794872",
     "geom:latitude":46.794872,
     "geom:longitude":7.604902,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dornhaldestrasse 33",
     "sg:city":"Heimberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220126195,
-    "wof:lastmodified":1449074328,
+    "wof:lastmodified":1466209964,
     "wof:name":"P. Karp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604902,46.794872,7.604902,46.794872],
+  "bbox": [
+    7.604902,
+    46.794872,
+    7.604902,
+    46.794872
+],
   "geometry": {"coordinates":[7.604902,46.794872],"type":"Point"}
 }

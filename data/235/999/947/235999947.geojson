@@ -2,13 +2,14 @@
   "id": 235999947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.690055,47.300556,8.690055,47.300556",
     "geom:latitude":47.300556,
     "geom:longitude":8.690055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3993",
     "sg:city":"Grengiols",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235999947,
-    "wof:lastmodified":1449008568,
+    "wof:lastmodified":1466209513,
     "wof:name":"Pfister Markus Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.690055,47.300556,8.690055,47.300556],
+  "bbox": [
+    8.690055,
+    47.300556,
+    8.690055,
+    47.300556
+],
   "geometry": {"coordinates":[8.690055,47.300556],"type":"Point"}
 }

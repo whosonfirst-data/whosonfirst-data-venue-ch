@@ -2,13 +2,14 @@
   "id": 252956919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.635248,46.520157,6.635248,46.520157",
     "geom:latitude":46.520157,
     "geom:longitude":6.635248,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Bourg 7 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252956919,
-    "wof:lastmodified":1449005595,
+    "wof:lastmodified":1466211594,
     "wof:name":"Steiger & Cie Sa Porcelaines Cristaux",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.635248,46.520157,6.635248,46.520157],
+  "bbox": [
+    6.635248,
+    46.520157,
+    6.635248,
+    46.520157
+],
   "geometry": {"coordinates":[6.635248,46.520157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202785253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.379525,47.281158,7.379525,47.281158",
     "geom:latitude":47.281158,
     "geom:longitude":7.379525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Nant 1",
     "sg:city":"Montagne-moutier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202785253,
-    "wof:lastmodified":1449062228,
+    "wof:lastmodified":1466211387,
     "wof:name":"Architector Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.379525,47.281158,7.379525,47.281158],
+  "bbox": [
+    7.379525,
+    47.281158,
+    7.379525,
+    47.281158
+],
   "geometry": {"coordinates":[7.379525,47.281158],"type":"Point"}
 }

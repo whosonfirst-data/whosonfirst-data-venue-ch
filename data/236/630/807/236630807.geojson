@@ -2,13 +2,14 @@
   "id": 236630807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.74646,46.315311,7.74646,46.315311",
     "geom:latitude":46.315311,
     "geom:longitude":7.74646,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lehnweg 6",
     "sg:city":"Unterseen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236630807,
-    "wof:lastmodified":1449002698,
+    "wof:lastmodified":1466212643,
     "wof:name":"Campingplatz L\u00f6tschberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.74646,46.315311,7.74646,46.315311],
+  "bbox": [
+    7.74646,
+    46.315311,
+    7.74646,
+    46.315311
+],
   "geometry": {"coordinates":[7.74646,46.315311],"type":"Point"}
 }

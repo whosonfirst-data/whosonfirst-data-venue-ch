@@ -2,13 +2,14 @@
   "id": 219300749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.634175,47.012241,8.634175,47.012241",
     "geom:latitude":47.012241,
     "geom:longitude":8.634175,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dammstrasse 6 6438 Ibach. Postfach 248",
     "sg:city":"Ibach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219300749,
-    "wof:lastmodified":1449072363,
+    "wof:lastmodified":1466209248,
     "wof:name":"Martin Reichlin Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.634175,47.012241,8.634175,47.012241],
+  "bbox": [
+    8.634175,
+    47.012241,
+    8.634175,
+    47.012241
+],
   "geometry": {"coordinates":[8.634175,47.012241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253194951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.225561,47.234524,7.225561,47.234524",
     "geom:latitude":47.234524,
     "geom:longitude":7.225561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 26",
     "sg:city":"Reconvilier",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253194951,
-    "wof:lastmodified":1449065343,
+    "wof:lastmodified":1466210973,
     "wof:name":"Hofmann Olivier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.225561,47.234524,7.225561,47.234524],
+  "bbox": [
+    7.225561,
+    47.234524,
+    7.225561,
+    47.234524
+],
   "geometry": {"coordinates":[7.225561,47.234524],"type":"Point"}
 }

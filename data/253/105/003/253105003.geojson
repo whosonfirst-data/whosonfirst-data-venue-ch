@@ -2,13 +2,14 @@
   "id": 253105003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.375381,47.42297,9.375381,47.42297",
     "geom:latitude":47.42297,
     "geom:longitude":9.375381,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Webergasse 19",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253105003,
-    "wof:lastmodified":1449063967,
+    "wof:lastmodified":1466209983,
     "wof:name":"Bernd Kalthoff Augenoptik",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.375381,47.42297,9.375381,47.42297],
+  "bbox": [
+    9.375381,
+    47.42297,
+    9.375381,
+    47.42297
+],
   "geometry": {"coordinates":[9.375381,47.42297],"type":"Point"}
 }

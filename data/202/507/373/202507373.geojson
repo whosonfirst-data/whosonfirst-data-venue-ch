@@ -2,13 +2,14 @@
   "id": 202507373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.913886,47.063953,6.913886,47.063953",
     "geom:latitude":47.063953,
     "geom:longitude":6.913886,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Marni\u00e8re 1 2054 Ch\u00e9zard-st-martin. Postfach",
     "sg:city":"Ch\u00e9zard-st-martin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202507373,
-    "wof:lastmodified":1449061420,
+    "wof:lastmodified":1466211509,
     "wof:name":"G.o. G\u00e9ologie Op\u00e9rationnelle Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.913886,47.063953,6.913886,47.063953],
+  "bbox": [
+    6.913886,
+    47.063953,
+    6.913886,
+    47.063953
+],
   "geometry": {"coordinates":[6.913886,47.063953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202807911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.661306,47.473675,7.661306,47.473675",
     "geom:latitude":47.473675,
     "geom:longitude":7.661306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00fcrenweg 16a",
     "sg:city":"Gempen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202807911,
-    "wof:lastmodified":1449060763,
+    "wof:lastmodified":1466211592,
     "wof:name":"Bitterli Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.661306,47.473675,7.661306,47.473675],
+  "bbox": [
+    7.661306,
+    47.473675,
+    7.661306,
+    47.473675
+],
   "geometry": {"coordinates":[7.661306,47.473675],"type":"Point"}
 }

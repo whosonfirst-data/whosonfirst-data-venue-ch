@@ -2,13 +2,14 @@
   "id": 169756089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.436134,46.940845,7.436134,46.940845",
     "geom:latitude":46.940845,
     "geom:longitude":7.436134,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Giessereiweg 9 -",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169756089,
-    "wof:lastmodified":1449034661,
+    "wof:lastmodified":1466211397,
     "wof:name":"Macedonia Embassy",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export-import"
     ]
 },
-  "bbox": [7.436134,46.940845,7.436134,46.940845],
+  "bbox": [
+    7.436134,
+    46.940845,
+    7.436134,
+    46.940845
+],
   "geometry": {"coordinates":[7.436134,46.940845],"type":"Point"}
 }

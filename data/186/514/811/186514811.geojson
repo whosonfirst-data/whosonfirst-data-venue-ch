@@ -2,13 +2,14 @@
   "id": 186514811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.052159,47.336704,8.052159,47.336704",
     "geom:latitude":47.336704,
     "geom:longitude":8.052159,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altersheimstrasse 1",
     "sg:city":"Muhen",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186514811,
-    "wof:lastmodified":1449051723,
+    "wof:lastmodified":1466211561,
     "wof:name":"Regionales Altersheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "alters"
     ]
 },
-  "bbox": [8.052159,47.336704,8.052159,47.336704],
+  "bbox": [
+    8.052159,
+    47.336704,
+    8.052159,
+    47.336704
+],
   "geometry": {"coordinates":[8.052159,47.336704],"type":"Point"}
 }

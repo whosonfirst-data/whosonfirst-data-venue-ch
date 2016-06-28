@@ -2,13 +2,14 @@
   "id": 236521477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.199925,47.289139,8.199925,47.289139",
     "geom:latitude":47.289139,
     "geom:longitude":8.199925,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilifeld 294",
     "sg:city":"Birrwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236521477,
-    "wof:lastmodified":1449005054,
+    "wof:lastmodified":1466212554,
     "wof:name":"Oskar Lattmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.199925,47.289139,8.199925,47.289139],
+  "bbox": [
+    8.199925,
+    47.289139,
+    8.199925,
+    47.289139
+],
   "geometry": {"coordinates":[8.199925,47.289139],"type":"Point"}
 }

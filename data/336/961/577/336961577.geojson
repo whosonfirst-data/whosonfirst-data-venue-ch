@@ -2,13 +2,14 @@
   "id": 336961577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.957469,46.017319,8.957469,46.017319",
     "geom:latitude":46.017319,
     "geom:longitude":8.957469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beltramina Via 3a",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336961577,
-    "wof:lastmodified":1448997979,
+    "wof:lastmodified":1466209024,
     "wof:name":"Casanova Sa, Succursale Di Lugano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.957469,46.017319,8.957469,46.017319],
+  "bbox": [
+    8.957469,
+    46.017319,
+    8.957469,
+    46.017319
+],
   "geometry": {"coordinates":[8.957469,46.017319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252707853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17701,47.41283,9.17701,47.41283",
     "geom:latitude":47.41283,
     "geom:longitude":9.17701,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberbotsbergstrasse 79",
     "sg:city":"Flawil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252707853,
-    "wof:lastmodified":1449006351,
+    "wof:lastmodified":1466208926,
     "wof:name":"Stamm Edv-beratungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.17701,47.41283,9.17701,47.41283],
+  "bbox": [
+    9.17701,
+    47.41283,
+    9.17701,
+    47.41283
+],
   "geometry": {"coordinates":[9.17701,47.41283],"type":"Point"}
 }

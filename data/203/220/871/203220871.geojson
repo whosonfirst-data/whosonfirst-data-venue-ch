@@ -2,13 +2,14 @@
   "id": 203220871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.653543,46.544586,6.653543,46.544586",
     "geom:latitude":46.544586,
     "geom:longitude":6.653543,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Ormeaux 10",
     "sg:city":"Epalinges",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203220871,
-    "wof:lastmodified":1449026799,
+    "wof:lastmodified":1466209696,
     "wof:name":"Dr M\u00e9d. Pierre-alain Schmied M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.653543,46.544586,6.653543,46.544586],
+  "bbox": [
+    6.653543,
+    46.544586,
+    6.653543,
+    46.544586
+],
   "geometry": {"coordinates":[6.653543,46.544586],"type":"Point"}
 }

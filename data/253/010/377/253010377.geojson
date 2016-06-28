@@ -2,13 +2,14 @@
   "id": 253010377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.709793,47.291958,8.709793,47.291958",
     "geom:latitude":47.291958,
     "geom:longitude":8.709793,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vogelsangstrasse 39",
     "sg:city":"Esslingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253010377,
-    "wof:lastmodified":1449064657,
+    "wof:lastmodified":1466209049,
     "wof:name":"Blumen Ecke Marianne Furrer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.709793,47.291958,8.709793,47.291958],
+  "bbox": [
+    8.709793,
+    47.291958,
+    8.709793,
+    47.291958
+],
   "geometry": {"coordinates":[8.709793,47.291958],"type":"Point"}
 }

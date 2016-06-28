@@ -2,13 +2,14 @@
   "id": 253085647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.004879,45.847282,9.004879,45.847282",
     "geom:latitude":45.847282,
     "geom:longitude":9.004879,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Stazione 32 6828 Balerna. Postfach Caselle Postale 46",
     "sg:city":"Balerna",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253085647,
-    "wof:lastmodified":1449063560,
+    "wof:lastmodified":1466209771,
     "wof:name":"Fernando Sa Revisioni Di Cisterne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.004879,45.847282,9.004879,45.847282],
+  "bbox": [
+    9.004879,
+    45.847282,
+    9.004879,
+    45.847282
+],
   "geometry": {"coordinates":[9.004879,45.847282],"type":"Point"}
 }

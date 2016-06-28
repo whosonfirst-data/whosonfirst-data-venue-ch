@@ -2,13 +2,14 @@
   "id": 219199793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.479043,47.44072,8.479043,47.44072",
     "geom:latitude":47.44072,
     "geom:longitude":8.479043,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 89",
     "sg:city":"Watt",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219199793,
-    "wof:lastmodified":1449070751,
+    "wof:lastmodified":1466210933,
     "wof:name":"Jakob Bader Tore Und Antriebe",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.479043,47.44072,8.479043,47.44072],
+  "bbox": [
+    8.479043,
+    47.44072,
+    8.479043,
+    47.44072
+],
   "geometry": {"coordinates":[8.479043,47.44072],"type":"Point"}
 }

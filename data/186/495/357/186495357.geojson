@@ -2,13 +2,14 @@
   "id": 186495357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.570125,47.5555,7.570125,47.5555",
     "geom:latitude":47.5555,
     "geom:longitude":7.570125,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"F\u00f6hrenstrasse 2 4054 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186495357,
-    "wof:lastmodified":1449051559,
+    "wof:lastmodified":1466211395,
     "wof:name":"Alterspflegeheim Merian Iselin-spital",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alters"
     ]
 },
-  "bbox": [7.570125,47.5555,7.570125,47.5555],
+  "bbox": [
+    7.570125,
+    47.5555,
+    7.570125,
+    47.5555
+],
   "geometry": {"coordinates":[7.570125,47.5555],"type":"Point"}
 }

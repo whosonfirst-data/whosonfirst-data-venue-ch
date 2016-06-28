@@ -2,13 +2,14 @@
   "id": 252761477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.16205,46.805599,7.16205,46.805599",
     "geom:latitude":46.805599,
     "geom:longitude":7.16205,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Epouses 133",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252761477,
-    "wof:lastmodified":1449006244,
+    "wof:lastmodified":1466209440,
     "wof:name":"Galerie La Margelle, Josette Maradan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.16205,46.805599,7.16205,46.805599],
+  "bbox": [
+    7.16205,
+    46.805599,
+    7.16205,
+    46.805599
+],
   "geometry": {"coordinates":[7.16205,46.805599],"type":"Point"}
 }

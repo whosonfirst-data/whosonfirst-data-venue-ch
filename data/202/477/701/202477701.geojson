@@ -2,13 +2,14 @@
   "id": 202477701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.632596,46.53233,6.632596,46.53233",
     "geom:latitude":46.53233,
     "geom:longitude":6.632596,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fauquez Route Aloys- 28",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202477701,
-    "wof:lastmodified":1449060537,
+    "wof:lastmodified":1466211163,
     "wof:name":"Egobat Sa",
     "wof:parent_id":85862363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.632596,46.53233,6.632596,46.53233],
+  "bbox": [
+    6.632596,
+    46.53233,
+    6.632596,
+    46.53233
+],
   "geometry": {"coordinates":[6.632596,46.53233],"type":"Point"}
 }

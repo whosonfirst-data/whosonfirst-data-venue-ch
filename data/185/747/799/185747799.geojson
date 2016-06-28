@@ -2,13 +2,14 @@
   "id": 185747799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.44481,46.956127,7.44481,46.956127",
     "geom:latitude":46.956127,
     "geom:longitude":7.44481,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Forchstrasse 2",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185747799,
-    "wof:lastmodified":1449006907,
+    "wof:lastmodified":1466211485,
     "wof:name":"Weibel & Wenger Advokaturb\u00fcro",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.44481,46.956127,7.44481,46.956127],
+  "bbox": [
+    7.44481,
+    46.956127,
+    7.44481,
+    46.956127
+],
   "geometry": {"coordinates":[7.44481,46.956127],"type":"Point"}
 }

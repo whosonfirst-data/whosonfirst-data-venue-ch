@@ -2,13 +2,14 @@
   "id": 203378555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.217186,47.581299,8.217186,47.581299",
     "geom:latitude":47.581299,
     "geom:longitude":8.217186,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulweg 282",
     "sg:city":"Leuggern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203378555,
-    "wof:lastmodified":1449026258,
+    "wof:lastmodified":1466211313,
     "wof:name":"Dr.med.markus Zeugin Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.217186,47.581299,8.217186,47.581299],
+  "bbox": [
+    8.217186,
+    47.581299,
+    8.217186,
+    47.581299
+],
   "geometry": {"coordinates":[8.217186,47.581299],"type":"Point"}
 }

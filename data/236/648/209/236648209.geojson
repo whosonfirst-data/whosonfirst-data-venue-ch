@@ -2,13 +2,14 @@
   "id": 236648209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.559019,47.415054,8.559019,47.415054",
     "geom:latitude":47.415054,
     "geom:longitude":8.559019,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hagenholzstrasse 81",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236648209,
-    "wof:lastmodified":1449002365,
+    "wof:lastmodified":1466212743,
     "wof:name":"Fracht Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cargo"
     ]
 },
-  "bbox": [8.559019,47.415054,8.559019,47.415054],
+  "bbox": [
+    8.559019,
+    47.415054,
+    8.559019,
+    47.415054
+],
   "geometry": {"coordinates":[8.559019,47.415054],"type":"Point"}
 }

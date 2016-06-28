@@ -2,13 +2,14 @@
   "id": 252920111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535687,47.372959,8.535687,47.372959",
     "geom:latitude":47.372959,
     "geom:longitude":8.535687,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sihlstrasse 38",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252920111,
-    "wof:lastmodified":1449006265,
+    "wof:lastmodified":1466211222,
     "wof:name":"Out On Street",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535687,47.372959,8.535687,47.372959],
+  "bbox": [
+    8.535687,
+    47.372959,
+    8.535687,
+    47.372959
+],
   "geometry": {"coordinates":[8.535687,47.372959],"type":"Point"}
 }

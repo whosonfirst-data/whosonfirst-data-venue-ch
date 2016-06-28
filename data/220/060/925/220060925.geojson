@@ -2,13 +2,14 @@
   "id": 220060925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.826201,47.361744,8.826201,47.361744",
     "geom:latitude":47.361744,
     "geom:longitude":8.826201,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00fcrstelenstrasse 55",
     "sg:city":"Oberhittnau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220060925,
-    "wof:lastmodified":1449074800,
+    "wof:lastmodified":1466209406,
     "wof:name":"Jakob Bosshart Mech.schreinerei & Glaserei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.826201,47.361744,8.826201,47.361744],
+  "bbox": [
+    8.826201,
+    47.361744,
+    8.826201,
+    47.361744
+],
   "geometry": {"coordinates":[8.826201,47.361744],"type":"Point"}
 }

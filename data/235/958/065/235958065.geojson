@@ -2,13 +2,14 @@
   "id": 235958065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.419569,47.031425,8.419569,47.031425",
     "geom:latitude":47.031425,
     "geom:longitude":8.419569,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6sliweg 5 6353 Weggis. Postfach 139",
     "sg:city":"Weggis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235958065,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466209134,
     "wof:name":"Hanspeter Imgr\u00fcth Ag Schreinerei & K\u00fcchenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.419569,47.031425,8.419569,47.031425],
+  "bbox": [
+    8.419569,
+    47.031425,
+    8.419569,
+    47.031425
+],
   "geometry": {"coordinates":[8.419569,47.031425],"type":"Point"}
 }

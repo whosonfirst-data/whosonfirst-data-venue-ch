@@ -2,13 +2,14 @@
   "id": 186110507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.709616,47.750172,8.709616,47.750172",
     "geom:latitude":47.750172,
     "geom:longitude":8.709616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steigstrasse 4",
     "sg:city":"Thayngen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186110507,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466210973,
     "wof:name":"Imthurn Stephan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.709616,47.750172,8.709616,47.750172],
+  "bbox": [
+    8.709616,
+    47.750172,
+    8.709616,
+    47.750172
+],
   "geometry": {"coordinates":[8.709616,47.750172],"type":"Point"}
 }

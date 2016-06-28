@@ -2,13 +2,14 @@
   "id": 253367471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448272,46.9478,7.448272,46.9478",
     "geom:latitude":46.9478,
     "geom:longitude":7.448272,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hotelgasse 1",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253367471,
-    "wof:lastmodified":1449064561,
+    "wof:lastmodified":1466212038,
     "wof:name":"Buchhandlung Zum Zytglogge Bern, Wyler I.",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448272,46.9478,7.448272,46.9478],
+  "bbox": [
+    7.448272,
+    46.9478,
+    7.448272,
+    46.9478
+],
   "geometry": {"coordinates":[7.448272,46.9478],"type":"Point"}
 }

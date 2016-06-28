@@ -2,13 +2,14 @@
   "id": 185951461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146567,46.216167,6.146567,46.216167",
     "geom:latitude":46.216167,
     "geom:longitude":6.146567,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Ferrier 14",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185951461,
-    "wof:lastmodified":1449006643,
+    "wof:lastmodified":1466210296,
     "wof:name":"Domolink S\u00e0rl Centre De La Domotique",
     "wof:parent_id":85800155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146567,46.216167,6.146567,46.216167],
+  "bbox": [
+    6.146567,
+    46.216167,
+    6.146567,
+    46.216167
+],
   "geometry": {"coordinates":[6.146567,46.216167],"type":"Point"}
 }

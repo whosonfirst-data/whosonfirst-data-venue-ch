@@ -2,13 +2,14 @@
   "id": 236881165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.48354,47.377659,8.48354,47.377659",
     "geom:latitude":47.377659,
     "geom:longitude":8.48354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altstetterstrasse 294",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236881165,
-    "wof:lastmodified":1449003587,
+    "wof:lastmodified":1466212951,
     "wof:name":"Unigista",
     "wof:parent_id":85799695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "table"
     ]
 },
-  "bbox": [8.48354,47.377659,8.48354,47.377659],
+  "bbox": [
+    8.48354,
+    47.377659,
+    8.48354,
+    47.377659
+],
   "geometry": {"coordinates":[8.48354,47.377659],"type":"Point"}
 }

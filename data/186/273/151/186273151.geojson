@@ -2,13 +2,14 @@
   "id": 186273151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.358623,47.412014,9.358623,47.412014",
     "geom:latitude":47.412014,
     "geom:longitude":9.358623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochwachtstrasse 28",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186273151,
-    "wof:lastmodified":1449051758,
+    "wof:lastmodified":1466209647,
     "wof:name":"Campi Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.358623,47.412014,9.358623,47.412014],
+  "bbox": [
+    9.358623,
+    47.412014,
+    9.358623,
+    47.412014
+],
   "geometry": {"coordinates":[9.358623,47.412014],"type":"Point"}
 }

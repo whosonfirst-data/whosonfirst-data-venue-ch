@@ -2,13 +2,14 @@
   "id": 253097221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.550523,47.362492,8.550523,47.362492",
     "geom:latitude":47.362492,
     "geom:longitude":8.550523,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seefeldstrasse 47 8008 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253097221,
-    "wof:lastmodified":1449063989,
+    "wof:lastmodified":1466209903,
     "wof:name":"Korolnyk Optik Ag Foto",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.550523,47.362492,8.550523,47.362492],
+  "bbox": [
+    8.550523,
+    47.362492,
+    8.550523,
+    47.362492
+],
   "geometry": {"coordinates":[8.550523,47.362492],"type":"Point"}
 }

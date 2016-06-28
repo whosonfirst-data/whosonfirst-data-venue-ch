@@ -2,13 +2,14 @@
   "id": 203357233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.471825,47.165615,9.471825,47.165615",
     "geom:latitude":47.165615,
     "geom:longitude":9.471825,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruderholzstrasse 16",
     "sg:city":"Bottmingen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203357233,
-    "wof:lastmodified":1449026636,
+    "wof:lastmodified":1466211105,
     "wof:name":"Dr.med.j\u00fcrg Hess Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.471825,47.165615,9.471825,47.165615],
+  "bbox": [
+    9.471825,
+    47.165615,
+    9.471825,
+    47.165615
+],
   "geometry": {"coordinates":[9.471825,47.165615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169790027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.417308,46.941063,7.417308,46.941063",
     "geom:latitude":46.941063,
     "geom:longitude":7.417308,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holligenstrasse 70",
     "sg:city":"Bern 21",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169790027,
-    "wof:lastmodified":1449035187,
+    "wof:lastmodified":1466208993,
     "wof:name":"Verein Mumm, M\u00e4nnerb\u00fcro Bern",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.417308,46.941063,7.417308,46.941063],
+  "bbox": [
+    7.417308,
+    46.941063,
+    7.417308,
+    46.941063
+],
   "geometry": {"coordinates":[7.417308,46.941063],"type":"Point"}
 }

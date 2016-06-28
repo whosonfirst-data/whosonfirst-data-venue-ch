@@ -2,13 +2,14 @@
   "id": 185695661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.533415,47.365093,8.533415,47.365093",
     "geom:latitude":47.365093,
     "geom:longitude":8.533415,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstrasse 52",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185695661,
-    "wof:lastmodified":1449007214,
+    "wof:lastmodified":1466211062,
     "wof:name":"Dr.heinz Hauri Advokaturb\u00fcro",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.533415,47.365093,8.533415,47.365093],
+  "bbox": [
+    8.533415,
+    47.365093,
+    8.533415,
+    47.365093
+],
   "geometry": {"coordinates":[8.533415,47.365093],"type":"Point"}
 }

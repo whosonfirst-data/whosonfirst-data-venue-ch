@@ -2,13 +2,14 @@
   "id": 220040203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.850758,47.115131,7.850758,47.115131",
     "geom:latitude":47.115131,
     "geom:longitude":7.850758,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thomasbodenstrasse 9",
     "sg:city":"Huttwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220040203,
-    "wof:lastmodified":1449074848,
+    "wof:lastmodified":1466209220,
     "wof:name":"Rudolf Nyffeler Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.850758,47.115131,7.850758,47.115131],
+  "bbox": [
+    7.850758,
+    47.115131,
+    7.850758,
+    47.115131
+],
   "geometry": {"coordinates":[7.850758,47.115131],"type":"Point"}
 }

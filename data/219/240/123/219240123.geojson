@@ -2,13 +2,14 @@
   "id": 219240123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.337374,47.365524,7.337374,47.365524",
     "geom:latitude":47.365524,
     "geom:longitude":7.337374,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Raimontpierre 5",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219240123,
-    "wof:lastmodified":1449070755,
+    "wof:lastmodified":1466211705,
     "wof:name":"Gilles Cattin Auto-\u00e9cole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.337374,47.365524,7.337374,47.365524],
+  "bbox": [
+    7.337374,
+    47.365524,
+    7.337374,
+    47.365524
+],
   "geometry": {"coordinates":[7.337374,47.365524],"type":"Point"}
 }

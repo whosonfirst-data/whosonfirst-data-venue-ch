@@ -2,13 +2,14 @@
   "id": 202398881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.681618,46.519299,6.681618,46.519299",
     "geom:latitude":46.519299,
     "geom:longitude":6.681618,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Pralets 16",
     "sg:city":"Belmont-lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202398881,
-    "wof:lastmodified":1449060319,
+    "wof:lastmodified":1466209715,
     "wof:name":"Bauer Pierre Sa",
     "wof:parent_id":85799767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.681618,46.519299,6.681618,46.519299],
+  "bbox": [
+    6.681618,
+    46.519299,
+    6.681618,
+    46.519299
+],
   "geometry": {"coordinates":[6.681618,46.519299],"type":"Point"}
 }

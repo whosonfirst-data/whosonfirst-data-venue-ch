@@ -2,13 +2,14 @@
   "id": 236141529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.546659,47.000378,7.546659,47.000378",
     "geom:latitude":47.000378,
     "geom:longitude":7.546659,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bolligenstrasse 22b",
     "sg:city":"Krauchthal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236141529,
-    "wof:lastmodified":1449002671,
+    "wof:lastmodified":1466210172,
     "wof:name":"Karl Blaser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furniture"
     ]
 },
-  "bbox": [7.546659,47.000378,7.546659,47.000378],
+  "bbox": [
+    7.546659,
+    47.000378,
+    7.546659,
+    47.000378
+],
   "geometry": {"coordinates":[7.546659,47.000378],"type":"Point"}
 }

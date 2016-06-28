@@ -2,13 +2,14 @@
   "id": 202514685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.368962,46.553944,7.368962,46.553944",
     "geom:latitude":46.553944,
     "geom:longitude":7.368962,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcbelistrasse 3770 Zweisimmen. Postfach 225",
     "sg:city":"Zweisimmen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202514685,
-    "wof:lastmodified":1449061398,
+    "wof:lastmodified":1466211575,
     "wof:name":"Gerber A., Bauingenieur Und Vermessungsb\u00fcro-kreisgeometer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.368962,46.553944,7.368962,46.553944],
+  "bbox": [
+    7.368962,
+    46.553944,
+    7.368962,
+    46.553944
+],
   "geometry": {"coordinates":[7.368962,46.553944],"type":"Point"}
 }

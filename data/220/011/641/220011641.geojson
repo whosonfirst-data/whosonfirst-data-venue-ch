@@ -2,13 +2,14 @@
   "id": 220011641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465391,46.861221,7.465391,46.861221",
     "geom:latitude":46.861221,
     "geom:longitude":7.465391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3087",
     "sg:city":"Niedermuhlern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220011641,
-    "wof:lastmodified":1449074705,
+    "wof:lastmodified":1466208981,
     "wof:name":"Fritz Rohrbach Schreinerei",
     "wof:parent_id":85800097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465391,46.861221,7.465391,46.861221],
+  "bbox": [
+    7.465391,
+    46.861221,
+    7.465391,
+    46.861221
+],
   "geometry": {"coordinates":[7.465391,46.861221],"type":"Point"}
 }

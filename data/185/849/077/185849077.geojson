@@ -2,13 +2,14 @@
   "id": 185849077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.24412,47.133179,7.24412,47.133179",
     "geom:latitude":47.133179,
     "geom:longitude":7.24412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 33 2502 Biel/bienne Case Postale 844",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185849077,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466209471,
     "wof:name":"Bank Coop Gesch\u00e4ftsstelle Biel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.24412,47.133179,7.24412,47.133179],
+  "bbox": [
+    7.24412,
+    47.133179,
+    7.24412,
+    47.133179
+],
   "geometry": {"coordinates":[7.24412,47.133179],"type":"Point"}
 }

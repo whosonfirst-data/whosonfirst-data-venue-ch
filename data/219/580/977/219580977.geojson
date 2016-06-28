@@ -2,13 +2,14 @@
   "id": 219580977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540011,47.367336,8.540011,47.367336",
     "geom:latitude":47.367336,
     "geom:longitude":8.540011,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstr.1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219580977,
-    "wof:lastmodified":1449072770,
+    "wof:lastmodified":1466211716,
     "wof:name":"Nordfinanz-bank Z\u00fcrich",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540011,47.367336,8.540011,47.367336],
+  "bbox": [
+    8.540011,
+    47.367336,
+    8.540011,
+    47.367336
+],
   "geometry": {"coordinates":[8.540011,47.367336],"type":"Point"}
 }

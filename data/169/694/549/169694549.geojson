@@ -2,13 +2,14 @@
   "id": 169694549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.132345,46.188015,6.132345,46.188015",
     "geom:latitude":46.188015,
     "geom:longitude":6.132345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Noirettes 32-34",
     "sg:city":"Carouge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169694549,
-    "wof:lastmodified":1449033610,
+    "wof:lastmodified":1466210883,
     "wof:name":"Inofer",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [6.132345,46.188015,6.132345,46.188015],
+  "bbox": [
+    6.132345,
+    46.188015,
+    6.132345,
+    46.188015
+],
   "geometry": {"coordinates":[6.132345,46.188015],"type":"Point"}
 }

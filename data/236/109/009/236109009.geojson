@@ -2,13 +2,14 @@
   "id": 236109009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.244317,47.296631,8.244317,47.296631",
     "geom:latitude":47.296631,
     "geom:longitude":8.244317,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zelglistrasse 3",
     "sg:city":"Fahrwangen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236109009,
-    "wof:lastmodified":1449002659,
+    "wof:lastmodified":1466209873,
     "wof:name":"Ledermann Gebr. S. + W.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.244317,47.296631,8.244317,47.296631],
+  "bbox": [
+    8.244317,
+    47.296631,
+    8.244317,
+    47.296631
+],
   "geometry": {"coordinates":[8.244317,47.296631],"type":"Point"}
 }

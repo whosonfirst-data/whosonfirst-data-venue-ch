@@ -2,13 +2,14 @@
   "id": 169606445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.677529,47.365234,8.677529,47.365234",
     "geom:latitude":47.365234,
     "geom:longitude":8.677529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Greifensee",
     "sg:classifiers":[],
     "sg:orig_category":"Reisen, Reiseveranstalter",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":169606445,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1466209176,
     "wof:name":"South Am Track",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.677529,47.365234,8.677529,47.365234],
+  "bbox": [
+    8.677529,
+    47.365234,
+    8.677529,
+    47.365234
+],
   "geometry": {"coordinates":[8.677529,47.365234],"type":"Point"}
 }

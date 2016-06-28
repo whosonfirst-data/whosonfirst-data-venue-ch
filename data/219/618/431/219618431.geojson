@@ -2,13 +2,14 @@
   "id": 219618431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.575815,47.204399,8.575815,47.204399",
     "geom:latitude":47.204399,
     "geom:longitude":8.575815,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststr. 4",
     "sg:city":"Neuheim",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219618431,
-    "wof:lastmodified":1449072591,
+    "wof:lastmodified":1466211839,
     "wof:name":"Raiffeisenbank Neuheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.575815,47.204399,8.575815,47.204399],
+  "bbox": [
+    8.575815,
+    47.204399,
+    8.575815,
+    47.204399
+],
   "geometry": {"coordinates":[8.575815,47.204399],"type":"Point"}
 }

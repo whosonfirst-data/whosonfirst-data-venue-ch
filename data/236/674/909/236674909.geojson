@@ -2,13 +2,14 @@
   "id": 236674909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.726304,47.241116,8.726304,47.241116",
     "geom:latitude":47.241116,
     "geom:longitude":8.726304,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grundstrasse 10b",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236674909,
-    "wof:lastmodified":1449004242,
+    "wof:lastmodified":1466212695,
     "wof:name":"Barcol-air Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cooling"
     ]
 },
-  "bbox": [8.726304,47.241116,8.726304,47.241116],
+  "bbox": [
+    8.726304,
+    47.241116,
+    8.726304,
+    47.241116
+],
   "geometry": {"coordinates":[8.726304,47.241116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219590257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.67915,46.631481,6.67915,46.631481",
     "geom:latitude":46.631481,
     "geom:longitude":6.67915,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. Fr\u00e2ne",
     "sg:city":"Villars Le Terroir",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219590257,
-    "wof:lastmodified":1449072486,
+    "wof:lastmodified":1466211744,
     "wof:name":"Raiffeisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.67915,46.631481,6.67915,46.631481],
+  "bbox": [
+    6.67915,
+    46.631481,
+    6.67915,
+    46.631481
+],
   "geometry": {"coordinates":[6.67915,46.631481],"type":"Point"}
 }

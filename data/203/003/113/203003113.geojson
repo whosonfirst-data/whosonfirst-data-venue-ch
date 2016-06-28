@@ -2,13 +2,14 @@
   "id": 203003113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.597637,47.343426,8.597637,47.343426",
     "geom:latitude":47.343426,
     "geom:longitude":8.597637,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rietholzstrasse 49",
     "sg:city":"Zollikerberg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203003113,
-    "wof:lastmodified":1449026723,
+    "wof:lastmodified":1466209010,
     "wof:name":"Hans Rudolf M\u00fcller Atelier F\u00fcr Architektur M\u00fclar",
     "wof:parent_id":85800647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.597637,47.343426,8.597637,47.343426],
+  "bbox": [
+    8.597637,
+    47.343426,
+    8.597637,
+    47.343426
+],
   "geometry": {"coordinates":[8.597637,47.343426],"type":"Point"}
 }

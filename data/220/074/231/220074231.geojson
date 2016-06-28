@@ -2,13 +2,14 @@
   "id": 220074231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.885443,47.434616,7.885443,47.434616",
     "geom:latitude":47.434616,
     "geom:longitude":7.885443,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grundweg 134",
     "sg:city":"R\u00fcnenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220074231,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1466209523,
     "wof:name":"Beck Karl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.885443,47.434616,7.885443,47.434616],
+  "bbox": [
+    7.885443,
+    47.434616,
+    7.885443,
+    47.434616
+],
   "geometry": {"coordinates":[7.885443,47.434616],"type":"Point"}
 }

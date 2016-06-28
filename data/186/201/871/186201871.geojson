@@ -2,13 +2,14 @@
   "id": 186201871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564708,47.294735,8.564708,47.294735",
     "geom:latitude":47.294735,
     "geom:longitude":8.564708,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gattikonerstrasse 101 Gattikon 8800 Thalwil. Postfach",
     "sg:city":"Gattikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186201871,
-    "wof:lastmodified":1449052657,
+    "wof:lastmodified":1466209102,
     "wof:name":"Schildknecht Immobilien Und Generalunternehmung Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564708,47.294735,8.564708,47.294735],
+  "bbox": [
+    8.564708,
+    47.294735,
+    8.564708,
+    47.294735
+],
   "geometry": {"coordinates":[8.564708,47.294735],"type":"Point"}
 }

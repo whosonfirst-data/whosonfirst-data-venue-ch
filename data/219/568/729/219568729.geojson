@@ -2,13 +2,14 @@
   "id": 219568729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.841538,46.460732,6.841538,46.460732",
     "geom:latitude":46.460732,
     "geom:longitude":6.841538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Jean Jacques Rousseau 5",
     "sg:city":"Vevey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219568729,
-    "wof:lastmodified":1449070297,
+    "wof:lastmodified":1466211799,
     "wof:name":"Lombard Odier & Cie",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.841538,46.460732,6.841538,46.460732],
+  "bbox": [
+    6.841538,
+    46.460732,
+    6.841538,
+    46.460732
+],
   "geometry": {"coordinates":[6.841538,46.460732],"type":"Point"}
 }

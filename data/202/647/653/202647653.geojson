@@ -2,13 +2,14 @@
   "id": 202647653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.329537,47.409538,8.329537,47.409538",
     "geom:latitude":47.409538,
     "geom:longitude":8.329537,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldweg 6",
     "sg:city":"Remetschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202647653,
-    "wof:lastmodified":1449061325,
+    "wof:lastmodified":1466210105,
     "wof:name":"N\u00fcesch-engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.329537,47.409538,8.329537,47.409538],
+  "bbox": [
+    8.329537,
+    47.409538,
+    8.329537,
+    47.409538
+],
   "geometry": {"coordinates":[8.329537,47.409538],"type":"Point"}
 }

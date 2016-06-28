@@ -2,13 +2,14 @@
   "id": 185870355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.142681,46.17865,6.142681,46.17865",
     "geom:latitude":46.17865,
     "geom:longitude":6.142681,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chollerstrasse 35 6300 Zug. Postfach 248",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185870355,
-    "wof:lastmodified":1449007030,
+    "wof:lastmodified":1466209648,
     "wof:name":"Angelone Raffaele Entrepr. G\u00e9n\u00e9rale Du B\u00e2timent, Peinture Etc",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.142681,46.17865,6.142681,46.17865],
+  "bbox": [
+    6.142681,
+    46.17865,
+    6.142681,
+    46.17865
+],
   "geometry": {"coordinates":[6.142681,46.17865],"type":"Point"}
 }

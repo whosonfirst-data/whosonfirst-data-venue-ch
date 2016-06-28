@@ -2,13 +2,14 @@
   "id": 253273331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.368301,46.979458,7.368301,46.979458",
     "geom:latitude":46.979458,
     "geom:longitude":7.368301,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Muristr. 4.",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253273331,
-    "wof:lastmodified":1449064355,
+    "wof:lastmodified":1466211885,
     "wof:name":"Zingg",
     "wof:parent_id":85800049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.368301,46.979458,7.368301,46.979458],
+  "bbox": [
+    7.368301,
+    46.979458,
+    7.368301,
+    46.979458
+],
   "geometry": {"coordinates":[7.368301,46.979458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169692711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72681,47.498009,8.72681,47.498009",
     "geom:latitude":47.498009,
     "geom:longitude":8.72681,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Technikumstrasse 74-76",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169692711,
-    "wof:lastmodified":1449033562,
+    "wof:lastmodified":1466210864,
     "wof:name":"Rohner + Spiller Kopier-zenter",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72681,47.498009,8.72681,47.498009],
+  "bbox": [
+    8.72681,
+    47.498009,
+    8.72681,
+    47.498009
+],
   "geometry": {"coordinates":[8.72681,47.498009],"type":"Point"}
 }

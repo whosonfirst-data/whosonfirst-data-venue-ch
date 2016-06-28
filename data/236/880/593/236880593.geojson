@@ -2,13 +2,14 @@
   "id": 236880593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.462559,47.223415,8.462559,47.223415",
     "geom:latitude":47.223415,
     "geom:longitude":8.462559,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Uttenbergstrasse 1",
     "sg:city":"Knonau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236880593,
-    "wof:lastmodified":1449005288,
+    "wof:lastmodified":1466212954,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.462559,47.223415,8.462559,47.223415],
+  "bbox": [
+    8.462559,
+    47.223415,
+    8.462559,
+    47.223415
+],
   "geometry": {"coordinates":[8.462559,47.223415],"type":"Point"}
 }

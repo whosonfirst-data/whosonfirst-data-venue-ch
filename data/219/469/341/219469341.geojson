@@ -2,13 +2,14 @@
   "id": 219469341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.951899,46.00684,8.951899,46.00684",
     "geom:latitude":46.00684,
     "geom:longitude":8.951899,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pretorio 13",
     "sg:city":"Lugano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219469341,
-    "wof:lastmodified":1449074025,
+    "wof:lastmodified":1466210851,
     "wof:name":"Banca Del Ceresio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.951899,46.00684,8.951899,46.00684],
+  "bbox": [
+    8.951899,
+    46.00684,
+    8.951899,
+    46.00684
+],
   "geometry": {"coordinates":[8.951899,46.00684],"type":"Point"}
 }

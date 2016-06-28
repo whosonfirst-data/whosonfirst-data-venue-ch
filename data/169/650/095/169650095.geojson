@@ -2,13 +2,14 @@
   "id": 169650095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.316409,47.348701,9.316409,47.348701",
     "geom:latitude":47.348701,
     "geom:longitude":9.316409,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bechegg",
     "sg:city":"Hundwil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169650095,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466210084,
     "wof:name":"St\u00e4mpfli Engineering + Maschinenbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bench"
     ]
 },
-  "bbox": [9.316409,47.348701,9.316409,47.348701],
+  "bbox": [
+    9.316409,
+    47.348701,
+    9.316409,
+    47.348701
+],
   "geometry": {"coordinates":[9.316409,47.348701],"type":"Point"}
 }

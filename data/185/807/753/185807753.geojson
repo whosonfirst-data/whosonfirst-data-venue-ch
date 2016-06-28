@@ -2,13 +2,14 @@
   "id": 185807753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.237393,47.2481,8.237393,47.2481",
     "geom:latitude":47.2481,
     "geom:longitude":8.237393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mosenstrasse 30",
     "sg:city":"Aesch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185807753,
-    "wof:lastmodified":1449007016,
+    "wof:lastmodified":1466209173,
     "wof:name":"Grunderco Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "implement"
     ]
 },
-  "bbox": [8.237393,47.2481,8.237393,47.2481],
+  "bbox": [
+    8.237393,
+    47.2481,
+    8.237393,
+    47.2481
+],
   "geometry": {"coordinates":[8.237393,47.2481],"type":"Point"}
 }

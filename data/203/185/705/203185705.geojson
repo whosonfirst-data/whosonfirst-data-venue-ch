@@ -2,13 +2,14 @@
   "id": 203185705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.125489,46.208344,6.125489,46.208344",
     "geom:latitude":46.208344,
     "geom:longitude":6.125489,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cours De Rive 2",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203185705,
-    "wof:lastmodified":1449025254,
+    "wof:lastmodified":1466209313,
     "wof:name":"Dr M\u00e9d. In\u00e8s Wiesner M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.125489,46.208344,6.125489,46.208344],
+  "bbox": [
+    6.125489,
+    46.208344,
+    6.125489,
+    46.208344
+],
   "geometry": {"coordinates":[6.125489,46.208344],"type":"Point"}
 }

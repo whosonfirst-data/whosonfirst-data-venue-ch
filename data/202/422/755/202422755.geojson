@@ -2,13 +2,14 @@
   "id": 202422755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448317,46.96122,7.448317,46.96122",
     "geom:latitude":46.96122,
     "geom:longitude":7.448317,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzbuchstrasse 108 6045 Meggen. Postfach",
     "sg:city":"Meggen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202422755,
-    "wof:lastmodified":1449060283,
+    "wof:lastmodified":1466210114,
     "wof:name":"Bst Ingenieur Ag",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448317,46.96122,7.448317,46.96122],
+  "bbox": [
+    7.448317,
+    46.96122,
+    7.448317,
+    46.96122
+],
   "geometry": {"coordinates":[7.448317,46.96122],"type":"Point"}
 }

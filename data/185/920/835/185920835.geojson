@@ -2,13 +2,14 @@
   "id": 185920835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.978956,46.153488,8.978956,46.153488",
     "geom:latitude":46.153488,
     "geom:longitude":8.978956,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bonstettenstrasse 3",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185920835,
-    "wof:lastmodified":1449007865,
+    "wof:lastmodified":1466210022,
     "wof:name":"Immodomus Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.978956,46.153488,8.978956,46.153488],
+  "bbox": [
+    8.978956,
+    46.153488,
+    8.978956,
+    46.153488
+],
   "geometry": {"coordinates":[8.978956,46.153488],"type":"Point"}
 }

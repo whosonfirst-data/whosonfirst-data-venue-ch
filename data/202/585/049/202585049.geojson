@@ -2,13 +2,14 @@
   "id": 202585049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.542624,47.333229,8.542624,47.333229",
     "geom:latitude":47.333229,
     "geom:longitude":8.542624,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofplatz 8 7000 Chur. Postfach",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202585049,
-    "wof:lastmodified":1449061775,
+    "wof:lastmodified":1466209521,
     "wof:name":"Jenni + Gottardi Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.542624,47.333229,8.542624,47.333229],
+  "bbox": [
+    8.542624,
+    47.333229,
+    8.542624,
+    47.333229
+],
   "geometry": {"coordinates":[8.542624,47.333229],"type":"Point"}
 }

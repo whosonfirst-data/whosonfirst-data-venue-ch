@@ -2,13 +2,14 @@
   "id": 186471327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.550817,47.422668,9.550817,47.422668",
     "geom:latitude":47.422668,
     "geom:longitude":9.550817,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 7a",
     "sg:city":"Oberegg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186471327,
-    "wof:lastmodified":1449051447,
+    "wof:lastmodified":1466211178,
     "wof:name":"Schmid Maschinenbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [9.550817,47.422668,9.550817,47.422668],
+  "bbox": [
+    9.550817,
+    47.422668,
+    9.550817,
+    47.422668
+],
   "geometry": {"coordinates":[9.550817,47.422668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236654341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.313234,47.068455,7.313234,47.068455",
     "geom:latitude":47.068455,
     "geom:longitude":7.313234,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 28",
     "sg:city":"Lyss",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236654341,
-    "wof:lastmodified":1449002613,
+    "wof:lastmodified":1466212754,
     "wof:name":"Anton Stucki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shipment"
     ]
 },
-  "bbox": [7.313234,47.068455,7.313234,47.068455],
+  "bbox": [
+    7.313234,
+    47.068455,
+    7.313234,
+    47.068455
+],
   "geometry": {"coordinates":[7.313234,47.068455],"type":"Point"}
 }

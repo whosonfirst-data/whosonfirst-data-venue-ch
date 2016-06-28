@@ -2,13 +2,14 @@
   "id": 236009903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.901245,46.890255,8.901245,46.890255",
     "geom:latitude":46.890255,
     "geom:longitude":8.901245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00e4ttenwang",
     "sg:city":"Urnerboden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236009903,
-    "wof:lastmodified":1449005165,
+    "wof:lastmodified":1466208976,
     "wof:name":"Gustav Gisler Schreinerei & Zimmerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.901245,46.890255,8.901245,46.890255],
+  "bbox": [
+    8.901245,
+    46.890255,
+    8.901245,
+    46.890255
+],
   "geometry": {"coordinates":[8.901245,46.890255],"type":"Point"}
 }

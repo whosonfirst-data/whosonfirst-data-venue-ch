@@ -2,13 +2,14 @@
   "id": 169687229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.125568,46.170509,6.125568,46.170509",
     "geom:latitude":46.170509,
     "geom:longitude":6.125568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin La Cartouchi\u00e8re 13",
     "sg:city":"Plan-les-ouates",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169687229,
-    "wof:lastmodified":1449033610,
+    "wof:lastmodified":1466210588,
     "wof:name":"Fabrice Fogal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "processing"
     ]
 },
-  "bbox": [6.125568,46.170509,6.125568,46.170509],
+  "bbox": [
+    6.125568,
+    46.170509,
+    6.125568,
+    46.170509
+],
   "geometry": {"coordinates":[6.125568,46.170509],"type":"Point"}
 }

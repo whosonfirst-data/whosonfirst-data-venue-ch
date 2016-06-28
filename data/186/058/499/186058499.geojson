@@ -2,13 +2,14 @@
   "id": 186058499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.957594,46.007545,8.957594,46.007545",
     "geom:latitude":46.007545,
     "geom:longitude":8.957594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pasquale Lucchini 12 6900 Lugano. Postfach",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186058499,
-    "wof:lastmodified":1449050785,
+    "wof:lastmodified":1466210187,
     "wof:name":"Edilconcept Sagl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.957594,46.007545,8.957594,46.007545],
+  "bbox": [
+    8.957594,
+    46.007545,
+    8.957594,
+    46.007545
+],
   "geometry": {"coordinates":[8.957594,46.007545],"type":"Point"}
 }

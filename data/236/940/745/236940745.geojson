@@ -2,13 +2,14 @@
   "id": 236940745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548457,47.358688,8.548457,47.358688",
     "geom:latitude":47.358688,
     "geom:longitude":8.548457,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Klausstrasse 4",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236940745,
-    "wof:lastmodified":1449002285,
+    "wof:lastmodified":1466213033,
     "wof:name":"Deloitte & Touche Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548457,47.358688,8.548457,47.358688],
+  "bbox": [
+    8.548457,
+    47.358688,
+    8.548457,
+    47.358688
+],
   "geometry": {"coordinates":[8.548457,47.358688],"type":"Point"}
 }

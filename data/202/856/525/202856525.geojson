@@ -2,13 +2,14 @@
   "id": 202856525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.988084,45.870098,8.988084,45.870098",
     "geom:latitude":45.870098,
     "geom:longitude":8.988084,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Alla Torre 2 6850 Mendrisio Casella Postale 252",
     "sg:city":"Mendrisio",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202856525,
-    "wof:lastmodified":1449060845,
+    "wof:lastmodified":1466211821,
     "wof:name":"Robbiani Ferruccio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.988084,45.870098,8.988084,45.870098],
+  "bbox": [
+    8.988084,
+    45.870098,
+    8.988084,
+    45.870098
+],
   "geometry": {"coordinates":[8.988084,45.870098],"type":"Point"}
 }

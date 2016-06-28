@@ -2,13 +2,14 @@
   "id": 203312963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544016,47.385529,8.544016,47.385529",
     "geom:latitude":47.385529,
     "geom:longitude":8.544016,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Turnerstrasse 26",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203312963,
-    "wof:lastmodified":1449025883,
+    "wof:lastmodified":1466210664,
     "wof:name":"Dr.med.eva Arend Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544016,47.385529,8.544016,47.385529],
+  "bbox": [
+    8.544016,
+    47.385529,
+    8.544016,
+    47.385529
+],
   "geometry": {"coordinates":[8.544016,47.385529],"type":"Point"}
 }

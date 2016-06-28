@@ -2,13 +2,14 @@
   "id": 203248011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.442089,46.947895,7.442089,46.947895",
     "geom:latitude":46.947895,
     "geom:longitude":7.442089,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitalgasse 29",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203248011,
-    "wof:lastmodified":1449025987,
+    "wof:lastmodified":1466209995,
     "wof:name":"Dr.med. Hans W. Steinhauer Spezialarzt Fmh",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.442089,46.947895,7.442089,46.947895],
+  "bbox": [
+    7.442089,
+    46.947895,
+    7.442089,
+    46.947895
+],
   "geometry": {"coordinates":[7.442089,46.947895],"type":"Point"}
 }

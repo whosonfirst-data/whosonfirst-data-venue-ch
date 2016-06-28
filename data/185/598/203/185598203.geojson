@@ -2,13 +2,14 @@
   "id": 185598203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.225379,46.200863,7.225379,46.200863",
     "geom:latitude":46.200863,
     "geom:longitude":7.225379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1955",
     "sg:city":"Chamoson",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185598203,
-    "wof:lastmodified":1449006664,
+    "wof:lastmodified":1466211618,
     "wof:name":"Station D'\u00e9puration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.225379,46.200863,7.225379,46.200863],
+  "bbox": [
+    7.225379,
+    46.200863,
+    7.225379,
+    46.200863
+],
   "geometry": {"coordinates":[7.225379,46.200863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202849107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.065582,47.098351,9.065582,47.098351",
     "geom:latitude":47.098351,
     "geom:longitude":9.065582,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachd\u00f6rfli 1 8752 N\u00e4fels. Postfach 362",
     "sg:city":"N\u00e4fels",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202849107,
-    "wof:lastmodified":1449060574,
+    "wof:lastmodified":1466212019,
     "wof:name":"Noser Fritz, Architekturb\u00fcro Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.065582,47.098351,9.065582,47.098351],
+  "bbox": [
+    9.065582,
+    47.098351,
+    9.065582,
+    47.098351
+],
   "geometry": {"coordinates":[9.065582,47.098351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185805413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.782439,47.198681,8.782439,47.198681",
     "geom:latitude":47.198681,
     "geom:longitude":8.782439,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Driesb\u00fcelstrasse 2",
     "sg:city":"Pf\u00e4ffikon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185805413,
-    "wof:lastmodified":1449007136,
+    "wof:lastmodified":1466209159,
     "wof:name":"Pamasol Willi M\u00e4der Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sealing"
     ]
 },
-  "bbox": [8.782439,47.198681,8.782439,47.198681],
+  "bbox": [
+    8.782439,
+    47.198681,
+    8.782439,
+    47.198681
+],
   "geometry": {"coordinates":[8.782439,47.198681],"type":"Point"}
 }

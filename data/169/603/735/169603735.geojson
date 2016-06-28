@@ -2,13 +2,14 @@
   "id": 169603735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62605,47.039005,7.62605,47.039005",
     "geom:latitude":47.039005,
     "geom:longitude":7.62605,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Oberburg",
     "sg:classifiers":[],
     "sg:orig_category":"Industrie, Sonstige Industrieunternehmungen",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169603735,
-    "wof:lastmodified":1449035454,
+    "wof:lastmodified":1466208996,
     "wof:name":"D-ws - Dollack Webservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62605,47.039005,7.62605,47.039005],
+  "bbox": [
+    7.62605,
+    47.039005,
+    7.62605,
+    47.039005
+],
   "geometry": {"coordinates":[7.62605,47.039005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185943737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543937,47.409309,8.543937,47.409309",
     "geom:latitude":47.409309,
     "geom:longitude":8.543937,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 31",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185943737,
-    "wof:lastmodified":1449007033,
+    "wof:lastmodified":1466210214,
     "wof:name":"Barbara Candinas Akupunktur",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543937,47.409309,8.543937,47.409309],
+  "bbox": [
+    8.543937,
+    47.409309,
+    8.543937,
+    47.409309
+],
   "geometry": {"coordinates":[8.543937,47.409309],"type":"Point"}
 }

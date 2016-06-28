@@ -2,13 +2,14 @@
   "id": 236360525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.272213,46.873821,7.272213,46.873821",
     "geom:latitude":46.873821,
     "geom:longitude":7.272213,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 56",
     "sg:city":"W\u00fcnnewil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236360525,
-    "wof:lastmodified":1449004338,
+    "wof:lastmodified":1466212119,
     "wof:name":"Orientierungsschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.272213,46.873821,7.272213,46.873821],
+  "bbox": [
+    7.272213,
+    46.873821,
+    7.272213,
+    46.873821
+],
   "geometry": {"coordinates":[7.272213,46.873821],"type":"Point"}
 }

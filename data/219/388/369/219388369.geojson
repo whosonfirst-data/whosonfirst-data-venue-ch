@@ -2,13 +2,14 @@
   "id": 219388369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629565,46.760735,7.629565,46.760735",
     "geom:latitude":46.760735,
     "geom:longitude":7.629565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstrasse 37",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219388369,
-    "wof:lastmodified":1449070506,
+    "wof:lastmodified":1466210070,
     "wof:name":"Andreas Von Gunten Carrosserie Zur Burg",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629565,46.760735,7.629565,46.760735],
+  "bbox": [
+    7.629565,
+    46.760735,
+    7.629565,
+    46.760735
+],
   "geometry": {"coordinates":[7.629565,46.760735],"type":"Point"}
 }

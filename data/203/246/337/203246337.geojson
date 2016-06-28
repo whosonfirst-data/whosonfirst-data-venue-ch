@@ -2,13 +2,14 @@
   "id": 203246337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.583157,47.32309,8.583157,47.32309",
     "geom:latitude":47.32309,
     "geom:longitude":8.583157,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunnmattstrasse 63",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203246337,
-    "wof:lastmodified":1449025064,
+    "wof:lastmodified":1466209980,
     "wof:name":"Dr.med. Felix Angst Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.583157,47.32309,8.583157,47.32309],
+  "bbox": [
+    8.583157,
+    47.32309,
+    8.583157,
+    47.32309
+],
   "geometry": {"coordinates":[8.583157,47.32309],"type":"Point"}
 }

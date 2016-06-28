@@ -2,13 +2,14 @@
   "id": 202919451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.590487,47.306927,8.590487,47.306927",
     "geom:latitude":47.306927,
     "geom:longitude":8.590487,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hammergutstrasse 10",
     "sg:city":"Zufikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202919451,
-    "wof:lastmodified":1449062033,
+    "wof:lastmodified":1466212212,
     "wof:name":"Bcp Busarello + Cott + Partner Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.590487,47.306927,8.590487,47.306927],
+  "bbox": [
+    8.590487,
+    47.306927,
+    8.590487,
+    47.306927
+],
   "geometry": {"coordinates":[8.590487,47.306927],"type":"Point"}
 }

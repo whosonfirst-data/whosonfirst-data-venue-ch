@@ -2,13 +2,14 @@
   "id": 253331371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61672,47.665546,8.61672,47.665546",
     "geom:latitude":47.665546,
     "geom:longitude":8.61672,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schloss Laufen",
     "sg:city":"Dachsen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253331371,
-    "wof:lastmodified":1449064605,
+    "wof:lastmodified":1466211899,
     "wof:name":"Linder & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.61672,47.665546,8.61672,47.665546],
+  "bbox": [
+    8.61672,
+    47.665546,
+    8.61672,
+    47.665546
+],
   "geometry": {"coordinates":[8.61672,47.665546],"type":"Point"}
 }

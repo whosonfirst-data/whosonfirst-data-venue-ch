@@ -2,13 +2,14 @@
   "id": 219252795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575478,47.536182,7.575478,47.536182",
     "geom:latitude":47.536182,
     "geom:longitude":7.575478,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bottmingerstrasse 15",
     "sg:city":"Binningen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219252795,
-    "wof:lastmodified":1449070859,
+    "wof:lastmodified":1466211581,
     "wof:name":"Antonio Damiano Gad-garage",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.575478,47.536182,7.575478,47.536182],
+  "bbox": [
+    7.575478,
+    47.536182,
+    7.575478,
+    47.536182
+],
   "geometry": {"coordinates":[7.575478,47.536182],"type":"Point"}
 }

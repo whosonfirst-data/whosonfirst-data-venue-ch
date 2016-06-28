@@ -2,13 +2,14 @@
   "id": 185965883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.01232,46.346924,7.01232,46.346924",
     "geom:latitude":46.346924,
     "geom:longitude":7.01232,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chalet Ermina",
     "sg:city":"Leysin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185965883,
-    "wof:lastmodified":1449007719,
+    "wof:lastmodified":1466210461,
     "wof:name":"Wl Institute Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.01232,46.346924,7.01232,46.346924],
+  "bbox": [
+    7.01232,
+    46.346924,
+    7.01232,
+    46.346924
+],
   "geometry": {"coordinates":[7.01232,46.346924],"type":"Point"}
 }

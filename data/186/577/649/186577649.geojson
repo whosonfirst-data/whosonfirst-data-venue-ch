@@ -2,13 +2,14 @@
   "id": 186577649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.816056,47.239052,7.816056,47.239052",
     "geom:latitude":47.239052,
     "geom:longitude":7.816056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintergasse 29",
     "sg:city":"Roggwil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186577649,
-    "wof:lastmodified":1449053102,
+    "wof:lastmodified":1466211966,
     "wof:name":"W. & O. Geiser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apparatus"
     ]
 },
-  "bbox": [7.816056,47.239052,7.816056,47.239052],
+  "bbox": [
+    7.816056,
+    47.239052,
+    7.816056,
+    47.239052
+],
   "geometry": {"coordinates":[7.816056,47.239052],"type":"Point"}
 }

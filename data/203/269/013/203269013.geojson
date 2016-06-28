@@ -2,13 +2,14 @@
   "id": 203269013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.583299,47.554596,7.583299,47.554596",
     "geom:latitude":47.554596,
     "geom:longitude":7.583299,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leimenstrasse 17",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203269013,
-    "wof:lastmodified":1449026149,
+    "wof:lastmodified":1466210217,
     "wof:name":"Dr.med.alfred Gasche Spezialarzt Fmh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.583299,47.554596,7.583299,47.554596],
+  "bbox": [
+    7.583299,
+    47.554596,
+    7.583299,
+    47.554596
+],
   "geometry": {"coordinates":[7.583299,47.554596],"type":"Point"}
 }

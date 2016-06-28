@@ -2,13 +2,14 @@
   "id": 203416107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.559751,47.368137,8.559751,47.368137",
     "geom:latitude":47.368137,
     "geom:longitude":8.559751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Asylstrasse 58",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203416107,
-    "wof:lastmodified":1449025760,
+    "wof:lastmodified":1466211663,
     "wof:name":"Dr.med.thomas Fenner Spezialarzt Fmh",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.559751,47.368137,8.559751,47.368137],
+  "bbox": [
+    8.559751,
+    47.368137,
+    8.559751,
+    47.368137
+],
   "geometry": {"coordinates":[8.559751,47.368137],"type":"Point"}
 }

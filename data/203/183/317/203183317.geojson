@@ -2,13 +2,14 @@
   "id": 203183317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.132221,46.20879,6.132221,46.20879",
     "geom:latitude":46.20879,
     "geom:longitude":6.132221,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Lyon 57",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203183317,
-    "wof:lastmodified":1449025960,
+    "wof:lastmodified":1466209285,
     "wof:name":"Dr M\u00e9d. G\u00e9rard Joliat M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.132221,46.20879,6.132221,46.20879],
+  "bbox": [
+    6.132221,
+    46.20879,
+    6.132221,
+    46.20879
+],
   "geometry": {"coordinates":[6.132221,46.20879],"type":"Point"}
 }

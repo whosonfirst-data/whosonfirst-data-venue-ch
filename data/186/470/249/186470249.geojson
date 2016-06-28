@@ -2,13 +2,14 @@
   "id": 186470249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.044983,47.537212,8.044983,47.537212",
     "geom:latitude":47.537212,
     "geom:longitude":8.044983,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eigenmatt 1",
     "sg:city":"Kaisten",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186470249,
-    "wof:lastmodified":1449051043,
+    "wof:lastmodified":1466211168,
     "wof:name":"Thomas Gertiser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.044983,47.537212,8.044983,47.537212],
+  "bbox": [
+    8.044983,
+    47.537212,
+    8.044983,
+    47.537212
+],
   "geometry": {"coordinates":[8.044983,47.537212],"type":"Point"}
 }

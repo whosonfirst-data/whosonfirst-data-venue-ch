@@ -2,13 +2,14 @@
   "id": 202968741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.155993,46.19492,6.155993,46.19492",
     "geom:latitude":46.19492,
     "geom:longitude":6.155993,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue L\u00e9on-gaud 7",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202968741,
-    "wof:lastmodified":1449060266,
+    "wof:lastmodified":1466212371,
     "wof:name":"Daniel Girardet Bureau D'architecture",
     "wof:parent_id":85862329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.155993,46.19492,6.155993,46.19492],
+  "bbox": [
+    6.155993,
+    46.19492,
+    6.155993,
+    46.19492
+],
   "geometry": {"coordinates":[6.155993,46.19492],"type":"Point"}
 }

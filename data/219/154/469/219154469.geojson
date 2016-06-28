@@ -2,13 +2,14 @@
   "id": 219154469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.716576,47.503502,8.716576,47.503502",
     "geom:latitude":47.503502,
     "geom:longitude":8.716576,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ackeretstrasse 16",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219154469,
-    "wof:lastmodified":1449073974,
+    "wof:lastmodified":1466209928,
     "wof:name":"Dr.med.urs Leo Gantenbein Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.716576,47.503502,8.716576,47.503502],
+  "bbox": [
+    8.716576,
+    47.503502,
+    8.716576,
+    47.503502
+],
   "geometry": {"coordinates":[8.716576,47.503502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236787699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.529256,47.412743,8.529256,47.412743",
     "geom:latitude":47.412743,
     "geom:longitude":8.529256,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00fcgeliloostr. 39",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236787699,
-    "wof:lastmodified":1449003083,
+    "wof:lastmodified":1466212891,
     "wof:name":"Sch\u00c4deli Gartenbau",
     "wof:parent_id":85799701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [8.529256,47.412743,8.529256,47.412743],
+  "bbox": [
+    8.529256,
+    47.412743,
+    8.529256,
+    47.412743
+],
   "geometry": {"coordinates":[8.529256,47.412743],"type":"Point"}
 }

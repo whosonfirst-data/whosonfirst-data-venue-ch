@@ -2,13 +2,14 @@
   "id": 220139891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.790149,47.63847,8.790149,47.63847",
     "geom:latitude":47.63847,
     "geom:longitude":8.790149,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sennegasse 10",
     "sg:city":"Unterstammheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220139891,
-    "wof:lastmodified":1449074105,
+    "wof:lastmodified":1466210078,
     "wof:name":"Schreinerei Frei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.790149,47.63847,8.790149,47.63847],
+  "bbox": [
+    8.790149,
+    47.63847,
+    8.790149,
+    47.63847
+],
   "geometry": {"coordinates":[8.790149,47.63847],"type":"Point"}
 }

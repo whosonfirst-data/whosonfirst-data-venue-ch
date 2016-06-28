@@ -2,13 +2,14 @@
   "id": 202519375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.909487,47.439949,7.909487,47.439949",
     "geom:latitude":47.439949,
     "geom:longitude":7.909487,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 166",
     "sg:city":"Wenslingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202519375,
-    "wof:lastmodified":1449062471,
+    "wof:lastmodified":1466208903,
     "wof:name":"Gloor Alexander Ingenieurb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.909487,47.439949,7.909487,47.439949],
+  "bbox": [
+    7.909487,
+    47.439949,
+    7.909487,
+    47.439949
+],
   "geometry": {"coordinates":[7.909487,47.439949],"type":"Point"}
 }

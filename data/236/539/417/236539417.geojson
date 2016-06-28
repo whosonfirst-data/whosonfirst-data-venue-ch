@@ -2,13 +2,14 @@
   "id": 236539417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.355965,46.967884,8.355965,46.967884",
     "geom:latitude":46.967884,
     "geom:longitude":8.355965,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberstm\u00fchle 3",
     "sg:city":"Stans",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236539417,
-    "wof:lastmodified":1449005327,
+    "wof:lastmodified":1466212579,
     "wof:name":"Aktiv Verlag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [8.355965,46.967884,8.355965,46.967884],
+  "bbox": [
+    8.355965,
+    46.967884,
+    8.355965,
+    46.967884
+],
   "geometry": {"coordinates":[8.355965,46.967884],"type":"Point"}
 }

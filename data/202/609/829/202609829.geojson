@@ -2,13 +2,14 @@
   "id": 202609829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.449116,47.450809,9.449116,47.450809",
     "geom:latitude":47.450809,
     "geom:longitude":9.449116,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lehnackerstrasse 29 9033 Untereggen. Postfach",
     "sg:city":"Untereggen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202609829,
-    "wof:lastmodified":1449061057,
+    "wof:lastmodified":1466209751,
     "wof:name":"Ledermann Maschinen Technologie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.449116,47.450809,9.449116,47.450809],
+  "bbox": [
+    9.449116,
+    47.450809,
+    9.449116,
+    47.450809
+],
   "geometry": {"coordinates":[9.449116,47.450809],"type":"Point"}
 }

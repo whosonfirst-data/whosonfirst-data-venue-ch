@@ -2,13 +2,14 @@
   "id": 203278235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.990446,46.324215,7.990446,46.324215",
     "geom:latitude":46.324215,
     "geom:longitude":7.990446,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kelchbachstrasse 5",
     "sg:city":"Naters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203278235,
-    "wof:lastmodified":1449025991,
+    "wof:lastmodified":1466210315,
     "wof:name":"Dr.med.anton Werner Kreuzer Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.990446,46.324215,7.990446,46.324215],
+  "bbox": [
+    7.990446,
+    46.324215,
+    7.990446,
+    46.324215
+],
   "geometry": {"coordinates":[7.990446,46.324215],"type":"Point"}
 }

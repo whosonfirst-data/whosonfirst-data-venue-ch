@@ -2,13 +2,14 @@
   "id": 186330009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.570805,47.544582,7.570805,47.544582",
     "geom:latitude":47.544582,
     "geom:longitude":7.570805,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorenbachstrasse 47 4102 Binningen. Postfach 361",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186330009,
-    "wof:lastmodified":1449051719,
+    "wof:lastmodified":1466210055,
     "wof:name":"Stamm Bau Ag",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.570805,47.544582,7.570805,47.544582],
+  "bbox": [
+    7.570805,
+    47.544582,
+    7.570805,
+    47.544582
+],
   "geometry": {"coordinates":[7.570805,47.544582],"type":"Point"}
 }

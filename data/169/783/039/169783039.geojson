@@ -2,13 +2,14 @@
   "id": 169783039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.397504,46.959915,10.397504,46.959915",
     "geom:latitude":46.959915,
     "geom:longitude":10.397504,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haus Viola",
     "sg:city":"Samanun - Laret",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169783039,
-    "wof:lastmodified":1449032794,
+    "wof:lastmodified":1466208937,
     "wof:name":"Haus Viola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.397504,46.959915,10.397504,46.959915],
+  "bbox": [
+    10.397504,
+    46.959915,
+    10.397504,
+    46.959915
+],
   "geometry": {"coordinates":[10.397504,46.959915],"type":"Point"}
 }

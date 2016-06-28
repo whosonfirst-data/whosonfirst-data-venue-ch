@@ -2,13 +2,14 @@
   "id": 186418891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.309497,46.987282,8.309497,46.987282",
     "geom:latitude":46.987282,
     "geom:longitude":8.309497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ergolzstrasse 10",
     "sg:city":"Lausen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186418891,
-    "wof:lastmodified":1449052426,
+    "wof:lastmodified":1466210751,
     "wof:name":"Leitec - Umbau Gmbh",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.309497,46.987282,8.309497,46.987282],
+  "bbox": [
+    8.309497,
+    46.987282,
+    8.309497,
+    46.987282
+],
   "geometry": {"coordinates":[8.309497,46.987282],"type":"Point"}
 }

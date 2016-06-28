@@ -2,13 +2,14 @@
   "id": 219821503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.697277,47.31625,7.697277,47.31625",
     "geom:latitude":47.31625,
     "geom:longitude":7.697277,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrengasse 19",
     "sg:city":"Balsthal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219821503,
-    "wof:lastmodified":1449072297,
+    "wof:lastmodified":1466212498,
     "wof:name":"Pub Secret Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.697277,47.31625,7.697277,47.31625],
+  "bbox": [
+    7.697277,
+    47.31625,
+    7.697277,
+    47.31625
+],
   "geometry": {"coordinates":[7.697277,47.31625],"type":"Point"}
 }

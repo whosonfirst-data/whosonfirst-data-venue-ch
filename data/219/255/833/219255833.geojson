@@ -2,13 +2,14 @@
   "id": 219255833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49953,47.020424,7.49953,47.020424",
     "geom:latitude":47.020424,
     "geom:longitude":7.49953,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanalweg 4",
     "sg:city":"Mattstetten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219255833,
-    "wof:lastmodified":1449072001,
+    "wof:lastmodified":1466211596,
     "wof:name":"Autohaus Paoluzzo Garage",
     "wof:parent_id":85800023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.49953,47.020424,7.49953,47.020424],
+  "bbox": [
+    7.49953,
+    47.020424,
+    7.49953,
+    47.020424
+],
   "geometry": {"coordinates":[7.49953,47.020424],"type":"Point"}
 }

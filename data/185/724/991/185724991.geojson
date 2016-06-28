@@ -2,13 +2,14 @@
   "id": 185724991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548703,47.387489,8.548703,47.387489",
     "geom:latitude":47.387489,
     "geom:longitude":8.548703,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frohburgstrasse 30 8006 Z\u00fcrich. Postfach 2811",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185724991,
-    "wof:lastmodified":1449008153,
+    "wof:lastmodified":1466211305,
     "wof:name":"Margret Hubatka Advokaturb\u00fcro",
     "wof:parent_id":85800463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548703,47.387489,8.548703,47.387489],
+  "bbox": [
+    8.548703,
+    47.387489,
+    8.548703,
+    47.387489
+],
   "geometry": {"coordinates":[8.548703,47.387489],"type":"Point"}
 }

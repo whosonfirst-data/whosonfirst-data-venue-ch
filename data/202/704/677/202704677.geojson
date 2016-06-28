@@ -2,13 +2,14 @@
   "id": 202704677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.735062,47.503502,8.735062,47.503502",
     "geom:latitude":47.503502,
     "geom:longitude":8.735062,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnstrasse 41",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202704677,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466210632,
     "wof:name":"Schnewlin + K\u00fcttel Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.735062,47.503502,8.735062,47.503502],
+  "bbox": [
+    8.735062,
+    47.503502,
+    8.735062,
+    47.503502
+],
   "geometry": {"coordinates":[8.735062,47.503502],"type":"Point"}
 }

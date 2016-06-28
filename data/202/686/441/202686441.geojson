@@ -2,13 +2,14 @@
   "id": 202686441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.441306,47.028229,7.441306,47.028229",
     "geom:latitude":47.028229,
     "geom:longitude":7.441306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bielstrasse 32",
     "sg:city":"M\u00fcnchenbuchsee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202686441,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466210463,
     "wof:name":"Ritter + Stutz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.441306,47.028229,7.441306,47.028229],
+  "bbox": [
+    7.441306,
+    47.028229,
+    7.441306,
+    47.028229
+],
   "geometry": {"coordinates":[7.441306,47.028229],"type":"Point"}
 }

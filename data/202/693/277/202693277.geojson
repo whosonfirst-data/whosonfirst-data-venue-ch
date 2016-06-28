@@ -2,13 +2,14 @@
   "id": 202693277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.295891,47.382427,9.295891,47.382427",
     "geom:latitude":47.382427,
     "geom:longitude":9.295891,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrenstrasse 23",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202693277,
-    "wof:lastmodified":1449060249,
+    "wof:lastmodified":1466210525,
     "wof:name":"Rupp Planbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.295891,47.382427,9.295891,47.382427],
+  "bbox": [
+    9.295891,
+    47.382427,
+    9.295891,
+    47.382427
+],
   "geometry": {"coordinates":[9.295891,47.382427],"type":"Point"}
 }

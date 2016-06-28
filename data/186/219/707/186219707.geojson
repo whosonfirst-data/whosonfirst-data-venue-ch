@@ -2,13 +2,14 @@
   "id": 186219707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.06616,47.167782,8.06616,47.167782",
     "geom:latitude":47.167782,
     "geom:longitude":8.06616,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Wauwilerstrasse",
     "sg:city":"Mauensee",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186219707,
-    "wof:lastmodified":1449052929,
+    "wof:lastmodified":1466209238,
     "wof:name":"Stemwag Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.06616,47.167782,8.06616,47.167782],
+  "bbox": [
+    8.06616,
+    47.167782,
+    8.06616,
+    47.167782
+],
   "geometry": {"coordinates":[8.06616,47.167782],"type":"Point"}
 }

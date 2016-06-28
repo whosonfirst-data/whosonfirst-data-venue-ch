@@ -2,13 +2,14 @@
   "id": 186377827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.828128,46.797867,9.828128,46.797867",
     "geom:latitude":46.797867,
     "geom:longitude":9.828128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rufshausenstrasse 27",
     "sg:city":"Schwarzh\u00e4usern",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186377827,
-    "wof:lastmodified":1449051387,
+    "wof:lastmodified":1466210418,
     "wof:name":"Recht Klaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.828128,46.797867,9.828128,46.797867],
+  "bbox": [
+    9.828128,
+    46.797867,
+    9.828128,
+    46.797867
+],
   "geometry": {"coordinates":[9.828128,46.797867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185987275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.38533,46.507519,6.38533,46.507519",
     "geom:latitude":46.507519,
     "geom:longitude":6.38533,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Artisans",
     "sg:city":"St-livres",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185987275,
-    "wof:lastmodified":1449007507,
+    "wof:lastmodified":1466210688,
     "wof:name":"Straehler Alain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.38533,46.507519,6.38533,46.507519],
+  "bbox": [
+    6.38533,
+    46.507519,
+    6.38533,
+    46.507519
+],
   "geometry": {"coordinates":[6.38533,46.507519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252977169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.659128,47.227718,8.659128,47.227718",
     "geom:latitude":47.227718,
     "geom:longitude":8.659128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gulmenstrasse 5b",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252977169,
-    "wof:lastmodified":1449006548,
+    "wof:lastmodified":1466211828,
     "wof:name":"Peter Berger Inneneinrichtungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.659128,47.227718,8.659128,47.227718],
+  "bbox": [
+    8.659128,
+    47.227718,
+    8.659128,
+    47.227718
+],
   "geometry": {"coordinates":[8.659128,47.227718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185898427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.54583,47.379261,8.54583,47.379261",
     "geom:latitude":47.379261,
     "geom:longitude":8.54583,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Clausiusstrasse 41",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185898427,
-    "wof:lastmodified":1449006570,
+    "wof:lastmodified":1466209815,
     "wof:name":"Alenko Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.54583,47.379261,8.54583,47.379261],
+  "bbox": [
+    8.54583,
+    47.379261,
+    8.54583,
+    47.379261
+],
   "geometry": {"coordinates":[8.54583,47.379261],"type":"Point"}
 }

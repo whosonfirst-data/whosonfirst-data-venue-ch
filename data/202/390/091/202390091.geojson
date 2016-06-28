@@ -2,13 +2,14 @@
   "id": 202390091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.90119,47.319149,7.90119,47.319149",
     "geom:latitude":47.319149,
     "geom:longitude":7.90119,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pilatusstrasse 11 4663 Aarburg. Postfach",
     "sg:city":"Aarburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202390091,
-    "wof:lastmodified":1449062677,
+    "wof:lastmodified":1466211638,
     "wof:name":"Atelier Senn R.m. Architektur Gmbh Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.90119,47.319149,7.90119,47.319149],
+  "bbox": [
+    7.90119,
+    47.319149,
+    7.90119,
+    47.319149
+],
   "geometry": {"coordinates":[7.90119,47.319149],"type":"Point"}
 }

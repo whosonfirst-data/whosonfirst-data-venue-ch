@@ -2,13 +2,14 @@
   "id": 203347623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.805459,47.319199,8.805459,47.319199",
     "geom:latitude":47.319199,
     "geom:longitude":8.805459,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Johanns-vorstadt 66",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203347623,
-    "wof:lastmodified":1449025833,
+    "wof:lastmodified":1466211007,
     "wof:name":"Dr.med.jakob Gysel Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.805459,47.319199,8.805459,47.319199],
+  "bbox": [
+    8.805459,
+    47.319199,
+    8.805459,
+    47.319199
+],
   "geometry": {"coordinates":[8.805459,47.319199],"type":"Point"}
 }

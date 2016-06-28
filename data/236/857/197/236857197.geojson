@@ -2,13 +2,14 @@
   "id": 236857197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.89096,46.814163,6.89096,46.814163",
     "geom:latitude":46.814163,
     "geom:longitude":6.89096,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 3",
     "sg:city":"Payerne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236857197,
-    "wof:lastmodified":1449003864,
+    "wof:lastmodified":1466212936,
     "wof:name":"Banque Raiffeisen De La Broye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.89096,46.814163,6.89096,46.814163],
+  "bbox": [
+    6.89096,
+    46.814163,
+    6.89096,
+    46.814163
+],
   "geometry": {"coordinates":[6.89096,46.814163],"type":"Point"}
 }

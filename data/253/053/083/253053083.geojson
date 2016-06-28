@@ -2,13 +2,14 @@
   "id": 253053083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.617572,46.51527,6.617572,46.51527",
     "geom:latitude":46.51527,
     "geom:longitude":6.617572,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Cour 63",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253053083,
-    "wof:lastmodified":1449063367,
+    "wof:lastmodified":1466209449,
     "wof:name":"Fankhauser Andr\u00e9.",
     "wof:parent_id":85799887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.617572,46.51527,6.617572,46.51527],
+  "bbox": [
+    6.617572,
+    46.51527,
+    6.617572,
+    46.51527
+],
   "geometry": {"coordinates":[6.617572,46.51527],"type":"Point"}
 }

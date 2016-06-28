@@ -2,13 +2,14 @@
   "id": 169753431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.632955,46.786278,7.632955,46.786278",
     "geom:latitude":46.786278,
     "geom:longitude":7.632955,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hohgantweg 13",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169753431,
-    "wof:lastmodified":1449033070,
+    "wof:lastmodified":1466211378,
     "wof:name":"Kalk Service Wasner",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.632955,46.786278,7.632955,46.786278],
+  "bbox": [
+    7.632955,
+    46.786278,
+    7.632955,
+    46.786278
+],
   "geometry": {"coordinates":[7.632955,46.786278],"type":"Point"}
 }

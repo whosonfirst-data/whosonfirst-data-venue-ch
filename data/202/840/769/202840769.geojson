@@ -2,13 +2,14 @@
   "id": 202840769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.611185,46.735771,7.611185,46.735771",
     "geom:latitude":46.735771,
     "geom:longitude":7.611185,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchholzstrasse 74e",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202840769,
-    "wof:lastmodified":1449062088,
+    "wof:lastmodified":1466211725,
     "wof:name":"Limbach Theo.",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.611185,46.735771,7.611185,46.735771],
+  "bbox": [
+    7.611185,
+    46.735771,
+    7.611185,
+    46.735771
+],
   "geometry": {"coordinates":[7.611185,46.735771],"type":"Point"}
 }

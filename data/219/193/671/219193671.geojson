@@ -2,13 +2,14 @@
   "id": 219193671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.611541,47.523102,7.611541,47.523102",
     "geom:latitude":47.523102,
     "geom:longitude":7.611541,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grubenstrasse 31",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219193671,
-    "wof:lastmodified":1449070956,
+    "wof:lastmodified":1466210885,
     "wof:name":"Dr.med.erwin Hunziker Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.611541,47.523102,7.611541,47.523102],
+  "bbox": [
+    7.611541,
+    47.523102,
+    7.611541,
+    47.523102
+],
   "geometry": {"coordinates":[7.611541,47.523102],"type":"Point"}
 }

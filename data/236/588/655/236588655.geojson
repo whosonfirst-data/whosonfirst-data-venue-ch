@@ -2,13 +2,14 @@
   "id": 236588655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.566783,47.431519,8.566783,47.431519",
     "geom:latitude":47.431519,
     "geom:longitude":8.566783,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberhauserstr. 30",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236588655,
-    "wof:lastmodified":1449004463,
+    "wof:lastmodified":1466212660,
     "wof:name":"Hotel Airport",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "restaurant"
     ]
 },
-  "bbox": [8.566783,47.431519,8.566783,47.431519],
+  "bbox": [
+    8.566783,
+    47.431519,
+    8.566783,
+    47.431519
+],
   "geometry": {"coordinates":[8.566783,47.431519],"type":"Point"}
 }

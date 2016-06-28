@@ -2,13 +2,14 @@
   "id": 236419251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.26032,46.513561,6.26032,46.513561",
     "geom:latitude":46.513561,
     "geom:longitude":6.26032,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1261",
     "sg:city":"St-george",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236419251,
-    "wof:lastmodified":1449005174,
+    "wof:lastmodified":1466212407,
     "wof:name":"Biblioth\u00e8que Populaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "archive"
     ]
 },
-  "bbox": [6.26032,46.513561,6.26032,46.513561],
+  "bbox": [
+    6.26032,
+    46.513561,
+    6.26032,
+    46.513561
+],
   "geometry": {"coordinates":[6.26032,46.513561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236964289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.599748,47.303135,8.599748,47.303135",
     "geom:latitude":47.303135,
     "geom:longitude":8.599748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Witikonerstrasse 221",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236964289,
-    "wof:lastmodified":1449004268,
+    "wof:lastmodified":1466213015,
     "wof:name":"Werner Widmer Informatik",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.599748,47.303135,8.599748,47.303135],
+  "bbox": [
+    8.599748,
+    47.303135,
+    8.599748,
+    47.303135
+],
   "geometry": {"coordinates":[8.599748,47.303135],"type":"Point"}
 }

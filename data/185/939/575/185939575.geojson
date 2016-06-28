@@ -2,13 +2,14 @@
   "id": 185939575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.795558,46.875343,7.795558,46.875343",
     "geom:latitude":46.875343,
     "geom:longitude":7.795558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Salzhaus Dorf",
     "sg:city":"Eggiwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185939575,
-    "wof:lastmodified":1449007086,
+    "wof:lastmodified":1466210176,
     "wof:name":"Spitex Verein Oberes Emmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.795558,46.875343,7.795558,46.875343],
+  "bbox": [
+    7.795558,
+    46.875343,
+    7.795558,
+    46.875343
+],
   "geometry": {"coordinates":[7.795558,46.875343],"type":"Point"}
 }

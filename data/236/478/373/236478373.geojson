@@ -2,13 +2,14 @@
   "id": 236478373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.910081,46.434132,6.910081,46.434132",
     "geom:latitude":46.434132,
     "geom:longitude":6.910081,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-rue 50",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236478373,
-    "wof:lastmodified":1449001762,
+    "wof:lastmodified":1466212385,
     "wof:name":"Ab Travel Sa",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.910081,46.434132,6.910081,46.434132],
+  "bbox": [
+    6.910081,
+    46.434132,
+    6.910081,
+    46.434132
+],
   "geometry": {"coordinates":[6.910081,46.434132],"type":"Point"}
 }

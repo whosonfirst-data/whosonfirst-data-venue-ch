@@ -2,13 +2,14 @@
   "id": 252827245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.947586,45.998035,8.947586,45.998035",
     "geom:latitude":45.998035,
     "geom:longitude":8.947586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riva Antonio Caccia 1 C",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252827245,
-    "wof:lastmodified":1449005793,
+    "wof:lastmodified":1466210205,
     "wof:name":"Emporium Abbigliamento Di Lugano Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.947586,45.998035,8.947586,45.998035],
+  "bbox": [
+    8.947586,
+    45.998035,
+    8.947586,
+    45.998035
+],
   "geometry": {"coordinates":[8.947586,45.998035],"type":"Point"}
 }

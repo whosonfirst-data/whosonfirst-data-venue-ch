@@ -2,13 +2,14 @@
   "id": 185700019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.692108,46.968498,9.692108,46.968498",
     "geom:latitude":46.968498,
     "geom:longitude":9.692108,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hinterdorf 94",
     "sg:city":"Schiers",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185700019,
-    "wof:lastmodified":1449008075,
+    "wof:lastmodified":1466211075,
     "wof:name":"Dr.peter Schnyder Advokaturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.692108,46.968498,9.692108,46.968498],
+  "bbox": [
+    9.692108,
+    46.968498,
+    9.692108,
+    46.968498
+],
   "geometry": {"coordinates":[9.692108,46.968498],"type":"Point"}
 }

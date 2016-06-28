@@ -2,13 +2,14 @@
   "id": 236040259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.327843,47.352978,8.327843,47.352978",
     "geom:latitude":47.352978,
     "geom:longitude":8.327843,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schaffhauserstrasse 46",
     "sg:city":"Beringen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236040259,
-    "wof:lastmodified":1449005134,
+    "wof:lastmodified":1466209245,
     "wof:name":"Holweck Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.327843,47.352978,8.327843,47.352978],
+  "bbox": [
+    8.327843,
+    47.352978,
+    8.327843,
+    47.352978
+],
   "geometry": {"coordinates":[8.327843,47.352978],"type":"Point"}
 }

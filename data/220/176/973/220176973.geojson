@@ -2,13 +2,14 @@
   "id": 220176973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.878355,46.177231,8.878355,46.177231",
     "geom:latitude":46.177231,
     "geom:longitude":8.878355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Francesca 1",
     "sg:city":"Gordola",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220176973,
-    "wof:lastmodified":1449074583,
+    "wof:lastmodified":1466210390,
     "wof:name":"Ferruccio Bacciarini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.878355,46.177231,8.878355,46.177231],
+  "bbox": [
+    8.878355,
+    46.177231,
+    8.878355,
+    46.177231
+],
   "geometry": {"coordinates":[8.878355,46.177231],"type":"Point"}
 }

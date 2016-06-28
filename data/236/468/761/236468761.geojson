@@ -2,13 +2,14 @@
   "id": 236468761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.629623,46.524048,6.629623,46.524048",
     "geom:latitude":46.524048,
     "geom:longitude":6.629623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Pr\u00e9-du-march\u00e9 15",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236468761,
-    "wof:lastmodified":1449004122,
+    "wof:lastmodified":1466212524,
     "wof:name":"Assoc.du Centre De Loisirs Du Cazard & Ludoth\u00e8que Pinocchio",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.629623,46.524048,6.629623,46.524048],
+  "bbox": [
+    6.629623,
+    46.524048,
+    6.629623,
+    46.524048
+],
   "geometry": {"coordinates":[6.629623,46.524048],"type":"Point"}
 }

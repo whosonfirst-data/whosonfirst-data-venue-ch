@@ -2,13 +2,14 @@
   "id": 236516893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.636176,47.517162,8.636176,47.517162",
     "geom:latitude":47.517162,
     "geom:longitude":8.636176,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weiacherstrasse 50",
     "sg:city":"Pfungen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236516893,
-    "wof:lastmodified":1449002151,
+    "wof:lastmodified":1466212553,
     "wof:name":"Gottfried Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.636176,47.517162,8.636176,47.517162],
+  "bbox": [
+    8.636176,
+    47.517162,
+    8.636176,
+    47.517162
+],
   "geometry": {"coordinates":[8.636176,47.517162],"type":"Point"}
 }

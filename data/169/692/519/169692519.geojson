@@ -2,13 +2,14 @@
   "id": 169692519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.618991,46.839752,7.618991,46.839752",
     "geom:latitude":46.839752,
     "geom:longitude":7.618991,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgdorfstrasse 4 3672 Oberdiessbach. Postfach 169",
     "sg:city":"Oberdiessbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169692519,
-    "wof:lastmodified":1449033562,
+    "wof:lastmodified":1466210845,
     "wof:name":"Berner Kantonalbank Bekb/bcbe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.618991,46.839752,7.618991,46.839752],
+  "bbox": [
+    7.618991,
+    46.839752,
+    7.618991,
+    46.839752
+],
   "geometry": {"coordinates":[7.618991,46.839752],"type":"Point"}
 }

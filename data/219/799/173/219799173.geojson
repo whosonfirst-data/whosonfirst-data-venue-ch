@@ -2,13 +2,14 @@
   "id": 219799173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.461383,46.977886,7.461383,46.977886",
     "geom:latitude":46.977886,
     "geom:longitude":7.461383,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Worblaufenstrasse 161 3048 Worblaufen. Postfach 73",
     "sg:city":"Worblaufen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219799173,
-    "wof:lastmodified":1449073936,
+    "wof:lastmodified":1466212460,
     "wof:name":"Downstairs Gmbh",
     "wof:parent_id":85800673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.461383,46.977886,7.461383,46.977886],
+  "bbox": [
+    7.461383,
+    46.977886,
+    7.461383,
+    46.977886
+],
   "geometry": {"coordinates":[7.461383,46.977886],"type":"Point"}
 }

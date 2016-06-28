@@ -2,13 +2,14 @@
   "id": 219154141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.470246,46.943211,7.470246,46.943211",
     "geom:latitude":46.943211,
     "geom:longitude":7.470246,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchserstrasse 4",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219154141,
-    "wof:lastmodified":1449073974,
+    "wof:lastmodified":1466209926,
     "wof:name":"Dr.med.urs Klingler Spezialarzt Fmh",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.470246,46.943211,7.470246,46.943211],
+  "bbox": [
+    7.470246,
+    46.943211,
+    7.470246,
+    46.943211
+],
   "geometry": {"coordinates":[7.470246,46.943211],"type":"Point"}
 }

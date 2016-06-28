@@ -2,13 +2,14 @@
   "id": 236226251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.204244,46.253563,6.204244,46.253563",
     "geom:latitude":46.253563,
     "geom:longitude":6.204244,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Champs-de-chaux Chemin Des 14c 1245 Collonge-bellerive. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236226251,
-    "wof:lastmodified":1449004152,
+    "wof:lastmodified":1466211095,
     "wof:name":"Le Bosquets Des F\u00e9es, Baatard Diane Promotion De Conte Et Des L\u00e9gendes. Spectacles De Contes Et Diffusion De La Litt\u00e9rature",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.204244,46.253563,6.204244,46.253563],
+  "bbox": [
+    6.204244,
+    46.253563,
+    6.204244,
+    46.253563
+],
   "geometry": {"coordinates":[6.204244,46.253563],"type":"Point"}
 }

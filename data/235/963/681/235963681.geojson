@@ -2,13 +2,14 @@
   "id": 235963681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.454231,47.277206,8.454231,47.277206",
     "geom:latitude":47.277206,
     "geom:longitude":8.454231,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldeggstrasse 81",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235963681,
-    "wof:lastmodified":1449008314,
+    "wof:lastmodified":1466209184,
     "wof:name":"Kurt Schneebeli Schreinerei Innenausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.454231,47.277206,8.454231,47.277206],
+  "bbox": [
+    8.454231,
+    47.277206,
+    8.454231,
+    47.277206
+],
   "geometry": {"coordinates":[8.454231,47.277206],"type":"Point"}
 }

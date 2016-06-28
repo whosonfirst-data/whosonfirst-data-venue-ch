@@ -2,13 +2,14 @@
   "id": 186556631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.631422,46.878841,8.631422,46.878841",
     "geom:latitude":46.878841,
     "geom:longitude":8.631422,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kornmattstrasse 12",
     "sg:city":"Altdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186556631,
-    "wof:lastmodified":1449051055,
+    "wof:lastmodified":1466211752,
     "wof:name":"Pm Montagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.631422,46.878841,8.631422,46.878841],
+  "bbox": [
+    8.631422,
+    46.878841,
+    8.631422,
+    46.878841
+],
   "geometry": {"coordinates":[8.631422,46.878841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219505871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.76405,46.5877,6.76405,46.5877",
     "geom:latitude":46.5877,
     "geom:longitude":6.76405,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Chiblins",
     "sg:city":"Gingins",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219505871,
-    "wof:lastmodified":1449073332,
+    "wof:lastmodified":1466211183,
     "wof:name":"Banque Raiffeisen Haute-broye-jorat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.76405,46.5877,6.76405,46.5877],
+  "bbox": [
+    6.76405,
+    46.5877,
+    6.76405,
+    46.5877
+],
   "geometry": {"coordinates":[6.76405,46.5877],"type":"Point"}
 }

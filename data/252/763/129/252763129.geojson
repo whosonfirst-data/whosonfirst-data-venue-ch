@@ -2,13 +2,14 @@
   "id": 252763129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.05934,47.115208,9.05934,47.115208",
     "geom:latitude":47.115208,
     "geom:longitude":9.05934,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8868 Oberurnen. Postfach",
     "sg:city":"Oberurnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252763129,
-    "wof:lastmodified":1449006509,
+    "wof:lastmodified":1466209462,
     "wof:name":"Kieni Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.05934,47.115208,9.05934,47.115208],
+  "bbox": [
+    9.05934,
+    47.115208,
+    9.05934,
+    47.115208
+],
   "geometry": {"coordinates":[9.05934,47.115208],"type":"Point"}
 }

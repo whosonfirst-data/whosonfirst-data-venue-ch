@@ -2,13 +2,14 @@
   "id": 219646147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.435948,46.656689,7.435948,46.656689",
     "geom:latitude":46.656689,
     "geom:longitude":7.435948,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00fcpbach",
     "sg:city":"Oberwil",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219646147,
-    "wof:lastmodified":1449070294,
+    "wof:lastmodified":1466212018,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.435948,46.656689,7.435948,46.656689],
+  "bbox": [
+    7.435948,
+    46.656689,
+    7.435948,
+    46.656689
+],
   "geometry": {"coordinates":[7.435948,46.656689],"type":"Point"}
 }

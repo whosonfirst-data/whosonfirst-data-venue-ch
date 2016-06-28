@@ -2,13 +2,14 @@
   "id": 236520489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.988947,47.367325,7.988947,47.367325",
     "geom:latitude":47.367325,
     "geom:longitude":7.988947,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stockackerstrasse 4",
     "sg:city":"Niederg\u00f6sgen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236520489,
-    "wof:lastmodified":1449002592,
+    "wof:lastmodified":1466212648,
     "wof:name":"Martin Meier",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.988947,47.367325,7.988947,47.367325],
+  "bbox": [
+    7.988947,
+    47.367325,
+    7.988947,
+    47.367325
+],
   "geometry": {"coordinates":[7.988947,47.367325],"type":"Point"}
 }

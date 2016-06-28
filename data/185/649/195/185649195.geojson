@@ -2,13 +2,14 @@
   "id": 185649195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448558,46.930603,7.448558,46.930603",
     "geom:latitude":46.930603,
     "geom:longitude":7.448558,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seftigenstrasse 209a",
     "sg:city":"Wabern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185649195,
-    "wof:lastmodified":1449007685,
+    "wof:lastmodified":1466210267,
     "wof:name":"Sicolith Ag",
     "wof:parent_id":85800599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [7.448558,46.930603,7.448558,46.930603],
+  "bbox": [
+    7.448558,
+    46.930603,
+    7.448558,
+    46.930603
+],
   "geometry": {"coordinates":[7.448558,46.930603],"type":"Point"}
 }

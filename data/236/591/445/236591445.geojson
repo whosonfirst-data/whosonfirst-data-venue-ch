@@ -2,13 +2,14 @@
   "id": 236591445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.19126,46.224167,6.19126,46.224167",
     "geom:latitude":46.224167,
     "geom:longitude":6.19126,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De La Capite 91-93",
     "sg:city":"Cologny",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236591445,
-    "wof:lastmodified":1449003414,
+    "wof:lastmodified":1466212672,
     "wof:name":"World Economic Forum",
     "wof:parent_id":85799915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fair"
     ]
 },
-  "bbox": [6.19126,46.224167,6.19126,46.224167],
+  "bbox": [
+    6.19126,
+    46.224167,
+    6.19126,
+    46.224167
+],
   "geometry": {"coordinates":[6.19126,46.224167],"type":"Point"}
 }

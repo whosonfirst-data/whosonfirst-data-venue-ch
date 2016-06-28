@@ -2,13 +2,14 @@
   "id": 253179463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.204702,47.48563,8.204702,47.48563",
     "geom:latitude":47.48563,
     "geom:longitude":8.204702,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchholzstrasse 26",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253179463,
-    "wof:lastmodified":1449065475,
+    "wof:lastmodified":1466210834,
     "wof:name":"Gebr. Geissb\u00fchler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.204702,47.48563,8.204702,47.48563],
+  "bbox": [
+    8.204702,
+    47.48563,
+    8.204702,
+    47.48563
+],
   "geometry": {"coordinates":[8.204702,47.48563],"type":"Point"}
 }

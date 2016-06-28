@@ -2,13 +2,14 @@
   "id": 186094825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.583652,47.312244,8.583652,47.312244",
     "geom:latitude":47.312244,
     "geom:longitude":8.583652,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardturmstrasse 134 8005 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186094825,
-    "wof:lastmodified":1449052048,
+    "wof:lastmodified":1466210814,
     "wof:name":"Handloser J.",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.583652,47.312244,8.583652,47.312244],
+  "bbox": [
+    8.583652,
+    47.312244,
+    8.583652,
+    47.312244
+],
   "geometry": {"coordinates":[8.583652,47.312244],"type":"Point"}
 }

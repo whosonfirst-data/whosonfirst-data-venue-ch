@@ -2,13 +2,14 @@
   "id": 202513595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.126728,46.798557,7.126728,46.798557",
     "geom:latitude":46.798557,
     "geom:longitude":7.126728,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 19",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202513595,
-    "wof:lastmodified":1449061767,
+    "wof:lastmodified":1466211565,
     "wof:name":"Geoservices Overseas Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.126728,46.798557,7.126728,46.798557],
+  "bbox": [
+    7.126728,
+    46.798557,
+    7.126728,
+    46.798557
+],
   "geometry": {"coordinates":[7.126728,46.798557],"type":"Point"}
 }

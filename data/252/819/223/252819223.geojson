@@ -2,13 +2,14 @@
   "id": 252819223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.046418,47.389755,8.046418,47.389755",
     "geom:latitude":47.389755,
     "geom:longitude":8.046418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Vorstadt 16",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252819223,
-    "wof:lastmodified":1449005675,
+    "wof:lastmodified":1466210116,
     "wof:name":"Candanga Mode, Fischer Rosalina",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.046418,47.389755,8.046418,47.389755],
+  "bbox": [
+    8.046418,
+    47.389755,
+    8.046418,
+    47.389755
+],
   "geometry": {"coordinates":[8.046418,47.389755],"type":"Point"}
 }

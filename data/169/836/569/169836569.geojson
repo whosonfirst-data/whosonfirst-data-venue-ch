@@ -2,13 +2,14 @@
   "id": 169836569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.820255,47.307751,8.820255,47.307751",
     "geom:latitude":47.307751,
     "geom:longitude":8.820255,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wildbachstrasse 2",
     "sg:city":"Hinwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169836569,
-    "wof:lastmodified":1449034871,
+    "wof:lastmodified":1466209320,
     "wof:name":"Kehrichtverwertung Z\u00fcrcher Oberland Kezo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.820255,47.307751,8.820255,47.307751],
+  "bbox": [
+    8.820255,
+    47.307751,
+    8.820255,
+    47.307751
+],
   "geometry": {"coordinates":[8.820255,47.307751],"type":"Point"}
 }

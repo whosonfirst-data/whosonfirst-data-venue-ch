@@ -2,13 +2,14 @@
   "id": 202406239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4564,46.992672,7.4564,46.992672",
     "geom:latitude":46.992672,
     "geom:longitude":7.4564,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wahlackerstrasse 1 3052 Zollikofen. Postfach",
     "sg:city":"Zollikofen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202406239,
-    "wof:lastmodified":1449061472,
+    "wof:lastmodified":1466209829,
     "wof:name":"Berger + Wenger Bauingenieure Ag",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4564,46.992672,7.4564,46.992672],
+  "bbox": [
+    7.4564,
+    46.992672,
+    7.4564,
+    46.992672
+],
   "geometry": {"coordinates":[7.4564,46.992672],"type":"Point"}
 }

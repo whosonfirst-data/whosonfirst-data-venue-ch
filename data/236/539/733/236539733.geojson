@@ -2,13 +2,14 @@
   "id": 236539733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.56993,47.553951,7.56993,47.553951",
     "geom:latitude":47.553951,
     "geom:longitude":7.56993,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sennheimerstrasse 45",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236539733,
-    "wof:lastmodified":1449005324,
+    "wof:lastmodified":1466212584,
     "wof:name":"Druckerei Bielser Basel",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "book"
     ]
 },
-  "bbox": [7.56993,47.553951,7.56993,47.553951],
+  "bbox": [
+    7.56993,
+    47.553951,
+    7.56993,
+    47.553951
+],
   "geometry": {"coordinates":[7.56993,47.553951],"type":"Point"}
 }

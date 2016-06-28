@@ -2,13 +2,14 @@
   "id": 236505863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.141133,47.371353,8.141133,47.371353",
     "geom:latitude":47.371353,
     "geom:longitude":8.141133,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilstrasse 1",
     "sg:city":"Schafisheim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236505863,
-    "wof:lastmodified":1449004597,
+    "wof:lastmodified":1466212629,
     "wof:name":"Kakteen Gautschi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.141133,47.371353,8.141133,47.371353],
+  "bbox": [
+    8.141133,
+    47.371353,
+    8.141133,
+    47.371353
+],
   "geometry": {"coordinates":[8.141133,47.371353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202832011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.848355,46.685299,7.848355,46.685299",
     "geom:latitude":46.685299,
     "geom:longitude":7.848355,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 34 3800 Unterseen. Postfach 246",
     "sg:city":"Unterseen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202832011,
-    "wof:lastmodified":1449060121,
+    "wof:lastmodified":1466211705,
     "wof:name":"Hofer, Meyer, Sennhauser Architekten Und Planer Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.848355,46.685299,7.848355,46.685299],
+  "bbox": [
+    7.848355,
+    46.685299,
+    7.848355,
+    46.685299
+],
   "geometry": {"coordinates":[7.848355,46.685299],"type":"Point"}
 }

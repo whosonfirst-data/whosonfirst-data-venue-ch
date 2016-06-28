@@ -2,13 +2,14 @@
   "id": 186381285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.481585,47.072071,9.481585,47.072071",
     "geom:latitude":47.072071,
     "geom:longitude":9.481585,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnstrasse",
     "sg:city":"Tr\u00fcbbach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186381285,
-    "wof:lastmodified":1449050464,
+    "wof:lastmodified":1466210443,
     "wof:name":"Schlegel Erich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.481585,47.072071,9.481585,47.072071],
+  "bbox": [
+    9.481585,
+    47.072071,
+    9.481585,
+    47.072071
+],
   "geometry": {"coordinates":[9.481585,47.072071],"type":"Point"}
 }

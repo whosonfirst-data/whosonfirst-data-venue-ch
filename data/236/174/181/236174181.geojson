@@ -2,13 +2,14 @@
   "id": 236174181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.371807,47.43626,9.371807,47.43626",
     "geom:latitude":47.43626,
     "geom:longitude":9.371807,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Grangette 38",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236174181,
-    "wof:lastmodified":1449002012,
+    "wof:lastmodified":1466210525,
     "wof:name":"Hans Ruedi K\u00fcffer Berufsberatung",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.371807,47.43626,9.371807,47.43626],
+  "bbox": [
+    9.371807,
+    47.43626,
+    9.371807,
+    47.43626
+],
   "geometry": {"coordinates":[9.371807,47.43626],"type":"Point"}
 }

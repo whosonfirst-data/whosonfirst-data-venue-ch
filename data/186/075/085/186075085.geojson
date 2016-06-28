@@ -2,13 +2,14 @@
   "id": 186075085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.906749,47.173149,8.906749,47.173149",
     "geom:latitude":47.173149,
     "geom:longitude":8.906749,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosenweg 1 8854 Siebnen. Postfach",
     "sg:city":"Siebnen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186075085,
-    "wof:lastmodified":1449051839,
+    "wof:lastmodified":1466210483,
     "wof:name":"Frey & Schuler Gmbh, Generalunternehmung Schl\u00fcsselfertige H\u00e4user; Erstellung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.906749,47.173149,8.906749,47.173149],
+  "bbox": [
+    8.906749,
+    47.173149,
+    8.906749,
+    47.173149
+],
   "geometry": {"coordinates":[8.906749,47.173149],"type":"Point"}
 }

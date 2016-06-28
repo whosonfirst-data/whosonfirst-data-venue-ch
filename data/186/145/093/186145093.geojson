@@ -2,13 +2,14 @@
   "id": 186145093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.164149,47.347572,8.164149,47.347572",
     "geom:latitude":47.347572,
     "geom:longitude":8.164149,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birchmattstrasse 25 5703 Seon. Postfach 118",
     "sg:city":"Seon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186145093,
-    "wof:lastmodified":1449051189,
+    "wof:lastmodified":1466211408,
     "wof:name":"Mathys Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.164149,47.347572,8.164149,47.347572],
+  "bbox": [
+    8.164149,
+    47.347572,
+    8.164149,
+    47.347572
+],
   "geometry": {"coordinates":[8.164149,47.347572],"type":"Point"}
 }

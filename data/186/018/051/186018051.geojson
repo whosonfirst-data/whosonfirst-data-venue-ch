@@ -2,13 +2,14 @@
   "id": 186018051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.390103,47.195602,7.390103,47.195602",
     "geom:latitude":47.195602,
     "geom:longitude":7.390103,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4derizstrasse 24",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186018051,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1466209551,
     "wof:name":"Bauservice Eterno Salvatore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.390103,47.195602,7.390103,47.195602],
+  "bbox": [
+    7.390103,
+    47.195602,
+    7.390103,
+    47.195602
+],
   "geometry": {"coordinates":[7.390103,47.195602],"type":"Point"}
 }

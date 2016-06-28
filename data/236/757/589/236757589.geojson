@@ -2,13 +2,14 @@
   "id": 236757589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4329,46.953129,7.4329,46.953129",
     "geom:latitude":46.953129,
     "geom:longitude":7.4329,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4nggassstrasse 28",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236757589,
-    "wof:lastmodified":1449003528,
+    "wof:lastmodified":1466212870,
     "wof:name":"Robot Ag",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "embroidered"
     ]
 },
-  "bbox": [7.4329,46.953129,7.4329,46.953129],
+  "bbox": [
+    7.4329,
+    46.953129,
+    7.4329,
+    46.953129
+],
   "geometry": {"coordinates":[7.4329,46.953129],"type":"Point"}
 }

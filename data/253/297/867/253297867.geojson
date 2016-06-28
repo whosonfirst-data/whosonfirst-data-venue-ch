@@ -2,13 +2,14 @@
   "id": 253297867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527391,47.374195,8.527391,47.374195",
     "geom:latitude":47.374195,
     "geom:longitude":8.527391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanzleistrasse 18 8004 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253297867,
-    "wof:lastmodified":1449064708,
+    "wof:lastmodified":1466211964,
     "wof:name":"Stiftung Behindertenwerk St. Jakob",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527391,47.374195,8.527391,47.374195],
+  "bbox": [
+    8.527391,
+    47.374195,
+    8.527391,
+    47.374195
+],
   "geometry": {"coordinates":[8.527391,47.374195],"type":"Point"}
 }

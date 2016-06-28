@@ -2,13 +2,14 @@
   "id": 219342743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.878231,46.975048,6.878231,46.975048",
     "geom:latitude":46.975048,
     "geom:longitude":6.878231,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Port-de-la-c\u00f4te 2",
     "sg:city":"Auvernier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219342743,
-    "wof:lastmodified":1449073655,
+    "wof:lastmodified":1466209633,
     "wof:name":"Garage Du Port Borel Jean-louis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.878231,46.975048,6.878231,46.975048],
+  "bbox": [
+    6.878231,
+    46.975048,
+    6.878231,
+    46.975048
+],
   "geometry": {"coordinates":[6.878231,46.975048],"type":"Point"}
 }

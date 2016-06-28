@@ -2,13 +2,14 @@
   "id": 219458575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.609976,47.568211,7.609976,47.568211",
     "geom:latitude":47.568211,
     "geom:longitude":7.609976,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Surinam 55",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219458575,
-    "wof:lastmodified":1449072910,
+    "wof:lastmodified":1466210735,
     "wof:name":"Sauter Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [7.609976,47.568211,7.609976,47.568211],
+  "bbox": [
+    7.609976,
+    47.568211,
+    7.609976,
+    47.568211
+],
   "geometry": {"coordinates":[7.609976,47.568211],"type":"Point"}
 }

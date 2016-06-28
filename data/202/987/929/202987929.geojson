@@ -2,13 +2,14 @@
   "id": 202987929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.602465,47.24332,7.602465,47.24332",
     "geom:latitude":47.24332,
     "geom:longitude":7.602465,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnstrasse 51",
     "sg:city":"Attiswil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202987929,
-    "wof:lastmodified":1449061523,
+    "wof:lastmodified":1466212502,
     "wof:name":"Frei Architektur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.602465,47.24332,7.602465,47.24332],
+  "bbox": [
+    7.602465,
+    47.24332,
+    7.602465,
+    47.24332
+],
   "geometry": {"coordinates":[7.602465,47.24332],"type":"Point"}
 }

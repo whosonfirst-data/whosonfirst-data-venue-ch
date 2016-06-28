@@ -2,13 +2,14 @@
   "id": 219942885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516365,47.415859,8.516365,47.415859",
     "geom:latitude":47.415859,
     "geom:longitude":8.516365,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedenhaldenstrasse 30",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219942885,
-    "wof:lastmodified":1449072005,
+    "wof:lastmodified":1466212711,
     "wof:name":"Knabenhans Gmbh Abbruch Und Demontagen",
     "wof:parent_id":85800355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516365,47.415859,8.516365,47.415859],
+  "bbox": [
+    8.516365,
+    47.415859,
+    8.516365,
+    47.415859
+],
   "geometry": {"coordinates":[8.516365,47.415859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219849637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.312694,47.066982,7.312694,47.066982",
     "geom:latitude":47.066982,
     "geom:longitude":7.312694,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"S\u00e4geweg 12",
     "sg:city":"Lyss",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219849637,
-    "wof:lastmodified":1449071045,
+    "wof:lastmodified":1466212644,
     "wof:name":"Restaurant & Bar Zur Brauerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [7.312694,47.066982,7.312694,47.066982],
+  "bbox": [
+    7.312694,
+    47.066982,
+    7.312694,
+    47.066982
+],
   "geometry": {"coordinates":[7.312694,47.066982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236231495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.242565,47.211323,8.242565,47.211323",
     "geom:latitude":47.211323,
     "geom:longitude":8.242565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Staefligen",
     "sg:city":"Retschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236231495,
-    "wof:lastmodified":1449003317,
+    "wof:lastmodified":1466211157,
     "wof:name":"Peter Wespi's Big Bang Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.242565,47.211323,8.242565,47.211323],
+  "bbox": [
+    8.242565,
+    47.211323,
+    8.242565,
+    47.211323
+],
   "geometry": {"coordinates":[8.242565,47.211323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236192039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.306608,47.471794,8.306608,47.471794",
     "geom:latitude":47.471794,
     "geom:longitude":8.306608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Cordulaplatz 1 5400 Baden. Postfach",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236192039,
-    "wof:lastmodified":1449004087,
+    "wof:lastmodified":1466210725,
     "wof:name":"City Com Baden Selbst\u00e4ndiges Gewerbe; Wahrung, F\u00f6rderung Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.306608,47.471794,8.306608,47.471794],
+  "bbox": [
+    8.306608,
+    47.471794,
+    8.306608,
+    47.471794
+],
   "geometry": {"coordinates":[8.306608,47.471794],"type":"Point"}
 }

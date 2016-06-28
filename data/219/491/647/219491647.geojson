@@ -2,13 +2,14 @@
   "id": 219491647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.524506,46.610039,6.524506,46.610039",
     "geom:latitude":46.610039,
     "geom:longitude":6.524506,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl. Centrale 3",
     "sg:city":"Penthalaz",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219491647,
-    "wof:lastmodified":1449070324,
+    "wof:lastmodified":1466211058,
     "wof:name":"Banque Cantonale Vaudoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.524506,46.610039,6.524506,46.610039],
+  "bbox": [
+    6.524506,
+    46.610039,
+    6.524506,
+    46.610039
+],
   "geometry": {"coordinates":[6.524506,46.610039],"type":"Point"}
 }

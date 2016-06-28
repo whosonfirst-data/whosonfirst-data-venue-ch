@@ -2,13 +2,14 @@
   "id": 252807947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.68007,47.51981,7.68007,47.51981",
     "geom:latitude":47.51981,
     "geom:longitude":7.68007,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Muttenzerstrasse 91",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252807947,
-    "wof:lastmodified":1449005698,
+    "wof:lastmodified":1466210000,
     "wof:name":"Big Brother''s Gmbh",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.68007,47.51981,7.68007,47.51981],
+  "bbox": [
+    7.68007,
+    47.51981,
+    7.68007,
+    47.51981
+],
   "geometry": {"coordinates":[7.68007,47.51981],"type":"Point"}
 }

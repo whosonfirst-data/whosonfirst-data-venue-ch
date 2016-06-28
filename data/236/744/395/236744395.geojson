@@ -2,13 +2,14 @@
   "id": 236744395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.765464,47.197895,8.765464,47.197895",
     "geom:latitude":47.197895,
     "geom:longitude":8.765464,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichenstrasse 6",
     "sg:city":"Pf\u00e4ffikon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236744395,
-    "wof:lastmodified":1449002712,
+    "wof:lastmodified":1466212792,
     "wof:name":"Tooltech Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "circular"
     ]
 },
-  "bbox": [8.765464,47.197895,8.765464,47.197895],
+  "bbox": [
+    8.765464,
+    47.197895,
+    8.765464,
+    47.197895
+],
   "geometry": {"coordinates":[8.765464,47.197895],"type":"Point"}
 }

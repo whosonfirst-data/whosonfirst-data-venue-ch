@@ -2,13 +2,14 @@
   "id": 203226701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.963157,47.009464,6.963157,47.009464",
     "geom:latitude":47.009464,
     "geom:longitude":6.963157,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Conseil-g\u00e9n\u00e9ral 11",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203226701,
-    "wof:lastmodified":1449026343,
+    "wof:lastmodified":1466209757,
     "wof:name":"Dr M\u00e9d. Rolf Jeanmonod M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.963157,47.009464,6.963157,47.009464],
+  "bbox": [
+    6.963157,
+    47.009464,
+    6.963157,
+    47.009464
+],
   "geometry": {"coordinates":[6.963157,47.009464],"type":"Point"}
 }

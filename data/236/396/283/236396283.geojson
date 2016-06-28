@@ -2,13 +2,14 @@
   "id": 236396283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.030309,45.837719,9.030309,45.837719",
     "geom:latitude":45.837719,
     "geom:longitude":9.030309,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Alfonso Turconi 3",
     "sg:city":"Chiasso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236396283,
-    "wof:lastmodified":1449003890,
+    "wof:lastmodified":1466212235,
     "wof:name":"Biblioteca Comunale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [9.030309,45.837719,9.030309,45.837719],
+  "bbox": [
+    9.030309,
+    45.837719,
+    9.030309,
+    45.837719
+],
   "geometry": {"coordinates":[9.030309,45.837719],"type":"Point"}
 }

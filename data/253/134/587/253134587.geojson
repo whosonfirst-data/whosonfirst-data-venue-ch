@@ -2,13 +2,14 @@
   "id": 253134587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.002001,47.153305,7.002001,47.153305",
     "geom:latitude":47.153305,
     "geom:longitude":7.002001,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Puits 36",
     "sg:city":"St-imier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253134587,
-    "wof:lastmodified":1449065632,
+    "wof:lastmodified":1466210319,
     "wof:name":"Aubry Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.002001,47.153305,7.002001,47.153305],
+  "bbox": [
+    7.002001,
+    47.153305,
+    7.002001,
+    47.153305
+],
   "geometry": {"coordinates":[7.002001,47.153305],"type":"Point"}
 }

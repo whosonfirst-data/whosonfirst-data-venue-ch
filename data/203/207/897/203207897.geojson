@@ -2,13 +2,14 @@
   "id": 203207897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.078447,46.105595,7.078447,46.105595",
     "geom:latitude":46.105595,
     "geom:longitude":7.078447,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 45",
     "sg:city":"Martigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203207897,
-    "wof:lastmodified":1449026297,
+    "wof:lastmodified":1466209558,
     "wof:name":"Dr M\u00e9d. Michel Frey M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.078447,46.105595,7.078447,46.105595],
+  "bbox": [
+    7.078447,
+    46.105595,
+    7.078447,
+    46.105595
+],
   "geometry": {"coordinates":[7.078447,46.105595],"type":"Point"}
 }

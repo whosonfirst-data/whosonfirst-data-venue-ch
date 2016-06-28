@@ -2,13 +2,14 @@
   "id": 219457501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549796,47.365112,8.549796,47.365112",
     "geom:latitude":47.365112,
     "geom:longitude":8.549796,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlebachstr. 20",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219457501,
-    "wof:lastmodified":1449072759,
+    "wof:lastmodified":1466210718,
     "wof:name":"Diethelm Keller Holding Ltd",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [8.549796,47.365112,8.549796,47.365112],
+  "bbox": [
+    8.549796,
+    47.365112,
+    8.549796,
+    47.365112
+],
   "geometry": {"coordinates":[8.549796,47.365112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186511757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.547145,47.393684,8.547145,47.393684",
     "geom:latitude":47.393684,
     "geom:longitude":8.547145,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langensteinenstrasse 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186511757,
-    "wof:lastmodified":1449051612,
+    "wof:lastmodified":1466211711,
     "wof:name":"Oberstrass Cafeteria",
     "wof:parent_id":85800463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alters"
     ]
 },
-  "bbox": [8.547145,47.393684,8.547145,47.393684],
+  "bbox": [
+    8.547145,
+    47.393684,
+    8.547145,
+    47.393684
+],
   "geometry": {"coordinates":[8.547145,47.393684],"type":"Point"}
 }

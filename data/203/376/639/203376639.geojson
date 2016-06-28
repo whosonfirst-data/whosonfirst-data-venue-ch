@@ -2,13 +2,14 @@
   "id": 203376639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.565071,47.296249,8.565071,47.296249",
     "geom:latitude":47.296249,
     "geom:longitude":8.565071,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 20",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203376639,
-    "wof:lastmodified":1449025567,
+    "wof:lastmodified":1466211295,
     "wof:name":"Dr.med.markus Romer Spezialarzt Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.565071,47.296249,8.565071,47.296249],
+  "bbox": [
+    8.565071,
+    47.296249,
+    8.565071,
+    47.296249
+],
   "geometry": {"coordinates":[8.565071,47.296249],"type":"Point"}
 }

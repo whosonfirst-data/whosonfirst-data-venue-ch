@@ -2,13 +2,14 @@
   "id": 235950395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49041,46.579399,7.49041,46.579399",
     "geom:latitude":46.579399,
     "geom:longitude":7.49041,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stutz",
     "sg:city":"Schwenden",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":235950395,
-    "wof:lastmodified":1449008393,
+    "wof:lastmodified":1466209067,
     "wof:name":"Eduard W\u00fcthrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.49041,46.579399,7.49041,46.579399],
+  "bbox": [
+    7.49041,
+    46.579399,
+    7.49041,
+    46.579399
+],
   "geometry": {"coordinates":[7.49041,46.579399],"type":"Point"}
 }

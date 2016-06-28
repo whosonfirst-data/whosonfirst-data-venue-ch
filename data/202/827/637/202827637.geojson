@@ -2,13 +2,14 @@
   "id": 202827637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.439107,47.20697,9.439107,47.20697",
     "geom:latitude":47.20697,
     "geom:longitude":9.439107,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vorburg",
     "sg:city":"Gams",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202827637,
-    "wof:lastmodified":1449061015,
+    "wof:lastmodified":1466211825,
     "wof:name":"Grob Architektur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.439107,47.20697,9.439107,47.20697],
+  "bbox": [
+    9.439107,
+    47.20697,
+    9.439107,
+    47.20697
+],
   "geometry": {"coordinates":[9.439107,47.20697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219397919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.322539,47.428665,9.322539,47.428665",
     "geom:latitude":47.428665,
     "geom:longitude":9.322539,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofstrasse 4",
     "sg:city":"Walliswil-nbipp",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219397919,
-    "wof:lastmodified":1449071795,
+    "wof:lastmodified":1466210164,
     "wof:name":"Hans Marbach Auto-marbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.322539,47.428665,9.322539,47.428665],
+  "bbox": [
+    9.322539,
+    47.428665,
+    9.322539,
+    47.428665
+],
   "geometry": {"coordinates":[9.322539,47.428665],"type":"Point"}
 }

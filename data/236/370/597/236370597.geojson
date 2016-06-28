@@ -2,13 +2,14 @@
   "id": 236370597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.698523,47.520824,7.698523,47.520824",
     "geom:latitude":47.520824,
     "geom:longitude":7.698523,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenstrasse 7/9",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236370597,
-    "wof:lastmodified":1449003462,
+    "wof:lastmodified":1466212045,
     "wof:name":"Sekundarschule Fr\u00f6schmatt",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.698523,47.520824,7.698523,47.520824],
+  "bbox": [
+    7.698523,
+    47.520824,
+    7.698523,
+    47.520824
+],
   "geometry": {"coordinates":[7.698523,47.520824],"type":"Point"}
 }

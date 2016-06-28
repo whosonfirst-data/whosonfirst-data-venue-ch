@@ -2,13 +2,14 @@
   "id": 220059983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.955456,46.006561,8.955456,46.006561",
     "geom:latitude":46.006561,
     "geom:longitude":8.955456,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Elvezia 7",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220059983,
-    "wof:lastmodified":1449074239,
+    "wof:lastmodified":1466209397,
     "wof:name":"Cairo Enzo.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.955456,46.006561,8.955456,46.006561],
+  "bbox": [
+    8.955456,
+    46.006561,
+    8.955456,
+    46.006561
+],
   "geometry": {"coordinates":[8.955456,46.006561],"type":"Point"}
 }

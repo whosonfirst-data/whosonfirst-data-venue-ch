@@ -2,13 +2,14 @@
   "id": 202740953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146428,46.183025,6.146428,46.183025",
     "geom:latitude":46.183025,
     "geom:longitude":6.146428,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lerchenweg 13",
     "sg:city":"Oberentfelden",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202740953,
-    "wof:lastmodified":1449061280,
+    "wof:lastmodified":1466210974,
     "wof:name":"Thomas Jundt Bureau D'ing\u00e9nieur",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146428,46.183025,6.146428,46.183025],
+  "bbox": [
+    6.146428,
+    46.183025,
+    6.146428,
+    46.183025
+],
   "geometry": {"coordinates":[6.146428,46.183025],"type":"Point"}
 }

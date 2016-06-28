@@ -2,13 +2,14 @@
   "id": 219738977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.516495,47.370781,8.516495,47.370781",
     "geom:latitude":47.370781,
     "geom:longitude":8.516495,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birmensdorferstr 198",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219738977,
-    "wof:lastmodified":1449072989,
+    "wof:lastmodified":1466212327,
     "wof:name":"Swiss Bank Corporation",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.516495,47.370781,8.516495,47.370781],
+  "bbox": [
+    8.516495,
+    47.370781,
+    8.516495,
+    47.370781
+],
   "geometry": {"coordinates":[8.516495,47.370781],"type":"Point"}
 }

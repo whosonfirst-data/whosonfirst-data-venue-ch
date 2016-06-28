@@ -2,13 +2,14 @@
   "id": 186235681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.853128,47.652576,8.853128,47.652576",
     "geom:latitude":47.652576,
     "geom:longitude":8.853128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorfstrasse 82 8957 Spreitenbach. Postfach",
     "sg:city":"Spreitenbach",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186235681,
-    "wof:lastmodified":1449050876,
+    "wof:lastmodified":1466209364,
     "wof:name":"Vago Stein Am Rhein Zweigniederlassung Der Kibag Strassen Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.853128,47.652576,8.853128,47.652576],
+  "bbox": [
+    8.853128,
+    47.652576,
+    8.853128,
+    47.652576
+],
   "geometry": {"coordinates":[8.853128,47.652576],"type":"Point"}
 }

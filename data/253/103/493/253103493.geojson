@@ -2,13 +2,14 @@
   "id": 253103493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543592,47.370857,8.543592,47.370857",
     "geom:latitude":47.370857,
     "geom:longitude":8.543592,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"N\u00e4gelihof 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253103493,
-    "wof:lastmodified":1449064663,
+    "wof:lastmodified":1466209967,
     "wof:name":"Alpengl\u00fchn, Moser Und M\u00fcller",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543592,47.370857,8.543592,47.370857],
+  "bbox": [
+    8.543592,
+    47.370857,
+    8.543592,
+    47.370857
+],
   "geometry": {"coordinates":[8.543592,47.370857],"type":"Point"}
 }

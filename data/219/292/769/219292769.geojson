@@ -2,13 +2,14 @@
   "id": 219292769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.077585,46.788635,7.077585,46.788635",
     "geom:latitude":46.788635,
     "geom:longitude":7.077585,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Fribourg 16",
     "sg:city":"Avry-sur-matran",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219292769,
-    "wof:lastmodified":1449070685,
+    "wof:lastmodified":1466209177,
     "wof:name":"Jean-marie Vonlanthen Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.077585,46.788635,7.077585,46.788635],
+  "bbox": [
+    7.077585,
+    46.788635,
+    7.077585,
+    46.788635
+],
   "geometry": {"coordinates":[7.077585,46.788635],"type":"Point"}
 }

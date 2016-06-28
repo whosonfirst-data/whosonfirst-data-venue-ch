@@ -2,13 +2,14 @@
   "id": 202484165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.057281,46.619877,7.057281,46.619877",
     "geom:latitude":46.619877,
     "geom:longitude":7.057281,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Strickstrasse 15",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202484165,
-    "wof:lastmodified":1449062506,
+    "wof:lastmodified":1466211250,
     "wof:name":"Enginews Engineering Workshop Pasquier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.057281,46.619877,7.057281,46.619877],
+  "bbox": [
+    7.057281,
+    46.619877,
+    7.057281,
+    46.619877
+],
   "geometry": {"coordinates":[7.057281,46.619877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236940447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.357753,46.222958,7.357753,46.222958",
     "geom:latitude":46.222958,
     "geom:longitude":7.357753,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Levant 100",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236940447,
-    "wof:lastmodified":1449002284,
+    "wof:lastmodified":1466213033,
     "wof:name":"Data Mail 2000 Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.357753,46.222958,7.357753,46.222958],
+  "bbox": [
+    7.357753,
+    46.222958,
+    7.357753,
+    46.222958
+],
   "geometry": {"coordinates":[7.357753,46.222958],"type":"Point"}
 }

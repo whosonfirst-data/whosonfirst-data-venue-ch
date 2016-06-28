@@ -2,13 +2,14 @@
   "id": 185710985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.735608,47.482517,7.735608,47.482517",
     "geom:latitude":47.482517,
     "geom:longitude":7.735608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstrasse 8",
     "sg:city":"Liestal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185710985,
-    "wof:lastmodified":1449006694,
+    "wof:lastmodified":1466211198,
     "wof:name":"G\u00f6tz & Grauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.735608,47.482517,7.735608,47.482517],
+  "bbox": [
+    7.735608,
+    47.482517,
+    7.735608,
+    47.482517
+],
   "geometry": {"coordinates":[7.735608,47.482517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219412263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.422924,47.395889,7.422924,47.395889",
     "geom:latitude":47.395889,
     "geom:longitude":7.422924,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bebrunnenmatten Industriezone",
     "sg:city":"Liesberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219412263,
-    "wof:lastmodified":1449071115,
+    "wof:lastmodified":1466210295,
     "wof:name":"Willy Borer Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.422924,47.395889,7.422924,47.395889],
+  "bbox": [
+    7.422924,
+    47.395889,
+    7.422924,
+    47.395889
+],
   "geometry": {"coordinates":[7.422924,47.395889],"type":"Point"}
 }

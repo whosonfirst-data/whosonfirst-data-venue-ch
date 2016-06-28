@@ -2,13 +2,14 @@
   "id": 219796401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.07412,47.416256,7.07412,47.416256",
     "geom:latitude":47.416256,
     "geom:longitude":7.07412,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Vingt-trois-juin 15",
     "sg:city":"Porrentruy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219796401,
-    "wof:lastmodified":1449072060,
+    "wof:lastmodified":1466212453,
     "wof:name":"Churchill Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.07412,47.416256,7.07412,47.416256],
+  "bbox": [
+    7.07412,
+    47.416256,
+    7.07412,
+    47.416256
+],
   "geometry": {"coordinates":[7.07412,47.416256],"type":"Point"}
 }

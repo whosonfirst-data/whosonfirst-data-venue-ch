@@ -2,13 +2,14 @@
   "id": 252710183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.95279,47.175179,8.95279,47.175179",
     "geom:latitude":47.175179,
     "geom:longitude":8.95279,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Mon-repos 14",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252710183,
-    "wof:lastmodified":1449005476,
+    "wof:lastmodified":1466208951,
     "wof:name":"Winz Edv Beratung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.95279,47.175179,8.95279,47.175179],
+  "bbox": [
+    8.95279,
+    47.175179,
+    8.95279,
+    47.175179
+],
   "geometry": {"coordinates":[8.95279,47.175179],"type":"Point"}
 }

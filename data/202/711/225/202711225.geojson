@@ -2,13 +2,14 @@
   "id": 202711225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.823443,47.240715,7.823443,47.240715",
     "geom:latitude":47.240715,
     "geom:longitude":7.823443,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 13",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202711225,
-    "wof:lastmodified":1449062199,
+    "wof:lastmodified":1466210698,
     "wof:name":"Siegenthaler Martin Dipl. Architekt Eth/sia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.823443,47.240715,7.823443,47.240715],
+  "bbox": [
+    7.823443,
+    47.240715,
+    7.823443,
+    47.240715
+],
   "geometry": {"coordinates":[7.823443,47.240715],"type":"Point"}
 }

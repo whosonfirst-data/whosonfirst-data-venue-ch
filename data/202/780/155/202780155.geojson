@@ -2,13 +2,14 @@
   "id": 202780155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.497926,46.508919,6.497926,46.508919",
     "geom:latitude":46.508919,
     "geom:longitude":6.497926,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Bel-air 6 2350 Saignel\u00e9gier. Postfach",
     "sg:city":"Saignel\u00e9gier",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202780155,
-    "wof:lastmodified":1449062007,
+    "wof:lastmodified":1466211341,
     "wof:name":"Adal Architecture Sa",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.497926,46.508919,6.497926,46.508919],
+  "bbox": [
+    6.497926,
+    46.508919,
+    6.497926,
+    46.508919
+],
   "geometry": {"coordinates":[6.497926,46.508919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219616091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.59064,47.178341,8.59064,47.178341",
     "geom:latitude":47.178341,
     "geom:longitude":8.59064,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenfeldstrasse 76",
     "sg:city":"Meltingen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219616091,
-    "wof:lastmodified":1449072993,
+    "wof:lastmodified":1466211825,
     "wof:name":"Raiffeisenbank Menzingen-neuheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.59064,47.178341,8.59064,47.178341],
+  "bbox": [
+    8.59064,
+    47.178341,
+    8.59064,
+    47.178341
+],
   "geometry": {"coordinates":[8.59064,47.178341],"type":"Point"}
 }

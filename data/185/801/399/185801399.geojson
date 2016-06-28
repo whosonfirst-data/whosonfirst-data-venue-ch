@@ -2,13 +2,14 @@
   "id": 185801399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.434522,46.951561,7.434522,46.951561",
     "geom:latitude":46.951561,
     "geom:longitude":7.434522,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4nggassstrasse 7 3012 Bern. Postfach 7161",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185801399,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1466209126,
     "wof:name":"Luginb\u00fchl, Wernli + Partner Betriebsgesellschaft",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.434522,46.951561,7.434522,46.951561],
+  "bbox": [
+    7.434522,
+    46.951561,
+    7.434522,
+    46.951561
+],
   "geometry": {"coordinates":[7.434522,46.951561],"type":"Point"}
 }

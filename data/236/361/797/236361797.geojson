@@ -2,13 +2,14 @@
   "id": 236361797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.691785,47.520515,7.691785,47.520515",
     "geom:latitude":47.520515,
     "geom:longitude":7.691785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"4133",
     "sg:city":"Pratteln",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236361797,
-    "wof:lastmodified":1449004171,
+    "wof:lastmodified":1466212121,
     "wof:name":"Realschule Erlimatt I",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.691785,47.520515,7.691785,47.520515],
+  "bbox": [
+    7.691785,
+    47.520515,
+    7.691785,
+    47.520515
+],
   "geometry": {"coordinates":[7.691785,47.520515],"type":"Point"}
 }

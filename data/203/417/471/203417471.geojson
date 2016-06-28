@@ -2,13 +2,14 @@
   "id": 203417471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.845176,47.335045,7.845176,47.335045",
     "geom:latitude":47.335045,
     "geom:longitude":7.845176,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00e4ssli 18",
     "sg:city":"H\u00e4gendorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203417471,
-    "wof:lastmodified":1449025697,
+    "wof:lastmodified":1466211673,
     "wof:name":"Dr.med.thomas Helbling Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.845176,47.335045,7.845176,47.335045],
+  "bbox": [
+    7.845176,
+    47.335045,
+    7.845176,
+    47.335045
+],
   "geometry": {"coordinates":[7.845176,47.335045],"type":"Point"}
 }

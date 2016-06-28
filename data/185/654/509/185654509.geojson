@@ -2,13 +2,14 @@
   "id": 185654509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.55643,47.187119,7.55643,47.187119",
     "geom:latitude":47.187119,
     "geom:longitude":7.55643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Solothurnstrasse 65",
     "sg:city":"Biberist",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185654509,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1466210368,
     "wof:name":"Keller Fahnen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "articles"
     ]
 },
-  "bbox": [7.55643,47.187119,7.55643,47.187119],
+  "bbox": [
+    7.55643,
+    47.187119,
+    7.55643,
+    47.187119
+],
   "geometry": {"coordinates":[7.55643,47.187119],"type":"Point"}
 }

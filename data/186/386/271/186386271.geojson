@@ -2,13 +2,14 @@
   "id": 186386271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.158913,47.322166,8.158913,47.322166",
     "geom:latitude":47.322166,
     "geom:longitude":8.158913,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedhofstrasse 236",
     "sg:city":"D\u00fcrren\u00e4sch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186386271,
-    "wof:lastmodified":1449051780,
+    "wof:lastmodified":1466210482,
     "wof:name":"Willi Wirz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.158913,47.322166,8.158913,47.322166],
+  "bbox": [
+    8.158913,
+    47.322166,
+    8.158913,
+    47.322166
+],
   "geometry": {"coordinates":[8.158913,47.322166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202550093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.15339,46.794495,7.15339,46.794495",
     "geom:latitude":46.794495,
     "geom:longitude":7.15339,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De La Fonderie 6",
     "sg:city":"Freiburg",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202550093,
-    "wof:lastmodified":1449061481,
+    "wof:lastmodified":1466209195,
     "wof:name":"I.t.n. Intelligence And Technology Network S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.15339,46.794495,7.15339,46.794495],
+  "bbox": [
+    7.15339,
+    46.794495,
+    7.15339,
+    46.794495
+],
   "geometry": {"coordinates":[7.15339,46.794495],"type":"Point"}
 }

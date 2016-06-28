@@ -2,13 +2,14 @@
   "id": 252911859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.637523,46.516125,6.637523,46.516125",
     "geom:latitude":46.516125,
     "geom:longitude":6.637523,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Juste-olivier 3",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252911859,
-    "wof:lastmodified":1449006338,
+    "wof:lastmodified":1466211129,
     "wof:name":"Spiniello L.",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.637523,46.516125,6.637523,46.516125],
+  "bbox": [
+    6.637523,
+    46.516125,
+    6.637523,
+    46.516125
+],
   "geometry": {"coordinates":[6.637523,46.516125],"type":"Point"}
 }

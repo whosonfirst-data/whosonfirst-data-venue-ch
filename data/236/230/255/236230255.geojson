@@ -2,13 +2,14 @@
   "id": 236230255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.83819,46.497059,9.83819,46.497059",
     "geom:latitude":46.497059,
     "geom:longitude":9.83819,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Grund 3",
     "sg:city":"Embrach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236230255,
-    "wof:lastmodified":1449004222,
+    "wof:lastmodified":1466211143,
     "wof:name":"Open Air On Ice St. Moritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.83819,46.497059,9.83819,46.497059],
+  "bbox": [
+    9.83819,
+    46.497059,
+    9.83819,
+    46.497059
+],
   "geometry": {"coordinates":[9.83819,46.497059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186400949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.847557,47.29792,8.847557,47.29792",
     "geom:latitude":47.29792,
     "geom:longitude":8.847557,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Leimgrubstrasse 8",
     "sg:city":"Hinwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186400949,
-    "wof:lastmodified":1449050503,
+    "wof:lastmodified":1466210607,
     "wof:name":"Baugesch\u00e4ft Kunz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.847557,47.29792,8.847557,47.29792],
+  "bbox": [
+    8.847557,
+    47.29792,
+    8.847557,
+    47.29792
+],
   "geometry": {"coordinates":[8.847557,47.29792],"type":"Point"}
 }

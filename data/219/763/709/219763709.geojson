@@ -2,13 +2,14 @@
   "id": 219763709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.687358,47.255512,8.687358,47.255512",
     "geom:latitude":47.255512,
     "geom:longitude":8.687358,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 141",
     "sg:city":"M\u00e4nnedorf",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219763709,
-    "wof:lastmodified":1449073899,
+    "wof:lastmodified":1466212396,
     "wof:name":"Kuhn Orgelbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "organ"
     ]
 },
-  "bbox": [8.687358,47.255512,8.687358,47.255512],
+  "bbox": [
+    8.687358,
+    47.255512,
+    8.687358,
+    47.255512
+],
   "geometry": {"coordinates":[8.687358,47.255512],"type":"Point"}
 }

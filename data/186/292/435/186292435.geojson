@@ -2,13 +2,14 @@
   "id": 186292435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.237719,47.383156,8.237719,47.383156",
     "geom:latitude":47.383156,
     "geom:longitude":8.237719,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hendschikerstrasse 14",
     "sg:city":"Dottikon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186292435,
-    "wof:lastmodified":1449050472,
+    "wof:lastmodified":1466209780,
     "wof:name":"Karl Gisi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.237719,47.383156,8.237719,47.383156],
+  "bbox": [
+    8.237719,
+    47.383156,
+    8.237719,
+    47.383156
+],
   "geometry": {"coordinates":[8.237719,47.383156],"type":"Point"}
 }

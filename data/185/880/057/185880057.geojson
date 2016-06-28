@@ -2,13 +2,14 @@
   "id": 185880057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.706269,47.183445,7.706269,47.183445",
     "geom:latitude":47.183445,
     "geom:longitude":7.706269,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bettenhausenstrasse 50 3360 Herzogenbuchsee. Postfach 128",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185880057,
-    "wof:lastmodified":1449008224,
+    "wof:lastmodified":1466209713,
     "wof:name":"Hh Management Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.706269,47.183445,7.706269,47.183445],
+  "bbox": [
+    7.706269,
+    47.183445,
+    7.706269,
+    47.183445
+],
   "geometry": {"coordinates":[7.706269,47.183445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219769755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544276,47.371269,8.544276,47.371269",
     "geom:latitude":47.371269,
     "geom:longitude":8.544276,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcnstergasse 20",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219769755,
-    "wof:lastmodified":1449071566,
+    "wof:lastmodified":1466212405,
     "wof:name":"Bar Andorra",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544276,47.371269,8.544276,47.371269],
+  "bbox": [
+    8.544276,
+    47.371269,
+    8.544276,
+    47.371269
+],
   "geometry": {"coordinates":[8.544276,47.371269],"type":"Point"}
 }

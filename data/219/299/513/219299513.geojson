@@ -2,13 +2,14 @@
   "id": 219299513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.93759,45.929363,8.93759,45.929363",
     "geom:latitude":45.929363,
     "geom:longitude":8.93759,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ballonstrasse 20",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219299513,
-    "wof:lastmodified":1449071293,
+    "wof:lastmodified":1466209238,
     "wof:name":"Mario Raimondi Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.93759,45.929363,8.93759,45.929363],
+  "bbox": [
+    8.93759,
+    45.929363,
+    8.93759,
+    45.929363
+],
   "geometry": {"coordinates":[8.93759,45.929363],"type":"Point"}
 }

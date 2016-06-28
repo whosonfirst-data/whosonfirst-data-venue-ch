@@ -2,13 +2,14 @@
   "id": 203326097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.650716,47.019539,8.650716,47.019539",
     "geom:latitude":47.019539,
     "geom:longitude":8.650716,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steistegstrasse 13",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203326097,
-    "wof:lastmodified":1449025734,
+    "wof:lastmodified":1466210793,
     "wof:name":"Dr.med.gregor Lacher Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.650716,47.019539,8.650716,47.019539],
+  "bbox": [
+    8.650716,
+    47.019539,
+    8.650716,
+    47.019539
+],
   "geometry": {"coordinates":[8.650716,47.019539],"type":"Point"}
 }

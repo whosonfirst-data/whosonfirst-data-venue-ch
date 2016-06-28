@@ -2,13 +2,14 @@
   "id": 169803123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.187698,47.47776,9.187698,47.47776",
     "geom:latitude":47.47776,
     "geom:longitude":9.187698,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fcli 9527 Niederhelfenschwil. Postfach",
     "sg:city":"Niederhelfenschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169803123,
-    "wof:lastmodified":1449036006,
+    "wof:lastmodified":1466209093,
     "wof:name":"Jung Peter Gmbh Baggerarbeiten Im Hoch- U. Tiefbau Usw.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.187698,47.47776,9.187698,47.47776],
+  "bbox": [
+    9.187698,
+    47.47776,
+    9.187698,
+    47.47776
+],
   "geometry": {"coordinates":[9.187698,47.47776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253358453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.501913,47.374443,8.501913,47.374443",
     "geom:latitude":47.374443,
     "geom:longitude":8.501913,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gutstrasse 173",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253358453,
-    "wof:lastmodified":1449064068,
+    "wof:lastmodified":1466212015,
     "wof:name":"Kiosk Kedhim",
     "wof:parent_id":85800579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.501913,47.374443,8.501913,47.374443],
+  "bbox": [
+    8.501913,
+    47.374443,
+    8.501913,
+    47.374443
+],
   "geometry": {"coordinates":[8.501913,47.374443],"type":"Point"}
 }

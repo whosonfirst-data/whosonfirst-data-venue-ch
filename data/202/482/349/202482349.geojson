@@ -2,13 +2,14 @@
   "id": 202482349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.277551,47.140175,7.277551,47.140175",
     "geom:latitude":47.140175,
     "geom:longitude":7.277551,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Scholl Rue 35 2504 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202482349,
-    "wof:lastmodified":1449061005,
+    "wof:lastmodified":1466211230,
     "wof:name":"Emmer Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.277551,47.140175,7.277551,47.140175],
+  "bbox": [
+    7.277551,
+    47.140175,
+    7.277551,
+    47.140175
+],
   "geometry": {"coordinates":[7.277551,47.140175],"type":"Point"}
 }

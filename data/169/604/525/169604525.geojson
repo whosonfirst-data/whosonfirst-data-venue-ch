@@ -2,13 +2,14 @@
   "id": 169604525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.440002,46.976944,7.440002,46.976944",
     "geom:latitude":46.976944,
     "geom:longitude":7.440002,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Bremgarten",
     "sg:classifiers":[],
     "sg:orig_category":"Internet, Webseiten U -systeme",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169604525,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466209090,
     "wof:name":"Multimedia Hausammann",
     "wof:parent_id":85800471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.440002,46.976944,7.440002,46.976944],
+  "bbox": [
+    7.440002,
+    46.976944,
+    7.440002,
+    46.976944
+],
   "geometry": {"coordinates":[7.440002,46.976944],"type":"Point"}
 }

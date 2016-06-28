@@ -2,13 +2,14 @@
   "id": 186407017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72006,47.249222,8.72006,47.249222",
     "geom:latitude":47.249222,
     "geom:longitude":8.72006,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allenbergstrasse 60",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186407017,
-    "wof:lastmodified":1449051868,
+    "wof:lastmodified":1466210653,
     "wof:name":"Hess Valentin Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72006,47.249222,8.72006,47.249222],
+  "bbox": [
+    8.72006,
+    47.249222,
+    8.72006,
+    47.249222
+],
   "geometry": {"coordinates":[8.72006,47.249222],"type":"Point"}
 }

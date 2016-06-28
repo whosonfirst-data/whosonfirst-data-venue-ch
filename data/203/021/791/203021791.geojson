@@ -2,13 +2,14 @@
   "id": 203021791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.686386,46.503193,6.686386,46.503193",
     "geom:latitude":46.503193,
     "geom:longitude":6.686386,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Bourg 19bis",
     "sg:city":"Lutry",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203021791,
-    "wof:lastmodified":1449026157,
+    "wof:lastmodified":1466209633,
     "wof:name":"Jean-roan Muller Bureau D'architecture",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.686386,46.503193,6.686386,46.503193],
+  "bbox": [
+    6.686386,
+    46.503193,
+    6.686386,
+    46.503193
+],
   "geometry": {"coordinates":[6.686386,46.503193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252887353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.443317,46.949116,7.443317,46.949116",
     "geom:latitude":46.949116,
     "geom:longitude":7.443317,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuengass-passage 3",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252887353,
-    "wof:lastmodified":1449006286,
+    "wof:lastmodified":1466210848,
     "wof:name":"Boutique Natalia Karl Amereller",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.443317,46.949116,7.443317,46.949116],
+  "bbox": [
+    7.443317,
+    46.949116,
+    7.443317,
+    46.949116
+],
   "geometry": {"coordinates":[7.443317,46.949116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169796647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.394378,47.417671,8.394378,47.417671",
     "geom:latitude":47.417671,
     "geom:longitude":8.394378,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Silbernstrasse 16",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169796647,
-    "wof:lastmodified":1449034234,
+    "wof:lastmodified":1466209048,
     "wof:name":"Wilfried Brunner Autoabbruch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.394378,47.417671,8.394378,47.417671],
+  "bbox": [
+    8.394378,
+    47.417671,
+    8.394378,
+    47.417671
+],
   "geometry": {"coordinates":[8.394378,47.417671],"type":"Point"}
 }

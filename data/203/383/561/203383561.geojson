@@ -2,13 +2,14 @@
   "id": 203383561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.573986,47.695744,8.573986,47.695744",
     "geom:latitude":47.695744,
     "geom:longitude":8.573986,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zelgstrasse 11 8222 Beringen. Postfach",
     "sg:city":"Beringen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203383561,
-    "wof:lastmodified":1449025731,
+    "wof:lastmodified":1466211361,
     "wof:name":"Dr.med.peter Bosshard Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.573986,47.695744,8.573986,47.695744],
+  "bbox": [
+    8.573986,
+    47.695744,
+    8.573986,
+    47.695744
+],
   "geometry": {"coordinates":[8.573986,47.695744],"type":"Point"}
 }

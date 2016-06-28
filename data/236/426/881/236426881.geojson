@@ -2,13 +2,14 @@
   "id": 236426881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.465655,47.474255,9.465655,47.474255",
     "geom:latitude":47.474255,
     "geom:longitude":9.465655,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"9403",
     "sg:city":"Goldach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236426881,
-    "wof:lastmodified":1449002205,
+    "wof:lastmodified":1466212347,
     "wof:name":"Freihandbibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "archive"
     ]
 },
-  "bbox": [9.465655,47.474255,9.465655,47.474255],
+  "bbox": [
+    9.465655,
+    47.474255,
+    9.465655,
+    47.474255
+],
   "geometry": {"coordinates":[9.465655,47.474255],"type":"Point"}
 }

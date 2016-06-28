@@ -2,13 +2,14 @@
   "id": 186409279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.858686,47.500286,8.858686,47.500286",
     "geom:latitude":47.500286,
     "geom:longitude":8.858686,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stutzstrasse 25",
     "sg:city":"Elgg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186409279,
-    "wof:lastmodified":1449051479,
+    "wof:lastmodified":1466210670,
     "wof:name":"Lang Bauunternehmung Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.858686,47.500286,8.858686,47.500286],
+  "bbox": [
+    8.858686,
+    47.500286,
+    8.858686,
+    47.500286
+],
   "geometry": {"coordinates":[8.858686,47.500286],"type":"Point"}
 }

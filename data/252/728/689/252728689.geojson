@@ -2,13 +2,14 @@
   "id": 252728689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.15429,47.609413,9.15429,47.609413",
     "geom:latitude":47.609413,
     "geom:longitude":9.15429,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"8573 Alterswilen. Postfach",
     "sg:city":"Siegershausen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252728689,
-    "wof:lastmodified":1449005676,
+    "wof:lastmodified":1466209125,
     "wof:name":"Robustplant Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.15429,47.609413,9.15429,47.609413],
+  "bbox": [
+    9.15429,
+    47.609413,
+    9.15429,
+    47.609413
+],
   "geometry": {"coordinates":[9.15429,47.609413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220010615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55357,47.042049,8.55357,47.042049",
     "geom:latitude":47.042049,
     "geom:longitude":8.55357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gotthardstrasse 87",
     "sg:city":"Goldau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220010615,
-    "wof:lastmodified":1449074539,
+    "wof:lastmodified":1466208972,
     "wof:name":"Franz Lipp Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55357,47.042049,8.55357,47.042049],
+  "bbox": [
+    8.55357,
+    47.042049,
+    8.55357,
+    47.042049
+],
   "geometry": {"coordinates":[8.55357,47.042049],"type":"Point"}
 }

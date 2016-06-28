@@ -2,13 +2,14 @@
   "id": 203370671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.362733,47.413467,9.362733,47.413467",
     "geom:latitude":47.413467,
     "geom:longitude":9.362733,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 16",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203370671,
-    "wof:lastmodified":1449025978,
+    "wof:lastmodified":1466211237,
     "wof:name":"Dr.med.marcel Augstburger Arzt F\u00fcr Allg.medizin Fmh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.362733,47.413467,9.362733,47.413467],
+  "bbox": [
+    9.362733,
+    47.413467,
+    9.362733,
+    47.413467
+],
   "geometry": {"coordinates":[9.362733,47.413467],"type":"Point"}
 }

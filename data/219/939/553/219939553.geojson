@@ -2,13 +2,14 @@
   "id": 219939553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.528683,47.229683,7.528683,47.229683",
     "geom:latitude":47.229683,
     "geom:longitude":7.528683,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 29",
     "sg:city":"R\u00fcttenen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219939553,
-    "wof:lastmodified":1449071438,
+    "wof:lastmodified":1466212625,
     "wof:name":"Ruetsch Harry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.528683,47.229683,7.528683,47.229683],
+  "bbox": [
+    7.528683,
+    47.229683,
+    7.528683,
+    47.229683
+],
   "geometry": {"coordinates":[7.528683,47.229683],"type":"Point"}
 }

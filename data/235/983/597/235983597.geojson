@@ -2,13 +2,14 @@
   "id": 235983597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.694729,47.143734,7.694729,47.143734",
     "geom:latitude":47.143734,
     "geom:longitude":7.694729,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hopferenstrasse 2",
     "sg:city":"Riedtwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235983597,
-    "wof:lastmodified":1449008591,
+    "wof:lastmodified":1466209369,
     "wof:name":"Hiltbrunner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.694729,47.143734,7.694729,47.143734],
+  "bbox": [
+    7.694729,
+    47.143734,
+    7.694729,
+    47.143734
+],
   "geometry": {"coordinates":[7.694729,47.143734],"type":"Point"}
 }

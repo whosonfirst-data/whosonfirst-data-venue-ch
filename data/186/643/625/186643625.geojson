@@ -2,13 +2,14 @@
   "id": 186643625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.623179,46.757122,7.623179,46.757122",
     "geom:latitude":46.757122,
     "geom:longitude":7.623179,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mittlere Strasse 12 3600 Thun. Postfach",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186643625,
-    "wof:lastmodified":1449052665,
+    "wof:lastmodified":1466212287,
     "wof:name":"Architekturb\u00fcro Felber",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.623179,46.757122,7.623179,46.757122],
+  "bbox": [
+    7.623179,
+    46.757122,
+    7.623179,
+    46.757122
+],
   "geometry": {"coordinates":[7.623179,46.757122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203378485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.42028,46.973564,8.42028,46.973564",
     "geom:latitude":46.973564,
     "geom:longitude":8.42028,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haus Am Dorfpark 6374 Buochs. Postfach 364",
     "sg:city":"Buochs",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203378485,
-    "wof:lastmodified":1449026254,
+    "wof:lastmodified":1466211312,
     "wof:name":"Dr.med.markus-adolf Risi Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.42028,46.973564,8.42028,46.973564],
+  "bbox": [
+    8.42028,
+    46.973564,
+    8.42028,
+    46.973564
+],
   "geometry": {"coordinates":[8.42028,46.973564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186324873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.168054,47.160477,8.168054,47.160477",
     "geom:latitude":47.160477,
     "geom:longitude":8.168054,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ibrigweidstrasse 9 6205 Eich. Postfach",
     "sg:city":"Eich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186324873,
-    "wof:lastmodified":1449051938,
+    "wof:lastmodified":1466210014,
     "wof:name":"Osmoplan Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.168054,47.160477,8.168054,47.160477],
+  "bbox": [
+    8.168054,
+    47.160477,
+    8.168054,
+    47.160477
+],
   "geometry": {"coordinates":[8.168054,47.160477],"type":"Point"}
 }

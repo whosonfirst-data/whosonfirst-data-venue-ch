@@ -2,13 +2,14 @@
   "id": 185750827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308102,47.049385,8.308102,47.049385",
     "geom:latitude":47.049385,
     "geom:longitude":8.308102,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Morgartenstrasse 3",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185750827,
-    "wof:lastmodified":1449007590,
+    "wof:lastmodified":1466211500,
     "wof:name":"Allemann & Studer Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.308102,47.049385,8.308102,47.049385],
+  "bbox": [
+    8.308102,
+    47.049385,
+    8.308102,
+    47.049385
+],
   "geometry": {"coordinates":[8.308102,47.049385],"type":"Point"}
 }

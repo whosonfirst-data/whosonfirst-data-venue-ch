@@ -2,13 +2,14 @@
   "id": 169628343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.544896,47.367989,8.544896,47.367989",
     "geom:latitude":47.367989,
     "geom:longitude":8.544896,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Limmatquai 4",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169628343,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466209748,
     "wof:name":"Banque Nationale, De Paris (suisse) Sa",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.544896,47.367989,8.544896,47.367989],
+  "bbox": [
+    8.544896,
+    47.367989,
+    8.544896,
+    47.367989
+],
   "geometry": {"coordinates":[8.544896,47.367989],"type":"Point"}
 }

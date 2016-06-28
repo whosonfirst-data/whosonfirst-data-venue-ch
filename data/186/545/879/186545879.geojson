@@ -2,13 +2,14 @@
   "id": 186545879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.42345,47.392433,8.42345,47.392433",
     "geom:latitude":47.392433,
     "geom:longitude":8.42345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Hackacker 11",
     "sg:city":"Urdorf",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186545879,
-    "wof:lastmodified":1449051039,
+    "wof:lastmodified":1466211852,
     "wof:name":"Deckisol Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "panel"
     ]
 },
-  "bbox": [8.42345,47.392433,8.42345,47.392433],
+  "bbox": [
+    8.42345,
+    47.392433,
+    8.42345,
+    47.392433
+],
   "geometry": {"coordinates":[8.42345,47.392433],"type":"Point"}
 }

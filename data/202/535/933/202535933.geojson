@@ -2,13 +2,14 @@
   "id": 202535933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.531555,46.853073,9.531555,46.853073",
     "geom:latitude":46.853073,
     "geom:longitude":9.531555,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexanderstrasse 16",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202535933,
-    "wof:lastmodified":1449060563,
+    "wof:lastmodified":1466209057,
     "wof:name":"Heer A. Dipl. Ing. Eth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.531555,46.853073,9.531555,46.853073],
+  "bbox": [
+    9.531555,
+    46.853073,
+    9.531555,
+    46.853073
+],
   "geometry": {"coordinates":[9.531555,46.853073],"type":"Point"}
 }

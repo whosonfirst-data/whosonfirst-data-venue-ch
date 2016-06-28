@@ -2,13 +2,14 @@
   "id": 203264945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65118,46.59203,7.65118,46.59203",
     "geom:latitude":46.59203,
     "geom:longitude":7.65118,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ischlagweg 2",
     "sg:city":"Frutigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203264945,
-    "wof:lastmodified":1449026208,
+    "wof:lastmodified":1466210175,
     "wof:name":"Dr.med. Walter Alfred Zumofen Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65118,46.59203,7.65118,46.59203],
+  "bbox": [
+    7.65118,
+    46.59203,
+    7.65118,
+    46.59203
+],
   "geometry": {"coordinates":[7.65118,46.59203],"type":"Point"}
 }

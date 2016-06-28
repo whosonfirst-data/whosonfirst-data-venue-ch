@@ -2,13 +2,14 @@
   "id": 252795973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.148182,46.200382,6.148182,46.200382",
     "geom:latitude":46.200382,
     "geom:longitude":6.148182,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L'h\u00f4tel-de-ville 9",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252795973,
-    "wof:lastmodified":1449006071,
+    "wof:lastmodified":1466209861,
     "wof:name":"Galerie Khnoum",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.148182,46.200382,6.148182,46.200382],
+  "bbox": [
+    6.148182,
+    46.200382,
+    6.148182,
+    46.200382
+],
   "geometry": {"coordinates":[6.148182,46.200382],"type":"Point"}
 }

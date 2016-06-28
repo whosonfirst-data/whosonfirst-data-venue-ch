@@ -2,13 +2,14 @@
   "id": 236616123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.086751,47.061211,7.086751,47.061211",
     "geom:latitude":47.061211,
     "geom:longitude":7.086751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"3780",
     "sg:city":"Gstaad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236616123,
-    "wof:lastmodified":1449004188,
+    "wof:lastmodified":1466212700,
     "wof:name":"Camping Bellerive Famille Jakob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.086751,47.061211,7.086751,47.061211],
+  "bbox": [
+    7.086751,
+    47.061211,
+    7.086751,
+    47.061211
+],
   "geometry": {"coordinates":[7.086751,47.061211],"type":"Point"}
 }

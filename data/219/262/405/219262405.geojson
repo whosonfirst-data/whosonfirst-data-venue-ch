@@ -2,13 +2,14 @@
   "id": 219262405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.600298,46.580791,6.600298,46.580791",
     "geom:latitude":46.580791,
     "geom:longitude":6.600298,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Mon Repos 19",
     "sg:city":"Cheseaux-lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219262405,
-    "wof:lastmodified":1449072583,
+    "wof:lastmodified":1466208907,
     "wof:name":"Claude Magnenat Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.600298,46.580791,6.600298,46.580791],
+  "bbox": [
+    6.600298,
+    46.580791,
+    6.600298,
+    46.580791
+],
   "geometry": {"coordinates":[6.600298,46.580791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220160915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.78206,47.224503,7.78206,47.224503",
     "geom:latitude":47.224503,
     "geom:longitude":7.78206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gaswerkstrasse 17",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220160915,
-    "wof:lastmodified":1449074738,
+    "wof:lastmodified":1466210253,
     "wof:name":"Zurbuchen Ueli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.78206,47.224503,7.78206,47.224503],
+  "bbox": [
+    7.78206,
+    47.224503,
+    7.78206,
+    47.224503
+],
   "geometry": {"coordinates":[7.78206,47.224503],"type":"Point"}
 }

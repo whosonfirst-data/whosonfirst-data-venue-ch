@@ -2,13 +2,14 @@
   "id": 236922211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.652013,47.385784,8.652013,47.385784",
     "geom:latitude":47.385784,
     "geom:longitude":8.652013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenbergstrasse 53",
     "sg:city":"Schwerzenbach",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236922211,
-    "wof:lastmodified":1449001897,
+    "wof:lastmodified":1466212900,
     "wof:name":"Swissbyte Gmbh",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.652013,47.385784,8.652013,47.385784],
+  "bbox": [
+    8.652013,
+    47.385784,
+    8.652013,
+    47.385784
+],
   "geometry": {"coordinates":[8.652013,47.385784],"type":"Point"}
 }

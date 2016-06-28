@@ -2,13 +2,14 @@
   "id": 253400487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.682785,47.261711,8.682785,47.261711",
     "geom:latitude":47.261711,
     "geom:longitude":8.682785,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haselhalden 35b",
     "sg:city":"Saland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253400487,
-    "wof:lastmodified":1449063094,
+    "wof:lastmodified":1466212169,
     "wof:name":"Markus Hertig Projects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.682785,47.261711,8.682785,47.261711],
+  "bbox": [
+    8.682785,
+    47.261711,
+    8.682785,
+    47.261711
+],
   "geometry": {"coordinates":[8.682785,47.261711],"type":"Point"}
 }

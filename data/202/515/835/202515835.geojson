@@ -2,13 +2,14 @@
   "id": 202515835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.590987,47.307758,8.590987,47.307758",
     "geom:latitude":47.307758,
     "geom:longitude":8.590987,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6523",
     "sg:city":"Preonzo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202515835,
-    "wof:lastmodified":1449060694,
+    "wof:lastmodified":1466211600,
     "wof:name":"Gianesi & Briner Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.590987,47.307758,8.590987,47.307758],
+  "bbox": [
+    8.590987,
+    47.307758,
+    8.590987,
+    47.307758
+],
   "geometry": {"coordinates":[8.590987,47.307758],"type":"Point"}
 }

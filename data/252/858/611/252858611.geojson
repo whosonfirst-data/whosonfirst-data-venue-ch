@@ -2,13 +2,14 @@
   "id": 252858611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.164905,46.746414,7.164905,46.746414",
     "geom:latitude":46.746414,
     "geom:longitude":7.164905,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptbahnhofstrasse 7 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252858611,
-    "wof:lastmodified":1449005525,
+    "wof:lastmodified":1466210547,
     "wof:name":"Perrottet Claudine",
     "wof:parent_id":85862391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.164905,46.746414,7.164905,46.746414],
+  "bbox": [
+    7.164905,
+    46.746414,
+    7.164905,
+    46.746414
+],
   "geometry": {"coordinates":[7.164905,46.746414],"type":"Point"}
 }

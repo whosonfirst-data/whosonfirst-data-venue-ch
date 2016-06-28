@@ -2,13 +2,14 @@
   "id": 236663087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.16313,46.805916,7.16313,46.805916",
     "geom:latitude":46.805916,
     "geom:longitude":7.16313,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Pont-suspendu 8",
     "sg:city":"Fribourg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236663087,
-    "wof:lastmodified":1449004194,
+    "wof:lastmodified":1466212838,
     "wof:name":"Party-service Werner Zosso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [7.16313,46.805916,7.16313,46.805916],
+  "bbox": [
+    7.16313,
+    46.805916,
+    7.16313,
+    46.805916
+],
   "geometry": {"coordinates":[7.16313,46.805916],"type":"Point"}
 }

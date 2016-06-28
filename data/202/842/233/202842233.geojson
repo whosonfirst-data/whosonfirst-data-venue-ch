@@ -2,13 +2,14 @@
   "id": 202842233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.590469,47.133533,8.590469,47.133533",
     "geom:latitude":47.133533,
     "geom:longitude":8.590469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seehofmatt 32",
     "sg:city":"Unter\u00e4geri",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202842233,
-    "wof:lastmodified":1449060300,
+    "wof:lastmodified":1466211735,
     "wof:name":"Luigi Laffranchi Architektur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.590469,47.133533,8.590469,47.133533],
+  "bbox": [
+    8.590469,
+    47.133533,
+    8.590469,
+    47.133533
+],
   "geometry": {"coordinates":[8.590469,47.133533],"type":"Point"}
 }

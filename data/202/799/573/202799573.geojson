@@ -2,13 +2,14 @@
   "id": 202799573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.060301,46.620998,7.060301,46.620998",
     "geom:latitude":46.620998,
     "geom:longitude":7.060301,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Eug\u00e8ne-marziano 22 1227 Les Acacias Case Postale 130",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202799573,
-    "wof:lastmodified":1449062658,
+    "wof:lastmodified":1466211515,
     "wof:name":"Atelier D'architecture A3 Maillard - Francey - Grandjean Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.060301,46.620998,7.060301,46.620998],
+  "bbox": [
+    7.060301,
+    46.620998,
+    7.060301,
+    46.620998
+],
   "geometry": {"coordinates":[7.060301,46.620998],"type":"Point"}
 }

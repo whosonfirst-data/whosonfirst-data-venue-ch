@@ -2,13 +2,14 @@
   "id": 202870367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.685057,46.502796,6.685057,46.502796",
     "geom:latitude":46.502796,
     "geom:longitude":6.685057,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L'horloge 3 1095 Ch\u00e2telard-lutry Case Postale 55",
     "sg:city":"Ch\u00e2telard-lutry",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202870367,
-    "wof:lastmodified":1449060782,
+    "wof:lastmodified":1466211892,
     "wof:name":"Virus Architecture S\u00e0rl",
     "wof:parent_id":85800401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.685057,46.502796,6.685057,46.502796],
+  "bbox": [
+    6.685057,
+    46.502796,
+    6.685057,
+    46.502796
+],
   "geometry": {"coordinates":[6.685057,46.502796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219217523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.850573,46.17569,8.850573,46.17569",
     "geom:latitude":46.17569,
     "geom:longitude":8.850573,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Sole 1",
     "sg:city":"Tenero",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219217523,
-    "wof:lastmodified":1449073696,
+    "wof:lastmodified":1466211151,
     "wof:name":"Verbano Lift Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.850573,46.17569,8.850573,46.17569],
+  "bbox": [
+    8.850573,
+    46.17569,
+    8.850573,
+    46.17569
+],
   "geometry": {"coordinates":[8.850573,46.17569],"type":"Point"}
 }

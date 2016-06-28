@@ -2,13 +2,14 @@
   "id": 219941007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52531,47.452961,8.52531,47.452961",
     "geom:latitude":47.452961,
     "geom:longitude":8.52531,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fluestrasse 53",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219941007,
-    "wof:lastmodified":1449072496,
+    "wof:lastmodified":1466212791,
     "wof:name":"Claude Minnig Bauunternehmung",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52531,47.452961,8.52531,47.452961],
+  "bbox": [
+    8.52531,
+    47.452961,
+    8.52531,
+    47.452961
+],
   "geometry": {"coordinates":[8.52531,47.452961],"type":"Point"}
 }

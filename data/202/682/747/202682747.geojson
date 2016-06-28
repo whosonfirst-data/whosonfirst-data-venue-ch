@@ -2,13 +2,14 @@
   "id": 202682747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146403,46.203163,6.146403,46.203163",
     "geom:latitude":46.203163,
     "geom:longitude":6.146403,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"March\u00e9 Rue Du 18 1204 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202682747,
-    "wof:lastmodified":1449060540,
+    "wof:lastmodified":1466210431,
     "wof:name":"Revim Sa Entrepr. G\u00e9n\u00e9rale Du B\u00e2timent",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146403,46.203163,6.146403,46.203163],
+  "bbox": [
+    6.146403,
+    46.203163,
+    6.146403,
+    46.203163
+],
   "geometry": {"coordinates":[6.146403,46.203163],"type":"Point"}
 }

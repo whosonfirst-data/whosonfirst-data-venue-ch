@@ -2,13 +2,14 @@
   "id": 202658457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.639445,46.521,6.639445,46.521",
     "geom:latitude":46.521,
     "geom:longitude":6.639445,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Marterey 52 1000 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202658457,
-    "wof:lastmodified":1449060054,
+    "wof:lastmodified":1466210203,
     "wof:name":"Personeni Raffaele Sch\u00c4rer S\u00e0rl",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.639445,46.521,6.639445,46.521],
+  "bbox": [
+    6.639445,
+    46.521,
+    6.639445,
+    46.521
+],
   "geometry": {"coordinates":[6.639445,46.521],"type":"Point"}
 }

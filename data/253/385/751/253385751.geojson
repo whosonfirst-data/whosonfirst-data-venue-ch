@@ -2,13 +2,14 @@
   "id": 253385751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.383232,47.427151,9.383232,47.427151",
     "geom:latitude":47.427151,
     "geom:longitude":9.383232,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rorschacher Strasse 53",
     "sg:city":"St.gallen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253385751,
-    "wof:lastmodified":1449064571,
+    "wof:lastmodified":1466212225,
     "wof:name":"Fankhauser B\u00fcromaschinen-service",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.383232,47.427151,9.383232,47.427151],
+  "bbox": [
+    9.383232,
+    47.427151,
+    9.383232,
+    47.427151
+],
   "geometry": {"coordinates":[9.383232,47.427151],"type":"Point"}
 }

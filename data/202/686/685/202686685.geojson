@@ -2,13 +2,14 @@
   "id": 202686685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.137376,46.18465,6.137376,46.18465",
     "geom:latitude":46.18465,
     "geom:longitude":6.137376,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ecluse Rue De L' 32",
     "sg:city":"Neuenburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202686685,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466210465,
     "wof:name":"Robert Haldi Bureau Technique",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.137376,46.18465,6.137376,46.18465],
+  "bbox": [
+    6.137376,
+    46.18465,
+    6.137376,
+    46.18465
+],
   "geometry": {"coordinates":[6.137376,46.18465],"type":"Point"}
 }

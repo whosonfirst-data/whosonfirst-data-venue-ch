@@ -2,13 +2,14 @@
   "id": 185769911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.300657,47.051365,8.300657,47.051365",
     "geom:latitude":47.051365,
     "geom:longitude":8.300657,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Elisabethenanlage 11 4051 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185769911,
-    "wof:lastmodified":1449007131,
+    "wof:lastmodified":1466211628,
     "wof:name":"Fellmann Von Moos & Wildisen Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.300657,47.051365,8.300657,47.051365],
+  "bbox": [
+    8.300657,
+    47.051365,
+    8.300657,
+    47.051365
+],
   "geometry": {"coordinates":[8.300657,47.051365],"type":"Point"}
 }

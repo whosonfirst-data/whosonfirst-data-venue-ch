@@ -2,13 +2,14 @@
   "id": 235969037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.716994,47.347256,8.716994,47.347256",
     "geom:latitude":47.347256,
     "geom:longitude":8.716994,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerbestrasse 2",
     "sg:city":"Uster",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235969037,
-    "wof:lastmodified":1449008338,
+    "wof:lastmodified":1466209231,
     "wof:name":"Peter Ebinger Schreinerei & Innenausbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.716994,47.347256,8.716994,47.347256],
+  "bbox": [
+    8.716994,
+    47.347256,
+    8.716994,
+    47.347256
+],
   "geometry": {"coordinates":[8.716994,47.347256],"type":"Point"}
 }

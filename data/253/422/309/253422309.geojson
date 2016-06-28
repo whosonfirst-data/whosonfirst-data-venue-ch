@@ -2,13 +2,14 @@
   "id": 253422309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.453563,46.948029,7.453563,46.948029",
     "geom:latitude":46.948029,
     "geom:longitude":7.453563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gerechtigkeitsgasse 49",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253422309,
-    "wof:lastmodified":1449063026,
+    "wof:lastmodified":1466212469,
     "wof:name":"Couture & Styling Marianne Milani",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.453563,46.948029,7.453563,46.948029],
+  "bbox": [
+    7.453563,
+    46.948029,
+    7.453563,
+    46.948029
+],
   "geometry": {"coordinates":[7.453563,46.948029],"type":"Point"}
 }

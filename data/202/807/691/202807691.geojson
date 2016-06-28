@@ -2,13 +2,14 @@
   "id": 202807691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.307179,47.049194,8.307179,47.049194",
     "geom:latitude":47.049194,
     "geom:longitude":8.307179,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hintergasse 4 8180 B\u00fclach. Postfach",
     "sg:city":"B\u00fclach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202807691,
-    "wof:lastmodified":1449060763,
+    "wof:lastmodified":1466211590,
     "wof:name":"Bohraus Planung Und Architektur Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.307179,47.049194,8.307179,47.049194],
+  "bbox": [
+    8.307179,
+    47.049194,
+    8.307179,
+    47.049194
+],
   "geometry": {"coordinates":[8.307179,47.049194],"type":"Point"}
 }

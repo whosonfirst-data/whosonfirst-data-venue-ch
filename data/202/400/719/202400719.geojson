@@ -2,13 +2,14 @@
   "id": 202400719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.168331,47.397842,8.168331,47.397842",
     "geom:latitude":47.397842,
     "geom:longitude":8.168331,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seetalweg 11 5702 Niederlenz. Postfach",
     "sg:city":"Niederlenz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202400719,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1466209742,
     "wof:name":"Baumann Kurt Baumanagement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.168331,47.397842,8.168331,47.397842],
+  "bbox": [
+    8.168331,
+    47.397842,
+    8.168331,
+    47.397842
+],
   "geometry": {"coordinates":[8.168331,47.397842],"type":"Point"}
 }

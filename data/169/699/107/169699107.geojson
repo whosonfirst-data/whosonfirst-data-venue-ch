@@ -2,13 +2,14 @@
   "id": 169699107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.192327,46.852127,7.192327,46.852127",
     "geom:latitude":46.852127,
     "geom:longitude":7.192327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstr. 35",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169699107,
-    "wof:lastmodified":1449033137,
+    "wof:lastmodified":1466210915,
     "wof:name":"Leichtmetall-giesserei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "metalworking"
     ]
 },
-  "bbox": [7.192327,46.852127,7.192327,46.852127],
+  "bbox": [
+    7.192327,
+    46.852127,
+    7.192327,
+    46.852127
+],
   "geometry": {"coordinates":[7.192327,46.852127],"type":"Point"}
 }

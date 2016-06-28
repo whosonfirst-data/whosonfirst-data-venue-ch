@@ -2,13 +2,14 @@
   "id": 169627075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.748319,46.949497,7.748319,46.949497",
     "geom:latitude":46.949497,
     "geom:longitude":7.748319,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Emmenmatt",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169627075,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466211645,
     "wof:name":"Bank In Langnau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.748319,46.949497,7.748319,46.949497],
+  "bbox": [
+    7.748319,
+    46.949497,
+    7.748319,
+    46.949497
+],
   "geometry": {"coordinates":[7.748319,46.949497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202613739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.766776,47.371185,8.766776,47.371185",
     "geom:latitude":47.371185,
     "geom:longitude":8.766776,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jardins Rue Des 12 1018 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202613739,
-    "wof:lastmodified":1449061304,
+    "wof:lastmodified":1466211650,
     "wof:name":"Loeliger-engineering Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.766776,47.371185,8.766776,47.371185],
+  "bbox": [
+    8.766776,
+    47.371185,
+    8.766776,
+    47.371185
+],
   "geometry": {"coordinates":[8.766776,47.371185],"type":"Point"}
 }

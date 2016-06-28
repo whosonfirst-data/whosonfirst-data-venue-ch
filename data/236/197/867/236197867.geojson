@@ -2,13 +2,14 @@
   "id": 236197867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.75045,47.39782,7.75045,47.39782",
     "geom:latitude":47.39782,
     "geom:longitude":7.75045,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grittweg 9",
     "sg:city":"Niederdorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236197867,
-    "wof:lastmodified":1449004747,
+    "wof:lastmodified":1466210790,
     "wof:name":"Bestattungsinstitut Gerster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.75045,47.39782,7.75045,47.39782],
+  "bbox": [
+    7.75045,
+    47.39782,
+    7.75045,
+    47.39782
+],
   "geometry": {"coordinates":[7.75045,47.39782],"type":"Point"}
 }

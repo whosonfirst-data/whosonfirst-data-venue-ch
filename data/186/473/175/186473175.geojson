@@ -2,13 +2,14 @@
   "id": 186473175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.649298,47.021427,8.649298,47.021427",
     "geom:latitude":47.021427,
     "geom:longitude":8.649298,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 15 6430 Schwyz. Postfach 53",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186473175,
-    "wof:lastmodified":1449050966,
+    "wof:lastmodified":1466211200,
     "wof:name":"Ausgleichskasse Des Kantons Schwyz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.649298,47.021427,8.649298,47.021427],
+  "bbox": [
+    8.649298,
+    47.021427,
+    8.649298,
+    47.021427
+],
   "geometry": {"coordinates":[8.649298,47.021427],"type":"Point"}
 }

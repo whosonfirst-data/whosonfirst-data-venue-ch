@@ -2,13 +2,14 @@
   "id": 185820763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.796468,46.669319,6.796468,46.669319",
     "geom:latitude":46.669319,
     "geom:longitude":6.796468,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Du Grand Pr\u00e9",
     "sg:city":"Moudon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185820763,
-    "wof:lastmodified":1449007464,
+    "wof:lastmodified":1466209258,
     "wof:name":"Famaco Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "livestock"
     ]
 },
-  "bbox": [6.796468,46.669319,6.796468,46.669319],
+  "bbox": [
+    6.796468,
+    46.669319,
+    6.796468,
+    46.669319
+],
   "geometry": {"coordinates":[6.796468,46.669319],"type":"Point"}
 }

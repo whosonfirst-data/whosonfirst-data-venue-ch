@@ -2,13 +2,14 @@
   "id": 202848257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.11423,47.312847,8.11423,47.312847",
     "geom:latitude":47.312847,
     "geom:longitude":8.11423,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Einschlagstrasse 2",
     "sg:city":"Unterkulm",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202848257,
-    "wof:lastmodified":1449060460,
+    "wof:lastmodified":1466212020,
     "wof:name":"Nadler Architekten Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.11423,47.312847,8.11423,47.312847],
+  "bbox": [
+    8.11423,
+    47.312847,
+    8.11423,
+    47.312847
+],
   "geometry": {"coordinates":[8.11423,47.312847],"type":"Point"}
 }

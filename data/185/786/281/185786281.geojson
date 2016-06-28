@@ -2,13 +2,14 @@
   "id": 185786281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.953021,46.005226,8.953021,46.005226",
     "geom:latitude":46.005226,
     "geom:longitude":8.953021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Carducci 1 6900 Lugano. Postfach Caselle Postale 3251",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185786281,
-    "wof:lastmodified":1449006815,
+    "wof:lastmodified":1466209019,
     "wof:name":"Marco Piotrkowski Studio Legale & Notarile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.953021,46.005226,8.953021,46.005226],
+  "bbox": [
+    8.953021,
+    46.005226,
+    8.953021,
+    46.005226
+],
   "geometry": {"coordinates":[8.953021,46.005226],"type":"Point"}
 }

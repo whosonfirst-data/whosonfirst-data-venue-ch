@@ -2,13 +2,14 @@
   "id": 236356019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.46013,47.36351,8.46013,47.36351",
     "geom:latitude":47.36351,
     "geom:longitude":8.46013,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6ngerstrasse 292",
     "sg:city":"Laupersdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236356019,
-    "wof:lastmodified":1449004544,
+    "wof:lastmodified":1466212095,
     "wof:name":"Oberstufenschule Schwerzgrueb",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.46013,47.36351,8.46013,47.36351],
+  "bbox": [
+    8.46013,
+    47.36351,
+    8.46013,
+    47.36351
+],
   "geometry": {"coordinates":[8.46013,47.36351],"type":"Point"}
 }

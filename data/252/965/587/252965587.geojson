@@ -2,13 +2,14 @@
   "id": 252965587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.952339,46.009983,8.952339,46.009983",
     "geom:latitude":46.009983,
     "geom:longitude":8.952339,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Montchoisi 5",
     "sg:city":"Orbe",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252965587,
-    "wof:lastmodified":1449006155,
+    "wof:lastmodified":1466211750,
     "wof:name":"Candor Di Ziegler O.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.952339,46.009983,8.952339,46.009983],
+  "bbox": [
+    8.952339,
+    46.009983,
+    8.952339,
+    46.009983
+],
   "geometry": {"coordinates":[8.952339,46.009983],"type":"Point"}
 }

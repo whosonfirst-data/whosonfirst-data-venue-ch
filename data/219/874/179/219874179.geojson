@@ -2,13 +2,14 @@
   "id": 219874179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.530954,47.312916,8.530954,47.312916",
     "geom:latitude":47.312916,
     "geom:longitude":8.530954,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldweg 1",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219874179,
-    "wof:lastmodified":1449073683,
+    "wof:lastmodified":1466212602,
     "wof:name":"Baugenossenschaft Sihlhalde",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.530954,47.312916,8.530954,47.312916],
+  "bbox": [
+    8.530954,
+    47.312916,
+    8.530954,
+    47.312916
+],
   "geometry": {"coordinates":[8.530954,47.312916],"type":"Point"}
 }

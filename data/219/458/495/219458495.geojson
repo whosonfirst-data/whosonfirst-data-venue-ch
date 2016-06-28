@@ -2,13 +2,14 @@
   "id": 219458495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.475393,46.974216,7.475393,46.974216",
     "geom:latitude":46.974216,
     "geom:longitude":7.475393,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlestr. 7",
     "sg:city":"Ittigen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219458495,
-    "wof:lastmodified":1449072909,
+    "wof:lastmodified":1466210733,
     "wof:name":"Roschi Rohde Und Schwarz Ag",
     "wof:parent_id":85800083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [7.475393,46.974216,7.475393,46.974216],
+  "bbox": [
+    7.475393,
+    46.974216,
+    7.475393,
+    46.974216
+],
   "geometry": {"coordinates":[7.475393,46.974216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169793591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535844,47.388351,8.535844,47.388351",
     "geom:latitude":47.388351,
     "geom:longitude":8.535844,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nordstrasse 87",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169793591,
-    "wof:lastmodified":1449034506,
+    "wof:lastmodified":1466209024,
     "wof:name":"Gdz Gesundheitsdirektion Des Kantons Z\u00fcrich",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535844,47.388351,8.535844,47.388351],
+  "bbox": [
+    8.535844,
+    47.388351,
+    8.535844,
+    47.388351
+],
   "geometry": {"coordinates":[8.535844,47.388351],"type":"Point"}
 }

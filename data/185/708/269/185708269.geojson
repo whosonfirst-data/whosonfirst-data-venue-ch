@@ -2,13 +2,14 @@
   "id": 185708269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4421,46.947521,7.4421,46.947521",
     "geom:latitude":46.947521,
     "geom:longitude":7.4421,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Storcheng\u00e4sschen 6 3011 Bern. Postfach 1473",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185708269,
-    "wof:lastmodified":1449006871,
+    "wof:lastmodified":1466211184,
     "wof:name":"Garraux Bader & Zumstein Advokaturb\u00fcro",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4421,46.947521,7.4421,46.947521],
+  "bbox": [
+    7.4421,
+    46.947521,
+    7.4421,
+    46.947521
+],
   "geometry": {"coordinates":[7.4421,46.947521],"type":"Point"}
 }

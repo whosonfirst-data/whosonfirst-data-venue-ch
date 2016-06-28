@@ -2,13 +2,14 @@
   "id": 202536749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.623516,47.547081,7.623516,47.547081",
     "geom:latitude":47.547081,
     "geom:longitude":7.623516,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birseckstrasse 45",
     "sg:city":"Birsfelden",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202536749,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466209065,
     "wof:name":"Heinz Schwarz Planungsb\u00fcro",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.623516,47.547081,7.623516,47.547081],
+  "bbox": [
+    7.623516,
+    47.547081,
+    7.623516,
+    47.547081
+],
   "geometry": {"coordinates":[7.623516,47.547081],"type":"Point"}
 }

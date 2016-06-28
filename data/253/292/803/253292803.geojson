@@ -2,13 +2,14 @@
   "id": 253292803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587483,47.557888,7.587483,47.557888",
     "geom:latitude":47.557888,
     "geom:longitude":7.587483,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktplatz 19 4001 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253292803,
-    "wof:lastmodified":1449063069,
+    "wof:lastmodified":1466211821,
     "wof:name":"Paul Schiesser & Co.",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587483,47.557888,7.587483,47.557888],
+  "bbox": [
+    7.587483,
+    47.557888,
+    7.587483,
+    47.557888
+],
   "geometry": {"coordinates":[7.587483,47.557888],"type":"Point"}
 }

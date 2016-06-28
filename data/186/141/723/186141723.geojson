@@ -2,13 +2,14 @@
   "id": 186141723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62531,46.772816,7.62531,46.772816",
     "geom:latitude":46.772816,
     "geom:longitude":7.62531,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weberweg 8a",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186141723,
-    "wof:lastmodified":1449051334,
+    "wof:lastmodified":1466211387,
     "wof:name":"Marti + Wenger Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62531,46.772816,7.62531,46.772816],
+  "bbox": [
+    7.62531,
+    46.772816,
+    7.62531,
+    46.772816
+],
   "geometry": {"coordinates":[7.62531,46.772816],"type":"Point"}
 }

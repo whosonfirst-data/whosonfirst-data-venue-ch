@@ -2,13 +2,14 @@
   "id": 253424301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655957,47.526825,7.655957,47.526825",
     "geom:latitude":47.526825,
     "geom:longitude":7.655957,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Prattelerstrasse 57",
     "sg:city":"Muttenz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253424301,
-    "wof:lastmodified":1449065603,
+    "wof:lastmodified":1466212300,
     "wof:name":"Elisabeth Johann Couture",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.655957,47.526825,7.655957,47.526825],
+  "bbox": [
+    7.655957,
+    47.526825,
+    7.655957,
+    47.526825
+],
   "geometry": {"coordinates":[7.655957,47.526825],"type":"Point"}
 }

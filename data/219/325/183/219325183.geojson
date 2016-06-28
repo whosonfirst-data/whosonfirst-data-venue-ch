@@ -2,13 +2,14 @@
   "id": 219325183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.01321,47.263794,7.01321,47.263794",
     "geom:latitude":47.263794,
     "geom:longitude":7.01321,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Gottardo 47",
     "sg:city":"Balerna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219325183,
-    "wof:lastmodified":1449071772,
+    "wof:lastmodified":1466209480,
     "wof:name":"Christian Donz\u00e9 Garage Du Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.01321,47.263794,7.01321,47.263794],
+  "bbox": [
+    7.01321,
+    47.263794,
+    7.01321,
+    47.263794
+],
   "geometry": {"coordinates":[7.01321,47.263794],"type":"Point"}
 }

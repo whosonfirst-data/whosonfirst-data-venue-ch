@@ -2,13 +2,14 @@
   "id": 203254855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.050607,47.394272,8.050607,47.394272",
     "geom:latitude":47.394272,
     "geom:longitude":8.050607,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laurenzenvorstadt 85",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203254855,
-    "wof:lastmodified":1449026285,
+    "wof:lastmodified":1466210074,
     "wof:name":"Dr.med. Mirjam Oertli Spezial\u00e4rztin Fmh",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.050607,47.394272,8.050607,47.394272],
+  "bbox": [
+    8.050607,
+    47.394272,
+    8.050607,
+    47.394272
+],
   "geometry": {"coordinates":[8.050607,47.394272],"type":"Point"}
 }

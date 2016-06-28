@@ -2,13 +2,14 @@
   "id": 236544215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.144271,46.196499,6.144271,46.196499",
     "geom:latitude":46.196499,
     "geom:longitude":6.144271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Voisins 2",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":236544215,
-    "wof:lastmodified":1449005244,
+    "wof:lastmodified":1466212577,
     "wof:name":"Ad Solem Editions Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.144271,46.196499,6.144271,46.196499],
+  "bbox": [
+    6.144271,
+    46.196499,
+    6.144271,
+    46.196499
+],
   "geometry": {"coordinates":[6.144271,46.196499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219909665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.687317,46.671848,9.687317,46.671848",
     "geom:latitude":46.671848,
     "geom:longitude":9.687317,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasserweg 70",
     "sg:city":"Filisur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219909665,
-    "wof:lastmodified":1449073057,
+    "wof:lastmodified":1466212550,
     "wof:name":"Schutz Gartenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.687317,46.671848,9.687317,46.671848],
+  "bbox": [
+    9.687317,
+    46.671848,
+    9.687317,
+    46.671848
+],
   "geometry": {"coordinates":[9.687317,46.671848],"type":"Point"}
 }

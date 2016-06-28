@@ -2,13 +2,14 @@
   "id": 202620201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.331423,47.366627,7.331423,47.366627",
     "geom:latitude":47.366627,
     "geom:longitude":7.331423,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sources Rue Des 1",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202620201,
-    "wof:lastmodified":1449062437,
+    "wof:lastmodified":1466209848,
     "wof:name":"Maquettes Bucher S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.331423,47.366627,7.331423,47.366627],
+  "bbox": [
+    7.331423,
+    47.366627,
+    7.331423,
+    47.366627
+],
   "geometry": {"coordinates":[7.331423,47.366627],"type":"Point"}
 }

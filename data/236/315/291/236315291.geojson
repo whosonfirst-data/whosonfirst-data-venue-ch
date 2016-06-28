@@ -2,13 +2,14 @@
   "id": 236315291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.287436,47.072456,8.287436,47.072456",
     "geom:latitude":47.072456,
     "geom:longitude":8.287436,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seetalstrasse 28 6020 Emmenbr\u00fccke. Postfach",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236315291,
-    "wof:lastmodified":1449005042,
+    "wof:lastmodified":1466211816,
     "wof:name":"Savic Desanka Taxibetrieb",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.287436,47.072456,8.287436,47.072456],
+  "bbox": [
+    8.287436,
+    47.072456,
+    8.287436,
+    47.072456
+],
   "geometry": {"coordinates":[8.287436,47.072456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202879219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.562499,46.757729,9.562499,46.757729",
     "geom:latitude":46.757729,
     "geom:longitude":9.562499,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Im Weidli 7076 Parpan. Postfach",
     "sg:city":"Parpan",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202879219,
-    "wof:lastmodified":1449060137,
+    "wof:lastmodified":1466212046,
     "wof:name":"C&h Baumanagement Gmbh Dienstleistungsunternehmen Im Ingenieurwesen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.562499,46.757729,9.562499,46.757729],
+  "bbox": [
+    9.562499,
+    46.757729,
+    9.562499,
+    46.757729
+],
   "geometry": {"coordinates":[9.562499,46.757729],"type":"Point"}
 }

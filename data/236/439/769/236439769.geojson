@@ -2,13 +2,14 @@
   "id": 236439769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.637056,46.882729,8.637056,46.882729",
     "geom:latitude":46.882729,
     "geom:longitude":8.637056,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lochbruggstrasse 39 4242 Laufen. Postfach",
     "sg:city":"Laufen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236439769,
-    "wof:lastmodified":1449002374,
+    "wof:lastmodified":1466212468,
     "wof:name":"Kantonsspital Uri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.637056,46.882729,8.637056,46.882729],
+  "bbox": [
+    8.637056,
+    46.882729,
+    8.637056,
+    46.882729
+],
   "geometry": {"coordinates":[8.637056,46.882729],"type":"Point"}
 }

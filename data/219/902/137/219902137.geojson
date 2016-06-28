@@ -2,13 +2,14 @@
   "id": 219902137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.556522,47.369854,8.556522,47.369854",
     "geom:latitude":47.369854,
     "geom:longitude":8.556522,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gemeindestrasse 62",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219902137,
-    "wof:lastmodified":1449073020,
+    "wof:lastmodified":1466212632,
     "wof:name":"Wohngenossenschaft Z",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.556522,47.369854,8.556522,47.369854],
+  "bbox": [
+    8.556522,
+    47.369854,
+    8.556522,
+    47.369854
+],
   "geometry": {"coordinates":[8.556522,47.369854],"type":"Point"}
 }

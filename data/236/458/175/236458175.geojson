@@ -2,13 +2,14 @@
   "id": 236458175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.540797,47.38282,9.540797,47.38282",
     "geom:latitude":47.38282,
     "geom:longitude":9.540797,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyssstrasse 31 3270 Aarberg. Postfach 112",
     "sg:city":"Aarberg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236458175,
-    "wof:lastmodified":1449004102,
+    "wof:lastmodified":1466212439,
     "wof:name":"Spital Altst\u00e4tten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [9.540797,47.38282,9.540797,47.38282],
+  "bbox": [
+    9.540797,
+    47.38282,
+    9.540797,
+    47.38282
+],
   "geometry": {"coordinates":[9.540797,47.38282],"type":"Point"}
 }

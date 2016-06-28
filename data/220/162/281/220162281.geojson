@@ -2,13 +2,14 @@
   "id": 220162281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.247048,47.608997,8.247048,47.608997",
     "geom:latitude":47.608997,
     "geom:longitude":8.247048,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctenenstrasse 15",
     "sg:city":"Koblenz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220162281,
-    "wof:lastmodified":1449074750,
+    "wof:lastmodified":1466210264,
     "wof:name":"Ernst K\u00fcchen Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.247048,47.608997,8.247048,47.608997],
+  "bbox": [
+    8.247048,
+    47.608997,
+    8.247048,
+    47.608997
+],
   "geometry": {"coordinates":[8.247048,47.608997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253278071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.00239,46.759991,7.00239,46.759991",
     "geom:latitude":46.759991,
     "geom:longitude":7.00239,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Au Village 16",
     "sg:city":"Lentigny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253278071,
-    "wof:lastmodified":1449064462,
+    "wof:lastmodified":1466211654,
     "wof:name":"Claude Gobet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.00239,46.759991,7.00239,46.759991],
+  "bbox": [
+    7.00239,
+    46.759991,
+    7.00239,
+    46.759991
+],
   "geometry": {"coordinates":[7.00239,46.759991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236518935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.267361,47.414047,8.267361,47.414047",
     "geom:latitude":47.414047,
     "geom:longitude":8.267361,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenzburgerstrasse 64",
     "sg:city":"Mellingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236518935,
-    "wof:lastmodified":1449003530,
+    "wof:lastmodified":1466212558,
     "wof:name":"Heinrich Zumstein Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.267361,47.414047,8.267361,47.414047],
+  "bbox": [
+    8.267361,
+    47.414047,
+    8.267361,
+    47.414047
+],
   "geometry": {"coordinates":[8.267361,47.414047],"type":"Point"}
 }

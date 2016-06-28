@@ -2,13 +2,14 @@
   "id": 202720235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549322,47.283394,8.549322,47.283394",
     "geom:latitude":47.283394,
     "geom:longitude":8.549322,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obstgartenstrasse 22 8136 Gattikon. Postfach",
     "sg:city":"Gattikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202720235,
-    "wof:lastmodified":1449060714,
+    "wof:lastmodified":1466210781,
     "wof:name":"Stehlin Thierry Dipl. Ing. Ethz Structural Analysis Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.549322,47.283394,8.549322,47.283394],
+  "bbox": [
+    8.549322,
+    47.283394,
+    8.549322,
+    47.283394
+],
   "geometry": {"coordinates":[8.549322,47.283394],"type":"Point"}
 }

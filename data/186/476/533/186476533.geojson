@@ -2,13 +2,14 @@
   "id": 186476533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.717327,47.498425,8.717327,47.498425",
     "geom:latitude":47.498425,
     "geom:longitude":8.717327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neuwiesenstrasse 3",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186476533,
-    "wof:lastmodified":1449051453,
+    "wof:lastmodified":1466211236,
     "wof:name":"Industrie-arbeitslosenkasse Winterthur",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.717327,47.498425,8.717327,47.498425],
+  "bbox": [
+    8.717327,
+    47.498425,
+    8.717327,
+    47.498425
+],
   "geometry": {"coordinates":[8.717327,47.498425],"type":"Point"}
 }

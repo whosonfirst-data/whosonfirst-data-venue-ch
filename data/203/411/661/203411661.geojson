@@ -2,13 +2,14 @@
   "id": 203411661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.590054,47.548553,7.590054,47.548553",
     "geom:latitude":47.548553,
     "geom:longitude":7.590054,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Centralbahnplatz 13",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203411661,
-    "wof:lastmodified":1449025043,
+    "wof:lastmodified":1466211739,
     "wof:name":"Dr.med.stefan Hricko Spezialarzt Fmh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.590054,47.548553,7.590054,47.548553],
+  "bbox": [
+    7.590054,
+    47.548553,
+    7.590054,
+    47.548553
+],
   "geometry": {"coordinates":[7.590054,47.548553],"type":"Point"}
 }

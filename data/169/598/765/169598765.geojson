@@ -2,13 +2,14 @@
   "id": 169598765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.652429,47.021667,8.652429,47.021667",
     "geom:latitude":47.021667,
     "geom:longitude":8.652429,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:city":"Schwyz",
     "sg:classifiers":[],
     "sg:orig_category":"Finanzen, Sonstige Finanzangelegenheiten",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169598765,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466208901,
     "wof:name":"Swiss Optima Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.652429,47.021667,8.652429,47.021667],
+  "bbox": [
+    8.652429,
+    47.021667,
+    8.652429,
+    47.021667
+],
   "geometry": {"coordinates":[8.652429,47.021667],"type":"Point"}
 }

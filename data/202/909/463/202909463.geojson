@@ -2,13 +2,14 @@
   "id": 202909463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65039,47.585804,7.65039,47.585804",
     "geom:latitude":47.585804,
     "geom:longitude":7.65039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 60 4125 Riehen. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202909463,
-    "wof:lastmodified":1449062022,
+    "wof:lastmodified":1466212264,
     "wof:name":"Abe Engineering Gmbh Dienstleistungen Im Ingeneursbereich, Bes. Anlagen Und Apparatebau, Energietechnik",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65039,47.585804,7.65039,47.585804],
+  "bbox": [
+    7.65039,
+    47.585804,
+    7.65039,
+    47.585804
+],
   "geometry": {"coordinates":[7.65039,47.585804],"type":"Point"}
 }

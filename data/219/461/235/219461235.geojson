@@ -2,13 +2,14 @@
   "id": 219461235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.2172,47.478703,8.2172,47.478703",
     "geom:latitude":47.478703,
     "geom:longitude":8.2172,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstr. 26",
     "sg:city":"Windisch",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219461235,
-    "wof:lastmodified":1449071715,
+    "wof:lastmodified":1466210767,
     "wof:name":"Aargauische Hypotheken-, & Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.2172,47.478703,8.2172,47.478703],
+  "bbox": [
+    8.2172,
+    47.478703,
+    8.2172,
+    47.478703
+],
   "geometry": {"coordinates":[8.2172,47.478703],"type":"Point"}
 }

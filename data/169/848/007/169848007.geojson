@@ -2,13 +2,14 @@
   "id": 169848007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5623,47.20977,7.5623,47.20977",
     "geom:latitude":47.20977,
     "geom:longitude":7.5623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Luterbachstrasse",
     "sg:city":"Zuchwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169848007,
-    "wof:lastmodified":1449033155,
+    "wof:lastmodified":1466209398,
     "wof:name":"Ara Emmenspitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.5623,47.20977,7.5623,47.20977],
+  "bbox": [
+    7.5623,
+    47.20977,
+    7.5623,
+    47.20977
+],
   "geometry": {"coordinates":[7.5623,47.20977],"type":"Point"}
 }

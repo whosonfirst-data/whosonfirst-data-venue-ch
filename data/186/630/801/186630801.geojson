@@ -2,13 +2,14 @@
   "id": 186630801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.240363,47.124512,7.240363,47.124512",
     "geom:latitude":47.124512,
     "geom:longitude":7.240363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulgasse 9",
     "sg:city":"Nidau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186630801,
-    "wof:lastmodified":1449051353,
+    "wof:lastmodified":1466212121,
     "wof:name":"Althis Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.240363,47.124512,7.240363,47.124512],
+  "bbox": [
+    7.240363,
+    47.124512,
+    7.240363,
+    47.124512
+],
   "geometry": {"coordinates":[7.240363,47.124512],"type":"Point"}
 }

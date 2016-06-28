@@ -2,13 +2,14 @@
   "id": 186360933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.541565,46.777176,7.541565,46.777176",
     "geom:latitude":46.777176,
     "geom:longitude":7.541565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kehr 29h",
     "sg:city":"Gurzelen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186360933,
-    "wof:lastmodified":1449052389,
+    "wof:lastmodified":1466210290,
     "wof:name":"Friedrich K\u00fcnzi-schmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.541565,46.777176,7.541565,46.777176],
+  "bbox": [
+    7.541565,
+    46.777176,
+    7.541565,
+    46.777176
+],
   "geometry": {"coordinates":[7.541565,46.777176],"type":"Point"}
 }

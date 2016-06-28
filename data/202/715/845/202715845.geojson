@@ -2,13 +2,14 @@
   "id": 202715845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.344793,47.366329,9.344793,47.366329",
     "geom:latitude":47.366329,
     "geom:longitude":9.344793,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00f6schenweidstrasse 12",
     "sg:city":"Stadel(winterthur)",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202715845,
-    "wof:lastmodified":1449062152,
+    "wof:lastmodified":1466210743,
     "wof:name":"Sonco Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.344793,47.366329,9.344793,47.366329],
+  "bbox": [
+    9.344793,
+    47.366329,
+    9.344793,
+    47.366329
+],
   "geometry": {"coordinates":[9.344793,47.366329],"type":"Point"}
 }

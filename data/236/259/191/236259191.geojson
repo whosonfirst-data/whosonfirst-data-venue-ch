@@ -2,13 +2,14 @@
   "id": 236259191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.969614,47.382755,7.969614,47.382755",
     "geom:latitude":47.382755,
     "geom:longitude":7.969614,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00f6sgerstrasse 9",
     "sg:city":"St\u00fcsslingen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236259191,
-    "wof:lastmodified":1449002247,
+    "wof:lastmodified":1466211450,
     "wof:name":"Golfplatz Heidental Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.969614,47.382755,7.969614,47.382755],
+  "bbox": [
+    7.969614,
+    47.382755,
+    7.969614,
+    47.382755
+],
   "geometry": {"coordinates":[7.969614,47.382755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202383265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.689456,47.254154,8.689456,47.254154",
     "geom:latitude":47.254154,
     "geom:longitude":8.689456,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zehntentrottenstrasse 1 8708 M\u00e4nnedorf. Postfach",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202383265,
-    "wof:lastmodified":1449061185,
+    "wof:lastmodified":1466209349,
     "wof:name":"Arti Architektur, Schneider L. Architektur- U. Planungsb\u00fcro. Geologische Haus- U. Grundst\u00fcckuntersuchungen Usw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.689456,47.254154,8.689456,47.254154],
+  "bbox": [
+    8.689456,
+    47.254154,
+    8.689456,
+    47.254154
+],
   "geometry": {"coordinates":[8.689456,47.254154],"type":"Point"}
 }

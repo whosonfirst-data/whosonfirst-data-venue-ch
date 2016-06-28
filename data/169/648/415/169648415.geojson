@@ -2,13 +2,14 @@
   "id": 169648415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.806639,46.919636,6.806639,46.919636",
     "geom:latitude":46.919636,
     "geom:longitude":6.806639,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Maladi\u00e8res 22",
     "sg:city":"Bevaix",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169648415,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466210055,
     "wof:name":"Candelux S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "secondary"
     ]
 },
-  "bbox": [6.806639,46.919636,6.806639,46.919636],
+  "bbox": [
+    6.806639,
+    46.919636,
+    6.806639,
+    46.919636
+],
   "geometry": {"coordinates":[6.806639,46.919636],"type":"Point"}
 }

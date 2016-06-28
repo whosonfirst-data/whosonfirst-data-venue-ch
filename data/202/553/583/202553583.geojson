@@ -2,13 +2,14 @@
   "id": 202553583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146428,46.183025,6.146428,46.183025",
     "geom:latitude":46.183025,
     "geom:longitude":6.146428,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonneckstrasse 584",
     "sg:city":"Gurmels",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202553583,
-    "wof:lastmodified":1449060124,
+    "wof:lastmodified":1466209228,
     "wof:name":"Im Projet Ing\u00e9nierie De Management De Projet",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146428,46.183025,6.146428,46.183025],
+  "bbox": [
+    6.146428,
+    46.183025,
+    6.146428,
+    46.183025
+],
   "geometry": {"coordinates":[6.146428,46.183025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202734885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600876,46.765285,7.600876,46.765285",
     "geom:latitude":46.765285,
     "geom:longitude":7.600876,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lerchenfeldstrasse 40 3603 Thun. Postfach",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202734885,
-    "wof:lastmodified":1449062337,
+    "wof:lastmodified":1466210911,
     "wof:name":"Tech-service Maier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600876,46.765285,7.600876,46.765285],
+  "bbox": [
+    7.600876,
+    46.765285,
+    7.600876,
+    46.765285
+],
   "geometry": {"coordinates":[7.600876,46.765285],"type":"Point"}
 }

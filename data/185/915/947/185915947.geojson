@@ -2,13 +2,14 @@
   "id": 185915947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.152225,46.803101,7.152225,46.803101",
     "geom:latitude":46.803101,
     "geom:longitude":7.152225,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Gare 12 1700 Fribourg Case Postale 220",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185915947,
-    "wof:lastmodified":1449008177,
+    "wof:lastmodified":1466209978,
     "wof:name":"Coventi Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.152225,46.803101,7.152225,46.803101],
+  "bbox": [
+    7.152225,
+    46.803101,
+    7.152225,
+    46.803101
+],
   "geometry": {"coordinates":[7.152225,46.803101],"type":"Point"}
 }

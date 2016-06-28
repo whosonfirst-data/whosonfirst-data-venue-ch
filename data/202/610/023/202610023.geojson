@@ -2,13 +2,14 @@
   "id": 202610023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.582876,47.318665,8.582876,47.318665",
     "geom:latitude":47.318665,
     "geom:longitude":8.582876,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sternengasse 21",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202610023,
-    "wof:lastmodified":1449062597,
+    "wof:lastmodified":1466209752,
     "wof:name":"Leonard Lukaszek Ingenieurb\u00fcro",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.582876,47.318665,8.582876,47.318665],
+  "bbox": [
+    8.582876,
+    47.318665,
+    8.582876,
+    47.318665
+],
   "geometry": {"coordinates":[8.582876,47.318665],"type":"Point"}
 }

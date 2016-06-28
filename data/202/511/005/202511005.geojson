@@ -2,13 +2,14 @@
   "id": 202511005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.452348,47.02858,8.452348,47.02858",
     "geom:latitude":47.02858,
     "geom:longitude":8.452348,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eichenweg 10",
     "sg:city":"Weggis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202511005,
-    "wof:lastmodified":1449061295,
+    "wof:lastmodified":1466211711,
     "wof:name":"Gehri Rolf Technisches B\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.452348,47.02858,8.452348,47.02858],
+  "bbox": [
+    8.452348,
+    47.02858,
+    8.452348,
+    47.02858
+],
   "geometry": {"coordinates":[8.452348,47.02858],"type":"Point"}
 }

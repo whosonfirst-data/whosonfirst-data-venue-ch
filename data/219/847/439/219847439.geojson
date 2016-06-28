@@ -2,13 +2,14 @@
   "id": 219847439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.982357,47.668293,8.982357,47.668293",
     "geom:latitude":47.668293,
     "geom:longitude":8.982357,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 98a",
     "sg:city":"Steckborn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219847439,
-    "wof:lastmodified":1449071674,
+    "wof:lastmodified":1466212642,
     "wof:name":"Restaurant & Bar Krone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.982357,47.668293,8.982357,47.668293],
+  "bbox": [
+    8.982357,
+    47.668293,
+    8.982357,
+    47.668293
+],
   "geometry": {"coordinates":[8.982357,47.668293],"type":"Point"}
 }

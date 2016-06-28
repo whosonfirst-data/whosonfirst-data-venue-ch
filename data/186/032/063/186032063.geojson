@@ -2,13 +2,14 @@
   "id": 186032063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.475946,47.414886,8.475946,47.414886",
     "geom:latitude":47.414886,
     "geom:longitude":8.475946,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Geeringstrasse 95 8049 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186032063,
-    "wof:lastmodified":1449051689,
+    "wof:lastmodified":1466209745,
     "wof:name":"Bumbacher & Thalmann Ag",
     "wof:parent_id":85800481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.475946,47.414886,8.475946,47.414886],
+  "bbox": [
+    8.475946,
+    47.414886,
+    8.475946,
+    47.414886
+],
   "geometry": {"coordinates":[8.475946,47.414886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219584299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.082728,46.174412,6.082728,46.174412",
     "geom:latitude":46.174412,
     "geom:longitude":6.082728,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. De Sous Le Clos 32",
     "sg:city":"Confignon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219584299,
-    "wof:lastmodified":1449070773,
+    "wof:lastmodified":1466211723,
     "wof:name":"Raiffeisen De Confignon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.082728,46.174412,6.082728,46.174412],
+  "bbox": [
+    6.082728,
+    46.174412,
+    6.082728,
+    46.174412
+],
   "geometry": {"coordinates":[6.082728,46.174412],"type":"Point"}
 }

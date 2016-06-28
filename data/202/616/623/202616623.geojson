@@ -2,13 +2,14 @@
   "id": 202616623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655715,47.581627,7.655715,47.581627",
     "geom:latitude":47.581627,
     "geom:longitude":7.655715,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rheintalweg 10 4125 Riehen. Postfach",
     "sg:city":"Riehen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202616623,
-    "wof:lastmodified":1449061963,
+    "wof:lastmodified":1466209814,
     "wof:name":"M + S Gesellschaft F\u00fcr Immobilien Und Baumanagement Mbh",
     "wof:parent_id":85800451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.655715,47.581627,7.655715,47.581627],
+  "bbox": [
+    7.655715,
+    47.581627,
+    7.655715,
+    47.581627
+],
   "geometry": {"coordinates":[7.655715,47.581627],"type":"Point"}
 }

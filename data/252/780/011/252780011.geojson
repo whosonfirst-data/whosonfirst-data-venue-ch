@@ -2,13 +2,14 @@
   "id": 252780011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.3117,47.056076,8.3117,47.056076",
     "geom:latitude":47.056076,
     "geom:longitude":8.3117,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00f6wenstrasse 14",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252780011,
-    "wof:lastmodified":1449006222,
+    "wof:lastmodified":1466209670,
     "wof:name":"Lisbeth Bachmann",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.3117,47.056076,8.3117,47.056076],
+  "bbox": [
+    8.3117,
+    47.056076,
+    8.3117,
+    47.056076
+],
   "geometry": {"coordinates":[8.3117,47.056076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203383129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.378271,47.424492,9.378271,47.424492",
     "geom:latitude":47.424492,
     "geom:longitude":9.378271,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6heweg 29",
     "sg:city":"Interlaken",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203383129,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466211356,
     "wof:name":"Dr.med.peter C. Wyss Spezialarzt Fmh",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.378271,47.424492,9.378271,47.424492],
+  "bbox": [
+    9.378271,
+    47.424492,
+    9.378271,
+    47.424492
+],
   "geometry": {"coordinates":[9.378271,47.424492],"type":"Point"}
 }

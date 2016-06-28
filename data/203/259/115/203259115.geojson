@@ -2,13 +2,14 @@
   "id": 203259115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.287886,47.452225,8.287886,47.452225",
     "geom:latitude":47.452225,
     "geom:longitude":8.287886,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichbergstrasse 70",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203259115,
-    "wof:lastmodified":1449025369,
+    "wof:lastmodified":1466210120,
     "wof:name":"Dr.med. Rolf Jakob Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.287886,47.452225,8.287886,47.452225],
+  "bbox": [
+    8.287886,
+    47.452225,
+    8.287886,
+    47.452225
+],
   "geometry": {"coordinates":[8.287886,47.452225],"type":"Point"}
 }

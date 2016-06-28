@@ -2,13 +2,14 @@
   "id": 186251245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.373201,47.424923,9.373201,47.424923",
     "geom:latitude":47.424923,
     "geom:longitude":9.373201,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Poststrasse 10 9006 St. Gallen. Postfach",
     "sg:city":"Herisau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186251245,
-    "wof:lastmodified":1449050315,
+    "wof:lastmodified":1466209483,
     "wof:name":"Wohnbau Ag Herisau",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.373201,47.424923,9.373201,47.424923],
+  "bbox": [
+    9.373201,
+    47.424923,
+    9.373201,
+    47.424923
+],
   "geometry": {"coordinates":[9.373201,47.424923],"type":"Point"}
 }

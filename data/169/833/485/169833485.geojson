@@ -2,13 +2,14 @@
   "id": 169833485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.07563,47.388069,8.07563,47.388069",
     "geom:latitude":47.388069,
     "geom:longitude":8.07563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Niklaus Wengistasse 107",
     "sg:city":"Grenchen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169833485,
-    "wof:lastmodified":1449033108,
+    "wof:lastmodified":1466209300,
     "wof:name":"Deponie Rothacker Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.07563,47.388069,8.07563,47.388069],
+  "bbox": [
+    8.07563,
+    47.388069,
+    8.07563,
+    47.388069
+],
   "geometry": {"coordinates":[8.07563,47.388069],"type":"Point"}
 }

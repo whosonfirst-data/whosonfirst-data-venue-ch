@@ -2,13 +2,14 @@
   "id": 236561865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.575976,47.325569,8.575976,47.325569",
     "geom:latitude":47.325569,
     "geom:longitude":8.575976,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schiffliweg 1",
     "sg:city":"K\u00fcsnacht",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236561865,
-    "wof:lastmodified":1449004095,
+    "wof:lastmodified":1466212622,
     "wof:name":"Semikron Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridge-connected"
     ]
 },
-  "bbox": [8.575976,47.325569,8.575976,47.325569],
+  "bbox": [
+    8.575976,
+    47.325569,
+    8.575976,
+    47.325569
+],
   "geometry": {"coordinates":[8.575976,47.325569],"type":"Point"}
 }

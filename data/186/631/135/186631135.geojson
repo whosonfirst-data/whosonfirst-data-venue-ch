@@ -2,13 +2,14 @@
   "id": 186631135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.425479,46.974251,8.425479,46.974251",
     "geom:latitude":46.974251,
     "geom:longitude":8.425479,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Beckenriederstr. 28",
     "sg:city":"Buochs",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186631135,
-    "wof:lastmodified":1449051206,
+    "wof:lastmodified":1466212246,
     "wof:name":"Am-plan, Amacher Emil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.425479,46.974251,8.425479,46.974251],
+  "bbox": [
+    8.425479,
+    46.974251,
+    8.425479,
+    46.974251
+],
   "geometry": {"coordinates":[8.425479,46.974251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202973005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.105907,47.471336,9.105907,47.471336",
     "geom:latitude":47.471336,
     "geom:longitude":9.105907,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Marktstrasse 3",
     "sg:city":"Niederuzwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202973005,
-    "wof:lastmodified":1449061643,
+    "wof:lastmodified":1466212472,
     "wof:name":"Ds Architektur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.105907,47.471336,9.105907,47.471336],
+  "bbox": [
+    9.105907,
+    47.471336,
+    9.105907,
+    47.471336
+],
   "geometry": {"coordinates":[9.105907,47.471336],"type":"Point"}
 }

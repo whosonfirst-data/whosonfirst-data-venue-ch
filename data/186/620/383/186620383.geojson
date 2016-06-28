@@ -2,13 +2,14 @@
   "id": 186620383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.633823,47.430969,9.633823,47.430969",
     "geom:latitude":47.430969,
     "geom:longitude":9.633823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Innere G\u00fcterstrasse 2 6300 Zug. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186620383,
-    "wof:lastmodified":1449052789,
+    "wof:lastmodified":1466212290,
     "wof:name":"Abderhalden Bauzeichnungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.633823,47.430969,9.633823,47.430969],
+  "bbox": [
+    9.633823,
+    47.430969,
+    9.633823,
+    47.430969
+],
   "geometry": {"coordinates":[9.633823,47.430969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202478441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.679097,47.382969,8.679097,47.382969",
     "geom:latitude":47.382969,
     "geom:longitude":8.679097,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandb\u00fcelstrasse 6",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202478441,
-    "wof:lastmodified":1449060176,
+    "wof:lastmodified":1466211177,
     "wof:name":"Eichholzer & Partner Baumanagement",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.679097,47.382969,8.679097,47.382969],
+  "bbox": [
+    8.679097,
+    47.382969,
+    8.679097,
+    47.382969
+],
   "geometry": {"coordinates":[8.679097,47.382969],"type":"Point"}
 }

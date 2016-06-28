@@ -2,13 +2,14 @@
   "id": 219974327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.496687,46.970249,7.496687,46.970249",
     "geom:latitude":46.970249,
     "geom:longitude":7.496687,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burgstrasse 16 8750 Glarus. Postfach",
     "sg:city":"Glarus",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219974327,
-    "wof:lastmodified":1449073448,
+    "wof:lastmodified":1466212813,
     "wof:name":"Gea Thermtec Schweiz Ag",
     "wof:parent_id":85800605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.496687,46.970249,7.496687,46.970249],
+  "bbox": [
+    7.496687,
+    46.970249,
+    7.496687,
+    46.970249
+],
   "geometry": {"coordinates":[7.496687,46.970249],"type":"Point"}
 }

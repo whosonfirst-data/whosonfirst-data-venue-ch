@@ -2,13 +2,14 @@
   "id": 253296457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.592825,47.566509,7.592825,47.566509",
     "geom:latitude":47.566509,
     "geom:longitude":7.592825,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Feldbergstrasse 74",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253296457,
-    "wof:lastmodified":1449065214,
+    "wof:lastmodified":1466211707,
     "wof:name":"Pasticceria Gelateria Da Graziella",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.592825,47.566509,7.592825,47.566509],
+  "bbox": [
+    7.592825,
+    47.566509,
+    7.592825,
+    47.566509
+],
   "geometry": {"coordinates":[7.592825,47.566509],"type":"Point"}
 }

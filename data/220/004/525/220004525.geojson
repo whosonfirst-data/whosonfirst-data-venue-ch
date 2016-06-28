@@ -2,13 +2,14 @@
   "id": 220004525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.301211,46.794949,10.301211,46.794949",
     "geom:latitude":46.794949,
     "geom:longitude":10.301211,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Porta 23",
     "sg:city":"Scuol",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220004525,
-    "wof:lastmodified":1449074323,
+    "wof:lastmodified":1466208917,
     "wof:name":"Christian Spiller Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.301211,46.794949,10.301211,46.794949],
+  "bbox": [
+    10.301211,
+    46.794949,
+    10.301211,
+    46.794949
+],
   "geometry": {"coordinates":[10.301211,46.794949],"type":"Point"}
 }

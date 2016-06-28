@@ -2,13 +2,14 @@
   "id": 186150099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.748831,44.807579,5.748831,44.807579",
     "geom:latitude":44.807579,
     "geom:longitude":5.748831,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Des Aviolats Le Rosex",
     "sg:city":"Vers-l'eglise",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186150099,
-    "wof:lastmodified":1449050291,
+    "wof:lastmodified":1466211452,
     "wof:name":"Mermod Jean-pierre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.748831,44.807579,5.748831,44.807579],
+  "bbox": [
+    5.748831,
+    44.807579,
+    5.748831,
+    44.807579
+],
   "geometry": {"coordinates":[5.748831,44.807579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186044585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.75595,47.471615,7.75595,47.471615",
     "geom:latitude":47.471615,
     "geom:longitude":7.75595,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Langackerstrasse 8",
     "sg:city":"Lausen",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186044585,
-    "wof:lastmodified":1449051768,
+    "wof:lastmodified":1466209946,
     "wof:name":"Conar Generalunternehmung Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.75595,47.471615,7.75595,47.471615],
+  "bbox": [
+    7.75595,
+    47.471615,
+    7.75595,
+    47.471615
+],
   "geometry": {"coordinates":[7.75595,47.471615],"type":"Point"}
 }

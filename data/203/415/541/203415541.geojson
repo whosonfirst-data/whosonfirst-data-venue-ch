@@ -2,13 +2,14 @@
   "id": 203415541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.528227,47.360409,8.528227,47.360409",
     "geom:latitude":47.360409,
     "geom:longitude":8.528227,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 42",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203415541,
-    "wof:lastmodified":1449026329,
+    "wof:lastmodified":1466211759,
     "wof:name":"Dr.med.theophil H\u00e4ner Arzt F\u00fcr Allgmeine Medizin",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.528227,47.360409,8.528227,47.360409],
+  "bbox": [
+    8.528227,
+    47.360409,
+    8.528227,
+    47.360409
+],
   "geometry": {"coordinates":[8.528227,47.360409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185732509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587738,47.551601,7.587738,47.551601",
     "geom:latitude":47.551601,
     "geom:longitude":7.587738,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinenvorstadt 75 4051 Basel. Postfach 220",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185732509,
-    "wof:lastmodified":1449008273,
+    "wof:lastmodified":1466211353,
     "wof:name":"Peter Goepfert Advokaturb\u00fcro",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587738,47.551601,7.587738,47.551601],
+  "bbox": [
+    7.587738,
+    47.551601,
+    7.587738,
+    47.551601
+],
   "geometry": {"coordinates":[7.587738,47.551601],"type":"Point"}
 }

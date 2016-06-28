@@ -2,13 +2,14 @@
   "id": 236313125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.04026,46.082378,9.04026,46.082378",
     "geom:latitude":46.082378,
     "geom:longitude":9.04026,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schluchtstrasse 41",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236313125,
-    "wof:lastmodified":1449001755,
+    "wof:lastmodified":1466211797,
     "wof:name":"Renato Campana Servizio Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.04026,46.082378,9.04026,46.082378],
+  "bbox": [
+    9.04026,
+    46.082378,
+    9.04026,
+    46.082378
+],
   "geometry": {"coordinates":[9.04026,46.082378],"type":"Point"}
 }

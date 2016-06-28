@@ -2,13 +2,14 @@
   "id": 253400557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.679353,46.687775,7.679353,46.687775",
     "geom:latitude":46.687775,
     "geom:longitude":7.679353,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 3 3700 Spiez. Postfach 83",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253400557,
-    "wof:lastmodified":1449063096,
+    "wof:lastmodified":1466212170,
     "wof:name":"Gilbert Loriol Exag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.679353,46.687775,7.679353,46.687775],
+  "bbox": [
+    7.679353,
+    46.687775,
+    7.679353,
+    46.687775
+],
   "geometry": {"coordinates":[7.679353,46.687775],"type":"Point"}
 }

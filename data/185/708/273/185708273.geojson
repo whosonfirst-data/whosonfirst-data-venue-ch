@@ -2,13 +2,14 @@
   "id": 185708273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.713982,47.496292,8.713982,47.496292",
     "geom:latitude":47.496292,
     "geom:longitude":8.713982,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 46",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185708273,
-    "wof:lastmodified":1449006870,
+    "wof:lastmodified":1466211185,
     "wof:name":"Gamma Hug & Christe Advokaturb\u00fcro",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.713982,47.496292,8.713982,47.496292],
+  "bbox": [
+    8.713982,
+    47.496292,
+    8.713982,
+    47.496292
+],
   "geometry": {"coordinates":[8.713982,47.496292],"type":"Point"}
 }

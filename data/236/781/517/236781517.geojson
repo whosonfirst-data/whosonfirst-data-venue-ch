@@ -2,13 +2,14 @@
   "id": 236781517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.57934,46.520161,6.57934,46.520161",
     "geom:latitude":46.520161,
     "geom:longitude":6.57934,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ferme De Dorigny",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236781517,
-    "wof:lastmodified":1449002143,
+    "wof:lastmodified":1466212894,
     "wof:name":"Fondation Jean Monnet Pour L'europe",
     "wof:parent_id":85800161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [6.57934,46.520161,6.57934,46.520161],
+  "bbox": [
+    6.57934,
+    46.520161,
+    6.57934,
+    46.520161
+],
   "geometry": {"coordinates":[6.57934,46.520161],"type":"Point"}
 }

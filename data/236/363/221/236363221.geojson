@@ -2,13 +2,14 @@
   "id": 236363221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.426617,47.468021,9.426617,47.468021",
     "geom:latitude":47.468021,
     "geom:longitude":9.426617,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulstrasse 10a 9402 M\u00f6rschwil. Postfach 11",
     "sg:city":"M\u00f6rschwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236363221,
-    "wof:lastmodified":1449004764,
+    "wof:lastmodified":1466212133,
     "wof:name":"Realschule Otmarschulhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.426617,47.468021,9.426617,47.468021],
+  "bbox": [
+    9.426617,
+    47.468021,
+    9.426617,
+    47.468021
+],
   "geometry": {"coordinates":[9.426617,47.468021],"type":"Point"}
 }

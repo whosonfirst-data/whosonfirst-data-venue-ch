@@ -2,13 +2,14 @@
   "id": 236519267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.750075,47.685307,8.750075,47.685307",
     "geom:latitude":47.685307,
     "geom:longitude":8.750075,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Basadingerstrasse 32 8253 Diessenhofen. Postfach",
     "sg:city":"Diessenhofen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236519267,
-    "wof:lastmodified":1449004987,
+    "wof:lastmodified":1466212551,
     "wof:name":"Ignaz Helg Gartencenter Blumenhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.750075,47.685307,8.750075,47.685307],
+  "bbox": [
+    8.750075,
+    47.685307,
+    8.750075,
+    47.685307
+],
   "geometry": {"coordinates":[8.750075,47.685307],"type":"Point"}
 }

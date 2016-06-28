@@ -2,13 +2,14 @@
   "id": 185984279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.434778,47.082657,8.434778,47.082657",
     "geom:latitude":47.082657,
     "geom:longitude":8.434778,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Burghofstrasse 2 8105 Regensdorf. Postfach",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185984279,
-    "wof:lastmodified":1449007515,
+    "wof:lastmodified":1466210661,
     "wof:name":"Villiger Arnosti Gartenbau Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.434778,47.082657,8.434778,47.082657],
+  "bbox": [
+    8.434778,
+    47.082657,
+    8.434778,
+    47.082657
+],
   "geometry": {"coordinates":[8.434778,47.082657],"type":"Point"}
 }

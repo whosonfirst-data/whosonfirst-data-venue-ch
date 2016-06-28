@@ -2,13 +2,14 @@
   "id": 236129473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.452418,47.361687,9.452418,47.361687",
     "geom:latitude":47.361687,
     "geom:longitude":9.452418,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schulhausstrasse 1",
     "sg:city":"Gais",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236129473,
-    "wof:lastmodified":1449004482,
+    "wof:lastmodified":1466210052,
     "wof:name":"Bauamt Der Gemeine Gais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.452418,47.361687,9.452418,47.361687],
+  "bbox": [
+    9.452418,
+    47.361687,
+    9.452418,
+    47.361687
+],
   "geometry": {"coordinates":[9.452418,47.361687],"type":"Point"}
 }

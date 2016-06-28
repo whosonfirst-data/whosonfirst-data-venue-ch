@@ -2,13 +2,14 @@
   "id": 185662461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.448436,47.399082,8.448436,47.399082",
     "geom:latitude":47.399082,
     "geom:longitude":8.448436,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenstrasse 2",
     "sg:city":"Schlieren",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185662461,
-    "wof:lastmodified":1449007676,
+    "wof:lastmodified":1466210549,
     "wof:name":"Gb Druck Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postcard"
     ]
 },
-  "bbox": [8.448436,47.399082,8.448436,47.399082],
+  "bbox": [
+    8.448436,
+    47.399082,
+    8.448436,
+    47.399082
+],
   "geometry": {"coordinates":[8.448436,47.399082],"type":"Point"}
 }

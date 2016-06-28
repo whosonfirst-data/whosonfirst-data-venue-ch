@@ -2,13 +2,14 @@
   "id": 253041733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574032,47.555779,7.574032,47.555779",
     "geom:latitude":47.555779,
     "geom:longitude":7.574032,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Blauenstrasse 1",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253041733,
-    "wof:lastmodified":1449063894,
+    "wof:lastmodified":1466209344,
     "wof:name":"Art Floral Cocco E.",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.574032,47.555779,7.574032,47.555779],
+  "bbox": [
+    7.574032,
+    47.555779,
+    7.574032,
+    47.555779
+],
   "geometry": {"coordinates":[7.574032,47.555779],"type":"Point"}
 }

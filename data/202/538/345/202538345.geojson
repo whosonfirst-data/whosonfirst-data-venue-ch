@@ -2,13 +2,14 @@
   "id": 202538345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.486654,46.931911,7.486654,46.931911",
     "geom:latitude":46.931911,
     "geom:longitude":7.486654,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rohrerstrasse 20",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202538345,
-    "wof:lastmodified":1449060422,
+    "wof:lastmodified":1466209082,
     "wof:name":"Hermenjat A.f. Ag",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.486654,46.931911,7.486654,46.931911],
+  "bbox": [
+    7.486654,
+    46.931911,
+    7.486654,
+    46.931911
+],
   "geometry": {"coordinates":[7.486654,46.931911],"type":"Point"}
 }

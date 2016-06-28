@@ -2,13 +2,14 @@
   "id": 202845795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.654306,47.018642,8.654306,47.018642",
     "geom:latitude":47.018642,
     "geom:longitude":8.654306,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenstrasse 26",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202845795,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466211759,
     "wof:name":"Mettler Alois & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.654306,47.018642,8.654306,47.018642],
+  "bbox": [
+    8.654306,
+    47.018642,
+    8.654306,
+    47.018642
+],
   "geometry": {"coordinates":[8.654306,47.018642],"type":"Point"}
 }

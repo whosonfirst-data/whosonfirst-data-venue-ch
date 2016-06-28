@@ -2,13 +2,14 @@
   "id": 236148761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.64347,47.268375,8.64347,47.268375",
     "geom:latitude":47.268375,
     "geom:longitude":8.64347,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 19",
     "sg:city":"Meilen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236148761,
-    "wof:lastmodified":1449004625,
+    "wof:lastmodified":1466210247,
     "wof:name":"Cleo Casa Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.64347,47.268375,8.64347,47.268375],
+  "bbox": [
+    8.64347,
+    47.268375,
+    8.64347,
+    47.268375
+],
   "geometry": {"coordinates":[8.64347,47.268375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202844293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525333,47.372314,8.525333,47.372314",
     "geom:latitude":47.372314,
     "geom:longitude":8.525333,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gartenhofstrasse 15",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202844293,
-    "wof:lastmodified":1449061195,
+    "wof:lastmodified":1466211751,
     "wof:name":"Meili & Peter Architekten Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525333,47.372314,8.525333,47.372314],
+  "bbox": [
+    8.525333,
+    47.372314,
+    8.525333,
+    47.372314
+],
   "geometry": {"coordinates":[8.525333,47.372314],"type":"Point"}
 }

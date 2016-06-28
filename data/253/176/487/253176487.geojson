@@ -2,13 +2,14 @@
   "id": 253176487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.544345,46.898273,7.544345,46.898273",
     "geom:latitude":46.898273,
     "geom:longitude":7.544345,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 9",
     "sg:city":"Rubigen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253176487,
-    "wof:lastmodified":1449064767,
+    "wof:lastmodified":1466210804,
     "wof:name":"Friedrich D\u00e4hler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.544345,46.898273,7.544345,46.898273],
+  "bbox": [
+    7.544345,
+    46.898273,
+    7.544345,
+    46.898273
+],
   "geometry": {"coordinates":[7.544345,46.898273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203164603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.61401,46.537708,6.61401,46.537708",
     "geom:latitude":46.537708,
     "geom:longitude":6.61401,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Pierrefleur 60",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203164603,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466209080,
     "wof:name":"Dr M\u00e9d. Claude Barbezat M\u00e9decin G\u00e9n\u00e9raliste Fmh",
     "wof:parent_id":85862343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.61401,46.537708,6.61401,46.537708],
+  "bbox": [
+    6.61401,
+    46.537708,
+    6.61401,
+    46.537708
+],
   "geometry": {"coordinates":[6.61401,46.537708],"type":"Point"}
 }

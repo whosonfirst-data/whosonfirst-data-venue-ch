@@ -2,13 +2,14 @@
   "id": 252722321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.281715,46.226765,7.281715,46.226765",
     "geom:latitude":46.226765,
     "geom:longitude":7.281715,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vignerons Rue Des 1963 V\u00e9troz. Postfach",
     "sg:city":"V\u00e9troz",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252722321,
-    "wof:lastmodified":1449005782,
+    "wof:lastmodified":1466209075,
     "wof:name":"Caves Les Ruinettes, Roh Serge Vigneron-en-caveur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.281715,46.226765,7.281715,46.226765],
+  "bbox": [
+    7.281715,
+    46.226765,
+    7.281715,
+    46.226765
+],
   "geometry": {"coordinates":[7.281715,46.226765],"type":"Point"}
 }

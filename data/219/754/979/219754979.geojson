@@ -2,13 +2,14 @@
   "id": 219754979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.15286,46.20153,6.15286,46.20153",
     "geom:latitude":46.20153,
     "geom:longitude":6.15286,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6distrasse 27",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219754979,
-    "wof:lastmodified":1449072696,
+    "wof:lastmodified":1466212295,
     "wof:name":"Vonwiller Sa",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.15286,46.20153,6.15286,46.20153],
+  "bbox": [
+    6.15286,
+    46.20153,
+    6.15286,
+    46.20153
+],
   "geometry": {"coordinates":[6.15286,46.20153],"type":"Point"}
 }

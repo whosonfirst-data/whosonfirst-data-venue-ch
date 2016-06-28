@@ -2,13 +2,14 @@
   "id": 219250403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.325959,47.177177,8.325959,47.177177",
     "geom:latitude":47.177177,
     "geom:longitude":8.325959,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ober-ebersol",
     "sg:city":"Hohenrain",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219250403,
-    "wof:lastmodified":1449072390,
+    "wof:lastmodified":1466211533,
     "wof:name":"Alex R\u00fcttimann Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.325959,47.177177,8.325959,47.177177],
+  "bbox": [
+    8.325959,
+    47.177177,
+    8.325959,
+    47.177177
+],
   "geometry": {"coordinates":[8.325959,47.177177],"type":"Point"}
 }

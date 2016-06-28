@@ -2,13 +2,14 @@
   "id": 186388687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.192321,47.483139,8.192321,47.483139",
     "geom:latitude":47.483139,
     "geom:longitude":8.192321,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baslerstrasse 44",
     "sg:city":"Umiken",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186388687,
-    "wof:lastmodified":1449050375,
+    "wof:lastmodified":1466210503,
     "wof:name":"Reisinger Montagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.192321,47.483139,8.192321,47.483139],
+  "bbox": [
+    8.192321,
+    47.483139,
+    8.192321,
+    47.483139
+],
   "geometry": {"coordinates":[8.192321,47.483139],"type":"Point"}
 }

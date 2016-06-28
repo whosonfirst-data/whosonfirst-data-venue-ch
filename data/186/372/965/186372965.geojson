@@ -2,13 +2,14 @@
   "id": 186372965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.582049,47.531395,8.582049,47.531395",
     "geom:latitude":47.531395,
     "geom:longitude":8.582049,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"D\u00e4ttlikerstrasse 5",
     "sg:city":"Freienstein",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186372965,
-    "wof:lastmodified":1449051989,
+    "wof:lastmodified":1466210381,
     "wof:name":"Meier & S\u00f6hne Ag, Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.582049,47.531395,8.582049,47.531395],
+  "bbox": [
+    8.582049,
+    47.531395,
+    8.582049,
+    47.531395
+],
   "geometry": {"coordinates":[8.582049,47.531395],"type":"Point"}
 }

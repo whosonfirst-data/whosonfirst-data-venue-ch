@@ -2,13 +2,14 @@
   "id": 203179597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.666006,46.506939,6.666006,46.506939",
     "geom:latitude":46.506939,
     "geom:longitude":6.666006,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route D'oron 11",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203179597,
-    "wof:lastmodified":1449026678,
+    "wof:lastmodified":1466209245,
     "wof:name":"Dr M\u00e9d. Fran\u00e7ois Nicole M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85800419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.666006,46.506939,6.666006,46.506939],
+  "bbox": [
+    6.666006,
+    46.506939,
+    6.666006,
+    46.506939
+],
   "geometry": {"coordinates":[6.666006,46.506939],"type":"Point"}
 }

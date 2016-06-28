@@ -2,13 +2,14 @@
   "id": 253278975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.448586,46.781631,7.448586,46.781631",
     "geom:latitude":46.781631,
     "geom:longitude":7.448586,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Interlakenstrasse 75",
     "sg:city":"Faulensee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253278975,
-    "wof:lastmodified":1449064460,
+    "wof:lastmodified":1466211760,
     "wof:name":"Ernst Herren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.448586,46.781631,7.448586,46.781631],
+  "bbox": [
+    7.448586,
+    46.781631,
+    7.448586,
+    46.781631
+],
   "geometry": {"coordinates":[7.448586,46.781631],"type":"Point"}
 }

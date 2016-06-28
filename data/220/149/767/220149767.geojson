@@ -2,13 +2,14 @@
   "id": 220149767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.465469,46.535248,6.465469,46.535248",
     "geom:latitude":46.535248,
     "geom:longitude":6.465469,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Rebibe",
     "sg:city":"Vaux-sur-morges",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220149767,
-    "wof:lastmodified":1449074061,
+    "wof:lastmodified":1466210162,
     "wof:name":"Stoudmann Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.465469,46.535248,6.465469,46.535248],
+  "bbox": [
+    6.465469,
+    46.535248,
+    6.465469,
+    46.535248
+],
   "geometry": {"coordinates":[6.465469,46.535248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186471809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.57223,47.538757,7.57223,47.538757",
     "geom:latitude":47.538757,
     "geom:longitude":7.57223,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neufeldstrasse 134 3012 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186471809,
-    "wof:lastmodified":1449051450,
+    "wof:lastmodified":1466211183,
     "wof:name":"Ausgleichskasse Basel-landschaft",
     "wof:parent_id":85799827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.57223,47.538757,7.57223,47.538757],
+  "bbox": [
+    7.57223,
+    47.538757,
+    7.57223,
+    47.538757
+],
   "geometry": {"coordinates":[7.57223,47.538757],"type":"Point"}
 }

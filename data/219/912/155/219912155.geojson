@@ -2,13 +2,14 @@
   "id": 219912155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.12836,46.237598,9.12836,46.237598",
     "geom:latitude":46.237598,
     "geom:longitude":9.12836,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 24 5000 Aarau. Postfach",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219912155,
-    "wof:lastmodified":1449072127,
+    "wof:lastmodified":1466212563,
     "wof:name":"Batigroup (ticino) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.12836,46.237598,9.12836,46.237598],
+  "bbox": [
+    9.12836,
+    46.237598,
+    9.12836,
+    46.237598
+],
   "geometry": {"coordinates":[9.12836,46.237598],"type":"Point"}
 }

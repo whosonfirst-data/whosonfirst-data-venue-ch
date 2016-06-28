@@ -2,13 +2,14 @@
   "id": 186598677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.751657,47.505074,8.751657,47.505074",
     "geom:latitude":47.505074,
     "geom:longitude":8.751657,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Talackerstrasse 54",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186598677,
-    "wof:lastmodified":1449050408,
+    "wof:lastmodified":1466211960,
     "wof:name":"Schweiz. Baukader-verband Sektion Winterthur",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.751657,47.505074,8.751657,47.505074],
+  "bbox": [
+    8.751657,
+    47.505074,
+    8.751657,
+    47.505074
+],
   "geometry": {"coordinates":[8.751657,47.505074],"type":"Point"}
 }

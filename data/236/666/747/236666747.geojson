@@ -2,13 +2,14 @@
   "id": 236666747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.855473,47.656185,8.855473,47.656185",
     "geom:latitude":47.656185,
     "geom:longitude":8.855473,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarestrasse 107",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236666747,
-    "wof:lastmodified":1449002736,
+    "wof:lastmodified":1466212775,
     "wof:name":"Vip Party-pizza Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [8.855473,47.656185,8.855473,47.656185],
+  "bbox": [
+    8.855473,
+    47.656185,
+    8.855473,
+    47.656185
+],
   "geometry": {"coordinates":[8.855473,47.656185],"type":"Point"}
 }

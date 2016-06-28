@@ -2,13 +2,14 @@
   "id": 202921413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.352608,46.222744,7.352608,46.222744",
     "geom:latitude":46.222744,
     "geom:longitude":7.352608,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Saint-hubert 41",
     "sg:city":"Sion",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202921413,
-    "wof:lastmodified":1449061718,
+    "wof:lastmodified":1466212106,
     "wof:name":"Mbc Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.352608,46.222744,7.352608,46.222744],
+  "bbox": [
+    7.352608,
+    46.222744,
+    7.352608,
+    46.222744
+],
   "geometry": {"coordinates":[7.352608,46.222744],"type":"Point"}
 }

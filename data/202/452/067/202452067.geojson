@@ -2,13 +2,14 @@
   "id": 202452067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.307769,46.994637,8.307769,46.994637",
     "geom:latitude":46.994637,
     "geom:longitude":8.307769,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Mornex Chemin De 8bis",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202452067,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466210860,
     "wof:name":"Computer Aided Engineering Ag",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.307769,46.994637,8.307769,46.994637],
+  "bbox": [
+    8.307769,
+    46.994637,
+    8.307769,
+    46.994637
+],
   "geometry": {"coordinates":[8.307769,46.994637],"type":"Point"}
 }

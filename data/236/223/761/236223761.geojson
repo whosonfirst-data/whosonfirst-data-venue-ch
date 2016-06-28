@@ -2,13 +2,14 @@
   "id": 236223761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.401279,46.942142,7.401279,46.942142",
     "geom:latitude":46.942142,
     "geom:longitude":7.401279,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Birmensdorferstrasse 266",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236223761,
-    "wof:lastmodified":1449001848,
+    "wof:lastmodified":1466211064,
     "wof:name":"Indigeno Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.401279,46.942142,7.401279,46.942142],
+  "bbox": [
+    7.401279,
+    46.942142,
+    7.401279,
+    46.942142
+],
   "geometry": {"coordinates":[7.401279,46.942142],"type":"Point"}
 }

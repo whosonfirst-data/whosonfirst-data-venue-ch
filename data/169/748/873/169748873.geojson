@@ -2,13 +2,14 @@
   "id": 169748873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.580638,47.343708,8.580638,47.343708",
     "geom:latitude":47.343708,
     "geom:longitude":8.580638,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schlossbergstrasse 22",
     "sg:city":"Zollikon-z\u00fcrich-schweiz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169748873,
-    "wof:lastmodified":1449035144,
+    "wof:lastmodified":1466211347,
     "wof:name":"Rickenbach & Partner",
     "wof:parent_id":85800679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.580638,47.343708,8.580638,47.343708],
+  "bbox": [
+    8.580638,
+    47.343708,
+    8.580638,
+    47.343708
+],
   "geometry": {"coordinates":[8.580638,47.343708],"type":"Point"}
 }

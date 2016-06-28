@@ -2,13 +2,14 @@
   "id": 236393917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.054515,47.172451,9.054515,47.172451",
     "geom:latitude":47.172451,
     "geom:longitude":9.054515,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Falkenweg 9",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236393917,
-    "wof:lastmodified":1449002533,
+    "wof:lastmodified":1466212220,
     "wof:name":"Schulsekretariat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.054515,47.172451,9.054515,47.172451],
+  "bbox": [
+    9.054515,
+    47.172451,
+    9.054515,
+    47.172451
+],
   "geometry": {"coordinates":[9.054515,47.172451],"type":"Point"}
 }

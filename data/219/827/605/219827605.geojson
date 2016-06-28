@@ -2,13 +2,14 @@
   "id": 219827605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.001297,47.369514,8.001297,47.369514",
     "geom:latitude":47.369514,
     "geom:longitude":8.001297,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oltnerstrasse 49",
     "sg:city":"Sch\u00f6nenwerd",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219827605,
-    "wof:lastmodified":1449071655,
+    "wof:lastmodified":1466212509,
     "wof:name":"Space-bar Marc Senn",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.001297,47.369514,8.001297,47.369514],
+  "bbox": [
+    8.001297,
+    47.369514,
+    8.001297,
+    47.369514
+],
   "geometry": {"coordinates":[8.001297,47.369514],"type":"Point"}
 }

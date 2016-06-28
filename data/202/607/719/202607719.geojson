@@ -2,13 +2,14 @@
   "id": 202607719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.624743,46.615665,6.624743,46.615665",
     "geom:latitude":46.615665,
     "geom:longitude":6.624743,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De Corjon",
     "sg:city":"Assens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202607719,
-    "wof:lastmodified":1449060440,
+    "wof:lastmodified":1466209731,
     "wof:name":"Lanfranchi Maurice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.624743,46.615665,6.624743,46.615665],
+  "bbox": [
+    6.624743,
+    46.615665,
+    6.624743,
+    46.615665
+],
   "geometry": {"coordinates":[6.624743,46.615665],"type":"Point"}
 }

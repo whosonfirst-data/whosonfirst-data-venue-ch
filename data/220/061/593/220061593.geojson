@@ -2,13 +2,14 @@
   "id": 220061593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.669573,46.730942,7.669573,46.730942",
     "geom:latitude":46.730942,
     "geom:longitude":7.669573,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zofingerstrasse 20",
     "sg:city":"Oftringen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220061593,
-    "wof:lastmodified":1449074632,
+    "wof:lastmodified":1466209413,
     "wof:name":"Werner Zumbach Schreinerei & Glaserei",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.669573,46.730942,7.669573,46.730942],
+  "bbox": [
+    7.669573,
+    46.730942,
+    7.669573,
+    46.730942
+],
   "geometry": {"coordinates":[7.669573,46.730942],"type":"Point"}
 }

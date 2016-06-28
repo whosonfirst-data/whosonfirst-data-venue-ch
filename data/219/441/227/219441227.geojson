@@ -2,13 +2,14 @@
   "id": 219441227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.199668,46.348118,6.199668,46.348118",
     "geom:latitude":46.348118,
     "geom:longitude":6.199668,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Founex 25",
     "sg:city":"C\u00e9ligny",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219441227,
-    "wof:lastmodified":1449070658,
+    "wof:lastmodified":1466210555,
     "wof:name":"Buffet De La Gare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.199668,46.348118,6.199668,46.348118],
+  "bbox": [
+    6.199668,
+    46.348118,
+    6.199668,
+    46.348118
+],
   "geometry": {"coordinates":[6.199668,46.348118],"type":"Point"}
 }

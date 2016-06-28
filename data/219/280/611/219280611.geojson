@@ -2,13 +2,14 @@
   "id": 219280611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.611206,46.780949,7.611206,46.780949",
     "geom:latitude":46.780949,
     "geom:longitude":7.611206,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 210 3613 Steffisburg. Postfach 34",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219280611,
-    "wof:lastmodified":1449072118,
+    "wof:lastmodified":1466209066,
     "wof:name":"Gebr.ernst & Kurt Schneiter Garage",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.611206,46.780949,7.611206,46.780949],
+  "bbox": [
+    7.611206,
+    46.780949,
+    7.611206,
+    46.780949
+],
   "geometry": {"coordinates":[7.611206,46.780949],"type":"Point"}
 }

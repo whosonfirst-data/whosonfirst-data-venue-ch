@@ -2,13 +2,14 @@
   "id": 186027191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.332892,47.367393,7.332892,47.367393",
     "geom:latitude":47.367393,
     "geom:longitude":7.332892,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch. De Domont 60",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186027191,
-    "wof:lastmodified":1449050907,
+    "wof:lastmodified":1466209679,
     "wof:name":"Boegli Ch.-f.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.332892,47.367393,7.332892,47.367393],
+  "bbox": [
+    7.332892,
+    47.367393,
+    7.332892,
+    47.367393
+],
   "geometry": {"coordinates":[7.332892,47.367393],"type":"Point"}
 }

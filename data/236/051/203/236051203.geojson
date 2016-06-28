@@ -2,13 +2,14 @@
   "id": 236051203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.572521,47.52322,7.572521,47.52322",
     "geom:latitude":47.52322,
     "geom:longitude":7.572521,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruderholzstrasse 12 4103 Bottmingen. Postfach 344",
     "sg:city":"Bottmingen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236051203,
-    "wof:lastmodified":1449003734,
+    "wof:lastmodified":1466209342,
     "wof:name":"Muchenberger Ag",
     "wof:parent_id":85799843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.572521,47.52322,7.572521,47.52322],
+  "bbox": [
+    7.572521,
+    47.52322,
+    7.572521,
+    47.52322
+],
   "geometry": {"coordinates":[7.572521,47.52322],"type":"Point"}
 }

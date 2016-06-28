@@ -2,13 +2,14 @@
   "id": 185903691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.124869,46.862995,7.124869,46.862995",
     "geom:latitude":46.862995,
     "geom:longitude":7.124869,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Fribourg 59 1784 Courtepin Case Postale 124",
     "sg:city":"Courtepin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185903691,
-    "wof:lastmodified":1449006691,
+    "wof:lastmodified":1466209870,
     "wof:name":"P. Et C. Planification Et Construction Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.124869,46.862995,7.124869,46.862995],
+  "bbox": [
+    7.124869,
+    46.862995,
+    7.124869,
+    46.862995
+],
   "geometry": {"coordinates":[7.124869,46.862995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236749677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.575684,47.328129,8.575684,47.328129",
     "geom:latitude":47.328129,
     "geom:longitude":8.575684,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstrasse 40",
     "sg:city":"K\u00fcsnacht",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236749677,
-    "wof:lastmodified":1449002408,
+    "wof:lastmodified":1466212868,
     "wof:name":"Disko Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaning"
     ]
 },
-  "bbox": [8.575684,47.328129,8.575684,47.328129],
+  "bbox": [
+    8.575684,
+    47.328129,
+    8.575684,
+    47.328129
+],
   "geometry": {"coordinates":[8.575684,47.328129],"type":"Point"}
 }

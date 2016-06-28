@@ -2,13 +2,14 @@
   "id": 236470083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.554083,47.371094,8.554083,47.371094",
     "geom:latitude":47.371094,
     "geom:longitude":8.554083,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Freiestrasse 36",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236470083,
-    "wof:lastmodified":1449002278,
+    "wof:lastmodified":1466212455,
     "wof:name":"Rechtswissenschaftl.institut",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.554083,47.371094,8.554083,47.371094],
+  "bbox": [
+    8.554083,
+    47.371094,
+    8.554083,
+    47.371094
+],
   "geometry": {"coordinates":[8.554083,47.371094],"type":"Point"}
 }

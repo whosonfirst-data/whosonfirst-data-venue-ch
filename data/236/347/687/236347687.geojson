@@ -2,13 +2,14 @@
   "id": 236347687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.691465,47.314018,7.691465,47.314018",
     "geom:latitude":47.314018,
     "geom:longitude":7.691465,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haulismattstrasse 3",
     "sg:city":"Balsthal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236347687,
-    "wof:lastmodified":1449003206,
+    "wof:lastmodified":1466211972,
     "wof:name":"Bezirksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.691465,47.314018,7.691465,47.314018],
+  "bbox": [
+    7.691465,
+    47.314018,
+    7.691465,
+    47.314018
+],
   "geometry": {"coordinates":[7.691465,47.314018],"type":"Point"}
 }

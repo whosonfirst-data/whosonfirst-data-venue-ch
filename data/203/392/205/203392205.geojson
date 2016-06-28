@@ -2,13 +2,14 @@
   "id": 203392205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.654421,47.40155,8.654421,47.40155",
     "geom:latitude":47.40155,
     "geom:longitude":8.654421,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"K\u00e4nelmattweg 1 4106 Therwil. Postfach",
     "sg:city":"Therwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203392205,
-    "wof:lastmodified":1449026457,
+    "wof:lastmodified":1466211449,
     "wof:name":"Dr.med.pierre-albert Bozzone Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.654421,47.40155,8.654421,47.40155],
+  "bbox": [
+    8.654421,
+    47.40155,
+    8.654421,
+    47.40155
+],
   "geometry": {"coordinates":[8.654421,47.40155],"type":"Point"}
 }

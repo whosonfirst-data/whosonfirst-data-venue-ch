@@ -2,13 +2,14 @@
   "id": 186562191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.512447,46.956573,7.512447,46.956573",
     "geom:latitude":46.956573,
     "geom:longitude":7.512447,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"G\u00fcmligentalstrasse 75",
     "sg:city":"Stettlen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186562191,
-    "wof:lastmodified":1449051794,
+    "wof:lastmodified":1466211784,
     "wof:name":"Jerry-dog",
     "wof:parent_id":85800475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "husbandry"
     ]
 },
-  "bbox": [7.512447,46.956573,7.512447,46.956573],
+  "bbox": [
+    7.512447,
+    46.956573,
+    7.512447,
+    46.956573
+],
   "geometry": {"coordinates":[7.512447,46.956573],"type":"Point"}
 }

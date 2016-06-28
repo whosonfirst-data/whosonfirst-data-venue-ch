@@ -2,13 +2,14 @@
   "id": 219635645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.606385,47.454185,7.606385,47.454185",
     "geom:latitude":47.454185,
     "geom:longitude":7.606385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Aeschstrasse 16",
     "sg:city":"Duggingen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219635645,
-    "wof:lastmodified":1449071914,
+    "wof:lastmodified":1466212100,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.606385,47.454185,7.606385,47.454185],
+  "bbox": [
+    7.606385,
+    47.454185,
+    7.606385,
+    47.454185
+],
   "geometry": {"coordinates":[7.606385,47.454185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219498789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.15128,46.802502,7.15128,46.802502",
     "geom:latitude":46.802502,
     "geom:longitude":7.15128,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Langallerie 11",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219498789,
-    "wof:lastmodified":1449073078,
+    "wof:lastmodified":1466211130,
     "wof:name":"Banque Procr\u00e9dit Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.15128,46.802502,7.15128,46.802502],
+  "bbox": [
+    7.15128,
+    46.802502,
+    7.15128,
+    46.802502
+],
   "geometry": {"coordinates":[7.15128,46.802502],"type":"Point"}
 }

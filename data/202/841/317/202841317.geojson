@@ -2,13 +2,14 @@
   "id": 202841317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.53503,47.345078,8.53503,47.345078",
     "geom:latitude":47.345078,
     "geom:longitude":8.53503,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bachstrasse 11 8038 Z\u00fcrich. Postfach 1002",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202841317,
-    "wof:lastmodified":1449060649,
+    "wof:lastmodified":1466211872,
     "wof:name":"Loft 11 Atelier F\u00fcr Design Und Architektur Monteverde Claudio Arch. Htl Architekturb\u00fcro. Produktdesign, Bes. F\u00fcr Den Innenausbau U. Die Innenarchitektur",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.53503,47.345078,8.53503,47.345078],
+  "bbox": [
+    8.53503,
+    47.345078,
+    8.53503,
+    47.345078
+],
   "geometry": {"coordinates":[8.53503,47.345078],"type":"Point"}
 }

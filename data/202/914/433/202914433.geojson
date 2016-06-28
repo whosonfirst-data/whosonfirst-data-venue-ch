@@ -2,13 +2,14 @@
   "id": 202914433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.9565,46.010162,8.9565,46.010162",
     "geom:latitude":46.010162,
     "geom:longitude":8.9565,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Elvezia 32a",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202914433,
-    "wof:lastmodified":1449061081,
+    "wof:lastmodified":1466212066,
     "wof:name":"Crivelli Franco Studio D'architettura Di Interni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.9565,46.010162,8.9565,46.010162],
+  "bbox": [
+    8.9565,
+    46.010162,
+    8.9565,
+    46.010162
+],
   "geometry": {"coordinates":[8.9565,46.010162],"type":"Point"}
 }

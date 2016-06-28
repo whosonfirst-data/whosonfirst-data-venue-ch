@@ -2,13 +2,14 @@
   "id": 186290043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.015087,46.180176,9.015087,46.180176",
     "geom:latitude":46.180176,
     "geom:longitude":9.015087,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Al Fossato 9b 6512 Giubiasco. Postfach",
     "sg:city":"Giubiasco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186290043,
-    "wof:lastmodified":1449051525,
+    "wof:lastmodified":1466209763,
     "wof:name":"Idillio Cavazzoni Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.015087,46.180176,9.015087,46.180176],
+  "bbox": [
+    9.015087,
+    46.180176,
+    9.015087,
+    46.180176
+],
   "geometry": {"coordinates":[9.015087,46.180176],"type":"Point"}
 }

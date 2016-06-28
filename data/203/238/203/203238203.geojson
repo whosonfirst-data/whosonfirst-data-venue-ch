@@ -2,13 +2,14 @@
   "id": 203238203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.52367,47.318638,8.52367,47.318638",
     "geom:latitude":47.318638,
     "geom:longitude":8.52367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Soodstrasse 50c",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203238203,
-    "wof:lastmodified":1449025626,
+    "wof:lastmodified":1466209893,
     "wof:name":"Dr.med. Andrea Brack Spezial\u00e4rztin Fmh",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.52367,47.318638,8.52367,47.318638],
+  "bbox": [
+    8.52367,
+    47.318638,
+    8.52367,
+    47.318638
+],
   "geometry": {"coordinates":[8.52367,47.318638],"type":"Point"}
 }

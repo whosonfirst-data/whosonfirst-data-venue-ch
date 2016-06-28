@@ -2,13 +2,14 @@
   "id": 219550069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.565689,47.371677,8.565689,47.371677",
     "geom:latitude":47.371677,
     "geom:longitude":8.565689,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauserstr. 14",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219550069,
-    "wof:lastmodified":1449072285,
+    "wof:lastmodified":1466211600,
     "wof:name":"First National Bank, Of Southern Africa Ltd.",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.565689,47.371677,8.565689,47.371677],
+  "bbox": [
+    8.565689,
+    47.371677,
+    8.565689,
+    47.371677
+],
   "geometry": {"coordinates":[8.565689,47.371677],"type":"Point"}
 }

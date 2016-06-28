@@ -2,13 +2,14 @@
   "id": 186082363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.315901,47.468826,8.315901,47.468826",
     "geom:latitude":47.468826,
     "geom:longitude":8.315901,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentralstrasse 43 5430 Wettingen. Postfach",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186082363,
-    "wof:lastmodified":1449050340,
+    "wof:lastmodified":1466210555,
     "wof:name":"Generalbau Merkli Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.315901,47.468826,8.315901,47.468826],
+  "bbox": [
+    8.315901,
+    47.468826,
+    8.315901,
+    47.468826
+],
   "geometry": {"coordinates":[8.315901,47.468826],"type":"Point"}
 }

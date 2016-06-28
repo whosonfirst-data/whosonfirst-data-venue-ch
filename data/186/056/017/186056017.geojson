@@ -2,13 +2,14 @@
   "id": 186056017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.899134,46.441841,6.899134,46.441841",
     "geom:latitude":46.441841,
     "geom:longitude":6.899134,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Petit-clos Chemin Du 20 1815 Clarens. Postfach",
     "sg:city":"Clarens",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186056017,
-    "wof:lastmodified":1449051141,
+    "wof:lastmodified":1466211660,
     "wof:name":"E.g.b. Montreux Sa Entreprise G\u00e9n\u00e9rale Du B\u00e2timent",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.899134,46.441841,6.899134,46.441841],
+  "bbox": [
+    6.899134,
+    46.441841,
+    6.899134,
+    46.441841
+],
   "geometry": {"coordinates":[6.899134,46.441841],"type":"Point"}
 }

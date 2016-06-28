@@ -2,13 +2,14 @@
   "id": 253387211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587417,47.550102,7.587417,47.550102",
     "geom:latitude":47.550102,
     "geom:longitude":7.587417,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinentorberg 12",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253387211,
-    "wof:lastmodified":1449065374,
+    "wof:lastmodified":1466212222,
     "wof:name":"Lista Schweiz Ag Lc Basel",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.587417,47.550102,7.587417,47.550102],
+  "bbox": [
+    7.587417,
+    47.550102,
+    7.587417,
+    47.550102
+],
   "geometry": {"coordinates":[7.587417,47.550102],"type":"Point"}
 }

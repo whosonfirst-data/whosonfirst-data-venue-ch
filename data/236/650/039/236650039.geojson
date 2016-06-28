@@ -2,13 +2,14 @@
   "id": 236650039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.281525,47.466801,9.281525,47.466801",
     "geom:latitude":47.466801,
     "geom:longitude":9.281525,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Arneggerstrasse 22a",
     "sg:city":"Waldkirch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236650039,
-    "wof:lastmodified":1449003708,
+    "wof:lastmodified":1466212742,
     "wof:name":"Mondholz Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supraregional"
     ]
 },
-  "bbox": [9.281525,47.466801,9.281525,47.466801],
+  "bbox": [
+    9.281525,
+    47.466801,
+    9.281525,
+    47.466801
+],
   "geometry": {"coordinates":[9.281525,47.466801],"type":"Point"}
 }

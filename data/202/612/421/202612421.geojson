@@ -2,13 +2,14 @@
   "id": 202612421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.00841,47.397095,8.00841,47.397095",
     "geom:latitude":47.397095,
     "geom:longitude":8.00841,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 1",
     "sg:city":"Niedererlinsbach",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202612421,
-    "wof:lastmodified":1449061244,
+    "wof:lastmodified":1466209775,
     "wof:name":"Lipla Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.00841,47.397095,8.00841,47.397095],
+  "bbox": [
+    8.00841,
+    47.397095,
+    8.00841,
+    47.397095
+],
   "geometry": {"coordinates":[8.00841,47.397095],"type":"Point"}
 }

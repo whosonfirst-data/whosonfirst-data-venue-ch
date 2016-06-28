@@ -2,13 +2,14 @@
   "id": 236845417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.422099,46.816532,8.422099,46.816532",
     "geom:latitude":46.816532,
     "geom:longitude":8.422099,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Vorder Stockli 14",
     "sg:city":"Engelberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236845417,
-    "wof:lastmodified":1449002079,
+    "wof:lastmodified":1466213001,
     "wof:name":"Stehrenberger Urs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.422099,46.816532,8.422099,46.816532],
+  "bbox": [
+    8.422099,
+    46.816532,
+    8.422099,
+    46.816532
+],
   "geometry": {"coordinates":[8.422099,46.816532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252710187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.562748,46.970028,9.562748,46.970028",
     "geom:latitude":46.970028,
     "geom:longitude":9.562748,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Mon-repos 14",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252710187,
-    "wof:lastmodified":1449005473,
+    "wof:lastmodified":1466208952,
     "wof:name":"Wyler Informatik & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.562748,46.970028,9.562748,46.970028],
+  "bbox": [
+    9.562748,
+    46.970028,
+    9.562748,
+    46.970028
+],
   "geometry": {"coordinates":[9.562748,46.970028],"type":"Point"}
 }

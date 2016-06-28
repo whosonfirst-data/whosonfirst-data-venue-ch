@@ -2,13 +2,14 @@
   "id": 220118143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.994102,47.517376,8.994102,47.517376",
     "geom:latitude":47.517376,
     "geom:longitude":8.994102,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 42",
     "sg:city":"Lommis",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220118143,
-    "wof:lastmodified":1449074695,
+    "wof:lastmodified":1466209892,
     "wof:name":"Meienhofer Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.994102,47.517376,8.994102,47.517376],
+  "bbox": [
+    8.994102,
+    47.517376,
+    8.994102,
+    47.517376
+],
   "geometry": {"coordinates":[8.994102,47.517376],"type":"Point"}
 }

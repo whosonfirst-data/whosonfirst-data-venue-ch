@@ -2,13 +2,14 @@
   "id": 236081783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.633021,46.638233,6.633021,46.638233",
     "geom:latitude":46.638233,
     "geom:longitude":6.633021,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Du Grand-record 17",
     "sg:city":"Echallens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236081783,
-    "wof:lastmodified":1449002511,
+    "wof:lastmodified":1466209629,
     "wof:name":"Laurent Berset Installations Sanitaires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.633021,46.638233,6.633021,46.638233],
+  "bbox": [
+    6.633021,
+    46.638233,
+    6.633021,
+    46.638233
+],
   "geometry": {"coordinates":[6.633021,46.638233],"type":"Point"}
 }

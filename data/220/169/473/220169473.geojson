@@ -2,13 +2,14 @@
   "id": 220169473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.036865,46.212288,6.036865,46.212288",
     "geom:latitude":46.212288,
     "geom:longitude":6.036865,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De Merdisel 33",
     "sg:city":"Satigny",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220169473,
-    "wof:lastmodified":1449074529,
+    "wof:lastmodified":1466210327,
     "wof:name":"Bechaz Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.036865,46.212288,6.036865,46.212288],
+  "bbox": [
+    6.036865,
+    46.212288,
+    6.036865,
+    46.212288
+],
   "geometry": {"coordinates":[6.036865,46.212288],"type":"Point"}
 }

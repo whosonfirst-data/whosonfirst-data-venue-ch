@@ -2,13 +2,14 @@
   "id": 219273983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.286871,46.741016,7.286871,46.741016",
     "geom:latitude":46.741016,
     "geom:longitude":7.286871,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bifang 266 1716 Plaffeien. Postfach",
     "sg:city":"Plaffeien",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219273983,
-    "wof:lastmodified":1449072218,
+    "wof:lastmodified":1466209007,
     "wof:name":"Garage Bifang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.286871,46.741016,7.286871,46.741016],
+  "bbox": [
+    7.286871,
+    46.741016,
+    7.286871,
+    46.741016
+],
   "geometry": {"coordinates":[7.286871,46.741016],"type":"Point"}
 }

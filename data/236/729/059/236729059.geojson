@@ -2,13 +2,14 @@
   "id": 236729059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525538,47.379337,8.525538,47.379337",
     "geom:latitude":47.379337,
     "geom:longitude":8.525538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Dienerstrasse 70",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236729059,
-    "wof:lastmodified":1449003286,
+    "wof:lastmodified":1466212781,
     "wof:name":"Sie & Er W\u00e4scherei & Chemischreinigung",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525538,47.379337,8.525538,47.379337],
+  "bbox": [
+    8.525538,
+    47.379337,
+    8.525538,
+    47.379337
+],
   "geometry": {"coordinates":[8.525538,47.379337],"type":"Point"}
 }

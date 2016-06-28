@@ -2,13 +2,14 @@
   "id": 252769713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.048594,47.35331,8.048594,47.35331",
     "geom:latitude":47.35331,
     "geom:longitude":8.048594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Jubil\u00e4umsweg 10",
     "sg:city":"Oberentfelden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252769713,
-    "wof:lastmodified":1449005766,
+    "wof:lastmodified":1466209544,
     "wof:name":"Hans Peter Kyburz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.048594,47.35331,8.048594,47.35331],
+  "bbox": [
+    8.048594,
+    47.35331,
+    8.048594,
+    47.35331
+],
   "geometry": {"coordinates":[8.048594,47.35331],"type":"Point"}
 }

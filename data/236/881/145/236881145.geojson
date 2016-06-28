@@ -2,13 +2,14 @@
   "id": 236881145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.390377,47.311535,8.390377,47.311535",
     "geom:latitude":47.311535,
     "geom:longitude":8.390377,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrcherstrasse 1",
     "sg:city":"Oberlunkhofen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236881145,
-    "wof:lastmodified":1449003585,
+    "wof:lastmodified":1466212951,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.390377,47.311535,8.390377,47.311535],
+  "bbox": [
+    8.390377,
+    47.311535,
+    8.390377,
+    47.311535
+],
   "geometry": {"coordinates":[8.390377,47.311535],"type":"Point"}
 }

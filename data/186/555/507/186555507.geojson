@@ -2,13 +2,14 @@
   "id": 186555507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.498675,47.48727,8.498675,47.48727",
     "geom:latitude":47.48727,
     "geom:longitude":8.498675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seeblerstrasse",
     "sg:city":"Niederglatt",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186555507,
-    "wof:lastmodified":1449052633,
+    "wof:lastmodified":1466211891,
     "wof:name":"Alcan Allega Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminium"
     ]
 },
-  "bbox": [8.498675,47.48727,8.498675,47.48727],
+  "bbox": [
+    8.498675,
+    47.48727,
+    8.498675,
+    47.48727
+],
   "geometry": {"coordinates":[8.498675,47.48727],"type":"Point"}
 }

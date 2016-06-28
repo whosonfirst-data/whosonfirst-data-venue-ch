@@ -2,13 +2,14 @@
   "id": 202486701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.390074,46.935547,7.390074,46.935547",
     "geom:latitude":46.935547,
     "geom:longitude":7.390074,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidgasse 10 3018 Bern. Postfach 506",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202486701,
-    "wof:lastmodified":1449061521,
+    "wof:lastmodified":1466211287,
     "wof:name":"Ernst Arm",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.390074,46.935547,7.390074,46.935547],
+  "bbox": [
+    7.390074,
+    46.935547,
+    7.390074,
+    46.935547
+],
   "geometry": {"coordinates":[7.390074,46.935547],"type":"Point"}
 }

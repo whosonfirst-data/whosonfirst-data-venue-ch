@@ -2,13 +2,14 @@
   "id": 202750711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597107,47.507706,7.597107,47.507706",
     "geom:latitude":47.507706,
     "geom:longitude":7.597107,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Stansstaderstrasse 49a 6370 Stans. Postfach",
     "sg:city":"Stans",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202750711,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466211060,
     "wof:name":"Up Universal Project Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.597107,47.507706,7.597107,47.507706],
+  "bbox": [
+    7.597107,
+    47.507706,
+    7.597107,
+    47.507706
+],
   "geometry": {"coordinates":[7.597107,47.507706],"type":"Point"}
 }

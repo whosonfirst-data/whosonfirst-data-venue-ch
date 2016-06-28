@@ -2,13 +2,14 @@
   "id": 203296895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.725301,47.409912,8.725301,47.409912",
     "geom:latitude":47.409912,
     "geom:longitude":8.725301,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttenstrasse 11",
     "sg:city":"Illnau",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203296895,
-    "wof:lastmodified":1449026486,
+    "wof:lastmodified":1466210502,
     "wof:name":"Dr.med.christoph Willi Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.725301,47.409912,8.725301,47.409912],
+  "bbox": [
+    8.725301,
+    47.409912,
+    8.725301,
+    47.409912
+],
   "geometry": {"coordinates":[8.725301,47.409912],"type":"Point"}
 }

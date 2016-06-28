@@ -2,13 +2,14 @@
   "id": 253115819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548104,47.049656,8.548104,47.049656",
     "geom:latitude":47.049656,
     "geom:longitude":8.548104,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkstrasse 4 6410 Goldau. Postfach 175",
     "sg:city":"Goldau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253115819,
-    "wof:lastmodified":1449062803,
+    "wof:lastmodified":1466210095,
     "wof:name":"M\u00e4chler-optik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548104,47.049656,8.548104,47.049656],
+  "bbox": [
+    8.548104,
+    47.049656,
+    8.548104,
+    47.049656
+],
   "geometry": {"coordinates":[8.548104,47.049656],"type":"Point"}
 }

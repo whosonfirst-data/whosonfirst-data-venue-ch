@@ -2,13 +2,14 @@
   "id": 219649853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.361354,46.235474,7.361354,46.235474",
     "geom:latitude":46.235474,
     "geom:longitude":7.361354,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R Des Tonneliers 5",
     "sg:city":"Sion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219649853,
-    "wof:lastmodified":1449072789,
+    "wof:lastmodified":1466211920,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.361354,46.235474,7.361354,46.235474],
+  "bbox": [
+    7.361354,
+    46.235474,
+    7.361354,
+    46.235474
+],
   "geometry": {"coordinates":[7.361354,46.235474],"type":"Point"}
 }

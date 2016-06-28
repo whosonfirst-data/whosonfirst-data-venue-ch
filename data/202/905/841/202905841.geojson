@@ -2,13 +2,14 @@
   "id": 202905841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.633895,46.77948,7.633895,46.77948",
     "geom:latitude":46.77948,
     "geom:longitude":7.633895,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorfstrasse 13",
     "sg:city":"Steffisburg",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202905841,
-    "wof:lastmodified":1449061112,
+    "wof:lastmodified":1466212031,
     "wof:name":"Eymann Bau\u00f6kologie",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.633895,46.77948,7.633895,46.77948],
+  "bbox": [
+    7.633895,
+    46.77948,
+    7.633895,
+    46.77948
+],
   "geometry": {"coordinates":[7.633895,46.77948],"type":"Point"}
 }

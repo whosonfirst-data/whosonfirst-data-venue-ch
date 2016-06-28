@@ -2,13 +2,14 @@
   "id": 185735609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.154561,46.805061,7.154561,46.805061",
     "geom:latitude":46.805061,
     "geom:longitude":7.154561,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Cribelet 13 1700 Fribourg Case Postale 610",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185735609,
-    "wof:lastmodified":1449008147,
+    "wof:lastmodified":1466211363,
     "wof:name":"Piller & Brunner Etude D'avocat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.154561,46.805061,7.154561,46.805061],
+  "bbox": [
+    7.154561,
+    46.805061,
+    7.154561,
+    46.805061
+],
   "geometry": {"coordinates":[7.154561,46.805061],"type":"Point"}
 }

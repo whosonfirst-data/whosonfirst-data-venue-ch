@@ -2,13 +2,14 @@
   "id": 236339029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.894929,46.701767,7.894929,46.701767",
     "geom:latitude":46.701767,
     "geom:longitude":7.894929,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Landstrasse 187",
     "sg:city":"Triesen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236339029,
-    "wof:lastmodified":1449003061,
+    "wof:lastmodified":1466211926,
     "wof:name":"Hans Zimmermann Taxi & Kleintransporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.894929,46.701767,7.894929,46.701767],
+  "bbox": [
+    7.894929,
+    46.701767,
+    7.894929,
+    46.701767
+],
   "geometry": {"coordinates":[7.894929,46.701767],"type":"Point"}
 }

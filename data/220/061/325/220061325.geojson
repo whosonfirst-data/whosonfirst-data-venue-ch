@@ -2,13 +2,14 @@
   "id": 220061325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.283018,47.347252,8.283018,47.347252",
     "geom:latitude":47.347252,
     "geom:longitude":8.283018,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 42a",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220061325,
-    "wof:lastmodified":1449074632,
+    "wof:lastmodified":1466209412,
     "wof:name":"Max Meier Schreinerei & Glaserei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.283018,47.347252,8.283018,47.347252],
+  "bbox": [
+    8.283018,
+    47.347252,
+    8.283018,
+    47.347252
+],
   "geometry": {"coordinates":[8.283018,47.347252],"type":"Point"}
 }

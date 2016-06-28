@@ -2,13 +2,14 @@
   "id": 236206059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.34397,47.365349,7.34397,47.365349",
     "geom:latitude":47.365349,
     "geom:longitude":7.34397,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De L'h\u00f4pital 16 2800 Del\u00e9mont. Postfach",
     "sg:city":"Del\u00e9mont",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236206059,
-    "wof:lastmodified":1449003980,
+    "wof:lastmodified":1466210870,
     "wof:name":"Pompes Fun\u00e8bres R\u00e9gionales Lehmann Jo\u00ebl Sa Entreprise De Pompes Fun\u00e8bres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.34397,47.365349,7.34397,47.365349],
+  "bbox": [
+    7.34397,
+    47.365349,
+    7.34397,
+    47.365349
+],
   "geometry": {"coordinates":[7.34397,47.365349],"type":"Point"}
 }

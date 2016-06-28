@@ -2,13 +2,14 @@
   "id": 219262789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.941643,46.003109,8.941643,46.003109",
     "geom:latitude":46.003109,
     "geom:longitude":8.941643,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sorengo 25",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219262789,
-    "wof:lastmodified":1449072581,
+    "wof:lastmodified":1466208911,
     "wof:name":"Clemente Savinelli Garage Sorengo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.941643,46.003109,8.941643,46.003109],
+  "bbox": [
+    8.941643,
+    46.003109,
+    8.941643,
+    46.003109
+],
   "geometry": {"coordinates":[8.941643,46.003109],"type":"Point"}
 }

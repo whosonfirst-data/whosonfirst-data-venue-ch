@@ -2,13 +2,14 @@
   "id": 186005039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.617545,47.390488,8.617545,47.390488",
     "geom:latitude":47.390488,
     "geom:longitude":8.617545,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilstrasse 105 8600 D\u00fcbendorf. Postfach",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186005039,
-    "wof:lastmodified":1449052812,
+    "wof:lastmodified":1466211628,
     "wof:name":"Arge Achermann Ag Sanierung V. Bauten U. Altlasten",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.617545,47.390488,8.617545,47.390488],
+  "bbox": [
+    8.617545,
+    47.390488,
+    8.617545,
+    47.390488
+],
   "geometry": {"coordinates":[8.617545,47.390488],"type":"Point"}
 }

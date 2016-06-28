@@ -2,13 +2,14 @@
   "id": 186552569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.61612,47.131878,7.61612,47.131878",
     "geom:latitude":47.131878,
     "geom:longitude":7.61612,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bern-z\u00fcrich-strasse 17d",
     "sg:city":"Koppigen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186552569,
-    "wof:lastmodified":1449051501,
+    "wof:lastmodified":1466211729,
     "wof:name":"Oskar Straub Maschinenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [7.61612,47.131878,7.61612,47.131878],
+  "bbox": [
+    7.61612,
+    47.131878,
+    7.61612,
+    47.131878
+],
   "geometry": {"coordinates":[7.61612,47.131878],"type":"Point"}
 }

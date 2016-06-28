@@ -2,13 +2,14 @@
   "id": 219853267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.305477,47.475536,8.305477,47.475536",
     "geom:latitude":47.475536,
     "geom:longitude":8.305477,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gst\u00fchlplatz 24",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219853267,
-    "wof:lastmodified":1449071814,
+    "wof:lastmodified":1466212558,
     "wof:name":"Restaurant Seerose & Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.305477,47.475536,8.305477,47.475536],
+  "bbox": [
+    8.305477,
+    47.475536,
+    8.305477,
+    47.475536
+],
   "geometry": {"coordinates":[8.305477,47.475536],"type":"Point"}
 }

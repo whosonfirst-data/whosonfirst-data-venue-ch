@@ -2,13 +2,14 @@
   "id": 236675797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.163471,47.413326,8.163471,47.413326",
     "geom:latitude":47.413326,
     "geom:longitude":8.163471,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenstrasse 10",
     "sg:city":"Wildegg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236675797,
-    "wof:lastmodified":1449003308,
+    "wof:lastmodified":1466212788,
     "wof:name":"Technische Forschung Und Beratung F\u00fcr Zement Und Beton Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cement"
     ]
 },
-  "bbox": [8.163471,47.413326,8.163471,47.413326],
+  "bbox": [
+    8.163471,
+    47.413326,
+    8.163471,
+    47.413326
+],
   "geometry": {"coordinates":[8.163471,47.413326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236567001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.750312,47.496265,8.750312,47.496265",
     "geom:latitude":47.496265,
     "geom:longitude":8.750312,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Industriestrasse 8",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236567001,
-    "wof:lastmodified":1449005278,
+    "wof:lastmodified":1466212707,
     "wof:name":"Druckerei Winterthur Dw Ag",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "production"
     ]
 },
-  "bbox": [8.750312,47.496265,8.750312,47.496265],
+  "bbox": [
+    8.750312,
+    47.496265,
+    8.750312,
+    47.496265
+],
   "geometry": {"coordinates":[8.750312,47.496265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219273025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.45252,46.51762,6.45252,46.51762",
     "geom:latitude":46.51762,
     "geom:longitude":6.45252,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1135",
     "sg:city":"Denens",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219273025,
-    "wof:lastmodified":1449072213,
+    "wof:lastmodified":1466208998,
     "wof:name":"Gabriel Barbezat Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.45252,46.51762,6.45252,46.51762],
+  "bbox": [
+    6.45252,
+    46.51762,
+    6.45252,
+    46.51762
+],
   "geometry": {"coordinates":[6.45252,46.51762],"type":"Point"}
 }

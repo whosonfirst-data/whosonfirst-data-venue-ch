@@ -2,13 +2,14 @@
   "id": 186531747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.954245,46.018761,8.954245,46.018761",
     "geom:latitude":46.018761,
     "geom:longitude":8.954245,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torricelli 30",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186531747,
-    "wof:lastmodified":1449051035,
+    "wof:lastmodified":1466211772,
     "wof:name":"Luogo Pio G. Riziero Rezzonico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.954245,46.018761,8.954245,46.018761],
+  "bbox": [
+    8.954245,
+    46.018761,
+    8.954245,
+    46.018761
+],
   "geometry": {"coordinates":[8.954245,46.018761],"type":"Point"}
 }

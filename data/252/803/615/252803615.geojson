@@ -2,13 +2,14 @@
   "id": 252803615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.796168,46.668446,6.796168,46.668446",
     "geom:latitude":46.668446,
     "geom:longitude":6.796168,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Planche 13",
     "sg:city":"Moudon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252803615,
-    "wof:lastmodified":1449006523,
+    "wof:lastmodified":1466209951,
     "wof:name":"Alice M\u00fcller Chemiserie Chapellerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.796168,46.668446,6.796168,46.668446],
+  "bbox": [
+    6.796168,
+    46.668446,
+    6.796168,
+    46.668446
+],
   "geometry": {"coordinates":[6.796168,46.668446],"type":"Point"}
 }

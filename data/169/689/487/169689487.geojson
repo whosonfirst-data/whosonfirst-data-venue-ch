@@ -2,13 +2,14 @@
   "id": 169689487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.596192,47.496029,7.596192,47.496029",
     "geom:latitude":47.496029,
     "geom:longitude":7.596192,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Pfadackerstrasse 10",
     "sg:city":"Spreitenbach",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169689487,
-    "wof:lastmodified":1449035409,
+    "wof:lastmodified":1466210689,
     "wof:name":"Ehb Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.596192,47.496029,7.596192,47.496029],
+  "bbox": [
+    7.596192,
+    47.496029,
+    7.596192,
+    47.496029
+],
   "geometry": {"coordinates":[7.596192,47.496029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202910991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.654131,47.021793,8.654131,47.021793",
     "geom:latitude":47.021793,
     "geom:longitude":8.654131,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rickenbachstrasse 1",
     "sg:city":"Schwyz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202910991,
-    "wof:lastmodified":1449061170,
+    "wof:lastmodified":1466212168,
     "wof:name":"Camenzind Josef Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.654131,47.021793,8.654131,47.021793],
+  "bbox": [
+    8.654131,
+    47.021793,
+    8.654131,
+    47.021793
+],
   "geometry": {"coordinates":[8.654131,47.021793],"type":"Point"}
 }

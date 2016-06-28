@@ -2,13 +2,14 @@
   "id": 236292981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594048,47.566273,7.594048,47.566273",
     "geom:latitude":47.566273,
     "geom:longitude":7.594048,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00f6rsbergerstrasse 8",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236292981,
-    "wof:lastmodified":1449001884,
+    "wof:lastmodified":1466211692,
     "wof:name":"Dragan Stanojlovic Taxi",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.594048,47.566273,7.594048,47.566273],
+  "bbox": [
+    7.594048,
+    47.566273,
+    7.594048,
+    47.566273
+],
   "geometry": {"coordinates":[7.594048,47.566273],"type":"Point"}
 }

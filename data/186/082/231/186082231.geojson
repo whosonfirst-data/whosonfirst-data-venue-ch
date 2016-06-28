@@ -2,13 +2,14 @@
   "id": 186082231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.373838,47.441414,9.373838,47.441414",
     "geom:latitude":47.441414,
     "geom:longitude":9.373838,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4rchenstrasse 13",
     "sg:city":"Liestal",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186082231,
-    "wof:lastmodified":1449050334,
+    "wof:lastmodified":1466210554,
     "wof:name":"Genossenschaft F\u00fcr Fest Und Ausstellungsbetriebe Der Zunft Zum Schneebesen Der Zukkerbekken Der Stadt Sancti Galli",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.373838,47.441414,9.373838,47.441414],
+  "bbox": [
+    9.373838,
+    47.441414,
+    9.373838,
+    47.441414
+],
   "geometry": {"coordinates":[9.373838,47.441414],"type":"Point"}
 }

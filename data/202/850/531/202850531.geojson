@@ -2,13 +2,14 @@
   "id": 202850531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.094095,47.065392,7.094095,47.065392",
     "geom:latitude":47.065392,
     "geom:longitude":7.094095,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Arzthausstrasse 3",
     "sg:city":"Rothenthurm",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202850531,
-    "wof:lastmodified":1449061579,
+    "wof:lastmodified":1466211910,
     "wof:name":"O\u00ef Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.094095,47.065392,7.094095,47.065392],
+  "bbox": [
+    7.094095,
+    47.065392,
+    7.094095,
+    47.065392
+],
   "geometry": {"coordinates":[7.094095,47.065392],"type":"Point"}
 }

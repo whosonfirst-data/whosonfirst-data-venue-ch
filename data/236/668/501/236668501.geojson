@@ -2,13 +2,14 @@
   "id": 236668501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.160498,46.202545,6.160498,46.202545",
     "geom:latitude":46.202545,
     "geom:longitude":6.160498,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du 31-d\u00e9cembre 38",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236668501,
-    "wof:lastmodified":1449004052,
+    "wof:lastmodified":1466212774,
     "wof:name":"Pizzeria Mamma Speedy",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [6.160498,46.202545,6.160498,46.202545],
+  "bbox": [
+    6.160498,
+    46.202545,
+    6.160498,
+    46.202545
+],
   "geometry": {"coordinates":[6.160498,46.202545],"type":"Point"}
 }

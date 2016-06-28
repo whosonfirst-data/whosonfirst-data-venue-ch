@@ -2,13 +2,14 @@
   "id": 186250133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.276568,47.097446,8.276568,47.097446",
     "geom:latitude":47.097446,
     "geom:longitude":8.276568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Eschenbachstrasse 26",
     "sg:city":"Rothenburg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186250133,
-    "wof:lastmodified":1449051912,
+    "wof:lastmodified":1466209475,
     "wof:name":"Wipar Bau Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.276568,47.097446,8.276568,47.097446],
+  "bbox": [
+    8.276568,
+    47.097446,
+    8.276568,
+    47.097446
+],
   "geometry": {"coordinates":[8.276568,47.097446],"type":"Point"}
 }

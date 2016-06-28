@@ -2,13 +2,14 @@
   "id": 219389141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.56575,38.980202,-92.56575,38.980202",
     "geom:latitude":38.980202,
     "geom:longitude":-92.56575,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Combe",
     "sg:city":"Rochefort",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219389141,
-    "wof:lastmodified":1449073213,
+    "wof:lastmodified":1466210077,
     "wof:name":"Andr\u00e9 Vaucher Carrosserie De L'or\u00e9e",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.56575,38.980202,-92.56575,38.980202],
-  "geometry": {"coordinates":[-92.56575,38.980202],"type":"Point"}
+  "bbox": [
+    -92.56575,
+    38.980202,
+    -92.56575,
+    38.980202
+],
+  "geometry": {"coordinates":[-92.56574999999999,38.980202],"type":"Point"}
 }

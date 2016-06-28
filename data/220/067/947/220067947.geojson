@@ -2,13 +2,14 @@
   "id": 220067947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.489712,47.063545,9.489712,47.063545",
     "geom:latitude":47.063545,
     "geom:longitude":9.489712,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hampfl\u00e4ndern 24",
     "sg:city":"Balzers",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220067947,
-    "wof:lastmodified":1449074093,
+    "wof:lastmodified":1466209467,
     "wof:name":"Andreas Knechtle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.489712,47.063545,9.489712,47.063545],
+  "bbox": [
+    9.489712,
+    47.063545,
+    9.489712,
+    47.063545
+],
   "geometry": {"coordinates":[9.489712,47.063545],"type":"Point"}
 }

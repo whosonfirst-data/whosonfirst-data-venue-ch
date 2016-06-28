@@ -2,13 +2,14 @@
   "id": 253418675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.626112,46.510925,6.626112,46.510925",
     "geom:latitude":46.510925,
     "geom:longitude":6.626112,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De La Harpe 25",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253418675,
-    "wof:lastmodified":1449065118,
+    "wof:lastmodified":1466212370,
     "wof:name":"Boutique Montaigne Patricia Jordan",
     "wof:parent_id":85800387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.626112,46.510925,6.626112,46.510925],
+  "bbox": [
+    6.626112,
+    46.510925,
+    6.626112,
+    46.510925
+],
   "geometry": {"coordinates":[6.626112,46.510925],"type":"Point"}
 }

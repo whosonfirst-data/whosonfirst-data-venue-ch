@@ -2,13 +2,14 @@
   "id": 219754839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.401243,46.941677,7.401243,46.941677",
     "geom:latitude":46.941677,
     "geom:longitude":7.401243,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Postplatz",
     "sg:city":"Grosswangen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219754839,
-    "wof:lastmodified":1449072694,
+    "wof:lastmodified":1466212382,
     "wof:name":"Von Graffenried Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.401243,46.941677,7.401243,46.941677],
+  "bbox": [
+    7.401243,
+    46.941677,
+    7.401243,
+    46.941677
+],
   "geometry": {"coordinates":[7.401243,46.941677],"type":"Point"}
 }

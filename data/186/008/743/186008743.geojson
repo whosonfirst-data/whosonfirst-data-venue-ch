@@ -2,13 +2,14 @@
   "id": 186008743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.493266,46.959751,7.493266,46.959751",
     "geom:latitude":46.959751,
     "geom:longitude":7.493266,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Nobsstrasse 18",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186008743,
-    "wof:lastmodified":1449051224,
+    "wof:lastmodified":1466209169,
     "wof:name":"Baeriswyl Peter, Baugesch\u00e4ft",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.493266,46.959751,7.493266,46.959751],
+  "bbox": [
+    7.493266,
+    46.959751,
+    7.493266,
+    46.959751
+],
   "geometry": {"coordinates":[7.493266,46.959751],"type":"Point"}
 }

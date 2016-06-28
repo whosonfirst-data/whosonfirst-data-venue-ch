@@ -2,13 +2,14 @@
   "id": 219280291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.768197,47.305992,8.768197,47.305992",
     "geom:latitude":47.305992,
     "geom:longitude":8.768197,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grienstrasse 7 2542 Pieterlen. Postfach 203",
     "sg:city":"Pieterlen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219280291,
-    "wof:lastmodified":1449072115,
+    "wof:lastmodified":1466209064,
     "wof:name":"Garage Tannenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.768197,47.305992,8.768197,47.305992],
+  "bbox": [
+    8.768197,
+    47.305992,
+    8.768197,
+    47.305992
+],
   "geometry": {"coordinates":[8.768197,47.305992],"type":"Point"}
 }

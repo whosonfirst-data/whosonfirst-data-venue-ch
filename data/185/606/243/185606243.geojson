@@ -2,13 +2,14 @@
   "id": 185606243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.400177,46.913254,7.400177,46.913254",
     "geom:latitude":46.913254,
     "geom:longitude":7.400177,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bindenhausstrasse 42d",
     "sg:city":"K\u00f6niz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185606243,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1466209390,
     "wof:name":"Rsdt Nachsorge Ag",
     "wof:parent_id":85800513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.400177,46.913254,7.400177,46.913254],
+  "bbox": [
+    7.400177,
+    46.913254,
+    7.400177,
+    46.913254
+],
   "geometry": {"coordinates":[7.400177,46.913254],"type":"Point"}
 }

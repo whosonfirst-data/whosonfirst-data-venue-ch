@@ -2,13 +2,14 @@
   "id": 236132861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.674541,46.689922,7.674541,46.689922",
     "geom:latitude":46.689922,
     "geom:longitude":7.674541,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Thunstrasse 6 3700 Spiez. Postfach 116",
     "sg:city":"Spiez",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236132861,
-    "wof:lastmodified":1449003227,
+    "wof:lastmodified":1466210081,
     "wof:name":"Bauverwaltung Der Gemeinde Spiez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.674541,46.689922,7.674541,46.689922],
+  "bbox": [
+    7.674541,
+    46.689922,
+    7.674541,
+    46.689922
+],
   "geometry": {"coordinates":[7.674541,46.689922],"type":"Point"}
 }

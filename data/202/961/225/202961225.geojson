@@ -2,13 +2,14 @@
   "id": 202961225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39163,47.29987,8.39163,47.29987",
     "geom:latitude":47.29987,
     "geom:longitude":8.39163,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Maiacherstrasse",
     "sg:city":"Jonen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202961225,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466212353,
     "wof:name":"Bucher & Partner Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39163,47.29987,8.39163,47.29987],
+  "bbox": [
+    8.39163,
+    47.29987,
+    8.39163,
+    47.29987
+],
   "geometry": {"coordinates":[8.39163,47.29987],"type":"Point"}
 }

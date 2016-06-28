@@ -2,13 +2,14 @@
   "id": 219778149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.82054,45.990021,8.82054,45.990021",
     "geom:latitude":45.990021,
     "geom:longitude":8.82054,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6995",
     "sg:city":"Molinazzo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219778149,
-    "wof:lastmodified":1449070436,
+    "wof:lastmodified":1466212497,
     "wof:name":"Bar Indios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.82054,45.990021,8.82054,45.990021],
+  "bbox": [
+    8.82054,
+    45.990021,
+    8.82054,
+    45.990021
+],
   "geometry": {"coordinates":[8.82054,45.990021],"type":"Point"}
 }

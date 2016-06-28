@@ -2,13 +2,14 @@
   "id": 219844681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.070356,47.058018,8.070356,47.058018",
     "geom:latitude":47.058018,
     "geom:longitude":8.070356,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Entlebucherstrasse 36 6110 Wolhusen. Postfach",
     "sg:city":"Wolhusen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219844681,
-    "wof:lastmodified":1449071891,
+    "wof:lastmodified":1466212544,
     "wof:name":"Pizzeria Kreuz & Coco Loco Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.070356,47.058018,8.070356,47.058018],
+  "bbox": [
+    8.070356,
+    47.058018,
+    8.070356,
+    47.058018
+],
   "geometry": {"coordinates":[8.070356,47.058018],"type":"Point"}
 }

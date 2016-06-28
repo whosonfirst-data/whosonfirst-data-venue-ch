@@ -2,13 +2,14 @@
   "id": 219456151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.485431,46.954498,7.485431,46.954498",
     "geom:latitude":46.954498,
     "geom:longitude":7.485431,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Untere Zollgasse 28",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219456151,
-    "wof:lastmodified":1449071451,
+    "wof:lastmodified":1466210699,
     "wof:name":"Verband Berner Regionalbanken",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.485431,46.954498,7.485431,46.954498],
+  "bbox": [
+    7.485431,
+    46.954498,
+    7.485431,
+    46.954498
+],
   "geometry": {"coordinates":[7.485431,46.954498],"type":"Point"}
 }

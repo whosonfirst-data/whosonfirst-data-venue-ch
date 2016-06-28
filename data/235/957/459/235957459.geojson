@@ -2,13 +2,14 @@
   "id": 235957459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.288411,47.070995,8.288411,47.070995",
     "geom:latitude":47.070995,
     "geom:longitude":8.288411,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Meierh\u00f6flistrasse 12 6020 Emmenbr\u00fccke. Postfach",
     "sg:city":"Emmen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":235957459,
-    "wof:lastmodified":1449008544,
+    "wof:lastmodified":1466209128,
     "wof:name":"Hanspeter Hagmann Schreinerei & Glaserei",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.288411,47.070995,8.288411,47.070995],
+  "bbox": [
+    8.288411,
+    47.070995,
+    8.288411,
+    47.070995
+],
   "geometry": {"coordinates":[8.288411,47.070995],"type":"Point"}
 }

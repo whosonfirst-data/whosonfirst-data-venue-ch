@@ -2,13 +2,14 @@
   "id": 220029089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.377079,47.542091,8.377079,47.542091",
     "geom:latitude":47.542091,
     "geom:longitude":8.377079,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oberdorf 4",
     "sg:city":"Siglistorf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220029089,
-    "wof:lastmodified":1449074378,
+    "wof:lastmodified":1466209123,
     "wof:name":"Markus Mayer Bauschreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.377079,47.542091,8.377079,47.542091],
+  "bbox": [
+    8.377079,
+    47.542091,
+    8.377079,
+    47.542091
+],
   "geometry": {"coordinates":[8.377079,47.542091],"type":"Point"}
 }

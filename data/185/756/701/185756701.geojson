@@ -2,13 +2,14 @@
   "id": 185756701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62518,47.055336,7.62518,47.055336",
     "geom:latitude":47.055336,
     "geom:longitude":7.62518,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmiedengasse 27 3400 Burgdorf. Postfach 26",
     "sg:city":"Burgdorf",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185756701,
-    "wof:lastmodified":1449007574,
+    "wof:lastmodified":1466211544,
     "wof:name":"B\u00fcrgi & M\u00e4der Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62518,47.055336,7.62518,47.055336],
+  "bbox": [
+    7.62518,
+    47.055336,
+    7.62518,
+    47.055336
+],
   "geometry": {"coordinates":[7.62518,47.055336],"type":"Point"}
 }

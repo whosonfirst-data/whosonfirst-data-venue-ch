@@ -2,13 +2,14 @@
   "id": 169616357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.540646,47.368114,8.540646,47.368114",
     "geom:latitude":47.368114,
     "geom:longitude":8.540646,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"B\u00f6rsenstrasse 16 8001 Z\u00fcrich. Postfach 5138",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169616357,
-    "wof:lastmodified":1449035102,
+    "wof:lastmodified":1466209548,
     "wof:name":"Lb (swiss) Privatbank Ag Effekten, Anlagebank Usw",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.540646,47.368114,8.540646,47.368114],
+  "bbox": [
+    8.540646,
+    47.368114,
+    8.540646,
+    47.368114
+],
   "geometry": {"coordinates":[8.540646,47.368114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220030081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627857,46.382023,7.627857,46.382023",
     "geom:latitude":46.382023,
     "geom:longitude":7.627857,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kuniberg",
     "sg:city":"Leukerbad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220030081,
-    "wof:lastmodified":1449074325,
+    "wof:lastmodified":1466209132,
     "wof:name":"Martin Urben Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627857,46.382023,7.627857,46.382023],
+  "bbox": [
+    7.627857,
+    46.382023,
+    7.627857,
+    46.382023
+],
   "geometry": {"coordinates":[7.627857,46.382023],"type":"Point"}
 }

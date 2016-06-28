@@ -2,13 +2,14 @@
   "id": 219826897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.946766,50.295719,1.946766,50.295719",
     "geom:latitude":50.295719,
     "geom:longitude":1.946766,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Faubourg De L'h\u00f4pital 3",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219826897,
-    "wof:lastmodified":1449072963,
+    "wof:lastmodified":1466212432,
     "wof:name":"Sherlock's Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.946766,50.295719,1.946766,50.295719],
+  "bbox": [
+    1.946766,
+    50.295719,
+    1.946766,
+    50.295719
+],
   "geometry": {"coordinates":[1.946766,50.295719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185823109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.40467,46.501316,6.40467,46.501316",
     "geom:latitude":46.501316,
     "geom:longitude":6.40467,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"La Fontaine",
     "sg:city":"Lavigny",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185823109,
-    "wof:lastmodified":1449008181,
+    "wof:lastmodified":1466209273,
     "wof:name":"Roger Germanier & Fils Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "livestock"
     ]
 },
-  "bbox": [6.40467,46.501316,6.40467,46.501316],
+  "bbox": [
+    6.40467,
+    46.501316,
+    6.40467,
+    46.501316
+],
   "geometry": {"coordinates":[6.40467,46.501316],"type":"Point"}
 }

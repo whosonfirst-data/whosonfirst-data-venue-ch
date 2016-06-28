@@ -2,13 +2,14 @@
   "id": 235982851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.472623,46.959026,7.472623,46.959026",
     "geom:latitude":46.959026,
     "geom:longitude":7.472623,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zentweg 3 3006 Bern. Postfach 6536",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":235982851,
-    "wof:lastmodified":1449008320,
+    "wof:lastmodified":1466209363,
     "wof:name":"Personalvorsorgestiftung Der Herzog Bau Und Holzbau Ag",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.472623,46.959026,7.472623,46.959026],
+  "bbox": [
+    7.472623,
+    46.959026,
+    7.472623,
+    46.959026
+],
   "geometry": {"coordinates":[7.472623,46.959026],"type":"Point"}
 }

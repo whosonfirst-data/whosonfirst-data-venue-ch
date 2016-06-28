@@ -2,13 +2,14 @@
   "id": 203293657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.486696,46.957561,7.486696,46.957561",
     "geom:latitude":46.957561,
     "geom:longitude":7.486696,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bernstrasse 61",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203293657,
-    "wof:lastmodified":1449025305,
+    "wof:lastmodified":1466210471,
     "wof:name":"Dr.med.christine Werner Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.486696,46.957561,7.486696,46.957561],
+  "bbox": [
+    7.486696,
+    46.957561,
+    7.486696,
+    46.957561
+],
   "geometry": {"coordinates":[7.486696,46.957561],"type":"Point"}
 }

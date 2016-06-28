@@ -2,13 +2,14 @@
   "id": 253061081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.798747,46.668465,6.798747,46.668465",
     "geom:latitude":46.668465,
     "geom:longitude":6.798747,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Saint-etienne 6",
     "sg:city":"Moudon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253061081,
-    "wof:lastmodified":1449064964,
+    "wof:lastmodified":1466209537,
     "wof:name":"Roger Jayet Fleurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.798747,46.668465,6.798747,46.668465],
+  "bbox": [
+    6.798747,
+    46.668465,
+    6.798747,
+    46.668465
+],
   "geometry": {"coordinates":[6.798747,46.668465],"type":"Point"}
 }

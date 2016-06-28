@@ -2,13 +2,14 @@
   "id": 235941691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.484199,47.15099,9.484199,47.15099",
     "geom:latitude":47.15099,
     "geom:longitude":9.484199,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Oetlingerstrasse 81",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235941691,
-    "wof:lastmodified":1449008449,
+    "wof:lastmodified":1466208995,
     "wof:name":"Werner Rohrer Drechslerei & Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.484199,47.15099,9.484199,47.15099],
+  "bbox": [
+    9.484199,
+    47.15099,
+    9.484199,
+    47.15099
+],
   "geometry": {"coordinates":[9.484199,47.15099],"type":"Point"}
 }

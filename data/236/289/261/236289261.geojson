@@ -2,13 +2,14 @@
   "id": 236289261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.625931,46.752945,7.625931,46.752945",
     "geom:latitude":46.752945,
     "geom:longitude":7.625931,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Henri-dunantstrasse 9",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236289261,
-    "wof:lastmodified":1449004586,
+    "wof:lastmodified":1466211673,
     "wof:name":"Burg-taxi, S. Krayenb\u00fchl",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.625931,46.752945,7.625931,46.752945],
+  "bbox": [
+    7.625931,
+    46.752945,
+    7.625931,
+    46.752945
+],
   "geometry": {"coordinates":[7.625931,46.752945],"type":"Point"}
 }

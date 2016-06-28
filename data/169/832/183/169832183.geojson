@@ -2,13 +2,14 @@
   "id": 169832183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.607613,47.248322,8.607613,47.248322",
     "geom:latitude":47.248322,
     "geom:longitude":8.607613,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zugerstrasse 165",
     "sg:city":"Horgen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169832183,
-    "wof:lastmodified":1449032705,
+    "wof:lastmodified":1466209292,
     "wof:name":"Kehrichtwerk Bezirk Horgen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.607613,47.248322,8.607613,47.248322],
+  "bbox": [
+    8.607613,
+    47.248322,
+    8.607613,
+    47.248322
+],
   "geometry": {"coordinates":[8.607613,47.248322],"type":"Point"}
 }

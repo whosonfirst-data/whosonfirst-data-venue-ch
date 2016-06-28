@@ -2,13 +2,14 @@
   "id": 202771745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.306589,47.552563,9.306589,47.552563",
     "geom:latitude":47.552563,
     "geom:longitude":9.306589,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidstrasse 5",
     "sg:city":"Amriswil",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202771745,
-    "wof:lastmodified":1449061491,
+    "wof:lastmodified":1466211260,
     "wof:name":"Wolff Architektur + Planung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.306589,47.552563,9.306589,47.552563],
+  "bbox": [
+    9.306589,
+    47.552563,
+    9.306589,
+    47.552563
+],
   "geometry": {"coordinates":[9.306589,47.552563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185822417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.646127,47.251518,7.646127,47.251518",
     "geom:latitude":47.251518,
     "geom:longitude":7.646127,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Holzg. 36",
     "sg:city":"Wiedlisbach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185822417,
-    "wof:lastmodified":1449008140,
+    "wof:lastmodified":1466209267,
     "wof:name":"Jost Pflanzenkulturen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "livestock"
     ]
 },
-  "bbox": [7.646127,47.251518,7.646127,47.251518],
+  "bbox": [
+    7.646127,
+    47.251518,
+    7.646127,
+    47.251518
+],
   "geometry": {"coordinates":[7.646127,47.251518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203384197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.346594,47.348835,8.346594,47.348835",
     "geom:latitude":47.348835,
     "geom:longitude":8.346594,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kantonsstrasse 130",
     "sg:city":"Horw",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203384197,
-    "wof:lastmodified":1449025189,
+    "wof:lastmodified":1466211365,
     "wof:name":"Dr.med.peter Eichenberger Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.346594,47.348835,8.346594,47.348835],
+  "bbox": [
+    8.346594,
+    47.348835,
+    8.346594,
+    47.348835
+],
   "geometry": {"coordinates":[8.346594,47.348835],"type":"Point"}
 }

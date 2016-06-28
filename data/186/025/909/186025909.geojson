@@ -2,13 +2,14 @@
   "id": 186025909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.682322,47.22308,8.682322,47.22308",
     "geom:latitude":47.22308,
     "geom:longitude":8.682322,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Schmidgass 6",
     "sg:city":"W\u00e4denswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186025909,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1466209656,
     "wof:name":"Blanc + Barmettler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.682322,47.22308,8.682322,47.22308],
+  "bbox": [
+    8.682322,
+    47.22308,
+    8.682322,
+    47.22308
+],
   "geometry": {"coordinates":[8.682322,47.22308],"type":"Point"}
 }

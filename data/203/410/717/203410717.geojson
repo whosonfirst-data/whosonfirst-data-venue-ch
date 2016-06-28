@@ -2,13 +2,14 @@
   "id": 203410717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.782,47.256618,8.782,47.256618",
     "geom:latitude":47.256618,
     "geom:longitude":8.782,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Richttannstrasse 12",
     "sg:city":"Hombrechtikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203410717,
-    "wof:lastmodified":1449024967,
+    "wof:lastmodified":1466211637,
     "wof:name":"Dr.med.serge Katan Spezialarzt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.782,47.256618,8.782,47.256618],
+  "bbox": [
+    8.782,
+    47.256618,
+    8.782,
+    47.256618
+],
   "geometry": {"coordinates":[8.782,47.256618],"type":"Point"}
 }

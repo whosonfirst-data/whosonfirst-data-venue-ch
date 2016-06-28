@@ -2,13 +2,14 @@
   "id": 169795367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.532327,47.359142,8.532327,47.359142",
     "geom:latitude":47.359142,
     "geom:longitude":8.532327,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestrasse 105",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169795367,
-    "wof:lastmodified":1449034643,
+    "wof:lastmodified":1466209039,
     "wof:name":"Schweizerische Metall-union",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.532327,47.359142,8.532327,47.359142],
+  "bbox": [
+    8.532327,
+    47.359142,
+    8.532327,
+    47.359142
+],
   "geometry": {"coordinates":[8.532327,47.359142],"type":"Point"}
 }

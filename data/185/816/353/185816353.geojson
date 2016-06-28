@@ -2,13 +2,14 @@
   "id": 185816353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.177751,53.29248,-6.177751,53.29248",
     "geom:latitude":53.29248,
     "geom:longitude":-6.177751,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindenplatz 5 Postfach",
     "sg:city":"Wettingen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185816353,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466209225,
     "wof:name":"St\u00d6ckli Kienast & Koeppel Landschaftsarchitekten Ag",
     "wof:parent_id":85794195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-6.177751,53.29248,-6.177751,53.29248],
+  "bbox": [
+    -6.177751,
+    53.29248,
+    -6.177751,
+    53.29248
+],
   "geometry": {"coordinates":[-6.177751,53.29248],"type":"Point"}
 }

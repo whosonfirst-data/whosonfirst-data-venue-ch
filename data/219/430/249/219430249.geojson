@@ -2,13 +2,14 @@
   "id": 219430249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.429497,46.954868,7.429497,46.954868",
     "geom:latitude":46.954868,
     "geom:longitude":7.429497,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4nggassstrasse 53",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219430249,
-    "wof:lastmodified":1449072630,
+    "wof:lastmodified":1466210458,
     "wof:name":"Heinz St\u00f6ckli Transporte",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.429497,46.954868,7.429497,46.954868],
+  "bbox": [
+    7.429497,
+    46.954868,
+    7.429497,
+    46.954868
+],
   "geometry": {"coordinates":[7.429497,46.954868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186369233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.199857,47.642509,9.199857,47.642509",
     "geom:latitude":47.642509,
     "geom:longitude":9.199857,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bei Der K\u00e4serei",
     "sg:city":"Reutigen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186369233,
-    "wof:lastmodified":1449052906,
+    "wof:lastmodified":1466210354,
     "wof:name":"Kiag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.199857,47.642509,9.199857,47.642509],
+  "bbox": [
+    9.199857,
+    47.642509,
+    9.199857,
+    47.642509
+],
   "geometry": {"coordinates":[9.199857,47.642509],"type":"Point"}
 }

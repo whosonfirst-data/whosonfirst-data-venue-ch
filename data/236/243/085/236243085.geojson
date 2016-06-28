@@ -2,13 +2,14 @@
   "id": 236243085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.140916,46.943027,7.140916,46.943027",
     "geom:latitude":46.943027,
     "geom:longitude":7.140916,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 171",
     "sg:city":"Muntelier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236243085,
-    "wof:lastmodified":1449002568,
+    "wof:lastmodified":1466211288,
     "wof:name":"Expodrom Event Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.140916,46.943027,7.140916,46.943027],
+  "bbox": [
+    7.140916,
+    46.943027,
+    7.140916,
+    46.943027
+],
   "geometry": {"coordinates":[7.140916,46.943027],"type":"Point"}
 }

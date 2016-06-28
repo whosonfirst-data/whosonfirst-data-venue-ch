@@ -2,13 +2,14 @@
   "id": 203290507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.517925,47.334984,8.517925,47.334984",
     "geom:latitude":47.334984,
     "geom:longitude":8.517925,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frymannstrasse 21",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203290507,
-    "wof:lastmodified":1449025740,
+    "wof:lastmodified":1466210441,
     "wof:name":"Dr.med.christian Andreas Frei Spezialarzt Fmh",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.517925,47.334984,8.517925,47.334984],
+  "bbox": [
+    8.517925,
+    47.334984,
+    8.517925,
+    47.334984
+],
   "geometry": {"coordinates":[8.517925,47.334984],"type":"Point"}
 }

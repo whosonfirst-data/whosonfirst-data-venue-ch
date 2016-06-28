@@ -2,13 +2,14 @@
   "id": 236310161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.610981,47.566959,7.610981,47.566959",
     "geom:latitude":47.566959,
     "geom:longitude":7.610981,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riehenstrasse 234",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236310161,
-    "wof:lastmodified":1449003724,
+    "wof:lastmodified":1466211911,
     "wof:name":"Othmar Kilch\u00f6r Taxihalter",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.610981,47.566959,7.610981,47.566959],
+  "bbox": [
+    7.610981,
+    47.566959,
+    7.610981,
+    47.566959
+],
   "geometry": {"coordinates":[7.610981,47.566959],"type":"Point"}
 }

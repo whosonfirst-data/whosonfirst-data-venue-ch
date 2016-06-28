@@ -2,13 +2,14 @@
   "id": 236307723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.758363,47.485435,8.758363,47.485435",
     "geom:latitude":47.485435,
     "geom:longitude":8.758363,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6sstalstrasse 231",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236307723,
-    "wof:lastmodified":1449002320,
+    "wof:lastmodified":1466211770,
     "wof:name":"Max Suter Taxi",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.758363,47.485435,8.758363,47.485435],
+  "bbox": [
+    8.758363,
+    47.485435,
+    8.758363,
+    47.485435
+],
   "geometry": {"coordinates":[8.758363,47.485435],"type":"Point"}
 }

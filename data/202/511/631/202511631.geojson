@@ -2,13 +2,14 @@
   "id": 202511631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.06027,47.1325,9.06027,47.1325",
     "geom:latitude":47.1325,
     "geom:longitude":9.06027,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziegelbr\u00fcckstrasse 82",
     "sg:city":"Niederurnen",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202511631,
-    "wof:lastmodified":1449061293,
+    "wof:lastmodified":1466211549,
     "wof:name":"Genossenschaft Technologiezentrum Linth (tzl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.06027,47.1325,9.06027,47.1325],
+  "bbox": [
+    9.06027,
+    47.1325,
+    9.06027,
+    47.1325
+],
   "geometry": {"coordinates":[9.06027,47.1325],"type":"Point"}
 }

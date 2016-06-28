@@ -2,13 +2,14 @@
   "id": 185927515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.044624,47.367287,8.044624,47.367287",
     "geom:latitude":47.367287,
     "geom:longitude":8.044624,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gemeindehaus Hauptstrasse 127",
     "sg:city":"Unterentfelden",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185927515,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1466210077,
     "wof:name":"Spitex Verein Unterentfelden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.044624,47.367287,8.044624,47.367287],
+  "bbox": [
+    8.044624,
+    47.367287,
+    8.044624,
+    47.367287
+],
   "geometry": {"coordinates":[8.044624,47.367287],"type":"Point"}
 }

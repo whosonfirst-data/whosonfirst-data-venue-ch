@@ -2,13 +2,14 @@
   "id": 202514293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.476811,46.94754,7.476811,46.94754",
     "geom:latitude":46.94754,
     "geom:longitude":7.476811,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hesseweg 20",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202514293,
-    "wof:lastmodified":1449061396,
+    "wof:lastmodified":1466211569,
     "wof:name":"Gerber Projektmanagement",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.476811,46.94754,7.476811,46.94754],
+  "bbox": [
+    7.476811,
+    46.94754,
+    7.476811,
+    46.94754
+],
   "geometry": {"coordinates":[7.476811,46.94754],"type":"Point"}
 }

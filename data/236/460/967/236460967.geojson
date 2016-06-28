@@ -2,13 +2,14 @@
   "id": 236460967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.374908,46.926186,7.374908,46.926186",
     "geom:latitude":46.926186,
     "geom:longitude":7.374908,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenberg 25",
     "sg:city":"Kaltbrunn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236460967,
-    "wof:lastmodified":1449005026,
+    "wof:lastmodified":1466212444,
     "wof:name":"Verein K\u00f6nizer Bibliotheken Altes Schulhaus",
     "wof:parent_id":85800349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [7.374908,46.926186,7.374908,46.926186],
+  "bbox": [
+    7.374908,
+    46.926186,
+    7.374908,
+    46.926186
+],
   "geometry": {"coordinates":[7.374908,46.926186],"type":"Point"}
 }

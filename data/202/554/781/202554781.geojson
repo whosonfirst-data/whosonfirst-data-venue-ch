@@ -2,13 +2,14 @@
   "id": 202554781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43511,46.94717,7.43511,46.94717",
     "geom:latitude":46.94717,
     "geom:longitude":7.43511,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Laupenstrasse 17 3008 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202554781,
-    "wof:lastmodified":1449060637,
+    "wof:lastmodified":1466209242,
     "wof:name":"Ims Ingenieurb\u00fcro Mauerhofer B\u00fcro F Beratung U Planung Techn. Projekte",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43511,46.94717,7.43511,46.94717],
+  "bbox": [
+    7.43511,
+    46.94717,
+    7.43511,
+    46.94717
+],
   "geometry": {"coordinates":[7.43511,46.94717],"type":"Point"}
 }

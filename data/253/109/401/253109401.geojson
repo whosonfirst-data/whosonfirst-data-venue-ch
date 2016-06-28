@@ -2,13 +2,14 @@
   "id": 253109401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.3957,47.431271,9.3957,47.431271",
     "geom:latitude":47.431271,
     "geom:longitude":9.3957,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Allschwilerstrasse 19",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253109401,
-    "wof:lastmodified":1449063853,
+    "wof:lastmodified":1466210033,
     "wof:name":"Gross Optik Brillen Und Kontaktlinsen",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.3957,47.431271,9.3957,47.431271],
+  "bbox": [
+    9.3957,
+    47.431271,
+    9.3957,
+    47.431271
+],
   "geometry": {"coordinates":[9.3957,47.431271],"type":"Point"}
 }

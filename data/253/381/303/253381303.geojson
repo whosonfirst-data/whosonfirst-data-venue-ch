@@ -2,13 +2,14 @@
   "id": 253381303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545779,47.370609,8.545779,47.370609",
     "geom:latitude":47.370609,
     "geom:longitude":8.545779,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchgasse 25 8001 Z\u00fcrich. Postfach 215",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253381303,
-    "wof:lastmodified":1449063056,
+    "wof:lastmodified":1466212204,
     "wof:name":"Simmermacher Ren\u00e9 Ag",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545779,47.370609,8.545779,47.370609],
+  "bbox": [
+    8.545779,
+    47.370609,
+    8.545779,
+    47.370609
+],
   "geometry": {"coordinates":[8.545779,47.370609],"type":"Point"}
 }

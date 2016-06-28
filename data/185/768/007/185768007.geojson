@@ -2,13 +2,14 @@
   "id": 185768007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629385,46.756325,7.629385,46.756325",
     "geom:latitude":46.756325,
     "geom:longitude":7.629385,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Frutigenstrasse 2 3600 Thun. Postfach 1086",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185768007,
-    "wof:lastmodified":1449007231,
+    "wof:lastmodified":1466208911,
     "wof:name":"Eltz Huber & Wyler Advokatur- & Notariatsb\u00fcro",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629385,46.756325,7.629385,46.756325],
+  "bbox": [
+    7.629385,
+    46.756325,
+    7.629385,
+    46.756325
+],
   "geometry": {"coordinates":[7.629385,46.756325],"type":"Point"}
 }

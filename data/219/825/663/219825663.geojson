@@ -2,13 +2,14 @@
   "id": 219825663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.13212,46.215302,6.13212,46.215302",
     "geom:latitude":46.215302,
     "geom:longitude":6.13212,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grand-pr\u00e9 Rue Du 55 1202 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219825663,
-    "wof:lastmodified":1449070507,
+    "wof:lastmodified":1466212508,
     "wof:name":"Schertenleib Mara & Juget Ren\u00e9",
     "wof:parent_id":85897671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.13212,46.215302,6.13212,46.215302],
+  "bbox": [
+    6.13212,
+    46.215302,
+    6.13212,
+    46.215302
+],
   "geometry": {"coordinates":[6.13212,46.215302],"type":"Point"}
 }

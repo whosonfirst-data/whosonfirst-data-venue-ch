@@ -2,13 +2,14 @@
   "id": 219254225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.946278,47.315578,7.946278,47.315578",
     "geom:latitude":47.315578,
     "geom:longitude":7.946278,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Striegelstrasse 11",
     "sg:city":"Oftringen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219254225,
-    "wof:lastmodified":1449072812,
+    "wof:lastmodified":1466211585,
     "wof:name":"Armin B\u00fchler Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.946278,47.315578,7.946278,47.315578],
+  "bbox": [
+    7.946278,
+    47.315578,
+    7.946278,
+    47.315578
+],
   "geometry": {"coordinates":[7.946278,47.315578],"type":"Point"}
 }

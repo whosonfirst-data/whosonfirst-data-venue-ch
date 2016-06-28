@@ -2,13 +2,14 @@
   "id": 236056947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.338218,46.81789,10.338218,46.81789",
     "geom:latitude":46.81789,
     "geom:longitude":10.338218,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Archas",
     "sg:city":"Sent",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236056947,
-    "wof:lastmodified":1449002418,
+    "wof:lastmodified":1466209393,
     "wof:name":"Vital Ernest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.338218,46.81789,10.338218,46.81789],
+  "bbox": [
+    10.338218,
+    46.81789,
+    10.338218,
+    46.81789
+],
   "geometry": {"coordinates":[10.338218,46.81789],"type":"Point"}
 }

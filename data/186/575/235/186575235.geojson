@@ -2,13 +2,14 @@
   "id": 186575235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.555572,47.510231,7.555572,47.510231",
     "geom:latitude":47.510231,
     "geom:longitude":7.555572,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"M\u00fchlemattstrasse 11",
     "sg:city":"Oberwil",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186575235,
-    "wof:lastmodified":1449051151,
+    "wof:lastmodified":1466211834,
     "wof:name":"Hanag Steriltechnik Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apparatus"
     ]
 },
-  "bbox": [7.555572,47.510231,7.555572,47.510231],
+  "bbox": [
+    7.555572,
+    47.510231,
+    7.555572,
+    47.510231
+],
   "geometry": {"coordinates":[7.555572,47.510231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219385353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.499509,47.689262,8.499509,47.689262",
     "geom:latitude":47.689262,
     "geom:longitude":8.499509,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Grabenstrasse 7",
     "sg:city":"Neunkirch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219385353,
-    "wof:lastmodified":1449072483,
+    "wof:lastmodified":1466210038,
     "wof:name":"Huber Carreisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.499509,47.689262,8.499509,47.689262],
+  "bbox": [
+    8.499509,
+    47.689262,
+    8.499509,
+    47.689262
+],
   "geometry": {"coordinates":[8.499509,47.689262],"type":"Point"}
 }

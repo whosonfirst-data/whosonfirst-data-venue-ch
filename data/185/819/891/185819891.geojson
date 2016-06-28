@@ -2,13 +2,14 @@
   "id": 185819891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.3141,-25.73562,28.3141,-25.73562",
     "geom:latitude":-25.73562,
     "geom:longitude":28.3141,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. De La Concorde 28 Case Postale 33",
     "sg:city":"Chavannes-pr\u00e8s-renens",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185819891,
-    "wof:lastmodified":1449006990,
+    "wof:lastmodified":1466209252,
     "wof:name":"Bourse Aux Fleurs Pfa- Plantes-fleurs-arbres Sa",
     "wof:parent_id":85772525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "livestock"
     ]
 },
-  "bbox": [28.3141,-25.73562,28.3141,-25.73562],
+  "bbox": [
+    28.3141,
+    -25.73562,
+    28.3141,
+    -25.73562
+],
   "geometry": {"coordinates":[28.3141,-25.73562],"type":"Point"}
 }

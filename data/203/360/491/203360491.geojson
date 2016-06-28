@@ -2,13 +2,14 @@
   "id": 203360491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.31618,47.571648,9.31618,47.571648",
     "geom:latitude":47.571648,
     "geom:longitude":9.31618,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hamisfeld 93",
     "sg:city":"Dozwil",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203360491,
-    "wof:lastmodified":1449026395,
+    "wof:lastmodified":1466211133,
     "wof:name":"Dr.med.karin Wiedmer Aebersold Aerztin F.allgemeine Medizin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.31618,47.571648,9.31618,47.571648],
+  "bbox": [
+    9.31618,
+    47.571648,
+    9.31618,
+    47.571648
+],
   "geometry": {"coordinates":[9.31618,47.571648],"type":"Point"}
 }

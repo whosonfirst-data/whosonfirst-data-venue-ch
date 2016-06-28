@@ -2,13 +2,14 @@
   "id": 236940125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.821352,47.242947,8.821352,47.242947",
     "geom:latitude":47.242947,
     "geom:longitude":8.821352,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonneckstrasse 4",
     "sg:city":"Jona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236940125,
-    "wof:lastmodified":1449002285,
+    "wof:lastmodified":1466213033,
     "wof:name":"Ctb Controlling Software Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.821352,47.242947,8.821352,47.242947],
+  "bbox": [
+    8.821352,
+    47.242947,
+    8.821352,
+    47.242947
+],
   "geometry": {"coordinates":[8.821352,47.242947],"type":"Point"}
 }

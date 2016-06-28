@@ -2,13 +2,14 @@
   "id": 220022409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.258493,46.774395,10.258493,46.774395",
     "geom:latitude":46.774395,
     "geom:longitude":10.258493,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fontana",
     "sg:city":"Tarasp",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220022409,
-    "wof:lastmodified":1449074287,
+    "wof:lastmodified":1466209070,
     "wof:name":"Jon Grass Mechanische Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.258493,46.774395,10.258493,46.774395],
+  "bbox": [
+    10.258493,
+    46.774395,
+    10.258493,
+    46.774395
+],
   "geometry": {"coordinates":[10.258493,46.774395],"type":"Point"}
 }

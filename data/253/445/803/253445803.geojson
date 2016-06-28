@@ -2,13 +2,14 @@
   "id": 253445803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.377786,47.424953,9.377786,47.424953",
     "geom:latitude":47.424953,
     "geom:longitude":9.377786,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotfluhstrasse 83",
     "sg:city":"Zollikon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253445803,
-    "wof:lastmodified":1449063215,
+    "wof:lastmodified":1466212390,
     "wof:name":"Bernie's Ag",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.377786,47.424953,9.377786,47.424953],
+  "bbox": [
+    9.377786,
+    47.424953,
+    9.377786,
+    47.424953
+],
   "geometry": {"coordinates":[9.377786,47.424953],"type":"Point"}
 }

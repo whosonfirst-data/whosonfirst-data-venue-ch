@@ -2,13 +2,14 @@
   "id": 185718561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.146242,46.203869,6.146242,46.203869",
     "geom:latitude":46.203869,
     "geom:longitude":6.146242,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gesellschaftsstrasse 27 3012 Bern. Postfach 6858",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185718561,
-    "wof:lastmodified":1449006967,
+    "wof:lastmodified":1466211269,
     "wof:name":"Jo\u00eblle Knopfel Etude D'avocat",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.146242,46.203869,6.146242,46.203869],
+  "bbox": [
+    6.146242,
+    46.203869,
+    6.146242,
+    46.203869
+],
   "geometry": {"coordinates":[6.146242,46.203869],"type":"Point"}
 }

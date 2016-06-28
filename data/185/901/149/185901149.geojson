@@ -2,13 +2,14 @@
   "id": 185901149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.551804,46.889133,6.551804,46.889133",
     "geom:latitude":46.889133,
     "geom:longitude":6.551804,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Ruisseau 9",
     "sg:city":"Buttes",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185901149,
-    "wof:lastmodified":1449007275,
+    "wof:lastmodified":1466209845,
     "wof:name":"Davide Bartoli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.551804,46.889133,6.551804,46.889133],
+  "bbox": [
+    6.551804,
+    46.889133,
+    6.551804,
+    46.889133
+],
   "geometry": {"coordinates":[6.551804,46.889133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253325399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.62208,47.45594,9.62208,47.45594",
     "geom:latitude":47.45594,
     "geom:longitude":9.62208,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Altstetterstrasse 130 8048 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253325399,
-    "wof:lastmodified":1449063981,
+    "wof:lastmodified":1466211987,
     "wof:name":"Kiosk Mineralbad, Marcel K\u00fcng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.62208,47.45594,9.62208,47.45594],
+  "bbox": [
+    9.62208,
+    47.45594,
+    9.62208,
+    47.45594
+],
   "geometry": {"coordinates":[9.62208,47.45594],"type":"Point"}
 }

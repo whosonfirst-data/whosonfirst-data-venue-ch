@@ -2,13 +2,14 @@
   "id": 219787475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.629538,46.758785,7.629538,46.758785",
     "geom:latitude":46.758785,
     "geom:longitude":7.629538,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Obere Hauptgasse 28",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219787475,
-    "wof:lastmodified":1449071994,
+    "wof:lastmodified":1466212427,
     "wof:name":"Bar Tigerfalle, Ruge Isabella",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.629538,46.758785,7.629538,46.758785],
+  "bbox": [
+    7.629538,
+    46.758785,
+    7.629538,
+    46.758785
+],
   "geometry": {"coordinates":[7.629538,46.758785],"type":"Point"}
 }

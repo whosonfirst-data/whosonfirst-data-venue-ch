@@ -2,13 +2,14 @@
   "id": 236764029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.315733,47.155136,8.315733,47.155136",
     "geom:latitude":47.155136,
     "geom:longitude":8.315733,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hochdorfstr. 9",
     "sg:city":"Ballwil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236764029,
-    "wof:lastmodified":1449005063,
+    "wof:lastmodified":1466212984,
     "wof:name":"Wikland Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothes"
     ]
 },
-  "bbox": [8.315733,47.155136,8.315733,47.155136],
+  "bbox": [
+    8.315733,
+    47.155136,
+    8.315733,
+    47.155136
+],
   "geometry": {"coordinates":[8.315733,47.155136],"type":"Point"}
 }

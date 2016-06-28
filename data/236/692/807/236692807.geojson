@@ -2,13 +2,14 @@
   "id": 236692807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.617442,47.511414,7.617442,47.511414",
     "geom:latitude":47.511414,
     "geom:longitude":7.617442,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ennetb\u00fcrgerstr. 47",
     "sg:city":"Buochs",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236692807,
-    "wof:lastmodified":1449002337,
+    "wof:lastmodified":1466212909,
     "wof:name":"Van Baerle Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "by-product"
     ]
 },
-  "bbox": [7.617442,47.511414,7.617442,47.511414],
+  "bbox": [
+    7.617442,
+    47.511414,
+    7.617442,
+    47.511414
+],
   "geometry": {"coordinates":[7.617442,47.511414],"type":"Point"}
 }

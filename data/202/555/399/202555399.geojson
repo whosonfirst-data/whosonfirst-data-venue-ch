@@ -2,13 +2,14 @@
   "id": 202555399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.931515,46.045364,8.931515,46.045364",
     "geom:latitude":46.045364,
     "geom:longitude":8.931515,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Industria Sud Casa Vedeggio 2",
     "sg:city":"Lamone",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202555399,
-    "wof:lastmodified":1449062290,
+    "wof:lastmodified":1466209248,
     "wof:name":"In Intrapulos Nicos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.931515,46.045364,8.931515,46.045364],
+  "bbox": [
+    8.931515,
+    46.045364,
+    8.931515,
+    46.045364
+],
   "geometry": {"coordinates":[8.931515,46.045364],"type":"Point"}
 }

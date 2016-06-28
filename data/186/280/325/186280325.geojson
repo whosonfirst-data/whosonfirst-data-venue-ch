@@ -2,13 +2,14 @@
   "id": 186280325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.569721,47.404663,8.569721,47.404663",
     "geom:latitude":47.404663,
     "geom:longitude":8.569721,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Friedrichstrasse 14",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186280325,
-    "wof:lastmodified":1449051698,
+    "wof:lastmodified":1466209691,
     "wof:name":"Fratton Ag",
     "wof:parent_id":85800509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.569721,47.404663,8.569721,47.404663],
+  "bbox": [
+    8.569721,
+    47.404663,
+    8.569721,
+    47.404663
+],
   "geometry": {"coordinates":[8.569721,47.404663],"type":"Point"}
 }

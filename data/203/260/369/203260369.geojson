@@ -2,13 +2,14 @@
   "id": 203260369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.263249,47.050247,8.263249,47.050247",
     "geom:latitude":47.050247,
     "geom:longitude":8.263249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rigistrasse 5",
     "sg:city":"Littau",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203260369,
-    "wof:lastmodified":1449025263,
+    "wof:lastmodified":1466210133,
     "wof:name":"Dr.med. Stefan Avar Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.263249,47.050247,8.263249,47.050247],
+  "bbox": [
+    8.263249,
+    47.050247,
+    8.263249,
+    47.050247
+],
   "geometry": {"coordinates":[8.263249,47.050247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186430771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.555051,47.508327,7.555051,47.508327",
     "geom:latitude":47.508327,
     "geom:longitude":7.555051,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Brand",
     "sg:city":"Obstalden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186430771,
-    "wof:lastmodified":1449052088,
+    "wof:lastmodified":1466210849,
     "wof:name":"Karl Hasler Bedachungen & Fassadenbau",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.555051,47.508327,7.555051,47.508327],
+  "bbox": [
+    7.555051,
+    47.508327,
+    7.555051,
+    47.508327
+],
   "geometry": {"coordinates":[7.555051,47.508327],"type":"Point"}
 }

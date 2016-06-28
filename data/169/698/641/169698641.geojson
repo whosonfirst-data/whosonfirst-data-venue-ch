@@ -2,13 +2,14 @@
   "id": 169698641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.061595,46.224148,6.061595,46.224148",
     "geom:latitude":46.224148,
     "geom:longitude":6.061595,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De L' Epinglier 3",
     "sg:city":"Meyrin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169698641,
-    "wof:lastmodified":1449035755,
+    "wof:lastmodified":1466210918,
     "wof:name":"Pierre Niklaus S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surface"
     ]
 },
-  "bbox": [6.061595,46.224148,6.061595,46.224148],
+  "bbox": [
+    6.061595,
+    46.224148,
+    6.061595,
+    46.224148
+],
   "geometry": {"coordinates":[6.061595,46.224148],"type":"Point"}
 }

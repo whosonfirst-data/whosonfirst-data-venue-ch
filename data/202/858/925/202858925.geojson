@@ -2,13 +2,14 @@
   "id": 202858925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.472378,47.34063,8.472378,47.34063",
     "geom:latitude":47.34063,
     "geom:longitude":8.472378,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ettenbergstrasse 16 8907 Wettswil. Postfach 267",
     "sg:city":"Wettswil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202858925,
-    "wof:lastmodified":1449060365,
+    "wof:lastmodified":1466211957,
     "wof:name":"Schatt Andr\u00e9 Ag",
     "wof:parent_id":85800629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.472378,47.34063,8.472378,47.34063],
+  "bbox": [
+    8.472378,
+    47.34063,
+    8.472378,
+    47.34063
+],
   "geometry": {"coordinates":[8.472378,47.34063],"type":"Point"}
 }

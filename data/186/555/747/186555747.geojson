@@ -2,13 +2,14 @@
   "id": 186555747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.438094,47.453533,8.438094,47.453533",
     "geom:latitude":47.453533,
     "geom:longitude":8.438094,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahnhofstrasse 21",
     "sg:city":"Buchs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186555747,
-    "wof:lastmodified":1449052632,
+    "wof:lastmodified":1466212002,
     "wof:name":"Blockmetall Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminium"
     ]
 },
-  "bbox": [8.438094,47.453533,8.438094,47.453533],
+  "bbox": [
+    8.438094,
+    47.453533,
+    8.438094,
+    47.453533
+],
   "geometry": {"coordinates":[8.438094,47.453533],"type":"Point"}
 }

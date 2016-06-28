@@ -2,13 +2,14 @@
   "id": 219275483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.601367,46.523468,6.601367,46.523468",
     "geom:latitude":46.523468,
     "geom:longitude":6.601367,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rouges-terres 24",
     "sg:city":"Hauterive",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219275483,
-    "wof:lastmodified":1449071532,
+    "wof:lastmodified":1466209022,
     "wof:name":"Garage Du Bois-de-vaux Sa",
     "wof:parent_id":85862305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.601367,46.523468,6.601367,46.523468],
+  "bbox": [
+    6.601367,
+    46.523468,
+    6.601367,
+    46.523468
+],
   "geometry": {"coordinates":[6.601367,46.523468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220007431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.55823,47.299892,8.55823,47.299892",
     "geom:latitude":47.299892,
     "geom:longitude":8.55823,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Landstrasse 191a",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220007431,
-    "wof:lastmodified":1449074720,
+    "wof:lastmodified":1466208943,
     "wof:name":"Ernst H\u00f6hn Restaurierungen",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.55823,47.299892,8.55823,47.299892],
+  "bbox": [
+    8.55823,
+    47.299892,
+    8.55823,
+    47.299892
+],
   "geometry": {"coordinates":[8.55823,47.299892],"type":"Point"}
 }

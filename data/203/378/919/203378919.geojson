@@ -2,13 +2,14 @@
   "id": 203378919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51041,47.372101,8.51041,47.372101",
     "geom:latitude":47.372101,
     "geom:longitude":8.51041,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bertastrasse 99",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203378919,
-    "wof:lastmodified":1449026258,
+    "wof:lastmodified":1466211315,
     "wof:name":"Dr.med.martin David Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.51041,47.372101,8.51041,47.372101],
+  "bbox": [
+    8.51041,
+    47.372101,
+    8.51041,
+    47.372101
+],
   "geometry": {"coordinates":[8.51041,47.372101],"type":"Point"}
 }

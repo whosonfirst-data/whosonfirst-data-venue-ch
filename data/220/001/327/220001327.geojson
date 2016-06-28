@@ -2,13 +2,14 @@
   "id": 220001327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.402463,47.083519,7.402463,47.083519",
     "geom:latitude":47.083519,
     "geom:longitude":7.402463,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitzacker 149",
     "sg:city":"Fehren",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220001327,
-    "wof:lastmodified":1449074226,
+    "wof:lastmodified":1466208891,
     "wof:name":"Arthur Weibel Schreinerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.402463,47.083519,7.402463,47.083519],
+  "bbox": [
+    7.402463,
+    47.083519,
+    7.402463,
+    47.083519
+],
   "geometry": {"coordinates":[7.402463,47.083519],"type":"Point"}
 }

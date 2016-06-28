@@ -2,13 +2,14 @@
   "id": 219802849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.918496,45.984158,8.918496,45.984158",
     "geom:latitude":45.984158,
     "geom:longitude":8.918496,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Collina D'oro 72",
     "sg:city":"Montagnola",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219802849,
-    "wof:lastmodified":1449073259,
+    "wof:lastmodified":1466212539,
     "wof:name":"Gebelmo Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.918496,45.984158,8.918496,45.984158],
+  "bbox": [
+    8.918496,
+    45.984158,
+    8.918496,
+    45.984158
+],
   "geometry": {"coordinates":[8.918496,45.984158],"type":"Point"}
 }

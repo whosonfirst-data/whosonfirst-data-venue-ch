@@ -2,13 +2,14 @@
   "id": 203416505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.569062,47.29147,8.569062,47.29147",
     "geom:latitude":47.29147,
     "geom:longitude":8.569062,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirchbodenstrasse 72",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203416505,
-    "wof:lastmodified":1449025764,
+    "wof:lastmodified":1466211667,
     "wof:name":"Dr.med.thomas Gabriel Spezialarzt Fmh",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.569062,47.29147,8.569062,47.29147],
+  "bbox": [
+    8.569062,
+    47.29147,
+    8.569062,
+    47.29147
+],
   "geometry": {"coordinates":[8.569062,47.29147],"type":"Point"}
 }

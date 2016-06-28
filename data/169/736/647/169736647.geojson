@@ -2,13 +2,14 @@
   "id": 169736647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.91272,47.346325,7.91272,47.346325",
     "geom:latitude":47.346325,
     "geom:longitude":7.91272,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riggenbachstrasse 27 4600 Olten. Postfach 830",
     "sg:city":"Olten",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169736647,
-    "wof:lastmodified":1449035929,
+    "wof:lastmodified":1466211203,
     "wof:name":"Aernschdt F. Hediger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.91272,47.346325,7.91272,47.346325],
+  "bbox": [
+    7.91272,
+    47.346325,
+    7.91272,
+    47.346325
+],
   "geometry": {"coordinates":[7.91272,47.346325],"type":"Point"}
 }

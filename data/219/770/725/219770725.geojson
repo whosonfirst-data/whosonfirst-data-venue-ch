@@ -2,13 +2,14 @@
   "id": 219770725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.537063,47.445469,9.537063,47.445469",
     "geom:latitude":47.445469,
     "geom:longitude":9.537063,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Paradiesstrasse 6",
     "sg:city":"Heiden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219770725,
-    "wof:lastmodified":1449073995,
+    "wof:lastmodified":1466212405,
     "wof:name":"Bar Bahnhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.537063,47.445469,9.537063,47.445469],
+  "bbox": [
+    9.537063,
+    47.445469,
+    9.537063,
+    47.445469
+],
   "geometry": {"coordinates":[9.537063,47.445469],"type":"Point"}
 }

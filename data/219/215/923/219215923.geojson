@@ -2,13 +2,14 @@
   "id": 219215923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.072216,46.228443,6.072216,46.228443",
     "geom:latitude":46.228443,
     "geom:longitude":6.072216,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R Des Cardinal Journet 5 Av De St Paul 5",
     "sg:city":"Meyrin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219215923,
-    "wof:lastmodified":1449073313,
+    "wof:lastmodified":1466211149,
     "wof:name":"Ageda Communication Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [6.072216,46.228443,6.072216,46.228443],
+  "bbox": [
+    6.072216,
+    46.228443,
+    6.072216,
+    46.228443
+],
   "geometry": {"coordinates":[6.072216,46.228443],"type":"Point"}
 }

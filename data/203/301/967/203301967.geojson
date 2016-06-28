@@ -2,13 +2,14 @@
   "id": 203301967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.549992,47.369389,8.549992,47.369389",
     "geom:latitude":47.369389,
     "geom:longitude":8.549992,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeltweg 11",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203301967,
-    "wof:lastmodified":1449025403,
+    "wof:lastmodified":1466210558,
     "wof:name":"Dr.med.daria Roman Spezial\u00e4rztin Fmh",
     "wof:parent_id":85799981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.549992,47.369389,8.549992,47.369389],
+  "bbox": [
+    8.549992,
+    47.369389,
+    8.549992,
+    47.369389
+],
   "geometry": {"coordinates":[8.549992,47.369389],"type":"Point"}
 }

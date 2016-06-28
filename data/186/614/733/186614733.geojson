@@ -2,13 +2,14 @@
   "id": 186614733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560495,47.428627,8.560495,47.428627",
     "geom:latitude":47.428627,
     "geom:longitude":8.560495,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Margarethenstrasse 27",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186614733,
-    "wof:lastmodified":1449053093,
+    "wof:lastmodified":1466212255,
     "wof:name":"H. Weidmann's Erben Maschinenbau",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560495,47.428627,8.560495,47.428627],
+  "bbox": [
+    8.560495,
+    47.428627,
+    8.560495,
+    47.428627
+],
   "geometry": {"coordinates":[8.560495,47.428627],"type":"Point"}
 }

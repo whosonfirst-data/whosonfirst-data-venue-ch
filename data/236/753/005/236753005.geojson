@@ -2,13 +2,14 @@
   "id": 236753005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.474055,47.183624,8.474055,47.183624",
     "geom:latitude":47.183624,
     "geom:longitude":8.474055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alpenblick 4",
     "sg:city":"Cham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236753005,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466212983,
     "wof:name":"Bonjour & Bonjour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [8.474055,47.183624,8.474055,47.183624],
+  "bbox": [
+    8.474055,
+    47.183624,
+    8.474055,
+    47.183624
+],
   "geometry": {"coordinates":[8.474055,47.183624],"type":"Point"}
 }

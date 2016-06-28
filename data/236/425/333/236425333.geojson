@@ -2,13 +2,14 @@
   "id": 236425333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.721042,46.590618,7.721042,46.590618",
     "geom:latitude":46.590618,
     "geom:longitude":7.721042,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"7412",
     "sg:city":"Scharans",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236425333,
-    "wof:lastmodified":1449002683,
+    "wof:lastmodified":1466212336,
     "wof:name":"Dorfbibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "archive"
     ]
 },
-  "bbox": [7.721042,46.590618,7.721042,46.590618],
+  "bbox": [
+    7.721042,
+    46.590618,
+    7.721042,
+    46.590618
+],
   "geometry": {"coordinates":[7.721042,46.590618],"type":"Point"}
 }

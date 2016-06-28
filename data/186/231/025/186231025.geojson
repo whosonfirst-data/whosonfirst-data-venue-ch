@@ -2,13 +2,14 @@
   "id": 186231025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.557896,47.370728,8.557896,47.370728",
     "geom:latitude":47.370728,
     "geom:longitude":8.557896,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Treichlerstrasse 5 8030 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186231025,
-    "wof:lastmodified":1449051739,
+    "wof:lastmodified":1466209330,
     "wof:name":"Tritonia Bau Und Verwaltungs Ag Bauprojekte Usw",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.557896,47.370728,8.557896,47.370728],
+  "bbox": [
+    8.557896,
+    47.370728,
+    8.557896,
+    47.370728
+],
   "geometry": {"coordinates":[8.557896,47.370728],"type":"Point"}
 }

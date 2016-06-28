@@ -2,13 +2,14 @@
   "id": 253017643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.831444,47.102802,6.831444,47.102802",
     "geom:latitude":47.102802,
     "geom:longitude":6.831444,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du L\u00e9man 10",
     "sg:city":"Clarens",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253017643,
-    "wof:lastmodified":1449064398,
+    "wof:lastmodified":1466209127,
     "wof:name":"Fabienne Audergon Bel Flore Magasin De Fleurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.831444,47.102802,6.831444,47.102802],
+  "bbox": [
+    6.831444,
+    47.102802,
+    6.831444,
+    47.102802
+],
   "geometry": {"coordinates":[6.831444,47.102802],"type":"Point"}
 }

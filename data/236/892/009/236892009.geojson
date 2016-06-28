@@ -2,13 +2,14 @@
   "id": 236892009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.707587,47.483395,8.707587,47.483395",
     "geom:latitude":47.483395,
     "geom:longitude":8.707587,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neum\u00fchlestrasse 42",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236892009,
-    "wof:lastmodified":1449002042,
+    "wof:lastmodified":1466213011,
     "wof:name":"Martista Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.707587,47.483395,8.707587,47.483395],
+  "bbox": [
+    8.707587,
+    47.483395,
+    8.707587,
+    47.483395
+],
   "geometry": {"coordinates":[8.707587,47.483395],"type":"Point"}
 }

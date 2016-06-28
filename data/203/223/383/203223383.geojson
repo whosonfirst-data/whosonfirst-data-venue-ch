@@ -2,13 +2,14 @@
   "id": 203223383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.141425,46.183311,6.141425,46.183311",
     "geom:latitude":46.183311,
     "geom:longitude":6.141425,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Barth\u00e9lemy-menn 8",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203223383,
-    "wof:lastmodified":1449025070,
+    "wof:lastmodified":1466209723,
     "wof:name":"Dr M\u00e9d. Razvan Stinghe M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.141425,46.183311,6.141425,46.183311],
+  "bbox": [
+    6.141425,
+    46.183311,
+    6.141425,
+    46.183311
+],
   "geometry": {"coordinates":[6.141425,46.183311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202714293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.108284,46.224064,6.108284,46.224064",
     "geom:latitude":46.224064,
     "geom:longitude":6.108284,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Louis-casa\u00ef 71",
     "sg:city":"Meyrin",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202714293,
-    "wof:lastmodified":1449061374,
+    "wof:lastmodified":1466210729,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Pour L'industrie (sgi) - Ing\u00e9nieurs-conseils",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.108284,46.224064,6.108284,46.224064],
+  "bbox": [
+    6.108284,
+    46.224064,
+    6.108284,
+    46.224064
+],
   "geometry": {"coordinates":[6.108284,46.224064],"type":"Point"}
 }

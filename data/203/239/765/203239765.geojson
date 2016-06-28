@@ -2,13 +2,14 @@
   "id": 203239765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.378397,47.390705,9.378397,47.390705",
     "geom:latitude":47.390705,
     "geom:longitude":9.378397,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rudolfstrasse 3",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203239765,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466209909,
     "wof:name":"Dr.med. Andr\u00e9s Baliarda Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.378397,47.390705,9.378397,47.390705],
+  "bbox": [
+    9.378397,
+    47.390705,
+    9.378397,
+    47.390705
+],
   "geometry": {"coordinates":[9.378397,47.390705],"type":"Point"}
 }

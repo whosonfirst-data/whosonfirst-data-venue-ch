@@ -2,13 +2,14 @@
   "id": 202688089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.43396,46.953964,7.43396,46.953964",
     "geom:latitude":46.953964,
     "geom:longitude":7.43396,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gesellschaftsstrasse 43 3012 Bern. Postfach 7713",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202688089,
-    "wof:lastmodified":1449061061,
+    "wof:lastmodified":1466210476,
     "wof:name":"Rohrer Engineering Ag",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.43396,46.953964,7.43396,46.953964],
+  "bbox": [
+    7.43396,
+    46.953964,
+    7.43396,
+    46.953964
+],
   "geometry": {"coordinates":[7.43396,46.953964],"type":"Point"}
 }

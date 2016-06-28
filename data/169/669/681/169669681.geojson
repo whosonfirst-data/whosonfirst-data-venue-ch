@@ -2,13 +2,14 @@
   "id": 169669681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.764706,47.495281,8.764706,47.495281",
     "geom:latitude":47.495281,
     "geom:longitude":8.764706,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00f6schenweidstrasse 12 8404 Oberwinterthur. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169669681,
-    "wof:lastmodified":1449033057,
+    "wof:lastmodified":1466210453,
     "wof:name":"Sennhauser Ag Teppiche Und Bodenbel\u00e4ge",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.764706,47.495281,8.764706,47.495281],
+  "bbox": [
+    8.764706,
+    47.495281,
+    8.764706,
+    47.495281
+],
   "geometry": {"coordinates":[8.764706,47.495281],"type":"Point"}
 }

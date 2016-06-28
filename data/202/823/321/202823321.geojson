@@ -2,13 +2,14 @@
   "id": 202823321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.852502,47.65789,8.852502,47.65789",
     "geom:latitude":47.65789,
     "geom:longitude":8.852502,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Loretostrasse 31 4500 Solothurn. Postfach",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202823321,
-    "wof:lastmodified":1449062614,
+    "wof:lastmodified":1466211686,
     "wof:name":"Frei Andreas Bauplanung-bauf\u00fchrung Architekturdienstleistungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.852502,47.65789,8.852502,47.65789],
+  "bbox": [
+    8.852502,
+    47.65789,
+    8.852502,
+    47.65789
+],
   "geometry": {"coordinates":[8.852502,47.65789],"type":"Point"}
 }

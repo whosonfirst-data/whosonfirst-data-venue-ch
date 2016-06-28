@@ -2,13 +2,14 @@
   "id": 202803593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.974058,47.185051,7.974058,47.185051",
     "geom:latitude":47.185051,
     "geom:longitude":7.974058,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Fr\u00f6scherengasse 11",
     "sg:city":"Nebikon",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202803593,
-    "wof:lastmodified":1449062687,
+    "wof:lastmodified":1466211554,
     "wof:name":"Bachmann Architekten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.974058,47.185051,7.974058,47.185051],
+  "bbox": [
+    7.974058,
+    47.185051,
+    7.974058,
+    47.185051
+],
   "geometry": {"coordinates":[7.974058,47.185051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219369685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.134562,47.441608,9.134562,47.441608",
     "geom:latitude":47.441608,
     "geom:longitude":9.134562,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonnenh\u00fcgelstrasse 8",
     "sg:city":"Uzwil",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219369685,
-    "wof:lastmodified":1449073731,
+    "wof:lastmodified":1466209867,
     "wof:name":"Ase-b\u00fchler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "automation"
     ]
 },
-  "bbox": [9.134562,47.441608,9.134562,47.441608],
+  "bbox": [
+    9.134562,
+    47.441608,
+    9.134562,
+    47.441608
+],
   "geometry": {"coordinates":[9.134562,47.441608],"type":"Point"}
 }

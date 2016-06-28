@@ -2,13 +2,14 @@
   "id": 202413323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.234862,47.121433,7.234862,47.121433",
     "geom:latitude":47.121433,
     "geom:longitude":7.234862,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Herrenmoosweg 27",
     "sg:city":"Nidau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202413323,
-    "wof:lastmodified":1449060507,
+    "wof:lastmodified":1466209937,
     "wof:name":"Bl-concept Liechti Bernard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.234862,47.121433,7.234862,47.121433],
+  "bbox": [
+    7.234862,
+    47.121433,
+    7.234862,
+    47.121433
+],
   "geometry": {"coordinates":[7.234862,47.121433],"type":"Point"}
 }

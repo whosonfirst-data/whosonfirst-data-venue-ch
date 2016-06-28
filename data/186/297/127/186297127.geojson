@@ -2,13 +2,14 @@
   "id": 186297127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.563404,47.297939,8.563404,47.297939",
     "geom:latitude":47.297939,
     "geom:longitude":8.563404,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Wannenstrasse 11",
     "sg:city":"Thalwil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186297127,
-    "wof:lastmodified":1449052085,
+    "wof:lastmodified":1466209816,
     "wof:name":"Massaro Carlo Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.563404,47.297939,8.563404,47.297939],
+  "bbox": [
+    8.563404,
+    47.297939,
+    8.563404,
+    47.297939
+],
   "geometry": {"coordinates":[8.563404,47.297939],"type":"Point"}
 }

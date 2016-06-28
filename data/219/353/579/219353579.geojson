@@ -2,13 +2,14 @@
   "id": 219353579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543529,47.565727,8.543529,47.565727",
     "geom:latitude":47.565727,
     "geom:longitude":8.543529,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6ssriederenstrasse 43",
     "sg:city":"Eglisau",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219353579,
-    "wof:lastmodified":1449071421,
+    "wof:lastmodified":1466209723,
     "wof:name":"Hugo Harder Autospritzwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543529,47.565727,8.543529,47.565727],
+  "bbox": [
+    8.543529,
+    47.565727,
+    8.543529,
+    47.565727
+],
   "geometry": {"coordinates":[8.543529,47.565727],"type":"Point"}
 }

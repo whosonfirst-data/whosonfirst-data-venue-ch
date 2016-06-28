@@ -2,13 +2,14 @@
   "id": 219448459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.183527,47.249886,8.183527,47.249886",
     "geom:latitude":47.249886,
     "geom:longitude":8.183527,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 71",
     "sg:city":"Reinach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219448459,
-    "wof:lastmodified":1449073743,
+    "wof:lastmodified":1466210622,
     "wof:name":"Voco Draht Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wire"
     ]
 },
-  "bbox": [8.183527,47.249886,8.183527,47.249886],
+  "bbox": [
+    8.183527,
+    47.249886,
+    8.183527,
+    47.249886
+],
   "geometry": {"coordinates":[8.183527,47.249886],"type":"Point"}
 }

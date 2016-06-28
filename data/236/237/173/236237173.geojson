@@ -2,13 +2,14 @@
   "id": 236237173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.506728,47.148285,8.506728,47.148285",
     "geom:latitude":47.148285,
     "geom:longitude":8.506728,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hugistrasse 12",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236237173,
-    "wof:lastmodified":1449001739,
+    "wof:lastmodified":1466211217,
     "wof:name":"Stiftung Freizeitanlage Oberwil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.506728,47.148285,8.506728,47.148285],
+  "bbox": [
+    8.506728,
+    47.148285,
+    8.506728,
+    47.148285
+],
   "geometry": {"coordinates":[8.506728,47.148285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252968173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.554249,47.369591,8.554249,47.369591",
     "geom:latitude":47.369591,
     "geom:longitude":8.554249,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hottingerstrasse 37",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":252968173,
-    "wof:lastmodified":1449005478,
+    "wof:lastmodified":1466211761,
     "wof:name":"K\u00fcche & Haushalt Giesbrecht Verena",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.554249,47.369591,8.554249,47.369591],
+  "bbox": [
+    8.554249,
+    47.369591,
+    8.554249,
+    47.369591
+],
   "geometry": {"coordinates":[8.554249,47.369591],"type":"Point"}
 }

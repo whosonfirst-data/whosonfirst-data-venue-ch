@@ -2,13 +2,14 @@
   "id": 253321279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.737902,47.479717,7.737902,47.479717",
     "geom:latitude":47.479717,
     "geom:longitude":7.737902,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spitzackerstrasse 2a",
     "sg:city":"Liestal",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253321279,
-    "wof:lastmodified":1449062888,
+    "wof:lastmodified":1466211843,
     "wof:name":"Heini Eric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.737902,47.479717,7.737902,47.479717],
+  "bbox": [
+    7.737902,
+    47.479717,
+    7.737902,
+    47.479717
+],
   "geometry": {"coordinates":[7.737902,47.479717],"type":"Point"}
 }

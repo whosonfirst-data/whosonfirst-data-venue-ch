@@ -2,13 +2,14 @@
   "id": 185628643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.629307,47.418243,8.629307,47.418243",
     "geom:latitude":47.418243,
     "geom:longitude":8.629307,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruchstuckstrasse 12",
     "sg:city":"Br\u00fcttisellen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185628643,
-    "wof:lastmodified":1449007921,
+    "wof:lastmodified":1466209875,
     "wof:name":"Ades",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "label"
     ]
 },
-  "bbox": [8.629307,47.418243,8.629307,47.418243],
+  "bbox": [
+    8.629307,
+    47.418243,
+    8.629307,
+    47.418243
+],
   "geometry": {"coordinates":[8.629307,47.418243],"type":"Point"}
 }

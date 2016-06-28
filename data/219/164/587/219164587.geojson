@@ -2,13 +2,14 @@
   "id": 219164587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.536078,47.390789,8.536078,47.390789",
     "geom:latitude":47.390789,
     "geom:longitude":8.536078,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kornhausstrasse 53",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":219164587,
-    "wof:lastmodified":1449070807,
+    "wof:lastmodified":1466210158,
     "wof:name":"Dr.med.yves Patak Arzt F\u00fcr Allgemeine Medizin",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.536078,47.390789,8.536078,47.390789],
+  "bbox": [
+    8.536078,
+    47.390789,
+    8.536078,
+    47.390789
+],
   "geometry": {"coordinates":[8.536078,47.390789],"type":"Point"}
 }

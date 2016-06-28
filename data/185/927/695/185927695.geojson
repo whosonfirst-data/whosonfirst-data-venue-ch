@@ -2,13 +2,14 @@
   "id": 185927695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.545512,47.501839,8.545512,47.501839",
     "geom:latitude":47.501839,
     "geom:longitude":8.545512,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Z\u00fcrichstrasse 36",
     "sg:city":"Bachenb\u00fclach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185927695,
-    "wof:lastmodified":1449008051,
+    "wof:lastmodified":1466210079,
     "wof:name":"Spitex Verein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.545512,47.501839,8.545512,47.501839],
+  "bbox": [
+    8.545512,
+    47.501839,
+    8.545512,
+    47.501839
+],
   "geometry": {"coordinates":[8.545512,47.501839],"type":"Point"}
 }

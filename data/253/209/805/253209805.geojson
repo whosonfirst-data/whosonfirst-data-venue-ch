@@ -2,13 +2,14 @@
   "id": 253209805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.768563,47.60622,8.768563,47.60622",
     "geom:latitude":47.60622,
     "geom:longitude":8.768563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Hauptstrasse 10b",
     "sg:city":"Oberneunforn",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253209805,
-    "wof:lastmodified":1449065464,
+    "wof:lastmodified":1466211108,
     "wof:name":"Kurt & Margrit Meyer Backstube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.768563,47.60622,8.768563,47.60622],
+  "bbox": [
+    8.768563,
+    47.60622,
+    8.768563,
+    47.60622
+],
   "geometry": {"coordinates":[8.768563,47.60622],"type":"Point"}
 }

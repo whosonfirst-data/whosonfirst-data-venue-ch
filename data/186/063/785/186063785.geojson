@@ -2,13 +2,14 @@
   "id": 186063785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.162184,46.196808,6.162184,46.196808",
     "geom:latitude":46.196808,
     "geom:longitude":6.162184,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Spiess Rue Henri- 3 1208 Gen\u00e8ve Case Postale 1871",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186063785,
-    "wof:lastmodified":1449050480,
+    "wof:lastmodified":1466210288,
     "wof:name":"Entrogen Sa",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.162184,46.196808,6.162184,46.196808],
+  "bbox": [
+    6.162184,
+    46.196808,
+    6.162184,
+    46.196808
+],
   "geometry": {"coordinates":[6.162184,46.196808],"type":"Point"}
 }

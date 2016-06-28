@@ -2,13 +2,14 @@
   "id": 202480873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.541252,47.389668,8.541252,47.389668",
     "geom:latitude":47.389668,
     "geom:longitude":8.541252,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Riedtlistrasse 23 8006 Z\u00fcrich. Postfach 323",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202480873,
-    "wof:lastmodified":1449060928,
+    "wof:lastmodified":1466211208,
     "wof:name":"Elrotec Ag",
     "wof:parent_id":85800585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.541252,47.389668,8.541252,47.389668],
+  "bbox": [
+    8.541252,
+    47.389668,
+    8.541252,
+    47.389668
+],
   "geometry": {"coordinates":[8.541252,47.389668],"type":"Point"}
 }

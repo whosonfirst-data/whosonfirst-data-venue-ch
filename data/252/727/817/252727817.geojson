@@ -2,13 +2,14 @@
   "id": 252727817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.72743,46.505039,6.72743,46.505039",
     "geom:latitude":46.505039,
     "geom:longitude":6.72743,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"1091",
     "sg:city":"Grandvaux",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252727817,
-    "wof:lastmodified":1449005571,
+    "wof:lastmodified":1466209120,
     "wof:name":"Palaz Georges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.72743,46.505039,6.72743,46.505039],
+  "bbox": [
+    6.72743,
+    46.505039,
+    6.72743,
+    46.505039
+],
   "geometry": {"coordinates":[6.72743,46.505039],"type":"Point"}
 }

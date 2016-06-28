@@ -2,13 +2,14 @@
   "id": 219858121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.988675,46.308765,8.988675,46.308765",
     "geom:latitude":46.308765,
     "geom:longitude":8.988675,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6703",
     "sg:city":"Osogna",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219858121,
-    "wof:lastmodified":1449070742,
+    "wof:lastmodified":1466212563,
     "wof:name":"Ristorante-bar Salosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"
     ]
 },
-  "bbox": [8.988675,46.308765,8.988675,46.308765],
+  "bbox": [
+    8.988675,
+    46.308765,
+    8.988675,
+    46.308765
+],
   "geometry": {"coordinates":[8.988675,46.308765],"type":"Point"}
 }

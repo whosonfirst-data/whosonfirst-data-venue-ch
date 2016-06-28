@@ -2,13 +2,14 @@
   "id": 236822975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.277753,46.475914,7.277753,46.475914",
     "geom:latitude":46.475914,
     "geom:longitude":7.277753,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ttenstrasse 39",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236822975,
-    "wof:lastmodified":1449005127,
+    "wof:lastmodified":1466212919,
     "wof:name":"Brand Max",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.277753,46.475914,7.277753,46.475914],
+  "bbox": [
+    7.277753,
+    46.475914,
+    7.277753,
+    46.475914
+],
   "geometry": {"coordinates":[7.277753,46.475914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202427875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.25388,44.915218,7.25388,44.915218",
     "geom:latitude":44.915218,
     "geom:longitude":7.25388,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Grain D'or 12 3960 Sierre Case Postale 223",
     "sg:city":"Sierre",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202427875,
-    "wof:lastmodified":1449060877,
+    "wof:lastmodified":1466210220,
     "wof:name":"Bureau D'ing\u00e9nieur Etter Marc Et Favre Jean-claude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.25388,44.915218,7.25388,44.915218],
+  "bbox": [
+    7.25388,
+    44.915218,
+    7.25388,
+    44.915218
+],
   "geometry": {"coordinates":[7.25388,44.915218],"type":"Point"}
 }

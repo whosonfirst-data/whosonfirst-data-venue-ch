@@ -2,13 +2,14 @@
   "id": 185820913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.65831,47.519669,8.65831,47.519669",
     "geom:latitude":47.519669,
     "geom:longitude":8.65831,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"T\u00f6ssallmend 173 Postfach 322",
     "sg:city":"Neftenbach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185820913,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466209259,
     "wof:name":"Flora-center R. T\u00c9taz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "livestock"
     ]
 },
-  "bbox": [8.65831,47.519669,8.65831,47.519669],
+  "bbox": [
+    8.65831,
+    47.519669,
+    8.65831,
+    47.519669
+],
   "geometry": {"coordinates":[8.65831,47.519669],"type":"Point"}
 }

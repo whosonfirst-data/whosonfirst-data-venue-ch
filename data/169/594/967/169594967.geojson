@@ -2,13 +2,14 @@
   "id": 169594967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.640625,46.518147,6.640625,46.518147",
     "geom:latitude":46.518147,
     "geom:longitude":6.640625,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Des Toises 12",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169594967,
-    "wof:lastmodified":1449033166,
+    "wof:lastmodified":1466208891,
     "wof:name":"Public Groupe Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "insurance"
     ]
 },
-  "bbox": [6.640625,46.518147,6.640625,46.518147],
+  "bbox": [
+    6.640625,
+    46.518147,
+    6.640625,
+    46.518147
+],
   "geometry": {"coordinates":[6.640625,46.518147],"type":"Point"}
 }

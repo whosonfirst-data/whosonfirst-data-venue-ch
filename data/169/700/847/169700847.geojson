@@ -2,13 +2,14 @@
   "id": 169700847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.830241,46.946075,6.830241,46.946075",
     "geom:latitude":46.946075,
     "geom:longitude":6.830241,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route De L' Europe 8",
     "sg:city":"Boudry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169700847,
-    "wof:lastmodified":1449035669,
+    "wof:lastmodified":1466210927,
     "wof:name":"Cicorel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "circuit"
     ]
 },
-  "bbox": [6.830241,46.946075,6.830241,46.946075],
+  "bbox": [
+    6.830241,
+    46.946075,
+    6.830241,
+    46.946075
+],
   "geometry": {"coordinates":[6.830241,46.946075],"type":"Point"}
 }

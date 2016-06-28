@@ -2,13 +2,14 @@
   "id": 203346659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.579935,47.554817,7.579935,47.554817",
     "geom:latitude":47.554817,
     "geom:longitude":7.579935,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00fctzenmattstrasse 51",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203346659,
-    "wof:lastmodified":1449024933,
+    "wof:lastmodified":1466210999,
     "wof:name":"Dr.med.iwan Constantin Popovic Arzt F.allgemeine Medizin Fmh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.579935,47.554817,7.579935,47.554817],
+  "bbox": [
+    7.579935,
+    47.554817,
+    7.579935,
+    47.554817
+],
   "geometry": {"coordinates":[7.579935,47.554817],"type":"Point"}
 }

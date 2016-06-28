@@ -2,13 +2,14 @@
   "id": 186252463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.88288,46.864883,9.88288,46.864883",
     "geom:latitude":46.864883,
     "geom:longitude":9.88288,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Doggiloch",
     "sg:city":"Klosters",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186252463,
-    "wof:lastmodified":1449050660,
+    "wof:lastmodified":1466209493,
     "wof:name":"Wolf Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.88288,46.864883,9.88288,46.864883],
+  "bbox": [
+    9.88288,
+    46.864883,
+    9.88288,
+    46.864883
+],
   "geometry": {"coordinates":[9.88288,46.864883],"type":"Point"}
 }

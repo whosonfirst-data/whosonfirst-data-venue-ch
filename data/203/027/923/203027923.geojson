@@ -2,13 +2,14 @@
   "id": 203027923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547076,47.213703,7.547076,47.213703",
     "geom:latitude":47.213703,
     "geom:longitude":7.547076,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baselstrasse 77",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203027923,
-    "wof:lastmodified":1449025291,
+    "wof:lastmodified":1466209720,
     "wof:name":"Karl Sutter Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.547076,47.213703,7.547076,47.213703],
+  "bbox": [
+    7.547076,
+    47.213703,
+    7.547076,
+    47.213703
+],
   "geometry": {"coordinates":[7.547076,47.213703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252995399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.125414,47.441647,9.125414,47.441647",
     "geom:latitude":47.441647,
     "geom:longitude":9.125414,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Waldhofstrasse 12",
     "sg:city":"Uzwil",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252995399,
-    "wof:lastmodified":1449006394,
+    "wof:lastmodified":1466211901,
     "wof:name":"Licht & Concept Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.125414,47.441647,9.125414,47.441647],
+  "bbox": [
+    9.125414,
+    47.441647,
+    9.125414,
+    47.441647
+],
   "geometry": {"coordinates":[9.125414,47.441647],"type":"Point"}
 }

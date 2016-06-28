@@ -2,13 +2,14 @@
   "id": 202717067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.890055,46.048931,8.890055,46.048931",
     "geom:latitude":46.048931,
     "geom:longitude":8.890055,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"6939 Mugena. Postfach",
     "sg:city":"Bioggio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202717067,
-    "wof:lastmodified":1449060162,
+    "wof:lastmodified":1466210753,
     "wof:name":"Specialconsult Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.890055,46.048931,8.890055,46.048931],
+  "bbox": [
+    8.890055,
+    46.048931,
+    8.890055,
+    46.048931
+],
   "geometry": {"coordinates":[8.890055,46.048931],"type":"Point"}
 }

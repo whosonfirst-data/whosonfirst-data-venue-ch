@@ -2,13 +2,14 @@
   "id": 169657325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.785554,47.472919,7.785554,47.472919",
     "geom:latitude":47.472919,
     "geom:longitude":7.785554,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Sch\u00f6nenbergweg 25",
     "sg:city":"Itingen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169657325,
-    "wof:lastmodified":1449033049,
+    "wof:lastmodified":1466210233,
     "wof:name":"Holz-, Glas- Und Deckenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "covering"
     ]
 },
-  "bbox": [7.785554,47.472919,7.785554,47.472919],
+  "bbox": [
+    7.785554,
+    47.472919,
+    7.785554,
+    47.472919
+],
   "geometry": {"coordinates":[7.785554,47.472919],"type":"Point"}
 }

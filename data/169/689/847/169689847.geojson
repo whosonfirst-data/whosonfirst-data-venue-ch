@@ -2,13 +2,14 @@
   "id": 169689847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.375808,47.339287,7.375808,47.339287",
     "geom:latitude":47.339287,
     "geom:longitude":7.375808,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Qu\u00e9rattes 2 2830 Courrendlin. Postfach Case Psotale 54",
     "sg:city":"Courrendlin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169689847,
-    "wof:lastmodified":1449035410,
+    "wof:lastmodified":1466210722,
     "wof:name":"Warob, M\u00fcller Et B\u00fcrgin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.375808,47.339287,7.375808,47.339287],
+  "bbox": [
+    7.375808,
+    47.339287,
+    7.375808,
+    47.339287
+],
   "geometry": {"coordinates":[7.375808,47.339287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202493585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594688,47.500572,7.594688,47.500572",
     "geom:latitude":47.500572,
     "geom:longitude":7.594688,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Soodring 21",
     "sg:city":"Adliswil",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202493585,
-    "wof:lastmodified":1449060914,
+    "wof:lastmodified":1466211369,
     "wof:name":"Federspiel B. It Consulting",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.594688,47.500572,7.594688,47.500572],
+  "bbox": [
+    7.594688,
+    47.500572,
+    7.594688,
+    47.500572
+],
   "geometry": {"coordinates":[7.594688,47.500572],"type":"Point"}
 }

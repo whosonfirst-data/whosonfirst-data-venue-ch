@@ -2,13 +2,14 @@
   "id": 252872045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.953926,46.007183,8.953926,46.007183",
     "geom:latitude":46.007183,
     "geom:longitude":8.953926,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giovan Battist Pioda 9",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252872045,
-    "wof:lastmodified":1449005508,
+    "wof:lastmodified":1466210689,
     "wof:name":"Tailoring Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.953926,46.007183,8.953926,46.007183],
+  "bbox": [
+    8.953926,
+    46.007183,
+    8.953926,
+    46.007183
+],
   "geometry": {"coordinates":[8.953926,46.007183],"type":"Point"}
 }

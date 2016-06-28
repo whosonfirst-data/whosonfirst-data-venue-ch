@@ -2,13 +2,14 @@
   "id": 169750723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.365563,47.360203,8.365563,47.360203",
     "geom:latitude":47.360203,
     "geom:longitude":8.365563,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Alte Bremgartenstr. 9",
     "sg:city":"Berikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169750723,
-    "wof:lastmodified":1449034674,
+    "wof:lastmodified":1466211345,
     "wof:name":"Buero-service Bertschi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.365563,47.360203,8.365563,47.360203],
+  "bbox": [
+    8.365563,
+    47.360203,
+    8.365563,
+    47.360203
+],
   "geometry": {"coordinates":[8.365563,47.360203],"type":"Point"}
 }

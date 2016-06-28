@@ -2,13 +2,14 @@
   "id": 185656465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.603438,47.473442,7.603438,47.473442",
     "geom:latitude":47.473442,
     "geom:longitude":7.603438,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidenweg 18",
     "sg:city":"Aesch",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185656465,
-    "wof:lastmodified":1449007648,
+    "wof:lastmodified":1466210451,
     "wof:name":"Neonwidmer Ag",
     "wof:parent_id":85862425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.603438,47.473442,7.603438,47.473442],
+  "bbox": [
+    7.603438,
+    47.473442,
+    7.603438,
+    47.473442
+],
   "geometry": {"coordinates":[7.603438,47.473442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202423237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.36384,47.050446,8.36384,47.050446",
     "geom:latitude":47.050446,
     "geom:longitude":8.36384,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Kreuzbuchstrasse 108 6045 Meggen. Postfach",
     "sg:city":"Meggen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202423237,
-    "wof:lastmodified":1449060519,
+    "wof:lastmodified":1466210125,
     "wof:name":"Bsp Ingenieure + Planer Ag, Zweigniederlassung Meggen Ingenieurarbeiten In Hoch Und Tiefbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.36384,47.050446,8.36384,47.050446],
+  "bbox": [
+    8.36384,
+    47.050446,
+    8.36384,
+    47.050446
+],
   "geometry": {"coordinates":[8.36384,47.050446],"type":"Point"}
 }

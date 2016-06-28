@@ -2,13 +2,14 @@
   "id": 202431565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.150517,47.451069,7.150517,47.451069",
     "geom:latitude":47.451069,
     "geom:longitude":7.150517,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"2943",
     "sg:city":"Vendlincourt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202431565,
-    "wof:lastmodified":1449060451,
+    "wof:lastmodified":1466210304,
     "wof:name":"Bureau Technique Corbat Bernard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.150517,47.451069,7.150517,47.451069],
+  "bbox": [
+    7.150517,
+    47.451069,
+    7.150517,
+    47.451069
+],
   "geometry": {"coordinates":[7.150517,47.451069],"type":"Point"}
 }

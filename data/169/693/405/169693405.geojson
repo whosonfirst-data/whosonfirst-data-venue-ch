@@ -2,13 +2,14 @@
   "id": 169693405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465311,46.99334,7.465311,46.99334",
     "geom:latitude":46.99334,
     "geom:longitude":7.465311,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"L\u00e4ngg. 23",
     "sg:city":"Zollikofen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169693405,
-    "wof:lastmodified":1449032874,
+    "wof:lastmodified":1466210849,
     "wof:name":"Burgherr & Urech Ag",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.465311,46.99334,7.465311,46.99334],
+  "bbox": [
+    7.465311,
+    46.99334,
+    7.465311,
+    46.99334
+],
   "geometry": {"coordinates":[7.465311,46.99334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203005393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.484314,47.376923,8.484314,47.376923",
     "geom:latitude":47.376923,
     "geom:longitude":8.484314,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"In Der Breiti 2",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203005393,
-    "wof:lastmodified":1449026711,
+    "wof:lastmodified":1466209130,
     "wof:name":"Hans-rudolf Bommer Architekturb\u00fcro",
     "wof:parent_id":85799695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.484314,47.376923,8.484314,47.376923],
+  "bbox": [
+    8.484314,
+    47.376923,
+    8.484314,
+    47.376923
+],
   "geometry": {"coordinates":[8.484314,47.376923],"type":"Point"}
 }

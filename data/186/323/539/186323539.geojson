@@ -2,13 +2,14 @@
   "id": 186323539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.425928,47.171562,8.425928,47.171562",
     "geom:latitude":47.171562,
     "geom:longitude":8.425928,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Weidstrasse 4c",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186323539,
-    "wof:lastmodified":1449050477,
+    "wof:lastmodified":1466210003,
     "wof:name":"Glaus Bauleitungen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.425928,47.171562,8.425928,47.171562],
+  "bbox": [
+    8.425928,
+    47.171562,
+    8.425928,
+    47.171562
+],
   "geometry": {"coordinates":[8.425928,47.171562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202759595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.369339,47.358589,8.369339,47.358589",
     "geom:latitude":47.358589,
     "geom:longitude":8.369339,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch\u00f6renmattstrasse 39 8965 Berikon. Postfach",
     "sg:city":"Berikon",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202759595,
-    "wof:lastmodified":1449062695,
+    "wof:lastmodified":1466211149,
     "wof:name":"W. Goslar Raumgestaltung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.369339,47.358589,8.369339,47.358589],
+  "bbox": [
+    8.369339,
+    47.358589,
+    8.369339,
+    47.358589
+],
   "geometry": {"coordinates":[8.369339,47.358589],"type":"Point"}
 }

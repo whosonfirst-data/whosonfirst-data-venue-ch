@@ -2,13 +2,14 @@
   "id": 203010249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.202459,46.770847,9.202459,46.770847",
     "geom:latitude":46.770847,
     "geom:longitude":9.202459,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Valserstrasse 22",
     "sg:city":"Ilanz",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203010249,
-    "wof:lastmodified":1449026127,
+    "wof:lastmodified":1466209332,
     "wof:name":"Heinrich Heiligensetzer Architekturb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.202459,46.770847,9.202459,46.770847],
+  "bbox": [
+    9.202459,
+    46.770847,
+    9.202459,
+    46.770847
+],
   "geometry": {"coordinates":[9.202459,46.770847],"type":"Point"}
 }

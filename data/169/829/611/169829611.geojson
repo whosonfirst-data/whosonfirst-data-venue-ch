@@ -2,13 +2,14 @@
   "id": 169829611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.121391,46.175529,6.121391,46.175529",
     "geom:latitude":46.175529,
     "geom:longitude":6.121391,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Palettes 5",
     "sg:city":"Grand-lancy",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169829611,
-    "wof:lastmodified":1449035746,
+    "wof:lastmodified":1466209273,
     "wof:name":"Toiture 2000, Hochstrasser",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.121391,46.175529,6.121391,46.175529],
+  "bbox": [
+    6.121391,
+    46.175529,
+    6.121391,
+    46.175529
+],
   "geometry": {"coordinates":[6.121391,46.175529],"type":"Point"}
 }

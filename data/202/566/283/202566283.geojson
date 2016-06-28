@@ -2,13 +2,14 @@
   "id": 202566283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.523929,47.10442,9.523929,47.10442",
     "geom:latitude":47.10442,
     "geom:longitude":9.523929,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Unterfeld 21",
     "sg:city":"Triesen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202566283,
-    "wof:lastmodified":1449060155,
+    "wof:lastmodified":1466209348,
     "wof:name":"Ingenieurb\u00fcro Koch Anstalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.523929,47.10442,9.523929,47.10442],
+  "bbox": [
+    9.523929,
+    47.10442,
+    9.523929,
+    47.10442
+],
   "geometry": {"coordinates":[9.523929,47.10442],"type":"Point"}
 }

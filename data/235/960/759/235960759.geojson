@@ -2,13 +2,14 @@
   "id": 235960759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308568,47.043148,8.308568,47.043148",
     "geom:latitude":47.043148,
     "geom:longitude":8.308568,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Neustadtstrasse 24a",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235960759,
-    "wof:lastmodified":1449008494,
+    "wof:lastmodified":1466209160,
     "wof:name":"Josef Theiler",
     "wof:parent_id":85862289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.308568,47.043148,8.308568,47.043148],
+  "bbox": [
+    8.308568,
+    47.043148,
+    8.308568,
+    47.043148
+],
   "geometry": {"coordinates":[8.308568,47.043148],"type":"Point"}
 }

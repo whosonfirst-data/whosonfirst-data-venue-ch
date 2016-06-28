@@ -2,13 +2,14 @@
   "id": 203303201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.441662,46.946678,7.441662,46.946678",
     "geom:latitude":46.946678,
     "geom:longitude":7.441662,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Bundesgasse 16",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203303201,
-    "wof:lastmodified":1449024955,
+    "wof:lastmodified":1466210570,
     "wof:name":"Dr.med.dieter Gm\u00fcr Spezialarzt Fmh",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.441662,46.946678,7.441662,46.946678],
+  "bbox": [
+    7.441662,
+    46.946678,
+    7.441662,
+    46.946678
+],
   "geometry": {"coordinates":[7.441662,46.946678],"type":"Point"}
 }

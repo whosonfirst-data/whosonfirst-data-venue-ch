@@ -2,13 +2,14 @@
   "id": 186020551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.994296,47.464405,8.994296,47.464405",
     "geom:latitude":47.464405,
     "geom:longitude":8.994296,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Gr\u00fcnaustrasse 33",
     "sg:city":"Sirnach",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186020551,
-    "wof:lastmodified":1449051631,
+    "wof:lastmodified":1466209587,
     "wof:name":"Beat Schweizer Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.994296,47.464405,8.994296,47.464405],
+  "bbox": [
+    8.994296,
+    47.464405,
+    8.994296,
+    47.464405
+],
   "geometry": {"coordinates":[8.994296,47.464405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219774975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627318,47.05574,7.627318,47.05574",
     "geom:latitude":47.05574,
     "geom:longitude":7.627318,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"R\u00fctschelengasse 2 3400 Burgdorf. Postfach",
     "sg:city":"Burgdorf",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219774975,
-    "wof:lastmodified":1449071760,
+    "wof:lastmodified":1466212414,
     "wof:name":"Bar Dezibel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627318,47.05574,7.627318,47.05574],
+  "bbox": [
+    7.627318,
+    47.05574,
+    7.627318,
+    47.05574
+],
   "geometry": {"coordinates":[7.627318,47.05574],"type":"Point"}
 }

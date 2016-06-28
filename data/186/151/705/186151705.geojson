@@ -2,13 +2,14 @@
   "id": 186151705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.178113,46.804764,7.178113,46.804764",
     "geom:latitude":46.804764,
     "geom:longitude":7.178113,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Joseph-chaley 45",
     "sg:city":"Fribourg",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186151705,
-    "wof:lastmodified":1449050283,
+    "wof:lastmodified":1466211459,
     "wof:name":"Michel Ceriani Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.178113,46.804764,7.178113,46.804764],
+  "bbox": [
+    7.178113,
+    46.804764,
+    7.178113,
+    46.804764
+],
   "geometry": {"coordinates":[7.178113,46.804764],"type":"Point"}
 }

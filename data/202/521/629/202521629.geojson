@@ -2,13 +2,14 @@
   "id": 202521629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.962039,46.310551,6.962039,46.310551",
     "geom:latitude":46.310551,
     "geom:longitude":6.962039,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des M\u00e9sanges 9",
     "sg:city":"Aigle",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202521629,
-    "wof:lastmodified":1449062519,
+    "wof:lastmodified":1466208922,
     "wof:name":"Grafitech Firenze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.962039,46.310551,6.962039,46.310551],
+  "bbox": [
+    6.962039,
+    46.310551,
+    6.962039,
+    46.310551
+],
   "geometry": {"coordinates":[6.962039,46.310551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185983951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.446162,46.958344,7.446162,46.958344",
     "geom:latitude":46.958344,
     "geom:longitude":7.446162,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Quartierhof 3",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185983951,
-    "wof:lastmodified":1449008084,
+    "wof:lastmodified":1466210656,
     "wof:name":"Wyss Gartenbau",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.446162,46.958344,7.446162,46.958344],
+  "bbox": [
+    7.446162,
+    46.958344,
+    7.446162,
+    46.958344
+],
   "geometry": {"coordinates":[7.446162,46.958344],"type":"Point"}
 }

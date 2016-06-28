@@ -2,13 +2,14 @@
   "id": 186569101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.097603,47.176476,8.097603,47.176476",
     "geom:latitude":47.176476,
     "geom:longitude":8.097603,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Haldenmattstrasse 6",
     "sg:city":"Sursee",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186569101,
-    "wof:lastmodified":1449052932,
+    "wof:lastmodified":1466211804,
     "wof:name":"Fabian Pfister Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.097603,47.176476,8.097603,47.176476],
+  "bbox": [
+    8.097603,
+    47.176476,
+    8.097603,
+    47.176476
+],
   "geometry": {"coordinates":[8.097603,47.176476],"type":"Point"}
 }

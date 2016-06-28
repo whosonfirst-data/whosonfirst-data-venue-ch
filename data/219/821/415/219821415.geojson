@@ -2,13 +2,14 @@
   "id": 219821415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.968781,46.318668,6.968781,46.318668",
     "geom:latitude":46.318668,
     "geom:longitude":6.968781,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Bourg 14",
     "sg:city":"Aigle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219821415,
-    "wof:lastmodified":1449072297,
+    "wof:lastmodified":1466212498,
     "wof:name":"Pub Red Ship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.968781,46.318668,6.968781,46.318668],
+  "bbox": [
+    6.968781,
+    46.318668,
+    6.968781,
+    46.318668
+],
   "geometry": {"coordinates":[6.968781,46.318668],"type":"Point"}
 }

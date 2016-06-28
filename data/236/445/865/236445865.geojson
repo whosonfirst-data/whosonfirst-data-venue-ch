@@ -2,13 +2,14 @@
   "id": 236445865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.58952,47.141151,8.58952,47.141151",
     "geom:latitude":47.141151,
     "geom:longitude":8.58952,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"H\u00f6henweg 71 6314 Unter\u00e4geri. Postfach 466",
     "sg:city":"Unter\u00e4geri",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236445865,
-    "wof:lastmodified":1449002007,
+    "wof:lastmodified":1466212392,
     "wof:name":"Klinik Adelheid Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archive"
     ]
 },
-  "bbox": [8.58952,47.141151,8.58952,47.141151],
+  "bbox": [
+    8.58952,
+    47.141151,
+    8.58952,
+    47.141151
+],
   "geometry": {"coordinates":[8.58952,47.141151],"type":"Point"}
 }

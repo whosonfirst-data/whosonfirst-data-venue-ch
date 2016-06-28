@@ -2,13 +2,14 @@
   "id": 253111253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.090435,47.386078,8.090435,47.386078",
     "geom:latitude":47.386078,
     "geom:longitude":8.090435,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Steinberggasse 26",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253111253,
-    "wof:lastmodified":1449065896,
+    "wof:lastmodified":1466210049,
     "wof:name":"H\u00f6chst Optik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.090435,47.386078,8.090435,47.386078],
+  "bbox": [
+    8.090435,
+    47.386078,
+    8.090435,
+    47.386078
+],
   "geometry": {"coordinates":[8.090435,47.386078],"type":"Point"}
 }

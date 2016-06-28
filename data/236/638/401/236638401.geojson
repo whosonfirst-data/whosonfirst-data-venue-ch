@@ -2,13 +2,14 @@
   "id": 236638401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.943621,46.995888,6.943621,46.995888",
     "geom:latitude":46.995888,
     "geom:longitude":6.943621,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Pierre-\u00e0-mazel 25",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236638401,
-    "wof:lastmodified":1449001812,
+    "wof:lastmodified":1466212725,
     "wof:name":"Senn Automobiles Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [6.943621,46.995888,6.943621,46.995888],
+  "bbox": [
+    6.943621,
+    46.995888,
+    6.943621,
+    46.995888
+],
   "geometry": {"coordinates":[6.943621,46.995888],"type":"Point"}
 }

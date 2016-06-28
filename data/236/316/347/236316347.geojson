@@ -2,13 +2,14 @@
   "id": 236316347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.412821,47.442219,9.412821,47.442219",
     "geom:latitude":47.442219,
     "geom:longitude":9.412821,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Baarerstrasse 79 6300 Zug. Postfach",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236316347,
-    "wof:lastmodified":1449003972,
+    "wof:lastmodified":1466211949,
     "wof:name":"Sprenger Ag St. Gallen",
     "wof:parent_id":85935831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.412821,47.442219,9.412821,47.442219],
+  "bbox": [
+    9.412821,
+    47.442219,
+    9.412821,
+    47.442219
+],
   "geometry": {"coordinates":[9.412821,47.442219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236748703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.15379,46.191975,6.15379,46.191975",
     "geom:latitude":46.191975,
     "geom:longitude":6.15379,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Alfred-bertrand 4",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236748703,
-    "wof:lastmodified":1449004253,
+    "wof:lastmodified":1466212984,
     "wof:name":"Furst Optique",
     "wof:parent_id":85862329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [6.15379,46.191975,6.15379,46.191975],
+  "bbox": [
+    6.15379,
+    46.191975,
+    6.15379,
+    46.191975
+],
   "geometry": {"coordinates":[6.15379,46.191975],"type":"Point"}
 }

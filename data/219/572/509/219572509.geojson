@@ -2,13 +2,14 @@
   "id": 219572509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.434028,47.032188,8.434028,47.032188",
     "geom:latitude":47.032188,
     "geom:longitude":8.434028,
     "iso:country":"CH",
+    "mz:hierarchy_label":1,
     "sg:address":"Seestr. 6",
     "sg:city":"Weggis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219572509,
-    "wof:lastmodified":1449072554,
+    "wof:lastmodified":1466211815,
     "wof:name":"Luzerner, Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.434028,47.032188,8.434028,47.032188],
+  "bbox": [
+    8.434028,
+    47.032188,
+    8.434028,
+    47.032188
+],
   "geometry": {"coordinates":[8.434028,47.032188],"type":"Point"}
 }
