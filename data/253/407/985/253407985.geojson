@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.150804,46.203609,6.150804,46.203609",
     "geom:latitude":46.203609,
     "geom:longitude":6.150804,
@@ -24,11 +25,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e06e1e6971ab632b97daf7584eabd0bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":253407985,
-    "wof:lastmodified":1473798369,
+    "wof:lastmodified":1491885302,
     "wof:name":"Spidertech S\u00e0rl Syst\u00e8mes Informatiques",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

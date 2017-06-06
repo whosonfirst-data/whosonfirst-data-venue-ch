@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6019048691,47.3475608826,8.6019048691,47.3475608826",
     "geom:latitude":47.347561,
     "geom:longitude":8.601905,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"dbbfb1fa15eb1e14537ce7adfc351529",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074982685
         }
     ],
     "wof:id":1074982685,
-    "wof:lastmodified":1473734771,
+    "wof:lastmodified":1491936821,
     "wof:name":"Gastroinventa B.o.ulmer Schweiz.verkaufsagentur",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

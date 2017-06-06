@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3942518234,46.9479408264,7.3942518234,46.9479408264",
     "geom:latitude":46.947941,
     "geom:longitude":7.394252,
@@ -20,14 +21,14 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
-        85633051,
-        85800063,
-        102062861,
         85799863,
         102191581,
         404567985,
-        101748453
+        85633051,
+        101748453,
+        102062861,
+        85682381,
+        85800063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,13 +39,6 @@
     "wof:geomhash":"091ff2fdfc4c87a1a61bc972458b9b99",
     "wof:hierarchy":[
         {
-            "country_id":85633051,
-            "county_id":102062861,
-            "neighbourhood_id":85800063,
-            "region_id":85682381,
-            "venue_id":1075260091
-        },
-        {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
@@ -53,12 +47,19 @@
             "neighbourhood_id":85799863,
             "region_id":85682381,
             "venue_id":1075260091
+        },
+        {
+            "country_id":85633051,
+            "county_id":102062861,
+            "neighbourhood_id":85800063,
+            "region_id":85682381,
+            "venue_id":1075260091
         }
     ],
     "wof:id":1075260091,
-    "wof:lastmodified":1473747954,
+    "wof:lastmodified":1491929838,
     "wof:name":"Celestino Angelucci Maurergesch\u00e4ft",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

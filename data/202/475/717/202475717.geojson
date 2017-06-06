@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.59604,47.356972,8.59604,47.356972",
     "geom:latitude":47.356972,
     "geom:longitude":8.59604,
@@ -25,10 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102062933,
+        101748463,
+        102063071,
         85800653,
-        102062769,
         85800647
     ],
     "wof:breaches":[],
@@ -39,28 +41,28 @@
     "wof:geomhash":"2022f24a13108d723d0dd2b0e616c92b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":202475717
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062769,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800647,
             "region_id":85682309,
             "venue_id":202475717
         }
     ],
     "wof:id":202475717,
-    "wof:lastmodified":1473798110,
+    "wof:lastmodified":1491936753,
     "wof:name":"Edi Wyss Engineering Ag",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

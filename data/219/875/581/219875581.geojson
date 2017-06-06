@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.14754,46.204086,6.14754,46.204086",
     "geom:latitude":46.204086,
     "geom:longitude":6.14754,
@@ -23,11 +24,13 @@
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"477c2cc1a69041d80fe35f31a1430359",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":219875581,
-    "wof:lastmodified":1473798415,
+    "wof:lastmodified":1491885293,
     "wof:name":"Coop.de Constr.& D'hab.lyon- Jura,c/o Cpg Comp.de Placem.",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

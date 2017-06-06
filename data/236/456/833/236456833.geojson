@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.437196,46.950592,7.437196,46.950592",
     "geom:latitude":46.950592,
     "geom:longitude":7.437196,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800199,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800199
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"af641069db027baff79a25cfd4d6725d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85800199,
             "region_id":85682381,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236456833,
-    "wof:lastmodified":1473798403,
+    "wof:lastmodified":1491916573,
     "wof:name":"Schweiz. Bundesbahnen Dokumentationsdienst",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",

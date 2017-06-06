@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.097692,46.204277,6.097692,46.204277",
     "geom:latitude":46.204277,
     "geom:longitude":6.097692,
@@ -29,11 +30,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85800147,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85800147
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"74967ed8609a26adae792e90a88b2803",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85800147,
             "region_id":85682291,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219498287,
-    "wof:lastmodified":1473798316,
+    "wof:lastmodified":1491938227,
     "wof:name":"Banque Populaire Suisse",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",

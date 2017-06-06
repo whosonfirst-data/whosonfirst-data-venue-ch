@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6427774429,47.347984314,8.6427774429,47.347984314",
     "geom:latitude":47.347984,
     "geom:longitude":8.642777,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"4378e1114cd7c704160a5fb45e3ac7e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075254689
         }
     ],
     "wof:id":1075254689,
-    "wof:lastmodified":1473747743,
+    "wof:lastmodified":1491936833,
     "wof:name":"Ronzani Mario, Marketing Und Verkaufsberatung",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

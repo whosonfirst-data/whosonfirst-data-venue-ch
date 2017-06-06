@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.4079089165,44.1636695862,2.4079089165,44.1636695862",
     "geom:latitude":44.16367,
     "geom:longitude":2.407909,
@@ -18,17 +19,39 @@
     "sg:postcode":"1201",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683301,
+        102191581,
+        85633147,
+        404383353,
+        404227821,
+        1108826387,
+        136253037,
+        102068383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iXAuOUcCwUGErnD98nAJ7_44.163670_2.407909@1306268686"
     },
     "wof:country":"CH",
     "wof:created":1473737553,
-    "wof:geomhash":"e2dd061121b26063c2c88e5aa2fdc8ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"390324d8a5b06f18b8f9bae701fb86dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068383,
+            "empire_id":136253037,
+            "localadmin_id":404383353,
+            "locality_id":-1,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
+            "region_id":85683301,
+            "venue_id":1075036377
+        }
+    ],
     "wof:id":1075036377,
-    "wof:lastmodified":1473737553,
+    "wof:lastmodified":1496778129,
     "wof:name":"Anura Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

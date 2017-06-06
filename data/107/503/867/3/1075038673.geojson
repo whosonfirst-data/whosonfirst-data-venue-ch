@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1874108315,46.1661720276,6.1874108315,46.1661720276",
     "geom:latitude":46.166172,
     "geom:longitude":6.187411,
@@ -18,17 +19,34 @@
     "sg:postcode":"1255",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682291,
+        102191581,
+        404328577,
+        85633051,
+        101828589,
+        102062917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uLmNacMnrI3rn6mAuCuRA_46.166172_6.187411@1306268686"
     },
     "wof:country":"CH",
     "wof:created":1473737667,
-    "wof:geomhash":"9f3c60e7d750b1d429375624577d61dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62ec3516bcfe9d3efb14ffe1640cc444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062917,
+            "localadmin_id":404328577,
+            "locality_id":101828589,
+            "region_id":85682291,
+            "venue_id":1075038673
+        }
+    ],
     "wof:id":1075038673,
-    "wof:lastmodified":1473737667,
+    "wof:lastmodified":1496781896,
     "wof:name":"Axtek, P. Gilli\u00e9ron - R. Simonian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

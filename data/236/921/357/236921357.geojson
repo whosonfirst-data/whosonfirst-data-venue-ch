@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.590651,47.361271,8.590651,47.361271",
     "geom:latitude":47.361271,
     "geom:longitude":8.590651,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102062933,
+        101748463,
+        102063071,
         85800653
     ],
     "wof:breaches":[],
@@ -37,17 +40,17 @@
     "wof:geomhash":"3c9b622a72dede4e8d2329c8dd802d30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":236921357
         }
     ],
     "wof:id":236921357,
-    "wof:lastmodified":1473798452,
+    "wof:lastmodified":1491936800,
     "wof:name":"Zimmermann Informatik & Operations Research Gmbh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

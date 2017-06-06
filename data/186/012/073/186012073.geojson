@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.59498,47.56675,7.59498,47.56675",
     "geom:latitude":47.56675,
     "geom:longitude":7.59498,
@@ -23,11 +24,13 @@
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682297,
+        85800107,
+        102191581,
+        404328241,
         85633051,
         101748459,
         102062895,
-        85800107
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"7b49f666170df249e5329e1c854532e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062895,
+            "localadmin_id":404328241,
             "locality_id":101748459,
             "neighbourhood_id":85800107,
             "region_id":85682297,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":186012073,
-    "wof:lastmodified":1473798022,
+    "wof:lastmodified":1491895526,
     "wof:name":"Bau Und Finanzgesellschaft Zum Greifen",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5805110931,47.4520378113,8.5805110931,47.4520378113",
     "geom:latitude":47.452038,
     "geom:longitude":8.580511,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"be3482c04b24972e81167d5a43c706cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075731699
         }
     ],
     "wof:id":1075731699,
-    "wof:lastmodified":1473768773,
+    "wof:lastmodified":1491916038,
     "wof:name":"National-versicherung Generalagentur",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

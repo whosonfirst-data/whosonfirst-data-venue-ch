@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4169797897,47.9662017822,6.4169797897,47.9662017822",
     "geom:latitude":47.966202,
     "geom:longitude":6.41698,
@@ -18,17 +19,39 @@
     "sg:postcode":"4053",
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683223,
+        102191581,
+        85633147,
+        404418725,
+        404227779,
+        1108826391,
+        136253037,
+        102067781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dQ5CEoiYX1TRf8hoEm9Kt_47.966202_6.416980@1306268767"
     },
     "wof:country":"CH",
     "wof:created":1473763603,
-    "wof:geomhash":"5873199a30ae454529009e8024ee6188",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fbfb56515571fcf6a7b4fd20a5a7f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067781,
+            "empire_id":136253037,
+            "localadmin_id":404418725,
+            "locality_id":-1,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
+            "region_id":85683223,
+            "venue_id":1075618281
+        }
+    ],
     "wof:id":1075618281,
-    "wof:lastmodified":1473763603,
+    "wof:lastmodified":1496784438,
     "wof:name":"Canna - Plant Kamencic N. Article Naturels; Achat, Production Et Vente",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

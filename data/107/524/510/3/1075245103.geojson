@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6278028488,47.3589286804,8.6278028488,47.3589286804",
     "geom:latitude":47.358929,
     "geom:longitude":8.627803,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"0d3ced436f118f4c83522e12a3ba2e07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075245103
         }
     ],
     "wof:id":1075245103,
-    "wof:lastmodified":1473747352,
+    "wof:lastmodified":1491936769,
     "wof:name":"Bruno Deragisch Malergesch\u00e4ft",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

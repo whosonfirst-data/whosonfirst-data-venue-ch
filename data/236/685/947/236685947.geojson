@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.63009,43.893356,2.63009,43.893356",
     "geom:latitude":43.893356,
     "geom:longitude":2.63009,
@@ -33,27 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683301,
+        102191581,
         85633147,
-        85683301
+        404377181,
+        404227609,
+        1108826387,
+        136253037,
+        102070617
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QdRLrxeLFwNum7i7kPyvp_43.893356_2.630090@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"dce1446a9a4801f5260d0a1a50d136c5",
+    "wof:geomhash":"84f8b3d83e29a23de1a8ec8d3fa28b92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070617,
+            "empire_id":136253037,
+            "localadmin_id":404377181,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227609,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":236685947
         }
     ],
     "wof:id":236685947,
-    "wof:lastmodified":1473798446,
+    "wof:lastmodified":1496778075,
     "wof:name":"Neuchatel Chamber Of Commerce And Industry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.568426,47.439568,8.568426,47.439568",
     "geom:latitude":47.439568,
     "geom:longitude":8.568426,
@@ -29,6 +30,7 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -43,19 +45,18 @@
     "wof:geomhash":"dbfd738b9c33cd3c89f269bc242df484",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":219680947
         }
     ],
     "wof:id":219680947,
-    "wof:lastmodified":1473798403,
+    "wof:lastmodified":1491916052,
     "wof:name":"Schweiz. Bankgesellschaft",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

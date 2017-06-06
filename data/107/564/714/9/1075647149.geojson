@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.3127099872,44.7179107666,0.3127099872,44.7179107666",
     "geom:latitude":44.717911,
     "geom:longitude":0.31271,
@@ -18,17 +19,39 @@
     "sg:postcode":"3113",
     "sg:province":"Bern",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683341,
+        102191581,
+        85633147,
+        404365709,
+        404227901,
+        1108826385,
+        136253037,
+        102066313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CaxzCZNn46YankarnUKaA_44.717911_0.312710@1306268771"
     },
     "wof:country":"CH",
     "wof:created":1473764925,
-    "wof:geomhash":"a3438d99fb3da57b2e70a36d27e151a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03f657d7c249f01740d74f1c64eea138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066313,
+            "empire_id":136253037,
+            "localadmin_id":404365709,
+            "locality_id":-1,
+            "macrocounty_id":404227901,
+            "macroregion_id":1108826385,
+            "region_id":85683341,
+            "venue_id":1075647149
+        }
+    ],
     "wof:id":1075647149,
-    "wof:lastmodified":1473764925,
+    "wof:lastmodified":1496776475,
     "wof:name":"Reiseb\u00fcro Mondial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5958023071,47.4481201172,8.5958023071,47.4481201172",
     "geom:latitude":47.44812,
     "geom:longitude":8.595802,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,17 @@
     "wof:geomhash":"10578f3028c6dd79195364860bc4ed3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075393353
         }
     ],
     "wof:id":1075393353,
-    "wof:lastmodified":1473753734,
+    "wof:lastmodified":1491915838,
     "wof:name":"Ziegler Rolf R.",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2972221375,45.8491363525,5.2972221375,45.8491363525",
     "geom:latitude":45.849136,
     "geom:longitude":5.297222,
@@ -18,17 +19,39 @@
     "sg:postcode":"3960",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        85633147,
+        404409863,
+        404227585,
+        1108826389,
+        136253037,
+        102067365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33WbAzL0xtYEQB8pto4cpd_45.849136_5.297222@1306268707"
     },
     "wof:country":"CH",
     "wof:created":1473744667,
-    "wof:geomhash":"ab8dcc761860a58cd60c3580447d55ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324e5a86cb80218bd1e910541e1585e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067365,
+            "empire_id":136253037,
+            "localadmin_id":404409863,
+            "locality_id":-1,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1075185337
+        }
+    ],
     "wof:id":1075185337,
-    "wof:lastmodified":1473744667,
+    "wof:lastmodified":1496781961,
     "wof:name":"Fondation Tjitske Van Der Meulen-miedema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

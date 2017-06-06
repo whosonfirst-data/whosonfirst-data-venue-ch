@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.626666069,47.3588981628,8.626666069,47.3588981628",
     "geom:latitude":47.358898,
     "geom:longitude":8.626666,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"8cb11c24e6f74a1556dd2f96914bb8eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075098557
         }
     ],
     "wof:id":1075098557,
-    "wof:lastmodified":1473740771,
+    "wof:lastmodified":1491936794,
     "wof:name":"Pgb-versand, Burgstaller Frau Pia",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

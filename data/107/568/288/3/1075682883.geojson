@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5809078217,47.4503860474,8.5809078217,47.4503860474",
     "geom:latitude":47.450386,
     "geom:longitude":8.580908,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"bb5344c8736d832361f34b04ce633e91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075682883
         }
     ],
     "wof:id":1075682883,
-    "wof:lastmodified":1473766404,
+    "wof:lastmodified":1491916018,
     "wof:name":"Transfer-centrum F\u00fcr Produktions-logistik Und Technologie-management Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

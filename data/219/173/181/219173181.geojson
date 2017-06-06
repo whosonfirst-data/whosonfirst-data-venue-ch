@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.158374,46.188263,6.158374,46.188263",
     "geom:latitude":46.188263,
     "geom:longitude":6.158374,
@@ -24,11 +25,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85799877,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85799877
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"52903d52a14c56e969c87870f5c2736c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85799877,
             "region_id":85682291,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":219173181,
-    "wof:lastmodified":1473798034,
+    "wof:lastmodified":1491915728,
     "wof:name":"Dres Med. J.-d. & T. Demottaz M\u00e9decins Sp\u00e9cialistes Fmh",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",

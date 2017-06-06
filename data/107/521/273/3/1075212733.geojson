@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6399860382,47.3704452515,8.6399860382,47.3704452515",
     "geom:latitude":47.370445,
     "geom:longitude":8.639986,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"55fefb75a5ff11e64b733ffd2f33723e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075212733
         }
     ],
     "wof:id":1075212733,
-    "wof:lastmodified":1473745975,
+    "wof:lastmodified":1491936764,
     "wof:name":"Kinderspielgruppe Wigarten",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

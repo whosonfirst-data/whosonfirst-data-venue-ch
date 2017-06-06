@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5954046249,47.3571090698,8.5954046249,47.3571090698",
     "geom:latitude":47.357109,
     "geom:longitude":8.595405,
@@ -20,11 +21,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800647,
-        102062769,
+        101748463,
+        102063071,
         85800653,
-        102062933
+        85800647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,24 +37,28 @@
     "wof:geomhash":"174053af1a9b234e667bb26380e87a08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062769,
-            "neighbourhood_id":85800647,
+            "county_id":102063071,
+            "locality_id":101748463,
+            "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074911833
         },
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
-            "neighbourhood_id":85800653,
+            "county_id":102063071,
+            "locality_id":101748463,
+            "neighbourhood_id":85800647,
             "region_id":85682309,
             "venue_id":1074911833
         }
     ],
     "wof:id":1074911833,
-    "wof:lastmodified":1473731076,
+    "wof:lastmodified":1491936805,
     "wof:name":"M\u00e4ddel, Fuchs Martin, Fotograf Reportage, Sach- U. Industriefotografien",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

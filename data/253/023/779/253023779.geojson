@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.693923,45.873199,5.693923,45.873199",
     "geom:latitude":45.873199,
     "geom:longitude":5.693923,
@@ -25,8 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683153,
+        102191581,
+        404227585,
+        404394727,
         85633147,
+        1108826389,
         101894015,
+        136253037,
         102065803
     ],
     "wof:breaches":[],
@@ -34,20 +40,23 @@
         "sg:id":"SG_5AYuPcPQlK8SkPcx9IgL1P_45.873199_5.693923@1306268641"
     },
     "wof:country":"CH",
-    "wof:geomhash":"318e6e1ef2f1d178584c980b9463e6fb",
+    "wof:geomhash":"8051e0b0162f5d866a146e90409c91f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065803,
+            "empire_id":136253037,
+            "localadmin_id":404394727,
             "locality_id":101894015,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":253023779
         }
     ],
     "wof:id":253023779,
-    "wof:lastmodified":1473798038,
+    "wof:lastmodified":1496781928,
     "wof:name":"Jeux De Fleurs V\u00e9ronique Keusen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

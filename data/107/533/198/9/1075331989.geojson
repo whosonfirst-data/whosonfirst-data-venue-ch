@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0463480949,46.1426887512,6.0463480949,46.1426887512",
     "geom:latitude":46.142689,
     "geom:longitude":6.046348,
@@ -18,17 +19,33 @@
     "sg:postcode":"1286",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682291,
+        102191581,
+        404328811,
+        85633051,
+        102062917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E76EAYlMfjja5WsCMiL81_46.142689_6.046348@1306268727"
     },
     "wof:country":"CH",
     "wof:created":1473751241,
-    "wof:geomhash":"fccf5416621c39a61521a5f5789d6a16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db5441516bb0d2dc049f4527002d41fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062917,
+            "localadmin_id":404328811,
+            "locality_id":-1,
+            "region_id":85682291,
+            "venue_id":1075331989
+        }
+    ],
     "wof:id":1075331989,
-    "wof:lastmodified":1473751241,
+    "wof:lastmodified":1496779569,
     "wof:name":"Streiff Raymond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

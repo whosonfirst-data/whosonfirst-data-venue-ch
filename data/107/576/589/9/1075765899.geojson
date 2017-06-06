@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6014766693,47.3495788574,8.6014766693,47.3495788574",
     "geom:latitude":47.349579,
     "geom:longitude":8.601477,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"009f85039209fd4993b6eab5926b3c4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075765899
         }
     ],
     "wof:id":1075765899,
-    "wof:lastmodified":1473770362,
+    "wof:lastmodified":1491936784,
     "wof:name":"Nega Concept Gmbh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

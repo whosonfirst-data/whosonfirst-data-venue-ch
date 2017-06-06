@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.476271,46.937851,7.476271,46.937851",
     "geom:latitude":46.937851,
     "geom:longitude":7.476271,
@@ -24,11 +25,13 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799949,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85799949
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"0102553e607eea3bcadbc4bf6e9c5dfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85799949,
             "region_id":85682381,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":236186333,
-    "wof:lastmodified":1473798186,
+    "wof:lastmodified":1491893104,
     "wof:name":"Stiftung F\u00fcr Die Berufliche Aus Und Weiterbildung",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",

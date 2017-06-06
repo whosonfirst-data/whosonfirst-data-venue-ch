@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0841169357,46.247303009,6.0841169357,46.247303009",
     "geom:latitude":46.247303,
     "geom:longitude":6.084117,
@@ -18,17 +19,40 @@
     "sg:postcode":"1217",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        404228005,
+        404390073,
+        85633147,
+        1108826389,
+        101753267,
+        136253037,
+        102066711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TxK2L4HCf9RXHfeTsTJBc_46.247303_6.084117@1306268753"
     },
     "wof:country":"CH",
     "wof:created":1473758901,
-    "wof:geomhash":"c47daea2fa83bab38a2e074d838973b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eabdb1e277a5625026c372861a0896f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066711,
+            "empire_id":136253037,
+            "localadmin_id":404390073,
+            "locality_id":101753267,
+            "macrocounty_id":404228005,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1075509757
+        }
+    ],
     "wof:id":1075509757,
-    "wof:lastmodified":1473758901,
+    "wof:lastmodified":1496779632,
     "wof:name":"Tfc S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1876478195,46.1664543152,6.1876478195,46.1664543152",
     "geom:latitude":46.166454,
     "geom:longitude":6.187648,
@@ -19,17 +20,34 @@
     "sg:postcode":"1255",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682291,
+        102191581,
+        404328577,
+        85633051,
+        101828589,
+        102062917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IW7qQAkRG5t3BLZLH3ZDu_46.166454_6.187648@1306268709"
     },
     "wof:country":"CH",
     "wof:created":1473745396,
-    "wof:geomhash":"31236ead63904692cf0f35d84f95625c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80d965364129c0698f6d842ff3cd608b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062917,
+            "localadmin_id":404328577,
+            "locality_id":101828589,
+            "region_id":85682291,
+            "venue_id":1075200967
+        }
+    ],
     "wof:id":1075200967,
-    "wof:lastmodified":1473745396,
+    "wof:lastmodified":1496779405,
     "wof:name":"Henri Venetz Entreprise De Ramonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

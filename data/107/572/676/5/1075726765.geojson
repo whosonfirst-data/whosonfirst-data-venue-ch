@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5817909241,47.3601417542,8.5817909241,47.3601417542",
     "geom:latitude":47.360142,
     "geom:longitude":8.581791,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"d7850935ec6068c65f77a7055e58da9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075726765
         }
     ],
     "wof:id":1075726765,
-    "wof:lastmodified":1473768536,
+    "wof:lastmodified":1491936771,
     "wof:name":"Gebr\u00fcder Naef Z\u00fcrich Ag Verm\u00f6gensverwaltung",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

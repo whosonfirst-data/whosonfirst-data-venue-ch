@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7478690147,44.7438240051,5.7478690147,44.7438240051",
     "geom:latitude":44.743824,
     "geom:longitude":5.747869,
@@ -29,17 +30,39 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683427,
+        102191581,
+        85633147,
+        404382999,
+        404227669,
+        1108826389,
+        136253037,
+        102067193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eE4xFIoWKlndUaeElSQn1_44.743824_5.747869@1306268699"
     },
     "wof:country":"CH",
     "wof:created":1473742345,
-    "wof:geomhash":"80c76089693ab928d2c5d08f867a6eea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d3c4059e675d587967ed2f7827ab5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067193,
+            "empire_id":136253037,
+            "localadmin_id":404382999,
+            "locality_id":-1,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
+            "region_id":85683427,
+            "venue_id":1075133453
+        }
+    ],
     "wof:id":1075133453,
-    "wof:lastmodified":1473742345,
+    "wof:lastmodified":1496779283,
     "wof:name":"Ermitage Ravet Bernard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

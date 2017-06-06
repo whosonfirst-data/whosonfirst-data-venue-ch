@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7250127792,45.9317893982,6.7250127792,45.9317893982",
     "geom:latitude":45.931789,
     "geom:longitude":6.725013,
@@ -19,17 +20,39 @@
     "sg:postcode":"2115",
     "sg:province":"Neuch\u00e2tel",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        85633147,
+        404413471,
+        404227961,
+        1108826389,
+        136253037,
+        102067845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35x4jSo9RMAB61XOfCYKe9_45.931789_6.725013@1306268747"
     },
     "wof:country":"CH",
     "wof:created":1473756948,
-    "wof:geomhash":"36ac6bd6ab4343379c33c14fb8c991b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67241668cf088b8c1e07976b8b2ef9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067845,
+            "empire_id":136253037,
+            "localadmin_id":404413471,
+            "locality_id":-1,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075467091
+        }
+    ],
     "wof:id":1075467091,
-    "wof:lastmodified":1473756948,
+    "wof:lastmodified":1496781054,
     "wof:name":"Vetterli Jacques Et Agn\u00e8s S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

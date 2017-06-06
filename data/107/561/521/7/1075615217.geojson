@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0886340141,48.4874382019,6.0886340141,48.4874382019",
     "geom:latitude":48.487438,
     "geom:longitude":6.088634,
@@ -19,17 +20,40 @@
     "sg:postcode":"1907",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683343,
+        102191581,
+        404228113,
+        404410963,
+        85633147,
+        1108826391,
+        101765085,
+        136253037,
+        102069717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_288WojBH5i2GtxvLFsH4fl_48.487438_6.088634@1306268767"
     },
     "wof:country":"CH",
     "wof:created":1473763434,
-    "wof:geomhash":"95f1412601fe8ac7ffda19b86b8c2e58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"480a27c76f7c1837b80081b96aacb05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069717,
+            "empire_id":136253037,
+            "localadmin_id":404410963,
+            "locality_id":101765085,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
+            "region_id":85683343,
+            "venue_id":1075615217
+        }
+    ],
     "wof:id":1075615217,
-    "wof:lastmodified":1473763434,
+    "wof:lastmodified":1496783863,
     "wof:name":"Barone Oswald Paysagiste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

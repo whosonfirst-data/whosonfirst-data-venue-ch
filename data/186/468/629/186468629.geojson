@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.090407,45.044331,6.090407,45.044331",
     "geom:latitude":45.044331,
     "geom:longitude":6.090407,
@@ -23,27 +24,37 @@
     "sg:postcode":"1328",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683427,
+        102191581,
         85633147,
-        85683427
+        404375955,
+        404227669,
+        1108826389,
+        136253037,
+        102064655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NoHNJTbFndb4Ngrv7gcmz_45.044331_6.090407@1306268615"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9ed9b46071fb6bc312e48f4a65944f1e",
+    "wof:geomhash":"cfb62d75d5a18195987026ce26fd10fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102064655,
+            "empire_id":136253037,
+            "localadmin_id":404375955,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":186468629
         }
     ],
     "wof:id":186468629,
-    "wof:lastmodified":1473798338,
+    "wof:lastmodified":1496782258,
     "wof:name":"Jean-claude Gaudin Ferblanterie & Couverture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

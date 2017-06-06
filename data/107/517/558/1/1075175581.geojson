@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6013612747,47.3557701111,8.6013612747,47.3557701111",
     "geom:latitude":47.35577,
     "geom:longitude":8.601361,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"9184fc77922a63cf3886f27e8a2cb9fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075175581
         }
     ],
     "wof:id":1075175581,
-    "wof:lastmodified":1473744263,
+    "wof:lastmodified":1491936748,
     "wof:name":"Rohn-salvisberg-stiftung Altersf\u00fcrsorge F\u00fcr Alleinstehende Usw",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

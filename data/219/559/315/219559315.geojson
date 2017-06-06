@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.442027,46.949139,7.442027,46.949139",
     "geom:latitude":46.949139,
     "geom:longitude":7.442027,
@@ -29,12 +30,14 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800203,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800199,
-        85800203
+        85682381,
+        85800199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +47,30 @@
     "wof:geomhash":"bc978a46e7f58af44443bf3b9f77c153",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85800199,
+            "neighbourhood_id":85800203,
             "region_id":85682381,
             "venue_id":219559315
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85800203,
+            "neighbourhood_id":85800199,
             "region_id":85682381,
             "venue_id":219559315
         }
     ],
     "wof:id":219559315,
-    "wof:lastmodified":1473798355,
+    "wof:lastmodified":1491916581,
     "wof:name":"Gzb Genossenschaftl., Zentralbank Ag",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

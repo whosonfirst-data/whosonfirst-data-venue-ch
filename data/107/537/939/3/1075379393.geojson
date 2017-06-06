@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.6734549999,46.1368865967,-0.6734549999,46.1368865967",
     "geom:latitude":46.136887,
     "geom:longitude":-0.673455,
@@ -30,17 +31,40 @@
         "timekeeping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683275,
+        102191581,
+        404227833,
+        404348475,
+        85633147,
+        1108826385,
+        101890919,
+        136253037,
+        102070741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nRIuEEHP9bY2OdCFO9CEi_46.136887_-0.673455@1306268734"
     },
     "wof:country":"CH",
     "wof:created":1473753175,
-    "wof:geomhash":"1b36ce23b56f8cbb2998f1ea97a66122",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f137d323b39e907a86b8ff12ee0c075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070741,
+            "empire_id":136253037,
+            "localadmin_id":404348475,
+            "locality_id":101890919,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
+            "region_id":85683275,
+            "venue_id":1075379393
+        }
+    ],
     "wof:id":1075379393,
-    "wof:lastmodified":1473753175,
+    "wof:lastmodified":1496776717,
     "wof:name":"Donz\u00c9-baume Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

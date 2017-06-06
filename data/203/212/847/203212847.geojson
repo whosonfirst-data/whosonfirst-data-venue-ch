@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.157127,46.186623,6.157127,46.186623",
     "geom:latitude":46.186623,
     "geom:longitude":6.157127,
@@ -24,11 +25,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85862369,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85862369,
+        85682291,
         85799877
     ],
     "wof:breaches":[],
@@ -39,18 +42,20 @@
     "wof:geomhash":"bcd66744f14aa7c605fc09c0f7923db9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85862369,
             "region_id":85682291,
             "venue_id":203212847
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85799877,
             "region_id":85682291,
@@ -58,9 +63,9 @@
         }
     ],
     "wof:id":203212847,
-    "wof:lastmodified":1473798158,
+    "wof:lastmodified":1491915729,
     "wof:name":"Dr M\u00e9d. Panayotis Vengos M\u00e9decin Sp\u00e9cialiste Fmh",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

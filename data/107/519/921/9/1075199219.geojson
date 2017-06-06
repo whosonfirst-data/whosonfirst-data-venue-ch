@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.581668973,44.2027168274,0.581668973,44.2027168274",
     "geom:latitude":44.202717,
     "geom:longitude":0.581669,
@@ -29,17 +30,37 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        136253037,
+        102070725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ax0wrXJhYIb8AdtBRUO3i_44.202717_0.581669@1306268709"
     },
     "wof:country":"CH",
     "wof:created":1473745311,
-    "wof:geomhash":"8be2eafd4bdcc3adb2f8e80dd3310704",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f572aa36580e2ab6f0f3e7d4d14f01ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070725,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
+            "region_id":85683341,
+            "venue_id":1075199219
+        }
+    ],
     "wof:id":1075199219,
-    "wof:lastmodified":1473745311,
+    "wof:lastmodified":1496776229,
     "wof:name":"Digigraphix Communication S.\u00e0.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

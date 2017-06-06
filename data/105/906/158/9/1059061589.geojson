@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5759310722,46.1668968201,3.5759310722,46.1668968201",
     "geom:latitude":46.166897,
     "geom:longitude":3.575931,
@@ -18,17 +19,39 @@
     "sg:postcode":"4103",
     "sg:province":"Basel-Landschaft",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683293,
+        102191581,
+        85633147,
+        404423169,
+        404228011,
+        1108826389,
+        136253037,
+        102067097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x10c61A8XOul1VRHnP087_46.166897_3.575931@1306268652"
     },
     "wof:country":"CH",
     "wof:created":1473724945,
-    "wof:geomhash":"0e0e159807013e297ba97d63db53dbce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ce643eef6631ef87e26adb4fc3e1d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067097,
+            "empire_id":136253037,
+            "localadmin_id":404423169,
+            "locality_id":-1,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
+            "region_id":85683293,
+            "venue_id":1059061589
+        }
+    ],
     "wof:id":1059061589,
-    "wof:lastmodified":1473724945,
+    "wof:lastmodified":1496779607,
     "wof:name":"Pascal Traiteur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

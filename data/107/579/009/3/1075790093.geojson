@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"121.462806702,25.1816806793,121.462806702,25.1816806793",
     "geom:latitude":25.181681,
     "geom:longitude":121.462807,
@@ -28,9 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85632403,
         85923609,
-        85679585
+        102191569,
+        85632403,
+        1108756873,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,16 @@
     "wof:geomhash":"5e22e25ff450819365edf76cfd7abb46",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632403,
+            "macrocounty_id":1108756873,
             "neighbourhood_id":85923609,
-            "region_id":85679585,
+            "region_id":85679583,
             "venue_id":1075790093
         }
     ],
     "wof:id":1075790093,
-    "wof:lastmodified":1473771644,
+    "wof:lastmodified":1481154651,
     "wof:name":"Hobel Genossenschaft F\u00dcr M\u00d6bel + Innenausbau",
     "wof:parent_id":85923609,
     "wof:placetype":"venue",

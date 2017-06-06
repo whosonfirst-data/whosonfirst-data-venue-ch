@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5991573334,47.3562812805,8.5991573334,47.3562812805",
     "geom:latitude":47.356281,
     "geom:longitude":8.599157,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"6ba0d4dbed8da3abee6a30e3ff0306aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075304253
         }
     ],
     "wof:id":1075304253,
-    "wof:lastmodified":1473749907,
+    "wof:lastmodified":1491936853,
     "wof:name":"Hanke Boucard Sigrid, Medienarbeit B\u00fcro F. Journalistik. Pr-beratung, Zeitungs, Zeitschriftenberatung",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

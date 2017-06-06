@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6166744232,47.3457298279,8.6166744232,47.3457298279",
     "geom:latitude":47.34573,
     "geom:longitude":8.616674,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"2d145c3edead7d5fc6e507cdeb15b362",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075608263
         }
     ],
     "wof:id":1075608263,
-    "wof:lastmodified":1473763071,
+    "wof:lastmodified":1491936756,
     "wof:name":"Weinberg & Braunschweig Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

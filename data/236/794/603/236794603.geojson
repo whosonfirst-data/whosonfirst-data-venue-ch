@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.10329,46.206078,6.10329,46.206078",
     "geom:latitude":46.206078,
     "geom:longitude":6.10329,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85800147,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85800147
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"59b2b1d66d792f93d1bf3690a3e99059",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85800147,
             "region_id":85682291,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236794603,
-    "wof:lastmodified":1473798454,
+    "wof:lastmodified":1491938241,
     "wof:name":"Actaris Sa",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",

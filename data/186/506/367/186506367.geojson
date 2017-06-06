@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.509163,47.381645,8.509163,47.381645",
     "geom:latitude":47.381645,
     "geom:longitude":8.509163,
@@ -35,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
         101748463,
         102063071,
@@ -49,7 +51,7 @@
     "wof:geomhash":"71835b386dc8250fafefb9f0f1e024df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
             "locality_id":101748463,
@@ -58,7 +60,7 @@
             "venue_id":186506367
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
             "locality_id":101748463,
@@ -68,9 +70,9 @@
         }
     ],
     "wof:id":186506367,
-    "wof:lastmodified":1473798361,
+    "wof:lastmodified":1491899349,
     "wof:name":"Hardau Cafeteria",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

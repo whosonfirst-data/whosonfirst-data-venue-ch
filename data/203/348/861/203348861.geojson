@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.596852,47.347111,8.596852,47.347111",
     "geom:latitude":47.347111,
     "geom:longitude":8.596852,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102062933,
+        101748463,
+        102063071,
         85800653
     ],
     "wof:breaches":[],
@@ -37,17 +40,17 @@
     "wof:geomhash":"ff4f5a6da0ba7d2693788eae05968a1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":203348861
         }
     ],
     "wof:id":203348861,
-    "wof:lastmodified":1473798285,
+    "wof:lastmodified":1491936766,
     "wof:name":"Dr.med.jean Pierre J. Elsig Spezialarzt Fmh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

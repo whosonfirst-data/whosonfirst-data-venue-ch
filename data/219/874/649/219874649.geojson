@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.594201,47.364563,8.594201,47.364563",
     "geom:latitude":47.364563,
     "geom:longitude":8.594201,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102062933,
+        101748463,
+        102063071,
         85800653
     ],
     "wof:breaches":[],
@@ -37,17 +40,17 @@
     "wof:geomhash":"5dfb4fb7ba83a60f406b2528f8e1bc4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":219874649
         }
     ],
     "wof:id":219874649,
-    "wof:lastmodified":1473798417,
+    "wof:lastmodified":1491936788,
     "wof:name":"Baugesellschaft Nera Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

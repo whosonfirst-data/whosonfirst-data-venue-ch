@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.546267,47.418968,8.546267,47.418968",
     "geom:latitude":47.418968,
     "geom:longitude":8.546267,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102063019,
+        101748463,
+        102063071,
         85800527
     ],
     "wof:breaches":[],
@@ -37,17 +40,17 @@
     "wof:geomhash":"fa58461b41f7636a8ba8d185a1a20dd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":203419063
         }
     ],
     "wof:id":203419063,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1491916046,
     "wof:name":"Dr.med.thomas Th\u00f6len Spezialarzt Fmh",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

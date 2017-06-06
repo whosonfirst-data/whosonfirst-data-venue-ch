@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5611810684,47.4336967468,8.5611810684,47.4336967468",
     "geom:latitude":47.433697,
     "geom:longitude":8.561181,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"0f918e414adc4b5d54ae1c4b038378fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075641319
         }
     ],
     "wof:id":1075641319,
-    "wof:lastmodified":1473764662,
+    "wof:lastmodified":1491915854,
     "wof:name":"Msc Holding",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

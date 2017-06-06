@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6113767624,46.0231399536,6.6113767624,46.0231399536",
     "geom:latitude":46.02314,
     "geom:longitude":6.611377,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 26 924 57 50",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        85633147,
+        404353723,
+        404227961,
+        1108826389,
+        136253037,
+        102066117
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cB3BCxm3WzmlaL2DOyUdK_46.023140_6.611377@1306268648"
     },
     "wof:country":"CH",
     "wof:created":1473723388,
-    "wof:geomhash":"bacbc59a4a8968639571e217bdd6ae74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46585996c080cc073c9b25650c1b64c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066117,
+            "empire_id":136253037,
+            "localadmin_id":404353723,
+            "locality_id":-1,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1059028565
+        }
+    ],
     "wof:id":1059028565,
-    "wof:lastmodified":1473723388,
+    "wof:lastmodified":1496779268,
     "wof:name":"Dominique Oberson Vitrerie-miroiterie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.449346,46.968567,7.449346,46.968567",
     "geom:latitude":46.968567,
     "geom:longitude":7.449346,
@@ -24,12 +25,14 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800559,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85799849,
-        85800559
+        85682381,
+        85799849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +42,30 @@
     "wof:geomhash":"fee529af914f995a2c601a5c118adbd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85799849,
+            "neighbourhood_id":85800559,
             "region_id":85682381,
             "venue_id":202556729
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85800559,
+            "neighbourhood_id":85799849,
             "region_id":85682381,
             "venue_id":202556729
         }
     ],
     "wof:id":202556729,
-    "wof:lastmodified":1473798216,
+    "wof:lastmodified":1491909216,
     "wof:name":"Ing. B\u00fcro Mauerhofer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5739383698,47.4411582947,8.5739383698,47.4411582947",
     "geom:latitude":47.441158,
     "geom:longitude":8.573938,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"d1b3ea0f6d8337e2d735fdc4b2fd7dc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1074853169
         }
     ],
     "wof:id":1074853169,
-    "wof:lastmodified":1473728085,
+    "wof:lastmodified":1491916047,
     "wof:name":"Musicservice, Ernst Reitmair",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6188230515,47.3643112183,8.6188230515,47.3643112183",
     "geom:latitude":47.364311,
     "geom:longitude":8.618823,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"bc58e5596b75bb098c50a6036fdd1478",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075091799
         }
     ],
     "wof:id":1075091799,
-    "wof:lastmodified":1473740466,
+    "wof:lastmodified":1491936727,
     "wof:name":"Martin Dietschi Klavierbau",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.157082,46.20541,6.157082,46.20541",
     "geom:latitude":46.20541,
     "geom:longitude":6.157082,
@@ -24,12 +25,14 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85862413,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663,
-        85862413
+        85682291,
+        85897663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +42,30 @@
     "wof:geomhash":"ef60d783989d628e8b53399eb4cc3423",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
-            "neighbourhood_id":85897663,
+            "neighbourhood_id":85862413,
             "region_id":85682291,
             "venue_id":185744539
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
-            "neighbourhood_id":85862413,
+            "neighbourhood_id":85897663,
             "region_id":85682291,
             "venue_id":185744539
         }
     ],
     "wof:id":185744539,
-    "wof:lastmodified":1473798173,
+    "wof:lastmodified":1491885282,
     "wof:name":"Tournaire & Associ\u00e9s Etude D'avocat",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

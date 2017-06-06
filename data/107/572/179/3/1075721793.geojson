@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6005411148,47.3468055725,8.6005411148,47.3468055725",
     "geom:latitude":47.346806,
     "geom:longitude":8.600541,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"214cc7a96741bdd14fd3765809a7a45e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075721793
         }
     ],
     "wof:id":1075721793,
-    "wof:lastmodified":1473768287,
+    "wof:lastmodified":1491936846,
     "wof:name":"Tibur Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3226189613,48.1071739197,6.3226189613,48.1071739197",
     "geom:latitude":48.107174,
     "geom:longitude":6.322619,
@@ -17,17 +18,39 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683223,
+        102191581,
+        85633147,
+        404420681,
+        404227779,
+        1108826391,
+        136253037,
+        102069649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eDxvnzmc8L5h8LH76zzIO_48.107174_6.322619@1306268767"
     },
     "wof:country":"CH",
     "wof:created":1473763381,
-    "wof:geomhash":"86a2a356669513a53f83a235a5ba93c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0958b81a6e75c8f4fc56dfde0ae21a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069649,
+            "empire_id":136253037,
+            "localadmin_id":404420681,
+            "locality_id":-1,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
+            "region_id":85683223,
+            "venue_id":1075614261
+        }
+    ],
     "wof:id":1075614261,
-    "wof:lastmodified":1473763381,
+    "wof:lastmodified":1496784435,
     "wof:name":"Atelier Floral Marie-madeleine Aigroz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.164466,46.190121,6.164466,46.190121",
     "geom:latitude":46.190121,
     "geom:longitude":6.164466,
@@ -23,11 +24,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85799877,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85799877
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"f84545d9e377370b34b3399508285f23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85799877,
             "region_id":85682291,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":186215619,
-    "wof:lastmodified":1473798175,
+    "wof:lastmodified":1491915769,
     "wof:name":"Spic Soci\u00e9t\u00e9 De Promotion Industrielle Et Commerciale Sa",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6418952942,47.3693237305,8.6418952942,47.3693237305",
     "geom:latitude":47.369324,
     "geom:longitude":8.641895,
@@ -31,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,17 @@
     "wof:geomhash":"a4337f808c8139b76061c086f5d8e954",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074808867
         }
     ],
     "wof:id":1074808867,
-    "wof:lastmodified":1473725825,
+    "wof:lastmodified":1491936816,
     "wof:name":"Multirex Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

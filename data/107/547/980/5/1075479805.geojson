@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5496139526,47.4237556458,8.5496139526,47.4237556458",
     "geom:latitude":47.423756,
     "geom:longitude":8.549614,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"1694f2a8daa8bc395b6fdb13d4d3101f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075479805
         }
     ],
     "wof:id":1075479805,
-    "wof:lastmodified":1473757594,
+    "wof:lastmodified":1491915941,
     "wof:name":"Schneider Haustechnik",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

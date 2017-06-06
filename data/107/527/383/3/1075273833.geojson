@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.643362999,47.3689346313,8.643362999,47.3689346313",
     "geom:latitude":47.368935,
     "geom:longitude":8.643363,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"d5c36a71115177106ecb29d0aec7ea06",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075273833
         }
     ],
     "wof:id":1075273833,
-    "wof:lastmodified":1473748545,
+    "wof:lastmodified":1491936844,
     "wof:name":"Nbv Neutrale Beratung F\u00fcr Versicherungen Gmbh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"121.572593689,25.1491298676,121.572593689,25.1491298676",
     "geom:latitude":25.14913,
     "geom:longitude":121.572594,
@@ -30,9 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85632403,
         85922557,
-        85679585
+        102191569,
+        85632403,
+        1108756873,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,16 @@
     "wof:geomhash":"c597a029de0e76bed422120becb869f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632403,
+            "macrocounty_id":1108756873,
             "neighbourhood_id":85922557,
-            "region_id":85679585,
+            "region_id":85679583,
             "venue_id":1074864207
         }
     ],
     "wof:id":1074864207,
-    "wof:lastmodified":1473728580,
+    "wof:lastmodified":1481152544,
     "wof:name":"Tiara-teppichboden Ag",
     "wof:parent_id":85922557,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"121.433708191,25.0971508026,121.433708191,25.0971508026",
     "geom:latitude":25.097151,
     "geom:longitude":121.433708,
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85632403,
         85922615,
+        102191569,
+        85632403,
+        102026669,
         85679585
     ],
     "wof:breaches":[],
@@ -42,14 +45,16 @@
     "wof:geomhash":"938233c6b154c6da089fde17cc020861",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632403,
+            "locality_id":102026669,
             "neighbourhood_id":85922615,
             "region_id":85679585,
             "venue_id":1075271537
         }
     ],
     "wof:id":1075271537,
-    "wof:lastmodified":1473748435,
+    "wof:lastmodified":1481154651,
     "wof:name":"Ernst Nachbur Ag",
     "wof:parent_id":85922615,
     "wof:placetype":"venue",

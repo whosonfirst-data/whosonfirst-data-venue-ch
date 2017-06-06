@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6223602295,47.3882217407,8.6223602295,47.3882217407",
     "geom:latitude":47.388222,
     "geom:longitude":8.62236,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"60bcce09b0bff1ca95d83e215eb8a358",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075759881
         }
     ],
     "wof:id":1075759881,
-    "wof:lastmodified":1473770054,
+    "wof:lastmodified":1491936725,
     "wof:name":"Edgar Tittel Creaction Werbeberatung",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

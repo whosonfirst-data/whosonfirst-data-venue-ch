@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.436669,46.946533,7.436669,46.946533",
     "geom:latitude":46.946533,
     "geom:longitude":7.436669,
@@ -29,11 +30,13 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800199,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800199
+        85682381
     ],
     "wof:brand_id":420574951,
     "wof:breaches":[],
@@ -44,9 +47,10 @@
     "wof:geomhash":"52d4f23ea0ae439c26b0ed1697f8a98f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85800199,
             "region_id":85682381,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":219536225,
-    "wof:lastmodified":1473798334,
+    "wof:lastmodified":1491916598,
     "wof:name":"Credit Suisse",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",

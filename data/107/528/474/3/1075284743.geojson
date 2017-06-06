@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6388292313,47.3605155945,8.6388292313,47.3605155945",
     "geom:latitude":47.360516,
     "geom:longitude":8.638829,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"a006a036aa5e292227b703834b392742",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075284743
         }
     ],
     "wof:id":1075284743,
-    "wof:lastmodified":1473749014,
+    "wof:lastmodified":1491936747,
     "wof:name":"Aaa-homepage.ch Gmbh Internet-auftritte Und Pr\u00e4sentationen; Vertrieb Und Realisierung Usw",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5415,47.4179,8.5415,47.4179",
     "geom:latitude":47.4179,
     "geom:longitude":8.5415,
@@ -25,12 +26,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
         101748463,
         102063071,
-        85800373,
-        102063019,
-        85800527
+        85800527,
+        85800373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +41,28 @@
     "wof:geomhash":"6812a2589b136aa8bf4c7a367bda1f59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063071,
+            "locality_id":101748463,
+            "neighbourhood_id":85800527,
+            "region_id":85682309,
+            "venue_id":253081173
+        },
+        {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
             "locality_id":101748463,
             "neighbourhood_id":85800373,
             "region_id":85682309,
             "venue_id":253081173
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633051,
-            "county_id":102063019,
-            "locality_id":-1,
-            "neighbourhood_id":85800527,
-            "region_id":85682309,
-            "venue_id":253081173
         }
     ],
     "wof:id":253081173,
-    "wof:lastmodified":1473798084,
+    "wof:lastmodified":1491915969,
     "wof:name":"Steinmann Eugen Z\u00fcrich Ag",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

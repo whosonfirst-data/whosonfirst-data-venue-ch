@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.435256,46.946072,7.435256,46.946072",
     "geom:latitude":46.946072,
     "geom:longitude":7.435256,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800199,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800199
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"7e354b98548472a9fcc56d3f0a75360e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85800199,
             "region_id":85682381,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236457471,
-    "wof:lastmodified":1473798399,
+    "wof:lastmodified":1491916622,
     "wof:name":"Schweizerisches Archiv F\u00fcr Brot Und Geb\u00e4ckkunde",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",

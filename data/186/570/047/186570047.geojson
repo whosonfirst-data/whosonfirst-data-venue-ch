@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.56769,47.435249,8.56769,47.435249",
     "geom:latitude":47.435249,
     "geom:longitude":8.56769,
@@ -32,6 +33,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -45,19 +47,18 @@
     "wof:geomhash":"0b6b0b85442a561d5bd1ebbdaf235848",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":186570047
         }
     ],
     "wof:id":186570047,
-    "wof:lastmodified":1473798367,
+    "wof:lastmodified":1491915877,
     "wof:name":"Merck Sharp & Dohme Chibret Ag",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

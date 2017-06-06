@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1553711891,46.1447257996,6.1553711891,46.1447257996",
     "geom:latitude":46.144726,
     "geom:longitude":6.155371,
@@ -18,17 +19,40 @@
     "sg:postcode":"1773",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        404228155,
+        404399977,
+        85633147,
+        1108826389,
+        101829039,
+        136253037,
+        102068295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b9AqnV9v00XvuTaSZEQDp_46.144726_6.155371@1306268788"
     },
     "wof:country":"CH",
     "wof:created":1473770813,
-    "wof:geomhash":"6fb7b2e461ae451f3b35f7a93aff3858",
-    "wof:hierarchy":[],
+    "wof:geomhash":"857f019cbf10b79452c4b1bb1cd241f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068295,
+            "empire_id":136253037,
+            "localadmin_id":404399977,
+            "locality_id":101829039,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075774259
+        }
+    ],
     "wof:id":1075774259,
-    "wof:lastmodified":1473770813,
+    "wof:lastmodified":1496779525,
     "wof:name":"Fiduciaire Castella Jm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

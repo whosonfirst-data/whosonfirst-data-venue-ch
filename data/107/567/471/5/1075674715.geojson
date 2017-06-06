@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5982074738,47.3540611267,8.5982074738,47.3540611267",
     "geom:latitude":47.354061,
     "geom:longitude":8.598207,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"7292b2235b2602d5f81c93f2c5cba735",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075674715
         }
     ],
     "wof:id":1075674715,
-    "wof:lastmodified":1473766086,
+    "wof:lastmodified":1491936774,
     "wof:name":"J\u00fcrg Hemmi Management-beratung",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

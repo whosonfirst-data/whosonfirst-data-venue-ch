@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9712901115,43.3673782349,2.9712901115,43.3673782349",
     "geom:latitude":43.367378,
     "geom:longitude":2.97129,
@@ -18,17 +19,39 @@
     "sg:postcode":"6300",
     "sg:province":"Zug",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683419,
+        102191581,
+        85633147,
+        404366415,
+        404227659,
+        1108826387,
+        136253037,
+        102065227
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sAtSNL7lzuzVTVViWgXlT_43.367378_2.971290@1306268769"
     },
     "wof:country":"CH",
     "wof:created":1473764017,
-    "wof:geomhash":"beb2789ee8b85069f4f6005ebb723397",
-    "wof:hierarchy":[],
+    "wof:geomhash":"deee0df6a590111bac674218464f8373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065227,
+            "empire_id":136253037,
+            "localadmin_id":404366415,
+            "locality_id":-1,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
+            "region_id":85683419,
+            "venue_id":1075626911
+        }
+    ],
     "wof:id":1075626911,
-    "wof:lastmodified":1473764017,
+    "wof:lastmodified":1496778937,
     "wof:name":"Fontina-r\u00d6ssler Ag Tonwaren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6060943604,47.3457221985,8.6060943604,47.3457221985",
     "geom:latitude":47.345722,
     "geom:longitude":8.606094,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"c3a60ca66486285db4eff5c2cca8d80f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075244981
         }
     ],
     "wof:id":1075244981,
-    "wof:lastmodified":1473747348,
+    "wof:lastmodified":1491936833,
     "wof:name":"Arthur Gautschi Malergesch\u00e4ft",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

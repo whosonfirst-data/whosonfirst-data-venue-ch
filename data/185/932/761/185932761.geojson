@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.564411,47.429073,8.564411,47.429073",
     "geom:latitude":47.429073,
     "geom:longitude":8.564411,
@@ -24,6 +25,7 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -37,19 +39,18 @@
     "wof:geomhash":"2ca7ed9f6cd304d1f1550de7bf1ef144",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":185932761
         }
     ],
     "wof:id":185932761,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1491915916,
     "wof:name":"Spitex-verein Opfikon-glattbrugg",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

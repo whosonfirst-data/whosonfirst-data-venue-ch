@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5955896378,47.3601913452,8.5955896378,47.3601913452",
     "geom:latitude":47.360191,
     "geom:longitude":8.59559,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"fdf398d0375346dcda63e5ef3417eca3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1059026389
         }
     ],
     "wof:id":1059026389,
-    "wof:lastmodified":1473723278,
+    "wof:lastmodified":1491936734,
     "wof:name":"Bruno Leoni",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

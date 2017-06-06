@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.569791,47.435993,8.569791,47.435993",
     "geom:latitude":47.435993,
     "geom:longitude":8.569791,
@@ -24,6 +25,7 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -37,19 +39,18 @@
     "wof:geomhash":"9741de1e10b2b32e4baaff7c3ad762d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":236828101
         }
     ],
     "wof:id":236828101,
-    "wof:lastmodified":1473798448,
+    "wof:lastmodified":1491916071,
     "wof:name":"Fritz M\u00fcller Bedachungen & Kaminfegerei",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

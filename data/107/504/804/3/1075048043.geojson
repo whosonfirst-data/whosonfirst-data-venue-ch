@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6025900841,45.9854125977,5.6025900841,45.9854125977",
     "geom:latitude":45.985413,
     "geom:longitude":5.60259,
@@ -19,17 +20,40 @@
     "sg:postcode":"1052",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        404227585,
+        404413205,
+        85633147,
+        1108826389,
+        101768199,
+        136253037,
+        102066973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L9mDaJPjLX6jWitmqQ8HO_45.985413_5.602590@1306268687"
     },
     "wof:country":"CH",
     "wof:created":1473738102,
-    "wof:geomhash":"ba943fa6774c3af33b26dd5c348e4195",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6acd852a4080be62ee0c600bc2bf180e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066973,
+            "empire_id":136253037,
+            "localadmin_id":404413205,
+            "locality_id":101768199,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1075048043
+        }
+    ],
     "wof:id":1075048043,
-    "wof:lastmodified":1473738102,
+    "wof:lastmodified":1496779284,
     "wof:name":"Nestl\u00e9 Suisse Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

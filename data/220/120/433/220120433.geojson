@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.101149,46.206017,6.101149,46.206017",
     "geom:latitude":46.206017,
     "geom:longitude":6.101149,
@@ -24,11 +25,13 @@
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85800147,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85800147
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e2bd320b7ec822f098be1aaa227107a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85800147,
             "region_id":85682291,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":220120433,
-    "wof:lastmodified":1473798160,
+    "wof:lastmodified":1491938243,
     "wof:name":"Menuiserie, Charpente, Eb\u00e9nisterie Georges Rousset Sa",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",

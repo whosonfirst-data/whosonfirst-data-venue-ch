@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.877589941,46.6776504517,2.877589941,46.6776504517",
     "geom:latitude":46.67765,
     "geom:longitude":2.87759,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 26 924 25 25",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683293,
+        102191581,
+        85633147,
+        404390557,
+        404227801,
+        1108826389,
+        136253037,
+        102067231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06v05GCIsBs21RFZ82m8xk_46.677650_2.877590@1306268751"
     },
     "wof:country":"CH",
     "wof:created":1473758178,
-    "wof:geomhash":"cc25dde996d827f82fbe41ac17ecadf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16b53a00830301324a24f7234e9167d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067231,
+            "empire_id":136253037,
+            "localadmin_id":404390557,
+            "locality_id":-1,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
+            "region_id":85683293,
+            "venue_id":1075493703
+        }
+    ],
     "wof:id":1075493703,
-    "wof:lastmodified":1473758178,
+    "wof:lastmodified":1496781924,
     "wof:name":"Piscine De Ch\u00e2teau-d'oex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

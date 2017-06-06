@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.559963,47.383038,8.559963,47.383038",
     "geom:latitude":47.383038,
     "geom:longitude":8.559963,
@@ -25,10 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102063071,
-        85800463,
         101748463,
+        102063071,
         85799903
     ],
     "wof:breaches":[],
@@ -39,16 +40,7 @@
     "wof:geomhash":"aa25ae4709463219fcf09b8bebfa721e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":-1,
-            "neighbourhood_id":85800463,
-            "region_id":85682309,
-            "venue_id":186219115
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
             "locality_id":101748463,
@@ -58,9 +50,9 @@
         }
     ],
     "wof:id":186219115,
-    "wof:lastmodified":1473798183,
+    "wof:lastmodified":1491936217,
     "wof:name":"Sternhaus Z\u00fcrich, Brandenberger Erich Generalunternehmung, Neu, Umbauten, Renovationen, Projektierungen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

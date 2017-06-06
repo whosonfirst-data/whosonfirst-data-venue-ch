@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1718599796,45.6728591919,3.1718599796,45.6728591919",
     "geom:latitude":45.672859,
     "geom:longitude":3.17186,
@@ -19,17 +20,40 @@
     "sg:postcode":"1806",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683471,
+        102191581,
+        404227937,
+        404367527,
+        85633147,
+        1108826389,
+        101828985,
+        136253037,
+        102071481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UjllnuyaKEgEURWPbo8gm_45.672859_3.171860@1306268704"
     },
     "wof:country":"CH",
     "wof:created":1473743574,
-    "wof:geomhash":"ac93484ead84d2eba73e2234f2b936ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d79720c6caef51598750181db7447e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071481,
+            "empire_id":136253037,
+            "localadmin_id":404367527,
+            "locality_id":101828985,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
+            "region_id":85683471,
+            "venue_id":1075160179
+        }
+    ],
     "wof:id":1075160179,
-    "wof:lastmodified":1473743574,
+    "wof:lastmodified":1496779607,
     "wof:name":"Carrosserie Du Rond-point Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

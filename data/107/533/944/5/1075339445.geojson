@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6285324097,47.3555107117,8.6285324097,47.3555107117",
     "geom:latitude":47.355511,
     "geom:longitude":8.628532,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"f8e2a3c2a028caa2bcec4c01fab86594",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075339445
         }
     ],
     "wof:id":1075339445,
-    "wof:lastmodified":1473751543,
+    "wof:lastmodified":1491936852,
     "wof:name":"Incoat Gmbh Dienstleistungen U. Entwicklung U. Vertrieb Von Produkten Im Bereich Funktionale D\u00fcnnschichten",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

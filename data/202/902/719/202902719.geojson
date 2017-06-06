@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.570027,46.281345,2.570027,46.281345",
     "geom:latitude":46.281345,
     "geom:longitude":2.570027,
@@ -25,8 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683293,
+        102191581,
+        404227589,
+        404381915,
         85633147,
+        1108826389,
         101891109,
+        136253037,
         102070081
     ],
     "wof:breaches":[],
@@ -34,20 +40,23 @@
         "sg:id":"SG_7bO5zeT99CS45oL7gfzb0M_46.281345_2.570027@1306268619"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8bf2ca7b684a96d945bf841f8e5ecfa0",
+    "wof:geomhash":"50b862821ce73c3229b5a94529750aeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070081,
+            "empire_id":136253037,
+            "localadmin_id":404381915,
             "locality_id":101891109,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":202902719
         }
     ],
     "wof:id":202902719,
-    "wof:lastmodified":1473798336,
+    "wof:lastmodified":1496781657,
     "wof:name":"Steimer Didier Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

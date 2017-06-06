@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.549337,47.42107,8.549337,47.42107",
     "geom:latitude":47.42107,
     "geom:longitude":8.549337,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102063019,
+        101748463,
+        102063071,
         85800527
     ],
     "wof:breaches":[],
@@ -37,17 +40,17 @@
     "wof:geomhash":"8f25d6c0f3469e589e36834bd4359516",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":185932645
         }
     ],
     "wof:id":185932645,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1491916079,
     "wof:name":"Spitex Z\u00fcrich, Pflegegemeinschaft M. Bernasconi Und U. Pabst",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5943536758,47.3599243164,8.5943536758,47.3599243164",
     "geom:latitude":47.359924,
     "geom:longitude":8.594354,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"6e2f1ae82bb1b717648ec33405cdd3c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074793499
         }
     ],
     "wof:id":1074793499,
-    "wof:lastmodified":1473725097,
+    "wof:lastmodified":1491936827,
     "wof:name":"Denner Top Superdiscount",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

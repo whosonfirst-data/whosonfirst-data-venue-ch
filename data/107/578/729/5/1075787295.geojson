@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5926551819,47.3636054993,8.5926551819,47.3636054993",
     "geom:latitude":47.363605,
     "geom:longitude":8.592655,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"6010822911bf36d66b2df31f5bbc06a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075787295
         }
     ],
     "wof:id":1075787295,
-    "wof:lastmodified":1473771510,
+    "wof:lastmodified":1491936855,
     "wof:name":"Studentenheim Des Justinus-verein",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

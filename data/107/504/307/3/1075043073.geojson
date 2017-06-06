@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6406297684,47.3753585815,8.6406297684,47.3753585815",
     "geom:latitude":47.375359,
     "geom:longitude":8.64063,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"ab559d3a3a96147e1314a8bcdfef64ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075043073
         }
     ],
     "wof:id":1075043073,
-    "wof:lastmodified":1473737868,
+    "wof:lastmodified":1491936829,
     "wof:name":"L\u00f6tscher Robert Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

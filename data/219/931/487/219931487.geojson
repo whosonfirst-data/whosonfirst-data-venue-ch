@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.12222,45.94648,6.12222,45.94648",
     "geom:latitude":45.94648,
     "geom:longitude":6.12222,
@@ -24,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683227,
+        102191581,
+        404227747,
+        404379599,
         85633147,
+        1108826389,
         101750851,
+        136253037,
         102069795
     ],
     "wof:breaches":[],
@@ -33,20 +39,23 @@
         "sg:id":"SG_2MORvJYGft0uc5w6iSCyZS_45.946480_6.122220@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d44763206dba6a9391ebf916568fc438",
+    "wof:geomhash":"4e986217bd33e6394208035491907083",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069795,
+            "empire_id":136253037,
+            "localadmin_id":404379599,
             "locality_id":101750851,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227747,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":219931487
         }
     ],
     "wof:id":219931487,
-    "wof:lastmodified":1473798420,
+    "wof:lastmodified":1496781961,
     "wof:name":"Francis Catillaz & Fils Transports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

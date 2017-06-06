@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6310443878,47.3750839233,8.6310443878,47.3750839233",
     "geom:latitude":47.375084,
     "geom:longitude":8.631044,
@@ -32,9 +33,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +48,17 @@
     "wof:geomhash":"1d1df64fe8a6efcbed0e70eb2567da3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074830187
         }
     ],
     "wof:id":1074830187,
-    "wof:lastmodified":1473726897,
+    "wof:lastmodified":1491936846,
     "wof:name":"Kn\u00fcrr Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

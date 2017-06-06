@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.651471138,47.3464241028,8.651471138,47.3464241028",
     "geom:latitude":47.346424,
     "geom:longitude":8.651471,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"7e90e6fdb154b1ff0cbc70acd552ab4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074928057
         }
     ],
     "wof:id":1074928057,
-    "wof:lastmodified":1473731861,
+    "wof:lastmodified":1491936840,
     "wof:name":"Loorengut Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

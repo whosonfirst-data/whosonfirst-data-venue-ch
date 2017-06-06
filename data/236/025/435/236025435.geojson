@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.851076,45.328526,0.851076,45.328526",
     "geom:latitude":45.328526,
     "geom:longitude":0.851076,
@@ -23,27 +24,37 @@
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683331,
+        102191581,
         85633147,
-        85683331
+        404356495,
+        404228049,
+        1108826385,
+        136253037,
+        102070771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p6lcb862oRzePb0wXVFYu_45.328526_0.851076@1306268631"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b4929e3aa617792a86f0f1dd9434675b",
+    "wof:geomhash":"337efcb070cc8174f00155fedf08812e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070771,
+            "empire_id":136253037,
+            "localadmin_id":404356495,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":236025435
         }
     ],
     "wof:id":236025435,
-    "wof:lastmodified":1473798022,
+    "wof:lastmodified":1496776471,
     "wof:name":"Fredy Rosat Ferblanterie & Couverture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

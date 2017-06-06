@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6418943405,47.3464736938,8.6418943405,47.3464736938",
     "geom:latitude":47.346474,
     "geom:longitude":8.641894,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"1b9214abf54d35f6e974e66f79a4a96b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075670067
         }
     ],
     "wof:id":1075670067,
-    "wof:lastmodified":1473765884,
+    "wof:lastmodified":1491936722,
     "wof:name":"Edg Venture Corporation Ltd",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

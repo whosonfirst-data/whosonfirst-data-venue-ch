@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6430654526,47.3694877625,8.6430654526,47.3694877625",
     "geom:latitude":47.369488,
     "geom:longitude":8.643065,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"e4512c59351ef8ae25335ea05566e975",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075785905
         }
     ],
     "wof:id":1075785905,
-    "wof:lastmodified":1473771454,
+    "wof:lastmodified":1491936757,
     "wof:name":"Fahrrad-& Motorrad-gewerbe- Verb.kt.zh,frau Sonja Frioud",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

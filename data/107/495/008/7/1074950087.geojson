@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.626950264,47.3557281494,8.626950264,47.3557281494",
     "geom:latitude":47.355728,
     "geom:longitude":8.62695,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"d79cdb652c55c60857ed0d8f44464958",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074950087
         }
     ],
     "wof:id":1074950087,
-    "wof:lastmodified":1473732875,
+    "wof:lastmodified":1491936787,
     "wof:name":"Gr\u00e4ssle & Partner Informatik-dienstleistungen",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

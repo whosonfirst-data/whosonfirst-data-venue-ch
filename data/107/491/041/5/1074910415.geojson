@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6422748566,47.3695983887,8.6422748566,47.3695983887",
     "geom:latitude":47.369598,
     "geom:longitude":8.642275,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"a4886d5c8f3b2f44d80b42649350c815",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074910415
         }
     ],
     "wof:id":1074910415,
-    "wof:lastmodified":1473731012,
+    "wof:lastmodified":1491936847,
     "wof:name":"Kammerhuber Gary, Digital Projects, Fotostudio + Schwarzweiss-fotolabor Fotostudio, Schwarzweiss-fachlabor. Digitale U. Analoge Langzeit-bildarchive; Konzeption, Realisation Usw",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

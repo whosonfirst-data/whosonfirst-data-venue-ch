@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.14257,45.859238,6.14257,45.859238",
     "geom:latitude":45.859238,
     "geom:longitude":6.14257,
@@ -25,8 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683227,
+        102191581,
+        404227747,
+        404394665,
         85633147,
+        1108826389,
         101768007,
+        136253037,
         102070245
     ],
     "wof:breaches":[],
@@ -34,20 +40,23 @@
         "sg:id":"SG_1aqEeKz8YFiXx9saFrRNQm_45.859238_6.142570@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1ecbe9d6421d12941b43b61e31ce2ded",
+    "wof:geomhash":"f6da9515d5f065c9298c7db72655d163",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070245,
+            "empire_id":136253037,
+            "localadmin_id":404394665,
             "locality_id":101768007,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227747,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":219962785
         }
     ],
     "wof:id":219962785,
-    "wof:lastmodified":1473798428,
+    "wof:lastmodified":1496779538,
     "wof:name":"Proconsult Ing\u00e9nieur Conseils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

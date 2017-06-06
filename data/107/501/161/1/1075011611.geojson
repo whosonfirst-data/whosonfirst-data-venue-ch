@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887650013,46.2472991943,4.887650013,46.2472991943",
     "geom:latitude":46.247299,
     "geom:longitude":4.88765,
@@ -19,17 +20,40 @@
     "sg:postcode":"1290",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        404227797,
+        404412037,
+        85633147,
+        1108826389,
+        101829131,
+        136253037,
+        102069317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZoPmMgiF5Bd3NPkksVpmO_46.247299_4.887650@1306268683"
     },
     "wof:country":"CH",
     "wof:created":1473736377,
-    "wof:geomhash":"8de726e14c39d7b44c418c8d81720220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0e560fb670b9026f2346d8c252a4b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069317,
+            "empire_id":136253037,
+            "localadmin_id":404412037,
+            "locality_id":101829131,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1075011611
+        }
+    ],
     "wof:id":1075011611,
-    "wof:lastmodified":1473736377,
+    "wof:lastmodified":1496779554,
     "wof:name":"Rudy Minder Transports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

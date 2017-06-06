@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.3910939693,45.5204772949,1.3910939693,45.5204772949",
     "geom:latitude":45.520477,
     "geom:longitude":1.391094,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 26 924 53 18",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683531,
+        102191581,
+        85633147,
+        404405345,
+        404227987,
+        1108826385,
+        136253037,
+        102068621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44osdOy8YtdM9SxPV8Is9f_45.520477_1.391094@1306268749"
     },
     "wof:country":"CH",
     "wof:created":1473757515,
-    "wof:geomhash":"6362d2c471f64bbc604e6f9896eaf34a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b86493a84cace4cd049ab88a73163e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068621,
+            "empire_id":136253037,
+            "localadmin_id":404405345,
+            "locality_id":-1,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
+            "region_id":85683531,
+            "venue_id":1075478263
+        }
+    ],
     "wof:id":1075478263,
-    "wof:lastmodified":1473757515,
+    "wof:lastmodified":1496776474,
     "wof:name":"Breu Florian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

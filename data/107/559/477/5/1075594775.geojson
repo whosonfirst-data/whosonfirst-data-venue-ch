@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7302098274,46.077381134,6.7302098274,46.077381134",
     "geom:latitude":46.077381,
     "geom:longitude":6.73021,
@@ -18,17 +19,40 @@
     "sg:phone":"+41 26 924 63 97",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        404227961,
+        404360765,
+        85633147,
+        1108826389,
+        101767961,
+        136253037,
+        102068609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r7EDjEjNpypZ93RHqhrdW_46.077381_6.730210@1306268764"
     },
     "wof:country":"CH",
     "wof:created":1473762509,
-    "wof:geomhash":"758abe8e86e36146fd2af6f98f89c197",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62ddbb2e7ddd166d601c904d4f08b12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068609,
+            "empire_id":136253037,
+            "localadmin_id":404360765,
+            "locality_id":101767961,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075594775
+        }
+    ],
     "wof:id":1075594775,
-    "wof:lastmodified":1473762509,
+    "wof:lastmodified":1496779627,
     "wof:name":"Maison Marcel Bernasconi Sa.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

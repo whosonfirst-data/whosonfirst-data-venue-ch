@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.149423,46.202286,6.149423,46.202286",
     "geom:latitude":46.202286,
     "geom:longitude":6.149423,
@@ -29,11 +30,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"915df3406cc71dd9cd1ab2ab8b9652df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219775565,
-    "wof:lastmodified":1473798401,
+    "wof:lastmodified":1491885240,
     "wof:name":"Bar Enfer",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

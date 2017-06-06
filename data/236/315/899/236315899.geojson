@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.615803,47.569565,7.615803,47.569565",
     "geom:latitude":47.569565,
     "geom:longitude":7.615803,
@@ -23,11 +24,13 @@
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682297,
+        85800107,
+        102191581,
+        404328241,
         85633051,
         101748459,
         102062895,
-        85800107
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"032f47d56af534fbf500a2e5a2818d67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062895,
+            "localadmin_id":404328241,
             "locality_id":101748459,
             "neighbourhood_id":85800107,
             "region_id":85682297,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":236315899,
-    "wof:lastmodified":1473798292,
+    "wof:lastmodified":1491895499,
     "wof:name":"Selimovic Nihad",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",

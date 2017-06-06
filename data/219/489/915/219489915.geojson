@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.477386,34.017754,-118.477386,34.017754",
     "geom:latitude":34.017754,
     "geom:longitude":-118.477386,
@@ -28,13 +29,15 @@
     "sg:postcode":"3962",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85847231,
+        102191575,
+        1108692797,
         85633793,
-        85923817,
-        102086957,
-        85841527,
         85923517,
-        85847231
+        102086957,
+        85688637,
+        85923817,
+        "85841527"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +47,29 @@
     "wof:geomhash":"2617aabb094371bc9104595ebda9c1e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85841527,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":85847231,
             "region_id":85688637,
             "venue_id":219489915
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85847231,
+            "locality_id":85923817,
+            "neighbourhood_id":"85841527",
             "region_id":85688637,
             "venue_id":219489915
         }
     ],
     "wof:id":219489915,
-    "wof:lastmodified":1473798319,
+    "wof:lastmodified":1488943299,
     "wof:name":"Banque Cantonale Du Valis",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

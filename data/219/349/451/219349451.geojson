@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.564112,47.438698,8.564112,47.438698",
     "geom:latitude":47.438698,
     "geom:longitude":8.564112,
@@ -23,12 +24,11 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
-        85800527,
-        102062995,
-        85800165
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,28 +38,18 @@
     "wof:geomhash":"36f60a4c24ce4efaf9a22e169dd0b1e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
-            "region_id":85682309,
-            "venue_id":219349451
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633051,
-            "county_id":102062995,
-            "locality_id":-1,
-            "neighbourhood_id":85800165,
             "region_id":85682309,
             "venue_id":219349451
         }
     ],
     "wof:id":219349451,
-    "wof:lastmodified":1473798228,
+    "wof:lastmodified":1491915898,
     "wof:name":"Autoglas Drive-in Gmbh",
-    "wof:parent_id":-1,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

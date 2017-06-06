@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5833806992,47.4472007751,8.5833806992,47.4472007751",
     "geom:latitude":47.447201,
     "geom:longitude":8.583381,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"8c6892b0552e0888f0c35a958031ff8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075308557
         }
     ],
     "wof:id":1075308557,
-    "wof:lastmodified":1473750087,
+    "wof:lastmodified":1491915849,
     "wof:name":"Joachim Uli Viels\u00e4cker Physiotherapie",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

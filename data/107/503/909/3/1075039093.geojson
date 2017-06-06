@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5803108215,47.4473762512,8.5803108215,47.4473762512",
     "geom:latitude":47.447376,
     "geom:longitude":8.580311,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"fa8486d9d8f815b5f6dafa1d94b533a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075039093
         }
     ],
     "wof:id":1075039093,
-    "wof:lastmodified":1473737686,
+    "wof:lastmodified":1491915910,
     "wof:name":"Dalia Electronics Elektroniche Ger\u00e4te, Bes. Computer Und Zubeh\u00f6r; Handel",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

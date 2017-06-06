@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6441450119,47.3675498962,8.6441450119,47.3675498962",
     "geom:latitude":47.36755,
     "geom:longitude":8.644145,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"fd02a8816d674383a04470b378d4a16b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075344171
         }
     ],
     "wof:id":1075344171,
-    "wof:lastmodified":1473751725,
+    "wof:lastmodified":1491936853,
     "wof:name":"Samariterverein F\u00e4llanden",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

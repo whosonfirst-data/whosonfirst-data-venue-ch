@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.598037,47.565258,7.598037,47.565258",
     "geom:latitude":47.565258,
     "geom:longitude":7.598037,
@@ -24,11 +25,13 @@
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682297,
+        85800107,
+        102191581,
+        404328241,
         85633051,
         101748459,
         102062895,
-        85800107
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"fcacabfecd3b38eb4850eaa648dc6ccf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062895,
+            "localadmin_id":404328241,
             "locality_id":101748459,
             "neighbourhood_id":85800107,
             "region_id":85682297,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":219264749,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1491895538,
     "wof:name":"Eduard St\u00f6ckli Park-garage",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",

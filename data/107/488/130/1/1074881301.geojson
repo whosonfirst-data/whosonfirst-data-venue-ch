@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.495613098,34.0263786316,-118.495613098,34.0263786316",
     "geom:latitude":34.026379,
     "geom:longitude":-118.495613,
@@ -23,7 +24,7 @@
         85633793,
         85923817,
         102086957,
-        85887943
+        "85887943"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +39,15 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923817,
-            "neighbourhood_id":85887943,
+            "neighbourhood_id":"85887943",
             "region_id":85688637,
             "venue_id":1074881301
         }
     ],
     "wof:id":1074881301,
-    "wof:lastmodified":1473729406,
+    "wof:lastmodified":1488944155,
     "wof:name":"Weder Alfred Georg",
-    "wof:parent_id":85887943,
+    "wof:parent_id":"85887943",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

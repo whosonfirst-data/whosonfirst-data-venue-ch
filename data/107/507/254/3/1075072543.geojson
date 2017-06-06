@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5811462402,47.4546356201,8.5811462402,47.4546356201",
     "geom:latitude":47.454636,
     "geom:longitude":8.581146,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"e06726bbe4f7f14df7daa593fa2dc1dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075072543
         }
     ],
     "wof:id":1075072543,
-    "wof:lastmodified":1473739422,
+    "wof:lastmodified":1491916006,
     "wof:name":"W. Frick-glass Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

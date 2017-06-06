@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.7320899963,42.7755393982,1.7320899963,42.7755393982",
     "geom:latitude":42.775539,
     "geom:longitude":1.73209,
@@ -18,17 +19,39 @@
     "sg:postcode":"8716",
     "sg:province":"St. Gallen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683335,
+        102191581,
+        85633147,
+        404407499,
+        404227603,
+        1108826387,
+        136253037,
+        102064629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38nj6vHKPIjFIL1GVM2nqB_42.775539_1.732090@1306268695"
     },
     "wof:country":"CH",
     "wof:created":1473741006,
-    "wof:geomhash":"0f3b7056e1692c9c35e5a1593f51c7d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60c405cb5e719f5570ae6d1d8435506e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064629,
+            "empire_id":136253037,
+            "localadmin_id":404407499,
+            "locality_id":-1,
+            "macrocounty_id":404227603,
+            "macroregion_id":1108826387,
+            "region_id":85683335,
+            "venue_id":1075102593
+        }
+    ],
     "wof:id":1075102593,
-    "wof:lastmodified":1473741006,
+    "wof:lastmodified":1496778067,
     "wof:name":"Schloss Baumer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

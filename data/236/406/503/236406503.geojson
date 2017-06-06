@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.165345,46.19146,6.165345,46.19146",
     "geom:latitude":46.19146,
     "geom:longitude":6.165345,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85799877,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85799877
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"883128f8676dd0f2edc77732494cf3ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85799877,
             "region_id":85682291,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236406503,
-    "wof:lastmodified":1473798394,
+    "wof:lastmodified":1491915757,
     "wof:name":"Biblioth\u00e8que Art & Arch\u00e9ologie Du Mus\u00e9e D'art & D'histoire",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6370296478,47.3588447571,8.6370296478,47.3588447571",
     "geom:latitude":47.358845,
     "geom:longitude":8.63703,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"3c1b89681e95ce2b385789db3726520e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074955281
         }
     ],
     "wof:id":1074955281,
-    "wof:lastmodified":1473733165,
+    "wof:lastmodified":1491936814,
     "wof:name":"Aurum Edelmetallverwertungsgesellschaft Gelewski W. & Classen M.",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

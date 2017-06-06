@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5929679871,47.445186615,8.5929679871,47.445186615",
     "geom:latitude":47.445187,
     "geom:longitude":8.592968,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"93caf366fc91434cfbc31b0477e36fde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075583851
         }
     ],
     "wof:id":1075583851,
-    "wof:lastmodified":1473762002,
+    "wof:lastmodified":1491916036,
     "wof:name":"Turn-& Sportverein Der Ptt",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

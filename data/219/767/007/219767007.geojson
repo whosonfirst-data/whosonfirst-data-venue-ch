@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.452068,46.960285,7.452068,46.960285",
     "geom:latitude":46.960285,
     "geom:longitude":7.452068,
@@ -28,11 +29,13 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799849,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85799849
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2b356816be404180f178f4afce0e72d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85799849,
             "region_id":85682381,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":219767007,
-    "wof:lastmodified":1473798395,
+    "wof:lastmodified":1491909206,
     "wof:name":"Adriano's B&c Ag",
     "wof:parent_id":85799849,
     "wof:placetype":"venue",

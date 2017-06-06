@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3213701248,46.1000213623,4.3213701248,46.1000213623",
     "geom:latitude":46.100021,
     "geom:longitude":4.32137,
@@ -18,17 +19,40 @@
     "sg:postcode":"1951",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683569,
+        102191581,
+        404227949,
+        404357881,
+        85633147,
+        1108826389,
+        101767717,
+        136253037,
+        102069849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hr6FKep7kLrdiV5aKZ1AX_46.100021_4.321370@1306268766"
     },
     "wof:country":"CH",
     "wof:created":1473763214,
-    "wof:geomhash":"1ed74d3ad4e87fe58aa78141cce47621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfe031a6a529a141bf74978b1b5395b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069849,
+            "empire_id":136253037,
+            "localadmin_id":404357881,
+            "locality_id":101767717,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
+            "region_id":85683569,
+            "venue_id":1075610901
+        }
+    ],
     "wof:id":1075610901,
-    "wof:lastmodified":1473763214,
+    "wof:lastmodified":1496781931,
     "wof:name":"Agence Pme Formation - Conseil Sa Reflex Projet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

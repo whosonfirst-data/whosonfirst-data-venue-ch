@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.149899,46.203529,6.149899,46.203529",
     "geom:latitude":46.203529,
     "geom:longitude":6.149899,
@@ -29,11 +30,13 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2e8cb7fad159e6ee9644586f32d6b690",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219549511,
-    "wof:lastmodified":1473798364,
+    "wof:lastmodified":1491885267,
     "wof:name":"Financi\u00e8re Sba (suisse) Sa",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

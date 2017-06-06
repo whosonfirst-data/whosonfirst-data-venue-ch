@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.600230217,47.360244751,8.600230217,47.360244751",
     "geom:latitude":47.360245,
     "geom:longitude":8.60023,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"568e3e2993ac4b1aa5798c5a206daba5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074941483
         }
     ],
     "wof:id":1074941483,
-    "wof:lastmodified":1473732438,
+    "wof:lastmodified":1491936813,
     "wof:name":"Katia Selection, Glauser K.e. & Co",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

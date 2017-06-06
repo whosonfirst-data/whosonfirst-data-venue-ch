@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.431702,46.947319,7.431702,46.947319",
     "geom:latitude":46.947319,
     "geom:longitude":7.431702,
@@ -24,11 +25,13 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800199,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800199
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"c39aa1e01534e4e33c56e1619c1d41c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85800199,
             "region_id":85682381,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":203252215,
-    "wof:lastmodified":1473798208,
+    "wof:lastmodified":1491916576,
     "wof:name":"Dr.med. Marianne Rentsch \u00c4rztin F\u00fcr Allg.medizin Fmh",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",

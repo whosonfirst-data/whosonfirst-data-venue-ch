@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5615329742,47.4267845154,8.5615329742,47.4267845154",
     "geom:latitude":47.426785,
     "geom:longitude":8.561533,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"09295a493580326920b3375c2634e8ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075052941
         }
     ],
     "wof:id":1075052941,
-    "wof:lastmodified":1473738420,
+    "wof:lastmodified":1491915895,
     "wof:name":"Studinger",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

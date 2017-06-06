@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.6580870152,46.1205368042,0.6580870152,46.1205368042",
     "geom:latitude":46.120537,
     "geom:longitude":0.658087,
@@ -18,17 +19,40 @@
     "sg:postcode":"1700",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683185,
+        102191581,
+        404227985,
+        404405819,
+        85633147,
+        1108826385,
+        101766957,
+        136253037,
+        102064363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45U9174R74YpJn92hVBWmH_46.120537_0.658087@1306268685"
     },
     "wof:country":"CH",
     "wof:created":1473737098,
-    "wof:geomhash":"1d6ec59c0de55284d539ca0b205bff05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5bea66c5e213c92175198a6a07867d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064363,
+            "empire_id":136253037,
+            "localadmin_id":404405819,
+            "locality_id":101766957,
+            "macrocounty_id":404227985,
+            "macroregion_id":1108826385,
+            "region_id":85683185,
+            "venue_id":1075027281
+        }
+    ],
     "wof:id":1075027281,
-    "wof:lastmodified":1473737098,
+    "wof:lastmodified":1496775369,
     "wof:name":"Farima S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

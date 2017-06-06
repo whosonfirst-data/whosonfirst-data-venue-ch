@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5647878647,46.0802574158,6.5647878647,46.0802574158",
     "geom:latitude":46.080257,
     "geom:longitude":6.564788,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 26 924 60 62",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        85633147,
+        404392625,
+        404227961,
+        1108826389,
+        136253037,
+        102066117
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lWaKMHtAw4eu7Da5Tul2x_46.080257_6.564788@1306268720"
     },
     "wof:country":"CH",
     "wof:created":1473748760,
-    "wof:geomhash":"78adb7afe1a879981e9b0cbe0e12c89c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51ce9483aca7b6661b1687b33312394e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066117,
+            "empire_id":136253037,
+            "localadmin_id":404392625,
+            "locality_id":-1,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075278835
+        }
+    ],
     "wof:id":1075278835,
-    "wof:lastmodified":1473748760,
+    "wof:lastmodified":1496779568,
     "wof:name":"Morier Jean-robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

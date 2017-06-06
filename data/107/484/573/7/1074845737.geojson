@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9685101509,46.1791687012,5.9685101509,46.1791687012",
     "geom:latitude":46.179169,
     "geom:longitude":5.96851,
@@ -19,17 +20,39 @@
     "sg:postcode":"7000",
     "sg:province":"Graubunden",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        85633147,
+        404352559,
+        404228005,
+        1108826389,
+        136253037,
+        102066537
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tl80mNZvIAsucAzPRaHuS_46.179169_5.968510@1306268660"
     },
     "wof:country":"CH",
     "wof:created":1473727724,
-    "wof:geomhash":"535d7f1725315afd1f6c163a8de211f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10f14bf6324d98c59ce1174e737f04b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066537,
+            "empire_id":136253037,
+            "localadmin_id":404352559,
+            "locality_id":-1,
+            "macrocounty_id":404228005,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1074845737
+        }
+    ],
     "wof:id":1074845737,
-    "wof:lastmodified":1473727724,
+    "wof:lastmodified":1496781071,
     "wof:name":"Atelier 022, Cheval S.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

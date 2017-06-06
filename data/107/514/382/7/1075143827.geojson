@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.165733337,34.0966873169,-118.165733337,34.0966873169",
     "geom:latitude":34.096687,
     "geom:longitude":-118.165733,
@@ -31,9 +32,12 @@
         85688637,
         102191575,
         85633793,
-        85923745,
+        85923795,
         102086957,
-        85848653
+        85848653,
+        "85817715",
+        1108692437,
+        85923517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,26 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923745,
+            "locality_id":85923795,
             "neighbourhood_id":85848653,
+            "region_id":85688637,
+            "venue_id":1075143827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85817715",
             "region_id":85688637,
             "venue_id":1075143827
         }
     ],
     "wof:id":1075143827,
-    "wof:lastmodified":1473742812,
+    "wof:lastmodified":1488933344,
     "wof:name":"Pittet Julien Et Metral Rapha\u00ebl",
-    "wof:parent_id":85848653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

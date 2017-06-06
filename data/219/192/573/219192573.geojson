@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.46434,46.941521,7.46434,46.941521",
     "geom:latitude":46.941521,
     "geom:longitude":7.46434,
@@ -24,11 +25,13 @@
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799857,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85799857
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"eae8468531ca5e7b95a5e950f6e9b679",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85799857,
             "region_id":85682381,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":219192573,
-    "wof:lastmodified":1473798065,
+    "wof:lastmodified":1491911138,
     "wof:name":"Casal Sa",
     "wof:parent_id":85799857,
     "wof:placetype":"venue",

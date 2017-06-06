@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4327888489,46.961856842,7.4327888489,46.961856842",
     "geom:latitude":46.961857,
     "geom:longitude":7.432789,
@@ -20,14 +21,14 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85682381,
+        85633051,
+        85800137,
+        102062861,
         85799849,
         102191581,
         404567985,
-        85633051,
-        101748453,
-        102062861,
-        85682381,
-        85800137
+        101748453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,6 +39,13 @@
     "wof:geomhash":"041665761184c71619c5d770afb44b1b",
     "wof:hierarchy":[
         {
+            "country_id":85633051,
+            "county_id":102062861,
+            "neighbourhood_id":85800137,
+            "region_id":85682381,
+            "venue_id":1075178135
+        },
+        {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
@@ -46,19 +54,12 @@
             "neighbourhood_id":85799849,
             "region_id":85682381,
             "venue_id":1075178135
-        },
-        {
-            "country_id":85633051,
-            "county_id":102062861,
-            "neighbourhood_id":85800137,
-            "region_id":85682381,
-            "venue_id":1075178135
         }
     ],
     "wof:id":1075178135,
-    "wof:lastmodified":1473744372,
+    "wof:lastmodified":1491909200,
     "wof:name":"Schweiz.verband F\u00fcr Sport In Der Schule Svss",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

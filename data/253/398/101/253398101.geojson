@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.095895,46.202435,6.095895,46.202435",
     "geom:latitude":46.202435,
     "geom:longitude":6.095895,
@@ -24,11 +25,13 @@
     "sg:province":"Basel-Landschaft",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85800147,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85800147
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"fcf37caa704452fd48465fbf862be9eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85800147,
             "region_id":85682291,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":253398101,
-    "wof:lastmodified":1473798347,
+    "wof:lastmodified":1491938237,
     "wof:name":"Janine Perriraz Patronic",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",

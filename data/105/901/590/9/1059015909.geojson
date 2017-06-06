@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6939229965,45.8731994629,5.6939229965,45.8731994629",
     "geom:latitude":45.873199,
     "geom:longitude":5.693923,
@@ -18,17 +19,40 @@
     "sg:postcode":"1373",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        404227585,
+        404394727,
+        85633147,
+        1108826389,
+        101894015,
+        136253037,
+        102065803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wv7jzEYTV617Wu3P1Civy_45.873199_5.693923@1306268646"
     },
     "wof:country":"CH",
     "wof:created":1473722722,
-    "wof:geomhash":"7ed6d8cfd494b57defb75fdde5b88632",
-    "wof:hierarchy":[],
+    "wof:geomhash":"939562214c8228f62d77889ab0e18901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065803,
+            "empire_id":136253037,
+            "localadmin_id":404394727,
+            "locality_id":101894015,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1059015909
+        }
+    ],
     "wof:id":1059015909,
-    "wof:lastmodified":1473722722,
+    "wof:lastmodified":1496779612,
     "wof:name":"Waldmann R.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

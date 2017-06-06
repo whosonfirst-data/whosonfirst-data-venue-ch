@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.466116,46.947121,7.466116,46.947121",
     "geom:latitude":46.947121,
     "geom:longitude":7.466116,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799857,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800503,
-        85799857
+        85682381,
+        85800503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +50,30 @@
     "wof:geomhash":"d404eeb8a5ce92f2ec41ffcc3a74f631",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85800503,
+            "neighbourhood_id":85799857,
             "region_id":85682381,
             "venue_id":169754879
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85799857,
+            "neighbourhood_id":85800503,
             "region_id":85682381,
             "venue_id":169754879
         }
     ],
     "wof:id":169754879,
-    "wof:lastmodified":1473798327,
+    "wof:lastmodified":1491911142,
     "wof:name":"French Embassy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

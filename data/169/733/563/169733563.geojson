@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.149969,46.202358,6.149969,46.202358",
     "geom:latitude":46.202358,
     "geom:longitude":6.149969,
@@ -24,11 +25,13 @@
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b92074233a9afddb3a3bc4f46f77643b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169733563,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1491885305,
     "wof:name":"Union Suisse Assurances Gen\u00e8ve-direction G\u00e9n\u00e9rale",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

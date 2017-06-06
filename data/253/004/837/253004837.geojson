@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.485593,46.931309,7.485593,46.931309",
     "geom:latitude":46.931309,
     "geom:longitude":7.485593,
@@ -23,11 +24,13 @@
     "sg:postcode":"8029",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799949,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85799949
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"6ea88956491348368f558a4b33d1e1c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85799949,
             "region_id":85682381,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":253004837,
-    "wof:lastmodified":1473798028,
+    "wof:lastmodified":1491893114,
     "wof:name":"Alles Blume",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",

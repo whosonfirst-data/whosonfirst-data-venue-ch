@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5793466568,47.4282913208,8.5793466568,47.4282913208",
     "geom:latitude":47.428291,
     "geom:longitude":8.579347,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"12211fd6df189fc63a8379ed6c787219",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075119441
         }
     ],
     "wof:id":1075119441,
-    "wof:lastmodified":1473741745,
+    "wof:lastmodified":1491915846,
     "wof:name":"Tq-parkett- U. Bodenbel\u00e4ge Gmbh",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

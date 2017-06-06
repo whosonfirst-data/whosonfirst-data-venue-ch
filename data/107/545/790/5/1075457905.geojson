@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.2840699852,43.9694290161,-0.2840699852,43.9694290161",
     "geom:latitude":43.969429,
     "geom:longitude":-0.28407,
@@ -18,17 +19,39 @@
     "sg:postcode":"4418",
     "sg:province":"Basel-Landschaft",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683183,
+        102191581,
+        85633147,
+        404394367,
+        404227885,
+        1108826385,
+        136253037,
+        102069491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b4C7l41OOAY0kMKoH5pzo_43.969429_-0.284070@1306268746"
     },
     "wof:country":"CH",
     "wof:created":1473756541,
-    "wof:geomhash":"fa902d5c72d2698c323f75ac36b8e2b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccf1c1ecfc4c18a13c3fc46a4ffa08c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069491,
+            "empire_id":136253037,
+            "localadmin_id":404394367,
+            "locality_id":-1,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
+            "region_id":85683183,
+            "venue_id":1075457905
+        }
+    ],
     "wof:id":1075457905,
-    "wof:lastmodified":1473756541,
+    "wof:lastmodified":1496776469,
     "wof:name":"Restaurant R\u00f6ssli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

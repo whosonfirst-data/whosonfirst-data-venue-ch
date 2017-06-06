@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7051260471,48.7679672241,3.7051260471,48.7679672241",
     "geom:latitude":48.767967,
     "geom:longitude":3.705126,
@@ -19,17 +20,40 @@
     "sg:postcode":"4000",
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683405,
+        102191581,
+        404227909,
+        404400623,
+        85633147,
+        1108826391,
+        101881289,
+        136253037,
+        102068981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MKEQxvGvR4v6LLmVfNFKJ_48.767967_3.705126@1306268674"
     },
     "wof:country":"CH",
     "wof:created":1473732713,
-    "wof:geomhash":"1676fc39b82f76d88519f0bd5d17e11e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33eab8dabe74b12b43591e58d8bf5017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068981,
+            "empire_id":136253037,
+            "localadmin_id":404400623,
+            "locality_id":101881289,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
+            "region_id":85683405,
+            "venue_id":1074946799
+        }
+    ],
     "wof:id":1074946799,
-    "wof:lastmodified":1473732713,
+    "wof:lastmodified":1496784435,
     "wof:name":"Aeby Tec Agce G\u00e9n.habimat T\u00e9l.modulaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

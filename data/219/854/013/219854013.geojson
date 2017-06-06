@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.166712,46.193359,6.166712,46.193359",
     "geom:latitude":46.193359,
     "geom:longitude":6.166712,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85799877,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85799877
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"bbd85defdd6d538478f9ff07134fb85a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85799877,
             "region_id":85682291,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":219854013,
-    "wof:lastmodified":1473798442,
+    "wof:lastmodified":1491915747,
     "wof:name":"Restaurant-bar Florissant",
     "wof:parent_id":85799877,
     "wof:placetype":"venue",

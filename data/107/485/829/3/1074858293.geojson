@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6845641136,48.3388366699,6.6845641136,48.3388366699",
     "geom:latitude":48.338837,
     "geom:longitude":6.684564,
@@ -19,17 +20,39 @@
     "sg:postcode":"2830",
     "sg:province":"Jura",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683223,
+        102191581,
+        85633147,
+        404360099,
+        404227779,
+        1108826391,
+        136253037,
+        102068185
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QrlxTuw3LHPl7S9gWKSGz_48.338837_6.684564@1306268662"
     },
     "wof:country":"CH",
     "wof:created":1473728323,
-    "wof:geomhash":"f92d5b6c48fc0c0be46f9d32b67235e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9abad56c9a0736b82879ff43c47ec5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068185,
+            "empire_id":136253037,
+            "localadmin_id":404360099,
+            "locality_id":-1,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
+            "region_id":85683223,
+            "venue_id":1074858293
+        }
+    ],
     "wof:id":1074858293,
-    "wof:lastmodified":1473728323,
+    "wof:lastmodified":1496784435,
     "wof:name":"Soci\u00e9t\u00e9 Coop\u00e9rative D'habitation Le Gl\u00e2ney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

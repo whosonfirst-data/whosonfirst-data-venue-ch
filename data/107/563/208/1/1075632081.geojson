@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5809240341,46.0599975586,6.5809240341,46.0599975586",
     "geom:latitude":46.059998,
     "geom:longitude":6.580924,
@@ -17,17 +18,40 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        404227961,
+        404392625,
+        85633147,
+        1108826389,
+        101829013,
+        136253037,
+        102066117
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28baaaCYUdPCrMLoVUFol8_46.059998_6.580924@1306268769"
     },
     "wof:country":"CH",
     "wof:created":1473764248,
-    "wof:geomhash":"3e72d9cf9df1f90661e0feaf5f83c3b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"604e228cc7113434d06e0cb1c396b4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066117,
+            "empire_id":136253037,
+            "localadmin_id":404392625,
+            "locality_id":101829013,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075632081
+        }
+    ],
     "wof:id":1075632081,
-    "wof:lastmodified":1473764248,
+    "wof:lastmodified":1496782266,
     "wof:name":"H\u00f4tel Du Chamois, Jean-fran\u00e7ois Mollien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

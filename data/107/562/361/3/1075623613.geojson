@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4830198288,52.5784187317,13.4830198288,52.5784187317",
     "geom:latitude":52.578419,
     "geom:longitude":13.48302,
@@ -19,12 +20,13 @@
     "sg:province":"Jura",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682499,
+        420784249,
         102191581,
         85633111,
         101748799,
+        1108815539,
         102063945,
-        85928743
+        85682499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +37,20 @@
     "wof:geomhash":"cb366b390aea40b5ee8ecdf5693833c3",
     "wof:hierarchy":[
         {
+            "borough_id":1108815539,
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063945,
             "locality_id":101748799,
-            "neighbourhood_id":85928743,
+            "neighbourhood_id":420784249,
             "region_id":85682499,
             "venue_id":1075623613
         }
     ],
     "wof:id":1075623613,
-    "wof:lastmodified":1473763853,
+    "wof:lastmodified":1489090923,
     "wof:name":"Edition Amalia Derungs Isabelle",
-    "wof:parent_id":85928743,
+    "wof:parent_id":420784249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

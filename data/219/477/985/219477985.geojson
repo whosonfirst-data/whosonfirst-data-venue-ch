@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.148845,46.203617,6.148845,46.203617",
     "geom:latitude":46.203617,
     "geom:longitude":6.148845,
@@ -29,11 +30,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"978cabdc27349b7e45a44484cce9e503",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219477985,
-    "wof:lastmodified":1473798322,
+    "wof:lastmodified":1491885258,
     "wof:name":"Banco Urquijo Sa",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

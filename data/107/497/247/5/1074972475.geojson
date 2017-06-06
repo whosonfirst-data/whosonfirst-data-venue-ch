@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5953941345,47.3570594788,8.5953941345,47.3570594788",
     "geom:latitude":47.357059,
     "geom:longitude":8.595394,
@@ -21,11 +22,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
+        101748463,
+        102063071,
         85800653,
-        102062933,
-        85800647,
-        102062769
+        85800647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,24 +38,28 @@
     "wof:geomhash":"719169353284c90d02e344e54617af6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074972475
         },
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062769,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800647,
             "region_id":85682309,
             "venue_id":1074972475
         }
     ],
     "wof:id":1074972475,
-    "wof:lastmodified":1473734159,
+    "wof:lastmodified":1491936734,
     "wof:name":"M\u00e9groz-glas-gravur Elsbeth Rhonheimer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

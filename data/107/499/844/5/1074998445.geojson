@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5943660736,47.4498062134,8.5943660736,47.4498062134",
     "geom:latitude":47.449806,
     "geom:longitude":8.594366,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"374f3f9f8a00564c3bc7dc79a4964273",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1074998445
         }
     ],
     "wof:id":1074998445,
-    "wof:lastmodified":1473735686,
+    "wof:lastmodified":1491915910,
     "wof:name":"Rt Sun",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

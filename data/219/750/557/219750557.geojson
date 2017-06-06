@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.570279,47.450714,8.570279,47.450714",
     "geom:latitude":47.450714,
     "geom:longitude":8.570279,
@@ -29,6 +30,7 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -43,19 +45,18 @@
     "wof:geomhash":"52283eec84f9ccfa0d8e8055125b172b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":219750557
         }
     ],
     "wof:id":219750557,
-    "wof:lastmodified":1473798401,
+    "wof:lastmodified":1491916051,
     "wof:name":"Union Bank Of Switzerland",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

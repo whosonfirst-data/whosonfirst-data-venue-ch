@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6390867233,47.3706512451,8.6390867233,47.3706512451",
     "geom:latitude":47.370651,
     "geom:longitude":8.639087,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"067b347eeaf4af5b12e9abae24e65777",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074912245
         }
     ],
     "wof:id":1074912245,
-    "wof:lastmodified":1473731094,
+    "wof:lastmodified":1491936850,
     "wof:name":"Hug Ag Visuelle Realisation",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

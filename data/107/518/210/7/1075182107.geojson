@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5899524689,47.3609313965,8.5899524689,47.3609313965",
     "geom:latitude":47.360931,
     "geom:longitude":8.589952,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"f1bd6cef4d5dfbdfe474476d728808ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075182107
         }
     ],
     "wof:id":1075182107,
-    "wof:lastmodified":1473744537,
+    "wof:lastmodified":1491936845,
     "wof:name":"Ferienstiftung Der Bally (schweiz) Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

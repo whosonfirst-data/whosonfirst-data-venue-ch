@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3184738159,46.0690612793,6.3184738159,46.0690612793",
     "geom:latitude":46.069061,
     "geom:longitude":6.318474,
@@ -18,17 +19,40 @@
     "sg:postcode":"1815",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        404227961,
+        404398009,
+        85633147,
+        1108826389,
+        101827615,
+        136253037,
+        102067469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LTBfsXCZQx7oAxL7rpjKF_46.069061_6.318474@1306268655"
     },
     "wof:country":"CH",
     "wof:created":1473725760,
-    "wof:geomhash":"ab168c0017c73982affdae9043ebe82b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"197ec5595f34e24e6480c1f5db14f858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067469,
+            "empire_id":136253037,
+            "localadmin_id":404398009,
+            "locality_id":101827615,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1074807591
+        }
+    ],
     "wof:id":1074807591,
-    "wof:lastmodified":1473725760,
+    "wof:lastmodified":1496779554,
     "wof:name":"Psr S\u00e9curit\u00e9, Fogoz D.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6040344238,47.3489341736,8.6040344238,47.3489341736",
     "geom:latitude":47.348934,
     "geom:longitude":8.604034,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"2a61159a5a99934812cb3b764a6726dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075195885
         }
     ],
     "wof:id":1075195885,
-    "wof:lastmodified":1473745151,
+    "wof:lastmodified":1491936722,
     "wof:name":"Stiftung Z\u00fcrcher Kerzenziehen",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

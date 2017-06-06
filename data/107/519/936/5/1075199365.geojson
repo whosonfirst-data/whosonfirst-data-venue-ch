@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1425700188,45.8592376709,6.1425700188,45.8592376709",
     "geom:latitude":45.859238,
     "geom:longitude":6.14257,
@@ -28,17 +29,40 @@
         "boring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        404227747,
+        404394665,
+        85633147,
+        1108826389,
+        101768007,
+        136253037,
+        102070245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VoGvnkr4qhOvXtxYNkKmP_45.859238_6.142570@1306268709"
     },
     "wof:country":"CH",
     "wof:created":1473745317,
-    "wof:geomhash":"8380ec00efac6c7fb939023ed7f63a16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe67c53ca77ed311b95fc3ad73a89990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070245,
+            "empire_id":136253037,
+            "localadmin_id":404394665,
+            "locality_id":101768007,
+            "macrocounty_id":404227747,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075199365
+        }
+    ],
     "wof:id":1075199365,
-    "wof:lastmodified":1473745317,
+    "wof:lastmodified":1496779630,
     "wof:name":"Forb\u00e9ton-betonbohr Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

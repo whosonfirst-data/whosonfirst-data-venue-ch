@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6396865845,47.3542251587,8.6396865845,47.3542251587",
     "geom:latitude":47.354225,
     "geom:longitude":8.639687,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"d9baa9c29d27f132eeee0df608b743fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074993323
         }
     ],
     "wof:id":1074993323,
-    "wof:lastmodified":1473735406,
+    "wof:lastmodified":1491936840,
     "wof:name":"Roulet George",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

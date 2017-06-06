@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6289396286,47.3682327271,8.6289396286,47.3682327271",
     "geom:latitude":47.368233,
     "geom:longitude":8.62894,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"1b30f3830b3dbdfc72a33ee0c8f4e197",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075505279
         }
     ],
     "wof:id":1075505279,
-    "wof:lastmodified":1473758701,
+    "wof:lastmodified":1491936810,
     "wof:name":"Mindlend Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

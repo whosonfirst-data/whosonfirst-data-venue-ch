@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.569738,47.433231,8.569738,47.433231",
     "geom:latitude":47.433231,
     "geom:longitude":8.569738,
@@ -24,6 +25,7 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -37,19 +39,18 @@
     "wof:geomhash":"2856e2f6206e63a649af5d77ca0e6026",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":219940721
         }
     ],
     "wof:id":219940721,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1491915877,
     "wof:name":"Bruno Mayer Mabu-montage",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

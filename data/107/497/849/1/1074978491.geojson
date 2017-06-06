@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5872821808,47.3608627319,8.5872821808,47.3608627319",
     "geom:latitude":47.360863,
     "geom:longitude":8.587282,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"6f17a0ef9c3a989b9b51ad73b6803b3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074978491
         }
     ],
     "wof:id":1074978491,
-    "wof:lastmodified":1473734514,
+    "wof:lastmodified":1491936726,
     "wof:name":"B\u00e4r Besen, B\u00fcrsten Und Pinselvertrieb",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

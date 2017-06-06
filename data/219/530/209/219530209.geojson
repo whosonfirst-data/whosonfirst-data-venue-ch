@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.149968,46.203594,6.149968,46.203594",
     "geom:latitude":46.203594,
     "geom:longitude":6.149968,
@@ -29,11 +30,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:brand_id":420574121,
     "wof:breaches":[],
@@ -44,9 +47,10 @@
     "wof:geomhash":"050f82f46df4838c781f8e2d889a933d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":219530209,
-    "wof:lastmodified":1473798333,
+    "wof:lastmodified":1491885261,
     "wof:name":"Commerzbank Ag",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

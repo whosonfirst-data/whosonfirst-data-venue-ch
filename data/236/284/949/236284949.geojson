@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.019922,45.440231,6.019922,45.440231",
     "geom:latitude":45.440231,
     "geom:longitude":6.019922,
@@ -24,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683427,
+        102191581,
+        404227669,
+        404391599,
         85633147,
+        1108826389,
         101769195,
+        136253037,
         102066033
     ],
     "wof:breaches":[],
@@ -33,20 +39,23 @@
         "sg:id":"SG_0U14NL9jrtCamFAAMIHTul_45.440231_6.019922@1306268633"
     },
     "wof:country":"CH",
-    "wof:geomhash":"114a92065d24adc06acdd8b3d54ebb6d",
+    "wof:geomhash":"089a0f23becc23e593ca015ba2539c43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066033,
+            "empire_id":136253037,
+            "localadmin_id":404391599,
             "locality_id":101769195,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":236284949
         }
     ],
     "wof:id":236284949,
-    "wof:lastmodified":1473798272,
+    "wof:lastmodified":1496779805,
     "wof:name":"Alpinexpress, Evans David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

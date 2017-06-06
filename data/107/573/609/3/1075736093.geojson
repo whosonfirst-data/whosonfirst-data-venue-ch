@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6361179352,47.3626785278,8.6361179352,47.3626785278",
     "geom:latitude":47.362679,
     "geom:longitude":8.636118,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,17 @@
     "wof:geomhash":"6d11ec9f4b93d67839fc24fe7a82cc84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075736093
         }
     ],
     "wof:id":1075736093,
-    "wof:lastmodified":1473768977,
+    "wof:lastmodified":1491936783,
     "wof:name":"Markus Herzog Axa Versicherungen",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

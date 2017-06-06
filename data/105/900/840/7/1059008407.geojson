@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9692630768,46.1101913452,5.9692630768,46.1101913452",
     "geom:latitude":46.110191,
     "geom:longitude":5.969263,
@@ -19,17 +20,39 @@
     "sg:postcode":"1636",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        85633147,
+        404386437,
+        404228155,
+        1108826389,
+        136253037,
+        102068295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UfZ8EHHDbqHjUGfKQ2bna_46.110191_5.969263@1306268645"
     },
     "wof:country":"CH",
     "wof:created":1473722361,
-    "wof:geomhash":"8597bba2b0baa2b4f429dc8c498d723a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f761f2abf12cb31cd9dc55eea6e581de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068295,
+            "empire_id":136253037,
+            "localadmin_id":404386437,
+            "locality_id":-1,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1059008407
+        }
+    ],
     "wof:id":1059008407,
-    "wof:lastmodified":1473722361,
+    "wof:lastmodified":1496781051,
     "wof:name":"Fran\u00e7ois Prin Machines \u00e0 Coudre & Mercerie Machines Industrelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

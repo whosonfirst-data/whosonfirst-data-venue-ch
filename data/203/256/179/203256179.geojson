@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.568155,47.434322,8.568155,47.434322",
     "geom:latitude":47.434322,
     "geom:longitude":8.568155,
@@ -24,6 +25,7 @@
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -37,19 +39,18 @@
     "wof:geomhash":"38e76f0b2b60348b6e9e065ba8190667",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":203256179
         }
     ],
     "wof:id":203256179,
-    "wof:lastmodified":1473798229,
+    "wof:lastmodified":1491916004,
     "wof:name":"Dr.med. Peter Meier Arzt F\u00fcr Allgemeine Medizin",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

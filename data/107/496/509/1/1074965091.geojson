@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4505238533,45.4626617432,6.4505238533,45.4626617432",
     "geom:latitude":45.462662,
     "geom:longitude":6.450524,
@@ -18,17 +19,39 @@
     "sg:postcode":"1926",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683265,
+        102191581,
+        85633147,
+        404390921,
+        404227745,
+        1108826389,
+        136253037,
+        102067975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w8DEIaSglIXX21o37AHT8_45.462662_6.450524@1306268676"
     },
     "wof:country":"CH",
     "wof:created":1473733813,
-    "wof:geomhash":"f7742fa02d8ff080ac4a8af9847a327c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5def38a95078cda2d7e9653f0b07a2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067975,
+            "empire_id":136253037,
+            "localadmin_id":404390921,
+            "locality_id":-1,
+            "macrocounty_id":404227745,
+            "macroregion_id":1108826389,
+            "region_id":85683265,
+            "venue_id":1074965091
+        }
+    ],
     "wof:id":1074965091,
-    "wof:lastmodified":1473733813,
+    "wof:lastmodified":1496781934,
     "wof:name":"Th\u00e9taz Nicolas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6396903992,47.3704223633,8.6396903992,47.3704223633",
     "geom:latitude":47.370422,
     "geom:longitude":8.63969,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"c3dbd25c4a03e4a73018df02c71b0429",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075521907
         }
     ],
     "wof:id":1075521907,
-    "wof:lastmodified":1473759434,
+    "wof:lastmodified":1491936770,
     "wof:name":"E-sphere Gmbh Dienstleistungen Im Bereich Der Informations-technologie U. Im Bereich Der Neuen Medien Usw",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5959253311,47.3595962524,8.5959253311,47.3595962524",
     "geom:latitude":47.359596,
     "geom:longitude":8.595925,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"93282d61841a5edf2d4b7a65686310bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075124635
         }
     ],
     "wof:id":1075124635,
-    "wof:lastmodified":1473741944,
+    "wof:lastmodified":1491936734,
     "wof:name":"Meier Willi Blechbearbeiungsmaschinen, Werkzeuge, Usw.; Handel",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

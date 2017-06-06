@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6776900291,43.3933601379,3.6776900291,43.3933601379",
     "geom:latitude":43.39336,
     "geom:longitude":3.67769,
@@ -29,17 +30,38 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101831695,
+        136253037,
+        102072199
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aKIkqvVmRTD4wDMs22n2i_43.393360_3.677690@1306268701"
     },
     "wof:country":"CH",
     "wof:created":1473742653,
-    "wof:geomhash":"2bbf3252f3de36e295d383d7b684771a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19dbfdbda60a7dcd359d4a315bbbad81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072199,
+            "empire_id":136253037,
+            "locality_id":101831695,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
+            "region_id":85683419,
+            "venue_id":1075140287
+        }
+    ],
     "wof:id":1075140287,
-    "wof:lastmodified":1473742653,
+    "wof:lastmodified":1496777588,
     "wof:name":"H\u00f4tel Bellevue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

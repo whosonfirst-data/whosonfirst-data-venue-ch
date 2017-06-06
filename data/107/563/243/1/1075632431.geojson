@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.5276100039,44.4152908325,0.5276100039,44.4152908325",
     "geom:latitude":44.415291,
     "geom:longitude":0.52761,
@@ -18,17 +19,39 @@
     "sg:postcode":"8048",
     "sg:province":"Z\u00fcrich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683341,
+        102191581,
+        85633147,
+        404425163,
+        404228101,
+        1108826385,
+        136253037,
+        102068645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01UiEsu7GWEG081mC1UMD3_44.415291_0.527610@1306268769"
     },
     "wof:country":"CH",
     "wof:created":1473764260,
-    "wof:geomhash":"fd98575d0a33484aead499a7aec0386f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cb7a25d02286a529f6b7153b2b50dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068645,
+            "empire_id":136253037,
+            "localadmin_id":404425163,
+            "locality_id":-1,
+            "macrocounty_id":404228101,
+            "macroregion_id":1108826385,
+            "region_id":85683341,
+            "venue_id":1075632431
+        }
+    ],
     "wof:id":1075632431,
-    "wof:lastmodified":1473764260,
+    "wof:lastmodified":1496776569,
     "wof:name":"Ifa The Knowledge Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

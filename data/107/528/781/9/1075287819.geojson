@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5788202286,44.5273094177,5.5788202286,44.5273094177",
     "geom:latitude":44.527309,
     "geom:longitude":5.57882,
@@ -17,17 +18,39 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"2205",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683523,
+        102191581,
+        85633147,
+        404395687,
+        404227639,
+        1108826389,
+        136253037,
+        102066789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5orzlBU3X5axWAlAu8vlVx_44.527309_5.578820@1306268722"
     },
     "wof:country":"CH",
     "wof:created":1473749157,
-    "wof:geomhash":"d886ca342fa852b1e00c90b4b80ce447",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6813f657d02f80b908eacef230006b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066789,
+            "empire_id":136253037,
+            "localadmin_id":404395687,
+            "locality_id":-1,
+            "macrocounty_id":404227639,
+            "macroregion_id":1108826389,
+            "region_id":85683523,
+            "venue_id":1075287819
+        }
+    ],
     "wof:id":1075287819,
-    "wof:lastmodified":1473749157,
+    "wof:lastmodified":1496781922,
     "wof:name":"Atelier Des Pr\u00e9s-devant Laurent Maccabez Chopard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

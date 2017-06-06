@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.470729,46.944687,7.470729,46.944687",
     "geom:latitude":46.944687,
     "geom:longitude":7.470729,
@@ -24,12 +25,14 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799857,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800503,
-        85799857
+        85682381,
+        85800503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +42,30 @@
     "wof:geomhash":"9d2277aa313c93dee02f7a78c65cf365",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85800503,
+            "neighbourhood_id":85799857,
             "region_id":85682381,
             "venue_id":202762015
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85799857,
+            "neighbourhood_id":85800503,
             "region_id":85682381,
             "venue_id":202762015
         }
     ],
     "wof:id":202762015,
-    "wof:lastmodified":1473798267,
+    "wof:lastmodified":1491911125,
     "wof:name":"Wb-bauleitungen Wisniewski Bruno Bauleitung, -beratung, -projektierung Usw.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

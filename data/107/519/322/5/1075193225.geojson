@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5592794418,47.3830909729,8.5592794418,47.3830909729",
     "geom:latitude":47.383091,
     "geom:longitude":8.559279,
@@ -21,11 +22,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
-        85633051,
-        85800463,
-        102063071,
         102191581,
+        85633051,
         101748463,
+        102063071,
         85799903
     ],
     "wof:breaches":[],
@@ -37,13 +37,6 @@
     "wof:geomhash":"5be5ab0aeda3503ccc55a2ce9b525fb8",
     "wof:hierarchy":[
         {
-            "country_id":85633051,
-            "county_id":102063071,
-            "neighbourhood_id":85800463,
-            "region_id":85682309,
-            "venue_id":1075193225
-        },
-        {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
@@ -54,9 +47,9 @@
         }
     ],
     "wof:id":1075193225,
-    "wof:lastmodified":1473745038,
+    "wof:lastmodified":1491936216,
     "wof:name":"Stiftung Der Gottfried-keller-loge I.o.o.f. Z\u00fcrich",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.540225029,47.4191589355,8.540225029,47.4191589355",
     "geom:latitude":47.419159,
     "geom:longitude":8.540225,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"ecb3cf60fc8596876c2a079956e75852",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075200949
         }
     ],
     "wof:id":1075200949,
-    "wof:lastmodified":1473745396,
+    "wof:lastmodified":1491915974,
     "wof:name":"Heinz Frei Kaminfegergesch\u00e4ft",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

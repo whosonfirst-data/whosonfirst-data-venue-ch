@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5781517029,47.4318885803,8.5781517029,47.4318885803",
     "geom:latitude":47.431889,
     "geom:longitude":8.578152,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"905c44d79ade4987299ad4d0804380e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075507865
         }
     ],
     "wof:id":1075507865,
-    "wof:lastmodified":1473758805,
+    "wof:lastmodified":1491915958,
     "wof:name":"R\u00fcegger Balz",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

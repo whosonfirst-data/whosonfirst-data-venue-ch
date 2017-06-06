@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5830545425,47.4487495422,8.5830545425,47.4487495422",
     "geom:latitude":47.44875,
     "geom:longitude":8.583055,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"e107df3e3afda42eeb73c231ce7fd534",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075543565
         }
     ],
     "wof:id":1075543565,
-    "wof:lastmodified":1473760317,
+    "wof:lastmodified":1491915860,
     "wof:name":"Indcop Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

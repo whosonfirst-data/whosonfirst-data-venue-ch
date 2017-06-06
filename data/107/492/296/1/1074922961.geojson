@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.4120500088,13.166179657,-3.4120500088,13.166179657",
     "geom:latitude":13.16618,
     "geom:longitude":-3.41205,
@@ -18,17 +19,32 @@
     "sg:postcode":"6340",
     "sg:province":"Zug",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85668863,
+        102191573,
+        85632213,
+        890421461
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_212iCDUk6jIA8ONPjIJX3A_13.166180_-3.412050@1306268671"
     },
     "wof:country":"CH",
     "wof:created":1473731624,
-    "wof:geomhash":"fc16b8fc1c4c33b5e28d2d0465cc8ef7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cd080b125d11f9843af93479c8b16fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85668863,
+            "venue_id":1074922961
+        }
+    ],
     "wof:id":1074922961,
-    "wof:lastmodified":1473731624,
+    "wof:lastmodified":1494285032,
     "wof:name":"Polyrama Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6294193268,47.358291626,8.6294193268,47.358291626",
     "geom:latitude":47.358292,
     "geom:longitude":8.629419,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"f333a363b4b1076d6622e8bb83cedf3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075256129
         }
     ],
     "wof:id":1075256129,
-    "wof:lastmodified":1473747804,
+    "wof:lastmodified":1491936848,
     "wof:name":"Liquid Graphics Gmbh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

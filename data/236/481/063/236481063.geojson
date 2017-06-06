@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.148415,46.202274,6.148415,46.202274",
     "geom:latitude":46.202274,
     "geom:longitude":6.148415,
@@ -23,11 +24,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"3ceda23f920678fba2d17c8efa68da50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":236481063,
-    "wof:lastmodified":1473798393,
+    "wof:lastmodified":1491885254,
     "wof:name":"Godat Shipping",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

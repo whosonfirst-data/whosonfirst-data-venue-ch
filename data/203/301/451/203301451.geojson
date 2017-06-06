@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.465458,46.946732,7.465458,46.946732",
     "geom:latitude":46.946732,
     "geom:longitude":7.465458,
@@ -24,12 +25,14 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799857,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800503,
-        85799857
+        85682381,
+        85800503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +42,30 @@
     "wof:geomhash":"a25b7f9a90ec50706593da5ce7d61881",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85800503,
+            "neighbourhood_id":85799857,
             "region_id":85682381,
             "venue_id":203301451
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
-            "neighbourhood_id":85799857,
+            "neighbourhood_id":85800503,
             "region_id":85682381,
             "venue_id":203301451
         }
     ],
     "wof:id":203301451,
-    "wof:lastmodified":1473798265,
+    "wof:lastmodified":1491911137,
     "wof:name":"Dr.med.daniel Wirz Arzt F.allgemeine Medizin Fmh",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

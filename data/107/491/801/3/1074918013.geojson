@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.634976387,47.3732719421,8.634976387,47.3732719421",
     "geom:latitude":47.373272,
     "geom:longitude":8.634976,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"6a5b5d9d6771a5821224fbdfa49938a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074918013
         }
     ],
     "wof:id":1074918013,
-    "wof:lastmodified":1473731365,
+    "wof:lastmodified":1491936828,
     "wof:name":"Hans Weidmann G\u00e4rtnerei",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

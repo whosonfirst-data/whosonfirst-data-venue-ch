@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5410175323,47.4184989929,8.5410175323,47.4184989929",
     "geom:latitude":47.418499,
     "geom:longitude":8.541018,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"37fe42b4798923f3dcdd74891b8617b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075769281
         }
     ],
     "wof:id":1075769281,
-    "wof:lastmodified":1473770533,
+    "wof:lastmodified":1491916081,
     "wof:name":"Stv Kurssekretariat Schweiz.treuh\u00e4nderverband",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

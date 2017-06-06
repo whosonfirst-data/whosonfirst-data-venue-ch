@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.568706,47.452812,8.568706,47.452812",
     "geom:latitude":47.452812,
     "geom:longitude":8.568706,
@@ -33,6 +34,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -46,19 +48,18 @@
     "wof:geomhash":"939b037c5bdbbc9fa8926c618b273e46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":185843383
         }
     ],
     "wof:id":185843383,
-    "wof:lastmodified":1473798213,
+    "wof:lastmodified":1491916004,
     "wof:name":"Total Freight Management Gmbh",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.9587000012,45.9348182678,-0.9587000012,45.9348182678",
     "geom:latitude":45.934818,
     "geom:longitude":-0.9587,
@@ -18,17 +19,40 @@
     "sg:phone":"+41 32 855 14 64",
     "sg:postcode":"2203",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683275,
+        102191581,
+        404227833,
+        404425325,
+        85633147,
+        1108826385,
+        101829173,
+        136253037,
+        102072145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X2y7zUjUWNU1p2Pk7jOox_45.934818_-0.958700@1306268762"
     },
     "wof:country":"CH",
     "wof:created":1473761818,
-    "wof:geomhash":"fe4740660a5b7f7825000f687fc8b41b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b696900d5cb898f70190a47a09f8de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072145,
+            "empire_id":136253037,
+            "localadmin_id":404425325,
+            "locality_id":101829173,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
+            "region_id":85683275,
+            "venue_id":1075579793
+        }
+    ],
     "wof:id":1075579793,
-    "wof:lastmodified":1473761818,
+    "wof:lastmodified":1496776475,
     "wof:name":"St\u00e9 De Tir Armes Rochefort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

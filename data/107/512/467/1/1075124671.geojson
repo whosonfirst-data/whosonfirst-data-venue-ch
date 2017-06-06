@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.5982270241,46.0908737183,-0.5982270241,46.0908737183",
     "geom:latitude":46.090874,
     "geom:longitude":-0.598227,
@@ -18,17 +19,40 @@
     "sg:postcode":"1004",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683275,
+        102191581,
+        404228271,
+        404428197,
+        85633147,
+        1108826385,
+        101892647,
+        136253037,
+        102066581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TXW1zsxv5sYFGL0Qceo7h_46.090874_-0.598227@1306268698"
     },
     "wof:country":"CH",
     "wof:created":1473741945,
-    "wof:geomhash":"85b5b2ff05edd771b80c48ef75e6d13a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dae6c38df2e2cc4540d4c90284952bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066581,
+            "empire_id":136253037,
+            "localadmin_id":404428197,
+            "locality_id":101892647,
+            "macrocounty_id":404228271,
+            "macroregion_id":1108826385,
+            "region_id":85683275,
+            "venue_id":1075124671
+        }
+    ],
     "wof:id":1075124671,
-    "wof:lastmodified":1473741945,
+    "wof:lastmodified":1496775369,
     "wof:name":"Neghinn Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

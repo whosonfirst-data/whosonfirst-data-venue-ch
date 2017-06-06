@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.530803,46.056931,6.530803,46.056931",
     "geom:latitude":46.056931,
     "geom:longitude":6.530803,
@@ -34,8 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683227,
+        102191581,
+        404227961,
+        404372189,
         85633147,
+        1108826389,
         101828993,
+        136253037,
         102070157
     ],
     "wof:breaches":[],
@@ -43,20 +49,23 @@
         "sg:id":"SG_6M25ciAOQ1NYm7cUMkoJXa_46.056931_6.530803@1306268615"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4ed01f0874c15821119e1b5557a33de9",
+    "wof:geomhash":"8020ac7b1aa4b539db62634b21b860f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070157,
+            "empire_id":136253037,
+            "localadmin_id":404372189,
             "locality_id":101828993,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":186512681
         }
     ],
     "wof:id":186512681,
-    "wof:lastmodified":1473798362,
+    "wof:lastmodified":1496779538,
     "wof:name":"Pension La Pommeraie Pour Personnes \u00e2g\u00e9es",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

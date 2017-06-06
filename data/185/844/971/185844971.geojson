@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.566757,47.43504,8.566757,47.43504",
     "geom:latitude":47.43504,
     "geom:longitude":8.566757,
@@ -32,6 +33,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102553957,
         85682309,
         85633051,
         102063019,
@@ -45,19 +47,18 @@
     "wof:geomhash":"de1c02232feaf229e7ed78f428f0ac2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102553957,
             "country_id":85633051,
             "county_id":102063019,
-            "locality_id":-1,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":185844971
         }
     ],
     "wof:id":185844971,
-    "wof:lastmodified":1473798226,
+    "wof:lastmodified":1491915897,
     "wof:name":"Airmail",
-    "wof:parent_id":85800527,
+    "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

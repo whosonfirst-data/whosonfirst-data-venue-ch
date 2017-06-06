@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"151.207108,-33.867142,151.207108,-33.867142",
     "geom:latitude":-33.867142,
     "geom:longitude":151.207108,
@@ -28,11 +29,13 @@
     "sg:postcode":"1137",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681545,
+        85782721,
+        102191583,
+        404226357,
         85632793,
         101932003,
         102049151,
-        85782721
+        85681545
     ],
     "wof:brand_id":420574471,
     "wof:breaches":[],
@@ -43,9 +46,10 @@
     "wof:geomhash":"57a0682a8a28c1330406599548f3ec07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049151,
+            "localadmin_id":404226357,
             "locality_id":101932003,
             "neighbourhood_id":85782721,
             "region_id":85681545,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219508835,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1491899943,
     "wof:name":"Banque Raiffeisen",
     "wof:parent_id":85782721,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.5705809593,45.6779670715,1.5705809593,45.6779670715",
     "geom:latitude":45.677967,
     "geom:longitude":1.570581,
@@ -28,17 +29,39 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683531,
+        102191581,
+        85633147,
+        404378133,
+        404227987,
+        1108826385,
+        136253037,
+        102065345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YVb4mXXiUOtkF8t1rWDzM_45.677967_1.570581@1306268701"
     },
     "wof:country":"CH",
     "wof:created":1473742688,
-    "wof:geomhash":"8e99b2665a9e15f9382027d5b1e70292",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec8693451cd07c7ae3b2b1815e75fb38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065345,
+            "empire_id":136253037,
+            "localadmin_id":404378133,
+            "locality_id":-1,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
+            "region_id":85683531,
+            "venue_id":1075141087
+        }
+    ],
     "wof:id":1075141087,
-    "wof:lastmodified":1473742688,
+    "wof:lastmodified":1496776603,
     "wof:name":"H\u00f4tel Ermitage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

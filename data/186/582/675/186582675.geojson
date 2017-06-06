@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.147747,46.202126,6.147747,46.202126",
     "geom:latitude":46.202126,
     "geom:longitude":6.147747,
@@ -24,12 +25,14 @@
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85862409,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663,
-        85862409
+        85682291,
+        85897663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +42,30 @@
     "wof:geomhash":"678a7a303e808df95b476168b629f953",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
-            "neighbourhood_id":85897663,
+            "neighbourhood_id":85862409,
             "region_id":85682291,
             "venue_id":186582675
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
-            "neighbourhood_id":85862409,
+            "neighbourhood_id":85897663,
             "region_id":85682291,
             "venue_id":186582675
         }
     ],
     "wof:id":186582675,
-    "wof:lastmodified":1473798379,
+    "wof:lastmodified":1491885260,
     "wof:name":"Assoc.des Commis De Gen\u00e8ve",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

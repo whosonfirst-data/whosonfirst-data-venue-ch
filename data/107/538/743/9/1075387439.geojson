@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3594799042,48.1323890686,4.3594799042,48.1323890686",
     "geom:latitude":48.132389,
     "geom:longitude":4.35948,
@@ -27,17 +28,40 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683193,
+        102191581,
+        404228021,
+        404359129,
+        85633147,
+        1108826391,
+        101886035,
+        136253037,
+        102064963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IL5ahx7vS6vmb7jBViej6_48.132389_4.359480@1306268735"
     },
     "wof:country":"CH",
     "wof:created":1473753498,
-    "wof:geomhash":"8390dd98295773ee5f3d6d6f217354ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02a7041e9bcef55a6c60a0aa0d55d2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064963,
+            "empire_id":136253037,
+            "localadmin_id":404359129,
+            "locality_id":101886035,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
+            "region_id":85683193,
+            "venue_id":1075387439
+        }
+    ],
     "wof:id":1075387439,
-    "wof:lastmodified":1473753498,
+    "wof:lastmodified":1496783862,
     "wof:name":"Imprimerie Montfort Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

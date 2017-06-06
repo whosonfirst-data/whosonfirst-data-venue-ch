@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6395730972,47.3712272644,8.6395730972,47.3712272644",
     "geom:latitude":47.371227,
     "geom:longitude":8.639573,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"a59d782245316382a77fb46e6715e53c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1059013963
         }
     ],
     "wof:id":1059013963,
-    "wof:lastmodified":1473722631,
+    "wof:lastmodified":1491936798,
     "wof:name":"Max Maurer Metzgerei",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

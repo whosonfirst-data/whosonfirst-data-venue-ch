@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.392015,46.336155,6.392015,46.336155",
     "geom:latitude":46.336155,
     "geom:longitude":6.392015,
@@ -25,8 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683227,
+        102191581,
+        404228261,
+        404358319,
         85633147,
+        1108826389,
         101829007,
+        136253037,
         102070481
     ],
     "wof:breaches":[],
@@ -34,20 +40,23 @@
         "sg:id":"SG_1exeTYLbqhE1jltsi0mQ3j_46.336155_6.392015@1306268614"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d18ff3a79d03901f5b32983411f6b88f",
+    "wof:geomhash":"99e28f4d164e3d3354d006015224b0e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070481,
+            "empire_id":136253037,
+            "localadmin_id":404358319,
             "locality_id":101829007,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":186269539
         }
     ],
     "wof:id":186269539,
-    "wof:lastmodified":1473798191,
+    "wof:lastmodified":1496779586,
     "wof:name":"Bertola Fils Entreprise De Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.247767,46.301643,6.247767,46.301643",
     "geom:latitude":46.301643,
     "geom:longitude":6.247767,
@@ -25,8 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683227,
+        102191581,
+        404228261,
+        404348887,
         85633147,
+        1108826389,
         101914091,
+        136253037,
         102066577
     ],
     "wof:breaches":[],
@@ -34,20 +40,23 @@
         "sg:id":"SG_3CS8PRt9TKV1PkLTl9ZKv8_46.301643_6.247767@1306268631"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e99a2e96d135c70aa3dd32eacdf585ba",
+    "wof:geomhash":"aaa5f4cb0796d6d041fab8bdaf143614",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066577,
+            "empire_id":136253037,
+            "localadmin_id":404348887,
             "locality_id":101914091,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":235990901
         }
     ],
     "wof:id":235990901,
-    "wof:lastmodified":1473798056,
+    "wof:lastmodified":1496781957,
     "wof:name":"Aguet Pierre-andr\u00e9 & Louis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

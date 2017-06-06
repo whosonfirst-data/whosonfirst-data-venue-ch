@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.3935779929,43.4838294983,-0.3935779929,43.4838294983",
     "geom:latitude":43.483829,
     "geom:longitude":-0.393578,
@@ -19,17 +20,39 @@
     "sg:postcode":"1004",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683539,
+        102191581,
+        85633147,
+        404419863,
+        404228137,
+        1108826385,
+        136253037,
+        102065177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33Fp60BckTCDA9DIdUYw0D_43.483829_-0.393578@1306268727"
     },
     "wof:country":"CH",
     "wof:created":1473750990,
-    "wof:geomhash":"88a5356d2e06ae57be98baa958cae7be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bc889096b02a52e5d124d0aa7c053dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065177,
+            "empire_id":136253037,
+            "localadmin_id":404419863,
+            "locality_id":-1,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
+            "region_id":85683539,
+            "venue_id":1075325999
+        }
+    ],
     "wof:id":1075325999,
-    "wof:lastmodified":1473750990,
+    "wof:lastmodified":1496775368,
     "wof:name":"Si Du Chemin Des Vignes D'argent No 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

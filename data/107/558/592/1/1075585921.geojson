@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5892152786,47.3601570129,8.5892152786,47.3601570129",
     "geom:latitude":47.360157,
     "geom:longitude":8.589215,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"e567cab212433a38743852e93112ec15",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075585921
         }
     ],
     "wof:id":1075585921,
-    "wof:lastmodified":1473762086,
+    "wof:lastmodified":1491936779,
     "wof:name":"Damenriege Industriequartier",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2456002235,46.191444397,5.2456002235,46.191444397",
     "geom:latitude":46.191444,
     "geom:longitude":5.2456,
@@ -19,17 +20,39 @@
     "sg:postcode":"1636",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        85633147,
+        404413457,
+        404227797,
+        1108826389,
+        136253037,
+        102072433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SsKNEXE1eqV8NDcRkxeYY_46.191444_5.245600@1306268650"
     },
     "wof:country":"CH",
     "wof:created":1473724034,
-    "wof:geomhash":"3864e306e2a4a2e4a03de4a4b0ee31a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89a673d6ce7bd9a71c9a53c9a2b3eb72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072433,
+            "empire_id":136253037,
+            "localadmin_id":404413457,
+            "locality_id":-1,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1059041825
+        }
+    ],
     "wof:id":1059041825,
-    "wof:lastmodified":1473724034,
+    "wof:lastmodified":1496779251,
     "wof:name":"Fragni\u00e8re Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

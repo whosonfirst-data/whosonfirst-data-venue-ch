@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6319241524,46.4007072449,6.6319241524,46.4007072449",
     "geom:latitude":46.400707,
     "geom:longitude":6.631924,
@@ -19,17 +20,40 @@
     "sg:postcode":"1233",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        404228261,
+        404370211,
+        85633147,
+        1108826389,
+        101829001,
+        136253037,
+        102066779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ewBxEM4c577Rdh4GVcHdU_46.400707_6.631924@1306268713"
     },
     "wof:country":"CH",
     "wof:created":1473746530,
-    "wof:geomhash":"62076a2b46c4d576b7738d8e6ea04015",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5981094279912dd3ec46e248f327ec66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066779,
+            "empire_id":136253037,
+            "localadmin_id":404370211,
+            "locality_id":101829001,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075224865
+        }
+    ],
     "wof:id":1075224865,
-    "wof:lastmodified":1473746530,
+    "wof:lastmodified":1496779649,
     "wof:name":"Ecole De Musique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

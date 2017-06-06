@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6402263641,47.3706092834,8.6402263641,47.3706092834",
     "geom:latitude":47.370609,
     "geom:longitude":8.640226,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"fc9c9d6757b8428f0536685bb8c2b5c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075212399
         }
     ],
     "wof:id":1075212399,
-    "wof:lastmodified":1473745962,
+    "wof:lastmodified":1491936766,
     "wof:name":"Kinderh\u00fcte F\u00e4llanden",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

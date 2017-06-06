@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.594129,47.36026,8.594129,47.36026",
     "geom:latitude":47.36026,
     "geom:longitude":8.594129,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102062933,
+        101748463,
+        102063071,
         85800653
     ],
     "wof:breaches":[],
@@ -37,17 +40,17 @@
     "wof:geomhash":"78fe50aaf74432aec981743323d5134e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":203369129
         }
     ],
     "wof:id":203369129,
-    "wof:lastmodified":1473798284,
+    "wof:lastmodified":1491936790,
     "wof:name":"Dr.med.madeleine B\u00fchler Spezial\u00e4rztin Fmh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5802078247,47.443271637,8.5802078247,47.443271637",
     "geom:latitude":47.443272,
     "geom:longitude":8.580208,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"14faae5ab8770755db46345ad6876602",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1074923567
         }
     ],
     "wof:id":1074923567,
-    "wof:lastmodified":1473731652,
+    "wof:lastmodified":1491915889,
     "wof:name":"Lb's Putz Und B\u00fcgelservice Bohnenberger Lea, Kloten",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

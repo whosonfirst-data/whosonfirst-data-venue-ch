@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5975,47.569515,7.5975,47.569515",
     "geom:latitude":47.569515,
     "geom:longitude":7.5975,
@@ -24,11 +25,13 @@
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682297,
+        85800107,
+        102191581,
+        404328241,
         85633051,
         101748459,
         102062895,
-        85800107
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"69d856094241b31baf65194af3b2c260",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062895,
+            "localadmin_id":404328241,
             "locality_id":101748459,
             "neighbourhood_id":85800107,
             "region_id":85682297,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169810813,
-    "wof:lastmodified":1473798325,
+    "wof:lastmodified":1491895481,
     "wof:name":"Wolf & B\u00fcrgin, Inh. H. Wolf Aushub, Abbruch U. Warentransporte",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",

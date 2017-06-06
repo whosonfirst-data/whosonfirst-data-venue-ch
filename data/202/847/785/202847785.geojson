@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.467779,46.936783,7.467779,46.936783",
     "geom:latitude":46.936783,
     "geom:longitude":7.467779,
@@ -24,11 +25,13 @@
     "sg:province":"Bern",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85799949,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85799949
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e9045d876c40ae32833c486a381c12bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85799949,
             "region_id":85682381,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":202847785,
-    "wof:lastmodified":1473798331,
+    "wof:lastmodified":1491893116,
     "wof:name":"Nauer & Scheurer Ag, Architekten Sia",
     "wof:parent_id":85799949,
     "wof:placetype":"venue",

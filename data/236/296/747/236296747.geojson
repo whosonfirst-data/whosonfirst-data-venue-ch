@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.602197,47.568008,7.602197,47.568008",
     "geom:latitude":47.568008,
     "geom:longitude":7.602197,
@@ -23,11 +24,13 @@
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682297,
+        85800107,
+        102191581,
+        404328241,
         85633051,
         101748459,
         102062895,
-        85800107
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"819ab9d45db37912133b4c1fb9070714",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062895,
+            "localadmin_id":404328241,
             "locality_id":101748459,
             "neighbourhood_id":85800107,
             "region_id":85682297,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":236296747,
-    "wof:lastmodified":1473798266,
+    "wof:lastmodified":1491895493,
     "wof:name":"Fritz Wehrli Taxibetrieb",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",

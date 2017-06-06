@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.149902,46.203697,6.149902,46.203697",
     "geom:latitude":46.203697,
     "geom:longitude":6.149902,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85897663,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85897663
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"bd12e34219ec3f5834b39ba7a2ea9cef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85897663,
             "region_id":85682291,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":185657033,
-    "wof:lastmodified":1473798097,
+    "wof:lastmodified":1491885284,
     "wof:name":"Les Editions Du Rh\u00f4ne S\u00e0rl",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.623122,47.360699,8.623122,47.360699",
     "geom:latitude":47.360699,
     "geom:longitude":8.623122,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        102062933,
+        101748463,
+        102063071,
         85800653
     ],
     "wof:breaches":[],
@@ -37,17 +40,17 @@
     "wof:geomhash":"35cd2f537e6ff9d10002b6c41946da30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
-            "locality_id":-1,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":220056779
         }
     ],
     "wof:id":220056779,
-    "wof:lastmodified":1473798129,
+    "wof:lastmodified":1491936820,
     "wof:name":"Atelier Walter Wolf Gmbh Modellbau",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

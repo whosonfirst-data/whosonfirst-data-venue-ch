@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5622386932,47.3833045959,8.5622386932,47.3833045959",
     "geom:latitude":47.383305,
     "geom:longitude":8.562239,
@@ -20,11 +21,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
-        85633051,
-        85800463,
-        102063071,
         102191581,
+        85633051,
         101748463,
+        102063071,
         85799903
     ],
     "wof:breaches":[],
@@ -36,13 +36,6 @@
     "wof:geomhash":"1c0d209f3292ec82479237ba017a04fb",
     "wof:hierarchy":[
         {
-            "country_id":85633051,
-            "county_id":102063071,
-            "neighbourhood_id":85800463,
-            "region_id":85682309,
-            "venue_id":1075742827
-        },
-        {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
@@ -53,9 +46,9 @@
         }
     ],
     "wof:id":1075742827,
-    "wof:lastmodified":1473769290,
+    "wof:lastmodified":1491936217,
     "wof:name":"West-park Z\u00fcrich Ag",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

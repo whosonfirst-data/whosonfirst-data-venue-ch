@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5746603012,47.4268188477,8.5746603012,47.4268188477",
     "geom:latitude":47.426819,
     "geom:longitude":8.57466,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"4034e4c9df63f0e98b6fc4eaba12e45b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075007527
         }
     ],
     "wof:id":1075007527,
-    "wof:lastmodified":1473736170,
+    "wof:lastmodified":1491915956,
     "wof:name":"Heinz Stadtmann Transporte",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

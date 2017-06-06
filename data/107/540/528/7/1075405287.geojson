@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3920149803,46.3361549377,6.3920149803,46.3361549377",
     "geom:latitude":46.336155,
     "geom:longitude":6.392015,
@@ -19,17 +20,40 @@
     "sg:postcode":"1188",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        404228261,
+        404358319,
+        85633147,
+        1108826389,
+        101829007,
+        136253037,
+        102070481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZYPSeLixlDvh6vNe5A6EW_46.336155_6.392015@1306268738"
     },
     "wof:country":"CH",
     "wof:created":1473754282,
-    "wof:geomhash":"f0c71a36de6b074eb52237eb320abaf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9083b4a5ca3a6741e5759036b31b1b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070481,
+            "empire_id":136253037,
+            "localadmin_id":404358319,
+            "locality_id":101829007,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
+            "region_id":85683227,
+            "venue_id":1075405287
+        }
+    ],
     "wof:id":1075405287,
-    "wof:lastmodified":1473754282,
+    "wof:lastmodified":1496779666,
     "wof:name":"Le Coultre Voyages Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

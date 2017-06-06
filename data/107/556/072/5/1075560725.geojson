@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3530302048,45.4674606323,4.3530302048,45.4674606323",
     "geom:latitude":45.467461,
     "geom:longitude":4.35303,
@@ -18,17 +19,38 @@
     "sg:postcode":"1290",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683377,
+        102191581,
+        85633147,
+        404228089,
+        1108826389,
+        101750843,
+        136253037,
+        102068273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FUT3IvtJ2zpLOheFUGj4T_45.467461_4.353030@1306268760"
     },
     "wof:country":"CH",
     "wof:created":1473761023,
-    "wof:geomhash":"4e4ff3fc43ec5833724f1376e856f769",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6aa62211a92455a2d2ab66ac3da1e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068273,
+            "empire_id":136253037,
+            "locality_id":101750843,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
+            "region_id":85683377,
+            "venue_id":1075560725
+        }
+    ],
     "wof:id":1075560725,
-    "wof:lastmodified":1473761023,
+    "wof:lastmodified":1496781925,
     "wof:name":"Villars-vert Basket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6439733505,47.3720703125,8.6439733505,47.3720703125",
     "geom:latitude":47.37207,
     "geom:longitude":8.643973,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"5558eaf2f0d14d69deb6f80b03c4f724",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074963953
         }
     ],
     "wof:id":1074963953,
-    "wof:lastmodified":1473733761,
+    "wof:lastmodified":1491936755,
     "wof:name":"La Brenta, Romain Golay",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

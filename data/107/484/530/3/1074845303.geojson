@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6318674088,47.3746070862,8.6318674088,47.3746070862",
     "geom:latitude":47.374607,
     "geom:longitude":8.631867,
@@ -31,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,17 @@
     "wof:geomhash":"be390d3ebc0f05d174b1eb24cd24e01c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1074845303
         }
     ],
     "wof:id":1074845303,
-    "wof:lastmodified":1473727695,
+    "wof:lastmodified":1491936828,
     "wof:name":"Meier-zosso Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

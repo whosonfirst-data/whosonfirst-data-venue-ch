@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.24584198,33.7876243591,-118.24584198,33.7876243591",
     "geom:latitude":33.787624,
     "geom:longitude":-118.245842,
@@ -18,12 +19,13 @@
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85858057",
         102191575,
+        1108692885,
         85633793,
         85923517,
         102086957,
-        85852135
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +40,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85852135,
+            "macrohood_id":1108692885,
+            "neighbourhood_id":"85858057",
             "region_id":85688637,
             "venue_id":1074993265
         }
     ],
     "wof:id":1074993265,
-    "wof:lastmodified":1473735402,
+    "wof:lastmodified":1488944090,
     "wof:name":"Richner Distribution",
-    "wof:parent_id":85852135,
+    "wof:parent_id":"85858057",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

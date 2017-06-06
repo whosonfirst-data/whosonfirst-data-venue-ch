@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.7952361107,49.0035209656,7.7952361107,49.0035209656",
     "geom:latitude":49.003521,
     "geom:longitude":7.795236,
@@ -28,17 +29,40 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683221,
+        102191581,
+        404228315,
+        404347423,
+        85633147,
+        1108826391,
+        101761057,
+        136253037,
+        102070489
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XFOU2J7hWQRUaO5qnsmwW_49.003521_7.795236@1306268699"
     },
     "wof:country":"CH",
     "wof:created":1473742264,
-    "wof:geomhash":"f9175a17d77237773d2ba888bf2cddef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"538390ba1fad06ca1277e1ea2baa7fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070489,
+            "empire_id":136253037,
+            "localadmin_id":404347423,
+            "locality_id":101761057,
+            "macrocounty_id":404228315,
+            "macroregion_id":1108826391,
+            "region_id":85683221,
+            "venue_id":1075131667
+        }
+    ],
     "wof:id":1075131667,
-    "wof:lastmodified":1473742264,
+    "wof:lastmodified":1496784432,
     "wof:name":"Auberge De L'union Jaquet-vial Claudine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

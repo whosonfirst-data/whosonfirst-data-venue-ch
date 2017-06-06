@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.098924,46.207272,6.098924,46.207272",
     "geom:latitude":46.207272,
     "geom:longitude":6.098924,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85800147,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85800147
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"5c50fe50fbed7692452924ba1fe52c0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85800147,
             "region_id":85682291,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236538953,
-    "wof:lastmodified":1473798424,
+    "wof:lastmodified":1491938242,
     "wof:name":"Artyp Sa",
     "wof:parent_id":85800147,
     "wof:placetype":"venue",

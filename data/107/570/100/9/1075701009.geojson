@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6462202072,47.366771698,8.6462202072,47.366771698",
     "geom:latitude":47.366772,
     "geom:longitude":8.64622,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"347cc14eba4b6823f10c6d9828742491",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075701009
         }
     ],
     "wof:id":1075701009,
-    "wof:lastmodified":1473767275,
+    "wof:lastmodified":1491936732,
     "wof:name":"Quartier-/dorfverein",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

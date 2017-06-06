@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.6238099933,45.0030212402,-0.6238099933,45.0030212402",
     "geom:latitude":45.003021,
     "geom:longitude":-0.62381,
@@ -18,17 +19,40 @@
     "sg:phone":"+41 26 915 11 87",
     "sg:postcode":"1641",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683243,
+        102191581,
+        404227869,
+        404358695,
+        85633147,
+        1108826385,
+        101769385,
+        136253037,
+        102065291
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ecy7y0RHaeMrBmvZHtZfw_45.003021_-0.623810@1306268666"
     },
     "wof:country":"CH",
     "wof:created":1473729890,
-    "wof:geomhash":"21f84830f9d85cc4908b2c909d07aaa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324723efc16eebc1e17507d812a2b6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065291,
+            "empire_id":136253037,
+            "localadmin_id":404358695,
+            "locality_id":101769385,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
+            "region_id":85683243,
+            "venue_id":1074888825
+        }
+    ],
     "wof:id":1074888825,
-    "wof:lastmodified":1473729890,
+    "wof:lastmodified":1496776314,
     "wof:name":"Jdf - Sbv, F\u00e4ssler Jean-daniel Et Bochud Simon Etudes Et Projets Dans Le Domaine Des T\u00e9l\u00e9communications, Constuction, G\u00e9nie Civil Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

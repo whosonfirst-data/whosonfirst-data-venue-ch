@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.27651,48.831989,5.27651,48.831989",
     "geom:latitude":48.831989,
     "geom:longitude":5.27651,
@@ -28,27 +29,37 @@
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683297,
+        102191581,
         85633147,
-        85683297
+        404357801,
+        404227707,
+        1108826391,
+        136253037,
+        102068917
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F0X3xGZ40tHcqpFukLGWp_48.831989_5.276510@1306268627"
     },
     "wof:country":"CH",
-    "wof:geomhash":"ea19a16cc32d53f69749bcdbe3739cf4",
+    "wof:geomhash":"04cba2fd43c3a3c604b032cbee82ff44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102068917,
+            "empire_id":136253037,
+            "localadmin_id":404357801,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227707,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":169645735
         }
     ],
     "wof:id":169645735,
-    "wof:lastmodified":1473798084,
+    "wof:lastmodified":1496784439,
     "wof:name":"Schweizerische Volksbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

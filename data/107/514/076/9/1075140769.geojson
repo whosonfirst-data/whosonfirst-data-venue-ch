@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8780498505,45.3517456055,4.8780498505,45.3517456055",
     "geom:latitude":45.351746,
     "geom:longitude":4.87805,
@@ -29,17 +30,39 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683427,
+        102191581,
+        85633147,
+        404407223,
+        404228083,
+        1108826389,
+        136253037,
+        102068821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NM5iR1p1v5YCylwUErZyq_45.351746_4.878050@1306268701"
     },
     "wof:country":"CH",
     "wof:created":1473742674,
-    "wof:geomhash":"ab61a2188a95281a9a71f221353fb87f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90635c9bdb94d6280e36227564b9ab36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068821,
+            "empire_id":136253037,
+            "localadmin_id":404407223,
+            "locality_id":-1,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
+            "region_id":85683427,
+            "venue_id":1075140769
+        }
+    ],
     "wof:id":1075140769,
-    "wof:lastmodified":1473742674,
+    "wof:lastmodified":1496781933,
     "wof:name":"H\u00f4tel De Ville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

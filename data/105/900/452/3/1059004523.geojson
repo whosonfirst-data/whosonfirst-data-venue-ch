@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6343228817,42.9268684387,2.6343228817,42.9268684387",
     "geom:latitude":42.926868,
     "geom:longitude":2.634323,
@@ -18,17 +19,39 @@
     "sg:postcode":"6900",
     "sg:province":"Ticino",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683485,
+        102191581,
+        85633147,
+        404410017,
+        404228023,
+        1108826387,
+        136253037,
+        102070015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45Qfk5iO4lDbgmlvVhz32l_42.926868_2.634323@1306268645"
     },
     "wof:country":"CH",
     "wof:created":1473722099,
-    "wof:geomhash":"ce9cacdf325c19cdaafdc378f1be2052",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d3fe09fb76b5843b5dd83bb4ef96867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070015,
+            "empire_id":136253037,
+            "localadmin_id":404410017,
+            "locality_id":-1,
+            "macrocounty_id":404228023,
+            "macroregion_id":1108826387,
+            "region_id":85683485,
+            "venue_id":1059004523
+        }
+    ],
     "wof:id":1059004523,
-    "wof:lastmodified":1473722099,
+    "wof:lastmodified":1496778074,
     "wof:name":"Iglu Of Switzerland Ag Haushaltger\u00e4te Usw.; Fabrikation, Handel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

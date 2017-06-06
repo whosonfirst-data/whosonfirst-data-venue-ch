@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.2755849361,43.6353874207,2.2755849361,43.6353874207",
     "geom:latitude":43.635387,
     "geom:longitude":2.275585,
@@ -19,17 +20,38 @@
     "sg:postcode":"2068",
     "sg:province":"Neuch\u00e2tel",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683603,
+        102191581,
+        85633147,
+        404227975,
+        1108826387,
+        101831833,
+        136253037,
+        102072325
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZilbVVKuhzmDfmrHi8GF5_43.635387_2.275585@1306268702"
     },
     "wof:country":"CH",
     "wof:created":1473742938,
-    "wof:geomhash":"8b2a370fb8061511b8606399d0637d40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8119b7dc5d4b9e94fab36389e6bb742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072325,
+            "empire_id":136253037,
+            "locality_id":101831833,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
+            "region_id":85683603,
+            "venue_id":1075146429
+        }
+    ],
     "wof:id":1075146429,
-    "wof:lastmodified":1473742938,
+    "wof:lastmodified":1496778015,
     "wof:name":"H\u00f4tel Les Vieux-toits, Ren\u00e9 Thalmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

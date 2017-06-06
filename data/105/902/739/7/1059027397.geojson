@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6368703842,47.3715934753,8.6368703842,47.3715934753",
     "geom:latitude":47.371593,
     "geom:longitude":8.63687,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"641a813a85b73c87297150e9b701cff0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1059027397
         }
     ],
     "wof:id":1059027397,
-    "wof:lastmodified":1473723334,
+    "wof:lastmodified":1491936765,
     "wof:name":"Imtec Ag",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

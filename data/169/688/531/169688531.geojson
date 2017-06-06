@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.124413,46.205936,6.124413,46.205936",
     "geom:latitude":46.205936,
     "geom:longitude":6.124413,
@@ -24,11 +25,13 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682291,
+        85862443,
+        102191581,
+        404328283,
         85633051,
         101748445,
         102062917,
-        85862443
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"106f156d4ed6434d802efc7113bc9813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
             "locality_id":101748445,
             "neighbourhood_id":85862443,
             "region_id":85682291,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169688531,
-    "wof:lastmodified":1473798145,
+    "wof:lastmodified":1491914742,
     "wof:name":"Cedis Service Sa Import-exp.prod.alimentaires",
     "wof:parent_id":85862443,
     "wof:placetype":"venue",

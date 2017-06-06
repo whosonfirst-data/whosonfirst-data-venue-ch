@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.538491,47.417274,8.538491,47.417274",
     "geom:latitude":47.417274,
     "geom:longitude":8.538491,
@@ -33,12 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
         101748463,
         102063071,
-        85800373,
-        102063019,
-        85800527
+        85800527,
+        85800373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +49,28 @@
     "wof:geomhash":"413751667f20cd7971610599b89e9638",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063071,
+            "locality_id":101748463,
+            "neighbourhood_id":85800527,
+            "region_id":85682309,
+            "venue_id":236662811
+        },
+        {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
             "locality_id":101748463,
             "neighbourhood_id":85800373,
             "region_id":85682309,
             "venue_id":236662811
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633051,
-            "county_id":102063019,
-            "locality_id":-1,
-            "neighbourhood_id":85800527,
-            "region_id":85682309,
-            "venue_id":236662811
         }
     ],
     "wof:id":236662811,
-    "wof:lastmodified":1473798446,
+    "wof:lastmodified":1491915937,
     "wof:name":"Partyservice First Choice",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

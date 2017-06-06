@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.631924,46.400707,6.631924,46.400707",
     "geom:latitude":46.400707,
     "geom:longitude":6.631924,
@@ -24,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683227,
+        102191581,
+        404228261,
+        404370211,
         85633147,
+        1108826389,
         101829001,
+        136253037,
         102066779
     ],
     "wof:breaches":[],
@@ -33,20 +39,23 @@
         "sg:id":"SG_0ulwEVM9y7038Om8lvKc2O_46.400707_6.631924@1306268624"
     },
     "wof:country":"CH",
-    "wof:geomhash":"903dd8e88c2a37ad25c75c5bdb7dc0fd",
+    "wof:geomhash":"d6790b4cdba84c9c25a3bff30150f044",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066779,
+            "empire_id":136253037,
+            "localadmin_id":404370211,
             "locality_id":101829001,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":219356591
         }
     ],
     "wof:id":219356591,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496779274,
     "wof:name":"Amado Carrosserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.461616516,34.0670967102,-118.461616516,34.0670967102",
     "geom:latitude":34.067097,
     "geom:longitude":-118.461617,
@@ -24,12 +25,13 @@
     "sg:postcode":"3962",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85857293",
         102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85869137
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869137,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85857293",
             "region_id":85688637,
             "venue_id":1075421659
         }
     ],
     "wof:id":1075421659,
-    "wof:lastmodified":1473755013,
+    "wof:lastmodified":1488937230,
     "wof:name":"Pizzeria Vieux Moulin",
-    "wof:parent_id":85869137,
+    "wof:parent_id":"85857293",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.588719368,47.4460372925,8.588719368,47.4460372925",
     "geom:latitude":47.446037,
     "geom:longitude":8.588719,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"be6c1c9151780a796dae1b69e3b4b50e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075536303
         }
     ],
     "wof:id":1075536303,
-    "wof:lastmodified":1473760036,
+    "wof:lastmodified":1491915923,
     "wof:name":"Smokeomat Zigaretten-operating, Stricker Hans",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

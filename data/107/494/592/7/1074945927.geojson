@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5921535492,47.4458122253,8.5921535492,47.4458122253",
     "geom:latitude":47.445812,
     "geom:longitude":8.592154,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"2634f5309c67e014eb6a8976fd474bd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1074945927
         }
     ],
     "wof:id":1074945927,
-    "wof:lastmodified":1473732674,
+    "wof:lastmodified":1491915909,
     "wof:name":"Rs Trading",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

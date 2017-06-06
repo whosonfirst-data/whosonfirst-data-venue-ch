@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5999507904,47.3541297913,8.5999507904,47.3541297913",
     "geom:latitude":47.35413,
     "geom:longitude":8.599951,
@@ -20,9 +21,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,15 +36,17 @@
     "wof:geomhash":"f2ddd91620ba755e1a9123db7c76520a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075316369
         }
     ],
     "wof:id":1075316369,
-    "wof:lastmodified":1473750609,
+    "wof:lastmodified":1491936758,
     "wof:name":"Niemela Alice, Smarterwebsites.ch",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

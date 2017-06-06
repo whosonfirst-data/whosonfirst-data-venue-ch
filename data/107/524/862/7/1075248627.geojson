@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6222801208,47.3869781494,8.6222801208,47.3869781494",
     "geom:latitude":47.386978,
     "geom:longitude":8.62228,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800653,
-        102062933
+        101748463,
+        102063071,
+        85800653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"1a01c6b810b5d916bbcd5a68fbc0c317",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062933,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800653,
             "region_id":85682309,
             "venue_id":1075248627
         }
     ],
     "wof:id":1075248627,
-    "wof:lastmodified":1473747500,
+    "wof:lastmodified":1491936756,
     "wof:name":"Frigerio Thomas Gipsergesch\u00e4ft Gmbh",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",

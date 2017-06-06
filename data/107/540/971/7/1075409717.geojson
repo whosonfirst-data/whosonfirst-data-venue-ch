@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5392541885,47.3720474243,8.5392541885,47.3720474243",
     "geom:latitude":47.372047,
     "geom:longitude":8.539254,
@@ -21,12 +22,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
-        85633051,
-        85799955,
-        102063071,
         102191581,
+        85633051,
         101748463,
-        85799725
+        102063071,
+        85799725,
+        85799955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +38,11 @@
     "wof:geomhash":"c1ef7915050ba51e87a9164e45f8b5ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
-            "neighbourhood_id":85799955,
+            "locality_id":101748463,
+            "neighbourhood_id":85799725,
             "region_id":85682309,
             "venue_id":1075409717
         },
@@ -48,15 +51,15 @@
             "country_id":85633051,
             "county_id":102063071,
             "locality_id":101748463,
-            "neighbourhood_id":85799725,
+            "neighbourhood_id":85799955,
             "region_id":85682309,
             "venue_id":1075409717
         }
     ],
     "wof:id":1075409717,
-    "wof:lastmodified":1473754464,
+    "wof:lastmodified":1491899196,
     "wof:name":"Mundicolor Reisen Nach Spanien",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5529947281,47.4262161255,8.5529947281,47.4262161255",
     "geom:latitude":47.426216,
     "geom:longitude":8.552995,
@@ -21,9 +22,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85682309,
+        102191581,
         85633051,
-        85800527,
-        102063019
+        101748463,
+        102063071,
+        85800527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,15 +37,17 @@
     "wof:geomhash":"8fa5dcad802a29543b8c73d214d8bc54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063019,
+            "county_id":102063071,
+            "locality_id":101748463,
             "neighbourhood_id":85800527,
             "region_id":85682309,
             "venue_id":1075473143
         }
     ],
     "wof:id":1075473143,
-    "wof:lastmodified":1473757232,
+    "wof:lastmodified":1491916034,
     "wof:name":"Bosshard Richhard, Eidg. Dipl. Installateur. Sanit\u00e4r- U. Heizungsinstallationen.",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",

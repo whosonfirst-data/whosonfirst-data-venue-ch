@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.438934,46.946575,7.438934,46.946575",
     "geom:latitude":46.946575,
     "geom:longitude":7.438934,
@@ -29,11 +30,13 @@
     "sg:province":"Zug",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800199,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800199
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e43fc9b8e4c51ad9579bdf3c572ebdb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85800199,
             "region_id":85682381,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219740813,
-    "wof:lastmodified":1473798406,
+    "wof:lastmodified":1491916584,
     "wof:name":"Swiss Federal Banking Commission",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",

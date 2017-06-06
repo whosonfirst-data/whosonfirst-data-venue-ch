@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.441191,46.948322,7.441191,46.948322",
     "geom:latitude":46.948322,
     "geom:longitude":7.441191,
@@ -24,11 +25,13 @@
     "sg:province":"Aargau",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682381,
+        85800199,
+        102191581,
+        404567985,
         85633051,
         101748453,
         102062861,
-        85800199
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"881f680446447a46ecde0025e4593ddb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
+            "localadmin_id":404567985,
             "locality_id":101748453,
             "neighbourhood_id":85800199,
             "region_id":85682381,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":253108811,
-    "wof:lastmodified":1473798099,
+    "wof:lastmodified":1491916624,
     "wof:name":"Futura Optik V\u00f6geli-isler Pia",
     "wof:parent_id":85800199,
     "wof:placetype":"venue",
