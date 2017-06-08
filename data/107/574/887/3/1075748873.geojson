@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4761362076,46.8469963074,5.4761362076,46.8469963074",
     "geom:latitude":46.846996,
     "geom:longitude":5.476136,
@@ -19,17 +20,40 @@
     "sg:postcode":"1008",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        404227883,
+        404381749,
+        85633147,
+        1108826395,
+        101889897,
+        136253037,
+        102065531
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ELCYgMFXFNLCOxVxqr3eo_46.846996_5.476136@1306268785"
     },
     "wof:country":"CH",
     "wof:created":1473769576,
-    "wof:geomhash":"126633e3fa1e10f5cbe4294f2f938a7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4de7224385185bc370f1199f7c4b86bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065531,
+            "empire_id":136253037,
+            "localadmin_id":404381749,
+            "locality_id":101889897,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075748873
+        }
+    ],
     "wof:id":1075748873,
-    "wof:lastmodified":1473769576,
+    "wof:lastmodified":1496788722,
     "wof:name":"Ecole Enfantine Centre Scolaire Des Forges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

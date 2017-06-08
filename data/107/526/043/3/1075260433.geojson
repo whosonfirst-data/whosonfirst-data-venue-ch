@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4077601433,46.808391571,4.4077601433,46.808391571",
     "geom:latitude":46.808392,
     "geom:longitude":4.40776,
@@ -18,17 +19,40 @@
     "sg:phone":"+41 26 924 68 07",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683543,
+        102191581,
+        404227741,
+        404375487,
+        85633147,
+        1108826395,
+        101829235,
+        136253037,
+        102072049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iHhUX6yecfvGBPg5ogwJ0_46.808392_4.407760@1306268718"
     },
     "wof:country":"CH",
     "wof:created":1473747967,
-    "wof:geomhash":"490ea6e246611388eaaac2637261a2ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79b5d3fc8c94c2fd35a832e44bcc35e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072049,
+            "empire_id":136253037,
+            "localadmin_id":404375487,
+            "locality_id":101829235,
+            "macrocounty_id":404227741,
+            "macroregion_id":1108826395,
+            "region_id":85683543,
+            "venue_id":1075260433
+        }
+    ],
     "wof:id":1075260433,
-    "wof:lastmodified":1473747967,
+    "wof:lastmodified":1496788373,
     "wof:name":"Marcel Bertholet Entreprise De Ma\u00e7onnerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

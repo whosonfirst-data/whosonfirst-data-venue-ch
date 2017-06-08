@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6681938171,47.0592727661,6.6681938171,47.0592727661",
     "geom:latitude":47.059273,
     "geom:longitude":6.668194,
@@ -19,17 +20,40 @@
     "sg:postcode":"1670",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404357181,
+        85633147,
+        1108826395,
+        101766855,
+        136253037,
+        102067301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N6vAJKyce2JNQCzFi8uwP_47.059273_6.668194@1306268646"
     },
     "wof:country":"CH",
     "wof:created":1473722667,
-    "wof:geomhash":"47ef281a32bd0a1a551468c2a4f022d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39a7d44598a1dac375ace79c93a772a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067301,
+            "empire_id":136253037,
+            "localadmin_id":404357181,
+            "locality_id":101766855,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1059014837
+        }
+    ],
     "wof:id":1059014837,
-    "wof:lastmodified":1473722667,
+    "wof:lastmodified":1496788701,
     "wof:name":"Pascal Jeanneret Boucherie-charcuterie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

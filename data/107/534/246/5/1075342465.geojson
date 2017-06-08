@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4163199961,48.6234207153,-0.4163199961,48.6234207153",
     "geom:latitude":48.623421,
     "geom:longitude":-0.41632,
@@ -19,17 +20,39 @@
     "sg:postcode":"1344",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683527,
+        102191581,
+        85633147,
+        404383447,
+        404227721,
+        1108826393,
+        136253037,
+        102066815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0st1GEI4Z0E5q5BUkTjsOG_48.623421_-0.416320@1306268729"
     },
     "wof:country":"CH",
     "wof:created":1473751663,
-    "wof:geomhash":"e08c3c5b5fc611b3871ff05e5c5acf4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c22678222fb0c58fea8b1ce6df380dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066815,
+            "empire_id":136253037,
+            "localadmin_id":404383447,
+            "locality_id":-1,
+            "macrocounty_id":404227721,
+            "macroregion_id":1108826393,
+            "region_id":85683527,
+            "venue_id":1075342465
+        }
+    ],
     "wof:id":1075342465,
-    "wof:lastmodified":1473751663,
+    "wof:lastmodified":1496803155,
     "wof:name":"Pro Juventute Madame Cosette Baud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

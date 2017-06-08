@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5261130333,46.2689819336,5.5261130333,46.2689819336",
     "geom:latitude":46.268982,
     "geom:longitude":5.526113,
@@ -19,17 +20,40 @@
     "sg:postcode":"1195",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        404227883,
+        404369417,
+        85633147,
+        1108826395,
+        101894151,
+        136253037,
+        102064551
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D2JQMpmV6UJPEq6aQ1eDI_46.268982_5.526113@1306268718"
     },
     "wof:country":"CH",
     "wof:created":1473748011,
-    "wof:geomhash":"dc611ffee7fa524e1bfe3e6e32f0ddce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8baf632d9b9d82031780e6362dc435f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064551,
+            "empire_id":136253037,
+            "localadmin_id":404369417,
+            "locality_id":101894151,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075261469
+        }
+    ],
     "wof:id":1075261469,
-    "wof:lastmodified":1473748011,
+    "wof:lastmodified":1496789514,
     "wof:name":"Manuel Perez Ma\u00e7onnerie & Carrelage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9555490017,48.5708732605,3.9555490017,48.5708732605",
     "geom:latitude":48.570873,
     "geom:longitude":3.955549,
@@ -18,17 +19,40 @@
     "sg:postcode":"1746",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683193,
+        102191581,
+        404227817,
+        404357185,
+        85633147,
+        1108826391,
+        101881787,
+        136253037,
+        102066845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aTv9ZzA0EYinqUqoehSPz_48.570873_3.955549@1306268713"
     },
     "wof:country":"CH",
     "wof:created":1473746592,
-    "wof:geomhash":"4a0ba7cb556e18b9d11b6237374bcb03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"329753a28fa17dc923bf43f521d1e16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066845,
+            "empire_id":136253037,
+            "localadmin_id":404357185,
+            "locality_id":101881787,
+            "macrocounty_id":404227817,
+            "macroregion_id":1108826391,
+            "region_id":85683193,
+            "venue_id":1075226393
+        }
+    ],
     "wof:id":1075226393,
-    "wof:lastmodified":1473746592,
+    "wof:lastmodified":1496785600,
     "wof:name":"James Julian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

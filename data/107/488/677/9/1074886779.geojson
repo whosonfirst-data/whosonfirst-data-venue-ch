@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.3679400086,48.701461792,0.3679400086,48.701461792",
     "geom:latitude":48.701462,
     "geom:longitude":0.36794,
@@ -19,17 +20,40 @@
     "sg:postcode":"1806",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683527,
+        102191581,
+        404227931,
+        404353939,
+        85633147,
+        1108826393,
+        101879705,
+        136253037,
+        102068225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VRY3hOYC8JTpHqnDIRJ8O_48.701462_0.367940@1306268666"
     },
     "wof:country":"CH",
     "wof:created":1473729628,
-    "wof:geomhash":"6fc3208876113d93387f2851abe88b80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea6cea978956800aad322fcf21c3cc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068225,
+            "empire_id":136253037,
+            "localadmin_id":404353939,
+            "locality_id":101879705,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
+            "region_id":85683527,
+            "venue_id":1074886779
+        }
+    ],
     "wof:id":1074886779,
-    "wof:lastmodified":1473729628,
+    "wof:lastmodified":1496803152,
     "wof:name":"Yves Bettex Auto-\u00e9cole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

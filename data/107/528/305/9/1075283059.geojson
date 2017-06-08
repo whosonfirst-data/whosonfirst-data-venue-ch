@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3947701454,48.0577583313,6.3947701454,48.0577583313",
     "geom:latitude":48.057758,
     "geom:longitude":6.39477,
@@ -19,17 +20,39 @@
     "sg:postcode":"2072",
     "sg:province":"Neuch\u00e2tel",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683223,
+        102191581,
+        85633147,
+        404367251,
+        404227779,
+        1108826391,
+        136253037,
+        102069649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u8QmeaIlqjEkryf9Yn4Mq_48.057758_6.394770@1306268721"
     },
     "wof:country":"CH",
     "wof:created":1473748935,
-    "wof:geomhash":"997bb1956896cd44d42c236592bd5440",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c21aee1543c3edf291172a2c5c5c898e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069649,
+            "empire_id":136253037,
+            "localadmin_id":404367251,
+            "locality_id":-1,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
+            "region_id":85683223,
+            "venue_id":1075283059
+        }
+    ],
     "wof:id":1075283059,
-    "wof:lastmodified":1473748935,
+    "wof:lastmodified":1496793884,
     "wof:name":"La Poste Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

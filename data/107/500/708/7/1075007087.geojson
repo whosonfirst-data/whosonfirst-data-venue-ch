@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.350716114,47.3807106018,6.350716114,47.3807106018",
     "geom:latitude":47.380711,
     "geom:longitude":6.350716,
@@ -18,17 +19,39 @@
     "sg:postcode":"1882",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        85633147,
+        404417341,
+        404227637,
+        1108826395,
+        136253037,
+        102064835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OXBWYZppCBn6bOdcbjYCL_47.380711_6.350716@1306268682"
     },
     "wof:country":"CH",
     "wof:created":1473736151,
-    "wof:geomhash":"12a096c974b7d0c791076e97111fb460",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7bb4b7a3c71575ad640baa926255766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064835,
+            "empire_id":136253037,
+            "localadmin_id":404417341,
+            "locality_id":-1,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075007087
+        }
+    ],
     "wof:id":1075007087,
-    "wof:lastmodified":1473736151,
+    "wof:lastmodified":1496788122,
     "wof:name":"Haldi Fr\u00e8res S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

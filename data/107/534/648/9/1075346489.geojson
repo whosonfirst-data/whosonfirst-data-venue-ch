@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.3407150507,49.287437439,1.3407150507,49.287437439",
     "geom:latitude":49.287437,
     "geom:longitude":1.340715,
@@ -29,17 +30,39 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683283,
+        102191581,
+        85633147,
+        404425175,
+        404227641,
+        1108826393,
+        136253037,
+        102064461
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WwIAJ3Tvzm9ma7y180Pin_49.287437_1.340715@1306268729"
     },
     "wof:country":"CH",
     "wof:created":1473751818,
-    "wof:geomhash":"474fa7a55c1be58383ed6269deb9b556",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c70b83a8159294076584eb1faccaead7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064461,
+            "empire_id":136253037,
+            "localadmin_id":404425175,
+            "locality_id":-1,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
+            "region_id":85683283,
+            "venue_id":1075346489
+        }
+    ],
     "wof:id":1075346489,
-    "wof:lastmodified":1473751818,
+    "wof:lastmodified":1496786874,
     "wof:name":"Pierre Lenzlinger Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

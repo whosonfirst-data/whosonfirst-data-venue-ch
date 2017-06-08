@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.5296969414,45.1580657959,1.5296969414,45.1580657959",
     "geom:latitude":45.158066,
     "geom:longitude":1.529697,
@@ -18,17 +19,40 @@
     "sg:postcode":"1803",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683209,
+        102191581,
+        404227625,
+        404350285,
+        85633147,
+        1108826385,
+        101830659,
+        136253037,
+        102072241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vwDHbNv1bZtdjFHk13RLE_45.158066_1.529697@1306268664"
     },
     "wof:country":"CH",
     "wof:created":1473729000,
-    "wof:geomhash":"4838bc98895cc4b83ff43236a45eed07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4f7ff609e6852f46d8662243b76c82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072241,
+            "empire_id":136253037,
+            "localadmin_id":404350285,
+            "locality_id":101830659,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
+            "region_id":85683209,
+            "venue_id":1074872953
+        }
+    ],
     "wof:id":1074872953,
-    "wof:lastmodified":1473729000,
+    "wof:lastmodified":1496805919,
     "wof:name":"Schmid Ernst.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

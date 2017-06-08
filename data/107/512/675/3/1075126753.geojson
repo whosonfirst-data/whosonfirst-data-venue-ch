@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.3871040344,50.2977104187,2.3871040344,50.2977104187",
     "geom:latitude":50.29771,
     "geom:longitude":2.387104,
@@ -19,17 +20,40 @@
     "sg:postcode":"5504",
     "sg:province":"Aargau",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404227723,
+        404419045,
+        85633147,
+        1108826399,
+        101899427,
+        136253037,
+        102065647
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JENxcofBdrcSJ3w2T8QCX_50.297710_2.387104@1306268698"
     },
     "wof:country":"CH",
     "wof:created":1473742030,
-    "wof:geomhash":"8e3e5883373b192b08bf4c588b050e10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06fe6c58376c8e39e57df569bec19906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065647,
+            "empire_id":136253037,
+            "localadmin_id":404419045,
+            "locality_id":101899427,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1075126753
+        }
+    ],
     "wof:id":1075126753,
-    "wof:lastmodified":1473742030,
+    "wof:lastmodified":1496790722,
     "wof:name":"Etienne R\u00fcfenacht Tournage Sur Bois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.695174,47.065166,6.695174,47.065166",
     "geom:latitude":47.065166,
     "geom:longitude":6.695174,
@@ -38,8 +39,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683239,
+        102191581,
+        404228051,
+        404357181,
         85633147,
+        1108826395,
         101766855,
+        136253037,
         102067301
     ],
     "wof:breaches":[],
@@ -47,20 +53,23 @@
         "sg:id":"SG_1PHk4F9sSwryIeOaVDt0Ol_47.065166_6.695174@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3ed8a640adcf029b29952d93f0a2d5ad",
+    "wof:geomhash":"b69e9002f64435ddbf5f1e6a4ae789bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067301,
+            "empire_id":136253037,
+            "localadmin_id":404357181,
             "locality_id":101766855,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":219765291
         }
     ],
     "wof:id":219765291,
-    "wof:lastmodified":1473798398,
+    "wof:lastmodified":1496788179,
     "wof:name":"Pub Butterfly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

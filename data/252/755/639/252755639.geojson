@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.99114,49.10656,4.99114,49.10656",
     "geom:latitude":49.10656,
     "geom:longitude":4.99114,
@@ -23,27 +24,37 @@
     "sg:postcode":"3962",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683405,
+        102191581,
         85633147,
-        85683405
+        404413321,
+        404228279,
+        1108826391,
+        136253037,
+        102068693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oSbWM0cpNFk9o99BtmGyS_49.106560_4.991140@1306268639"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2fd1fec8c812c70195ae8637c3396b41",
+    "wof:geomhash":"88f88bcfa859571504e35c2fcb3f34f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102068693,
+            "empire_id":136253037,
+            "localadmin_id":404413321,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228279,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":252755639
         }
     ],
     "wof:id":252755639,
-    "wof:lastmodified":1473798069,
+    "wof:lastmodified":1496786675,
     "wof:name":"Eric Dubuis Grand Bazar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

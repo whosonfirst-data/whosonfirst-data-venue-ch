@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.6175060272,50.2207794189,1.6175060272,50.2207794189",
     "geom:latitude":50.220779,
     "geom:longitude":1.617506,
@@ -19,17 +20,40 @@
     "sg:postcode":"1950",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        404227761,
+        404382623,
+        85633147,
+        1108826399,
+        101811135,
+        136253037,
+        102070943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KRSOE4zapFDVmFJNDilAu_50.220779_1.617506@1306268730"
     },
     "wof:country":"CH",
     "wof:created":1473751954,
-    "wof:geomhash":"7ede2939f6e29097031e89227b176ec8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3a61fd79f2566fd3c550acf3c76512f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404382623,
+            "locality_id":101811135,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1075349483
+        }
+    ],
     "wof:id":1075349483,
-    "wof:lastmodified":1473751954,
+    "wof:lastmodified":1496795355,
     "wof:name":"Fondation De La Caisse De Pension Du B\u00e2timent Et Du G\u00e9nie Civil Et Des Branches Annexes De La Construction En Faveur Des Travailleurs Et Des Employeurs De L'industrie Du B\u00e2timent Du Canton Du Valais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

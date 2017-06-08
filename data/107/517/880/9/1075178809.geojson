@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6040525436,48.4817695618,14.6040525436,48.4817695618",
     "geom:latitude":48.48177,
     "geom:longitude":14.604053,
@@ -18,17 +19,33 @@
     "sg:postcode":"4051",
     "sg:province":"Basel-Stadt",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835099,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r0Lmssj1U6wsFta3Ef5Vr_48.481770_14.604053@1306268707"
     },
     "wof:country":"CH",
     "wof:created":1473744398,
-    "wof:geomhash":"1a6534fedf33ea2dc732b4673b312d77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ab3eb75bdf7eb856912d4f1458d1655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835099,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1075178809
+        }
+    ],
     "wof:id":1075178809,
-    "wof:lastmodified":1473744398,
+    "wof:lastmodified":1496868415,
     "wof:name":"Keller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

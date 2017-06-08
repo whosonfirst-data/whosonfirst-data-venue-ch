@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.935044,46.731876,2.935044,46.731876",
     "geom:latitude":46.731876,
     "geom:longitude":2.935044,
@@ -24,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683293,
+        102191581,
+        404227801,
+        404383813,
         85633147,
+        1108826389,
         101766525,
+        136253037,
         102067231
     ],
     "wof:breaches":[],
@@ -33,20 +39,23 @@
         "sg:id":"SG_2m3Q5jtDAoeetyxJDliFbM_46.731876_2.935044@1306268633"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e173953d832a3efe6367c4d215775c22",
+    "wof:geomhash":"57af3ba8e4ee817d76b75d281fe2ccec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067231,
+            "empire_id":136253037,
+            "localadmin_id":404383813,
             "locality_id":101766525,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":236228995
         }
     ],
     "wof:id":236228995,
-    "wof:lastmodified":1473798227,
+    "wof:lastmodified":1496806248,
     "wof:name":"Musudio Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

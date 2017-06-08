@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4900503159,48.2098617554,13.4900503159,48.2098617554",
     "geom:latitude":48.209862,
     "geom:longitude":13.49005,
@@ -19,17 +20,34 @@
     "sg:postcode":"1041",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CfLnAnhFJC5bIp6li8lqc_48.209862_13.490050@1306268674"
     },
     "wof:country":"CH",
     "wof:created":1473732781,
-    "wof:geomhash":"b49e652ef55208567269934a4e66fd64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dc4541ee83d9583351e68a506d484e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1074948179
+        }
+    ],
     "wof:id":1074948179,
-    "wof:lastmodified":1473732781,
+    "wof:lastmodified":1496872033,
     "wof:name":"Heinz Utzinger Vente Produits Chimiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

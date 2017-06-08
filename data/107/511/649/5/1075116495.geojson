@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6593108177,46.435836792,4.6593108177,46.435836792",
     "geom:latitude":46.435837,
     "geom:longitude":4.659311,
@@ -17,17 +18,40 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683543,
+        102191581,
+        404228293,
+        404405817,
+        85633147,
+        1108826395,
+        101766613,
+        136253037,
+        102066589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PuHhDpRD6t0dFN9o4dX5Z_46.435837_4.659311@1306268697"
     },
     "wof:country":"CH",
     "wof:created":1473741619,
-    "wof:geomhash":"3b6735d075994f654ccb88fb6105f6e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1ce1f91eb990e88a5946062e96d6cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066589,
+            "empire_id":136253037,
+            "localadmin_id":404405817,
+            "locality_id":101766613,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
+            "region_id":85683543,
+            "venue_id":1075116495
+        }
+    ],
     "wof:id":1075116495,
-    "wof:lastmodified":1473741619,
+    "wof:lastmodified":1496788121,
     "wof:name":"Guardian Security, Leith-smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

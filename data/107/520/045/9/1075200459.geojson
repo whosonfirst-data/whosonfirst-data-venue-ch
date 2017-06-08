@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9165282249,46.5652542114,5.9165282249,46.5652542114",
     "geom:latitude":46.565254,
     "geom:longitude":5.916528,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 26 924 69 39",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        85633147,
+        404356219,
+        404228085,
+        1108826395,
+        136253037,
+        102069553
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FKjWoOcz08yiVSn88Md8R_46.565254_5.916528@1306268709"
     },
     "wof:country":"CH",
     "wof:created":1473745374,
-    "wof:geomhash":"add4b997b306e54d1d72ebf20b11fb3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d0b9f7da7b527d2db8bdb83d1adb257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069553,
+            "empire_id":136253037,
+            "localadmin_id":404356219,
+            "locality_id":-1,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075200459
+        }
+    ],
     "wof:id":1075200459,
-    "wof:lastmodified":1473745374,
+    "wof:lastmodified":1496789301,
     "wof:name":"Albert Rossier Maitre-ramoneur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

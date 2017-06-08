@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3551912308,47.3993148804,6.3551912308,47.3993148804",
     "geom:latitude":47.399315,
     "geom:longitude":6.355191,
@@ -19,17 +20,39 @@
     "sg:postcode":"6060",
     "sg:province":"Obwalden",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        85633147,
+        404419171,
+        404227637,
+        1108826395,
+        136253037,
+        102064835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KJu2qrGoBoUNiZlk3MpIi_47.399315_6.355191@1306268717"
     },
     "wof:country":"CH",
     "wof:created":1473747815,
-    "wof:geomhash":"127563541274ef01b073207ea1ea6ef1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e565359351edeada055da3bfcc62506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064835,
+            "empire_id":136253037,
+            "localadmin_id":404419171,
+            "locality_id":-1,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075256427
+        }
+    ],
     "wof:id":1075256427,
-    "wof:lastmodified":1473747815,
+    "wof:lastmodified":1496788405,
     "wof:name":"Patrick M\u00e9groz Voiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

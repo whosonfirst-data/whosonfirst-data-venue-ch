@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.651049614,48.4240493774,14.651049614,48.4240493774",
     "geom:latitude":48.424049,
     "geom:longitude":14.65105,
@@ -18,17 +19,33 @@
     "sg:postcode":"9102",
     "sg:province":"Appenzell Ausserrhoden",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835097,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07x5LjM2bBzddsW8HAFkpd_48.424049_14.651050@1306268707"
     },
     "wof:country":"CH",
     "wof:created":1473744397,
-    "wof:geomhash":"a7259fa68fbb9d6893951232b294a413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28a8a3988dd46430f5c0adefeb109a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835097,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1075178807
+        }
+    ],
     "wof:id":1075178807,
-    "wof:lastmodified":1473744397,
+    "wof:lastmodified":1496868412,
     "wof:name":"Heimelig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

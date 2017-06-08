@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.9718980193,49.4285011292,0.9718980193,49.4285011292",
     "geom:latitude":49.428501,
     "geom:longitude":0.971898,
@@ -18,17 +19,39 @@
     "sg:postcode":"1873",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683251,
+        102191581,
+        85633147,
+        404381411,
+        404228157,
+        1108826393,
+        136253037,
+        102067325
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VZRNGc5tMwU1ffF4GsOCd_49.428501_0.971898@1306268723"
     },
     "wof:country":"CH",
     "wof:created":1473749636,
-    "wof:geomhash":"a4b871e179cf0baad788287c2fff939f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cfe37c165820fd967a6a2fc4762ad3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067325,
+            "empire_id":136253037,
+            "localadmin_id":404381411,
+            "locality_id":-1,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
+            "region_id":85683251,
+            "venue_id":1075297421
+        }
+    ],
     "wof:id":1075297421,
-    "wof:lastmodified":1473749636,
+    "wof:lastmodified":1496804747,
     "wof:name":"Ecoeur-liniger S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

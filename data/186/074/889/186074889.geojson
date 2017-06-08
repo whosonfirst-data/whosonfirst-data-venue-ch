@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.365091,46.89241,6.365091,46.89241",
     "geom:latitude":46.89241,
     "geom:longitude":6.365091,
@@ -24,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683239,
+        102191581,
+        404228051,
+        404374755,
         85633147,
+        1108826395,
         101829325,
+        136253037,
         102068065
     ],
     "wof:breaches":[],
@@ -33,20 +39,23 @@
         "sg:id":"SG_6YAX8PEELZax9IieWs4iKN_46.892410_6.365091@1306268613"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c2332ae75481d02b66f9ad11315ba7d9",
+    "wof:geomhash":"5bf2fed61fb301c2f4cc21cb52775cef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
             "locality_id":101829325,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":186074889
         }
     ],
     "wof:id":186074889,
-    "wof:lastmodified":1473798064,
+    "wof:lastmodified":1496788177,
     "wof:name":"Freiburghaus Pierre Sa, Succursale Des Brenets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

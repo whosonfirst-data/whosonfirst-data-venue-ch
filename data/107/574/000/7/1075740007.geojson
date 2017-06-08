@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3650588989,46.8927841187,6.3650588989,46.8927841187",
     "geom:latitude":46.892784,
     "geom:longitude":6.365059,
@@ -18,17 +19,40 @@
     "sg:postcode":"2800",
     "sg:province":"Jura",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
+        102068065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gskLFiQQPp8OCFwimIi2A_46.892784_6.365059@1306268784"
     },
     "wof:country":"CH",
     "wof:created":1473769152,
-    "wof:geomhash":"2b28831b6e9d24b8c961c79f709b2c35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"325da70175d7b773b505cc317bf9dac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
+            "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075740007
+        }
+    ],
     "wof:id":1075740007,
-    "wof:lastmodified":1473769152,
+    "wof:lastmodified":1496788834,
     "wof:name":"Butt M. Et K.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

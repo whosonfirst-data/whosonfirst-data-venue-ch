@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.971898,49.428501,0.971898,49.428501",
     "geom:latitude":49.428501,
     "geom:longitude":0.971898,
@@ -24,27 +25,37 @@
     "sg:province":"Valais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683251,
+        102191581,
         85633147,
-        85683251
+        404381411,
+        404228157,
+        1108826393,
+        136253037,
+        102067325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QmPA3YzHl61PSTHvhLnFc_49.428501_0.971898@1306268630"
     },
     "wof:country":"CH",
-    "wof:geomhash":"43b8a3ebee73981c2bdbe9ef98563917",
+    "wof:geomhash":"6b1bcd5f391f96932a80717466a5e02d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102067325,
+            "empire_id":136253037,
+            "localadmin_id":404381411,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":220101509
         }
     ],
     "wof:id":220101509,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496787893,
     "wof:name":"Herv\u00e9 Sch\u00f6nbett Menuiserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

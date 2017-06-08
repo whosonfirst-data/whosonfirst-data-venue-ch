@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.8179650307,50.3493080139,1.8179650307,50.3493080139",
     "geom:latitude":50.349308,
     "geom:longitude":1.817965,
@@ -19,17 +20,39 @@
     "sg:postcode":"1337",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        85633147,
+        404384957,
+        404227761,
+        1108826399,
+        136253037,
+        102070943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dq6g2my6ECENiVIpP7kr9_50.349308_1.817965@1306268654"
     },
     "wof:country":"CH",
     "wof:created":1473725521,
-    "wof:geomhash":"195361c4e375ea417727f1556ab75968",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c123c05fa2d31bcb2f7479bf7c5cbd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404384957,
+            "locality_id":-1,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1074802619
+        }
+    ],
     "wof:id":1074802619,
-    "wof:lastmodified":1473725521,
+    "wof:lastmodified":1496791197,
     "wof:name":"Fipuval Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

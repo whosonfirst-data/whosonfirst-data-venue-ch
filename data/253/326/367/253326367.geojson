@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.350682,46.902153,6.350682,46.902153",
     "geom:latitude":46.902153,
     "geom:longitude":6.350682,
@@ -24,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683239,
+        102191581,
+        404228051,
+        404374755,
         85633147,
+        1108826395,
         101829325,
+        136253037,
         102068065
     ],
     "wof:breaches":[],
@@ -33,20 +39,23 @@
         "sg:id":"SG_379nbWS1yZsoYTJEzNfdJO_46.902153_6.350682@1306268643"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d1d9260a2bee5bd34207ca05e1b5fd94",
+    "wof:geomhash":"231b184b86e7e2d6aa44e0f47c7788bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
             "locality_id":101829325,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":253326367
         }
     ],
     "wof:id":253326367,
-    "wof:lastmodified":1473798347,
+    "wof:lastmodified":1496788178,
     "wof:name":"Kiosque Bar Du Grenier - Folly Ginette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

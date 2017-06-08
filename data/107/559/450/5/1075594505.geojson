@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.581597805,46.3061332703,5.581597805,46.3061332703",
     "geom:latitude":46.306133,
     "geom:longitude":5.581598,
@@ -18,17 +19,39 @@
     "sg:postcode":"1816",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        85633147,
+        404411567,
+        404227883,
+        1108826395,
+        136253037,
+        102064551
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hvrQ39paRBNVu0kr9jP3E_46.306133_5.581598@1306268764"
     },
     "wof:country":"CH",
     "wof:created":1473762499,
-    "wof:geomhash":"29490fef7559e29e04dad9d48b5ecf5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbeb98f94187e635bd377f239b839256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064551,
+            "empire_id":136253037,
+            "localadmin_id":404411567,
+            "locality_id":-1,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075594505
+        }
+    ],
     "wof:id":1075594505,
-    "wof:lastmodified":1473762499,
+    "wof:lastmodified":1496788183,
     "wof:name":"Jacquemet Serge Bernard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

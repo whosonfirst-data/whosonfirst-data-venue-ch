@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6442952156,46.8252449036,5.6442952156,46.8252449036",
     "geom:latitude":46.825245,
     "geom:longitude":5.644295,
@@ -19,17 +20,40 @@
     "sg:postcode":"1253",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        404227883,
+        404423771,
+        85633147,
+        1108826395,
+        101889939,
+        136253037,
+        102069829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OvV9FmNOMgEPV7G1lj9QF_46.825245_5.644295@1306268697"
     },
     "wof:country":"CH",
     "wof:created":1473741826,
-    "wof:geomhash":"2b1f43bf3080e9109a8f0848848cbf05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c39a4c7577627f666d3d65d084ee94ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069829,
+            "empire_id":136253037,
+            "localadmin_id":404423771,
+            "locality_id":101889939,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075121709
+        }
+    ],
     "wof:id":1075121709,
-    "wof:lastmodified":1473741826,
+    "wof:lastmodified":1496789301,
     "wof:name":"Watch Repair Centre Hassaim Alain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8772120476,48.0698394775,6.8772120476,48.0698394775",
     "geom:latitude":48.069839,
     "geom:longitude":6.877212,
@@ -27,17 +28,40 @@
         "leather"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683223,
+        102191581,
+        404228179,
+        404427711,
+        85633147,
+        1108826391,
+        101829657,
+        136253037,
+        102066953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30vLaSX1LkfI8TsPCVxhaA_48.069839_6.877212@1306268714"
     },
     "wof:country":"CH",
     "wof:created":1473746943,
-    "wof:geomhash":"69bdb8e9b667628d260e4c59a7317e30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddd7e63b0a7e72615842f7b60d7c1298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066953,
+            "empire_id":136253037,
+            "localadmin_id":404427711,
+            "locality_id":101829657,
+            "macrocounty_id":404228179,
+            "macroregion_id":1108826391,
+            "region_id":85683223,
+            "venue_id":1075235179
+        }
+    ],
     "wof:id":1075235179,
-    "wof:lastmodified":1473746943,
+    "wof:lastmodified":1496785606,
     "wof:name":"Schweizer & Schoepf Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

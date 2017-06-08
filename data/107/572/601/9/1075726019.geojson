@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4919900894,47.9411315918,3.4919900894,47.9411315918",
     "geom:latitude":47.941132,
     "geom:longitude":3.49199,
@@ -18,17 +19,40 @@
     "sg:postcode":"1003",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683503,
+        102191581,
+        404227781,
+        404373435,
+        85633147,
+        1108826395,
+        101827705,
+        136253037,
+        102070949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QiPsXAYxbtdvRMRHA85BN_47.941132_3.491990@1306268782"
     },
     "wof:country":"CH",
     "wof:created":1473768491,
-    "wof:geomhash":"3a0e83100902231838dd79a5d4e98a40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ae726ee333b1dab2c884b647b84671e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070949,
+            "empire_id":136253037,
+            "localadmin_id":404373435,
+            "locality_id":101827705,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
+            "region_id":85683503,
+            "venue_id":1075726019
+        }
+    ],
     "wof:id":1075726019,
-    "wof:lastmodified":1473768491,
+    "wof:lastmodified":1496788184,
     "wof:name":"Vid\u00e9o Club Ascort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

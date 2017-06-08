@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0303697586,48.8561592102,15.0303697586,48.8561592102",
     "geom:latitude":48.856159,
     "geom:longitude":15.03037,
@@ -18,17 +19,33 @@
     "sg:postcode":"8200",
     "sg:province":"Schaffhausen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108834885,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pP978kNzpFKiDus3NyoWB_48.856159_15.030370@1306268767"
     },
     "wof:country":"CH",
     "wof:created":1473763455,
-    "wof:geomhash":"7fcb3a24c27d13cbf7ccb7bd3bc91965",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abd9cd24568c662826fc4a2fdc470348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108834885,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1075615667
+        }
+    ],
     "wof:id":1075615667,
-    "wof:lastmodified":1473763455,
+    "wof:lastmodified":1496866944,
     "wof:name":"Behrend Ag Heizung En Und L\u00fcftungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

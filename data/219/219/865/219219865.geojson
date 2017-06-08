@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.563736,46.774307,3.563736,46.774307",
     "geom:latitude":46.774307,
     "geom:longitude":3.563736,
@@ -24,27 +25,37 @@
     "sg:province":"Valais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683359,
+        102191581,
         85633147,
-        85683359
+        404409067,
+        404228123,
+        1108826395,
+        136253037,
+        102066167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W99WrBicgxq4dgKMGJdtQ_46.774307_3.563736@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"23e53011c925bb094bf5fca619e7b4db",
+    "wof:geomhash":"a5f43a6ba44c25a0e6d6f66927c5f643",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102066167,
+            "empire_id":136253037,
+            "localadmin_id":404409067,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":219219865
         }
     ],
     "wof:id":219219865,
-    "wof:lastmodified":1473798100,
+    "wof:lastmodified":1496788378,
     "wof:name":"Chemitubes S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

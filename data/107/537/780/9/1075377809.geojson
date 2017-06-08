@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0124998093,47.5027618408,7.0124998093,47.5027618408",
     "geom:latitude":47.502762,
     "geom:longitude":7.0125,
@@ -19,17 +20,40 @@
     "sg:postcode":"2926",
     "sg:province":"Jura",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683353,
+        102191581,
+        404227783,
+        404427913,
+        85633147,
+        1108826395,
+        101829441,
+        136253037,
+        102064533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0B4nwWmw7Aclm5GgF2YzaE_47.502762_7.012500@1306268734"
     },
     "wof:country":"CH",
     "wof:created":1473753110,
-    "wof:geomhash":"005bd5456c5abbcbda89d87ec91312e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c91692be5578811170bb46003b4371d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064533,
+            "empire_id":136253037,
+            "localadmin_id":404427913,
+            "locality_id":101829441,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
+            "region_id":85683353,
+            "venue_id":1075377809
+        }
+    ],
     "wof:id":1075377809,
-    "wof:lastmodified":1473753110,
+    "wof:lastmodified":1496789512,
     "wof:name":"Gendarmerie Cantonale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3508071899,46.902305603,6.3508071899,46.902305603",
     "geom:latitude":46.902306,
     "geom:longitude":6.350807,
@@ -19,17 +20,40 @@
     "sg:postcode":"1200",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
+        102068065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SCXT6vlei3VJMJqN7M70l_46.902306_6.350807@1306268790"
     },
     "wof:country":"CH",
     "wof:created":1473771685,
-    "wof:geomhash":"b89736ab904d2b848fb53196a250d206",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52a4e59e0325d7ce0044fa5c17ea73b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
+            "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075790951
+        }
+    ],
     "wof:id":1075790951,
-    "wof:lastmodified":1473771685,
+    "wof:lastmodified":1496788834,
     "wof:name":"Net & Blanc Nettoyage Chimiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

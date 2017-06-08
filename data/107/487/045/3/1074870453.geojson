@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8439049721,48.5893249512,6.8439049721,48.5893249512",
     "geom:latitude":48.589325,
     "geom:longitude":6.843905,
@@ -18,17 +19,40 @@
     "sg:postcode":"1822",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683343,
+        102191581,
+        404227915,
+        404426675,
+        85633147,
+        1108826391,
+        101762807,
+        136253037,
+        102065313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NfCrTD48PoDrzLdvfzxye_48.589325_6.843905@1306268663"
     },
     "wof:country":"CH",
     "wof:created":1473728894,
-    "wof:geomhash":"5cf83ac2b4b8abca390bdb4ac91feaac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0357585326941e9e69c102c5c30003f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065313,
+            "empire_id":136253037,
+            "localadmin_id":404426675,
+            "locality_id":101762807,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
+            "region_id":85683343,
+            "venue_id":1074870453
+        }
+    ],
     "wof:id":1074870453,
-    "wof:lastmodified":1473728894,
+    "wof:lastmodified":1496793889,
     "wof:name":"Loisirs Sympas Aeschlimann Mme R.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

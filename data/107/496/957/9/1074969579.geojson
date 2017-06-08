@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5046801567,46.334400177,4.5046801567,46.334400177",
     "geom:latitude":46.3344,
     "geom:longitude":4.50468,
@@ -19,17 +20,39 @@
     "sg:postcode":"1907",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683543,
+        102191581,
+        85633147,
+        404379659,
+        404228293,
+        1108826395,
+        136253037,
+        102069761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sg7CBuLzZfWUN8CsjbKC5_46.334400_4.504680@1306268677"
     },
     "wof:country":"CH",
     "wof:created":1473734026,
-    "wof:geomhash":"aa20e83d51cf1ddc1ef974686934ba20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bd83c119dabd52c2e6d3f377b644145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069761,
+            "empire_id":136253037,
+            "localadmin_id":404379659,
+            "locality_id":-1,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
+            "region_id":85683543,
+            "venue_id":1074969579
+        }
+    ],
     "wof:id":1074969579,
-    "wof:lastmodified":1473734026,
+    "wof:lastmodified":1496788722,
     "wof:name":"Pitteloud J.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

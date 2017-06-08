@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5561590195,46.4010238647,4.5561590195,46.4010238647",
     "geom:latitude":46.401024,
     "geom:longitude":4.556159,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 79 230 22 69",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683543,
+        102191581,
+        85633147,
+        404401161,
+        404228293,
+        1108826395,
+        136253037,
+        102066589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n7NveggmeJLAIL9ZNgOfB_46.401024_4.556159@1306268683"
     },
     "wof:country":"CH",
     "wof:created":1473736361,
-    "wof:geomhash":"3b75c83dc2a534935fa6ffd664061783",
-    "wof:hierarchy":[],
+    "wof:geomhash":"511c58d82db1440b847eb17b4e6f5455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066589,
+            "empire_id":136253037,
+            "localadmin_id":404401161,
+            "locality_id":-1,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
+            "region_id":85683543,
+            "venue_id":1075011251
+        }
+    ],
     "wof:id":1075011251,
-    "wof:lastmodified":1473736361,
+    "wof:lastmodified":1496788697,
     "wof:name":"Robert Gander Transports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

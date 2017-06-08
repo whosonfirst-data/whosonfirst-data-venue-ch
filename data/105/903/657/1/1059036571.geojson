@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1611909866,47.468624115,4.1611909866,47.468624115",
     "geom:latitude":47.468624,
     "geom:longitude":4.161191,
@@ -19,17 +20,40 @@
     "sg:postcode":"1895",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683563,
+        102191581,
+        404228045,
+        404405999,
+        85633147,
+        1108826395,
+        101888107,
+        136253037,
+        102070311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Md4OqANtXOkfwG2N51cli_47.468624_4.161191@1306268649"
     },
     "wof:country":"CH",
     "wof:created":1473723772,
-    "wof:geomhash":"be338c6b49a4b14d51dccd6908a4f11c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79efa2fdb1a088cba88915fb2db10be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070311,
+            "empire_id":136253037,
+            "localadmin_id":404405999,
+            "locality_id":101888107,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
+            "region_id":85683563,
+            "venue_id":1059036571
+        }
+    ],
     "wof:id":1059036571,
-    "wof:lastmodified":1473723772,
+    "wof:lastmodified":1496788140,
     "wof:name":"Beldomo Fritz Wyss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

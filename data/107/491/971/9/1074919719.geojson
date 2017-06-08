@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.3379590511,49.0488967896,-1.3379590511,49.0488967896",
     "geom:latitude":49.048897,
     "geom:longitude":-1.337959,
@@ -19,17 +20,39 @@
     "sg:postcode":"3900",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683489,
+        102191581,
+        85633147,
+        404378287,
+        404228105,
+        1108826393,
+        136253037,
+        102066157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QIxrMofCYZqabH1DMXNym_49.048897_-1.337959@1306268670"
     },
     "wof:country":"CH",
     "wof:created":1473731452,
-    "wof:geomhash":"177ba374a7fe4b3ebef07a51dcc5836f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5436c656ffce2348a730f48eb480095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066157,
+            "empire_id":136253037,
+            "localadmin_id":404378287,
+            "locality_id":-1,
+            "macrocounty_id":404228105,
+            "macroregion_id":1108826393,
+            "region_id":85683489,
+            "venue_id":1074919719
+        }
+    ],
     "wof:id":1074919719,
-    "wof:lastmodified":1473731452,
+    "wof:lastmodified":1496787466,
     "wof:name":"Jean-fran\u00e7ois Charmoy Sa Cr\u00e9ation De Jardins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.3083000183,46.3827972412,2.3083000183,46.3827972412",
     "geom:latitude":46.382797,
     "geom:longitude":2.3083,
@@ -18,17 +19,39 @@
     "sg:postcode":"1233",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683293,
+        102191581,
+        85633147,
+        404367375,
+        404227589,
+        1108826389,
+        136253037,
+        102066591
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MPhKEc4vTxKBrlbbEqLmU_46.382797_2.308300@1306268645"
     },
     "wof:country":"CH",
     "wof:created":1473722148,
-    "wof:geomhash":"9602c98718ca6a4ead98aff587ffc353",
-    "wof:hierarchy":[],
+    "wof:geomhash":"231110192f2525294a0100aa7c5d27e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066591,
+            "empire_id":136253037,
+            "localadmin_id":404367375,
+            "locality_id":-1,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
+            "region_id":85683293,
+            "venue_id":1059005555
+        }
+    ],
     "wof:id":1059005555,
-    "wof:lastmodified":1473722148,
+    "wof:lastmodified":1496806361,
     "wof:name":"Open Network, Jean-marc Guillermin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.366979,50.954361,2.366979,50.954361",
     "geom:latitude":50.954361,
     "geom:longitude":2.366979,
@@ -29,8 +30,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683445,
+        102191581,
+        404228245,
+        404417933,
         85633147,
+        1108826399,
         101855681,
+        136253037,
         102066001
     ],
     "wof:breaches":[],
@@ -38,20 +44,23 @@
         "sg:id":"SG_3dxxydgHj2qcIdb2t9GU5i_50.954361_2.366979@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4afc90b63bd17b4f94f04f740eb699b9",
+    "wof:geomhash":"d49546b7d8b5fda487530160ec0907f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066001,
+            "empire_id":136253037,
+            "localadmin_id":404417933,
             "locality_id":101855681,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":219746109
         }
     ],
     "wof:id":219746109,
-    "wof:lastmodified":1473798395,
+    "wof:lastmodified":1496791204,
     "wof:name":"Ueb (switzerland)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

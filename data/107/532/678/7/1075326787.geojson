@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9391069412,46.5712165833,5.9391069412,46.5712165833",
     "geom:latitude":46.571217,
     "geom:longitude":5.939107,
@@ -17,17 +18,40 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        404228085,
+        404388623,
+        85633147,
+        1108826395,
+        101766655,
+        136253037,
+        102069553
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cixher5mLidunbWDnB6De_46.571217_5.939107@1306268727"
     },
     "wof:country":"CH",
     "wof:created":1473751025,
-    "wof:geomhash":"7edac3ab382114ffbf3968e5654d4931",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cad7c8e118f6fcc23cce86eeb2979c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069553,
+            "empire_id":136253037,
+            "localadmin_id":404388623,
+            "locality_id":101766655,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075326787
+        }
+    ],
     "wof:id":1075326787,
-    "wof:lastmodified":1473751025,
+    "wof:lastmodified":1496789514,
     "wof:name":"Si Les Buissonnets Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

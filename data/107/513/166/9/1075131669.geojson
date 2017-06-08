@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9007158279,47.2114601135,6.9007158279,47.2114601135",
     "geom:latitude":47.21146,
     "geom:longitude":6.900716,
@@ -29,17 +30,52 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682347,
+        102191581,
+        404568587,
+        85633051,
+        102062875,
+        85683239,
+        85633147,
+        404427059,
+        404227849,
+        1108826395,
+        136253037,
+        102066485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oQE5sSshupJezqYCHpHL7_47.211460_6.900716@1306268699"
     },
     "wof:country":"CH",
     "wof:created":1473742264,
-    "wof:geomhash":"4de143105a6710ab644ab73bfcecad15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"817f7233b309d355dce0f4e999b99f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062875,
+            "localadmin_id":404568587,
+            "locality_id":-1,
+            "region_id":85682347,
+            "venue_id":1075131669
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066485,
+            "empire_id":136253037,
+            "localadmin_id":404427059,
+            "locality_id":-1,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075131669
+        }
+    ],
     "wof:id":1075131669,
-    "wof:lastmodified":1473742264,
+    "wof:lastmodified":1496789289,
     "wof:name":"Auberge De La Bou\u00e8ge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

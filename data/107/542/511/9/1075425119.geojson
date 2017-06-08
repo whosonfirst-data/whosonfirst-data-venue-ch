@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6972670555,47.0680618286,6.6972670555,47.0680618286",
     "geom:latitude":47.068062,
     "geom:longitude":6.697267,
@@ -24,17 +25,40 @@
     "sg:postcode":"1004",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404357181,
+        85633147,
+        1108826395,
+        101766855,
+        136253037,
+        102067301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KKjn9a3la87jyxW7rLze8_47.068062_6.697267@1306268741"
     },
     "wof:country":"CH",
     "wof:created":1473755164,
-    "wof:geomhash":"8f2dbbb35604c1e5987d9fa25f8a0d76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eef9b41dd2191d0a2c9558f8ebbc95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067301,
+            "empire_id":136253037,
+            "localadmin_id":404357181,
+            "locality_id":101766855,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075425119
+        }
+    ],
     "wof:id":1075425119,
-    "wof:lastmodified":1473755164,
+    "wof:lastmodified":1496788144,
     "wof:name":"Restaurant Du Doubs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

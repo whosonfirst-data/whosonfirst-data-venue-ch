@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.684564,48.338837,6.684564,48.338837",
     "geom:latitude":48.338837,
     "geom:longitude":6.684564,
@@ -23,27 +24,37 @@
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683223,
+        102191581,
         85633147,
-        85683223
+        404360099,
+        404227779,
+        1108826391,
+        136253037,
+        102068185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YWtaaSvystIzqHzpv2aDu_48.338837_6.684564@1306268640"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2000f6eb8c04ca4da8a526dcfda1a995",
+    "wof:geomhash":"7eb71dfdcbb5d7cafd9e98262276cfc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102068185,
+            "empire_id":136253037,
+            "localadmin_id":404360099,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":252833927
         }
     ],
     "wof:id":252833927,
-    "wof:lastmodified":1473798135,
+    "wof:lastmodified":1496793889,
     "wof:name":"Graf Textil Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

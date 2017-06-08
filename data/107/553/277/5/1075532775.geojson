@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.1297988892,47.5897598267,7.1297988892,47.5897598267",
     "geom:latitude":47.58976,
     "geom:longitude":7.129799,
@@ -18,17 +19,40 @@
     "sg:postcode":"1201",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683381,
+        102191581,
+        404227733,
+        404373497,
+        85633147,
+        1108826391,
+        101889593,
+        136253037,
+        102066053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oFigDpGxyJkWplR8YAT6g_47.589760_7.129799@1306268756"
     },
     "wof:country":"CH",
     "wof:created":1473759885,
-    "wof:geomhash":"66c6f660f758ca809863dc4b58984231",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2724984430065166e135b0bbd454c33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066053,
+            "empire_id":136253037,
+            "localadmin_id":404373497,
+            "locality_id":101889593,
+            "macrocounty_id":404227733,
+            "macroregion_id":1108826391,
+            "region_id":85683381,
+            "venue_id":1075532775
+        }
+    ],
     "wof:id":1075532775,
-    "wof:lastmodified":1473759885,
+    "wof:lastmodified":1496785169,
     "wof:name":"Levantes Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

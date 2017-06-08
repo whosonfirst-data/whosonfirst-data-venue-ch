@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0809497833,49.1224212646,6.0809497833,49.1224212646",
     "geom:latitude":49.122421,
     "geom:longitude":6.08095,
@@ -19,17 +20,40 @@
     "sg:postcode":"1653",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683271,
+        102191581,
+        404228321,
+        404415209,
+        85633147,
+        1108826391,
+        101750095,
+        136253037,
+        102066771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q5kUtjoAWDHKPVMlNPU0w_49.122421_6.080950@1306268693"
     },
     "wof:country":"CH",
     "wof:created":1473740478,
-    "wof:geomhash":"a574d73e927e339a89138ea7d9393d57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"085a086bccfede8052eaa595a3a027d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066771,
+            "empire_id":136253037,
+            "localadmin_id":404415209,
+            "locality_id":101750095,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
+            "region_id":85683271,
+            "venue_id":1075091993
+        }
+    ],
     "wof:id":1075091993,
-    "wof:lastmodified":1473740478,
+    "wof:lastmodified":1496793629,
     "wof:name":"Paul Schaller Meubles De Jardins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

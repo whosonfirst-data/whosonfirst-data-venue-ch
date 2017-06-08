@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.322174,46.882645,6.322174,46.882645",
     "geom:latitude":46.882645,
     "geom:longitude":6.322174,
@@ -24,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683239,
+        102191581,
+        404228051,
+        404374755,
         85633147,
+        1108826395,
         101829325,
+        136253037,
         102068065
     ],
     "wof:breaches":[],
@@ -33,20 +39,23 @@
         "sg:id":"SG_7eHC5ERVck4LeWH4TZsqnl_46.882645_6.322174@1306268631"
     },
     "wof:country":"CH",
-    "wof:geomhash":"ba7b5036fe323e7d38f8feed935db066",
+    "wof:geomhash":"9b1e064f89c3f927d171db141553fe1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
             "locality_id":101829325,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":220158827
         }
     ],
     "wof:id":220158827,
-    "wof:lastmodified":1473798165,
+    "wof:lastmodified":1496788699,
     "wof:name":"W\u00fcthrich Raymond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3498067856,46.9104766846,6.3498067856,46.9104766846",
     "geom:latitude":46.910477,
     "geom:longitude":6.349807,
@@ -19,17 +20,40 @@
     "sg:postcode":"1805",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
+        102068065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nN2iUmkNdAVLs1FDwdj2G_46.910477_6.349807@1306268749"
     },
     "wof:country":"CH",
     "wof:created":1473757639,
-    "wof:geomhash":"cb913b7d2cde3a21ce3f29479257fafc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa64d897b420dfdd2654e6fee99747e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
+            "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075480923
+        }
+    ],
     "wof:id":1075480923,
-    "wof:lastmodified":1473757639,
+    "wof:lastmodified":1496788694,
     "wof:name":"Paerli-littoral Sa Installations Sanitaires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

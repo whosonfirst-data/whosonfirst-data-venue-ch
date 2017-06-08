@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9869918823,46.4927558899,3.9869918823,46.4927558899",
     "geom:latitude":46.492756,
     "geom:longitude":3.986992,
@@ -18,17 +19,39 @@
     "sg:postcode":"6206",
     "sg:province":"Luzern",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683543,
+        102191581,
+        85633147,
+        404427607,
+        404228147,
+        1108826395,
+        136253037,
+        102067525
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kAATVLmfwBVK5ThA2VRFQ_46.492756_3.986992@1306268643"
     },
     "wof:country":"CH",
     "wof:created":1473721823,
-    "wof:geomhash":"fa8e72fd7e457f6b6558963d7454eadf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcdee9d6fbe0e114f9ee0ef015704019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067525,
+            "empire_id":136253037,
+            "localadmin_id":404427607,
+            "locality_id":-1,
+            "macrocounty_id":404228147,
+            "macroregion_id":1108826395,
+            "region_id":85683543,
+            "venue_id":1058999529
+        }
+    ],
     "wof:id":1058999529,
-    "wof:lastmodified":1473721823,
+    "wof:lastmodified":1496788184,
     "wof:name":"Vonlanthen, Claude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

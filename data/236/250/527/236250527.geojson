@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303113,46.896999,4.303113,46.896999",
     "geom:latitude":46.896999,
     "geom:longitude":4.303113,
@@ -24,27 +25,37 @@
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683543,
+        102191581,
         85633147,
-        85683543
+        404375703,
+        404227741,
+        1108826395,
+        136253037,
+        102069791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BwlnYc2mWQtjLEJiHO1NT_46.896999_4.303113@1306268633"
     },
     "wof:country":"CH",
-    "wof:geomhash":"16f7e98ec764146a2036349b7084835f",
+    "wof:geomhash":"53beb572986ad9e8651ec20695f7455d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102069791,
+            "empire_id":136253037,
+            "localadmin_id":404375703,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227741,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":236250527
         }
     ],
     "wof:id":236250527,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496789186,
     "wof:name":"Bowling De Meyrin Llc, Wilmington, Delaware Usa, Succursale De Vernier Pr\u00e8s De Gen\u00e8ve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6796197891,47.3175086975,6.6796197891,47.3175086975",
     "geom:latitude":47.317509,
     "geom:longitude":6.67962,
@@ -29,17 +30,39 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        85633147,
+        404412203,
+        404227849,
+        1108826395,
+        136253037,
+        102068203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yRZLWRFKYNM5gr6jk25BI_47.317509_6.679620@1306268718"
     },
     "wof:country":"CH",
     "wof:created":1473748027,
-    "wof:geomhash":"d6f95978e82bac35f6977e5a8c4bc1dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f04eb09f2be50f7d6f81abe8ee2c1e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068203,
+            "empire_id":136253037,
+            "localadmin_id":404412203,
+            "locality_id":-1,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075261831
+        }
+    ],
     "wof:id":1075261831,
-    "wof:lastmodified":1473748027,
+    "wof:lastmodified":1496788694,
     "wof:name":"Baudin Fr\u00c8res",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

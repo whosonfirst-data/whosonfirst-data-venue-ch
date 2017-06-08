@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.926940918,46.5761985779,5.926940918,46.5761985779",
     "geom:latitude":46.576199,
     "geom:longitude":5.926941,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 26 924 52 23",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        85633147,
+        404356219,
+        404228085,
+        1108826395,
+        136253037,
+        102069553
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XNmAoEfYwe7mOSFtMq2pz_46.576199_5.926941@1306268751"
     },
     "wof:country":"CH",
     "wof:created":1473758276,
-    "wof:geomhash":"7955ec885662155b7d3c75090d9247e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f601c76b05c356dd88a2bea04891f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069553,
+            "empire_id":136253037,
+            "localadmin_id":404356219,
+            "locality_id":-1,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075495631
+        }
+    ],
     "wof:id":1075495631,
-    "wof:lastmodified":1473758276,
+    "wof:lastmodified":1496788422,
     "wof:name":"Skilift Ch\u00e2teau-d'oex- Monts-chevreuils Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

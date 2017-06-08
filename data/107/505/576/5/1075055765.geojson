@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.817855835,47.4077529907,6.817855835,47.4077529907",
     "geom:latitude":47.407753,
     "geom:longitude":6.817856,
@@ -19,17 +20,39 @@
     "sg:postcode":"2000",
     "sg:province":"Neuch\u00e2tel",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        85633147,
+        404397191,
+        404227849,
+        1108826395,
+        136253037,
+        102065901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g79DVew0C1oMtInxfKEij_47.407753_6.817856@1306268689"
     },
     "wof:country":"CH",
     "wof:created":1473738564,
-    "wof:geomhash":"e20246494f6fd1d0ee916687895245a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a61c0d61e22e66558c0cd9d909d971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065901,
+            "empire_id":136253037,
+            "localadmin_id":404397191,
+            "locality_id":-1,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075055765
+        }
+    ],
     "wof:id":1075055765,
-    "wof:lastmodified":1473738564,
+    "wof:lastmodified":1496788125,
     "wof:name":"Techcell Industries Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

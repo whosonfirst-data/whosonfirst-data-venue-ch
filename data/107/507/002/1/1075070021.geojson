@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.2539389133,49.8641166687,2.2539389133,49.8641166687",
     "geom:latitude":49.864117,
     "geom:longitude":2.253939,
@@ -18,17 +19,39 @@
     "sg:postcode":"4900",
     "sg:province":"Bern",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        85633147,
+        404399517,
+        404227973,
+        1108826399,
+        136253037,
+        102066695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yxNVvAL7zsoDLbY5gS5Ub_49.864117_2.253939@1306268690"
     },
     "wof:country":"CH",
     "wof:created":1473739289,
-    "wof:geomhash":"d8c6a6b0edd2e3e9f581e710533414c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c047057c125f75ff609a1ae6f8f95c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066695,
+            "empire_id":136253037,
+            "localadmin_id":404399517,
+            "locality_id":-1,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1075070021
+        }
+    ],
     "wof:id":1075070021,
-    "wof:lastmodified":1473739289,
+    "wof:lastmodified":1496791250,
     "wof:name":"Nicollier Philippe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

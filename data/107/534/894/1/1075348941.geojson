@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.761901021,49.366027832,-1.761901021,49.366027832",
     "geom:latitude":49.366028,
     "geom:longitude":-1.761901,
@@ -18,17 +19,39 @@
     "sg:postcode":"1204",
     "sg:province":"Gen\u00e8ve",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683489,
+        102191581,
+        85633147,
+        404418251,
+        404227907,
+        1108826393,
+        136253037,
+        102064739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15d62vIKPkZ6weqvn1sR0m_49.366028_-1.761901@1306268730"
     },
     "wof:country":"CH",
     "wof:created":1473751930,
-    "wof:geomhash":"38214fce6fb2fb1d1a07da0e85f60e27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9b0e41adcbb91aee4bdc8facf39bd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064739,
+            "empire_id":136253037,
+            "localadmin_id":404418251,
+            "locality_id":-1,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
+            "region_id":85683489,
+            "venue_id":1075348941
+        }
+    ],
     "wof:id":1075348941,
-    "wof:lastmodified":1473751930,
+    "wof:lastmodified":1496786873,
     "wof:name":"Caisse De Pr\u00e9voyance De La Maison Edouard Nicole, Soci\u00e9t\u00e9 Anonyme.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

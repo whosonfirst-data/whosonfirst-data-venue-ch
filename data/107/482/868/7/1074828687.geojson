@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8878788948,46.7747688293,5.8878788948,46.7747688293",
     "geom:latitude":46.774769,
     "geom:longitude":5.887879,
@@ -32,17 +33,39 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        85633147,
+        404421259,
+        404227883,
+        1108826395,
+        136253037,
+        102065297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I5XYlFwmSQW1tbacUnxzR_46.774769_5.887879@1306268658"
     },
     "wof:country":"CH",
     "wof:created":1473726816,
-    "wof:geomhash":"e8084e61f0ad52dfc44f6a4d3ad91cb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70d234530f74a32a1af4ecdbe38ec929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065297,
+            "empire_id":136253037,
+            "localadmin_id":404421259,
+            "locality_id":-1,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1074828687
+        }
+    ],
     "wof:id":1074828687,
-    "wof:lastmodified":1473726816,
+    "wof:lastmodified":1496788125,
     "wof:name":"Siemens Suisse Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

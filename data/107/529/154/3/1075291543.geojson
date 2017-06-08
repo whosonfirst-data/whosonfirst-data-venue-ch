@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0533504486,48.9869003296,15.0533504486,48.9869003296",
     "geom:latitude":48.9869,
     "geom:longitude":15.05335,
@@ -18,17 +19,33 @@
     "sg:postcode":"6331",
     "sg:province":"Zug",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108835749,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VJz58zeQfZVLsfR64FUIC_48.986900_15.053350@1306268722"
     },
     "wof:country":"CH",
     "wof:created":1473749399,
-    "wof:geomhash":"a7cafe535d9d6a897e93dcce66a9c6f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"748c28937b9865028fcae25bd4b6ed5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108835749,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1075291543
+        }
+    ],
     "wof:id":1075291543,
-    "wof:lastmodified":1473749399,
+    "wof:lastmodified":1496872311,
     "wof:name":"B\u00fcrkert-contromatic Ag Schweiz Easy Fluid Control Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4595079422,46.6669425964,5.4595079422,46.6669425964",
     "geom:latitude":46.666943,
     "geom:longitude":5.459508,
@@ -29,17 +30,40 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        404227883,
+        404413777,
+        85633147,
+        1108826395,
+        101891519,
+        136253037,
+        102067045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7X66lNxOWvzvpcFnPgy5T4_46.666943_5.459508@1306268729"
     },
     "wof:country":"CH",
     "wof:created":1473751818,
-    "wof:geomhash":"893ac3e38fc331587a407c7bf13edc05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f2684126299031d194094e89be3002d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067045,
+            "empire_id":136253037,
+            "localadmin_id":404413777,
+            "locality_id":101891519,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075346471
+        }
+    ],
     "wof:id":1075346471,
-    "wof:lastmodified":1473751818,
+    "wof:lastmodified":1496789513,
     "wof:name":"Imprimerie Marsens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

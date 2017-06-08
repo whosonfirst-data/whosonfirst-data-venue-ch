@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877982,46.578636,4.877982,46.578636",
     "geom:latitude":46.578636,
     "geom:longitude":4.877982,
@@ -23,27 +24,37 @@
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683543,
+        102191581,
         85633147,
-        85683543
+        404413995,
+        404227955,
+        1108826395,
+        136253037,
+        102071449
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Wv0Iwta9wMhcIWhWftNaj_46.578636_4.877982@1306268617"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e720581346c60a3759f218b3a949a1f7",
+    "wof:geomhash":"c99f753b068cfdfddaafc430fb96f881",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102071449,
+            "empire_id":136253037,
+            "localadmin_id":404413995,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":202441157
         }
     ],
     "wof:id":202441157,
-    "wof:lastmodified":1473798093,
+    "wof:lastmodified":1496788177,
     "wof:name":"Cad Architecture, Joye Dolor\u00e8s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

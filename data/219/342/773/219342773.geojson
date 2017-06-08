@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.17186,45.672859,3.17186,45.672859",
     "geom:latitude":45.672859,
     "geom:longitude":3.17186,
@@ -25,8 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683471,
+        102191581,
+        404227937,
+        404367527,
         85633147,
+        1108826389,
         101828985,
+        136253037,
         102071481
     ],
     "wof:breaches":[],
@@ -34,20 +40,23 @@
         "sg:id":"SG_2XhHSu5CZ54Pva1aG8Ll5O_45.672859_3.171860@1306268624"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9b62164eba7a3597b39542db015486a5",
+    "wof:geomhash":"f6c33a48b812638d91128e40c9f6e4d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071481,
+            "empire_id":136253037,
+            "localadmin_id":404367527,
             "locality_id":101828985,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":219342773
         }
     ],
     "wof:id":219342773,
-    "wof:lastmodified":1473798203,
+    "wof:lastmodified":1496806168,
     "wof:name":"Garage Du Tennis Sa Garage Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

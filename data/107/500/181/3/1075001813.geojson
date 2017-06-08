@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.5530380011,49.2477798462,1.5530380011,49.2477798462",
     "geom:latitude":49.24778,
     "geom:longitude":1.553038,
@@ -19,17 +20,40 @@
     "sg:postcode":"1762",
     "sg:province":"Fribourg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683283,
+        102191581,
+        404227641,
+        404422783,
+        85633147,
+        1108826393,
+        101877703,
+        136253037,
+        102066987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rHkOiV0pivcprDxuan68C_49.247780_1.553038@1306268681"
     },
     "wof:country":"CH",
     "wof:created":1473735875,
-    "wof:geomhash":"1c8b20199847d39eb50dd71f8e57b5e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d535c986483fff2fad5f2a3c520384b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066987,
+            "empire_id":136253037,
+            "localadmin_id":404422783,
+            "locality_id":101877703,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
+            "region_id":85683283,
+            "venue_id":1075001813
+        }
+    ],
     "wof:id":1075001813,
-    "wof:lastmodified":1473735875,
+    "wof:lastmodified":1496787291,
     "wof:name":"Fitness-center Top Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

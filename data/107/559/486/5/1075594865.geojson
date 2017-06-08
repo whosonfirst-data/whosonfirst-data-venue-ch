@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3542399406,46.9116020203,6.3542399406,46.9116020203",
     "geom:latitude":46.911602,
     "geom:longitude":6.35424,
@@ -19,17 +20,40 @@
     "sg:postcode":"1026",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
+        102068065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oOmQkiqVNTjrjllzSb0nN_46.911602_6.354240@1306268764"
     },
     "wof:country":"CH",
     "wof:created":1473762512,
-    "wof:geomhash":"86748e2ca4cbdcc49364337fc9549c7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f58dfd6f3d17dfa1a6a55ffe2548dd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
+            "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075594865
+        }
+    ],
     "wof:id":1075594865,
-    "wof:lastmodified":1473762512,
+    "wof:lastmodified":1496789478,
     "wof:name":"Martinelli Mario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

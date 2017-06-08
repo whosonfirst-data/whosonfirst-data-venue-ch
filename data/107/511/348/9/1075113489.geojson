@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.9467660189,50.2957191467,1.9467660189,50.2957191467",
     "geom:latitude":50.295719,
     "geom:longitude":1.946766,
@@ -19,17 +20,40 @@
     "sg:postcode":"1896",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404228249,
+        404379385,
+        85633147,
+        1108826399,
+        101899303,
+        136253037,
+        102069233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nWxc53sQedc1q5kVDFPcG_50.295719_1.946766@1306268696"
     },
     "wof:country":"CH",
     "wof:created":1473741493,
-    "wof:geomhash":"ae80f76000c8f56e7e6c9961c70aae80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4f95af48ef4e17756b43b4818c36f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069233,
+            "empire_id":136253037,
+            "localadmin_id":404379385,
+            "locality_id":101899303,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1075113489
+        }
+    ],
     "wof:id":1075113489,
-    "wof:lastmodified":1473741493,
+    "wof:lastmodified":1496791250,
     "wof:name":"Beaubourg, Bernasconi G.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

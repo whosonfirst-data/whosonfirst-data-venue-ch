@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0128560066,47.5026130676,7.0128560066,47.5026130676",
     "geom:latitude":47.502613,
     "geom:longitude":7.012856,
@@ -19,17 +20,40 @@
     "sg:postcode":"2926",
     "sg:province":"Jura",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683353,
+        102191581,
+        404227783,
+        404427913,
+        85633147,
+        1108826395,
+        101829441,
+        136253037,
+        102064533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WoLLo4AhL0nuUjuNaMWjH_47.502613_7.012856@1306268683"
     },
     "wof:country":"CH",
     "wof:created":1473736504,
-    "wof:geomhash":"bdf728e2c6752e4380dbb712ac59379f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb867de86cd983f94dd4c3b60dae5163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064533,
+            "empire_id":136253037,
+            "localadmin_id":404427913,
+            "locality_id":101829441,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
+            "region_id":85683353,
+            "venue_id":1075014635
+        }
+    ],
     "wof:id":1075014635,
-    "wof:lastmodified":1473736504,
+    "wof:lastmodified":1496788124,
     "wof:name":"Gefco (suisse) Sa Transport Par Route, Wagon, Avion Et B\u00e2teau Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

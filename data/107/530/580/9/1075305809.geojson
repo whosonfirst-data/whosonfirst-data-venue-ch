@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6952328682,47.0680580139,6.6952328682,47.0680580139",
     "geom:latitude":47.068058,
     "geom:longitude":6.695233,
@@ -18,17 +19,40 @@
     "sg:postcode":"4954",
     "sg:province":"Bern",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404357181,
+        85633147,
+        1108826395,
+        101766855,
+        136253037,
+        102067301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Bx3iN8Dht7uKloFKtNc7d_47.068058_6.695233@1306268724"
     },
     "wof:country":"CH",
     "wof:created":1473749966,
-    "wof:geomhash":"6cded9fbc0baef64a1311b90667b99d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d3921d7cd903dc701b4bc3dfa3aad5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067301,
+            "empire_id":136253037,
+            "localadmin_id":404357181,
+            "locality_id":101766855,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075305809
+        }
+    ],
     "wof:id":1075305809,
-    "wof:lastmodified":1473749966,
+    "wof:lastmodified":1496788667,
     "wof:name":"Huguenin Lionel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

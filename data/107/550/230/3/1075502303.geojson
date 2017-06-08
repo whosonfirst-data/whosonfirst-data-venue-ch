@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7887229919,45.2325172424,6.7887229919,45.2325172424",
     "geom:latitude":45.232517,
     "geom:longitude":6.788723,
@@ -18,17 +19,39 @@
     "sg:postcode":"2738",
     "sg:province":"Bern",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683265,
+        102191581,
+        85633147,
+        404424669,
+        404228153,
+        1108826389,
+        136253037,
+        102067321
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bU635BG2zwH1iXtAAQKj5_45.232517_6.788723@1306268752"
     },
     "wof:country":"CH",
     "wof:created":1473758576,
-    "wof:geomhash":"93bf3297d732222c716b38f28e8a86aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee9e2756f9ff16f2f572e7e94059a370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067321,
+            "empire_id":136253037,
+            "localadmin_id":404424669,
+            "locality_id":-1,
+            "macrocounty_id":404228153,
+            "macroregion_id":1108826389,
+            "region_id":85683265,
+            "venue_id":1075502303
+        }
+    ],
     "wof:id":1075502303,
-    "wof:lastmodified":1473758576,
+    "wof:lastmodified":1496800120,
     "wof:name":"Houmard.com Sa Soci\u00e9t\u00e9 De Service Fournissant Des Prestations Dans Le Dom. Des Technologies De L'information Etc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

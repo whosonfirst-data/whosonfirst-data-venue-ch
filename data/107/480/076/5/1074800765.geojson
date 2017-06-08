@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9581398964,46.5957260132,5.9581398964,46.5957260132",
     "geom:latitude":46.595726,
     "geom:longitude":5.95814,
@@ -18,17 +19,39 @@
     "sg:phone":"+41 26 924 48 17",
     "sg:postcode":"1837",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        85633147,
+        404386249,
+        404228085,
+        1108826395,
+        136253037,
+        102069553
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kUOio2m17CwaCPz091Jmj_46.595726_5.958140@1306268654"
     },
     "wof:country":"CH",
     "wof:created":1473725406,
-    "wof:geomhash":"c4805bf9499657315289ccb8db6e5233",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd803e667e2006c08ebc2fd734816b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069553,
+            "empire_id":136253037,
+            "localadmin_id":404386249,
+            "locality_id":-1,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1074800765
+        }
+    ],
     "wof:id":1074800765,
-    "wof:lastmodified":1473725406,
+    "wof:lastmodified":1496789511,
     "wof:name":"A. Transmontana Sp\u00e9cialit\u00e9s Portugaises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

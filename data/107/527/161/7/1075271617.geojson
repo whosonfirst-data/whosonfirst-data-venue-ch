@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.673140049,50.2713317871,1.673140049,50.2713317871",
     "geom:latitude":50.271332,
     "geom:longitude":1.67314,
@@ -28,17 +29,40 @@
         "metalworking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        404227761,
+        404374855,
+        85633147,
+        1108826399,
+        101811139,
+        136253037,
+        102070943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17B1r78gtDxyQV8IhZUOfl_50.271332_1.673140@1306268719"
     },
     "wof:country":"CH",
     "wof:created":1473748439,
-    "wof:geomhash":"63d819fa7b4b086d5e215d376e4f49b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c95e42388775e45a9ce2d55909fe995e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404374855,
+            "locality_id":101811139,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1075271617
+        }
+    ],
     "wof:id":1075271617,
-    "wof:lastmodified":1473748439,
+    "wof:lastmodified":1496792705,
     "wof:name":"Pibomulti Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

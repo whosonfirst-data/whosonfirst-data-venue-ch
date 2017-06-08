@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.1336299926,47.041431427,0.1336299926,47.041431427",
     "geom:latitude":47.041431,
     "geom:longitude":0.13363,
@@ -29,17 +30,39 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683185,
+        102191581,
+        85633147,
+        404376999,
+        404227775,
+        1108826385,
+        136253037,
+        102066461
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z8T73jVBlzvBPevAOoCxE_47.041431_0.133630@1306268701"
     },
     "wof:country":"CH",
     "wof:created":1473742675,
-    "wof:geomhash":"a646ceb3f104d72bef73b8809d3e5996",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b3f69f236d3f7f5e3d5eaed62163b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066461,
+            "empire_id":136253037,
+            "localadmin_id":404376999,
+            "locality_id":-1,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
+            "region_id":85683185,
+            "venue_id":1075140811
+        }
+    ],
     "wof:id":1075140811,
-    "wof:lastmodified":1473742675,
+    "wof:lastmodified":1496798740,
     "wof:name":"H\u00f4tel Des Chemins-de-fer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

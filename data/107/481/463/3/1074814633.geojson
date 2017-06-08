@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4345901012,47.0694694519,3.4345901012,47.0694694519",
     "geom:latitude":47.069469,
     "geom:longitude":3.43459,
@@ -28,17 +29,39 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683359,
+        102191581,
+        85633147,
+        404398729,
+        404228123,
+        1108826395,
+        136253037,
+        102068655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UcM5QnJXrnehQrezDx9A1_47.069469_3.434590@1306268656"
     },
     "wof:country":"CH",
     "wof:created":1473726114,
-    "wof:geomhash":"f3c55ff951e0c360e009217b278129b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fcacace7a977f6211a4bc85ee21d6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068655,
+            "empire_id":136253037,
+            "localadmin_id":404398729,
+            "locality_id":-1,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
+            "region_id":85683359,
+            "venue_id":1074814633
+        }
+    ],
     "wof:id":1074814633,
-    "wof:lastmodified":1473726114,
+    "wof:lastmodified":1496789028,
     "wof:name":"Vranken Pommery Suisse Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

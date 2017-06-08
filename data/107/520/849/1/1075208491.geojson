@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3208007812,46.881439209,6.3208007812,46.881439209",
     "geom:latitude":46.881439,
     "geom:longitude":6.320801,
@@ -19,17 +20,40 @@
     "sg:postcode":"6500",
     "sg:province":"Ticino",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
+        102068065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gqI3NKM0g87jKPA8BTOVm_46.881439_6.320801@1306268710"
     },
     "wof:country":"CH",
     "wof:created":1473745779,
-    "wof:geomhash":"bef2234fa1489ab176f32a7f4d2241de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58338f95d3f6cb2e055c71d773af7515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
+            "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1075208491
+        }
+    ],
     "wof:id":1075208491,
-    "wof:lastmodified":1473745779,
+    "wof:lastmodified":1496788153,
     "wof:name":"Si Cortina A Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

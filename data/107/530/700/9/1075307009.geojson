@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.2019699812,49.8808860779,1.2019699812,49.8808860779",
     "geom:latitude":49.880886,
     "geom:longitude":1.20197,
@@ -18,17 +19,40 @@
     "sg:postcode":"1920",
     "sg:province":"Valais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683251,
+        102191581,
+        404227751,
+        404358837,
+        85633147,
+        1108826393,
+        101812469,
+        136253037,
+        102067593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09N75dPxJbjELbSkrJIxit_49.880886_1.201970@1306268724"
     },
     "wof:country":"CH",
     "wof:created":1473750018,
-    "wof:geomhash":"8807edb205fd45a7491068103e9abd69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bb133d478cf68c9e268320a80bb96d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067593,
+            "empire_id":136253037,
+            "localadmin_id":404358837,
+            "locality_id":101812469,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
+            "region_id":85683251,
+            "venue_id":1075307009
+        }
+    ],
     "wof:id":1075307009,
-    "wof:lastmodified":1473750018,
+    "wof:lastmodified":1496787243,
     "wof:name":"Infiauto Holding Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

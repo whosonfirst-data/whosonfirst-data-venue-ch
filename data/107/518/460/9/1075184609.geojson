@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4520339966,46.4692268372,5.4520339966,46.4692268372",
     "geom:latitude":46.469227,
     "geom:longitude":5.452034,
@@ -18,17 +19,39 @@
     "sg:postcode":"1110",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        85633147,
+        404366393,
+        404227883,
+        1108826395,
+        136253037,
+        102068971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vjAYs8suC735oBewPGPZJ_46.469227_5.452034@1306268707"
     },
     "wof:country":"CH",
     "wof:created":1473744636,
-    "wof:geomhash":"024262397a2ca95834c6f3cc5a2311b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4ef3ca0d2765ea5b55e70b5e627f926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068971,
+            "empire_id":136253037,
+            "localadmin_id":404366393,
+            "locality_id":-1,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1075184609
+        }
+    ],
     "wof:id":1075184609,
-    "wof:lastmodified":1473744636,
+    "wof:lastmodified":1496788361,
     "wof:name":"Fondation Pernet Georges Et Anny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

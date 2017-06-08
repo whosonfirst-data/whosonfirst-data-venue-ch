@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3486571312,46.911190033,6.3486571312,46.911190033",
     "geom:latitude":46.91119,
     "geom:longitude":6.348657,
@@ -19,17 +20,40 @@
     "sg:postcode":"1522",
     "sg:province":"Vaud",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
+        102068065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78eRfQICcKU9af8fCXwaQh_46.911190_6.348657@1306268671"
     },
     "wof:country":"CH",
     "wof:created":1473731552,
-    "wof:geomhash":"3f16dbd4edd69826dd8ae03fe02f9201",
-    "wof:hierarchy":[],
+    "wof:geomhash":"908967ad54d74f7d135fd00f1a327a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
+            "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
+            "region_id":85683239,
+            "venue_id":1074921789
+        }
+    ],
     "wof:id":1074921789,
-    "wof:lastmodified":1473731552,
+    "wof:lastmodified":1496788178,
     "wof:name":"Claude Pilatti Entreprise De Nettoyage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
