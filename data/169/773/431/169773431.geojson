@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.538002,45.465824,-73.538002,45.465824",
     "geom:latitude":45.465824,
     "geom:longitude":-73.538002,
@@ -25,27 +26,31 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85871123,
+        102191575,
         85633041,
-        101736545
+        101736545,
+        1108955749,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dWphv1MyIqI5a5dpKUEmS_45.465824_-73.538002@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"58e004b86cb3d013d60382e601508f9b",
+    "wof:geomhash":"25fb0467cbad03fa4f26efac76e5d326",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108955749,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101736545,
             "neighbourhood_id":85871123,
-            "region_id":-1,
+            "region_id":136251273,
             "venue_id":169773431
         }
     ],
     "wof:id":169773431,
-    "wof:lastmodified":1473798316,
+    "wof:lastmodified":1497474642,
     "wof:name":"Golden Wood",
     "wof:parent_id":85871123,
     "wof:placetype":"venue",

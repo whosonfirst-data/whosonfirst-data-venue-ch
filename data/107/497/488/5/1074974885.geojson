@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4526233673,47.2388801575,11.4526233673,47.2388801575",
     "geom:latitude":47.23888,
     "geom:longitude":11.452623,
@@ -20,10 +21,13 @@
     "sg:province":"Obwalden",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,18 +35,21 @@
     },
     "wof:country":"CH",
     "wof:created":1473734290,
-    "wof:geomhash":"4f179e20c55d1fb31bf0f12c5bd805cc",
+    "wof:geomhash":"de4d1b15b2fc686cbac0c5be48f5a3f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1074974885
         }
     ],
     "wof:id":1074974885,
-    "wof:lastmodified":1473734290,
+    "wof:lastmodified":1496898696,
     "wof:name":"Paul Vogler Viehhandel",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.284619,46.99596,15.284619,46.99596",
     "geom:latitude":46.99596,
     "geom:longitude":15.284619,
@@ -28,8 +29,11 @@
     "sg:postcode":"8562",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839355,
         85632785,
-        85681687
+        102049717
     ],
     "wof:brand_id":420574951,
     "wof:breaches":[],
@@ -37,19 +41,20 @@
         "sg:id":"SG_73tU9fszsSrPIWYdJbITHy_46.995960_15.284619@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"dc2f92b8abbf1f59ed166a2566de4fb7",
+    "wof:geomhash":"8e1f3fa8d7bfe1a41ad27b63f5f29810",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108839355,
             "locality_id":-1,
-            "neighbourhood_id":-1,
             "region_id":85681687,
             "venue_id":219534463
         }
     ],
     "wof:id":219534463,
-    "wof:lastmodified":1473798337,
+    "wof:lastmodified":1496913744,
     "wof:name":"Credit Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

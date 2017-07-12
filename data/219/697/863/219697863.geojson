@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.142053,47.368271,11.142053,47.368271",
     "geom:latitude":47.368271,
     "geom:longitude":11.142053,
@@ -28,8 +29,11 @@
     "sg:postcode":"5265",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
         85632785,
-        85681661
+        102049735
     ],
     "wof:brand_id":420574029,
     "wof:breaches":[],
@@ -37,19 +41,20 @@
         "sg:id":"SG_290DarDMlDYFL05OXewKFV_47.368271_11.142053@1306268627"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d7484c0a803100e7436bff820250801f",
+    "wof:geomhash":"91eabb4f42d6d44a042abea81b924565",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
             "locality_id":-1,
-            "neighbourhood_id":-1,
             "region_id":85681661,
             "venue_id":219697863
         }
     ],
     "wof:id":219697863,
-    "wof:lastmodified":1473798402,
+    "wof:lastmodified":1496898438,
     "wof:name":"Schweiz. Mobiliar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3038396835,46.6218185425,14.3038396835,46.6218185425",
     "geom:latitude":46.621819,
     "geom:longitude":14.30384,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
+        85898247,
         102191581,
+        1108838143,
         85632785,
         101748059,
         102049679,
-        85898247
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,12 +47,13 @@
     },
     "wof:country":"CH",
     "wof:created":1473730664,
-    "wof:geomhash":"09dcccf60b56bef978373cb36e7623e5",
+    "wof:geomhash":"752cbfb950515300caab4c09d5e3bdb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
             "locality_id":101748059,
             "neighbourhood_id":85898247,
             "region_id":85681655,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1074903859,
-    "wof:lastmodified":1473730664,
+    "wof:lastmodified":1496905753,
     "wof:name":"Gravure Sa",
     "wof:parent_id":85898247,
     "wof:placetype":"venue",

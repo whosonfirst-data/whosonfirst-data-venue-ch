@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.453603,47.084209,10.453603,47.084209",
     "geom:latitude":47.084209,
     "geom:longitude":10.453603,
@@ -24,27 +25,31 @@
     "sg:province":"Thurgau",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837299,
         85632785,
-        85681661
+        102049707
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zjrBxVi9llTD37or7VHuK_47.084209_10.453603@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"789d7fde8bdb3c5b9fd6a30300aab629",
+    "wof:geomhash":"8eaa7c9b202936e9e9bac0057cc7bf7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837299,
             "locality_id":-1,
-            "neighbourhood_id":-1,
             "region_id":85681661,
             "venue_id":203387055
         }
     ],
     "wof:id":203387055,
-    "wof:lastmodified":1473798293,
+    "wof:lastmodified":1496896777,
     "wof:name":"Dr.med.peter Klaus Spezialarzt Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

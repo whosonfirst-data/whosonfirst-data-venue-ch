@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3321800232,47.1190185547,11.3321800232,47.1190185547",
     "geom:latitude":47.119019,
     "geom:longitude":11.33218,
@@ -30,17 +31,34 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        101834213,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PiUGf1QRvwpXDvbFYPW3R_47.119019_11.332180@1306268658"
     },
     "wof:country":"CH",
     "wof:created":1473726884,
-    "wof:geomhash":"7de425d26debc4196b37d8560d30832a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82d0463d7ec8c08a243f592d5e1d2506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":101834213,
+            "region_id":85681661,
+            "venue_id":1074829895
+        }
+    ],
     "wof:id":1074829895,
-    "wof:lastmodified":1473726884,
+    "wof:lastmodified":1496898535,
     "wof:name":"Elektrizit\u00c4tswerk Altdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
