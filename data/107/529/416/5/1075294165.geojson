@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.525604248,47.3845787048,8.525604248,47.3845787048",
     "geom:latitude":47.384579,
     "geom:longitude":8.525604,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fabrikstrasse 50",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749513,
-    "wof:geomhash":"4ecb42332c1102fac0e2c0df0a81bdf3",
+    "wof:geomhash":"64da5c1ddb9ef51efe71ea1071c1aea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075294165,
-    "wof:lastmodified":1473749513,
+    "wof:lastmodified":1510944122,
     "wof:name":"Control Instruments Holding Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075620401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

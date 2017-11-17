@@ -7,13 +7,16 @@
     "addr:postcode":"8105",
     "addr:street":"Althardstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.467306,47.440693,8.467306,47.440693",
     "geom:latitude":47.440693,
     "geom:longitude":8.467306,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Althardstrasse 150",
     "sg:city":"Regensdorf",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2vTO0C3FwY6wwGL21jkhVu_47.440693_8.467306@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8730b2d49c2b6bbed9dc7006ae4f8655",
+    "wof:geomhash":"c53cf572c6ca0fa3e275d23d77ec673e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236793779,
-    "wof:lastmodified":1473798453,
+    "wof:lastmodified":1510941449,
     "wof:name":"Safenet Data Systems Ag",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075151787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cryptographic",

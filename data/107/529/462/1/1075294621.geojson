@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3059082031,47.0487670898,8.3059082031,47.0487670898",
     "geom:latitude":47.048767,
     "geom:longitude":8.305908,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pilatusstrasse 18",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749529,
-    "wof:geomhash":"41475ccef34877fa78c9aed624761e01",
+    "wof:geomhash":"a890678b5b81334fe15336bfdeaf1530",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075294621,
-    "wof:lastmodified":1473749529,
+    "wof:lastmodified":1510941457,
     "wof:name":"Creek Investment Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075620797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

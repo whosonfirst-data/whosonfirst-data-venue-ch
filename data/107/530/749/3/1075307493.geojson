@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5385026932,47.3713111877,8.5385026932,47.3713111877",
     "geom:latitude":47.371311,
     "geom:longitude":8.538503,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 37",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750036,
-    "wof:geomhash":"71adca1de6a149bd72165973c95ea8b6",
+    "wof:geomhash":"9993b19bded355783f390a15ed8ecebe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1075307493,
-    "wof:lastmodified":1473750036,
+    "wof:lastmodified":1510943671,
     "wof:name":"Intergas Holding",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075633563
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

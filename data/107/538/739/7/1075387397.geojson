@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7610883713,47.2043075562,8.7610883713,47.2043075562",
     "geom:latitude":47.204308,
     "geom:longitude":8.761088,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wolleraustr. 11a",
     "sg:city":"Freienbach",
     "sg:classifiers":[
@@ -34,16 +37,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473753496,
-    "wof:geomhash":"c37ceefaea03442a31a772dcb8708e7e",
+    "wof:geomhash":"ae028aa6b100641367bb59cd3322ca70",
     "wof:hierarchy":[],
     "wof:id":1075387397,
-    "wof:lastmodified":1473753496,
+    "wof:lastmodified":1510944164,
     "wof:name":"Eurotax Holding Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075625093
+    ],
+    "wof:supersedes":[
+        1075298995
+    ],
     "wof:tags":[
         "publishing"
     ]

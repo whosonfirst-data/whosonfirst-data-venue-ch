@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1515002251,46.2049484253,6.1515002251,46.2049484253",
     "geom:latitude":46.204948,
     "geom:longitude":6.1515,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ile Quai De L' 15 1204 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751170,
-    "wof:geomhash":"28642e3b234ca26d849488ba5ff1eac1",
+    "wof:geomhash":"fad818869d0a2c3462a1995d591cb10b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075330255,
-    "wof:lastmodified":1473751170,
+    "wof:lastmodified":1510943261,
     "wof:name":"Soci\u00e9t\u00e9 Immobili\u00e8re Nova Grand'rue",
     "wof:parent_id":85897663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075655969
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

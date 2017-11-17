@@ -7,13 +7,16 @@
     "addr:postcode":"8032",
     "addr:street":"Streulistr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.561465,47.366035,8.561465,47.366035",
     "geom:latitude":47.366035,
     "geom:longitude":8.561465,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Streulistr. 19",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2xbIIQAzlvBUHecbT2AHfB_47.366035_8.561465@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1f0a16fac1db4fec5aadc9315300acfd",
+    "wof:geomhash":"75f2ab82462c9f13723d419522675299",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":185672623,
-    "wof:lastmodified":1473798088,
+    "wof:lastmodified":1510943080,
     "wof:name":"Argus Der Presse Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075270073
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

@@ -7,13 +7,16 @@
     "addr:postcode":"6300",
     "addr:street":"Untermueli;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.517702,47.180416,8.517702,47.180416",
     "geom:latitude":47.180416,
     "geom:longitude":8.517702,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Unterm\u00fcli 7",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_4K61sIY0ZfJFTrB29gS7w4_47.180416_8.517702@1306268644"
     },
     "wof:country":"CH",
-    "wof:geomhash":"373891314e1574b6dab88acc5edece4e",
+    "wof:geomhash":"35f6b9211a1b3c873866b96ec05c21d1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":253405185,
-    "wof:lastmodified":1473798349,
+    "wof:lastmodified":1510943206,
     "wof:name":"Stc Steinmann Consult Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075509125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

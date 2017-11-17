@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6980471611,47.1974143982,7.6980471611,47.1974143982",
     "geom:latitude":47.197414,
     "geom:longitude":7.698047,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wangenstr. 87",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473728585,
-    "wof:geomhash":"8dc96bc73d3f760a70b0a6ce2256c357",
+    "wof:geomhash":"b82e27a3a10463c72c8dde4914b8e55d",
     "wof:hierarchy":[],
     "wof:id":1074864343,
-    "wof:lastmodified":1473728585,
+    "wof:lastmodified":1510941606,
     "wof:name":"Hans Moser & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075553831
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "textile",

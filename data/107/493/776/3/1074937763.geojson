@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.7088141441,47.5303497314,7.7088141441,47.5303497314",
     "geom:latitude":47.53035,
     "geom:longitude":7.708814,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heissgl\u00e4ndstr. 18",
     "sg:city":"Pratteln",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473732260,
-    "wof:geomhash":"5782b89bdcfb418ee89f877f7399a72a",
+    "wof:geomhash":"532fce9c47e289bf556811fc473e23e4",
     "wof:hierarchy":[],
     "wof:id":1074937763,
-    "wof:lastmodified":1473732260,
+    "wof:lastmodified":1510943518,
     "wof:name":"Glas Troesch Ag Pratteln",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075629003
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

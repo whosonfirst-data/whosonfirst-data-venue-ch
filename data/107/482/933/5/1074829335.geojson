@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6403188705,47.55260849,7.6403188705,47.55260849",
     "geom:latitude":47.552608,
     "geom:longitude":7.640319,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Langenhagstr. 55",
     "sg:city":"Birsfelden",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726852,
-    "wof:geomhash":"319880dd2734acc1d8bfd2aab3ebec7c",
+    "wof:geomhash":"7a4a24f7e9272a2e306f2589a3156f59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":1074829335,
-    "wof:lastmodified":1473726852,
+    "wof:lastmodified":1510942807,
     "wof:name":"Ingmatic Ag",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075052599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

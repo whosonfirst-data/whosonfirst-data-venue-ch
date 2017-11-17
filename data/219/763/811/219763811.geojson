@@ -7,13 +7,16 @@
     "addr:postcode":"8005",
     "addr:street":"Foerrlibuckstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.511439,47.392254,8.511439,47.392254",
     "geom:latitude":47.392254,
     "geom:longitude":8.511439,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"F\u00f6rrlibuckstrasse 150",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3NBcz7F9beHOKPYQxk6NqA_47.392254_8.511439@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a4d6bf28c234c7f81ede10d690c0844b",
+    "wof:geomhash":"8e2771de2126ec78bd2b8757fed22dcd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,15 @@
         }
     ],
     "wof:id":219763811,
-    "wof:lastmodified":1473798412,
+    "wof:lastmodified":1510943273,
     "wof:name":"Parkomatic Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236783445,
+        1075506455
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "barrier"

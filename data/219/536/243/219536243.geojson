@@ -7,13 +7,16 @@
     "addr:postcode":"8840",
     "addr:street":"Hauptstr.;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.749533,47.126865,8.749533,47.126865",
     "geom:latitude":47.126865,
     "geom:longitude":8.749533,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 83",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[
@@ -37,10 +40,11 @@
     "wof:brand_id":420574951,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":454582499,
         "sg:id":"SG_2yzhPSZ25NdhhSlVsP9k6J_47.126865_8.749533@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2811ebbe47ff7d2094f422d25dece2ec",
+    "wof:geomhash":"af87242aa746be588843fbe8398dfc47",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +57,17 @@
         }
     ],
     "wof:id":219536243,
-    "wof:lastmodified":1473798334,
+    "wof:lastmodified":1510943594,
     "wof:name":"Credit Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1074939751
+    ],
+    "wof:supersedes":[
+        1074939751
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"8050",
     "addr:street":"Regensbergstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.530033,47.411053,8.530033,47.411053",
     "geom:latitude":47.411053,
     "geom:longitude":8.530033,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Regensbergstrasse 248",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3nfrLzZSPe62TfedOHrFuw_47.411053_8.530033@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"58d29db1ebe6cba79581268a75143646",
+    "wof:geomhash":"c7003e9a9eeec7ccee64d60b6e310891",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236633375,
-    "wof:lastmodified":1473798429,
+    "wof:lastmodified":1510944152,
     "wof:name":"Jak. Scheifele Ag",
     "wof:parent_id":85799701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236786369
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "canal",

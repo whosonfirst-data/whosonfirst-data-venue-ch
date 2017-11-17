@@ -7,13 +7,16 @@
     "addr:postcode":"8604",
     "addr:street":"Chriesbaumstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.679965,47.381683,8.679965,47.381683",
     "geom:latitude":47.381683,
     "geom:longitude":8.679965,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chriesbaumstrasse 2",
     "sg:city":"Volketswil",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_52VCdzidqVxpL1YMo8hsjn_47.381683_8.679965@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"caf64af4fbf0e318b794e56b76d704a0",
+    "wof:geomhash":"700cc86e0cbbe60170da8dd22a12a545",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":236645839,
-    "wof:lastmodified":1473798444,
+    "wof:lastmodified":1510943662,
     "wof:name":"Kardex Systems Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074947047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "index",

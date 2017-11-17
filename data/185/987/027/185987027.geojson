@@ -7,13 +7,16 @@
     "addr:postcode":"3252",
     "addr:street":"Hauptstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.290696,47.098854,7.290696,47.098854",
     "geom:latitude":47.098854,
     "geom:longitude":7.290696,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstrasse 32",
     "sg:city":"Worben",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_0XM8I6FJki1Nh94yyURYL1_47.098854_7.290696@1306268612"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c67df0f7005a08f86d3876bb78782df7",
+    "wof:geomhash":"4b33a3c24b01f6cfc4bd1f5d24ea6f4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":185987027,
-    "wof:lastmodified":1473798266,
+    "wof:lastmodified":1510944077,
     "wof:name":"Seeland-baumschulen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185823543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

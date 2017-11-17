@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.0697984695,47.2465324402,8.0697984695,47.2465324402",
     "geom:latitude":47.246532,
     "geom:longitude":8.069798,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kantonsstr. 102",
     "sg:city":"Triengen",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726864,
-    "wof:geomhash":"669d97c8b2b82b2c7db87299a07b0972",
+    "wof:geomhash":"0d173461dc91ffcbe5d325e821def872",
     "wof:hierarchy":[],
     "wof:id":1074829521,
-    "wof:lastmodified":1473726864,
+    "wof:lastmodified":1510943227,
     "wof:name":"Trisa Electro Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074954305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

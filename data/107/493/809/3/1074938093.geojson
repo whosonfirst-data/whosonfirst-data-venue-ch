@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6073670387,46.7843437195,7.6073670387,46.7843437195",
     "geom:latitude":46.784344,
     "geom:longitude":7.607367,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alpenstr. 111",
     "sg:city":"Heimberg",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473732274,
-    "wof:geomhash":"16e98e3dd1bb645ee6c702431f6e6e43",
+    "wof:geomhash":"d63d53a129c354fae9fc846505c01a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1074938093,
-    "wof:lastmodified":1473732274,
+    "wof:lastmodified":1510942713,
     "wof:name":"Jost Ag Heimberg",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075061083
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "handling",

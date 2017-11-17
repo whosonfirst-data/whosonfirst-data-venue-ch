@@ -7,13 +7,16 @@
     "addr:postcode":"5000",
     "addr:street":"Bahnhofstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.054117,47.392803,8.054117,47.392803",
     "geom:latitude":47.392803,
     "geom:longitude":8.054117,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 102",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6FqRjioxcxHgyqgCShI61K_47.392803_8.054117@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e3d912d2c0f0bd5b542f51a1f24badb7",
+    "wof:geomhash":"e39fe2f739f9383bab29aace85f0b920",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":185669569,
-    "wof:lastmodified":1473798079,
+    "wof:lastmodified":1510941580,
     "wof:name":"Proxy Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075766281
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "studio"

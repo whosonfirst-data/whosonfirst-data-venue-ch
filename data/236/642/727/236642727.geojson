@@ -7,13 +7,16 @@
     "addr:postcode":"8952",
     "addr:street":"Ifangstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.454849,47.400753,8.454849,47.400753",
     "geom:latitude":47.400753,
     "geom:longitude":8.454849,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ifangstrasse 8",
     "sg:city":"Schlieren",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_27pJ5bRnJ7cVYuyG5ZBvJZ_47.400753_8.454849@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"bb5b67e8e02e06f0cde9fd8c1868a2f9",
+    "wof:geomhash":"19718addfa9e02bf9af0613941fe5ef0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236642727,
-    "wof:lastmodified":1473798444,
+    "wof:lastmodified":1510943420,
     "wof:name":"Hertz Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075725175
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

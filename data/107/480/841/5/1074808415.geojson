@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.473233223,47.1885604858,8.473233223,47.1885604858",
     "geom:latitude":47.18856,
     "geom:longitude":8.473233,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gewerbestrasse 7",
     "sg:city":"Cham",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473725805,
-    "wof:geomhash":"9b8b4ad0387f969e8165e4c798620973",
+    "wof:geomhash":"34245d5bf300902efc63456d2e057bb3",
     "wof:hierarchy":[],
     "wof:id":1074808415,
-    "wof:lastmodified":1473725805,
+    "wof:lastmodified":1510942189,
     "wof:name":"Skypro Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075511805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",

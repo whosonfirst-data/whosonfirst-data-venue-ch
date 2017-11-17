@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.2773361206,47.0767707825,8.2773361206,47.0767707825",
     "geom:latitude":47.076771,
     "geom:longitude":8.277336,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00fceggisingerstrasse 16",
     "sg:city":"Emmenbr\u00fccke",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726836,
-    "wof:geomhash":"937facf11a632b0521f8e8166188defd",
+    "wof:geomhash":"2f5509844c938a7a7b9982faf85cba30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":1074829063,
-    "wof:lastmodified":1473726836,
+    "wof:lastmodified":1510943941,
     "wof:name":"Hug Elektromaschinenbau Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074829173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electric"

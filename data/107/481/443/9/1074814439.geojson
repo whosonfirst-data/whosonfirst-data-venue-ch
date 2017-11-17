@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5375080109,47.3822784424,8.5375080109,47.3822784424",
     "geom:latitude":47.382278,
     "geom:longitude":8.537508,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hafnerstr. 60",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726102,
-    "wof:geomhash":"4ecce6f3a637a39c4c21b27268d6f8ec",
+    "wof:geomhash":"320a5702734c093299f9cabbda8edf19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":1074814439,
-    "wof:lastmodified":1473726102,
+    "wof:lastmodified":1510943759,
     "wof:name":"Buonvicini & S\u00d6hne Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074965873
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.507024765,46.8450775146,9.507024765,46.8450775146",
     "geom:latitude":46.845078,
     "geom:longitude":9.507025,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Triststr. 8",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726813,
-    "wof:geomhash":"350919ed1267bd48454b9cba1c7b5855",
+    "wof:geomhash":"b2517afdbd01acb5d6bdcfff318717aa",
     "wof:hierarchy":[],
     "wof:id":1074828619,
-    "wof:lastmodified":1473726813,
+    "wof:lastmodified":1510941227,
     "wof:name":"Tem Ag F\u00dcr Elektronik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075057835
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

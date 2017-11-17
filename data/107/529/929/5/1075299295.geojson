@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6657476425,47.3822364807,8.6657476425,47.3822364807",
     "geom:latitude":47.382236,
     "geom:longitude":8.665748,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 4b 8604 Volketswil. Postfach",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749715,
-    "wof:geomhash":"d29ceba16619c339cb004e84ac872622",
+    "wof:geomhash":"846a5e3dc00343625d787f64954bf2a0",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075299295,
-    "wof:lastmodified":1473749715,
+    "wof:lastmodified":1510942767,
     "wof:name":"Fabrimex Holding Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075625413
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

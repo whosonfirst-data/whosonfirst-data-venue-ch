@@ -7,13 +7,16 @@
     "addr:postcode":"1450",
     "addr:street":"Rue De L ' Industrie",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.502403,46.819984,6.502403,46.819984",
     "geom:latitude":46.819984,
     "geom:longitude":6.502403,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De L' Industrie 19",
     "sg:city":"Ste-croix",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6bTPvU6YgkZ5WwNIVxmBzw_46.819984_6.502403@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0c5555a453e0920d4984882589684da2",
+    "wof:geomhash":"f75d3710b98d1f589d77adbbb916e22b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":219208351,
-    "wof:lastmodified":1473798057,
+    "wof:lastmodified":1510941576,
     "wof:name":"Syscom Instruments S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074833615
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "device",

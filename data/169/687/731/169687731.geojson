@@ -7,6 +7,7 @@
     "addr:postcode":"8123 ebmatingen.;8123",
     "addr:street":"Lohwisstrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.643765,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lohwisstrasse 36 8123 Ebmatingen. Postfach 328",
     "sg:city":"Ebmatingen",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_6eQaZeJkwG737z20QGnlPf_47.350506_8.643765@1306268666"
     },
     "wof:country":"CH",
-    "wof:geomhash":"121a0a0be49a549284708b36dc207955",
+    "wof:geomhash":"9eee67de791fad3f542885d208bf6689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":169687731,
-    "wof:lastmodified":1491936807,
+    "wof:lastmodified":1510941650,
     "wof:name":"Tecvent Gmbh.",
     "wof:parent_id":85800653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236750405
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

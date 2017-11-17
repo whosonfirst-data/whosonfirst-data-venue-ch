@@ -7,13 +7,16 @@
     "addr:postcode":"6003;postfach;6002",
     "addr:street":"Hirschmattstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.307383,47.047295,8.307383,47.047295",
     "geom:latitude":47.047295,
     "geom:longitude":8.307383,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hirschmattstrasse 40 6003 Luzern. Postfach",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5IxWQnd24eAfR8M5t5QkNq_47.047295_8.307383@1306268732"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a76a879b322019d66e39b22cf4625f0b",
+    "wof:geomhash":"7749e8ced83b6988a914cd4c9355e0cb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169710357,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1510943457,
     "wof:name":"Sta Selbst\u00e4ndige Tempor\u00e4rarbeiter Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148897
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

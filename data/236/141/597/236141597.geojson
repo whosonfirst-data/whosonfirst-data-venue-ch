@@ -7,13 +7,16 @@
     "addr:postcode":"6023",
     "addr:street":"Buzibachstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.257215,47.09119,8.257215,47.09119",
     "geom:latitude":47.09119,
     "geom:longitude":8.257215,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Buzibachstrasse 31",
     "sg:city":"Rothenburg",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6ynG1oF0bXSHU3l0uqVvUi_47.091190_8.257215@1306268632"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8f49d45fbdf3b645ab05fd74756022e4",
+    "wof:geomhash":"9fd2c152a89a0defae4811685c642825",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,15 @@
         }
     ],
     "wof:id":236141597,
-    "wof:lastmodified":1473798113,
+    "wof:lastmodified":1510943909,
     "wof:name":"Hypro Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075077907,
+        1075387693
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "also",

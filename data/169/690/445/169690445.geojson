@@ -7,13 +7,16 @@
     "addr:postcode":"3627;3627",
     "addr:street":"Schulgaessli;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.603037,46.796177,7.603037,46.796177",
     "geom:latitude":46.796177,
     "geom:longitude":7.603037,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schulg\u00e4ssli 34 3627 Heimberg. Postfach 51",
     "sg:city":"Heimberg",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_1neei9jKtKjKbkdJyMHvqm_46.796177_7.603037@1306268692"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2e18c56f296b393e5bf69fa3d7fed579",
+    "wof:geomhash":"1a5427087e9eb3ee40b13f067e416ae8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169690445,
-    "wof:lastmodified":1473798246,
+    "wof:lastmodified":1510941856,
     "wof:name":"Bohrb\u00fcchsen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262651
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

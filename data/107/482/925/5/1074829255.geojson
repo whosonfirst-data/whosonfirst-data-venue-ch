@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.2508277893,47.3594017029,8.2508277893,47.3594017029",
     "geom:latitude":47.359402,
     "geom:longitude":8.250828,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nordstr. 1",
     "sg:city":"Villmergen",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726848,
-    "wof:geomhash":"7d58784274ace26b97ec6a5dde2ac61e",
+    "wof:geomhash":"57ac2a7a136e2d07cc854c3e45247c1b",
     "wof:hierarchy":[],
     "wof:id":1074829255,
-    "wof:lastmodified":1473726848,
+    "wof:lastmodified":1510942779,
     "wof:name":"Benkler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236658633
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

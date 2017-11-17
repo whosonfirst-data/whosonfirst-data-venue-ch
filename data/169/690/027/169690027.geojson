@@ -7,13 +7,16 @@
     "addr:postcode":"8752;8752",
     "addr:street":"Am Linthli;Postfach;Naefels Glarus",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.068546,47.105492,9.068546,47.105492",
     "geom:latitude":47.105492,
     "geom:longitude":9.068546,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Am Linthli 6 8752 N\u00e4fels. Postfach 164",
     "sg:city":"N\u00e4fels",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_2DchmyHrZpNgxQ3MrFHjap_47.105492_9.068546@1306268689"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3cb975fb6c5f52179db9ad92bc38c017",
+    "wof:geomhash":"f7cf54c524bf164e7c990b75542fc7ce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":169690027,
-    "wof:lastmodified":1473798227,
+    "wof:lastmodified":1510942512,
     "wof:name":"M\u00fcller Kartonagen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075346601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

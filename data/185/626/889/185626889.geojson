@@ -7,13 +7,16 @@
     "addr:postcode":"6006",
     "addr:street":"Haldenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.314196,47.055,8.314196,47.055",
     "geom:latitude":47.055,
     "geom:longitude":8.314196,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Haldenstrasse 11",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2rX9PGsrtw79fbf6lNZXkk_47.055000_8.314196@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3f33785a926c5db0431c75fcb0bbb0a1",
+    "wof:geomhash":"7eaf37ad50def09604b9af8787d9676a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":185626889,
-    "wof:lastmodified":1473798041,
+    "wof:lastmodified":1510941481,
     "wof:name":"Biogel Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075092711
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industry",

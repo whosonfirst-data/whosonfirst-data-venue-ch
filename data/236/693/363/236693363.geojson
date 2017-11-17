@@ -7,13 +7,16 @@
     "addr:postcode":"8401",
     "addr:street":"Theaterstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.728071,47.502815,8.728071,47.502815",
     "geom:latitude":47.502815,
     "geom:longitude":8.728071,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Theaterstr. 22",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_0Lv6FFMYvh47LqOCUq6dSw_47.502815_8.728071@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"571954e50ddeed4fec17b2b73109661b",
+    "wof:geomhash":"083f4849370ede6981f57217f3939a6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":236693363,
-    "wof:lastmodified":1473798436,
+    "wof:lastmodified":1510942182,
     "wof:name":"Agrola",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074912829
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3112468719,47.3046035767,8.3112468719,47.3046035767",
     "geom:latitude":47.304604,
     "geom:longitude":8.311247,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wohlerstrasse 2",
     "sg:city":"Boswil",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730682,
-    "wof:geomhash":"9666f03a0fc5b65af00a72137471fe7b",
+    "wof:geomhash":"bfff5ad9af91bb0784cc3a11126bbb2e",
     "wof:hierarchy":[],
     "wof:id":1074904139,
-    "wof:lastmodified":1473730682,
+    "wof:lastmodified":1510943925,
     "wof:name":"Soder Metallbautechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075091483
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shutdown",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4548807144,47.4462471008,8.4548807144,47.4462471008",
     "geom:latitude":47.446247,
     "geom:longitude":8.454881,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnstrasse 164 8105 Regensdorf. Postfach",
     "sg:city":"Regensdorf",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473736506,
-    "wof:geomhash":"2eade7ad2eee77b2f49a00fc1cbb2213",
+    "wof:geomhash":"ab88b797f865df324a6844ad7ac8907c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075014661,
-    "wof:lastmodified":1473736506,
+    "wof:lastmodified":1510941501,
     "wof:name":"Hobi-transport Ag",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075469999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

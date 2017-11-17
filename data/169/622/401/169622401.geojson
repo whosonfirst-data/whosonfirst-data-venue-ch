@@ -7,13 +7,16 @@
     "addr:postcode":"2900",
     "addr:street":"Rue D ' Airmont;Jura",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.092012,47.417885,7.092012,47.417885",
     "geom:latitude":47.417885,
     "geom:longitude":7.092012,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue D' Airmont 5",
     "sg:city":"Porrentruy",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0lhcNrvqaKUddy1NxGPaYQ_47.417885_7.092012@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fb513ac43634ed4dc211bbbcb1d0622f",
+    "wof:geomhash":"0e415fc09b1d1367e8fd92842bd3aa03",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":169622401,
-    "wof:lastmodified":1473798079,
+    "wof:lastmodified":1510942626,
     "wof:name":"Prisma Electronique S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075379567
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "small",

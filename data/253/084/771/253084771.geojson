@@ -7,13 +7,16 @@
     "addr:postcode":"8840;8840",
     "addr:street":"Schnabelsbergstrasse;Postfach;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.74217,47.135132,8.74217,47.135132",
     "geom:latitude":47.135132,
     "geom:longitude":8.74217,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schnabelsbergstrasse 25 8840 Einsiedeln. Postfach 545",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_1WnxAdpW22fH7MB4FCu8WA_47.135132_8.742170@1306268641"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5f599d906d53c2cd731a9cc754724a2b",
+    "wof:geomhash":"121d879b024f2044a33646f6d1036823",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":253084771,
-    "wof:lastmodified":1473798089,
+    "wof:lastmodified":1510941589,
     "wof:name":"Sch\u00f6nb\u00e4chler Transport Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075470069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8002",
     "addr:street":"Claridenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.537128,47.367428,8.537128,47.367428",
     "geom:latitude":47.367428,
     "geom:longitude":8.537128,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Claridenstrasse 35",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1MMTEyoxDYhysiHiYyNAWA_47.367428_8.537128@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"cd81e9c61a2387c6f690b1eeee922c36",
+    "wof:geomhash":"92505665b8a30bf437d3532903bf69aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,15 @@
         }
     ],
     "wof:id":169740075,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1510942909,
     "wof:name":"Finter Bank Z\u00dcrich",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185853811,
+        219457757
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

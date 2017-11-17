@@ -7,13 +7,16 @@
     "addr:postcode":"6341",
     "addr:street":"Zugerstr.;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.520858,47.186924,8.520858,47.186924",
     "geom:latitude":47.186924,
     "geom:longitude":8.520858,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zugerstr. 50",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5rifFRtGuMEUoav9HVWt0a_47.186924_8.520858@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1feef3cbe21fd1f5a63afdf2cbf2074f",
+    "wof:geomhash":"f64cc04d6d21c0691b0e8a99316b231c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169743029,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1510942213,
     "wof:name":"Sika-finanz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074900575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

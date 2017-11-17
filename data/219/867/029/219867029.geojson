@@ -7,13 +7,16 @@
     "addr:postcode":"8580",
     "addr:street":"Sommeristrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.295028,47.550667,9.295028,47.550667",
     "geom:latitude":47.550667,
     "geom:longitude":9.295028,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sommeristrasse 37",
     "sg:city":"Amriswil",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6GIy97jN90PsygmmcctZmT_47.550667_9.295028@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"86d1ff399417d9e912f7ea714b5b9ef5",
+    "wof:geomhash":"24ffe00ed93e4ef8990136c293fefc1d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,15 @@
         }
     ],
     "wof:id":219867029,
-    "wof:lastmodified":1473798410,
+    "wof:lastmodified":1510942217,
     "wof:name":"Tripel Systeme Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075388177,
+        1075084347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

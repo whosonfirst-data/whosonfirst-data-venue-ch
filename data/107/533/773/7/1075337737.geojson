@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4402618408,47.1603851318,8.4402618408,47.1603851318",
     "geom:latitude":47.160385,
     "geom:longitude":8.440262,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00f6sch 37",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[],
@@ -25,16 +28,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473751475,
-    "wof:geomhash":"138dda84121e9fc30948e298f93f3963",
+    "wof:geomhash":"7598c0a6674b273156f0a31bfac0ee91",
     "wof:hierarchy":[],
     "wof:id":1075337737,
-    "wof:lastmodified":1473751475,
+    "wof:lastmodified":1510941768,
     "wof:name":"Wt Technologie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075663267
+    ],
+    "wof:supersedes":[
+        219444965
+    ],
     "wof:tags":[]
 },
   "bbox": [

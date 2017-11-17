@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.0406198502,47.3902702332,8.0406198502,47.3902702332",
     "geom:latitude":47.39027,
     "geom:longitude":8.04062,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schachenallee 29",
     "sg:city":"Aarau",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750619,
-    "wof:geomhash":"725a15828e5dbfd7fa5fe7c404c8ce53",
+    "wof:geomhash":"63719876504c99ac90eedaf9fee7e5f1",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075316635,
-    "wof:lastmodified":1473750619,
+    "wof:lastmodified":1510941300,
     "wof:name":"Nova Energie Gmbh",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075642675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

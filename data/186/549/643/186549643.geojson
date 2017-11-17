@@ -7,13 +7,16 @@
     "addr:postcode":"9463",
     "addr:street":"Industriestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.56955,47.32082,9.56955,47.32082",
     "geom:latitude":47.32082,
     "geom:longitude":9.56955,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 34",
     "sg:city":"Oberriet",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_19AIGlA50kkabm5g8Ts9Dy_47.320820_9.569550@1306268615"
     },
     "wof:country":"CH",
-    "wof:geomhash":"342e97e4aae74dec18c3bcac576bbc03",
+    "wof:geomhash":"3f0279929bc3529cf0cdef43faa5ae49",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":186549643,
-    "wof:lastmodified":1473798367,
+    "wof:lastmodified":1510941981,
     "wof:name":"Jansen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271307
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "profile",

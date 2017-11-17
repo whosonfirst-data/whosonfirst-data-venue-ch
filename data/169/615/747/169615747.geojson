@@ -7,13 +7,16 @@
     "addr:postcode":"1470",
     "addr:street":"Route De Lully",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.846853,46.841755,6.846853,46.841755",
     "geom:latitude":46.841755,
     "geom:longitude":6.846853,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De Lully 35",
     "sg:city":"Estavayer-le-lac",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_7YOopiIrEL2lPuL5TVAvCp_46.841755_6.846853@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"86ce5087d27c61479cb732f4f4cfac9e",
+    "wof:geomhash":"188441cdafef06bfcd2cb248d90610d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169615747,
-    "wof:lastmodified":1473798044,
+    "wof:lastmodified":1510943017,
     "wof:name":"Lamelcolor S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169689399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grates",

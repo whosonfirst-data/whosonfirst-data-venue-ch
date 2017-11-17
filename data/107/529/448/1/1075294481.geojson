@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.108080864,46.1704978943,6.108080864,46.1704978943",
     "geom:latitude":46.170498,
     "geom:longitude":6.108081,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pont-du-centenaire Ch.du 109",
     "sg:city":"Plan-les-ouates",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749524,
-    "wof:geomhash":"1c9babfd1b91bdc8feda040b225150da",
+    "wof:geomhash":"fc95e78c55fa060b3065e8c17c2b80eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075294481,
-    "wof:lastmodified":1473749524,
+    "wof:lastmodified":1510941282,
     "wof:name":"Covadis Sa",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075620679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

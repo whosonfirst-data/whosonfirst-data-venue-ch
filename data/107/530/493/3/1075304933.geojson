@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4520597458,47.4006881714,8.4520597458,47.4006881714",
     "geom:latitude":47.400688,
     "geom:longitude":8.45206,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00fctistrasse 22 8952 Schlieren. Postfach",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749932,
-    "wof:geomhash":"ef64dde18cc929c07b3c2f9278023fd0",
+    "wof:geomhash":"8a3b4b9473732e643240592f2af24088",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075304933,
-    "wof:lastmodified":1473749932,
+    "wof:lastmodified":1510942754,
     "wof:name":"Herzog Kull Group Z\u00fcrich Ag, Zweigniederlassung Schlieren Haustechnische Installationen Von Geb\u00e4uden; Durchf\u00fchrung, Planung",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075630985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6567935944,47.385799408,9.6567935944,47.385799408",
     "geom:latitude":47.385799,
     "geom:longitude":9.656794,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hintere Kirchstrasse 3",
     "sg:city":"Diepoldsau",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473743092,
-    "wof:geomhash":"60ea446848ac7845edced45194acf31e",
+    "wof:geomhash":"437b4d60b0e99c63da80e81079c91f46",
     "wof:hierarchy":[],
     "wof:id":1075149827,
-    "wof:lastmodified":1473743092,
+    "wof:lastmodified":1510942570,
     "wof:name":"Printplus Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075645721
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "individual",

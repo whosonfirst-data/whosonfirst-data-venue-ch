@@ -7,13 +7,16 @@
     "addr:postcode":"9630",
     "addr:street":"Ebnaterstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.090078,47.301617,9.090078,47.301617",
     "geom:latitude":47.301617,
     "geom:longitude":9.090078,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ebnaterstrasse 18",
     "sg:city":"Wattwil",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1rHJwhOVN1QiUEs34hzeNL_47.301617_9.090078@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e71486040b18c5c40da60a5e4fe1a133",
+    "wof:geomhash":"5797e7ff964073a217d5abf854c62552",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236539825,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1510942368,
     "wof:name":"Buchdruckerei Wattwil Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387597
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house",

@@ -7,13 +7,16 @@
     "addr:postcode":"8032",
     "addr:street":"Muehlebachstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.551688,47.363976,8.551688,47.363976",
     "geom:latitude":47.363976,
     "geom:longitude":8.551688,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlebachstr. 43",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2kvNJ5Y5dEvZDlTjyYUsOw_47.363976_8.551688@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c0a565ead346cff032859786dfd3c124",
+    "wof:geomhash":"c3d1ed40e03f359caf4576cbda8eaae5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,15 @@
         }
     ],
     "wof:id":185671221,
-    "wof:lastmodified":1473798093,
+    "wof:lastmodified":1510943772,
     "wof:name":"Edipub Sa",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075704803,
+        1075297533
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communication",

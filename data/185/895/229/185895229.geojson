@@ -7,13 +7,16 @@
     "addr:postcode":"5610",
     "addr:street":"Nordstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.269533,47.360355,8.269533,47.360355",
     "geom:latitude":47.360355,
     "geom:longitude":8.269533,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nordstrasse 1",
     "sg:city":"Wohlen",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3lHPsJL8mKvkZC5Y847SmE_47.360355_8.269533@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4cc8ff6dc0661b1b42e1b513f28165c4",
+    "wof:geomhash":"e5e38581ebd771e0a2199e779881e557",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":185895229,
-    "wof:lastmodified":1473798238,
+    "wof:lastmodified":1510944113,
     "wof:name":"Strapex Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262497
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging",

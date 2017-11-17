@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1624679565,46.205116272,6.1624679565,46.205116272",
     "geom:latitude":46.205116,
     "geom:longitude":6.162468,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sillem Rue 6 1207 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751160,
-    "wof:geomhash":"c082296bc9e87660e36dbf93aaf26e6d",
+    "wof:geomhash":"3204bf635edc7f2d9f5cfbe68ecc0e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075329991,
-    "wof:lastmodified":1473751160,
+    "wof:lastmodified":1510942615,
     "wof:name":"Soci\u00e9t\u00e9 Immobili\u00e8re Le Lierre, Lettre A",
     "wof:parent_id":85799915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075655695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

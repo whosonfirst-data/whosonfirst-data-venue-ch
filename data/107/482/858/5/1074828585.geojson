@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1284332275,47.3478622437,9.1284332275,47.3478622437",
     "geom:latitude":47.347862,
     "geom:longitude":9.128433,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberhelfenschwilerstr. 6",
     "sg:city":"Necker",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726812,
-    "wof:geomhash":"c1a3755c12c092e1cfbb4c2fc4d14591",
+    "wof:geomhash":"e51c043ab435519e730d41043069874a",
     "wof:hierarchy":[],
     "wof:id":1074828585,
-    "wof:lastmodified":1473726812,
+    "wof:lastmodified":1510942127,
     "wof:name":"Mosmatic Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075086313
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

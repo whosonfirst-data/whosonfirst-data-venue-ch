@@ -7,13 +7,16 @@
     "addr:postcode":"2022",
     "addr:street":"Rue Du Cha\u0302Teau;Postale;Neucha\u0302Tel 2022",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.811844,46.926731,6.811844,46.926731",
     "geom:latitude":46.926731,
     "geom:longitude":6.811844,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Ch\u00e2teau 17 2022 Bevaix Case Postale 417",
     "sg:city":"Bevaix",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_5fZt1KqGLurD92ykfGgM4T_46.926731_6.811844@1306268718"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d742104456ffdde77f2cdf7d02719573",
+    "wof:geomhash":"4f436ae34cdb187315c1839998522c24",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169695245,
-    "wof:lastmodified":1473798274,
+    "wof:lastmodified":1510943282,
     "wof:name":"Clottu, M\u00e9canique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262997
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

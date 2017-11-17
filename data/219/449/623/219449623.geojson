@@ -7,13 +7,16 @@
     "addr:postcode":"5736",
     "addr:street":"Grenzstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.184008,47.235668,8.184008,47.235668",
     "geom:latitude":47.235668,
     "geom:longitude":8.184008,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grenzstrasse 30",
     "sg:city":"Burg",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_791MNez7sJocnmVmNIhPUg_47.235668_8.184008@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9787f0e605ab21276e5f144c8583a13a",
+    "wof:geomhash":"4441e54d2afef46dac3d2d9dafb73b32",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219449623,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1510943017,
     "wof:name":"Eichenberger Gewinde Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271525
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "screw",

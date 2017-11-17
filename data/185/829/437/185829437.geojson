@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.51281,47.328491,8.51281,47.328491",
     "geom:latitude":47.328491,
     "geom:longitude":8.51281,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Leimbachstrasse 153",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_1O8weWGBVtHXsLBDuoU39n_47.328491_8.512810@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"903a75e5cd9867be9861826bd0e98bf5",
+    "wof:geomhash":"dec3b7147a69b6cd170dae59000229c8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":185829437,
-    "wof:lastmodified":1473798205,
+    "wof:lastmodified":1510942059,
     "wof:name":"Comorga Ag",
     "wof:parent_id":85862415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        185813819
+    ],
     "wof:tags":[
         "equipment",
         "heating",

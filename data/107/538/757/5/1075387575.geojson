@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4409608841,47.3976478577,8.4409608841,47.3976478577",
     "geom:latitude":47.397648,
     "geom:longitude":8.440961,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinwiesenstr. 3",
     "sg:city":"Schlieren",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473753504,
-    "wof:geomhash":"1d39c44713bdf8936e2a4a65c1ea6f71",
+    "wof:geomhash":"010988518c7165e434aaddef5359876c",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":1075387575,
-    "wof:lastmodified":1473753504,
+    "wof:lastmodified":1510944108,
     "wof:name":"B & L Verlags Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075799131
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"

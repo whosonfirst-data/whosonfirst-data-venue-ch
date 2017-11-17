@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5133047104,47.1000823975,8.5133047104,47.1000823975",
     "geom:latitude":47.100082,
     "geom:longitude":8.513305,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfstrasse 2 6318 Walchwil. Postfach 90",
     "sg:city":"Walchwil",
     "sg:classifiers":[],
@@ -26,16 +29,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473745483,
-    "wof:geomhash":"ef2f1ff34760f36cf66c30acdf01a507",
+    "wof:geomhash":"53e9a76542e3b0f359f5d53843b1e8c1",
     "wof:hierarchy":[],
     "wof:id":1075202983,
-    "wof:lastmodified":1473745483,
+    "wof:lastmodified":1510942864,
     "wof:name":"Zuger Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219757699
+    ],
+    "wof:supersedes":[
+        219757699
+    ],
     "wof:tags":[]
 },
   "bbox": [

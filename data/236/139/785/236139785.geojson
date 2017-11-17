@@ -7,13 +7,16 @@
     "addr:postcode":"4800",
     "addr:street":"Junkermattstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.944761,47.283154,7.944761,47.283154",
     "geom:latitude":47.283154,
     "geom:longitude":7.944761,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Junkermattstrasse 9",
     "sg:city":"Zofingen",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6QkkLFK5GVdYs9mzU2PeXR_47.283154_7.944761@1306268632"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d2f6d8d49ce1bc448000e974337df654",
+    "wof:geomhash":"60e2d1b7230ef3da23d611b8b97029ef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236139785,
-    "wof:lastmodified":1473798117,
+    "wof:lastmodified":1510942502,
     "wof:name":"Hofer & Co. Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074864167
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "linen",

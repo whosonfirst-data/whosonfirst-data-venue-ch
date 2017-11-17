@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1872048378,46.1979255676,6.1872048378,46.1979255676",
     "geom:latitude":46.197926,
     "geom:longitude":6.187205,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Malagnou Route De 245",
     "sg:city":"Ch\u00eane-bougeries",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751006,
-    "wof:geomhash":"8e1d93426ba06e595da732ff544be5a5",
+    "wof:geomhash":"3c0629c488dd56f05feecd839eee5a16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075326405,
-    "wof:lastmodified":1473751006,
+    "wof:lastmodified":1510943694,
     "wof:name":"Si La Cit\u00e9 Radieuse A",
     "wof:parent_id":85862413,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075652165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

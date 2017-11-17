@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3010029793,46.8945655823,7.3010029793,46.8945655823",
     "geom:latitude":46.894566,
     "geom:longitude":7.301003,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fabrikstrasse 10",
     "sg:city":"Neuenegg",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726114,
-    "wof:geomhash":"ee70fd2551c91203f21e90c2e7b4c14f",
+    "wof:geomhash":"bb1270de6ed42bc9d7e6bd557bdcdb99",
     "wof:hierarchy":[],
     "wof:id":1074814637,
-    "wof:lastmodified":1473726114,
+    "wof:lastmodified":1510942792,
     "wof:name":"Wander Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075094873
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

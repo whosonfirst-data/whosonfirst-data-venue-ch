@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4308300018,46.9333000183,7.4308300018,46.9333000183",
     "geom:latitude":46.9333,
     "geom:longitude":7.43083,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heckenweg 27 3007 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473747148,
-    "wof:geomhash":"77ac8be319f4917499e4ef92134f441a",
+    "wof:geomhash":"288ae9b5aec4059d26d0b6d782e217ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075240121,
-    "wof:lastmodified":1473747148,
+    "wof:lastmodified":1510943935,
     "wof:name":"Meyer & Co., Malerei Und Gipserei",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075249927
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

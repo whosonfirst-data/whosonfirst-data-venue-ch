@@ -7,13 +7,16 @@
     "addr:postcode":"9314",
     "addr:street":"Amriswilerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.344816,47.533798,9.344816,47.533798",
     "geom:latitude":47.533798,
     "geom:longitude":9.344816,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Amriswilerstrasse 67",
     "sg:city":"Steinebrunn",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_3qvffMcD9RRKiM4Xid71ZG_47.533798_9.344816@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"29c8a339a9ac3bedd38c640458c08566",
+    "wof:geomhash":"6272486461cce206b62bcc004c312490",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":219436557,
-    "wof:lastmodified":1473798326,
+    "wof:lastmodified":1510943585,
     "wof:name":"Bickel & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075060335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

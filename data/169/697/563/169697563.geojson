@@ -7,13 +7,16 @@
     "addr:postcode":"6828",
     "addr:street":"Via S. Gottardo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.003781,45.851208,9.003781,45.851208",
     "geom:latitude":45.851208,
     "geom:longitude":9.003781,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via S. Gottardo 99a",
     "sg:city":"Balerna",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_19iAsHfd7tNZJGZUniQ8Ba_45.851208_9.003781@1306268719"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a1c92d2dc753dcfd5bfef0817257b808",
+    "wof:geomhash":"fede1f282b873279c3aba28a6395a70e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169697563,
-    "wof:lastmodified":1473798274,
+    "wof:lastmodified":1510942461,
     "wof:name":"Ideal Tek Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075379683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

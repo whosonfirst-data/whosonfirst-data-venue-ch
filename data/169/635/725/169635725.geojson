@@ -7,13 +7,16 @@
     "addr:postcode":"6300",
     "addr:street":"Bahnhofstr.;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.51541,47.166191,8.51541,47.166191",
     "geom:latitude":47.166191,
     "geom:longitude":8.51541,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 10",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_07xtcKNQZOk072ArTmUYMq_47.166191_8.515410@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"60748839e8274cded47d287a091250e9",
+    "wof:geomhash":"778fdc46848eca5b52a030f300a294f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":169635725,
-    "wof:lastmodified":1473798100,
+    "wof:lastmodified":1510943860,
     "wof:name":"Medibank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

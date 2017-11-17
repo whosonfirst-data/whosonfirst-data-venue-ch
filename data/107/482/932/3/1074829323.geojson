@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7830266953,47.3647575378,8.7830266953,47.3647575378",
     "geom:latitude":47.364758,
     "geom:longitude":8.783027,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tumbelenstr. 20",
     "sg:city":"Pf\u00e4ffikon",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726852,
-    "wof:geomhash":"8932d973eb73e64481ae69743fc7f910",
+    "wof:geomhash":"94756ddf5764f1971e1e5ca636875108",
     "wof:hierarchy":[],
     "wof:id":1074829323,
-    "wof:lastmodified":1473726852,
+    "wof:lastmodified":1510943535,
     "wof:name":"Huber + Suhner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236606393
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

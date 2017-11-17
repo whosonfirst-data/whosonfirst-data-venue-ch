@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5958781242,47.5508537292,7.5958781242,47.5508537292",
     "geom:latitude":47.550854,
     "geom:longitude":7.595878,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"St. Jakobs-strasse 7 4052 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749664,
-    "wof:geomhash":"3d041294305e629787a47f314f2eed5a",
+    "wof:geomhash":"695c71d3eb3517fb181231116fe99694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075298145,
-    "wof:lastmodified":1473749664,
+    "wof:lastmodified":1510943582,
     "wof:name":"Emasan Ag Beteiligungen Usw",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075624229
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3696537018,47.4301528931,8.3696537018,47.4301528931",
     "geom:latitude":47.430153,
     "geom:longitude":8.369654,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fegistr. 1",
     "sg:city":"Spreitenbach",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473731293,
-    "wof:geomhash":"a06018f4d1844755f1e71662dac216fc",
+    "wof:geomhash":"999d8fd4921ebccde3d01d83581df792",
     "wof:hierarchy":[],
     "wof:id":1074916393,
-    "wof:lastmodified":1473731293,
+    "wof:lastmodified":1510944193,
     "wof:name":"Marein Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074960053
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

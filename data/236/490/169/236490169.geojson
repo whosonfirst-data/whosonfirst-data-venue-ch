@@ -7,13 +7,16 @@
     "addr:postcode":"8002",
     "addr:street":"Bleicherweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.533664,47.366837,8.533664,47.366837",
     "geom:latitude":47.366837,
     "geom:longitude":8.533664,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bleicherweg 33",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2DbxjrR8HXYgqHcqowoB9e_47.366837_8.533664@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"bf56039dc132273f3027641aaef5fbff",
+    "wof:geomhash":"16c487e4b27049d6b59b78f39627a0a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236490169,
-    "wof:lastmodified":1473798395,
+    "wof:lastmodified":1510941549,
     "wof:name":"Nitrex Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236691627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer",

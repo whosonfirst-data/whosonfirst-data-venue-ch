@@ -7,13 +7,16 @@
     "addr:postcode":"900 ch-8070;8045",
     "addr:street":"P;Uetlibergstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.514249,47.356667,8.514249,47.356667",
     "geom:latitude":47.356667,
     "geom:longitude":8.514249,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Credit Suisse First Boston P O Box 900 Ch-8070 Z\u00fcrich Switzerland.^^credit Suisse First Boston & Credit Suisse Asset Management Uetlibergstrasse 231",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2mmU922fwKFpu2aSMRhguh_47.356667_8.514249@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"eff12c361a9c1dc59c86f33d564bb7bf",
+    "wof:geomhash":"d39fb0db281ee4c87dce172b8004d9f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219532403,
-    "wof:lastmodified":1473798338,
+    "wof:lastmodified":1510944173,
     "wof:name":"Credit Suisse First Boston",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219539211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

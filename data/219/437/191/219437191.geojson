@@ -7,13 +7,16 @@
     "addr:postcode":"4632",
     "addr:street":"Winznauerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.911275,47.367596,7.911275,47.367596",
     "geom:latitude":47.367596,
     "geom:longitude":7.911275,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Winznauerstrasse 126",
     "sg:city":"Trimbach",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_437WO5JUrp70DeJqdFOGvX_47.367596_7.911275@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"351f2c0a02ad0168310c625817c57f7f",
+    "wof:geomhash":"ab5cf7330b90b5dda50a5ef7c39c96e0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":219437191,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1510941575,
     "wof:name":"Friedrich W\u00fcrsch Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075235163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5436573029,47.4023857117,8.5436573029,47.4023857117",
     "geom:latitude":47.402386,
     "geom:longitude":8.543657,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ringstrasse 14 8057 Z\u00fcrich. Postfach 253",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473754360,
-    "wof:geomhash":"64913016fb1d0461c06e25506b4ddbc5",
+    "wof:geomhash":"f90d7aff172aeb286317de0480d2afc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":1075407179,
-    "wof:lastmodified":1473754360,
+    "wof:lastmodified":1510943934,
     "wof:name":"Sm Travel Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075610761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

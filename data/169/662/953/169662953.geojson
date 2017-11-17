@@ -7,13 +7,16 @@
     "addr:postcode":"1400",
     "addr:street":"Rue Des Uttins",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.626083,46.784298,6.626083,46.784298",
     "geom:latitude":46.784298,
     "geom:longitude":6.626083,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Uttins 27",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_2izVTSEXbBehkrzBQLKd1c_46.784298_6.626083@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1d49ab061fc675467fb1935a3f67976c",
+    "wof:geomhash":"3bb7038a52ab1a27cc901419579d2f15",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169662953,
-    "wof:lastmodified":1473798106,
+    "wof:lastmodified":1510941981,
     "wof:name":"Cybelec S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075057997
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

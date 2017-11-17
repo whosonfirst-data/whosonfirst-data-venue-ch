@@ -7,6 +7,7 @@
     "addr:postcode":"8302",
     "addr:street":"Steinackerstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.598124,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinackerstr. 28",
     "sg:city":"Kloten",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_34auLHclgfNNuQYB87PEoa_47.448811_8.598124@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"46ed0666b7dcce7e9368bd9a2eec8734",
+    "wof:geomhash":"e6f4353aff503baee987fe8791863814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":219215103,
-    "wof:lastmodified":1491916079,
+    "wof:lastmodified":1510941363,
     "wof:name":"Grundig (schweiz) Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074986365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "household",

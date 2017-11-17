@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1424689293,46.2061309814,6.1424689293,46.2061309814",
     "geom:latitude":46.206131,
     "geom:longitude":6.142469,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vallin Rue 2 1201 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750676,
-    "wof:geomhash":"21df834d9d66934dd91727f903c64ab6",
+    "wof:geomhash":"1b218ee19c9cfec56806a76709c360ae",
     "wof:hierarchy":[
         {
             "campus_id":102553901,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075318107,
-    "wof:lastmodified":1473750676,
+    "wof:lastmodified":1510942322,
     "wof:name":"Partour Sa",
     "wof:parent_id":102553901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075644093
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

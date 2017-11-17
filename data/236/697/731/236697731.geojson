@@ -7,13 +7,16 @@
     "addr:postcode":"4002",
     "addr:street":"Dufourstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.595233,47.551708,7.595233,47.551708",
     "geom:latitude":47.551708,
     "geom:longitude":7.595233,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dufourstr. 54",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_5VWMqZt7ZIHJr6Ut5sUjXu_47.551708_7.595233@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"aafaff407af77e95a1a3729dc6cdaf9a",
+    "wof:geomhash":"2b0d7742add15be453332a06dd3c4d22",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236697731,
-    "wof:lastmodified":1473798446,
+    "wof:lastmodified":1510942624,
     "wof:name":"Boehringer Ingelheim Schweiz Gmbh",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074948969
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

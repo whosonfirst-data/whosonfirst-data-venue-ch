@@ -7,13 +7,16 @@
     "addr:postcode":"8031",
     "addr:street":"Fabrikstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.525604,47.384579,8.525604,47.384579",
     "geom:latitude":47.384579,
     "geom:longitude":8.525604,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fabrikstrasse 50",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_1V5Si2gW5yaB30uQacoIvq_47.384579_8.525604@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"318d95e0cec7aaa690b53eccef5ba691",
+    "wof:geomhash":"7d9bcb027abcfb5417e6aa0a06307157",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,15 @@
         }
     ],
     "wof:id":219215971,
-    "wof:lastmodified":1473798084,
+    "wof:lastmodified":1510942961,
     "wof:name":"Bdo Visura",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075727451,
+        236781319
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

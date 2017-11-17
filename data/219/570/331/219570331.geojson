@@ -7,6 +7,7 @@
     "addr:postcode":"6030",
     "addr:street":"Zentralstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":8.339184,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Zentralstr. 14",
     "sg:city":"Ebikon",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":219570331,
-    "wof:lastmodified":1510875389,
+    "wof:lastmodified":1510943616,
     "wof:name":"Luzerner Kantonalbank",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

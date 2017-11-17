@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5398483276,47.3676719666,8.5398483276,47.3676719666",
     "geom:latitude":47.367672,
     "geom:longitude":8.539848,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 3 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751371,
-    "wof:geomhash":"0597fc0d2dfc202ec4161e3a1634530a",
+    "wof:geomhash":"83db9a7fc7e900622fd5d5e92160f561",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075335305,
-    "wof:lastmodified":1473751371,
+    "wof:lastmodified":1510942045,
     "wof:name":"Unispan Ag Beteiligungen Usw",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075660935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

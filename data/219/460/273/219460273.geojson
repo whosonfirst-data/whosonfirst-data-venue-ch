@@ -7,13 +7,16 @@
     "addr:postcode":"8002",
     "addr:street":"General-Guisan-Quai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.534781,47.363003,8.534781,47.363003",
     "geom:latitude":47.363003,
     "geom:longitude":8.534781,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"General-guisan-quai 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_657R6Hvuh4M4eeZ1VibsPi_47.363003_8.534781@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"ab9ffc6ebb972b674a4786b80998ea5b",
+    "wof:geomhash":"4d34ac3b7eaf42dfca9cac4995d3d735",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":219460273,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1510943868,
     "wof:name":"Rentenanstalt/swiss Life",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075235289
+    ],
+    "wof:supersedes":[
+        169741927
+    ],
     "wof:tags":[
         "banking",
         "finance",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.594274044,47.5676574707,7.594274044,47.5676574707",
     "geom:latitude":47.567657,
     "geom:longitude":7.594274,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oetlingerstr. 156",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473730659,
-    "wof:geomhash":"12b26bd99e5526c850cfcf4465b9f9f0",
+    "wof:geomhash":"764b8a18a8686a65571922122b8c9d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1074903755,
-    "wof:lastmodified":1473730659,
+    "wof:lastmodified":1510944054,
     "wof:name":"Vinc Moracchi Ag",
     "wof:parent_id":85800245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075091539
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "processing",

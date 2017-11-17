@@ -7,13 +7,16 @@
     "addr:postcode":"2503",
     "addr:street":"Alfred-Aebi-Strasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.248894,47.131184,7.248894,47.131184",
     "geom:latitude":47.131184,
     "geom:longitude":7.248894,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alfred-aebi-strasse 71",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1aWGENZlG92S97cAoFYzDo_47.131184_7.248894@1306268699"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c7753a8dce013322b596595934d2d32c",
+    "wof:geomhash":"3443804564cac7edd46eda79342ae7cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":169691795,
-    "wof:lastmodified":1473798267,
+    "wof:lastmodified":1510941867,
     "wof:name":"Cosmos B. Schild & Cie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075045129
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital",

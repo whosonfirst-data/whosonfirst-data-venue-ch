@@ -7,13 +7,16 @@
     "addr:postcode":"8008",
     "addr:street":"Dufourstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.547753,47.364025,8.547753,47.364025",
     "geom:latitude":47.364025,
     "geom:longitude":8.547753,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dufourstrasse 23",
     "sg:city":"Zurich",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_2Q3CjUjtowga2B24OCiRT2_47.364025_8.547753@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2a62225be4ae5a0abe7e4e7e758b104c",
+    "wof:geomhash":"2086059083252974f49028262af40675",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":169777229,
-    "wof:lastmodified":1473798313,
+    "wof:lastmodified":1510942126,
     "wof:name":"Ringier Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387489
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tv",

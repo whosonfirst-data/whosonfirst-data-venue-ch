@@ -7,13 +7,16 @@
     "addr:postcode":"6300",
     "addr:street":"Baarerstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.52418,47.173309,8.52418,47.173309",
     "geom:latitude":47.173309,
     "geom:longitude":8.52418,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Baarerstrasse 57",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4kYmRSxNhbzRvPkufilS9L_47.173309_8.524180@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8ed16434d2a5f730447494ee9aec2ba4",
+    "wof:geomhash":"9592770df19a10885f89aac62fc4641a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236635489,
-    "wof:lastmodified":1473798428,
+    "wof:lastmodified":1510941811,
     "wof:name":"Promata Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075679221
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"

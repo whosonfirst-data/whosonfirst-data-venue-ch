@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4440879822,47.4014778137,8.4440879822,47.4014778137",
     "geom:latitude":47.401478,
     "geom:longitude":8.444088,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brandstrasse 24 8952 Schlieren. Postfach 245",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750921,
-    "wof:geomhash":"cc8acf24c9cccbd27001f81ab2b2b91b",
+    "wof:geomhash":"af0054d2f664a4811df7f9bfb083a55a",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075324187,
-    "wof:lastmodified":1473750921,
+    "wof:lastmodified":1510942110,
     "wof:name":"Schlatter Holding Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075649901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

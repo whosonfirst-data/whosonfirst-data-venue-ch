@@ -7,13 +7,16 @@
     "addr:postcode":"3008",
     "addr:street":"Murtenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.425299,46.949787,7.425299,46.949787",
     "geom:latitude":46.949787,
     "geom:longitude":7.425299,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Murtenstrasse 40",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7Hpcb07WbgRSSWos76yl1M_46.949787_7.425299@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5dbe9b7ce5d2237ef8391e73427ba8b1",
+    "wof:geomhash":"b91cb5bd9517178237e477f59834052c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":169652343,
-    "wof:lastmodified":1473798095,
+    "wof:lastmodified":1510942767,
     "wof:name":"Graf-lehmann Ag",
     "wof:parent_id":85800205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

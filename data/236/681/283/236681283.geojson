@@ -7,13 +7,16 @@
     "addr:postcode":"4222",
     "addr:street":"Baselstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.536465,47.439629,7.536465,47.439629",
     "geom:latitude":47.439629,
     "geom:longitude":7.536465,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Baselstr. 33",
     "sg:city":"Zwingen",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1iIssv5TnWRkYjOV6TQWQc_47.439629_7.536465@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3d84c0a9b66a67e2696b46d9ca238b8a",
+    "wof:geomhash":"b43d8667532c9f750c3b73844f0eccd8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236681283,
-    "wof:lastmodified":1473798437,
+    "wof:lastmodified":1510943014,
     "wof:name":"Mpz-plattenhandel Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074970731
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "glass",

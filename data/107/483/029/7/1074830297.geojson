@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3946371078,47.381111145,8.3946371078,47.381111145",
     "geom:latitude":47.381111,
     "geom:longitude":8.394637,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestr. 48",
     "sg:city":"Bergdietikon",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726909,
-    "wof:geomhash":"1f0cff6ebb26c2eacd8ba591096fd4d0",
+    "wof:geomhash":"b1edebc1eccea567018c5ae8042ec704",
     "wof:hierarchy":[],
     "wof:id":1074830297,
-    "wof:lastmodified":1473726909,
+    "wof:lastmodified":1510942344,
     "wof:name":"Cd Press Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075121855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

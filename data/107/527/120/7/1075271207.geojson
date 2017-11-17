@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5363788605,47.4529190063,8.5363788605,47.4529190063",
     "geom:latitude":47.452919,
     "geom:longitude":8.536379,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hofwisenstr. 20",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473748423,
-    "wof:geomhash":"e813a69c577cda4baadf3e35d86f6919",
+    "wof:geomhash":"d6268da51412fb68655c9e3d9fc48631",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1075271207,
-    "wof:lastmodified":1473748423,
+    "wof:lastmodified":1510941580,
     "wof:name":"Blechtech Ag",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1075113667
+    ],
     "wof:tags":[
         "metallurgy",
         "pipe",

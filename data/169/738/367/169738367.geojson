@@ -7,13 +7,16 @@
     "addr:postcode":"8050",
     "addr:street":"Binzmuehlestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.550451,47.414375,8.550451,47.414375",
     "geom:latitude":47.414375,
     "geom:longitude":8.550451,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Binzm\u00fchlestrasse 14",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1oSNqKMsJEFGgH56zOGZat_47.414375_8.550451@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1ddd8b01540d3b1d36201554028ed718",
+    "wof:geomhash":"5cffdd0d4e5225b5f6526088d1eaa1c8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169738367,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1510944175,
     "wof:name":"Arthur Andersen Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075685417
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

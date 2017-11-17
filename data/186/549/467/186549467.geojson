@@ -7,13 +7,16 @@
     "addr:postcode":"6330",
     "addr:street":"Gewerbestrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.472435,47.18903,8.472435,47.18903",
     "geom:latitude":47.18903,
     "geom:longitude":8.472435,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gewerbestrasse 8",
     "sg:city":"Cham",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5iaDsh8JmMyfG6wEdTwOUw_47.189030_8.472435@1306268615"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1a80de5d840f654476f6cc24d529c58b",
+    "wof:geomhash":"421ca3c83d1de7356f560a04743ba25d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":186549467,
-    "wof:lastmodified":1473798375,
+    "wof:lastmodified":1510942057,
     "wof:name":"Haba Plattenservice Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075270827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plate",

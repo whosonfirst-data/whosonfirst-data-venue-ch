@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5918159485,47.552898407,7.5918159485,47.552898407",
     "geom:latitude":47.552898,
     "geom:longitude":7.591816,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Elisabethenstrasse 15",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750042,
-    "wof:geomhash":"c3f61fb1c9ef635710c8bc712aa3822c",
+    "wof:geomhash":"dbdc0f4c46a4798113c4bb88ff945b0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075307635,
-    "wof:lastmodified":1473750042,
+    "wof:lastmodified":1510943716,
     "wof:name":"Interpharmalink Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075633725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

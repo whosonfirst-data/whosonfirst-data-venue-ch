@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6598000526,46.5102577209,6.6598000526,46.5102577209",
     "geom:latitude":46.510258,
     "geom:longitude":6.6598,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ramuz Avenue C.-f.- 45",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749673,
-    "wof:geomhash":"f946134fbb2b0d97dac84f170d7f9cc9",
+    "wof:geomhash":"f4d17b31752051b6c3dfbf12bb8a4891",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075298387,
-    "wof:lastmodified":1473749673,
+    "wof:lastmodified":1510943787,
     "wof:name":"Ep Sports Sa",
     "wof:parent_id":85800439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075624511
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

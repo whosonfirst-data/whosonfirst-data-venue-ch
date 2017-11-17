@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4376420975,47.1618881226,8.4376420975,47.1618881226",
     "geom:latitude":47.161888,
     "geom:longitude":8.437642,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00f6sch 43",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[],
@@ -26,16 +29,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473751429,
-    "wof:geomhash":"dab566793e5c26c03d3aab16c83fa887",
+    "wof:geomhash":"0801afbdc4c33112c4749ebd59aebbf5",
     "wof:hierarchy":[],
     "wof:id":1075336823,
-    "wof:lastmodified":1473751429,
+    "wof:lastmodified":1510943545,
     "wof:name":"Warida Verwaltungs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075662419
+    ],
+    "wof:supersedes":[
+        1074812137
+    ],
     "wof:tags":[]
 },
   "bbox": [

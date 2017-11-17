@@ -7,13 +7,16 @@
     "addr:postcode":"3280",
     "addr:street":"Freiburgstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.110744,46.917946,7.110744,46.917946",
     "geom:latitude":46.917946,
     "geom:longitude":7.110744,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freiburgstrasse 71",
     "sg:city":"Murten",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_0WaOJJYG2q2EU3Q6gvnTdM_46.917946_7.110744@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2ccf568a0ea7417bd6c117c722c7ba8d",
+    "wof:geomhash":"65a5f59a9cbf06b7e5a66a075799406b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236495229,
-    "wof:lastmodified":1473798398,
+    "wof:lastmodified":1510943927,
     "wof:name":"Fribosa Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074903843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

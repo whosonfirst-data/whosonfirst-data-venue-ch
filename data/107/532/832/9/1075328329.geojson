@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1461310387,46.2028388977,6.1461310387,46.2028388977",
     "geom:latitude":46.202839,
     "geom:longitude":6.146131,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00f4tisserie Rue De La 8 1204 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751079,
-    "wof:geomhash":"46b575276ea58c9871ccfbe28df400b5",
+    "wof:geomhash":"4b8c4af76c8c7aa1be634b6444acd6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075328329,
-    "wof:lastmodified":1473751079,
+    "wof:lastmodified":1510942367,
     "wof:name":"Si Z\u00e9nith A",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075654019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

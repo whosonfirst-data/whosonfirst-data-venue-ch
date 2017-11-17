@@ -7,13 +7,16 @@
     "addr:postcode":"8590 romanshorn.;8590",
     "addr:street":"Industriestrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.367531,47.556492,9.367531,47.556492",
     "geom:latitude":47.556492,
     "geom:longitude":9.367531,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 6 8590 Romanshorn. Postfach 299",
     "sg:city":"Romanshorn",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_39mAT92aVRL0HlR5OKdWHB_47.556492_9.367531@1306268678"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5b003586dc371c23ab8368d10d43eb6e",
+    "wof:geomhash":"e488e7d665e6b3324deb8b1afc5ba5c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +47,17 @@
         }
     ],
     "wof:id":169688517,
-    "wof:lastmodified":1473798142,
+    "wof:lastmodified":1510941894,
     "wof:name":"D\u00dcpro Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075346627
+    ],
+    "wof:supersedes":[
+        1074829537
+    ],
     "wof:tags":[]
 },
   "bbox": [

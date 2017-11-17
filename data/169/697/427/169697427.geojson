@@ -7,13 +7,16 @@
     "addr:postcode":"2802",
     "addr:street":"Rte De Courtetelle;Jura",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.302477,47.358788,7.302477,47.358788",
     "geom:latitude":47.358788,
     "geom:longitude":7.302477,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rte De Courtetelle 51",
     "sg:city":"Develier",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2mrRomDZitvqh1G320EWEN_47.358788_7.302477@1306268719"
     },
     "wof:country":"CH",
-    "wof:geomhash":"afa4a159b9d014e37ae9173899268b9d",
+    "wof:geomhash":"f7b4787bb93e1d98c36d7811e6236c32",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,15 @@
         }
     ],
     "wof:id":169697427,
-    "wof:lastmodified":1473798272,
+    "wof:lastmodified":1510942425,
     "wof:name":"Buehlmann Decolletage Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075100005,
+        1075100007
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

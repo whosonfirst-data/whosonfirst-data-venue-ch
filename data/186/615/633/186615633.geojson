@@ -7,13 +7,16 @@
     "addr:postcode":"3186",
     "addr:street":"Bonnstrasse;Fribourg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.18566,46.857792,7.18566,46.857792",
     "geom:latitude":46.857792,
     "geom:longitude":7.18566,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bonnstrasse 22",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_64iajiadCF4c7vxwsS0Ksp_46.857792_7.185660@1306268616"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d3c69c7c6adffad49060f8a78a2f97ad",
+    "wof:geomhash":"e59135d95b7cfbb190328f5258d7a859",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":186615633,
-    "wof:lastmodified":1473798386,
+    "wof:lastmodified":1510941929,
     "wof:name":"Lwb Schweisstechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075123031
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

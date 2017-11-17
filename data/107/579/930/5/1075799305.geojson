@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4464359283,46.9556312561,7.4464359283,46.9556312561",
     "geom:latitude":46.955631,
     "geom:longitude":7.446436,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dammweg 9 3013 Bern. Postfach 5434",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473772092,
-    "wof:geomhash":"6170b19f33fcce70870ba8e01b3168a7",
+    "wof:geomhash":"37a8ba26d7542a168aef4d40df49a3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,17 @@
         }
     ],
     "wof:id":1075799305,
-    "wof:lastmodified":1473772092,
+    "wof:lastmodified":1510941275,
     "wof:name":"Berner B\u00e4r Verlags-ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1075704051,
+        1075199413,
+        1075762667
+    ],
     "wof:tags":[]
 },
   "bbox": [

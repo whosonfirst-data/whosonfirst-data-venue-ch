@@ -7,13 +7,16 @@
     "addr:postcode":"6210",
     "addr:street":"Surentalstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.110254,47.178341,8.110254,47.178341",
     "geom:latitude":47.178341,
     "geom:longitude":8.110254,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Surentalstrasse 10",
     "sg:city":"Sursee",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1WJ5kLtjgG5U3VgssJjQBW_47.178341_8.110254@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2ebb6599f3b663eb460a8556f72453f7",
+    "wof:geomhash":"9f8ce6089429eccac1358049085ccf69",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236656093,
-    "wof:lastmodified":1473798427,
+    "wof:lastmodified":1510942720,
     "wof:name":"Bison Systems Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075498171
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "registers",

@@ -7,13 +7,16 @@
     "addr:postcode":"6014",
     "addr:street":"Staldenhof",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.269304,47.064903,8.269304,47.064903",
     "geom:latitude":47.064903,
     "geom:longitude":8.269304,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Staldenhof 2",
     "sg:city":"Littau",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1hLEUeeYU8LCqdQmSfRgEJ_47.064903_8.269304@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"61c1a234098069b9c328f4f00ab5bc3c",
+    "wof:geomhash":"cd388d2b4d41f0943f0d98bc8011e033",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":236543249,
-    "wof:lastmodified":1473798416,
+    "wof:lastmodified":1510942691,
     "wof:name":"Buchbinderei An Der Reuss Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075387591
+    ],
+    "wof:supersedes":[
+        1074820137
+    ],
     "wof:tags":[
         "bookbinding"
     ]

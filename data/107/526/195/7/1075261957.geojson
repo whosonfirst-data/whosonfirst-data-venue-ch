@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.11480093,46.8114700317,7.11480093,46.8114700317",
     "geom:latitude":46.81147,
     "geom:longitude":7.114801,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rte Andr\u00e9-piller 45",
     "sg:city":"Corminboeuf",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473748031,
-    "wof:geomhash":"559fd30657e618bc4fa762d821cf3fef",
+    "wof:geomhash":"159f78365e5c5561d6cba0919b7479a8",
     "wof:hierarchy":[],
     "wof:id":1075261957,
-    "wof:lastmodified":1473748031,
+    "wof:lastmodified":1510943586,
     "wof:name":"Entretec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075481447
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

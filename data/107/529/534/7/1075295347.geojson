@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.9535598755,46.0047798157,8.9535598755,46.0047798157",
     "geom:latitude":46.00478,
     "geom:longitude":8.95356,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Piazza Della Riscossa 16 6900 Lugano Casella Postale 6906 Lugano",
     "sg:city":"Caselle",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749556,
-    "wof:geomhash":"dca5190d020af450ba210d0c78fb206e",
+    "wof:geomhash":"98230104eba0593ec37b633b13ccace0",
     "wof:hierarchy":[
         {
             "campus_id":102553897,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075295347,
-    "wof:lastmodified":1473749556,
+    "wof:lastmodified":1510943019,
     "wof:name":"De Agostini Invest Sa, Lussamburgo, Succ. Die Lugano",
     "wof:parent_id":102553897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075621469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

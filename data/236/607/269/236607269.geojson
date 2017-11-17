@@ -7,13 +7,16 @@
     "addr:postcode":"6340",
     "addr:street":"Oberneuhofstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.516522,47.186783,8.516522,47.186783",
     "geom:latitude":47.186783,
     "geom:longitude":8.516522,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberneuhofstrasse 13",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_21DRWgDClEkwiRuD6DO0Gy_47.186783_8.516522@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0cab3fd5d660e6943b29e6ecea942187",
+    "wof:geomhash":"9265c3e3692724e15c199bb2a41c8afd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236607269,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1510943255,
     "wof:name":"Scherer-kontakt Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075058387
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lug"

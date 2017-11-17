@@ -7,6 +7,7 @@
     "addr:postcode":"8302",
     "addr:street":"Dorfstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.590081,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfstrasse 67",
     "sg:city":"Kloten",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_6ClIg8ylxKPsBrkD7OXesp_47.451778_8.590081@1306268639"
     },
     "wof:country":"CH",
-    "wof:geomhash":"62b42f4faf8a9c5cdea040f8a44a4607",
+    "wof:geomhash":"5a49e33fc7ce5e72e7706665616b13d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":236952813,
-    "wof:lastmodified":1491915915,
+    "wof:lastmodified":1510941649,
     "wof:name":"Mepa Data Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075152001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

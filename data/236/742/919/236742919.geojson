@@ -7,13 +7,16 @@
     "addr:postcode":"9230",
     "addr:street":"Wilerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.181279,47.415676,9.181279,47.415676",
     "geom:latitude":47.415676,
     "geom:longitude":9.181279,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wilerstrasse 98",
     "sg:city":"Flawil",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_4xCpweS00OiToKLieN23L3_47.415676_9.181279@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"23bd1a49d3093374dcaa1c234d4fcec8",
+    "wof:geomhash":"1ce65b3c9635efaa25d7772113200b98",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236742919,
-    "wof:lastmodified":1473798463,
+    "wof:lastmodified":1510941513,
     "wof:name":"Mecatool Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

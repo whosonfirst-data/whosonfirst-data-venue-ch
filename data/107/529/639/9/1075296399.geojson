@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1539711952,46.1969032288,6.1539711952,46.1969032288",
     "geom:latitude":46.196903,
     "geom:longitude":6.153971,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De Florissant 1",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749594,
-    "wof:geomhash":"21753c92c9f79c6c93932e39a761ec4e",
+    "wof:geomhash":"f825c0717573ce1067b8a4b7f97415b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075296399,
-    "wof:lastmodified":1473749594,
+    "wof:lastmodified":1510944079,
     "wof:name":"Dr M\u00e9d. Constantin Sayegh M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":85862409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075622493
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

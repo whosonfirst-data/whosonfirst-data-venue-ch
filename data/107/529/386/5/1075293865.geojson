@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1435837746,46.20262146,6.1435837746,46.20262146",
     "geom:latitude":46.202621,
     "geom:longitude":6.143584,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Corraterie Rue De La 11 1204 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749501,
-    "wof:geomhash":"a90675654d4d9dbb85a65d2642c0514e",
+    "wof:geomhash":"effcf9aea3aa68312b613f32e00e8212",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075293865,
-    "wof:lastmodified":1473749501,
+    "wof:lastmodified":1510942089,
     "wof:name":"Compagnie De Gestion Et De Participation Cogespa",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075620091
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

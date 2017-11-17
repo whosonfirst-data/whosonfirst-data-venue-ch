@@ -7,13 +7,16 @@
     "addr:postcode":"8902",
     "addr:street":"Steinackerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.419105,47.393829,8.419105,47.393829",
     "geom:latitude":47.393829,
     "geom:longitude":8.419105,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinackerstrasse 31",
     "sg:city":"Urdorf",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2vYLzN3rt9EFYV18AJytr1_47.393829_8.419105@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6e00b5a2a48ac40ddfa95a99a6eef055",
+    "wof:geomhash":"18ec740bd5efad280178f8aabca292cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236473379,
-    "wof:lastmodified":1473798397,
+    "wof:lastmodified":1510941900,
     "wof:name":"J. Ochsner Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075045143
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "big",

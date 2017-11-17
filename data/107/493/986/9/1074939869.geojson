@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7259836197,47.4999504089,8.7259836197,47.4999504089",
     "geom:latitude":47.49995,
     "geom:longitude":8.725984,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Stadthausstrasse 16 8400 Winterthur. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -30,11 +32,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":292641818,
         "sg:id":"SG_6ymPvU8LzYljymtDNI1tFu_47.499950_8.725984@1306268673"
     },
     "wof:country":"CH",
     "wof:created":1473732363,
-    "wof:geomhash":"65cadbcc36ec03246cb4666e64d622c3",
+    "wof:geomhash":"c64bc4da2137afafed99ccb0cd6e8961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +51,15 @@
         }
     ],
     "wof:id":1074939869,
-    "wof:lastmodified":1473732363,
+    "wof:lastmodified":1510944093,
     "wof:name":"Credit Suisse",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        219538151
+    ],
     "wof:tags":[]
 },
   "bbox": [

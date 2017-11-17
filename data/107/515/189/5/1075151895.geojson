@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5931396484,47.4129981995,8.5931396484,47.4129981995",
     "geom:latitude":47.412998,
     "geom:longitude":8.59314,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neugutstr. 4",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473743205,
-    "wof:geomhash":"22fc70fc4ca655f31a810080e1756eba",
+    "wof:geomhash":"da2a5c5a320333806c876366a6931f9f",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1075151895,
-    "wof:lastmodified":1473743205,
+    "wof:lastmodified":1510941411,
     "wof:name":"Brodmann Software Systeme Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075494425
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

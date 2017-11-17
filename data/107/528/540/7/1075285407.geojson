@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5967311859,47.5527000427,7.5967311859,47.5527000427",
     "geom:latitude":47.5527,
     "geom:longitude":7.596731,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lautengartenstrasse 14 4052 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749045,
-    "wof:geomhash":"9559edd96cb076ac189e27101dcc83d7",
+    "wof:geomhash":"50bd3e0d5c63891f051a97ee0ae76d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075285407,
-    "wof:lastmodified":1473749045,
+    "wof:lastmodified":1510943186,
     "wof:name":"Agemo Mor\u00e4ne-beteiligungen Ag Beteiligungen, Bes. In Der Branche Mor\u00e4nematerial U. Baustoffe",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075611919
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

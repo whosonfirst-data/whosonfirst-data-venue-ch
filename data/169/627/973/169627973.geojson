@@ -7,13 +7,16 @@
     "addr:postcode":"1002",
     "addr:street":"Avenue Du The\u0301A\u0302Tre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.637456,46.517944,6.637456,46.517944",
     "geom:latitude":46.517944,
     "geom:longitude":6.637456,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Avenue Du Th\u00e9\u00e2tre 14",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -37,10 +40,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1275937400,
         "sg:id":"SG_0ermnXCGlanB6YzCBQJObt_46.517944_6.637456@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4150d7454765115f4652872a58567952",
+    "wof:geomhash":"d4e3d3e6d6a88e761350ba61f53f69de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +57,17 @@
         }
     ],
     "wof:id":169627973,
-    "wof:lastmodified":1473798099,
+    "wof:lastmodified":1510943829,
     "wof:name":"Banque De Depots, Et De Gestion",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        185850439
+    ],
+    "wof:supersedes":[
+        185850439
+    ],
     "wof:tags":[]
 },
   "bbox": [

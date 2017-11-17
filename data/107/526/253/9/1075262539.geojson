@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5162038803,46.517791748,6.5162038803,46.517791748",
     "geom:latitude":46.517792,
     "geom:longitude":6.516204,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rte De Gen\u00e8ve 3",
     "sg:city":"Pr\u00e9verenges",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473748054,
-    "wof:geomhash":"4d681ec98560df6e819f8dec01bb938e",
+    "wof:geomhash":"60bb03ebe47f9c55f584e352d4425605",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":1075262539,
-    "wof:lastmodified":1473748054,
+    "wof:lastmodified":1510941209,
     "wof:name":"T\u00c9last Sa",
     "wof:parent_id":85800143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1075123365
+    ],
     "wof:tags":[
         "machine",
         "-",

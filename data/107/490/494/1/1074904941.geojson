@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.7555251122,47.2151145935,7.7555251122,47.2151145935",
     "geom:latitude":47.215115,
     "geom:longitude":7.755525,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 5",
     "sg:city":"B\u00fctzberg",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730738,
-    "wof:geomhash":"a6c5cb198beefd32bd3320597d1c1f48",
+    "wof:geomhash":"d72694a9ed8afd8a7d2f0ce25eb12cef",
     "wof:hierarchy":[],
     "wof:id":1074904941,
-    "wof:lastmodified":1473730738,
+    "wof:lastmodified":1510941828,
     "wof:name":"Bystronic Maschinen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075261877
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

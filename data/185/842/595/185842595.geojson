@@ -7,13 +7,16 @@
     "addr:postcode":"8640",
     "addr:street":"Spinnereistrasse;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.831693,47.231144,8.831693,47.231144",
     "geom:latitude":47.231144,
     "geom:longitude":8.831693,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Spinnereistrasse 29",
     "sg:city":"Rapperswil",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4PbwaESugXtKCkZ2twttQN_47.231144_8.831693@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0dec7fe43bf3e482c488d0a21f9b6c6d",
+    "wof:geomhash":"7702c4357b450c836b98503820facd9a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":185842595,
-    "wof:lastmodified":1473798209,
+    "wof:lastmodified":1510942055,
     "wof:name":"Aqua Dynamic Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air-cushioned"

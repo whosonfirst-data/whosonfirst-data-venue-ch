@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4666061401,47.0069046021,7.4666061401,47.0069046021",
     "geom:latitude":47.006905,
     "geom:longitude":7.466606,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 49 3052 Zollikofen. Postfach 580",
     "sg:city":"Zollikofen",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473740128,
-    "wof:geomhash":"89aad59777ab748c8b4b19bd06ad67aa",
+    "wof:geomhash":"d14adca468389d8512bac5cf44ad7a76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075084737,
-    "wof:lastmodified":1473740128,
+    "wof:lastmodified":1510943617,
     "wof:name":"Ott Landmaschinen Ag",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

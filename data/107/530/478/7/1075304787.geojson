@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4482722282,46.9477996826,7.4482722282,46.9477996826",
     "geom:latitude":46.9478,
     "geom:longitude":7.448272,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hotelgasse 1 3001 Bern. Postfach",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749927,
-    "wof:geomhash":"3a897183866e862762ae92e8748b9ed3",
+    "wof:geomhash":"7e5f661c10e0d92cd482756f80693fee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,15 @@
         }
     ],
     "wof:id":1075304787,
-    "wof:lastmodified":1473749927,
+    "wof:lastmodified":1510942729,
     "wof:name":"Helvetic Star Ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075730099,
+        1075630861
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

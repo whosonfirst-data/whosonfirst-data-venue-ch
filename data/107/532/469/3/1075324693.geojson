@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4534187317,47.4006576538,8.4534187317,47.4006576538",
     "geom:latitude":47.400658,
     "geom:longitude":8.453419,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00fctistrasse 28",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750942,
-    "wof:geomhash":"cb0c96612b32af61cb3fea3378a95928",
+    "wof:geomhash":"79894da84f6a5648821f9e37315bfb64",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075324693,
-    "wof:lastmodified":1473750942,
+    "wof:lastmodified":1510943570,
     "wof:name":"Searunner Holding Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075650373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

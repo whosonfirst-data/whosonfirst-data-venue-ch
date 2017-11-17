@@ -7,13 +7,16 @@
     "addr:postcode":"4800",
     "addr:street":"Muehlethalstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.957038,47.297398,7.957038,47.297398",
     "geom:latitude":47.297398,
     "geom:longitude":7.957038,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlethalstrasse 71",
     "sg:city":"Zofingen",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6ufK41yCJN2fBk7SfQxGTx_47.297398_7.957038@1306268696"
     },
     "wof:country":"CH",
-    "wof:geomhash":"10e670e04b86c62e043d1bde4f05108f",
+    "wof:geomhash":"f972084e51c9f48faa349d92e4338ea6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169691287,
-    "wof:lastmodified":1473798240,
+    "wof:lastmodified":1510941477,
     "wof:name":"Abt Blech Technik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

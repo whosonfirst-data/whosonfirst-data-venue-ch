@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5376777649,47.367225647,8.5376777649,47.367225647",
     "geom:latitude":47.367226,
     "geom:longitude":8.537678,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Claridenstrasse 26 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749479,
-    "wof:geomhash":"ce7146873a7d35179d5f056170b394af",
+    "wof:geomhash":"761aaf1577937b79cc7e118879510935",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075293397,
-    "wof:lastmodified":1473749479,
+    "wof:lastmodified":1510942178,
     "wof:name":"Clariden Cpc 2 Ltd",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075619571
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

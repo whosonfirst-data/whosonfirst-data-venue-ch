@@ -7,13 +7,16 @@
     "addr:postcode":"1260;1260",
     "addr:street":"Rue Juste Olivier;Postale 303",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.238107,46.384972,6.238107,46.384972",
     "geom:latitude":46.384972,
     "geom:longitude":6.238107,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Juste Olivier 22 1260 Nyon Case Postale 303",
     "sg:city":"Nyon",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6TXAYv3tatAfLCp0CitelF_46.384972_6.238107@1306268678"
     },
     "wof:country":"CH",
-    "wof:geomhash":"da926e1dcefb0f360526bd14b88e4720",
+    "wof:geomhash":"30064e2f527763a1a4e9190a282e5901",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169688537,
-    "wof:lastmodified":1473798158,
+    "wof:lastmodified":1510941187,
     "wof:name":"Beckman Coulter International Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236489631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

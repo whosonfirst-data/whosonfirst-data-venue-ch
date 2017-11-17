@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4296512604,47.3659133911,8.4296512604,47.3659133911",
     "geom:latitude":47.365913,
     "geom:longitude":8.429651,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestr. 2",
     "sg:city":"Birmensdorf",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726867,
-    "wof:geomhash":"6ab91bab90a1aeef461c8d6b7b604246",
+    "wof:geomhash":"27f39ce1b6fa4b9a653000f20a7176fa",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1074829607,
-    "wof:lastmodified":1473726867,
+    "wof:lastmodified":1510943111,
     "wof:name":"Palomar Elektronik Ag",
     "wof:parent_id":85862285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074844533
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

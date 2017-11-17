@@ -7,6 +7,7 @@
     "addr:postcode":"8152",
     "addr:street":"Schaffhauserstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.56769,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schaffhauserstrasse 136",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_31QlEnqF4LzX9bT4gFTbTR_47.435249_8.567690@1306268616"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0b6b0b85442a561d5bd1ebbdaf235848",
+    "wof:geomhash":"6395b25c458e0c72b10ad019683ad865",
     "wof:hierarchy":[
         {
             "campus_id":102553957,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":186570047,
-    "wof:lastmodified":1491915877,
+    "wof:lastmodified":1510942218,
     "wof:name":"Merck Sharp & Dohme Chibret Ag",
     "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236698597
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "antibiotic"

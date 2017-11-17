@@ -7,13 +7,16 @@
     "addr:postcode":"8863",
     "addr:street":"Kantonsstrasse;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.955896,47.173771,8.955896,47.173771",
     "geom:latitude":47.173771,
     "geom:longitude":8.955896,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kantonsstrasse 55",
     "sg:city":"Buttikon",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7EUXrGn6n0nXM59EhTPIoB_47.173771_8.955896@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e1370027203ac8bdcacdc87fb227351c",
+    "wof:geomhash":"f6ffe68631813af3ab142f5fd94edaa1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219762199,
-    "wof:lastmodified":1473798397,
+    "wof:lastmodified":1510942553,
     "wof:name":"E. Ruoss-kistler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074864319
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decoder",

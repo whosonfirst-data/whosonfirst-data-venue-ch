@@ -7,13 +7,16 @@
     "addr:postcode":"4057;4019",
     "addr:street":"Faerberstrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.592941,47.576305,7.592941,47.576305",
     "geom:latitude":47.576305,
     "geom:longitude":7.592941,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"F\u00e4rberstrasse 19 4057 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2nruNd0bQlEtz2IXB9p5pZ_47.576305_7.592941@1306268630"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c9194c3a666f0276da2c8c976e7db60a",
+    "wof:geomhash":"517c7b586918fa102706f27c2cc67955",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":220091775,
-    "wof:lastmodified":1473798142,
+    "wof:lastmodified":1510942332,
     "wof:name":"Fritz Maier, Schreinerei-zimmerei Ag",
     "wof:parent_id":85800031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169656343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

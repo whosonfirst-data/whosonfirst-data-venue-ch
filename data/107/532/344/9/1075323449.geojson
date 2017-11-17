@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5322446823,47.3635292053,8.5322446823,47.3635292053",
     "geom:latitude":47.363529,
     "geom:longitude":8.532245,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"General Wille-strasse 21",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750894,
-    "wof:geomhash":"030f1ec351c653935ea0edd3876787cc",
+    "wof:geomhash":"38f3ec7d857cfcdaab992c3aa7012d41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075323449,
-    "wof:lastmodified":1473750894,
+    "wof:lastmodified":1510942447,
     "wof:name":"Safra East Gmbh",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075649241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

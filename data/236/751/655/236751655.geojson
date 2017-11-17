@@ -7,13 +7,16 @@
     "addr:postcode":"2180;9230",
     "addr:street":"Wilerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.168785,47.418056,9.168785,47.418056",
     "geom:latitude":47.418056,
     "geom:longitude":9.168785,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wilerstrasse 2180",
     "sg:city":"Flawil",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3dQ2KdreVOexG7rrSr3E0N_47.418056_9.168785@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9ee7cca34ace95184b62328660dc59a4",
+    "wof:geomhash":"fc0c9936a14cebc1dd1f3c0505cb7485",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236751655,
-    "wof:lastmodified":1473798464,
+    "wof:lastmodified":1510942274,
     "wof:name":"Steinemann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075124135
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "textile",

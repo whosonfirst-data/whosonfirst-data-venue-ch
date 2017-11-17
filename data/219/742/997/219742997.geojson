@@ -7,13 +7,16 @@
     "addr:postcode":"8264",
     "addr:street":"Hauptstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.877225,47.646996,8.877225,47.646996",
     "geom:latitude":47.646996,
     "geom:longitude":8.877225,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 106",
     "sg:city":"Eschenz",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_03XZLIZ6Nb62oTMrzQVnMj_47.646996_8.877225@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"65291be07223f8e48fa76f8299a1ca72",
+    "wof:geomhash":"e2922929113126c21598017102644eee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219742997,
-    "wof:lastmodified":1473798406,
+    "wof:lastmodified":1510943722,
     "wof:name":"Thurgauer Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202941
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

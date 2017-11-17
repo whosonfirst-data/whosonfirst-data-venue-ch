@@ -7,13 +7,16 @@
     "addr:postcode":"1030;1030",
     "addr:street":"Route De La Chaux;Case Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.548736,46.546452,6.548736,46.546452",
     "geom:latitude":46.546452,
     "geom:longitude":6.548736,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De La Chaux 5 1030 Bussigny-lausanne Case Postale 444",
     "sg:city":"Bussigny-lausanne",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2u2Lb8GLPZeQpglJR26hIg_46.546452_6.548736@1306268630"
     },
     "wof:country":"CH",
-    "wof:geomhash":"de31ec26fc26ac1aa63c2b26d301339a",
+    "wof:geomhash":"6afa2f35478e73af5914d01db57f4afc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":220132639,
-    "wof:lastmodified":1473798182,
+    "wof:lastmodified":1510941484,
     "wof:name":"Rs Agencement Steiner Sa",
     "wof:parent_id":85799895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075388163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

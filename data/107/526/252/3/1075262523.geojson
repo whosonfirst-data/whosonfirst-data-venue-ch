@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7184972763,47.4177131653,8.7184972763,47.4177131653",
     "geom:latitude":47.417713,
     "geom:longitude":8.718497,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kempttalstr. 103",
     "sg:city":"Illnau",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473748054,
-    "wof:geomhash":"5edc42c160efa99a1c80bcf5071ccb7b",
+    "wof:geomhash":"0bb98f2503bb4fed55e3b9f616b5755d",
     "wof:hierarchy":[],
     "wof:id":1075262523,
-    "wof:lastmodified":1473748054,
+    "wof:lastmodified":1510941862,
     "wof:name":"S\u00c4gerei Ag Illnau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075236997
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

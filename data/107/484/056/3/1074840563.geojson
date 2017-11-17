@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6130437851,47.5643501282,7.6130437851,47.5643501282",
     "geom:latitude":47.56435,
     "geom:longitude":7.613044,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eugen Wullschleger-str. 51",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473727374,
-    "wof:geomhash":"fce9826af9f3f844698436024160bffc",
+    "wof:geomhash":"e1106bd1c0f29d7046a87a3c934ac45d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1074840563,
-    "wof:lastmodified":1473727374,
+    "wof:lastmodified":1510943570,
     "wof:name":"Ren\u00e9 Rohrbach Elektro-installationen",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074840565
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

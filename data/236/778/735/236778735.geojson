@@ -7,13 +7,16 @@
     "addr:postcode":"9534",
     "addr:street":"Silberwisstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.002861,47.396393,9.002861,47.396393",
     "geom:latitude":47.396393,
     "geom:longitude":9.002861,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Silberwisstrasse 14",
     "sg:city":"G\u00e4hwil",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5SJLpDVwpT6Lel4sgtAQHU_47.396393_9.002861@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"782819f437df205b208eacbdb776fe2d",
+    "wof:geomhash":"bc3ee03563feabff022c659bc570d848",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236778735,
-    "wof:lastmodified":1473798453,
+    "wof:lastmodified":1510944132,
     "wof:name":"Wehrli Fertigungstechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075272523
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "part",

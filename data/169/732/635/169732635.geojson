@@ -7,13 +7,16 @@
     "addr:postcode":"1003;3093;1002",
     "addr:street":"Rue Bellefontaine;Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.637971,46.516521,6.637971,46.516521",
     "geom:latitude":46.516521,
     "geom:longitude":6.637971,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Bellefontaine 2 1003 Lausanne Case Postale 3093",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_186CuxXyS4GkZQrFwaU7nI_46.516521_6.637971@1306268779"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9cf1a9e8c4951bf2546e6a4edcfc94be",
+    "wof:geomhash":"8eb5f06b52bad5b2549f58040b3f01a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169732635,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1510942260,
     "wof:name":"Inter Annonces Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185671479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

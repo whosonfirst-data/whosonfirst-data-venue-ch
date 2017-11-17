@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5235519409,47.3704605103,8.5235519409,47.3704605103",
     "geom:latitude":47.370461,
     "geom:longitude":8.523552,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gerhardstrasse 1 8036 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473734946,
-    "wof:geomhash":"448a9230c3519adb126e89470aca71bc",
+    "wof:geomhash":"48ab8e9c7a3ce5319f87495f10760019",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1074985439,
-    "wof:lastmodified":1473734946,
+    "wof:lastmodified":1510942540,
     "wof:name":"Synmedic Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075041845
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

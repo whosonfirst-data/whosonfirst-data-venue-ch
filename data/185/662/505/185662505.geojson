@@ -7,13 +7,16 @@
     "addr:postcode":"6331",
     "addr:street":"Boesch;Huenenberg Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.439713,47.160641,8.439713,47.160641",
     "geom:latitude":47.160641,
     "geom:longitude":8.439713,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00f6sch 35",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5qj2yvKxR0SUAeg25WQh8b_47.160641_8.439713@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"815475dbeef932678ebaeefd0c66f702",
+    "wof:geomhash":"b36c9a5e26fe1335ff648c99562a92f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":185662505,
-    "wof:lastmodified":1473798079,
+    "wof:lastmodified":1510943682,
     "wof:name":"Druckerei Ennetsee Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074818037
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "postcard"

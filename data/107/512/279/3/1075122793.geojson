@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3061118126,47.0854606628,7.3061118126,47.0854606628",
     "geom:latitude":47.085461,
     "geom:longitude":7.306112,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriering 8",
     "sg:city":"Lyss",
     "sg:classifiers":[],
@@ -26,16 +29,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473741870,
-    "wof:geomhash":"9d402801d525239e9391e094d2c2bb8e",
+    "wof:geomhash":"e9d4bca29ee5449b883b3a0021407421",
     "wof:hierarchy":[],
     "wof:id":1075122793,
-    "wof:lastmodified":1473741870,
+    "wof:lastmodified":1510943267,
     "wof:name":"Feintool Technologie Ag Lyss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075262725
+    ],
+    "wof:supersedes":[
+        1074903695
+    ],
     "wof:tags":[]
 },
   "bbox": [

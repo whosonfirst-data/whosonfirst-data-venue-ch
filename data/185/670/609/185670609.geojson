@@ -7,13 +7,16 @@
     "addr:postcode":"8046",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.525892,47.411392,8.525892,47.411392",
     "geom:latitude":47.411392,
     "geom:longitude":8.525892,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wehntalerstr. 286",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6vlium1CAbqFGfwqzou1HI_47.411392_8.525892@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"589e183615cbed7c555838496b0d9101",
+    "wof:geomhash":"aae0230a004ce60c15d05f56068b8f4f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":185670609,
-    "wof:lastmodified":1473798085,
+    "wof:lastmodified":1510943458,
     "wof:name":"Atelier Rs Gebr. Steiger Ag",
     "wof:parent_id":85799701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074863947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communication",

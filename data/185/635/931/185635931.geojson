@@ -7,13 +7,16 @@
     "addr:postcode":"6343",
     "addr:street":"Blegistrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.436128,47.14819,8.436128,47.14819",
     "geom:latitude":47.14819,
     "geom:longitude":8.436128,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Blegistrasse 1",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4q6PeR65It3RvbrmOePDAF_47.148190_8.436128@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fa5bf52ad109d2faf2f886ebca869a16",
+    "wof:geomhash":"1dfcf66001893fa0677a21285916572c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":185635931,
-    "wof:lastmodified":1473798057,
+    "wof:lastmodified":1510942172,
     "wof:name":"Cad-oases Int. Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075498721,
+        1075498723
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "administration",

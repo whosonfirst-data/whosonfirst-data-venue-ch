@@ -7,13 +7,16 @@
     "addr:postcode":"4663",
     "addr:street":"Lindengutstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.908449,47.317745,7.908449,47.317745",
     "geom:latitude":47.317745,
     "geom:longitude":7.908449,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lindengutstrasse 16",
     "sg:city":"Aarburg",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_0e31tgRu0CFXGHuIjKEM40_47.317745_7.908449@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5b2b23fd90210e59017f0b1c28e3285e",
+    "wof:geomhash":"e1afe85e31850e3afcd5aaab3962978d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236676575,
-    "wof:lastmodified":1473798429,
+    "wof:lastmodified":1510942041,
     "wof:name":"Domotec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075261929
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "central",

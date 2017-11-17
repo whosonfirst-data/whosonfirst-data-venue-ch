@@ -7,13 +7,16 @@
     "addr:postcode":"9413",
     "addr:street":"Ebenaustrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.547266,47.42239,9.547266,47.42239",
     "geom:latitude":47.42239,
     "geom:longitude":9.547266,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ebenaustrasse 9",
     "sg:city":"Oberegg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_5oEoIeb5lvTsx6ysAOArOy_47.422390_9.547266@1306268630"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5658bcda88bde65f3f192d01a4f591dc",
+    "wof:geomhash":"65eb56f7e9acaf93b33c14eab4d7ebc7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":220109119,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1510943727,
     "wof:name":"Karl Spirig Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075790117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"1208",
     "addr:street":"Rue Pedro-Meylan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.163511,46.195492,6.163511,46.195492",
     "geom:latitude":46.195492,
     "geom:longitude":6.163511,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Rue Pedro-meylan",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6iWXcD7pnADKyWzqKmaVU9_46.195492_6.163511@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"20a0f7f0bbc49fa3b28ac3d053ea9ec8",
+    "wof:geomhash":"d0f46becaa7013ad860e2772c816b714",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":236586101,
-    "wof:lastmodified":1473798423,
+    "wof:lastmodified":1510943069,
     "wof:name":"Consulat General De Grece",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075216875
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

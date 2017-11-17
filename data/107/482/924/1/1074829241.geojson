@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5328111649,47.2075462341,7.5328111649,47.2075462341",
     "geom:latitude":47.207546,
     "geom:longitude":7.532811,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Westbahnhofstr. 3",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726848,
-    "wof:geomhash":"4666c2aebf65d811cc8d141c92b52ea9",
+    "wof:geomhash":"d68482582dab8fd6139fb6c840919ee1",
     "wof:hierarchy":[],
     "wof:id":1074829241,
-    "wof:lastmodified":1473726848,
+    "wof:lastmodified":1510942896,
     "wof:name":"Aek Energie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074832357
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

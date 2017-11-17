@@ -7,13 +7,16 @@
     "addr:postcode":"6417",
     "addr:street":"Dorfstr.;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.632716,47.080681,8.632716,47.080681",
     "geom:latitude":47.080681,
     "geom:longitude":8.632716,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfstr. 10",
     "sg:city":"Sattel",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_1Q81yzNsHhl7KJgsFINfft_47.080681_8.632716@1306268627"
     },
     "wof:country":"CH",
-    "wof:geomhash":"88600af5ceb58a6d2002601939ea33a2",
+    "wof:geomhash":"fc03fb78ee43a2613f40b3c0cdd0402f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219712105,
-    "wof:lastmodified":1473798392,
+    "wof:lastmodified":1510942676,
     "wof:name":"Schwyzer Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

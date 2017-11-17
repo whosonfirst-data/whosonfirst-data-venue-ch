@@ -7,13 +7,16 @@
     "addr:postcode":"8409",
     "addr:street":"Ruemikerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.767823,47.504372,8.767823,47.504372",
     "geom:latitude":47.504372,
     "geom:longitude":8.767823,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00fcmikerstrasse 16",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1yokhgy6u6CR8UwVvM2BUB_47.504372_8.767823@1306268639"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9b2a13b4e47c2ac7f7f8a7a6da0e8e90",
+    "wof:geomhash":"cfb4829c51f1c9459c7ab1ee7b34c683",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":252740089,
-    "wof:lastmodified":1473798060,
+    "wof:lastmodified":1510942902,
     "wof:name":"Hofmann Gartenbau Ag",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236786033
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decoration",

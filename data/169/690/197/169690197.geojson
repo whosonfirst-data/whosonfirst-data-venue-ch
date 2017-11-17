@@ -7,13 +7,16 @@
     "addr:postcode":"7000;postfach;7001",
     "addr:street":"Schoenbuehlstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.51202,46.849239,9.51202,46.849239",
     "geom:latitude":46.849239,
     "geom:longitude":9.51202,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sch\u00f6nb\u00fchlstrasse 8 7000 Chur. Postfach",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_1anZto93pRnwGquw71c2E7_46.849239_9.512020@1306268691"
     },
     "wof:country":"CH",
-    "wof:geomhash":"33928148853542916ae7a22d9e64ee22",
+    "wof:geomhash":"49ef16a93eec1f9d48bf5fabdc5b6f5f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":169690197,
-    "wof:lastmodified":1473798238,
+    "wof:lastmodified":1510942375,
     "wof:name":"Integra Labortechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075261715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8303",
     "addr:street":"Grindelstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.611575,47.446369,8.611575,47.446369",
     "geom:latitude":47.446369,
     "geom:longitude":8.611575,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grindelstrasse 11",
     "sg:city":"Bassersdorf",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_3SWThXMtx5RQhYEFHBo7oJ_47.446369_8.611575@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6976a6935c8f1aa4e3f3f7c6fb3959b9",
+    "wof:geomhash":"8e18640cfeeeeb205b862377fb75a124",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236751709,
-    "wof:lastmodified":1473798464,
+    "wof:lastmodified":1510943358,
     "wof:name":"Vidamic Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074950585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

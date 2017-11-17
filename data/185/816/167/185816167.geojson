@@ -7,13 +7,16 @@
     "addr:postcode":"8050",
     "addr:street":"Ueberlandstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.558271,47.405434,8.558271,47.405434",
     "geom:latitude":47.405434,
     "geom:longitude":8.558271,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ueberlandstr. 93",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_48L5aiMhjy6TiAZvKuskAy_47.405434_8.558271@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5630791959023c317b4fbe9c1ca4e5f3",
+    "wof:geomhash":"854ce5f593b1aec31f45cbb974dbc309",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":185816167,
-    "wof:lastmodified":1473798195,
+    "wof:lastmodified":1510941660,
     "wof:name":"Oesch & Co Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074920663
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advice",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.945248127,46.9216194153,7.945248127,46.9216194153",
     "geom:latitude":46.921619,
     "geom:longitude":7.945248,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 35",
     "sg:city":"Escholzmatt",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726849,
-    "wof:geomhash":"e81593d3adbb2808862e4bfa19cbef2a",
+    "wof:geomhash":"798ca4adcb7e4d9711b801de51f57de0",
     "wof:hierarchy":[],
     "wof:id":1074829283,
-    "wof:lastmodified":1473726849,
+    "wof:lastmodified":1510941294,
     "wof:name":"Elektro Feindraht Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075062413
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

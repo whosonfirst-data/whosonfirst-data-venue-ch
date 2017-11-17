@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.2813673019,47.0650291443,8.2813673019,47.0650291443",
     "geom:latitude":47.065029,
     "geom:longitude":8.281367,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zollhausstrasse 2",
     "sg:city":"Reussb\u00fchl",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473728572,
-    "wof:geomhash":"0ccc0491e71188f818f990198a8eac53",
+    "wof:geomhash":"ce4fadbdc0781d4e2c85e3b7563e037d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1074863969,
-    "wof:lastmodified":1473728572,
+    "wof:lastmodified":1510944118,
     "wof:name":"Studio Werbung Ag",
     "wof:parent_id":85859525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1074852101
+    ],
     "wof:tags":[
         "stand",
         "construction",

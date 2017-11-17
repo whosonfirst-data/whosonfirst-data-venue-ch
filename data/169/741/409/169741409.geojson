@@ -7,13 +7,16 @@
     "addr:postcode":"8001",
     "addr:street":"Bahnhofstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.540011,47.367336,8.540011,47.367336",
     "geom:latitude":47.367336,
     "geom:longitude":8.540011,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2K9X04b2wCMlesj3oBwK4A_47.367336_8.540011@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4fa0dfe9748d475ea5b7b00910749c0a",
+    "wof:geomhash":"d2e06622974e947fc59d28e46d53f63a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169741409,
-    "wof:lastmodified":1473798302,
+    "wof:lastmodified":1510943348,
     "wof:name":"Nordfinanz Bank Z\u00dcrich",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219580829
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.9225788116,47.2419471741,8.9225788116,47.2419471741",
     "geom:latitude":47.241947,
     "geom:longitude":8.922579,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00fcrgstrasse 5",
     "sg:city":"Eschenbach",
     "sg:classifiers":[
@@ -34,15 +37,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473721799,
-    "wof:geomhash":"0df7ba6d7009e647d873caa0c9877110",
+    "wof:geomhash":"f74c72da403b1c7b504fd7da28d3cb7b",
     "wof:hierarchy":[],
     "wof:id":1058999089,
-    "wof:lastmodified":1473721799,
+    "wof:lastmodified":1510942676,
     "wof:name":"Eibert Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinding"

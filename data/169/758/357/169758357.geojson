@@ -7,13 +7,16 @@
     "addr:postcode":"6301",
     "addr:street":"Bahnhofstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.515671,47.169979,8.515671,47.169979",
     "geom:latitude":47.169979,
     "geom:longitude":8.515671,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 23",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_5NfjcQ3WPb3kIIH0xePp8v_47.169979_8.515671@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"26d34727e21277baeddedb4d33d0d7e2",
+    "wof:geomhash":"8d759c3ee6142301a071eff149653446",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169758357,
-    "wof:lastmodified":1473798313,
+    "wof:lastmodified":1510942968,
     "wof:name":"Alpine Select Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074809929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

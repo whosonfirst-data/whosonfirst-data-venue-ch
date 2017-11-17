@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7587518692,47.2014312744,8.7587518692,47.2014312744",
     "geom:latitude":47.201431,
     "geom:longitude":8.758752,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schwerzistrasse 6",
     "sg:city":"Freienbach",
     "sg:classifiers":[],
@@ -26,16 +29,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473749610,
-    "wof:geomhash":"ea67fdbb736a9096315a720694689c09",
+    "wof:geomhash":"9df83d9bb5d44f8e2a4722f707f2431c",
     "wof:hierarchy":[],
     "wof:id":1075296855,
-    "wof:lastmodified":1473749610,
+    "wof:lastmodified":1510942653,
     "wof:name":"Dropa Holding Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075622951
+    ],
+    "wof:supersedes":[
+        1074816139
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5118503571,47.3567810059,8.5118503571,47.3567810059",
     "geom:latitude":47.356781,
     "geom:longitude":8.51185,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Giessh\u00fcbelstrasse 45 8045 Z\u00fcrich",
     "sg:city":"Zust",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749127,
-    "wof:geomhash":"6abe9beac760b81413e42cf14c07b9b2",
+    "wof:geomhash":"65f677503d652d90fb1de4200eeead0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1075287241,
-    "wof:lastmodified":1473749127,
+    "wof:lastmodified":1510942982,
     "wof:name":"Argilla Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075613641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

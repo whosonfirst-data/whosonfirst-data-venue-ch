@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5644140244,47.2838134766,8.5644140244,47.2838134766",
     "geom:latitude":47.283813,
     "geom:longitude":8.564414,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00f6hnirainstrasse 13",
     "sg:city":"Thalwil",
     "sg:classifiers":[
@@ -35,16 +38,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473742022,
-    "wof:geomhash":"4390b426f9ad762e4560b5b69d220ea8",
+    "wof:geomhash":"2a9852f54d2104d940340ec2c20b592d",
     "wof:hierarchy":[],
     "wof:id":1075126579,
-    "wof:lastmodified":1473742022,
+    "wof:lastmodified":1510943628,
     "wof:name":"Microtest Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075261639
+    ],
+    "wof:supersedes":[
+        1075083949
+    ],
     "wof:tags":[
         "high-precision",
         "part"

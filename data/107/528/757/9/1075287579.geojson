@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5346488953,47.366558075,8.5346488953,47.366558075",
     "geom:latitude":47.366558,
     "geom:longitude":8.534649,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dreik\u00f6nigstrasse 34",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749142,
-    "wof:geomhash":"9005afe3a6e6160e475cf84c1fa2c982",
+    "wof:geomhash":"e83e39791cac1d715c97dd8ec4cd213e",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075287579,
-    "wof:lastmodified":1473749142,
+    "wof:lastmodified":1510942129,
     "wof:name":"Ascot Classic Filmverleih Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075613993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

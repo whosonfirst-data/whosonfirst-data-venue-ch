@@ -7,13 +7,16 @@
     "addr:postcode":"6044",
     "addr:street":"Kuessnachterstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.401601,47.089611,8.401601,47.089611",
     "geom:latitude":47.089611,
     "geom:longitude":8.401601,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"K\u00fcssnachterstrasse 6",
     "sg:city":"Udligenswil",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3pIiRtwXys29Eylklxk7oJ_47.089611_8.401601@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3c9be29135db915e48f32c095f2593cb",
+    "wof:geomhash":"f64100926388648521d9a2451a8c2129",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":169648307,
-    "wof:lastmodified":1473798065,
+    "wof:lastmodified":1510942778,
     "wof:name":"Moser & Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148663
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bathroom"

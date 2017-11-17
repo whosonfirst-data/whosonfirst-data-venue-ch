@@ -7,13 +7,16 @@
     "addr:postcode":"4415",
     "addr:street":"Kanalstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.771665,47.470272,7.771665,47.470272",
     "geom:latitude":47.470272,
     "geom:longitude":7.771665,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kanalstrasse 21",
     "sg:city":"Lausen",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1GsLGztZZrQChvza0hxgA4_47.470272_7.771665@1306268717"
     },
     "wof:country":"CH",
-    "wof:geomhash":"eaf1d6cf2c3e80efb06810165b0fa496",
+    "wof:geomhash":"22017c3da68514bebefcc1702f34df5a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":169693343,
-    "wof:lastmodified":1473798296,
+    "wof:lastmodified":1510942558,
     "wof:name":"Lattoflex Sitz- Und Liegem\u00f6bel Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"

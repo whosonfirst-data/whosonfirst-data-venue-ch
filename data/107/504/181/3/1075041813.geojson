@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1769590378,47.5399208069,9.1769590378,47.5399208069",
     "geom:latitude":47.539921,
     "geom:longitude":9.176959,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zelgstr. 8",
     "sg:city":"Sulgen",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473737814,
-    "wof:geomhash":"58cb76872ad184df88e20813c4f46622",
+    "wof:geomhash":"baa50283a5b8f8ccd9fb23bcb186206d",
     "wof:hierarchy":[],
     "wof:id":1075041813,
-    "wof:lastmodified":1473737814,
+    "wof:lastmodified":1510942942,
     "wof:name":"Sauter Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075112557
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument",

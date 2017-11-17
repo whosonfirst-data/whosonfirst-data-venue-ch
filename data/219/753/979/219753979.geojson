@@ -7,13 +7,16 @@
     "addr:postcode":"6490",
     "addr:street":"Gotthardstr.;Uri",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.596308,46.635006,8.596308,46.635006",
     "geom:latitude":46.635006,
     "geom:longitude":8.596308,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gotthardstr. 43",
     "sg:city":"Andermatt",
     "sg:classifiers":[
@@ -34,10 +37,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":473052064,
         "sg:id":"SG_4j0uUC5BaOvwxmjf4dZtWW_46.635006_8.596308@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"173e19ab43710b844463321f1a77d004",
+    "wof:geomhash":"a61417d12b4a70143bba8cef0ac376ca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +53,17 @@
         }
     ],
     "wof:id":219753979,
-    "wof:lastmodified":1473798407,
+    "wof:lastmodified":1510943768,
     "wof:name":"Urner Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075202967
+    ],
+    "wof:supersedes":[
+        1075202967
+    ],
     "wof:tags":[]
 },
   "bbox": [

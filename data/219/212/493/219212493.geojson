@@ -7,13 +7,16 @@
     "addr:postcode":"8352",
     "addr:street":"Im Halbiacker;Zuerich",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.783738,47.501774,8.783738,47.501774",
     "geom:latitude":47.501774,
     "geom:longitude":8.783738,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Im Halbiacker 5",
     "sg:city":"R\u00e4terschen",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0JB0H5DSJng3MQKZ1ZoyWy_47.501774_8.783738@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4e019c35d88a5345c665773b809a5bf5",
+    "wof:geomhash":"1773dd71d97c49a12b1c92e55bc02d01",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219212493,
-    "wof:lastmodified":1473798081,
+    "wof:lastmodified":1510943991,
     "wof:name":"Rizzardo Ag",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075046639
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

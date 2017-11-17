@@ -7,13 +7,16 @@
     "addr:postcode":"5703",
     "addr:street":"Aarauerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.160432,47.354412,8.160432,47.354412",
     "geom:latitude":47.354412,
     "geom:longitude":8.160432,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Aarauerstrasse 2",
     "sg:city":"Seon",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3XDcHORKgXZUhdi7DRImvh_47.354412_8.160432@1306268632"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9dcf17635c967422bb25688a20143a00",
+    "wof:geomhash":"b4c8545575088842d9e9ff7d4ef0caf7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236140663,
-    "wof:lastmodified":1473798129,
+    "wof:lastmodified":1510941560,
     "wof:name":"D\u00f6ssegger M\u00f6bel Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148497
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bedroom"

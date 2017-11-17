@@ -7,13 +7,16 @@
     "addr:postcode":"4001;4001",
     "addr:street":"Freie Strasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.589985,47.555969,7.589985,47.555969",
     "geom:latitude":47.555969,
     "geom:longitude":7.589985,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freie Strasse 42 4001 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_3M0mADssGH1fznh1ZrAfx5_47.555969_7.589985@1306268681"
     },
     "wof:country":"CH",
-    "wof:geomhash":"7b9129fb3fd948e105f78c67f4b10958",
+    "wof:geomhash":"63d666a40aafb46814392239bd370f0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169688651,
-    "wof:lastmodified":1473798170,
+    "wof:lastmodified":1510942300,
     "wof:name":"Spira & Co. Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236762945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

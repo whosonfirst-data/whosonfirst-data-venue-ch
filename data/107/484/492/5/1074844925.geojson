@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6177282333,47.2477264404,7.6177282333,47.2477264404",
     "geom:latitude":47.247726,
     "geom:longitude":7.617728,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oltenstr. 34",
     "sg:city":"Attiswil",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473727663,
-    "wof:geomhash":"93ed3810091e64058ee71c77853873ae",
+    "wof:geomhash":"f96a52bd99206c1d9f1d0736c74e974b",
     "wof:hierarchy":[],
     "wof:id":1074844925,
-    "wof:lastmodified":1473727663,
+    "wof:lastmodified":1510943185,
     "wof:name":"Feinmechanik Mathys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075265959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engine",

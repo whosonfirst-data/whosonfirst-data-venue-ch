@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6323571205,46.5207176208,6.6323571205,46.5207176208",
     "geom:latitude":46.520718,
     "geom:longitude":6.632357,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Centrale Rue 5 1003 Lausanne. Postfach",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750944,
-    "wof:geomhash":"4c83d7c54ebc99f29751b382a91ff75a",
+    "wof:geomhash":"2b5049c90306f124d2c51984720a7331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075324737,
-    "wof:lastmodified":1473750944,
+    "wof:lastmodified":1510942927,
     "wof:name":"Securvalor Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075650421
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

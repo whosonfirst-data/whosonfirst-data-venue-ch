@@ -7,13 +7,16 @@
     "addr:postcode":"2500;postfach;2502",
     "addr:street":"Weissensteinstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.259771,47.144802,7.259771,47.144802",
     "geom:latitude":47.144802,
     "geom:longitude":7.259771,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Weissensteinstrasse 9 2500 Biel/bienne. Postfach",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_1nGnmjDVZQhkKiOD2TZSbC_47.144802_7.259771@1306268689"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2bce5ee088472fb01e4051eb3053a803",
+    "wof:geomhash":"374c031ebe1b81d72aa019ce0ebab95d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169690029,
-    "wof:lastmodified":1473798227,
+    "wof:lastmodified":1510943015,
     "wof:name":"Centennial S\u00e0rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074812799
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

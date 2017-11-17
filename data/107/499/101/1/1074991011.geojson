@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6446628571,46.5066795349,6.6446628571,46.5066795349",
     "geom:latitude":46.50668,
     "geom:longitude":6.644663,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue G\u00e9n\u00e9ral-guisan 70 1009 Pully Case Postale 446",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473735269,
-    "wof:geomhash":"441842778e68ae44bdad984a95610740",
+    "wof:geomhash":"92e4d9c0ba140a288751828e7ebe269a",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1074991011,
-    "wof:lastmodified":1473735269,
+    "wof:lastmodified":1510941366,
     "wof:name":"Tetra Pak International Sa",
     "wof:parent_id":85862387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075346377
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

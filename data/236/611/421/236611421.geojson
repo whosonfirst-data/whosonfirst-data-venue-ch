@@ -7,13 +7,16 @@
     "addr:postcode":"9444",
     "addr:street":"Bogenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.660447,47.386501,9.660447,47.386501",
     "geom:latitude":47.386501,
     "geom:longitude":9.660447,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bogenstrasse 6",
     "sg:city":"Diepoldsau",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4vCEdUAv1sMdzjsQyeXfsP_47.386501_9.660447@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"623397afbacffb2ba8bfd6478fad8ab3",
+    "wof:geomhash":"cd0c30d9d5749dc48a4c583140a1f596",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236611421,
-    "wof:lastmodified":1473798429,
+    "wof:lastmodified":1510941255,
     "wof:name":"Drei De Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074947345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "design",

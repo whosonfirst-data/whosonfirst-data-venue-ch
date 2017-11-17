@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5849990845,47.4126472473,8.5849990845,47.4126472473",
     "geom:latitude":47.412647,
     "geom:longitude":8.584999,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 19",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473727669,
-    "wof:geomhash":"7d7ebae9e7bf45dabcedee3a0dd7a0d9",
+    "wof:geomhash":"56a4029568f7f94710825b37a8b105c9",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1074845017,
-    "wof:lastmodified":1473727669,
+    "wof:lastmodified":1510943294,
     "wof:name":"Information Builders (schweiz) Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075511505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eai",

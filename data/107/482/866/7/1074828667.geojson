@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.4656553268,47.4742546082,9.4656553268,47.4742546082",
     "geom:latitude":47.474255,
     "geom:longitude":9.465655,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Konsumstr. 5 (bahnhofplatz) Bahnhofplatz",
     "sg:city":"Goldach",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726815,
-    "wof:geomhash":"54d9abee01e1c50ecd50d01d5dea8fd6",
+    "wof:geomhash":"0c67491c94256a9c62216ca1b9731e3d",
     "wof:hierarchy":[],
     "wof:id":1074828667,
-    "wof:lastmodified":1473726815,
+    "wof:lastmodified":1510943987,
     "wof:name":"Glomar Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075059499
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electric",

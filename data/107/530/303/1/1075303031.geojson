@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5327377319,47.3660202026,8.5327377319,47.3660202026",
     "geom:latitude":47.36602,
     "geom:longitude":8.532738,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bleicherweg 45",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749857,
-    "wof:geomhash":"95dfec57520b7701ffa04594abee4ae2",
+    "wof:geomhash":"cf56a96ea9ad08d3c02d9d0f883bdcf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1075303031,
-    "wof:lastmodified":1473749857,
+    "wof:lastmodified":1510943817,
     "wof:name":"Globix Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075629119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

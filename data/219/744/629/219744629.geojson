@@ -7,13 +7,16 @@
     "addr:postcode":"9326",
     "addr:street":"Bahnhofstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.46453,47.494415,9.46453,47.494415",
     "geom:latitude":47.494415,
     "geom:longitude":9.46453,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 9",
     "sg:city":"Horn",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_76heUFNoZIQKLlggDvxRKh_47.494415_9.464530@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8fb1784e945d27d42a12ced482cbbc5d",
+    "wof:geomhash":"f88f75215f20b870657e4bacd998d6b1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219744629,
-    "wof:lastmodified":1473798403,
+    "wof:lastmodified":1510941636,
     "wof:name":"Thurgauer, Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

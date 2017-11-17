@@ -7,13 +7,16 @@
     "addr:postcode":"8840",
     "addr:street":"Zuerichstrasse;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.744886,47.133282,8.744886,47.133282",
     "geom:latitude":47.133282,
     "geom:longitude":8.744886,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Z\u00fcrichstrasse 46",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[
@@ -41,10 +44,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":219200640,
         "sg:id":"SG_4KNIaDO6qEhXzKEOlWM1dn_47.133282_8.744886@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d6eb7deadd04aa5cb5b99d096b717c3a",
+    "wof:geomhash":"a012bd1a23b68aed44ce8fb78ba23036",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +61,19 @@
         }
     ],
     "wof:id":185632435,
-    "wof:lastmodified":1473798052,
+    "wof:lastmodified":1510943378,
     "wof:name":"Well-pack Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075346669,
+        1075122143
+    ],
+    "wof:supersedes":[
+        1075122143,
+        1075346669
+    ],
     "wof:tags":[
         "packaging",
         "adhesive",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5267601013,47.4636764526,8.5267601013,47.4636764526",
     "geom:latitude":47.463676,
     "geom:longitude":8.52676,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberglatterstrasse 35",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751419,
-    "wof:geomhash":"8d7d694bcd9bc0f8395433e8e72c660a",
+    "wof:geomhash":"b342219ae88b126edb7e010545ca269a",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075336545,
-    "wof:lastmodified":1473751419,
+    "wof:lastmodified":1510943826,
     "wof:name":"Vp Holding Ag Beteiligungen Usw",
     "wof:parent_id":85862429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075662147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

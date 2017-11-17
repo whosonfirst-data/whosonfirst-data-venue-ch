@@ -7,13 +7,16 @@
     "addr:postcode":"8840",
     "addr:street":"Gaswerkstrasse;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.74611,47.133369,8.74611,47.133369",
     "geom:latitude":47.133369,
     "geom:longitude":8.74611,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gaswerkstrasse 12",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2nSYtvulk684rQUBvxYsKF_47.133369_8.746110@1306268632"
     },
     "wof:country":"CH",
-    "wof:geomhash":"38d3f3396b218f128c29d36e6203445c",
+    "wof:geomhash":"92f33aaecb6cc2e2efc0e0723bbb81b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236142051,
-    "wof:lastmodified":1473798113,
+    "wof:lastmodified":1510942504,
     "wof:name":"Lienert Kerzen Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075107025
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "candle",

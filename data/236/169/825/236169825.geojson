@@ -7,13 +7,16 @@
     "addr:postcode":"8048 zuerich. postfach zuerich-muelligen;8010",
     "addr:street":"Hermetschloostrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.473708,47.39373,8.473708,47.39373",
     "geom:latitude":47.39373,
     "geom:longitude":8.473708,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hermetschloostrasse 77 8048 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich-m\u00fclligen",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_4Cqk2a4UvdO8Ay4ThpAcTg_47.393730_8.473708@1306268632"
     },
     "wof:country":"CH",
-    "wof:geomhash":"ee1a3207666c9fe40d0b9d7b96fff7fb",
+    "wof:geomhash":"d5fb91b0fd373686b7fc143533e28b1c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236169825,
-    "wof:lastmodified":1473798153,
+    "wof:lastmodified":1510944192,
     "wof:name":"Weka Verlag Ag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075235073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

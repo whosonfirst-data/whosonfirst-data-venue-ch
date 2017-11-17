@@ -7,13 +7,16 @@
     "addr:postcode":"8048",
     "addr:street":"Buckhauserstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.492715,47.384369,8.492715,47.384369",
     "geom:latitude":47.384369,
     "geom:longitude":8.492715,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Buckhauserstr. 28",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6v1kAGfS2MxJTKambE3xYr_47.384369_8.492715@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8edb221b89883fd527c3b27de33bb10c",
+    "wof:geomhash":"3c6f6d5e20eb000a16d71900d392f302",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":185832159,
-    "wof:lastmodified":1473798194,
+    "wof:lastmodified":1510942188,
     "wof:name":"M\u00dcrset Ag",
     "wof:parent_id":85799719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075010093
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "transport",

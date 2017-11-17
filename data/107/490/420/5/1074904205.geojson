@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.9635829926,47.2565155029,7.9635829926,47.2565155029",
     "geom:latitude":47.256516,
     "geom:longitude":7.963583,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 10",
     "sg:city":"Wikon",
     "sg:classifiers":[
@@ -34,15 +37,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730694,
-    "wof:geomhash":"2b7e8e8ad021b4d70444ac1b6b4ae426",
+    "wof:geomhash":"1853725ac7d6f56048befb3b19250533",
     "wof:hierarchy":[],
     "wof:id":1074904205,
-    "wof:lastmodified":1473730694,
+    "wof:lastmodified":1510941907,
     "wof:name":"Pilkington Glas Wikon Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074937799
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fire-proof"

@@ -7,6 +7,7 @@
     "addr:postcode":"8004",
     "addr:street":"Gugolzstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.51364,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gugolzstrasse 2",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_2m49uPuYMXKIZBGEjxmKyI_47.382759_8.513640@1306268615"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fb86f5aa820afa663b8b4cf982582a1a",
+    "wof:geomhash":"baa89bde02057bcb319ca4fb26b962ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":186550499,
-    "wof:lastmodified":1491899350,
+    "wof:lastmodified":1510942960,
     "wof:name":"Alumess Ag",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271493
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminium",

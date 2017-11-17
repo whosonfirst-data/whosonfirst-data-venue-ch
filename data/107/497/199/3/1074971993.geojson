@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3897228241,46.9468421936,7.3897228241,46.9468421936",
     "geom:latitude":46.946842,
     "geom:longitude":7.389723,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fellerstrasse 15 3027 Bern. Postfach 319",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473734141,
-    "wof:geomhash":"5984d094009d4fc07282753357ac2e3c",
+    "wof:geomhash":"2cf496b44eb107b4325cf445ba360648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1074971993,
-    "wof:lastmodified":1473734141,
+    "wof:lastmodified":1510942732,
     "wof:name":"Merkur Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074971741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

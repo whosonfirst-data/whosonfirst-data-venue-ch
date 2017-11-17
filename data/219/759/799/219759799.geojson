@@ -7,13 +7,16 @@
     "addr:postcode":"8450",
     "addr:street":"Landstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.679041,47.5947,8.679041,47.5947",
     "geom:latitude":47.5947,
     "geom:longitude":8.679041,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Landstr. 42",
     "sg:city":"Andelfingen",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_458E1CaQFrVUKtMkNRgkRz_47.594700_8.679041@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9e50fc8bd61bbf9fc6547ee6aa75738f",
+    "wof:geomhash":"d387264567bb4fcb73794932a5bcb639",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219759799,
-    "wof:lastmodified":1473798407,
+    "wof:lastmodified":1510942287,
     "wof:name":"Z\u00fcrcher Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075203079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"6340",
     "addr:street":"Haldenstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.536223,47.195415,8.536223,47.195415",
     "geom:latitude":47.195415,
     "geom:longitude":8.536223,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Haldenstrasse 1",
     "sg:city":"Baar",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_2LAABEYd2RSclLuHQ6G3TW_47.195415_8.536223@1306268644"
     },
     "wof:country":"CH",
-    "wof:geomhash":"dfed248f71c00d834c99436d491e0b18",
+    "wof:geomhash":"3242b586045fe7ee0da20961c4980001",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":253401215,
-    "wof:lastmodified":1473798350,
+    "wof:lastmodified":1510943470,
     "wof:name":"Edusys Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

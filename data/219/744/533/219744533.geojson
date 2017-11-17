@@ -7,13 +7,16 @@
     "addr:postcode":"9545",
     "addr:street":"Dorfstr.;Thurgau",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.953494,47.496948,8.953494,47.496948",
     "geom:latitude":47.496948,
     "geom:longitude":8.953494,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfstr. 6",
     "sg:city":"W\u00e4ngi",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_4cZs2pm1ALfhvaCCb4drh5_47.496948_8.953494@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f9cf1547b234363051d45a5b5880f3dd",
+    "wof:geomhash":"aa82265957f6e235a6cc310c3ea4a030",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219744533,
-    "wof:lastmodified":1473798401,
+    "wof:lastmodified":1510941663,
     "wof:name":"Thurgauer, Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

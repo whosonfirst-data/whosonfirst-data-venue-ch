@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,6 +12,7 @@
     "geom:longitude":8.552797,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schaffhauserstrasse 550",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750886,
-    "wof:geomhash":"03b31fed432f1dc6b83bcb4d6c2c8dc1",
+    "wof:geomhash":"6b40c46b1e796220b8adc1c32f7b6bba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":1075323215,
-    "wof:lastmodified":1491915851,
+    "wof:lastmodified":1510941968,
     "wof:name":"S Media Vision Ag Viva-swizz Musik-fernsehen",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075649037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

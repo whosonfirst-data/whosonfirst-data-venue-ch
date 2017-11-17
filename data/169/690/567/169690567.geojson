@@ -7,13 +7,16 @@
     "addr:postcode":"1023;1023",
     "addr:street":"Chemin De Mongevon;Case Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.574415,46.547642,6.574415,46.547642",
     "geom:latitude":46.547642,
     "geom:longitude":6.574415,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chemin De Mongevon 9 1023 Crissier Case Postale 98",
     "sg:city":"Crissier",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_3EBLwDUqHstFWFk7Qq5OFX_46.547642_6.574415@1306268693"
     },
     "wof:country":"CH",
-    "wof:geomhash":"22af3f4ed2787189a56b8d8cf3f7164d",
+    "wof:geomhash":"68d346420c58b1a5e6812edf4f955533",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,15 @@
         }
     ],
     "wof:id":169690567,
-    "wof:lastmodified":1473798249,
+    "wof:lastmodified":1510943964,
     "wof:name":"R\u00fceger Sa",
     "wof:parent_id":85800443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169693331,
+        236477375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

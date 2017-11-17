@@ -7,13 +7,16 @@
     "addr:postcode":"8853",
     "addr:street":"Steineggstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.85625,47.185413,8.85625,47.185413",
     "geom:latitude":47.185413,
     "geom:longitude":8.85625,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steineggstrasse 18",
     "sg:city":"Lachen",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3Q6JcYwMzBuYhmZvmbaa07_47.185413_8.856250@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"44e87154d28092c123f4120e83fee98b",
+    "wof:geomhash":"8d4972f6d84c8de8dba7d3c9ea8bcce2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236652157,
-    "wof:lastmodified":1473798428,
+    "wof:lastmodified":1510942510,
     "wof:name":"Modellana Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074864181
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"

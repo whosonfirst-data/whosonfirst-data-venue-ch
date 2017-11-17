@@ -7,13 +7,16 @@
     "addr:postcode":"4450",
     "addr:street":"Hauptstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.805115,47.465298,7.805115,47.465298",
     "geom:latitude":47.465298,
     "geom:longitude":7.805115,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstrasse 130",
     "sg:city":"Sissach",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5p6vfvOhztX6GZfjyaujsq_47.465298_7.805115@1306268621"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d3383e23fecf8ed24c1f3c432dd73771",
+    "wof:geomhash":"7d0cb15dc857d5d772ced76bbdede4fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":203123189,
-    "wof:lastmodified":1473798112,
+    "wof:lastmodified":1510942469,
     "wof:name":"Jrg Gunzenhauser Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271403
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "casting"

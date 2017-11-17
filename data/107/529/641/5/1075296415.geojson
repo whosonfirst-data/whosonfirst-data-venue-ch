@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6288371086,46.5181045532,6.6288371086,46.5181045532",
     "geom:latitude":46.518105,
     "geom:longitude":6.628837,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chemin De Mornex 3",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749594,
-    "wof:geomhash":"2a4565ee73cc10f0762ae9a653168030",
+    "wof:geomhash":"c40080da8fdd0cda142e5e09e052930d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075296415,
-    "wof:lastmodified":1473749594,
+    "wof:lastmodified":1510944094,
     "wof:name":"Dr M\u00e9d. Luce Altwegg M\u00e9decin G\u00e9n\u00e9raliste",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075622511
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

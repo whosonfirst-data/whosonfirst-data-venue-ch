@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.9563188553,46.0073127747,8.9563188553,46.0073127747",
     "geom:latitude":46.007313,
     "geom:longitude":8.956319,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Francesco Somaini 5",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749807,
-    "wof:geomhash":"56fc282d04c1a214a9f6903def83da3d",
+    "wof:geomhash":"1d1780b3e554770d398bd0e1137615e5",
     "wof:hierarchy":[
         {
             "campus_id":102553897,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075301645,
-    "wof:lastmodified":1473749807,
+    "wof:lastmodified":1510942795,
     "wof:name":"Gagliax Sa",
     "wof:parent_id":102553897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075627751
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8002",
     "addr:street":"Brandschenkestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.526234,47.362499,8.526234,47.362499",
     "geom:latitude":47.362499,
     "geom:longitude":8.526234,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brandschenkestrasse 178",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2TS2YDVqSPVPiF8lKRT9U0_47.362499_8.526234@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0f1e35c03f1b0ccf33b911f2883ce4ad",
+    "wof:geomhash":"3169941db62ac2101c07ba6ccfa6a737",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236881205,
-    "wof:lastmodified":1473798450,
+    "wof:lastmodified":1510942554,
     "wof:name":"File Security Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075039325
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "back-up",

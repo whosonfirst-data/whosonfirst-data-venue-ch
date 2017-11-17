@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9038338661,46.440120697,6.9038338661,46.440120697",
     "geom:latitude":46.440121,
     "geom:longitude":6.903834,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grand-rue 114",
     "sg:city":"Montreux",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751294,
-    "wof:geomhash":"92e71fe3f2366fa209af5395f5f33da7",
+    "wof:geomhash":"4d7f174ad9583467b9ad566b6b3c533d",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075333103,
-    "wof:lastmodified":1473751294,
+    "wof:lastmodified":1510942268,
     "wof:name":"Tcm Montreux Sa M\u00e9decine Trad.chinoise",
     "wof:parent_id":85859519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075658795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.635887146,46.5178909302,6.635887146,46.5178909302",
     "geom:latitude":46.517891,
     "geom:longitude":6.635887,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Beau-s\u00e9jour Rue 15 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750553,
-    "wof:geomhash":"491675cae7dd1c9a911e5c4575c33d6b",
+    "wof:geomhash":"5c04b32d6eb54860ba03aa8c7562c5f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075315013,
-    "wof:lastmodified":1473750553,
+    "wof:lastmodified":1510941613,
     "wof:name":"Montal\u00e8gre E Sa",
     "wof:parent_id":85862417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075641047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8600",
     "addr:street":"Wilstrasse;Zuerich",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.616873,47.395096,8.616873,47.395096",
     "geom:latitude":47.395096,
     "geom:longitude":8.616873,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wilstrasse 40",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_1YxC34YwhbYe7MfpGYtfUW_47.395096_8.616873@1306268616"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3da3f7f8a88cefd8b3c0816a8cefcc6d",
+    "wof:geomhash":"e3a36a7e8f8a84dc98a9c7c1b70ef323",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169619053,
-    "wof:lastmodified":1473798054,
+    "wof:lastmodified":1510943367,
     "wof:name":"Fisch & Partner Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074976507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5351734161,47.3664855957,8.5351734161,47.3664855957",
     "geom:latitude":47.366486,
     "geom:longitude":8.535173,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dreik\u00f6nigstrasse 31a",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751343,
-    "wof:geomhash":"051c2838272b0427f4a84f9a3aa44003",
+    "wof:geomhash":"f432bae73affbf118ad2b305f0e26591",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075334473,
-    "wof:lastmodified":1473751343,
+    "wof:lastmodified":1510942269,
     "wof:name":"Transm Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075660161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

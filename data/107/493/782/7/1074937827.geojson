@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6096301079,47.5325202942,7.6096301079,47.5325202942",
     "geom:latitude":47.53252,
     "geom:longitude":7.60963,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Helsinki Str. 9",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473732263,
-    "wof:geomhash":"2d4976bad3bdf5a228c3f580db76b3ce",
+    "wof:geomhash":"c494dd5744c815657cbcaf5a394b4f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1074937827,
-    "wof:lastmodified":1473732263,
+    "wof:lastmodified":1510943897,
     "wof:name":"American Optical Company International Ag",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074937745
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

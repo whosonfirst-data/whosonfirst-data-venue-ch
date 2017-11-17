@@ -7,13 +7,16 @@
     "addr:postcode":"3174",
     "addr:street":"Brunnmattstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.349251,46.890881,7.349251,46.890881",
     "geom:latitude":46.890881,
     "geom:longitude":7.349251,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brunnmattstrasse 13",
     "sg:city":"Th\u00f6rishaus",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3pPTtpJnwU1IQpGbOHD65e_46.890881_7.349251@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3071275343424a3c22ed1988afcb234b",
+    "wof:geomhash":"0244aa00329de763f14b95682e704d5f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219210571,
-    "wof:lastmodified":1473798069,
+    "wof:lastmodified":1510942555,
     "wof:name":"Wampfler Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074829423
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "workstation",

@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.538766861,47.3699150085,8.538766861,47.3699150085",
     "geom:latitude":47.369915,
     "geom:longitude":8.538767,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Paradeplatz 8 8001 Z\u00fcrich. Postfach 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473763738,
-    "wof:geomhash":"f99da4bd13d3903cfc164868645378ba",
+    "wof:geomhash":"bca09ded8af42c2759c74c0d7ecb99b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,13 +48,16 @@
         }
     ],
     "wof:id":1075620795,
-    "wof:lastmodified":1473763738,
+    "wof:lastmodified":1510941441,
     "wof:name":"Credit Suisse Group",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1075294613,
+        1075388907
+    ],
     "wof:tags":[]
 },
   "bbox": [

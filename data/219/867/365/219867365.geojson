@@ -7,13 +7,16 @@
     "addr:postcode":"8840",
     "addr:street":"Zuerichstrasse;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.745006,47.135147,8.745006,47.135147",
     "geom:latitude":47.135147,
     "geom:longitude":8.745006,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Z\u00fcrichstrasse 61",
     "sg:city":"Einsiedeln",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5lGMZuB7FTZoOXJmqfjJrM_47.135147_8.745006@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d6e307420e1a7433fb8f071bb0c34531",
+    "wof:geomhash":"1c5730f3dbdba33abd7a1fc19327655b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":219867365,
-    "wof:lastmodified":1473798412,
+    "wof:lastmodified":1510942357,
     "wof:name":"Astor K\u00fcchen- Und M\u00f6belbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075388077
+    ],
+    "wof:supersedes":[
+        169690327
+    ],
     "wof:tags":[
         "bathroom"
     ]

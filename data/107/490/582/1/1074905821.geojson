@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.78018713,47.2136764526,7.78018713,47.2136764526",
     "geom:latitude":47.213676,
     "geom:longitude":7.780187,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eisenbahnstr. 44",
     "sg:city":"Langenthal",
     "sg:classifiers":[
@@ -43,15 +46,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730781,
-    "wof:geomhash":"4208ba1daacd3d57f90f3551d898ad68",
+    "wof:geomhash":"83aca4ecc30c896158ab8e6aa872f6db",
     "wof:hierarchy":[],
     "wof:id":1074905821,
-    "wof:lastmodified":1473730781,
+    "wof:lastmodified":1510943491,
     "wof:name":"Ammann Verdichtung Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075469893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "e",

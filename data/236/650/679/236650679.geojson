@@ -7,13 +7,16 @@
     "addr:postcode":"8304",
     "addr:street":"Gewerbehallenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.574886,47.414764,8.574886,47.414764",
     "geom:latitude":47.414764,
     "geom:longitude":8.574886,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gewerbehallenstrasse 4",
     "sg:city":"Wallisellen",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2nukm1A3S93B5e0iT8FBJl_47.414764_8.574886@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"afa44063129995467005f1eaab53a4cd",
+    "wof:geomhash":"5926ef8486912ad5b14a17b554841de6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236650679,
-    "wof:lastmodified":1473798445,
+    "wof:lastmodified":1510941262,
     "wof:name":"Tcw Texcare Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074999631
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"

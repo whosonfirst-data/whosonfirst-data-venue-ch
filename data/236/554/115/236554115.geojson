@@ -7,13 +7,16 @@
     "addr:postcode":"4054;4011",
     "addr:street":"Binningerstrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.582756,47.548882,7.582756,47.548882",
     "geom:latitude":47.548882,
     "geom:longitude":7.582756,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Binningerstrasse 40 4054 Basel. Postfach",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_7Lya0U1EX3qxPEBwdttUOe_47.548882_7.582756@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4515001021d36f06b31dd7b9d8036399",
+    "wof:geomhash":"8f1950a3e6ac59d47b45541b82f69fcd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236554115,
-    "wof:lastmodified":1473798413,
+    "wof:lastmodified":1510941619,
     "wof:name":"Zoologischer Garten Basel",
     "wof:parent_id":85800541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074916473
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

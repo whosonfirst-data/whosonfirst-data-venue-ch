@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6214799881,47.4149093628,8.6214799881,47.4149093628",
     "geom:latitude":47.414909,
     "geom:longitude":8.62148,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brandbachstrasse 10 8305 Dietlikon. Postfach",
     "sg:city":"Dietlikon",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473729822,
-    "wof:geomhash":"5359e62ac94c47e14a095aac5a4cdb29",
+    "wof:geomhash":"977c88a1913f4725e2dd9560cc205609",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1074887493,
-    "wof:lastmodified":1473729822,
+    "wof:lastmodified":1510941956,
     "wof:name":"Datacolor Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075261573
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

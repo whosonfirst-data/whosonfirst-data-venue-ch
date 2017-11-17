@@ -7,13 +7,16 @@
     "addr:postcode":"8406",
     "addr:street":"Metzgerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7033,47.493301,8.7033,47.493301",
     "geom:latitude":47.493301,
     "geom:longitude":8.7033,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Metzgerstrasse 1",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5JvTW6LFXAOVeUjpe0Hf6N_47.493301_8.703300@1306268632"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b5e41f8d982d4a12a75ba15a4f8648b1",
+    "wof:geomhash":"95ea6bad5403c0652d04039094e15df0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236149391,
-    "wof:lastmodified":1473798115,
+    "wof:lastmodified":1510944056,
     "wof:name":"Farros Blatter Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074905763
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sander",

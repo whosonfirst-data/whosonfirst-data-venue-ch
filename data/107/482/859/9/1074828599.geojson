@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5741863251,47.1350326538,8.5741863251,47.1350326538",
     "geom:latitude":47.135033,
     "geom:longitude":8.574186,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gewerbestr. 1",
     "sg:city":"Unter\u00e4geri",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726812,
-    "wof:geomhash":"3373b9b40b0d0a8aa54162a7ee064ce1",
+    "wof:geomhash":"326cb606913286f9253765e84cd4a35d",
     "wof:hierarchy":[],
     "wof:id":1074828599,
-    "wof:lastmodified":1473726812,
+    "wof:lastmodified":1510943911,
     "wof:name":"Photochemie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075276177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

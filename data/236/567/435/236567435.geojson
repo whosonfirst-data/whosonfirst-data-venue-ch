@@ -7,13 +7,16 @@
     "addr:postcode":"8050",
     "addr:street":"Hagenholzstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.55619,47.414669,8.55619,47.414669",
     "geom:latitude":47.414669,
     "geom:longitude":8.55619,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hagenholzstrasse 71",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3C5R6uTsddeFoVthvQ37IG_47.414669_8.556190@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"baa0d41a2253f359669a2e6cac9cbf39",
+    "wof:geomhash":"a2c421da4f8e2962149d3ee7d1e5f748",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236567435,
-    "wof:lastmodified":1473798426,
+    "wof:lastmodified":1510944045,
     "wof:name":"Karl Schwegler Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387723
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "brochure",

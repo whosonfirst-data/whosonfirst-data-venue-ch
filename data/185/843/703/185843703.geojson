@@ -7,6 +7,7 @@
     "addr:postcode":"4002",
     "addr:street":"Erlenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":7.59796,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Erlenstrasse 1",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_4l3thrfuk7QCNxckbc7g0H_47.568748_7.597960@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"602d97aa41103032ca2e14650c9239c1",
+    "wof:geomhash":"b4a277fa3ed02764ccd15293a15065e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +63,15 @@
         }
     ],
     "wof:id":185843703,
-    "wof:lastmodified":1491895535,
+    "wof:lastmodified":1510943688,
     "wof:name":"Ziegler (schweiz) Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075684739,
+        1075610579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air-freight",

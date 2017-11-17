@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.0987510681,47.1721496582,8.0987510681,47.1721496582",
     "geom:latitude":47.17215,
     "geom:longitude":8.098751,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leopoldstrasse 6",
     "sg:city":"Sursee",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473743195,
-    "wof:geomhash":"ed0de0c8621508dc37a1fdb808affa06",
+    "wof:geomhash":"658e2293efc49bf4805fe838d75f9cf6",
     "wof:hierarchy":[],
     "wof:id":1075151729,
-    "wof:lastmodified":1473743195,
+    "wof:lastmodified":1510943198,
     "wof:name":"Truvag Treuhand Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075729045
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "organizational",

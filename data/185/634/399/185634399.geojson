@@ -7,13 +7,16 @@
     "addr:postcode":"8008",
     "addr:street":"Dufourstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.551728,47.359005,8.551728,47.359005",
     "geom:latitude":47.359005,
     "geom:longitude":8.551728,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dufourstrasse 101",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_5kQQDXmCPJh7rM1DjLWdF0_47.359005_8.551728@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0a978d8e6d1d92cea307ec8b85d1e5a9",
+    "wof:geomhash":"07c383d50ec0b652bee32c1b0f7e0d3c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":185634399,
-    "wof:lastmodified":1473798048,
+    "wof:lastmodified":1510943428,
     "wof:name":"Elosol Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236695341
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "harden",

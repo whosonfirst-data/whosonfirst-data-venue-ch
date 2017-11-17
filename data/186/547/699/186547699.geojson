@@ -7,13 +7,16 @@
     "addr:postcode":"3250",
     "addr:street":"Grenzstrasse;Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.291119,47.067638,7.291119,47.067638",
     "geom:latitude":47.067638,
     "geom:longitude":7.291119,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grenzstrasse 26",
     "sg:city":"Lyss",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_50g35aDdc8BKpZIOM08Uzw_47.067638_7.291119@1306268615"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e748bffe6d893b2bc5bb32eedf50391b",
+    "wof:geomhash":"40c1190216c44080ce0f61a7bdbe7d21",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":186547699,
-    "wof:lastmodified":1473798369,
+    "wof:lastmodified":1510942532,
     "wof:name":"Metalyss Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271417
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "die",

@@ -7,13 +7,16 @@
     "addr:postcode":"8008",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.561334,47.351078,8.561334,47.351078",
     "geom:latitude":47.351078,
     "geom:longitude":8.561334,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Seefeldstr. 233",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_1gYtvzXL1XaVTxx9sRbFT3_47.351078_8.561334@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"48ee2c3ade7b83f9bd80354134822347",
+    "wof:geomhash":"6a958641e2e0d27a038ea826508ead03",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":236585347,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1510943862,
     "wof:name":"Olsen Ltd",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074892161
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

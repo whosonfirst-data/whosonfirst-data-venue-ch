@@ -7,13 +7,16 @@
     "addr:postcode":"2540",
     "addr:street":"Bettlachstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.396786,47.192722,7.396786,47.192722",
     "geom:latitude":47.192722,
     "geom:longitude":7.396786,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bettlachstrasse 8",
     "sg:city":"Grenchen",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_51EMwJ4Xm1MWB7NDSF2XBv_47.192722_7.396786@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fff0f45bf01236cbbf97629a2684c0ca",
+    "wof:geomhash":"015cdc73b5abe2772319083b98d5189e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":219870741,
-    "wof:lastmodified":1473798417,
+    "wof:lastmodified":1510942417,
     "wof:name":"Movado Watch Company Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075379527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "battery",

@@ -7,13 +7,16 @@
     "addr:postcode":"6343",
     "addr:street":"Riedstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.42877,47.147362,8.42877,47.147362",
     "geom:latitude":47.147362,
     "geom:longitude":8.42877,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Riedstrasse 1",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3LWObhrVqBtDORAIy1J4Hr_47.147362_8.428770@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"03b864320d52c0328a23d695570e7d39",
+    "wof:geomhash":"81f3c5cde064aeac896d0944b3eb5b1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236885783,
-    "wof:lastmodified":1473798465,
+    "wof:lastmodified":1510942232,
     "wof:name":"Novatec Consulting Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236929705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "software",

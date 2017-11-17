@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3960723877,47.4202728271,8.3960723877,47.4202728271",
     "geom:latitude":47.420273,
     "geom:longitude":8.396072,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lerzenstrasse 27",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -26,16 +29,21 @@
     },
     "wof:country":"CH",
     "wof:created":1473732742,
-    "wof:geomhash":"958fa56941f540d95beffdb59acce1fe",
+    "wof:geomhash":"63d7e9568c8feef231f6a49ab9fc97e0",
     "wof:hierarchy":[],
     "wof:id":1074947381,
-    "wof:lastmodified":1473732742,
+    "wof:lastmodified":1510944197,
     "wof:name":"Ibv Informatik Beratungs-& Vertriebs Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075632271,
+        1075306169
+    ],
+    "wof:supersedes":[
+        236585641
+    ],
     "wof:tags":[]
 },
   "bbox": [

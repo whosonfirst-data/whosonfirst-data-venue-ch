@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6861524582,47.4258995056,8.6861524582,47.4258995056",
     "geom:latitude":47.4259,
     "geom:longitude":8.686152,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 19 8307 Effretikon. Postfach",
     "sg:city":"Effretikon",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473722712,
-    "wof:geomhash":"5e1f1fe603aae0761da1006342383f0b",
+    "wof:geomhash":"a9de3717045981d8d7f2dfacad620ee0",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,13 +44,17 @@
         }
     ],
     "wof:id":1059015759,
-    "wof:lastmodified":1473722712,
+    "wof:lastmodified":1510942587,
     "wof:name":"Tosonimetzg Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1059015757
+    ],
+    "wof:supersedes":[
+        1059015757
+    ],
     "wof:tags":[]
 },
   "bbox": [

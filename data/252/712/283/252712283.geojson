@@ -7,6 +7,7 @@
     "addr:postcode":"8001",
     "addr:street":"Talstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.534376,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Talstrasse 82",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_7VAevToScaGXFgQdpNK1sk_47.372139_8.534376@1306268639"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4306543b5d5412a2be1995d63dccbc84",
+    "wof:geomhash":"53239b9e9b6f11b115de7a789c3f2c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":252712283,
-    "wof:lastmodified":1491899159,
+    "wof:lastmodified":1510943342,
     "wof:name":"Erni Consulting Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075500871
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

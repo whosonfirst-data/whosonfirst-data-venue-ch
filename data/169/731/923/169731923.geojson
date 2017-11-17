@@ -7,6 +7,7 @@
     "addr:postcode":"8001 zuerich. postfach;8001",
     "addr:street":"Pelikanstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.537261,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pelikanstrasse 6 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_3he6hTao921PAj5VpAzzy0_47.372265_8.537261@1306268774"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d18a5bed79edf9b3c284b6739994efb7",
+    "wof:geomhash":"097db1327f46f67fe923e9960a7dfa9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":169731923,
-    "wof:lastmodified":1491899327,
+    "wof:lastmodified":1510942179,
     "wof:name":"Commercial Services Corporation-coseco",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219530003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

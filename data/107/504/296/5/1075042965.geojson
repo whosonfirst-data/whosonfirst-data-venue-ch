@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.2421250343,47.1245765686,7.2421250343,47.1245765686",
     "geom:latitude":47.124577,
     "geom:longitude":7.242125,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zihlstrasse 50 2560 Nidau. Postfach 371",
     "sg:city":"Nidau",
     "sg:classifiers":[],
@@ -26,16 +29,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473737863,
-    "wof:geomhash":"69fa7939d36b8da810d49ae79160be5a",
+    "wof:geomhash":"23e7f1b7f1c936820b519e172a0c3446",
     "wof:hierarchy":[],
     "wof:id":1075042965,
-    "wof:lastmodified":1473737863,
+    "wof:lastmodified":1510943032,
     "wof:name":"Century Time Gems Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075379361
+    ],
+    "wof:supersedes":[
+        169716671
+    ],
     "wof:tags":[]
 },
   "bbox": [

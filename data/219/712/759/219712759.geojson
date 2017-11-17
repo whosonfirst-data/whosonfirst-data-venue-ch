@@ -7,13 +7,16 @@
     "addr:postcode":"8842",
     "addr:street":"Waagtalstr.;Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.801722,47.057007,8.801722,47.057007",
     "geom:latitude":47.057007,
     "geom:longitude":8.801722,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Waagtalstr. 24",
     "sg:city":"Unteriberg",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5PcXTjivemmLL5XdLx7MIY_47.057007_8.801722@1306268627"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d0d560051088b73067428bd198ced2f6",
+    "wof:geomhash":"efbc4253a6bef2ef7ad247fc517cb9ee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219712759,
-    "wof:lastmodified":1473798405,
+    "wof:lastmodified":1510942693,
     "wof:name":"Schwyzer Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202841
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

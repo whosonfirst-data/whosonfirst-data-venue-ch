@@ -7,13 +7,16 @@
     "addr:postcode":"4950",
     "addr:street":"Bernstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.83832,47.11322,7.83832,47.11322",
     "geom:latitude":47.11322,
     "geom:longitude":7.83832,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bernstrasse 18",
     "sg:city":"Huttwil",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0QRg1td8QkWZfHdrq08K6A_47.113220_7.838320@1306268720"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e08f529049cc4b295500c4d079906233",
+    "wof:geomhash":"15db489b73029d263468bac0c0e69543",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":169700921,
-    "wof:lastmodified":1473798287,
+    "wof:lastmodified":1510943965,
     "wof:name":"Walter Leuenberger Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074905615
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mustard"

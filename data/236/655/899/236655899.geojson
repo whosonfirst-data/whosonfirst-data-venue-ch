@@ -7,13 +7,16 @@
     "addr:postcode":"8152",
     "addr:street":"Flughofstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.56202,47.437801,8.56202,47.437801",
     "geom:latitude":47.437801,
     "geom:longitude":8.56202,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Flughofstrasse 37",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_1Q1vKHKqQ9hVZ698WYvMoH_47.437801_8.562020@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"10e70b0d7ad1c5da47ce97c312b0ccc2",
+    "wof:geomhash":"7f959ca9c23a55d66fe50ff503857c63",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":236655899,
-    "wof:lastmodified":1473798445,
+    "wof:lastmodified":1510943672,
     "wof:name":"Jecotec Ag",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075543985
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "measuring",

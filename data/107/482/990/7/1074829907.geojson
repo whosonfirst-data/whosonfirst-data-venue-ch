@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.2774963379,46.9026451111,8.2774963379,46.9026451111",
     "geom:latitude":46.902645,
     "geom:longitude":8.277496,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stanser Str. 8",
     "sg:city":"Kerns",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726884,
-    "wof:geomhash":"f343f66d12b9ed93ce345b8053a205a3",
+    "wof:geomhash":"5de5d806b049e281460a05178147db71",
     "wof:hierarchy":[],
     "wof:id":1074829907,
-    "wof:lastmodified":1473726884,
+    "wof:lastmodified":1510941230,
     "wof:name":"Elektrizit\u00c4tswerk Obwalden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074831125
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

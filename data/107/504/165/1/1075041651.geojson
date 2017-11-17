@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4337129593,47.1614151001,8.4337129593,47.1614151001",
     "geom:latitude":47.161415,
     "geom:longitude":8.433713,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00f6sch 106",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[
@@ -37,16 +40,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473737807,
-    "wof:geomhash":"49c10b1eb9d62b1bfd3c8bb04ba89dac",
+    "wof:geomhash":"c47ca5e2fd179a32058964065279ffa8",
     "wof:hierarchy":[],
     "wof:id":1075041651,
-    "wof:lastmodified":1473737807,
+    "wof:lastmodified":1510943068,
     "wof:name":"Ameda Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075059237
+    ],
+    "wof:supersedes":[
+        236560951
+    ],
     "wof:tags":[
         "instrument",
         "health",

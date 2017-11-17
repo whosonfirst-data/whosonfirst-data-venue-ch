@@ -7,13 +7,16 @@
     "addr:postcode":"8002 zuerich. postfach;8022",
     "addr:street":"Gotthardstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.536768,47.365891,8.536768,47.365891",
     "geom:latitude":47.365891,
     "geom:longitude":8.536768,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gotthardstrasse 21 8002 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_01U3iZixg4xvDKDqyCbDGV_47.365891_8.536768@1306268612"
     },
     "wof:country":"CH",
-    "wof:geomhash":"76e39bcb4a0a00ddc3cc2495ce40f490",
+    "wof:geomhash":"a68324906ad4dcb490d82f3efab71695",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":185859013,
-    "wof:lastmodified":1473798223,
+    "wof:lastmodified":1510941419,
     "wof:name":"Svenska Handelsbanken Sa",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219729585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

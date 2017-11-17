@@ -7,13 +7,16 @@
     "addr:postcode":"8006",
     "addr:street":"Bluemlisalpstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.548099,47.389736,8.548099,47.389736",
     "geom:latitude":47.389736,
     "geom:longitude":8.548099,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bl\u00fcmlisalpstrasse 35",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3kDNRhIgEkRDyqrg143qag_47.389736_8.548099@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2251d80a2dacb21094191c93d986b591",
+    "wof:geomhash":"31153b99604b0c712224e39337a13dc6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":169612345,
-    "wof:lastmodified":1473798041,
+    "wof:lastmodified":1510942576,
     "wof:name":"Kiefer Mosimann Kommunikation Ag",
     "wof:parent_id":85800463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075763299
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"

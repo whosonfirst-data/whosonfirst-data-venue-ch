@@ -7,13 +7,16 @@
     "addr:postcode":"9450",
     "addr:street":"Bafflesstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.565595,47.379055,9.565595,47.379055",
     "geom:latitude":47.379055,
     "geom:longitude":9.565595,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bafflesstrasse 21",
     "sg:city":"Altst\u00e4tten",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1RgRTG6oeEySF9Ug3DiGmB_47.379055_9.565595@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fd59650289fceb799d9a74e3697e4dbb",
+    "wof:geomhash":"348abbef39f85205adb576e88a058397",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236646421,
-    "wof:lastmodified":1473798429,
+    "wof:lastmodified":1510942157,
     "wof:name":"H\u00e4nel & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075270847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "index",

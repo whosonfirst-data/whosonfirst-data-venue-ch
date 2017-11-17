@@ -7,13 +7,16 @@
     "addr:postcode":"4410",
     "addr:street":"Rathausstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.735337,47.483856,7.735337,47.483856",
     "geom:latitude":47.483856,
     "geom:longitude":7.735337,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rathausstr. 49",
     "sg:city":"Liestal",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1iD76YlXfZK6yiu8tOLDfU_47.483856_7.735337@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f5f01a40759b8025ce42be20b46ebe32",
+    "wof:geomhash":"c381fa84528c4f64f2784d4e3f7e6c04",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219537457,
-    "wof:lastmodified":1473798342,
+    "wof:lastmodified":1510942190,
     "wof:name":"Credit Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074939825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

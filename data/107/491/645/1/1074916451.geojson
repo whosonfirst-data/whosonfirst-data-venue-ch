@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.0103216171,47.5180587769,8.0103216171,47.5180587769",
     "geom:latitude":47.518059,
     "geom:longitude":8.010322,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Circusstr. 22",
     "sg:city":"Oeschgen",
     "sg:classifiers":[
@@ -34,15 +37,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473731295,
-    "wof:geomhash":"f6cba13f2251440b417e77e08a476f00",
+    "wof:geomhash":"a12bcab0e01894fc75144a3f0289b042",
     "wof:hierarchy":[],
     "wof:id":1074916451,
-    "wof:lastmodified":1473731295,
+    "wof:lastmodified":1510943585,
     "wof:name":"Circus Nock Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075517441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "game"

@@ -7,6 +7,7 @@
     "addr:postcode":"4058",
     "addr:street":"Erlenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":7.602977,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Erlenstrasse 95",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_66DOj537qbj1NOPLrGL51q_47.569431_7.602977@1306268621"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8648a59ad49121d5a3d9ea56a54cffe7",
+    "wof:geomhash":"d16aab04d257caf694674b5b0f6f9837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":203121299,
-    "wof:lastmodified":1491895526,
+    "wof:lastmodified":1510942685,
     "wof:name":"Mat Transport Ag",
     "wof:parent_id":85800107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185831791
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

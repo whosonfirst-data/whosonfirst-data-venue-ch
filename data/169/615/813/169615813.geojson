@@ -7,6 +7,7 @@
     "addr:postcode":"8004",
     "addr:street":"Hohlstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.51708,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hohlstrasse 207",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_2TkPaSBC3aRlGl8om9ffQ3_47.381313_8.517080@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d443e15887e19eb154af8297fbf3bd87",
+    "wof:geomhash":"9774cad8cc89a5db17dea1b51b18c5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":169615813,
-    "wof:lastmodified":1491899323,
+    "wof:lastmodified":1510943661,
     "wof:name":"Unisped Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075470105
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air-freight",

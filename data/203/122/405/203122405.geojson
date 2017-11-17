@@ -7,13 +7,16 @@
     "addr:postcode":"4133",
     "addr:street":"Rheinstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.710791,47.534691,7.710791,47.534691",
     "geom:latitude":47.534691,
     "geom:longitude":7.710791,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rheinstrasse 81",
     "sg:city":"Pratteln",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6TG6I9wXjmREiKhZ8ElEeE_47.534691_7.710791@1306268621"
     },
     "wof:country":"CH",
-    "wof:geomhash":"736e80800bdb4f7ba266471873d35385",
+    "wof:geomhash":"81ca2d506866eae41e0fe673cf852ebd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":203122405,
-    "wof:lastmodified":1473798116,
+    "wof:lastmodified":1510943006,
     "wof:name":"Promena Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236783609
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aromatic"

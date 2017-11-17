@@ -7,13 +7,16 @@
     "addr:postcode":"6343",
     "addr:street":"Grundstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.430424,47.145866,8.430424,47.145866",
     "geom:latitude":47.145866,
     "geom:longitude":8.430424,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grundstrasse 14",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_707GjOjp2SPhm2a18FcUw5_47.145866_8.430424@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"40ae331474c2796c78a26c086bb65692",
+    "wof:geomhash":"60b54aa40733a4efe0a5454ea38bc5fc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236901045,
-    "wof:lastmodified":1473798448,
+    "wof:lastmodified":1510941841,
     "wof:name":"Dicom Sedico Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075521729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

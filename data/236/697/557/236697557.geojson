@@ -7,13 +7,16 @@
     "addr:postcode":"3018",
     "addr:street":"Rehhagstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.385919,46.935356,7.385919,46.935356",
     "geom:latitude":46.935356,
     "geom:longitude":7.385919,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rehhagstr. 79",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_4PXXng3EgYEQjlG3U34CWE_46.935356_7.385919@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b9edb8fc6e4c44dfeea542a10f4226d5",
+    "wof:geomhash":"1604ea331192e0854a1254fa375eb31c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236697557,
-    "wof:lastmodified":1473798445,
+    "wof:lastmodified":1510941741,
     "wof:name":"Berna Biotech Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075094585
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

@@ -7,13 +7,16 @@
     "addr:postcode":"6301",
     "addr:street":"Industriestrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.517642,47.171043,8.517642,47.171043",
     "geom:latitude":47.171043,
     "geom:longitude":8.517642,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 9",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_3Hgi8ZBOuevI8g5qKwU8Us_47.171043_8.517642@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8a08c5b56e83774130a2f4601bdec32b",
+    "wof:geomhash":"37e62ffa959edc50d5e453a6ee4b1afd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":236748415,
-    "wof:lastmodified":1473798463,
+    "wof:lastmodified":1510941903,
     "wof:name":"Interfinish Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074978145
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wall",

@@ -7,13 +7,16 @@
     "addr:postcode":"8032",
     "addr:street":"Muehlebachstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.550619,47.36478,8.550619,47.36478",
     "geom:latitude":47.36478,
     "geom:longitude":8.550619,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlebachstr. 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_5lBAOJivHvn2bUB3tkf32a_47.364780_8.550619@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"17bd0daa230e42890b2d13e663f13a27",
+    "wof:geomhash":"7fb289d01a2c5eb45a8a89ebeba49f78",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236697641,
-    "wof:lastmodified":1473798446,
+    "wof:lastmodified":1510943031,
     "wof:name":"Bio-strath Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075042103
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

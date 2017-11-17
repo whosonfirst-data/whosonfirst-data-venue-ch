@@ -7,13 +7,16 @@
     "addr:postcode":"2540",
     "addr:street":"Jurastrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.400333,47.196697,7.400333,47.196697",
     "geom:latitude":47.196697,
     "geom:longitude":7.400333,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Jurastrasse 20",
     "sg:city":"Grenchen",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3x9wtyYq8NcQRMw2hfnon5_47.196697_7.400333@1306268634"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8797c167d98e32790205151886aedea1",
+    "wof:geomhash":"c0df99342cb9a8044015d11adaca2492",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,15 @@
         }
     ],
     "wof:id":169650353,
-    "wof:lastmodified":1473798095,
+    "wof:lastmodified":1510943051,
     "wof:name":"Vereinigte Pignons-fabriken Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075379637,
+        1075085661
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bevel",

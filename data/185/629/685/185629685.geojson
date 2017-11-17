@@ -7,13 +7,16 @@
     "addr:postcode":"8902",
     "addr:street":"Grubenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.42012,47.392197,8.42012,47.392197",
     "geom:latitude":47.392197,
     "geom:longitude":8.42012,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grubenstrasse 4",
     "sg:city":"Urdorf",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1Nx3NdsIxDNmbhJz4UFGMQ_47.392197_8.420120@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b6ca52c1db8cccd9affbef703086e924",
+    "wof:geomhash":"f7e69d0ff4b4c47856b7a8a5f69283be",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":185629685,
-    "wof:lastmodified":1473798030,
+    "wof:lastmodified":1510942324,
     "wof:name":"Kern-etiketten Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075340773
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "adhesive",

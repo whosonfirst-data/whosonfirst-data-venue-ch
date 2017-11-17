@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1547269821,46.2020225525,6.1547269821,46.2020225525",
     "geom:latitude":46.202023,
     "geom:longitude":6.154727,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard Helv\u00e9tique 29",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750080,
-    "wof:geomhash":"048252475d4dede6feff7e5d7e34ab56",
+    "wof:geomhash":"daed58027e65053dddf899e32c9e4b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075308389,
-    "wof:lastmodified":1473750080,
+    "wof:lastmodified":1510944112,
     "wof:name":"Jean-claude Terraillon S\u00e0rl Boucherie Chevaline",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075634497
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"3006",
     "addr:street":"Zentweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.47422,46.956688,7.47422,46.956688",
     "geom:latitude":46.956688,
     "geom:longitude":7.47422,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zentweg 17",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_6TIakl9pMsPbgvFW5u4My9_46.956688_7.474220@1306268616"
     },
     "wof:country":"CH",
-    "wof:geomhash":"034e40c143b41ec02f19a10c6956ace7",
+    "wof:geomhash":"b1afb3dbe0ae26e6f40749257310571a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":186578891,
-    "wof:lastmodified":1473798379,
+    "wof:lastmodified":1510941506,
     "wof:name":"Eiko Blech Ag",
     "wof:parent_id":85800503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075113671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

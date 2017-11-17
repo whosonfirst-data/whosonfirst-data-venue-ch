@@ -7,13 +7,16 @@
     "addr:postcode":"2560",
     "addr:street":"Hauptstrasse;Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.242475,47.119583,7.242475,47.119583",
     "geom:latitude":47.119583,
     "geom:longitude":7.242475,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstrasse 104",
     "sg:city":"Nidau",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6RnEGoTMvEtMklSBFrLiWz_47.119583_7.242475@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4934b8a300358be6cc7cbe3da747d193",
+    "wof:geomhash":"838687ca0addcc33ce4c7bd84db4a7bf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":219763065,
-    "wof:lastmodified":1473798397,
+    "wof:lastmodified":1510941599,
     "wof:name":"Experteam Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074944117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

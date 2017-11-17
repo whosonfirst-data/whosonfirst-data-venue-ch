@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.9557638168,46.0088233948,8.9557638168,46.0088233948",
     "geom:latitude":46.008823,
     "geom:longitude":8.955764,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Elvezia Corso 25",
     "sg:city":"Lugano",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750118,
-    "wof:geomhash":"4be36f3e6ccaa868f7580b58f89a70ad",
+    "wof:geomhash":"3c47300904ef2177e17ae632a485dcac",
     "wof:hierarchy":[
         {
             "campus_id":102553897,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075308943,
-    "wof:lastmodified":1473750118,
+    "wof:lastmodified":1510942907,
     "wof:name":"Kaki Holding Sa",
     "wof:parent_id":102553897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075635093
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

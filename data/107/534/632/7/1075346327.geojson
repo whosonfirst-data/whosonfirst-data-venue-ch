@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.9899129868,47.3660812378,7.9899129868,47.3660812378",
     "geom:latitude":47.366081,
     "geom:longitude":7.989913,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Stockackerstr. 16",
     "sg:city":"Niederg\u00f6sgen",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751813,
-    "wof:geomhash":"d1a777c57ee74aa6b977c99276c68bf8",
+    "wof:geomhash":"9b1193457e247ef549311d80133a482e",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1075346327,
-    "wof:lastmodified":1473751813,
+    "wof:lastmodified":1510942474,
     "wof:name":"H\u00c4nggli Thermoplast Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1075153423
+    ],
     "wof:tags":[
         "packaging",
         "material",

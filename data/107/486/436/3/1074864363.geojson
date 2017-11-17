@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.0455446243,47.3542480469,8.0455446243,47.3542480469",
     "geom:latitude":47.354248,
     "geom:longitude":8.045545,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"K\u00f6llikerstr. 17",
     "sg:city":"Oberentfelden",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473728587,
-    "wof:geomhash":"7028f536f07e8d1ad3ec94995c6a6d37",
+    "wof:geomhash":"67351a8a4c42ce21ecca710155d901d6",
     "wof:hierarchy":[],
     "wof:id":1074864363,
-    "wof:lastmodified":1473728587,
+    "wof:lastmodified":1510942516,
     "wof:name":"Jakob H\u00c4rdi Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075079303
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "textile",

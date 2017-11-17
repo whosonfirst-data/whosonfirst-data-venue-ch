@@ -7,13 +7,16 @@
     "addr:postcode":"9434",
     "addr:street":"Werkstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.637714,47.426464,9.637714,47.426464",
     "geom:latitude":47.426464,
     "geom:longitude":9.637714,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werkstrasse 11",
     "sg:city":"Au",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_75rjwP5TkXmtSlw4AIUxPK_47.426464_9.637714@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"85afea2d1a13f4f023cd619a4e38a8ca",
+    "wof:geomhash":"22c80f2cd1496f4f803d635c3ed97090",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236775083,
-    "wof:lastmodified":1473798447,
+    "wof:lastmodified":1510942430,
     "wof:name":"Faigle Igoplast Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075374307
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "processing",

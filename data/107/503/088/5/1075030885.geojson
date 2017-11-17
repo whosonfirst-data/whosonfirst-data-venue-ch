@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,6 +12,7 @@
     "geom:longitude":8.596535,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinackerstrasse 19 8302 Kloten. Postfach",
     "sg:city":"Kloten",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473737285,
-    "wof:geomhash":"2a4c80e3699ff2564de194531b9fe10d",
+    "wof:geomhash":"4399a19aa81c02f4e2e20ab9c324ae31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":1075030885,
-    "wof:lastmodified":1491915928,
+    "wof:lastmodified":1510942755,
     "wof:name":"Evobus (schweiz) Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075150099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

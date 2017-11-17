@@ -7,13 +7,16 @@
     "addr:postcode":"4900;4900",
     "addr:street":"Mittelstrasse;Postfach;Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.786882,47.208698,7.786882,47.208698",
     "geom:latitude":47.208698,
     "geom:longitude":7.786882,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mittelstrasse 13 4900 Langenthal. Postfach 612",
     "sg:city":"Langenthal",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_5ZeqR564w5JTBtyf4y2oky_47.208698_7.786882@1306268631"
     },
     "wof:country":"CH",
-    "wof:geomhash":"dfad95f227082e3be1699c2ae15fac0e",
+    "wof:geomhash":"e0a50d494cde03010ce2671c52d59343",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":235948535,
-    "wof:lastmodified":1473798038,
+    "wof:lastmodified":1510941497,
     "wof:name":"B\u00f6siger Langenthal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

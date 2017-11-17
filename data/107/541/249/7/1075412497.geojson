@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4261322021,47.1998748779,7.4261322021,47.1998748779",
     "geom:latitude":47.199875,
     "geom:longitude":7.426132,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfstrasse 16",
     "sg:city":"Bettlach",
     "sg:classifiers":[
@@ -31,15 +34,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473754597,
-    "wof:geomhash":"b16255a1428273680bd426328a6986d0",
+    "wof:geomhash":"bfa879dae8d6a966cfd9c55c44af0212",
     "wof:hierarchy":[],
     "wof:id":1075412497,
-    "wof:lastmodified":1473754597,
+    "wof:lastmodified":1510942195,
     "wof:name":"Jowissa Uhren Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075379473
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

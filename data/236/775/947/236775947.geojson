@@ -7,13 +7,16 @@
     "addr:postcode":"8953",
     "addr:street":"Bernstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.395272,47.383579,8.395272,47.383579",
     "geom:latitude":47.383579,
     "geom:longitude":8.395272,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bernstrasse 388",
     "sg:city":"Dietikon",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2UBpWCv8alRjZrxRhgNwPO_47.383579_8.395272@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6c336b2ccc45596d569e635b851d0fea",
+    "wof:geomhash":"88eb7717ecf84f8cad50228a2880721f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,15 @@
         }
     ],
     "wof:id":236775947,
-    "wof:lastmodified":1473798465,
+    "wof:lastmodified":1510943226,
     "wof:name":"Hontec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075631565,
+        1075305427
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

@@ -7,13 +7,16 @@
     "addr:postcode":"8600",
     "addr:street":"Im Schoerli;Zuerich",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.639455,47.39426,8.639455,47.39426",
     "geom:latitude":47.39426,
     "geom:longitude":8.639455,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Im Sch\u00f6rli 5",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1KTRnORpNsyfwTIJDb9sbh_47.394260_8.639455@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6f4eee0d3b6047499e05ad32debf8efe",
+    "wof:geomhash":"42878d395919fe6cbec03908654f320b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,15 @@
         }
     ],
     "wof:id":219761203,
-    "wof:lastmodified":1473798395,
+    "wof:lastmodified":1510942862,
     "wof:name":"Peak Technologies (schweiz) Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075511719,
+        1075262905
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "code",

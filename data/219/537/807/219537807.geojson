@@ -7,6 +7,7 @@
     "addr:postcode":"8302",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.580552,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schaffhauserstr. 144",
     "sg:city":"Kloten",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5bbMqCIq3penEso0KtaRL1_47.453224_8.580552@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e92f4b569903d6d14f42aabac5a80d00",
+    "wof:geomhash":"1594cd390bb1f1fecaf4f11d112dee4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":219537807,
-    "wof:lastmodified":1491915899,
+    "wof:lastmodified":1510943407,
     "wof:name":"Credit Suisse",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074939847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

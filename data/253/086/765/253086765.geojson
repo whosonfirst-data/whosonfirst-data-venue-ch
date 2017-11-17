@@ -7,13 +7,16 @@
     "addr:postcode":"6005;4539;6002",
     "addr:street":"Landenbergstrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.31659,47.045795,8.31659,47.045795",
     "geom:latitude":47.045795,
     "geom:longitude":8.31659,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Landenbergstrasse 35 6005 Luzern. Postfach 4539",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_4BDIpa7t24lEQi1WiHYFdX_47.045795_8.316590@1306268641"
     },
     "wof:country":"CH",
-    "wof:geomhash":"68933d66e1119a0902dcc35e6d4ff443",
+    "wof:geomhash":"636fbda11cdb5a4a7a1976f58b838e7a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,16 @@
         }
     ],
     "wof:id":253086765,
-    "wof:lastmodified":1473798092,
+    "wof:lastmodified":1510943488,
     "wof:name":"Sch\u00e4tzle Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169753339,
+        236693651,
+        1074844797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

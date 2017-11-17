@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.1813602448,47.0402412415,8.1813602448,47.0402412415",
     "geom:latitude":47.040241,
     "geom:longitude":8.18136,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestr. 1",
     "sg:city":"Malters",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726889,
-    "wof:geomhash":"7df88bee04f0cdbb0bcf5cdf63c9107a",
+    "wof:geomhash":"ee10c432db0d99f63989a9c3031817ce",
     "wof:hierarchy":[],
     "wof:id":1074830011,
-    "wof:lastmodified":1473726889,
+    "wof:lastmodified":1510943780,
     "wof:name":"Steiner Energie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252742621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

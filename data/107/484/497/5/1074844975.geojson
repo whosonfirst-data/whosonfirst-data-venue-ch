@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6789369583,47.3823471069,8.6789369583,47.3823471069",
     "geom:latitude":47.382347,
     "geom:longitude":8.678937,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sandb\u00fcelstr. 3",
     "sg:city":"Volketswil",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473727666,
-    "wof:geomhash":"fe1d210e9b1274e8d223341b53e1fda0",
+    "wof:geomhash":"1adb0a52b8b0d91a9af8fe3d76d9fd6c",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1074844975,
-    "wof:lastmodified":1473727666,
+    "wof:lastmodified":1510943980,
     "wof:name":"Zf Antriebstechnik Schweiz Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075023465
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engine",

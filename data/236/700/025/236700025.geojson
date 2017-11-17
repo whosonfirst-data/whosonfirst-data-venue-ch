@@ -7,13 +7,16 @@
     "addr:postcode":"4800",
     "addr:street":"Luzernerstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.947013,47.286171,7.947013,47.286171",
     "geom:latitude":47.286171,
     "geom:longitude":7.947013,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Luzernerstr. 2",
     "sg:city":"Zofingen",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3kgGKv2cwtNAaObytUn5dx_47.286171_7.947013@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e30ea421f1e2517b8d70fa2034197b5e",
+    "wof:geomhash":"dd688687afc5c88b2d585f34f0988c16",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236700025,
-    "wof:lastmodified":1473798430,
+    "wof:lastmodified":1510942907,
     "wof:name":"Sigma-tau Pharma Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075079199
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

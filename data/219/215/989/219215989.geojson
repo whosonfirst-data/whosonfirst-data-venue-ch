@@ -7,13 +7,16 @@
     "addr:postcode":"6002",
     "addr:street":"Landenbergstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.316814,47.046021,8.316814,47.046021",
     "geom:latitude":47.046021,
     "geom:longitude":8.316814,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Landenbergstrasse 34",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_6XDLaOsDzQN9GAoS2H38aX_47.046021_8.316814@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4a81c0bc0da38fba052f8924466c50f3",
+    "wof:geomhash":"d2b2ec9f0383c67d27d80b0dc65c5523",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":219215989,
-    "wof:lastmodified":1473798084,
+    "wof:lastmodified":1510942931,
     "wof:name":"Bdo Visura",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075727461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8620",
     "addr:street":"Haldenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.785718,47.326057,8.785718,47.326057",
     "geom:latitude":47.326057,
     "geom:longitude":8.785718,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Haldenstrasse 28",
     "sg:city":"Wetzikon",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_2t3veUKhvsiYLDGnWzkcNf_47.326057_8.785718@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a07536540e743ff42fc4f085f2eb8ed1",
+    "wof:geomhash":"bc5c08f0273677feb6958007d7465c2f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236546241,
-    "wof:lastmodified":1473798415,
+    "wof:lastmodified":1510943177,
     "wof:name":"Printlink Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

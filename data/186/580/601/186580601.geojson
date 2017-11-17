@@ -7,13 +7,16 @@
     "addr:postcode":"8005",
     "addr:street":"Technoparkstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.516379,47.389923,8.516379,47.389923",
     "geom:latitude":47.389923,
     "geom:longitude":8.516379,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Technoparkstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2xWIklKjZF5qXX88e5w3f0_47.389923_8.516379@1306268616"
     },
     "wof:country":"CH",
-    "wof:geomhash":"605d17f4a081a207daa4130767e5c593",
+    "wof:geomhash":"7641c1167fc22c3071d7c28ba79acd50",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":186580601,
-    "wof:lastmodified":1473798379,
+    "wof:lastmodified":1510943436,
     "wof:name":"Netmedia Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074889087
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "application",

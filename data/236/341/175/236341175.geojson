@@ -7,13 +7,16 @@
     "addr:postcode":"4500 solothurn.;4502",
     "addr:street":"Hans-Huber-Strasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.527287,47.201141,7.527287,47.201141",
     "geom:latitude":47.201141,
     "geom:longitude":7.527287,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hans-huber-strasse 38 4500 Solothurn. Postfach 607",
     "sg:city":"Solothurn",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_66Nw2LyM4Lkw7uXFBBQjQu_47.201141_7.527287@1306268633"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c81cae4538cadec0fba347082b56e819",
+    "wof:geomhash":"564a617f7c16eac56f83f10e23994551",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236341175,
-    "wof:lastmodified":1473798328,
+    "wof:lastmodified":1510943364,
     "wof:name":"Inva - Interessengruppe F\u00fcr Behinderte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075692115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

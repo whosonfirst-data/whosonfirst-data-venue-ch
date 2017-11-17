@@ -7,13 +7,16 @@
     "addr:postcode":"9050",
     "addr:street":"Zielstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.407711,47.333954,9.407711,47.333954",
     "geom:latitude":47.333954,
     "geom:longitude":9.407711,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zielstrasse 38",
     "sg:city":"Appenzell",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3iZfSsxoOvg5diauV8xdUx_47.333954_9.407711@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0d3098563afa9f5236687a856fd9cc3d",
+    "wof:geomhash":"1b0294ebca371c7feaaff7a018bae0dc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236567093,
-    "wof:lastmodified":1473798442,
+    "wof:lastmodified":1510942347,
     "wof:name":"Alumo Textil Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075554109
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcloth"

@@ -7,13 +7,16 @@
     "addr:postcode":"6130",
     "addr:street":"Menznauerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.004305,47.117065,8.004305,47.117065",
     "geom:latitude":47.117065,
     "geom:longitude":8.004305,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Menznauerstrasse 23",
     "sg:city":"Willisau",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6UAOykilFSN9OIV3qUGC55_47.117065_8.004305@1306268616"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fcb677b585b397f0d47df84d8abda1af",
+    "wof:geomhash":"cc55eb63826123b5b31f255127c6091a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":186582199,
-    "wof:lastmodified":1473798371,
+    "wof:lastmodified":1510942269,
     "wof:name":"Diwisa Destillerie Willisau Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074814465
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aquavit"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7029285431,47.4961166382,8.7029285431,47.4961166382",
     "geom:latitude":47.496117,
     "geom:longitude":8.702929,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schlosstalstrasse 43 8406 Winterthur. Postfach",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750839,
-    "wof:geomhash":"77ccb476f68eea3db1e74029e672387d",
+    "wof:geomhash":"c2b3c1e9f8787f685e0ebcb364718e59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +51,18 @@
         }
     ],
     "wof:id":1075322095,
-    "wof:lastmodified":1473750839,
+    "wof:lastmodified":1510943342,
     "wof:name":"Rieter Holding Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075647903
+    ],
+    "wof:supersedes":[
+        1075073149,
+        1075041899
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.539434433,47.3692054749,8.539434433,47.3692054749",
     "geom:latitude":47.369205,
     "geom:longitude":8.539434,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 17 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473723950,
-    "wof:geomhash":"2dff2fbdf49f988057d72ff3a817ef3f",
+    "wof:geomhash":"1c9342e4f64dc4ce96924fd4b9c88fb6",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1059040045,
-    "wof:lastmodified":1473723950,
+    "wof:lastmodified":1510942836,
     "wof:name":"Parfa Parfumerie Und Kosmetik Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219434341
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

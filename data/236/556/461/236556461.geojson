@@ -7,13 +7,16 @@
     "addr:postcode":"9030",
     "addr:street":"Gaiserwaldstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.3191,47.421925,9.3191,47.421925",
     "geom:latitude":47.421925,
     "geom:longitude":9.3191,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gaiserwaldstrasse 16",
     "sg:city":"Abtwil",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_0QdvXrrpWa6SNqA2j86Hgv_47.421925_9.319100@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f8d83c378bbda658aef99d2d920f9ad4",
+    "wof:geomhash":"f3b5f469888c6c1d140a06ab34deefd3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236556461,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1510943690,
     "wof:name":"Seilfabrik Ullmann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074864439
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cord",

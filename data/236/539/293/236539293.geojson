@@ -7,13 +7,16 @@
     "addr:postcode":"5242",
     "addr:street":"Industriestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.213822,47.445438,8.213822,47.445438",
     "geom:latitude":47.445438,
     "geom:longitude":8.213822,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 20",
     "sg:city":"Lupfig",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1RPbpS2MDPoSP54nqVlrPw_47.445438_8.213822@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4bff3f33cbe59f9a68384cf93e3418c6",
+    "wof:geomhash":"668985a7a3cd441ad47c9d063fe0d493",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236539293,
-    "wof:lastmodified":1473798412,
+    "wof:lastmodified":1510941211,
     "wof:name":"Antalis Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075272545
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "packing",

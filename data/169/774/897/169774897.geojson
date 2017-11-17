@@ -7,13 +7,16 @@
     "addr:postcode":"8032",
     "addr:street":"Schoenbuehlstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.557313,47.369686,8.557313,47.369686",
     "geom:latitude":47.369686,
     "geom:longitude":8.557313,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schoenbuehlstrasse 4",
     "sg:city":"Zurich",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_3vXXIJwy09l0Ro3hsFwbXy_47.369686_8.557313@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"86bd6a641ecc5e238c0786eec093d79c",
+    "wof:geomhash":"ccfc815994aa902358b35f06ea224a33",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169774897,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1510943481,
     "wof:name":"Young Culture Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169775705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

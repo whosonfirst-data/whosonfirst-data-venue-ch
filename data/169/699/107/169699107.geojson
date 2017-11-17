@@ -7,13 +7,16 @@
     "addr:postcode":"3186",
     "addr:street":"Hauptstr.;Fribourg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.192327,46.852127,7.192327,46.852127",
     "geom:latitude":46.852127,
     "geom:longitude":7.192327,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 35",
     "sg:city":"D\u00fcdingen",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5oWszlYJUmRErO3oJ5bPZV_46.852127_7.192327@1306268719"
     },
     "wof:country":"CH",
-    "wof:geomhash":"665d0bad2ac96374cd549fea1e5479db",
+    "wof:geomhash":"3dd8a3c003b8ef4c20b72cf8e7b7b12e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169699107,
-    "wof:lastmodified":1473798273,
+    "wof:lastmodified":1510943220,
     "wof:name":"Leichtmetall-giesserei Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074863373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

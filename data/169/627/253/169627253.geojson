@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Schmerikon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.945299,47.226044,8.945299,47.226044",
     "geom:latitude":47.226044,
     "geom:longitude":8.945299,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:city":"Schmerikon",
     "sg:classifiers":[
         {
@@ -38,7 +41,7 @@
         "sg:id":"SG_3qedPrpj8DDGBk18VrXcni_47.226044_8.945299@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"61b5a64b697b4a537b0cfdb41d62b108",
+    "wof:geomhash":"1a26d78ac78c212bc26265d2b6785668",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":169627253,
-    "wof:lastmodified":1473798072,
+    "wof:lastmodified":1510943709,
     "wof:name":"Bank Linth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219483935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

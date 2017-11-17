@@ -7,6 +7,7 @@
     "addr:postcode":"8152",
     "addr:street":"Alpenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.55637,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alpenstrasse 1",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_4uzloin35seOtMof0cEmzl_47.422871_8.556370@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9653510c79b638e2c35d7f1fe268c5c5",
+    "wof:geomhash":"f120902e7dceba173c944a014f1d53b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":236495563,
-    "wof:lastmodified":1491916071,
+    "wof:lastmodified":1510941571,
     "wof:name":"Baiker Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075261827
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"9443",
     "addr:street":"Hoechsternstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.633107,47.403324,9.633107,47.403324",
     "geom:latitude":47.403324,
     "geom:longitude":9.633107,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00f6chsternstrasse 4",
     "sg:city":"Widnau",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1SQM4Bp7xHU5rCqUjg1B45_47.403324_9.633107@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d6d913f036afbc435ff3f67a62248fd9",
+    "wof:geomhash":"a0af98e0e90b021ce97edc70ac24427e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236769965,
-    "wof:lastmodified":1473798458,
+    "wof:lastmodified":1510941761,
     "wof:name":"Bilfit Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262635
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machining",

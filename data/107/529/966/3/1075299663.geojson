@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6149206161,47.4125442505,8.6149206161,47.4125442505",
     "geom:latitude":47.412544,
     "geom:longitude":8.614921,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neue Winterthurerstrasse 30",
     "sg:city":"Dietlikon",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749733,
-    "wof:geomhash":"c360be36b86a73aff7e5dc83ce2ff125",
+    "wof:geomhash":"e1394b1db82e0842d2d773804d092ca5",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075299663,
-    "wof:lastmodified":1473749733,
+    "wof:lastmodified":1510941681,
     "wof:name":"Ferien Online Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075625787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

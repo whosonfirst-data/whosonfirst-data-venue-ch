@@ -7,13 +7,16 @@
     "addr:postcode":"9050",
     "addr:street":"Weissbadstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.412115,47.329147,9.412115,47.329147",
     "geom:latitude":47.329147,
     "geom:longitude":9.412115,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Weissbadstrasse 14",
     "sg:city":"Appenzell",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7JLfXyyftQnKezK9FB8war_47.329147_9.412115@1306268632"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5e0c20c669051c52a4849663bbe427bd",
+    "wof:geomhash":"d3214c97aa5514f6e54b1dfe9cd571b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":236141701,
-    "wof:lastmodified":1473798113,
+    "wof:lastmodified":1510943723,
     "wof:name":"Vollmond Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075336485,
+        1075662065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

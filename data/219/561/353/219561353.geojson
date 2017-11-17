@@ -7,13 +7,16 @@
     "addr:postcode":"5600",
     "addr:street":"Bahnhofstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.178397,47.387936,8.178397,47.387936",
     "geom:latitude":47.387936,
     "geom:longitude":8.178397,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 2",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6znST7q2vFOzMx8G2Ao6Hp_47.387936_8.178397@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"62490e513790d7eb98702c1e32dd4531",
+    "wof:geomhash":"3903b09a387893d4099727a13ce1c5fa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":219561353,
-    "wof:lastmodified":1473798351,
+    "wof:lastmodified":1510943249,
     "wof:name":"Hypothekarbank Lenzburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219458501
+    ],
+    "wof:supersedes":[
+        219458501
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5926570892,47.5495758057,7.5926570892,47.5495758057",
     "geom:latitude":47.549576,
     "geom:longitude":7.592657,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Aeschengraben 21",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473753559,
-    "wof:geomhash":"581e393e3a37306f5a7cd3772c1f21b8",
+    "wof:geomhash":"c5c32b6fc4770290b2d53171c0ed4591",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1075388883,
-    "wof:lastmodified":1473753559,
+    "wof:lastmodified":1510944103,
     "wof:name":"B\u00e2loise-holding",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075514709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "large",

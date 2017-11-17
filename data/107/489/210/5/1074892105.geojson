@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.2050857544,47.4805488586,8.2050857544,47.4805488586",
     "geom:latitude":47.480549,
     "geom:longitude":8.205086,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fr\u00f6hlichstrasse 33",
     "sg:city":"Brugg",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730074,
-    "wof:geomhash":"cad037dfbecfe0d5fc40c4f2f869a670",
+    "wof:geomhash":"facfb98e5e2dbf1daba5e1fc05639fa3",
     "wof:hierarchy":[],
     "wof:id":1074892105,
-    "wof:lastmodified":1473730074,
+    "wof:lastmodified":1510941674,
     "wof:name":"Megos Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075151999
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "financial",

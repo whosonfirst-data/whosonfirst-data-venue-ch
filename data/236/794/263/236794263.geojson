@@ -7,13 +7,16 @@
     "addr:postcode":"8050",
     "addr:street":"Thurgauerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.554675,47.417824,8.554675,47.417824",
     "geom:latitude":47.417824,
     "geom:longitude":8.554675,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Thurgauerstrasse 72",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2xtDPgx6UD3N3edUWDwM23_47.417824_8.554675@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f14ff6ef8bc734ddd4e9a4c58de4502f",
+    "wof:geomhash":"5a5cd17cb6d64c4ae5ae53718479a184",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236794263,
-    "wof:lastmodified":1473798449,
+    "wof:lastmodified":1510942392,
     "wof:name":"Bachmann Krawatten Ag",
     "wof:parent_id":85800373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075115689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

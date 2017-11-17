@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4606380463,47.0013618469,7.4606380463,47.0013618469",
     "geom:latitude":47.001362,
     "geom:longitude":7.460638,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alpenblickstrasse 13",
     "sg:city":"Zollikofen",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726036,
-    "wof:geomhash":"d409e21be7672e5d282fd6281c8edd73",
+    "wof:geomhash":"3792071d6ea96ce1ca360947ff0b6074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":1074813121,
-    "wof:lastmodified":1473726036,
+    "wof:lastmodified":1510942391,
     "wof:name":"Werner Stricker Ag",
     "wof:parent_id":85800173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236699867
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "disinfectant"

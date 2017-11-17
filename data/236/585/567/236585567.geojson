@@ -7,13 +7,16 @@
     "addr:postcode":"8600",
     "addr:street":"Neugutstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.606506,47.400551,8.606506,47.400551",
     "geom:latitude":47.400551,
     "geom:longitude":8.606506,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neugutstr. 66",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_1KzhiIXckX4sSlaQYnwJeR_47.400551_8.606506@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4ce4ad4ae01ec904d8123257f6f082aa",
+    "wof:geomhash":"8f5c36ff00ec561f95de6847ec8242af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,15 @@
         }
     ],
     "wof:id":236585567,
-    "wof:lastmodified":1473798428,
+    "wof:lastmodified":1510942121,
     "wof:name":"Parametric Technology Schweiz Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074945543,
+        236611509
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

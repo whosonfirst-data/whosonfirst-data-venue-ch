@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,6 +12,7 @@
     "geom:longitude":6.155077,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ador Quai Gustave- 2 1207 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749575,
-    "wof:geomhash":"ace5b30c4bbedb3e5e7a8e6a291ce6f0",
+    "wof:geomhash":"b151587c64f8145e967e840213f9ea4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":1075295891,
-    "wof:lastmodified":1491885287,
+    "wof:lastmodified":1510943348,
     "wof:name":"Diepharmex Sa",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075621937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

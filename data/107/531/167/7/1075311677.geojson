@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.630382061,47.543674469,7.630382061,47.543674469",
     "geom:latitude":47.543674,
     "geom:longitude":7.630382,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kl\u00fcnenfeldstrasse 20",
     "sg:city":"Muttenz",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750407,
-    "wof:geomhash":"752fc8a615751a709d698ef50fe70eaf",
+    "wof:geomhash":"00bfd2d64902c67fbb4860f8065031b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075311677,
-    "wof:lastmodified":1473750407,
+    "wof:lastmodified":1510942272,
     "wof:name":"Logad Management Gmbh",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075637887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

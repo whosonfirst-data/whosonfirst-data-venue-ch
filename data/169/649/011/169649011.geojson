@@ -7,13 +7,16 @@
     "addr:postcode":"1870",
     "addr:street":"Chemin D'Arche",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.94714,46.251621,6.94714,46.251621",
     "geom:latitude":46.251621,
     "geom:longitude":6.94714,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chemin D'arche 39",
     "sg:city":"Monthey",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6pcGyRKl7a6raASGgAqbUT_46.251621_6.947140@1306268630"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4201b38863ba9f4d40b66371c373a6a2",
+    "wof:geomhash":"ed49bd6815312c67f251c214c0f8e251",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169649011,
-    "wof:lastmodified":1473798087,
+    "wof:lastmodified":1510943883,
     "wof:name":"Gay Pasetti Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075198647
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

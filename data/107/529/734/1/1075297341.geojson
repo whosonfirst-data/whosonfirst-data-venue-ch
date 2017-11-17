@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6613221169,47.5299606323,7.6613221169,47.5299606323",
     "geom:latitude":47.529961,
     "geom:longitude":7.661322,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rothausstrasse 61",
     "sg:city":"Muttenz",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749634,
-    "wof:geomhash":"6d5b0147053562804f035fdfe0c6b43c",
+    "wof:geomhash":"f93807a4031c844655b56de07f5bd185",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075297341,
-    "wof:lastmodified":1473749634,
+    "wof:lastmodified":1510941764,
     "wof:name":"Ebito Chemiebeteiligungen Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075623411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

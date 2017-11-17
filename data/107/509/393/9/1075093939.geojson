@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4147119522,47.3993606567,8.4147119522,47.3993606567",
     "geom:latitude":47.399361,
     "geom:longitude":8.414712,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Z\u00fcrcherstrasse 152",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473740555,
-    "wof:geomhash":"f81f10f26deaed4f1f40b214194c555c",
+    "wof:geomhash":"15b0c6975f6355327e999c35a2d966f7",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075093939,
-    "wof:lastmodified":1473740555,
+    "wof:lastmodified":1510941409,
     "wof:name":"Diagramma Dietikon Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075346581
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

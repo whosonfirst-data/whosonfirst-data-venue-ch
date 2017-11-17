@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.3932647705,47.4628143311,9.3932647705,47.4628143311",
     "geom:latitude":47.462814,
     "geom:longitude":9.393265,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 28",
     "sg:city":"Wittenbach",
     "sg:classifiers":[],
@@ -25,16 +28,21 @@
     },
     "wof:country":"CH",
     "wof:created":1473732767,
-    "wof:geomhash":"3140854325cc70bb05d9d7cfbddac47c",
+    "wof:geomhash":"e9776449d2777c8e64ca7fde5a497fef",
     "wof:hierarchy":[],
     "wof:id":1074947847,
-    "wof:lastmodified":1473732767,
+    "wof:lastmodified":1510942798,
     "wof:name":"Boss Chemie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075114711
+    ],
+    "wof:supersedes":[
+        236695717,
+        186572533
+    ],
     "wof:tags":[]
 },
   "bbox": [

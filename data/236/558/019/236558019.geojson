@@ -7,13 +7,16 @@
     "addr:postcode":"5432",
     "addr:street":"Limmatstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.327015,47.453972,8.327015,47.453972",
     "geom:latitude":47.453972,
     "geom:longitude":8.327015,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Limmatstrasse 20",
     "sg:city":"Neuenhof",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6vR463kk4qBRDu3LxIRGr2_47.453972_8.327015@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2f3eabb5231e30fb5fd5500ced8e264e",
+    "wof:geomhash":"5b950659aee1eb9a54262645c52c2a56",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236558019,
-    "wof:lastmodified":1473798419,
+    "wof:lastmodified":1510941624,
     "wof:name":"Femag Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271225
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

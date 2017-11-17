@@ -7,13 +7,16 @@
     "addr:postcode":"6210",
     "addr:street":"Bahnhofstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.104727,47.172672,8.104727,47.172672",
     "geom:latitude":47.172672,
     "geom:longitude":8.104727,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 18",
     "sg:city":"Sursee",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0cI4gVtOtIniMtDEe5YPL8_47.172672_8.104727@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"7106eb0530b4b6ee3acf03aaf4f8a358",
+    "wof:geomhash":"147f08dc88b7856a660a733167e6f61f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219534207,
-    "wof:lastmodified":1473798333,
+    "wof:lastmodified":1510942090,
     "wof:name":"Credit Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074939647
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6043748856,47.401096344,8.6043748856,47.401096344",
     "geom:latitude":47.401096,
     "geom:longitude":8.604375,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neugutstrasse 83",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473731104,
-    "wof:geomhash":"9193ad0a4e09cb2ce031fa5fa9c5d146",
+    "wof:geomhash":"35426ea09515ba8ead9c948f34994a7a",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":1074912451,
-    "wof:lastmodified":1473731104,
+    "wof:lastmodified":1510941525,
     "wof:name":"Dachser Spedition Ag",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075469959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarding",

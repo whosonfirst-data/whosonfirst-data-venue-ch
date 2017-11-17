@@ -7,13 +7,16 @@
     "addr:postcode":"6300;4540;6304",
     "addr:street":"Industriestrasse;Postfach;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.518384,47.172546,8.518384,47.172546",
     "geom:latitude":47.172546,
     "geom:longitude":8.518384,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 13b 6300 Zug. Postfach 4540",
     "sg:city":"Zug",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_7QkupOma6VuUR27gzcSE7X_47.172546_8.518384@1306268665"
     },
     "wof:country":"CH",
-    "wof:geomhash":"cc349a1ea6c12266638a39f2f774a3e3",
+    "wof:geomhash":"f56753b783de13d45ed9b9632aa2f667",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169687699,
-    "wof:lastmodified":1473798177,
+    "wof:lastmodified":1510943542,
     "wof:name":"Metalli-apotheke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169779989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

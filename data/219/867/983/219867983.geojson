@@ -7,13 +7,16 @@
     "addr:postcode":"5034",
     "addr:street":"Bernstrasse Ost",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.08459,47.374138,8.08459,47.374138",
     "geom:latitude":47.374138,
     "geom:longitude":8.08459,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bernstrasse Ost 49",
     "sg:city":"Suhr",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1Nawf1eI7YGUoUalr9zcY4_47.374138_8.084590@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4022844d11544722d90e8ea0f9bd0d08",
+    "wof:geomhash":"cd04a03ae890f54b767dadc4439634b9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":219867983,
-    "wof:lastmodified":1473798421,
+    "wof:lastmodified":1510943478,
     "wof:name":"M\u00f6bel Pfister Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075278853
+    ],
+    "wof:supersedes":[
+        1059035185
+    ],
     "wof:tags":[
         "bathroom"
     ]

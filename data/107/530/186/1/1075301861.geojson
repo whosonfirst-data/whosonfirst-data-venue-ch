@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5318956375,47.363483429,8.5318956375,47.363483429",
     "geom:latitude":47.363483,
     "geom:longitude":8.531896,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lavaterstrasse 40",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749815,
-    "wof:geomhash":"42765c8cf8f47fcfa19512f8bf304b49",
+    "wof:geomhash":"f85786ef0bb103ce633dbd39119aa6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1075301861,
-    "wof:lastmodified":1473749815,
+    "wof:lastmodified":1510943792,
     "wof:name":"Garpa Garten & Park Einrichtungen Gmbh, Escheburg Bei Hamburg, Zweigniederlassung Z\u00fcrich",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075627993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

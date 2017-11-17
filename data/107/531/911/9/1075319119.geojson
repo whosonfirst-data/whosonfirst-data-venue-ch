@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.587679863,47.548740387,7.587679863,47.548740387",
     "geom:latitude":47.54874,
     "geom:longitude":7.58768,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"St. Jakobs-strasse 54",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750718,
-    "wof:geomhash":"b7714240d6023b784affe75618966294",
+    "wof:geomhash":"9b62789e01e26f6bba39a1385fd118af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075319119,
-    "wof:lastmodified":1473750718,
+    "wof:lastmodified":1510943603,
     "wof:name":"Pirelli Tyre (europe) Sa",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075645009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

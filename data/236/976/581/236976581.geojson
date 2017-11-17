@@ -7,13 +7,16 @@
     "addr:postcode":"6330",
     "addr:street":"Seeblick;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.458923,47.18079,8.458923,47.18079",
     "geom:latitude":47.18079,
     "geom:longitude":8.458923,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Seeblick 1",
     "sg:city":"Cham",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6Rq1kraQhv6m7hmwRNPWog_47.180790_8.458923@1306268639"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e6ddc7c446dad1c3a50c8390af13d60b",
+    "wof:geomhash":"0a9ec891fdec9514adf58f9662c665bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236976581,
-    "wof:lastmodified":1473798467,
+    "wof:lastmodified":1510943686,
     "wof:name":"Ospet Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075151721
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

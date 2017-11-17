@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.0208930969,47.3276138306,8.0208930969,47.3276138306",
     "geom:latitude":47.327614,
     "geom:longitude":8.020893,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 162",
     "sg:city":"K\u00f6lliken",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726866,
-    "wof:geomhash":"5390162314d5e92ace1cc1ce95fe9e9e",
+    "wof:geomhash":"4da45d0b07bb748c48e8a05ad642848e",
     "wof:hierarchy":[],
     "wof:id":1074829565,
-    "wof:lastmodified":1473726866,
+    "wof:lastmodified":1510941610,
     "wof:name":"E Pasinelli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074954397
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

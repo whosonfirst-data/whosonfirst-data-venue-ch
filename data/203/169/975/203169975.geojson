@@ -7,13 +7,16 @@
     "addr:postcode":"1217",
     "addr:street":"Avenue J.-D.-Maillard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.068964,46.228619,6.068964,46.228619",
     "geom:latitude":46.228619,
     "geom:longitude":6.068964,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue J.-d.-maillard 11",
     "sg:city":"Meyrin",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_3yE0A7E1FJR3af0TKQIv4M_46.228619_6.068964@1306268621"
     },
     "wof:country":"CH",
-    "wof:geomhash":"de4c7197788ae037c856ed3f2b37088c",
+    "wof:geomhash":"3986e686ca6221f789cffffdf1046fef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":203169975,
-    "wof:lastmodified":1473798150,
+    "wof:lastmodified":1510943018,
     "wof:name":"Dr M\u00e9d. Dominique Fournet M\u00e9decin Sp\u00e9cialiste Fmh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203176363
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

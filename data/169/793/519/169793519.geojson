@@ -7,13 +7,16 @@
     "addr:postcode":"3005",
     "addr:street":"Kirchenfeldstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.449548,46.939976,7.449548,46.939976",
     "geom:latitude":46.939976,
     "geom:longitude":7.449548,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kirchenfeldstr. 24",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_1XVhCxa0sOwHN2bJXLziOl_46.939976_7.449548@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"74a5d00e929f6be91a1c26532f9b2dad",
+    "wof:geomhash":"4b831e2a2341ed782e8857a5b265a8bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169793519,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1510941618,
     "wof:name":"Drehpunkt Karriere",
     "wof:parent_id":85800101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075363359
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

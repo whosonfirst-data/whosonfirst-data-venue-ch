@@ -7,13 +7,16 @@
     "addr:postcode":"8800",
     "addr:street":"Tischenloostrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.564369,47.286594,8.564369,47.286594",
     "geom:latitude":47.286594,
     "geom:longitude":8.564369,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tischenloostrasse 75",
     "sg:city":"Thalwil",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_7KdryOAZZGov44eEYkpYFX_47.286594_8.564369@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"61e427fc87f9d2b894c3feeaffc05b83",
+    "wof:geomhash":"fca801acc55d8978da0385f428e27a9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":219213849,
-    "wof:lastmodified":1473798089,
+    "wof:lastmodified":1510941307,
     "wof:name":"Hunziker Ag Thalwil",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075388123
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "presentation",

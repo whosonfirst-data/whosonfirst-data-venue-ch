@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.8987998962,47.4921302795,8.8987998962,47.4921302795",
     "geom:latitude":47.49213,
     "geom:longitude":8.8988,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Morgentalstrasse 7",
     "sg:city":"Aadorf",
     "sg:classifiers":[],
@@ -22,20 +25,25 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4333909385,
         "sg:id":"SG_1YX1vf37JWomaM4eWYNWk0_47.492130_8.898800@1306268651"
     },
     "wof:country":"CH",
     "wof:created":1473724574,
-    "wof:geomhash":"1817046411b65c1a330df747d1cce0f0",
+    "wof:geomhash":"26723324a4dca8e246994f6285d1f664",
     "wof:hierarchy":[],
     "wof:id":1059053883,
-    "wof:lastmodified":1473724574,
+    "wof:lastmodified":1510943874,
     "wof:name":"Wibutex Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1074864127
+    ],
+    "wof:supersedes":[
+        1074864127
+    ],
     "wof:tags":[]
 },
   "bbox": [

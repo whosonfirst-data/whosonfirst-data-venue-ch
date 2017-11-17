@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5056667328,46.8539581299,9.5056667328,46.8539581299",
     "geom:latitude":46.853958,
     "geom:longitude":9.505667,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pulverm\u00fchlestr. 93",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473743110,
-    "wof:geomhash":"318c7049b2dd6880dd1f383037f9a0e7",
+    "wof:geomhash":"cdefbfcc4c694be0f125b6653e69d5de",
     "wof:hierarchy":[],
     "wof:id":1075150131,
-    "wof:lastmodified":1473743110,
+    "wof:lastmodified":1510943894,
     "wof:name":"Schumacher & Burkhardt Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075173763
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

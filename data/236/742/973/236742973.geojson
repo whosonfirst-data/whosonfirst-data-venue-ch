@@ -7,13 +7,16 @@
     "addr:postcode":"3360",
     "addr:street":"Feldstrasse;Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.699028,47.190189,7.699028,47.190189",
     "geom:latitude":47.190189,
     "geom:longitude":7.699028,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Feldstrasse 39",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0S2figj7axQOgU9ir0u92v_47.190189_7.699028@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1d6ad48ae7f7e1886ddac4894ce8bf42",
+    "wof:geomhash":"9b1bc7b059aef2e983bf27c306454895",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236742973,
-    "wof:lastmodified":1473798463,
+    "wof:lastmodified":1510941987,
     "wof:name":"R\u00f6hm Spanntechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271637
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chucking"

@@ -7,13 +7,16 @@
     "addr:postcode":"8807",
     "addr:street":"Schwyz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.757239,47.205811,8.757239,47.205811",
     "geom:latitude":47.205811,
     "geom:longitude":8.757239,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kantonsstr. 102",
     "sg:city":"Freienbach",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4CasRlAaC7JfQGGP4DoQnK_47.205811_8.757239@1306268627"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f7e497c7f08b2548ba6a02302abbc7bc",
+    "wof:geomhash":"58e3def18f60544f26919b7a0721ae15",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219712193,
-    "wof:lastmodified":1473798394,
+    "wof:lastmodified":1510943631,
     "wof:name":"Schwyzer Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

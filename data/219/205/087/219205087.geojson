@@ -7,13 +7,16 @@
     "addr:postcode":"4900",
     "addr:street":"Gaswerkstrasse;Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.786165,47.22649,7.786165,47.22649",
     "geom:latitude":47.22649,
     "geom:longitude":7.786165,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gaswerkstrasse 33",
     "sg:city":"Langenthal",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1rR1Dfp2gFJo6ks9kULMNP_47.226490_7.786165@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1377bd07fe96612810f8c4de07138f42",
+    "wof:geomhash":"dc3d1ee72dac4ac9d3c439290204483b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":219205087,
-    "wof:lastmodified":1473798050,
+    "wof:lastmodified":1510943467,
     "wof:name":"Ebo Mikromechanik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075083851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "work",

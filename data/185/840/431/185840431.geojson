@@ -7,13 +7,16 @@
     "addr:postcode":"4051",
     "addr:street":"Feierabendstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.580724,47.552784,7.580724,47.552784",
     "geom:latitude":47.552784,
     "geom:longitude":7.580724,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Feierabendstrasse 46",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6QiC7YJPnEbHAr2vrtCTqc_47.552784_7.580724@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"927ebee0adfdc6a67d29104eeb774dcb",
+    "wof:geomhash":"7af476256a63e3b3f88e5b8ad6807d8d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":185840431,
-    "wof:lastmodified":1473798230,
+    "wof:lastmodified":1510941650,
     "wof:name":"Flury Klimatechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075261989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air-conditioning",

@@ -7,13 +7,16 @@
     "addr:postcode":"4127",
     "addr:street":"Ruehrbergstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.637706,47.555389,7.637706,47.555389",
     "geom:latitude":47.555389,
     "geom:longitude":7.637706,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ruehrbergstr. 21",
     "sg:city":"Birsfelden",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1wtMMw6j1k6TJcCb2yzHJx_47.555389_7.637706@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"7434d41c4078460ef914e7dab1f2d803",
+    "wof:geomhash":"dffb35f78713599cb38825edc8ab13e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169743541,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1510943937,
     "wof:name":"Wohlfahrtsfonds Der Solco Basel Ag",
     "wof:parent_id":85799839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219460459
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

@@ -7,6 +7,7 @@
     "addr:postcode":"8003 zuerich. postfach 1773;8040",
     "addr:street":"Badenerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.511608,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Badenerstrasse 329 8003 Z\u00fcrich. Postfach 1773",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_2W6jEBjn9Eikk3RzqFstmE_47.377647_8.511608@1306268641"
     },
     "wof:country":"CH",
-    "wof:geomhash":"7225e65360eef787ba7c0d17df0664ac",
+    "wof:geomhash":"0d0e1121056130416795c26ba59335e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":253079859,
-    "wof:lastmodified":1491899351,
+    "wof:lastmodified":1510942807,
     "wof:name":"Koch W\u00e4rme Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236686043
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

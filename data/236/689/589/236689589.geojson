@@ -7,13 +7,16 @@
     "addr:postcode":"4800",
     "addr:street":"Untere Bruehlstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.939192,47.288555,7.939192,47.288555",
     "geom:latitude":47.288555,
     "geom:longitude":7.939192,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Untere Br\u00fchlstrasse 4",
     "sg:city":"Zofingen",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4kETkuYg7AguBPREld4fzT_47.288555_7.939192@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"bf95b28e49d83935ecf2435e6a506940",
+    "wof:geomhash":"3f05e1c9d22243d340220c88075711a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236689589,
-    "wof:lastmodified":1473798439,
+    "wof:lastmodified":1510943615,
     "wof:name":"Siegfried Holding Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075515015
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "refinery",

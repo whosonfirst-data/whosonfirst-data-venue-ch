@@ -7,13 +7,16 @@
     "addr:postcode":"3600",
     "addr:street":"Seestrasse;Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.634489,46.74802,7.634489,46.74802",
     "geom:latitude":46.74802,
     "geom:longitude":7.634489,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Seestrasse 26",
     "sg:city":"Thun",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6yA4vl2KI0Gacb4zMcrV48_46.748020_7.634489@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5af6ffb7775bdcdab3abc14e40a1deb0",
+    "wof:geomhash":"fa0fccdf314bd8f458a1f9e0056a6d47",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":185664839,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1510942219,
     "wof:name":"Vetter Druck Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "postcard"

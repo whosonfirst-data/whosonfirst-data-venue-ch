@@ -7,13 +7,16 @@
     "addr:postcode":"9200",
     "addr:street":"Mooswiesstrasse;Gossau",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.262439,47.41267,9.262439,47.41267",
     "geom:latitude":47.41267,
     "geom:longitude":9.262439,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mooswiesstrasse 67",
     "sg:city":"Gossau",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2UkJIUeryrxkHvvDVi6O5l_47.412670_9.262439@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c5c0efd6d4af6f859636012dac8748e2",
+    "wof:geomhash":"90983dcd442e14eff0b7d8e372317acd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":185621263,
-    "wof:lastmodified":1473798031,
+    "wof:lastmodified":1510941640,
     "wof:name":"Haka.gerodur Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169712275
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "heating",

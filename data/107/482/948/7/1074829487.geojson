@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5384302139,47.1992263794,8.5384302139,47.1992263794",
     "geom:latitude":47.199226,
     "geom:longitude":8.53843,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"L\u00e4ttichstr. 6",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726862,
-    "wof:geomhash":"432587de154463960f0f55e902a1189b",
+    "wof:geomhash":"0641dcaa6ed49ff7a9c59d4bcdcc3bfd",
     "wof:hierarchy":[],
     "wof:id":1074829487,
-    "wof:lastmodified":1473726862,
+    "wof:lastmodified":1510942500,
     "wof:name":"Kenwood-schumpf Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075084447
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

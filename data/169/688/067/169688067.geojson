@@ -7,13 +7,16 @@
     "addr:postcode":"1400",
     "addr:street":"Route De Lausanne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.650462,46.765308,6.650462,46.765308",
     "geom:latitude":46.765308,
     "geom:longitude":6.650462,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De Lausanne 17",
     "sg:city":"Yverdon-les-bains",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_49RympdgJSniFL5dQxzDpb_46.765308_6.650462@1306268672"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2640a364aeb22f11dae5be7ee881b16e",
+    "wof:geomhash":"7f225216479a6a07139fc2225b31e7be",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":169688067,
-    "wof:lastmodified":1473798118,
+    "wof:lastmodified":1510943725,
     "wof:name":"Geotrade S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075058597
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument",

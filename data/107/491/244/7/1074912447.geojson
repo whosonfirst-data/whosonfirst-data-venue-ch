@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5139865875,46.8535270691,9.5139865875,46.8535270691",
     "geom:latitude":46.853527,
     "geom:longitude":9.513987,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ringstrasse 34",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473731104,
-    "wof:geomhash":"407918211d6b5ef9c8942425872a9830",
+    "wof:geomhash":"f76e83d2a7fdaecc4d52d0ff1d064d67",
     "wof:hierarchy":[],
     "wof:id":1074912447,
-    "wof:lastmodified":1473731104,
+    "wof:lastmodified":1510942544,
     "wof:name":"Cargo Grischa Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075004527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarding",

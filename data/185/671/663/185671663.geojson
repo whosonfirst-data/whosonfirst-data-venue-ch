@@ -7,13 +7,16 @@
     "addr:postcode":"8029",
     "addr:street":"Zuerich",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.570467,47.35907,8.570467,47.35907",
     "geom:latitude":47.35907,
     "geom:longitude":8.570467,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Forchstr. 239",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_76AxEUvJW17cTt7BpEM2h7_47.359070_8.570467@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4b93ed72ea17bf14a57f0b61231ebfd2",
+    "wof:geomhash":"f460d500a2338ccc9853bee2858d5746",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":185671663,
-    "wof:lastmodified":1473798072,
+    "wof:lastmodified":1510944068,
     "wof:name":"Promocom Team Ag",
     "wof:parent_id":85800057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075679239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communication",

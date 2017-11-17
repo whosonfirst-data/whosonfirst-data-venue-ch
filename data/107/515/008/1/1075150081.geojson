@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5278682709,47.3875198364,8.5278682709,47.3875198364",
     "geom:latitude":47.38752,
     "geom:longitude":8.527868,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Limmatstr. 210",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473743103,
-    "wof:geomhash":"ad7832ce75bfee610b99476d78a690ec",
+    "wof:geomhash":"f42a6906aaab736ff3b6bba1e0b9e070",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1075150081,
-    "wof:lastmodified":1473743103,
+    "wof:lastmodified":1510943291,
     "wof:name":"Sch\u00c4fer Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075649777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

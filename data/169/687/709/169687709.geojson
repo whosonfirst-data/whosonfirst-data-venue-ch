@@ -7,13 +7,16 @@
     "addr:postcode":"1026;1026",
     "addr:street":"Route De La Gare;Case Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.541397,46.52763,6.541397,46.52763",
     "geom:latitude":46.52763,
     "geom:longitude":6.541397,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De La Gare 15 1026 Denges Case Postale 134",
     "sg:city":"Echandens",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6qh2Woc0dgzl34gKn5pxZA_46.527630_6.541397@1306268666"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5772ff7d6173339da41a77dd774c647f",
+    "wof:geomhash":"cfb6f5ffd8c9ea8ec81b418ee24efc72",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169687709,
-    "wof:lastmodified":1473798178,
+    "wof:lastmodified":1510943882,
     "wof:name":"Digicall Sa",
     "wof:parent_id":85799935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074892145
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

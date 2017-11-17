@@ -7,13 +7,16 @@
     "addr:postcode":"6343",
     "addr:street":"Lettenstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.43177,47.147545,8.43177,47.147545",
     "geom:latitude":47.147545,
     "geom:longitude":8.43177,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lettenstrasse 5",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_25TkeIw4zw38w6lRvruaoY_47.147545_8.431770@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e13d571b721a707d53f63e7f0c20b110",
+    "wof:geomhash":"04a5d49c7669241ce30b7b0d35eb8180",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":236635547,
-    "wof:lastmodified":1473798431,
+    "wof:lastmodified":1510941417,
     "wof:name":"Duni Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074990765,
+        1075346585
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"

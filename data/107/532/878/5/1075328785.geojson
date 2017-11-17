@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5490865707,47.3641319275,8.5490865707,47.3641319275",
     "geom:latitude":47.364132,
     "geom:longitude":8.549087,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Seefeldstrasse 19 8008 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751103,
-    "wof:geomhash":"9c098fcf0788174dc6468b48c53f89b7",
+    "wof:geomhash":"0b2343eabbccda170311b36c2b3d6994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075328785,
-    "wof:lastmodified":1473751103,
+    "wof:lastmodified":1510943507,
     "wof:name":"Slato Holding Ag Beteiligungen Usw",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075654541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

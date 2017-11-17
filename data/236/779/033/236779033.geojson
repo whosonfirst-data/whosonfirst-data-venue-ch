@@ -7,13 +7,16 @@
     "addr:postcode":"8248",
     "addr:street":"Nuesatzstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.639143,47.669083,8.639143,47.669083",
     "geom:latitude":47.669083,
     "geom:longitude":8.639143,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"N\u00fcsatzstrasse 11",
     "sg:city":"Uhwiesen",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_10XTF1jSKsos8DGq5QkYHl_47.669083_8.639143@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4befa9cfb3436161914e6d82cb3cf0d4",
+    "wof:geomhash":"356e12e977a8fc09452ebbe827feb345",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,15 @@
         }
     ],
     "wof:id":236779033,
-    "wof:lastmodified":1473798447,
+    "wof:lastmodified":1510944173,
     "wof:name":"Br\u00fctsch Elektronik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262869,
+        1075058751
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

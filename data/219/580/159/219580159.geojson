@@ -7,6 +7,7 @@
     "addr:postcode":"8039",
     "addr:street":"Freigutstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.531687,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freigutstrasse 16",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_6BQv9cHuF385BSMufl2jkQ_47.367943_8.531687@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a808b39ba9ab8d6eaab45db9ed6ed685",
+    "wof:geomhash":"2ea6856220c3bb322d90d57fc7dac8d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":219580159,
-    "wof:lastmodified":1491899212,
+    "wof:lastmodified":1510943224,
     "wof:name":"New Japan Bank (schweiz) Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219580223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

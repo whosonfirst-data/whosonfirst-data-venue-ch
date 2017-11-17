@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5653066635,47.4339370728,8.5653066635,47.4339370728",
     "geom:latitude":47.433937,
     "geom:longitude":8.565307,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fabrikstrasse 22",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726115,
-    "wof:geomhash":"cbf89bac3004a10b0894fe964c33e7da",
+    "wof:geomhash":"c14ea6dc7eccb8cfbf270774dc4f2124",
     "wof:hierarchy":[
         {
             "campus_id":102553957,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1074814653,
-    "wof:lastmodified":1473726115,
+    "wof:lastmodified":1510943640,
     "wof:name":"Hauser Endlosband Ag",
     "wof:parent_id":102553957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074864347
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

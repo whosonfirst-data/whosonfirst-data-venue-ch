@@ -7,13 +7,16 @@
     "addr:postcode":"1950",
     "addr:street":"Avenue De Tourbillon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.364291,46.229362,7.364291,46.229362",
     "geom:latitude":46.229362,
     "geom:longitude":7.364291,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Tourbillon 40",
     "sg:city":"Sion",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5EvTBDrdC6TrHD24XqLGNH_46.229362_7.364291@1306268748"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c232ce27e818b11c04b5cff8d5a6188e",
+    "wof:geomhash":"5a2b6fc941e2ef67f24fd9717d26a357",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169720259,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1510942766,
     "wof:name":"Stampo S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075107059
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stamp",

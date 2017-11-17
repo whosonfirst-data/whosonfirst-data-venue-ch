@@ -7,13 +7,16 @@
     "addr:postcode":"8127",
     "addr:street":"Aeschstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.655075,47.328751,8.655075,47.328751",
     "geom:latitude":47.328751,
     "geom:longitude":8.655075,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Aeschstrasse 1",
     "sg:city":"Forch",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6gfwojB0rinH6eMkyDbIy9_47.328751_8.655075@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"20eae18a5c2627dd4ad4d725f492d0d4",
+    "wof:geomhash":"a28f7fb2ca2e68b4beb7335465895492",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":185657757,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1510942246,
     "wof:name":"Atelier Ettlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185671477
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "design",

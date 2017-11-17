@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4976420403,47.2330970764,7.4976420403,47.2330970764",
     "geom:latitude":47.233097,
     "geom:longitude":7.497642,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Weissensteinstrasse 146",
     "sg:city":"Oberdorf",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730724,
-    "wof:geomhash":"0e7f20a11b3a6504dfa81d7274fd1314",
+    "wof:geomhash":"aedd1fa4715eed4ba74ec7b7b51cca7f",
     "wof:hierarchy":[],
     "wof:id":1074904647,
-    "wof:lastmodified":1473730724,
+    "wof:lastmodified":1510943759,
     "wof:name":"Amiet Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075235187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fitting",

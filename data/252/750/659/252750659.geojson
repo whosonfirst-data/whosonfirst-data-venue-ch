@@ -7,13 +7,16 @@
     "addr:postcode":"7000",
     "addr:street":"Werkstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.526788,46.85601,9.526788,46.85601",
     "geom:latitude":46.85601,
     "geom:longitude":9.526788,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werkstrasse 2",
     "sg:city":"Chur",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_3gjDbWrYb23BdeAEK8Szr3_46.856010_9.526788@1306268639"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e789cd1dfa7f87ec16acc33bc9197a62",
+    "wof:geomhash":"49bf155ef01585d943e87ac7409e0f5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":252750659,
-    "wof:lastmodified":1473798090,
+    "wof:lastmodified":1510943595,
     "wof:name":"Stempel Oechslin Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075341397
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business",

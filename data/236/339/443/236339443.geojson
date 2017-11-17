@@ -7,13 +7,16 @@
     "addr:postcode":"2504;2501",
     "addr:street":"David-Moning-Strasse;Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.288528,47.161232,7.288528,47.161232",
     "geom:latitude":47.161232,
     "geom:longitude":7.288528,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"David-moning-strasse 8 2504 Biel/bienne Case Postale 140",
     "sg:city":"Biel/bienne",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_7IbJNb9soaa9hdLOwJ8Jq8_47.161232_7.288528@1306268633"
     },
     "wof:country":"CH",
-    "wof:geomhash":"acf99a5d63edf0d3aaf07e3aa0f850b0",
+    "wof:geomhash":"ef27c300c08df728f42c816699681992",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236339443,
-    "wof:lastmodified":1473798326,
+    "wof:lastmodified":1510942274,
     "wof:name":"Seeland-express Kurier Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075519327
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

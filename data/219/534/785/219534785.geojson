@@ -7,13 +7,16 @@
     "addr:postcode":"9240",
     "addr:street":"Bahnhofstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.132462,47.436401,9.132462,47.436401",
     "geom:latitude":47.436401,
     "geom:longitude":9.132462,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 76",
     "sg:city":"Uzwil",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6Rq2MgWvomfiMgEgkwqZYS_47.436401_9.132462@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c64d9ef39d41b92563c7629d55c42353",
+    "wof:geomhash":"e5b1a99f7309c58b27d526c1f6fd4b90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219534785,
-    "wof:lastmodified":1473798343,
+    "wof:lastmodified":1510942058,
     "wof:name":"Credit Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074939677
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

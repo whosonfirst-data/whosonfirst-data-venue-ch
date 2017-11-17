@@ -7,13 +7,16 @@
     "addr:postcode":"4052",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.598564,47.551846,7.598564,47.551846",
     "geom:latitude":47.551846,
     "geom:longitude":7.598564,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"St. Alban-anlage 26",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_37a7Erc9ItNHGNA0dr69LP_47.551846_7.598564@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"dd455289763edca5512cb3ded66c4493",
+    "wof:geomhash":"c4d509b0c1c50d54dbccf4b7f2fd5f45",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169741571,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1510943969,
     "wof:name":"Patria Genossenschaft",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075556275
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

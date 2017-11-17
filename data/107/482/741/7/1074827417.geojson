@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6252298355,47.4132423401,8.6252298355,47.4132423401",
     "geom:latitude":47.413242,
     "geom:longitude":8.62523,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Riedwiesenstrasse 12",
     "sg:city":"Dietlikon",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726762,
-    "wof:geomhash":"3cfe9c7439949b76981ba9c10c499eee",
+    "wof:geomhash":"28fc3859ee12cf65fc4114b2909ab048",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1074827417,
-    "wof:lastmodified":1473726762,
+    "wof:lastmodified":1510941871,
     "wof:name":"Viborg Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075470595
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

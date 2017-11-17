@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5265827179,47.0027542114,9.5265827179,47.0027542114",
     "geom:latitude":47.002754,
     "geom:longitude":9.526583,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestr. 4",
     "sg:city":"Maienfeld",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726866,
-    "wof:geomhash":"aa7e73f57652d854be85c8adc186e7ae",
+    "wof:geomhash":"55942329b4719e793c54c375489984a4",
     "wof:hierarchy":[],
     "wof:id":1074829567,
-    "wof:lastmodified":1473726866,
+    "wof:lastmodified":1510944021,
     "wof:name":"Eldur Ag Maienfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075057769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

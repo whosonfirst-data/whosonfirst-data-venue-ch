@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5158882141,47.1682243347,8.5158882141,47.1682243347",
     "geom:latitude":47.168224,
     "geom:longitude":8.515888,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 2",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -38,15 +41,18 @@
     },
     "wof:country":"CH",
     "wof:created":1473748421,
-    "wof:geomhash":"296a4c7586ac1dee578bdf79e4a80e05",
+    "wof:geomhash":"12367472967ff97eec1dbac4e3c51ef9",
     "wof:hierarchy":[],
     "wof:id":1075271169,
-    "wof:lastmodified":1473748421,
+    "wof:lastmodified":1510943381,
     "wof:name":"Xstrata (schweiz) Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075663441,
+        1075337893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "steel",

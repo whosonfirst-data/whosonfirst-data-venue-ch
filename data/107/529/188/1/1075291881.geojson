@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1464161873,46.2149734497,6.1464161873,46.2149734497",
     "geom:latitude":46.214973,
     "geom:longitude":6.146416,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lausanne Rue De 57 1202 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749415,
-    "wof:geomhash":"bb812147fee001a33af4e8187d8d1e0a",
+    "wof:geomhash":"b777c7cb0ac227d427b4d2fd8608455a",
     "wof:hierarchy":[
         {
             "campus_id":102553901,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075291881,
-    "wof:lastmodified":1473749415,
+    "wof:lastmodified":1510941504,
     "wof:name":"Calinter Sa",
     "wof:parent_id":102553901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075618165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

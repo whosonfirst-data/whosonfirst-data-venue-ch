@@ -7,13 +7,16 @@
     "addr:postcode":"4051",
     "addr:street":"Kirschgartenstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.591386,47.551521,7.591386,47.551521",
     "geom:latitude":47.551521,
     "geom:longitude":7.591386,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kirschgartenstr. 12",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_3bob4dHm2kW6Gy5nJB8574_47.551521_7.591386@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b7cb2bffb7861ce1caf2af31cd6ac32d",
+    "wof:geomhash":"527f4a4b742c98a06bb4857fca17fbd3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236698273,
-    "wof:lastmodified":1473798443,
+    "wof:lastmodified":1510942021,
     "wof:name":"Kirschgarten-apotheke",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074879113
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

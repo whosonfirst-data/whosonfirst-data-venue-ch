@@ -7,13 +7,16 @@
     "addr:postcode":"6005",
     "addr:street":"Tribschenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.312679,47.044094,8.312679,47.044094",
     "geom:latitude":47.044094,
     "geom:longitude":8.312679,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tribschenstrasse 9",
     "sg:city":"Luzern",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3AuLMwRgICmHls79qIFtMs_47.044094_8.312679@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"dc53f060ade1b2a7a82c97b5dca17b29",
+    "wof:geomhash":"59ebf375b75e7ce7ad100791a9b8aef0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236884745,
-    "wof:lastmodified":1473798460,
+    "wof:lastmodified":1510941431,
     "wof:name":"Ad Solutions Ag",
     "wof:parent_id":85862353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075511153
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "software",

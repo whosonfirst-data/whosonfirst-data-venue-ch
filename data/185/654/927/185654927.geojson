@@ -7,13 +7,16 @@
     "addr:postcode":"6343",
     "addr:street":"Grundstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.430699,47.146107,8.430699,47.146107",
     "geom:latitude":47.146107,
     "geom:longitude":8.430699,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grundstrasse 18",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2KFXtFlBp5rb2s8ZtIy2qr_47.146107_8.430699@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"368b38dc89247c324c2acae689fbcf24",
+    "wof:geomhash":"7373552adbcd127bb80b2a19315ea310",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":185654927,
-    "wof:lastmodified":1473798077,
+    "wof:lastmodified":1510944134,
     "wof:name":"Racol Partner Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075000685
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "articles"

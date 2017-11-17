@@ -7,13 +7,16 @@
     "addr:postcode":"5400",
     "addr:street":"Roemerstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.308446,47.481033,8.308446,47.481033",
     "geom:latitude":47.481033,
     "geom:longitude":8.308446,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00f6merstr. 24",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1XZ8PQfpSJUBfViI8JomEy_47.481033_8.308446@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fdb61a7ce389c0ca47cae024f3a36aaf",
+    "wof:geomhash":"8cc5f484e8bfc22459fcdd765d2612f6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236589747,
-    "wof:lastmodified":1473798444,
+    "wof:lastmodified":1510944149,
     "wof:name":"Hotel Du Parc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075136649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hotels",

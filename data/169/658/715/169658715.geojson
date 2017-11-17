@@ -7,13 +7,16 @@
     "addr:postcode":"4105",
     "addr:street":"Leymenstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.51748,47.502708,7.51748,47.502708",
     "geom:latitude":47.502708,
     "geom:longitude":7.51748,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leymenstr. 15",
     "sg:city":"Biel-benken",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1Rg0QKShDP8kShzlp9gjYQ_47.502708_7.517480@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f24e258f6c13abaf63457fb66e328ea5",
+    "wof:geomhash":"38744fb028d8a78ce4806adb46c24b09",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169658715,
-    "wof:lastmodified":1473798107,
+    "wof:lastmodified":1510943315,
     "wof:name":"Diaform Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074812709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

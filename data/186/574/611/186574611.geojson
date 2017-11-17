@@ -7,13 +7,16 @@
     "addr:postcode":"4302",
     "addr:street":"Wyhlenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.719793,47.535492,7.719793,47.535492",
     "geom:latitude":47.535492,
     "geom:longitude":7.719793,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wyhlenstrasse 41",
     "sg:city":"Augst",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_7UbSEnJvG7LM66PXZrgjoz_47.535492_7.719793@1306268616"
     },
     "wof:country":"CH",
-    "wof:geomhash":"95d4e7342686c47db037ce1248fd9eb8",
+    "wof:geomhash":"4c0ffc6dc840761c2aa860ea453a4985",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":186574611,
-    "wof:lastmodified":1473798378,
+    "wof:lastmodified":1510942943,
     "wof:name":"Aerni Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271117
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "construction",

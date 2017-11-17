@@ -7,13 +7,16 @@
     "addr:postcode":"9205",
     "addr:street":"Str.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.284494,47.468353,9.284494,47.468353",
     "geom:latitude":47.468353,
     "geom:longitude":9.284494,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Arnegger Str. 2",
     "sg:city":"Waldkirch",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_6vxBcXeLnARhjVu1QMMkkI_47.468353_9.284494@1306268627"
     },
     "wof:country":"CH",
-    "wof:geomhash":"43d9742ceb9726903735067dbcd34d0e",
+    "wof:geomhash":"3b684846bbe511a2b2dce574afcad057",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219635941,
-    "wof:lastmodified":1473798391,
+    "wof:lastmodified":1510942649,
     "wof:name":"Raiffeisenbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236874867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

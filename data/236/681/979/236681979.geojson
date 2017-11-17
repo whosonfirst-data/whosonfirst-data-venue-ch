@@ -7,13 +7,16 @@
     "addr:postcode":"4716",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.527392,47.279312,7.527392,47.279312",
     "geom:latitude":47.279312,
     "geom:longitude":7.527392,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"D\u00fcnnernstr. 513",
     "sg:city":"Welschenrohr",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3NSVef9nF9I3pOPaNZZCtS_47.279312_7.527392@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"79c0dee67e948d51a6873e0649691f39",
+    "wof:geomhash":"631b27ca0d03dac94e496269c8cb69d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236681979,
-    "wof:lastmodified":1473798445,
+    "wof:lastmodified":1510943667,
     "wof:name":"Bimbosan Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236731269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

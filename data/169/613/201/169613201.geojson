@@ -7,13 +7,16 @@
     "addr:postcode":"8400",
     "addr:street":"Garnmarkt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.727968,47.499073,8.727968,47.499073",
     "geom:latitude":47.499073,
     "geom:longitude":8.727968,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Garnmarkt 10",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2f10KjmQ7w2cz6NrV37gtq_47.499073_8.727968@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"531e321872b6b796a10da734bc6bd26d",
+    "wof:geomhash":"b355e21a56530c78312d463f3627fc46",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":169613201,
-    "wof:lastmodified":1473798030,
+    "wof:lastmodified":1510942768,
     "wof:name":"Ziegler Druck- Und Verlags-ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075341871
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "imprint"

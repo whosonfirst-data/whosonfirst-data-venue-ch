@@ -7,13 +7,16 @@
     "addr:postcode":"6331",
     "addr:street":"Boesch;Huenenberg Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.440262,47.160385,8.440262,47.160385",
     "geom:latitude":47.160385,
     "geom:longitude":8.440262,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00f6sch 37",
     "sg:city":"H\u00fcnenberg",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2rmAifdXovLiNIPbiI3VFq_47.160385_8.440262@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f3ea57661336f88b291dddd15d595ea1",
+    "wof:geomhash":"6487c286b17996741833a79bdf5b8498",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":219444965,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1510941768,
     "wof:name":"Wt Technologie Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075337737,
+        1075663267
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operation",

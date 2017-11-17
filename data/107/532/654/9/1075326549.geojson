@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.632335186,46.5195960999,6.632335186,46.5195960999",
     "geom:latitude":46.519596,
     "geom:longitude":6.632335,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Joliette Chemin De La 2 1006 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751016,
-    "wof:geomhash":"ffb634ffe9bd897806487a5ba97f0c65",
+    "wof:geomhash":"a1ae478e5acad15e3aaa439a12045ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075326549,
-    "wof:lastmodified":1473751016,
+    "wof:lastmodified":1510942219,
     "wof:name":"Si La Suettaz G Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075652309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

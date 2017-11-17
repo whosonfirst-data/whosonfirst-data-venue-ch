@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.1102151871,46.9182701111,7.1102151871,46.9182701111",
     "geom:latitude":46.91827,
     "geom:longitude":7.110215,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freiburgstr. 69",
     "sg:city":"Murten",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726854,
-    "wof:geomhash":"f43d4d52598046e618e7f1ba389e72fd",
+    "wof:geomhash":"a0003770afe403655ab4da491a4aafc5",
     "wof:hierarchy":[],
     "wof:id":1074829375,
-    "wof:lastmodified":1473726854,
+    "wof:lastmodified":1510943172,
     "wof:name":"M\u00c4der Werkzeuge Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236792545
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity",

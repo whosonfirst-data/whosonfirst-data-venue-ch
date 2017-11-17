@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3325529099,47.4593391418,8.3325529099,47.4593391418",
     "geom:latitude":47.459339,
     "geom:longitude":8.332553,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hardstrasse 41",
     "sg:city":"Wettingen",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726895,
-    "wof:geomhash":"e0a96239cfc68886f831b63e46f74c6a",
+    "wof:geomhash":"2d51a1f206750253cf2f950d5fb7362f",
     "wof:hierarchy":[],
     "wof:id":1074830155,
-    "wof:lastmodified":1473726895,
+    "wof:lastmodified":1510943124,
     "wof:name":"Selatec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075055663
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "component",

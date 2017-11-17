@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5370893478,47.3761863708,8.5370893478,47.3761863708",
     "geom:latitude":47.376186,
     "geom:longitude":8.537089,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schweizergasse 21 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750609,
-    "wof:geomhash":"6826661df163ff70d200cea7a7d31d72",
+    "wof:geomhash":"faaeb607545dc80b04109a04eaeea0db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075316371,
-    "wof:lastmodified":1473750609,
+    "wof:lastmodified":1510941957,
     "wof:name":"Nigg, Christinger & Partner Beratungs Und Verwaltungs Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075642427
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

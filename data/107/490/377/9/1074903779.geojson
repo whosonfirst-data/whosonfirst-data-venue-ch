@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4371337891,47.140586853,8.4371337891,47.140586853",
     "geom:latitude":47.140587,
     "geom:longitude":8.437134,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Buonaserstr. 30",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -38,16 +41,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473730660,
-    "wof:geomhash":"6eed0809a6c861087d35791c9086bbcf",
+    "wof:geomhash":"309f892f6cdcf92b508ee0a2133f0a79",
     "wof:hierarchy":[],
     "wof:id":1074903779,
-    "wof:lastmodified":1473730660,
+    "wof:lastmodified":1510942342,
     "wof:name":"Amc International Alfa Metalcraft Corp Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075347871
+    ],
+    "wof:supersedes":[
+        1074805451
+    ],
     "wof:tags":[
         "metallurgy",
         "finished",

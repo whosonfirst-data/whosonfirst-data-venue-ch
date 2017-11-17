@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.62088871,47.3990592957,8.62088871,47.3990592957",
     "geom:latitude":47.399059,
     "geom:longitude":8.620889,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Bahnhof Str. 45",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[
@@ -36,11 +38,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":639362511,
         "sg:id":"SG_5Swa8Cltc4RwWHdVw9GDK7_47.399059_8.620889@1306268702"
     },
     "wof:country":"CH",
     "wof:created":1473743044,
-    "wof:geomhash":"f8e0eecc49148925cb300ddb2155c0b6",
+    "wof:geomhash":"7c00fdfe230813116700db647eb36f34",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -51,13 +54,15 @@
         }
     ],
     "wof:id":1075148729,
-    "wof:lastmodified":1473743044,
+    "wof:lastmodified":1510943957,
     "wof:name":"Santschi Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1059053777
+    ],
     "wof:tags":[
         "household",
         "wood"

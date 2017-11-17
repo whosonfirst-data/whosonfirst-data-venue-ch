@@ -7,13 +7,16 @@
     "addr:postcode":"8604",
     "addr:street":"Hoelzliwisenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.679204,47.378117,8.679204,47.378117",
     "geom:latitude":47.378117,
     "geom:longitude":8.679204,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00f6lzliwisenstrasse 5",
     "sg:city":"Volketswil",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_7mi9Ej7TsmY6NmMHbHkltm_47.378117_8.679204@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0e968d0e839a26364a45d91de8c61949",
+    "wof:geomhash":"4fb677c9588a1fc4f95db1a2c6ffc1bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":236655843,
-    "wof:lastmodified":1473798445,
+    "wof:lastmodified":1510944188,
     "wof:name":"Evis Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075536119
+    ],
+    "wof:supersedes":[
+        1074829169
+    ],
     "wof:tags":[
         "paying",
         "cashless",

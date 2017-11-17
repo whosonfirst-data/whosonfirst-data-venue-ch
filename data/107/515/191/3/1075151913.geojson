@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7256002426,47.5013160706,8.7256002426,47.5013160706",
     "geom:latitude":47.501316,
     "geom:longitude":8.7256,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Museumstr. 76",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473743207,
-    "wof:geomhash":"3cd83c7b88ab2b6203ba857bbf1f0856",
+    "wof:geomhash":"c89b4e637a1d93d2db1a14820d91ce26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":1075151913,
-    "wof:lastmodified":1473743207,
+    "wof:lastmodified":1510942503,
     "wof:name":"Celsi Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1075150677
+    ],
     "wof:tags":[
         "information",
         "technology",

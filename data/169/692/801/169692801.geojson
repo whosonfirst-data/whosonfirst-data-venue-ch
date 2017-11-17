@@ -7,13 +7,16 @@
     "addr:postcode":"5242",
     "addr:street":"Wydenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.215692,47.440399,8.215692,47.440399",
     "geom:latitude":47.440399,
     "geom:longitude":8.215692,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wydenstrasse 36",
     "sg:city":"Birr",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4S6SqFlXeFBqR87gTjhsCz_47.440399_8.215692@1306268714"
     },
     "wof:country":"CH",
-    "wof:geomhash":"55e46b1bcdd2a9cf7403e04f4fb05576",
+    "wof:geomhash":"ab9afa328908e3859c6977e453d71b6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":169692801,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1510941418,
     "wof:name":"Brugg Drahtseil Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075048591
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lift"

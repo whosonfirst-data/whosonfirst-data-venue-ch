@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6944332123,47.3096618652,7.6944332123,47.3096618652",
     "geom:latitude":47.309662,
     "geom:longitude":7.694433,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dornacherstr. 20",
     "sg:city":"Balsthal",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473737807,
-    "wof:geomhash":"3e5c2ed9311036d05722f15d29a7aa6d",
+    "wof:geomhash":"abaf12473dc4baee9086ff379142014e",
     "wof:hierarchy":[],
     "wof:id":1075041649,
-    "wof:lastmodified":1473737807,
+    "wof:lastmodified":1510941204,
     "wof:name":"Almaco Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075122593
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument",

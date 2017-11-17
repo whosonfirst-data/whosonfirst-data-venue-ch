@@ -7,13 +7,16 @@
     "addr:postcode":"3012;postfach 8572 bern;3001",
     "addr:street":"Erlachstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.434149,46.951355,7.434149,46.951355",
     "geom:latitude":46.951355,
     "geom:longitude":7.434149,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Erlachstrasse 5 3012 Bern. Postfach 8572",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -32,10 +35,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3558487902,
         "sg:id":"SG_7CVZRRK2IHQfRZT8cWqH1u_46.951355_7.434149@1306268641"
     },
     "wof:country":"CH",
-    "wof:geomhash":"117ea4383412149f386c8ba185eb039f",
+    "wof:geomhash":"7bfeb8d9bb7f128867bbe9d79a9e3679",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,13 +52,17 @@
         }
     ],
     "wof:id":253077243,
-    "wof:lastmodified":1473798075,
+    "wof:lastmodified":1510943927,
     "wof:name":"Fenaco",
     "wof:parent_id":85799959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        185816577
+    ],
+    "wof:supersedes":[
+        185816577
+    ],
     "wof:tags":[]
 },
   "bbox": [

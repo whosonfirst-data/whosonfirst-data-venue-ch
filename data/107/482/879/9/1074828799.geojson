@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5223407745,47.4615821838,8.5223407745,47.4615821838",
     "geom:latitude":47.461582,
     "geom:longitude":8.522341,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Riedackerstrasse 1",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726820,
-    "wof:geomhash":"6e7832a6a871218b348092014dff04c8",
+    "wof:geomhash":"8e845b11f6a69b1b1690d19b3330ac0b",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1074828799,
-    "wof:lastmodified":1473726820,
+    "wof:lastmodified":1510942799,
     "wof:name":"Bt (switzerland) Ag",
     "wof:parent_id":85862429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075275869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fork",

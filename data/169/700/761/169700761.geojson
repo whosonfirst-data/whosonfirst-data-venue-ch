@@ -7,13 +7,16 @@
     "addr:postcode":"9325",
     "addr:street":"Betenwilerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.393772,47.501945,9.393772,47.501945",
     "geom:latitude":47.501945,
     "geom:longitude":9.393772,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Betenwilerstrasse 17",
     "sg:city":"Roggwil",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_5353ElBpPkrJcCmp5iV8Mx_47.501945_9.393772@1306268720"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d7c13087467b7ff6903b07ee4f014272",
+    "wof:geomhash":"5b00b65f8f459ce6ac950b343289abce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":169700761,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1510943175,
     "wof:name":"Jakob M\u00fcller Sohn Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075150111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

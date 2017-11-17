@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5102682114,47.0218391418,7.5102682114,47.0218391418",
     "geom:latitude":47.021839,
     "geom:longitude":7.510268,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grubenstrasse 107 3322 Sch\u00f6nb\u00fchl-urtenen. Postfach 129",
     "sg:city":"Sch\u00f6nb\u00fchl-urtenen",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473736920,
-    "wof:geomhash":"82e5042d20144ac825f48afbc9b8834f",
+    "wof:geomhash":"2c02b6aec8e79f4cbc9b04e6a3aa14bd",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,13 +45,17 @@
         }
     ],
     "wof:id":1075023443,
-    "wof:lastmodified":1473736920,
+    "wof:lastmodified":1510943872,
     "wof:name":"Azu Ag",
     "wof:parent_id":85800023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075150027
+    ],
+    "wof:supersedes":[
+        219378625
+    ],
     "wof:tags":[]
 },
   "bbox": [

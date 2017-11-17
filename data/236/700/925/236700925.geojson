@@ -7,13 +7,16 @@
     "addr:postcode":"6340",
     "addr:street":"Oberdorfstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.530234,47.196129,8.530234,47.196129",
     "geom:latitude":47.196129,
     "geom:longitude":8.530234,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberdorfstrasse 11",
     "sg:city":"Baar",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1FmxdoZLuebwGUzYTgBECS_47.196129_8.530234@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d4ee3b2375ef9cf2bc0f2fd24af302eb",
+    "wof:geomhash":"ab48c0d4afa73803cb52382c4f04769c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236700925,
-    "wof:lastmodified":1473798441,
+    "wof:lastmodified":1510943692,
     "wof:name":"Degussa (schweiz) Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074957091
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

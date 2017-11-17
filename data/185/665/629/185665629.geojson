@@ -7,13 +7,16 @@
     "addr:postcode":"5643",
     "addr:street":"Kirchstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.394875,47.192474,8.394875,47.192474",
     "geom:latitude":47.192474,
     "geom:longitude":8.394875,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kirchstrasse 1",
     "sg:city":"Sins",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5iGRL9nf7iZ9Jcc0hN7lkc_47.192474_8.394875@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8042541aa22495466c3dbc2703fd23f6",
+    "wof:geomhash":"d649141c0fd3e6f0ce32651ab478ce4f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":185665629,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1510943583,
     "wof:name":"Villiger Druck Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "postcard"

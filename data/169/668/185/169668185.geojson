@@ -7,13 +7,16 @@
     "addr:postcode":"1003;postfach;1002",
     "addr:street":"Rue Centrale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.633373,46.520771,6.633373,46.520771",
     "geom:latitude":46.520771,
     "geom:longitude":6.633373,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Centrale 10 1003 Lausanne. Postfach",
     "sg:city":"Lausanne",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_7fzAJO5JWsa29PlRZ0LCl2_46.520771_6.633373@1306268644"
     },
     "wof:country":"CH",
-    "wof:geomhash":"7c05d6114a62dde35e89edc189b163b8",
+    "wof:geomhash":"0808c9e7d3a6131e41d390c04a21bb5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169668185,
-    "wof:lastmodified":1473798096,
+    "wof:lastmodified":1510941372,
     "wof:name":"Kramer-krieg Sa",
     "wof:parent_id":85862419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075346475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8600",
     "addr:street":"Bettlistrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.625556,47.39743,8.625556,47.39743",
     "geom:latitude":47.39743,
     "geom:longitude":8.625556,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bettlistrasse 35",
     "sg:city":"D\u00fcbendorf",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_7SxO4VVTG7tsA2AIM3nJqP_47.397430_8.625556@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"24434c84fbdf5f5bb048b1b55cc70b4b",
+    "wof:geomhash":"5722ba25e53a6c90bc48cf592a769d00",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236609147,
-    "wof:lastmodified":1473798424,
+    "wof:lastmodified":1510942118,
     "wof:name":"Cad Schroer Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075498709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "application",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6120471954,47.5284194946,7.6120471954,47.5284194946",
     "geom:latitude":47.528419,
     "geom:longitude":7.612047,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Emil Frey-strasse 85",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473729968,
-    "wof:geomhash":"2b627052d577f06c9be85299322c22cc",
+    "wof:geomhash":"68da69535f3babad5cb1df2eba5069d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,15 @@
         }
     ],
     "wof:id":1074890269,
-    "wof:lastmodified":1473729968,
+    "wof:lastmodified":1510944184,
     "wof:name":"Eye Communications Ag",
     "wof:parent_id":85800299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075149791,
+        1075670673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"5001",
     "addr:street":"Schachenallee",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.04062,47.39027,8.04062,47.39027",
     "geom:latitude":47.39027,
     "geom:longitude":8.04062,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schachenallee 29",
     "sg:city":"Aarau",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4R1GcVndWShdm77Q8PDvgj_47.390270_8.040620@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9db80a655db783ec4a327f47985e42a8",
+    "wof:geomhash":"bcff185867d9ce2d4fb143761c7c7cf2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,16 @@
         }
     ],
     "wof:id":236686253,
-    "wof:lastmodified":1473798432,
+    "wof:lastmodified":1510943873,
     "wof:name":"Bba Ag",
     "wof:parent_id":85859517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075289087,
+        1075615465,
+        1074903791
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "magnet",

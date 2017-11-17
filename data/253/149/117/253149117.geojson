@@ -7,13 +7,16 @@
     "addr:postcode":"4142;4142",
     "addr:street":"Heiligholzstrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.615188,47.513283,7.615188,47.513283",
     "geom:latitude":47.513283,
     "geom:longitude":7.615188,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heiligholzstrasse 8 4142 M\u00fcnchenstein. Postfach",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_69B2jrE5yDM1gJri7lpfdV_47.513283_7.615188@1306268642"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c4e86b126f49a6deb14398353e2b3fbe",
+    "wof:geomhash":"9c2b5589d68f2adfbffb0a4bdb1d4975",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":253149117,
-    "wof:lastmodified":1473798164,
+    "wof:lastmodified":1510943194,
     "wof:name":"B\u00e4ckerei Gyger Ag",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236558383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

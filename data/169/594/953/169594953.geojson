@@ -7,13 +7,16 @@
     "addr:postcode":"1211",
     "addr:street":"Rue Des Moulins",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.142766,46.204945,6.142766,46.204945",
     "geom:latitude":46.204945,
     "geom:longitude":6.142766,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Rue Des Moulins",
     "sg:city":"Geneve",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_4y9ffKGG0Am5bDRk7PJ3YF_46.204945_6.142766@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6362857f16c57f7bb273604dddbd7232",
+    "wof:geomhash":"f147d55512ae6c4510478c9c35295733",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169594953,
-    "wof:lastmodified":1473798029,
+    "wof:lastmodified":1510944007,
     "wof:name":"Banque Financiere De La Cite",
     "wof:parent_id":85897667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219496713
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

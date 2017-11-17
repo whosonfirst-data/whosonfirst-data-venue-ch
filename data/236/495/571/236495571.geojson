@@ -7,13 +7,16 @@
     "addr:postcode":"2554",
     "addr:street":"Hauptstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.342224,47.158005,7.342224,47.158005",
     "geom:latitude":47.158005,
     "geom:longitude":7.342224,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstrasse 31",
     "sg:city":"Meinisberg",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_0PXYl5IkUgjTEaLmehStKl_47.158005_7.342224@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"612448a1b504bd32565f9594580a8ba7",
+    "wof:geomhash":"00c06e17d303ec94c126f7b9a24b8cdd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236495571,
-    "wof:lastmodified":1473798407,
+    "wof:lastmodified":1510944051,
     "wof:name":"Press-elec Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

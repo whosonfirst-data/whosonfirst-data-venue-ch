@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5139045715,47.1710357666,8.5139045715,47.1710357666",
     "geom:latitude":47.171036,
     "geom:longitude":8.513905,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alpenstrasse 4",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473725816,
-    "wof:geomhash":"e338a2ed9517d9127b9462991172337e",
+    "wof:geomhash":"25e41d02994a2accd99f7115b1b3a8ab",
     "wof:hierarchy":[],
     "wof:id":1074808671,
-    "wof:lastmodified":1473725816,
+    "wof:lastmodified":1510941465,
     "wof:name":"Key-line Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075511555
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",

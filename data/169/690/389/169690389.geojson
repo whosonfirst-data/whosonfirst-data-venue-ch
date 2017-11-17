@@ -7,13 +7,16 @@
     "addr:postcode":"1023;1023",
     "addr:street":"Chemin De Closalet;Case Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.571396,46.55394,6.571396,46.55394",
     "geom:latitude":46.55394,
     "geom:longitude":6.571396,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chemin De Closalet 14 1023 Crissier Case Postale",
     "sg:city":"Crissier",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2UHOB86ek87muvrbumylnE_46.553940_6.571396@1306268692"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f81690fe636d92ef6d408bdd8b3340c3",
+    "wof:geomhash":"5f6e87c5ccbec0ff384e65c7d37ede75",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169690389,
-    "wof:lastmodified":1473798245,
+    "wof:lastmodified":1510943198,
     "wof:name":"B & S Messtech Sa",
     "wof:parent_id":85800443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075557379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

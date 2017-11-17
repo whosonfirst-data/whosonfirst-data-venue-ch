@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5914769173,47.1637535095,7.5914769173,47.1637535095",
     "geom:latitude":47.163754,
     "geom:longitude":7.591477,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gerlafingenstrasse 31",
     "sg:city":"Recherswil",
     "sg:classifiers":[
@@ -36,15 +39,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730682,
-    "wof:geomhash":"285ec06ea0d4e16e2126b4b252d408b1",
+    "wof:geomhash":"a58458a0b27e4c556b399991e4022eff",
     "wof:hierarchy":[],
     "wof:id":1074904141,
-    "wof:lastmodified":1473730682,
+    "wof:lastmodified":1510943130,
     "wof:name":"Feumotech Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075150103
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "vehicle",

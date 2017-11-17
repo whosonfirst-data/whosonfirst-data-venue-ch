@@ -7,13 +7,16 @@
     "addr:postcode":"9314",
     "addr:street":"Almensbergstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.340185,47.534657,9.340185,47.534657",
     "geom:latitude":47.534657,
     "geom:longitude":9.340185,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Almensbergstrasse 8",
     "sg:city":"Steinebrunn",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6plWCeneKb5emwUigWcNw1_47.534657_9.340185@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1763798630733cf2ffe8b1ec5ee8636f",
+    "wof:geomhash":"42e97c364fe197adce17332ac2fc2bf9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236797427,
-    "wof:lastmodified":1473798451,
+    "wof:lastmodified":1510941488,
     "wof:name":"Brammertz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "customized"

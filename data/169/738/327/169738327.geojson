@@ -7,13 +7,16 @@
     "addr:postcode":"8008",
     "addr:street":"Muehlebachstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.552043,47.363323,8.552043,47.363323",
     "geom:latitude":47.363323,
     "geom:longitude":8.552043,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"M\u00fchlebachstrasse 54",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_13Z6wQK1w5Xb2hf92kq1Ko_47.363323_8.552043@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6ae38af03ed5e213422518366f83e958",
+    "wof:geomhash":"a82b52e4265a8921d66a749b119e04fa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169738327,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1510943129,
     "wof:name":"Ansbacher (schweiz) Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075685411
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

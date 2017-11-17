@@ -7,13 +7,16 @@
     "addr:postcode":"1023;216;1023",
     "addr:street":"Rue De Cossonay;Case Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.57124,46.557301,6.57124,46.557301",
     "geom:latitude":46.557301,
     "geom:longitude":6.57124,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Cossonay 1 1023 Crissier Case Postale 216",
     "sg:city":"Crissier",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_7OAdrBj11FEgT7t1RZWYAO_46.557301_6.571240@1306268673"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0aa12677cb3f31e3aab0bfdb98fe5e12",
+    "wof:geomhash":"ffb533478c381a89f2eabe2d833a93da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169688209,
-    "wof:lastmodified":1473798127,
+    "wof:lastmodified":1510941738,
     "wof:name":"Asd Diffusion Sa",
     "wof:parent_id":85800443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075275613
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

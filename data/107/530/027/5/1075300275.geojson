@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5921120644,47.553478241,7.5921120644,47.553478241",
     "geom:latitude":47.553478,
     "geom:longitude":7.592112,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Aeschenvorstadt 4",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749757,
-    "wof:geomhash":"eac1a190861fa54d5406b6d56fe1cf2e",
+    "wof:geomhash":"d90c6155c1de162b1b0d7224a379d204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075300275,
-    "wof:lastmodified":1473749757,
+    "wof:lastmodified":1510943633,
     "wof:name":"First Retail Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075626415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

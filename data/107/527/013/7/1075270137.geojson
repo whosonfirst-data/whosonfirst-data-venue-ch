@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4654288292,46.9684791565,7.4654288292,46.9684791565",
     "geom:latitude":46.968479,
     "geom:longitude":7.465429,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Stauffacherstrasse 130a",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473748369,
-    "wof:geomhash":"13b56815ce777943e35cc43a75f9f3e2",
+    "wof:geomhash":"49912d427e152db623b5baf63c702ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":1075270137,
-    "wof:lastmodified":1473748369,
+    "wof:lastmodified":1510943358,
     "wof:name":"Marti Medizintechnische Polster Ag",
     "wof:parent_id":85799703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1074826357
+    ],
     "wof:tags":[
         "upholstery"
     ]

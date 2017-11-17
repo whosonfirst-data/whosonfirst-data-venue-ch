@@ -7,13 +7,16 @@
     "addr:postcode":"8048",
     "addr:street":"Wuerzgrabenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.493897,47.393044,8.493897,47.393044",
     "geom:latitude":47.393044,
     "geom:longitude":8.493897,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"W\u00fcrzgrabenstrasse 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3PpiRGV9e260djC7ryLY4I_47.393044_8.493897@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6189524d2a2b21473de548d210dc6e19",
+    "wof:geomhash":"71aa18fd28229c5114d754a0d2bbc34f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,15 @@
         }
     ],
     "wof:id":185637733,
-    "wof:lastmodified":1473798055,
+    "wof:lastmodified":1510942437,
     "wof:name":"Wht - Software Ag",
     "wof:parent_id":85800617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075510733,
+        1075151869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "administration",

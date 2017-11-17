@@ -7,13 +7,16 @@
     "addr:postcode":"8032",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.563953,47.365284,8.563953,47.365284",
     "geom:latitude":47.365284,
     "geom:longitude":8.563953,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Asylstr. 112",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1cNM1ju9W7B5Iq4Y9qUdB2_47.365284_8.563953@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a15d2c7802093a06a766aefc1d69849b",
+    "wof:geomhash":"8b6c76add05eca462d23aaf3f3a2e6e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169678857,
-    "wof:lastmodified":1473798128,
+    "wof:lastmodified":1510943675,
     "wof:name":"Edelweiss Werbung Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075764517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communication",

@@ -7,13 +7,16 @@
     "addr:postcode":"8620",
     "addr:street":"Binzstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.801152,47.330566,8.801152,47.330566",
     "geom:latitude":47.330566,
     "geom:longitude":8.801152,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Binzstrasse 30",
     "sg:city":"Wetzikon",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_55dmmBH3zViapYufRK3IHW_47.330566_8.801152@1306268615"
     },
     "wof:country":"CH",
-    "wof:geomhash":"92fef3575ee9dd6c13047acac320d763",
+    "wof:geomhash":"7abb57ec32c95cca621d7442a8ec27ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":186546165,
-    "wof:lastmodified":1473798361,
+    "wof:lastmodified":1510942719,
     "wof:name":"Ruckstuhl Ag Metallgiesserei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271451
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminium",

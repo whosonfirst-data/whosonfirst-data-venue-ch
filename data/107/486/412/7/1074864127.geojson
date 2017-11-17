@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.8987998962,47.4921302795,8.8987998962,47.4921302795",
     "geom:latitude":47.49213,
     "geom:longitude":8.8988,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Morgentalstr. 7",
     "sg:city":"Aadorf",
     "sg:classifiers":[
@@ -38,16 +41,20 @@
     },
     "wof:country":"CH",
     "wof:created":1473728577,
-    "wof:geomhash":"1817046411b65c1a330df747d1cce0f0",
+    "wof:geomhash":"26723324a4dca8e246994f6285d1f664",
     "wof:hierarchy":[],
     "wof:id":1074864127,
-    "wof:lastmodified":1473728577,
+    "wof:lastmodified":1510943874,
     "wof:name":"Wibutex Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1059053883
+    ],
+    "wof:supersedes":[
+        1059053883
+    ],
     "wof:tags":[
         "rubber",
         "textile",

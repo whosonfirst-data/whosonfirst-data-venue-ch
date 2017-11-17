@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.531665802,47.3654098511,8.531665802,47.3654098511",
     "geom:latitude":47.36541,
     "geom:longitude":8.531666,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Seestrasse 6",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751351,
-    "wof:geomhash":"e270160fa9c29289c45cb0b86fc1989d",
+    "wof:geomhash":"014ef374039db4a09ded4539483362fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075334701,
-    "wof:lastmodified":1473751351,
+    "wof:lastmodified":1510943648,
     "wof:name":"Tri Con Consulting Ag",
     "wof:parent_id":85799687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075660351
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

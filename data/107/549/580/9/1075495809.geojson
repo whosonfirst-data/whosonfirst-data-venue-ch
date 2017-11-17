@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6195573807,47.3390235901,8.6195573807,47.3390235901",
     "geom:latitude":47.339024,
     "geom:longitude":8.619557,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schw\u00e4ntenmos 15",
     "sg:city":"Zumikon",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473758283,
-    "wof:geomhash":"712132f90f4ddf6451ed004f14b2d478",
+    "wof:geomhash":"b836454f0a148090f6cfd813cdb22592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,13 +60,16 @@
         }
     ],
     "wof:id":1075495809,
-    "wof:lastmodified":1473758283,
+    "wof:lastmodified":1510941405,
     "wof:name":"Bcs System Ag",
     "wof:parent_id":85862433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1074845993,
+        1074828651
+    ],
     "wof:tags":[
         "device",
         "sewer",

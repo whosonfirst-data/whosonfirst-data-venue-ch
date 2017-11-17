@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.2515888214,46.9021949768,8.2515888214,46.9021949768",
     "geom:latitude":46.902195,
     "geom:longitude":8.251589,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestr. 27",
     "sg:city":"Sarnen",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730766,
-    "wof:geomhash":"3d04c3884aad1c7f6c2d0e746084ea3e",
+    "wof:geomhash":"11a58e021c3837c5568f77e87c9775c8",
     "wof:hierarchy":[],
     "wof:id":1074905583,
-    "wof:lastmodified":1473730766,
+    "wof:lastmodified":1510942229,
     "wof:name":"Nahrin Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075061833
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

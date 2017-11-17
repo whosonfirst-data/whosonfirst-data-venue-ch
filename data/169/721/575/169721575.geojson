@@ -7,13 +7,16 @@
     "addr:postcode":"1227",
     "addr:street":"Route Des Jeunes",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.129627,46.183086,6.129627,46.183086",
     "geom:latitude":46.183086,
     "geom:longitude":6.129627,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route Des Jeunes 35",
     "sg:city":"Carouge",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6eeOcJmF13kBclLppoLGbE_46.183086_6.129627@1306268751"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1c45cf66424e7e5170e71e532d041290",
+    "wof:geomhash":"0bc3e82ff67c5d44e21907c6e6bd2364",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":169721575,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1510942470,
     "wof:name":"Doris Maritime Services S.a.",
     "wof:parent_id":85862377,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075494387
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ship",

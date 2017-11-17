@@ -7,13 +7,16 @@
     "addr:postcode":"8205",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.640283,47.711262,8.640283,47.711262",
     "geom:latitude":47.711262,
     "geom:longitude":8.640283,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hochstr. 201",
     "sg:city":"Schaffhausen",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1QUH6O52JK02wEAvYl31zN_47.711262_8.640283@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0ace4a2908f3d530f923883073595cdf",
+    "wof:geomhash":"72de67b915d644b28cb96e365ad12ecf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236698261,
-    "wof:lastmodified":1473798432,
+    "wof:lastmodified":1510943045,
     "wof:name":"Cilag Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075042105
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

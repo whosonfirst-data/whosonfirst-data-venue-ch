@@ -7,13 +7,16 @@
     "addr:postcode":"8117",
     "addr:street":"Taemperlistrasse;Zuerich",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.644467,47.377342,8.644467,47.377342",
     "geom:latitude":47.377342,
     "geom:longitude":8.644467,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"T\u00e4mperlistrasse 5",
     "sg:city":"F\u00e4llanden",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_0EPPKfsWJ9eQxMVZquAZqf_47.377342_8.644467@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"eb9a31beb62afe1185b255af29c3390f",
+    "wof:geomhash":"d705698a3fce1a5062b52471742a30fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":219450615,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1510942594,
     "wof:name":"Tool Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262843
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

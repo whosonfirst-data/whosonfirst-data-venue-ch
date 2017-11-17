@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.7071285248,47.4897880554,8.7071285248,47.4897880554",
     "geom:latitude":47.489788,
     "geom:longitude":8.707129,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Poststrasse 15",
     "sg:city":"Winterthur",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473742209,
-    "wof:geomhash":"01711610f18cc220f11ca9d0d18a204b",
+    "wof:geomhash":"7ac72be125d7af3671a9f81ba902051c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075130519,
-    "wof:lastmodified":1473742209,
+    "wof:lastmodified":1510941940,
     "wof:name":"Alfred Wertli Ag",
     "wof:parent_id":85800571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

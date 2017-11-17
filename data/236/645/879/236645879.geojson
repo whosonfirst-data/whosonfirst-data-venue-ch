@@ -7,13 +7,16 @@
     "addr:postcode":"8810",
     "addr:street":"Seestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.607075,47.257084,8.607075,47.257084",
     "geom:latitude":47.257084,
     "geom:longitude":8.607075,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Seestrasse 240",
     "sg:city":"Horgen",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_5xGnyTUTXGhZNs5eUKR5o3_47.257084_8.607075@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0a63bac303d682b861ad10042b5401d6",
+    "wof:geomhash":"7981d2c33b7d82aac2628623de7162c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236645879,
-    "wof:lastmodified":1473798444,
+    "wof:lastmodified":1510944151,
     "wof:name":"St\u00e4ubli Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

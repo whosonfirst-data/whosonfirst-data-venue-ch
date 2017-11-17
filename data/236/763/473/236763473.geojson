@@ -7,13 +7,16 @@
     "addr:postcode":"9242",
     "addr:street":"Freudenbergstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.122867,47.431648,9.122867,47.431648",
     "geom:latitude":47.431648,
     "geom:longitude":9.122867,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Freudenbergstr. 2",
     "sg:city":"Oberuzwil",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_56Duwi1Vkxw7vIGPOsLPwh_47.431648_9.122867@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5613aaacfa524b5643cf933de982301b",
+    "wof:geomhash":"ba0aca479738da72007f50d0369825ca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236763473,
-    "wof:lastmodified":1473798453,
+    "wof:lastmodified":1510943025,
     "wof:name":"Strumpffabrik Rosengarten Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075116967
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "textile",

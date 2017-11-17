@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4571256638,47.3984451294,8.4571256638,47.3984451294",
     "geom:latitude":47.398445,
     "geom:longitude":8.457126,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Z\u00fcrcherstrasse 81",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473739483,
-    "wof:geomhash":"882a96dab0448de3f035cfcab7bfaa90",
+    "wof:geomhash":"6f8e332ead7fd2acdab64e555525109e",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075073395,
-    "wof:lastmodified":1473739483,
+    "wof:lastmodified":1510943732,
     "wof:name":"Veralit Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262851
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

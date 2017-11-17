@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5283794403,47.4518966675,8.5283794403,47.4518966675",
     "geom:latitude":47.451897,
     "geom:longitude":8.528379,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Glattalstrasse 172 8153 R\u00fcmlang. Postfach 130",
     "sg:city":"R\u00fcmlang",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473735419,
-    "wof:geomhash":"6fac0fccc6dc58aadf5e26c7c79700cf",
+    "wof:geomhash":"16422c14b6faf496485990a42ba8fc8d",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1074993619,
-    "wof:lastmodified":1473735419,
+    "wof:lastmodified":1510943531,
     "wof:name":"Tecnicoil Ag",
     "wof:parent_id":85800165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

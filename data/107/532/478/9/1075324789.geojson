@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1555361748,46.2026100159,6.1555361748,46.2026100159",
     "geom:latitude":46.20261,
     "geom:longitude":6.155536,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Rh\u00f4ne 67",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750945,
-    "wof:geomhash":"bf6e07ca7019cd883cbb8a5eea386022",
+    "wof:geomhash":"dcf10660be50cb2d751cc6690b64bed3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075324789,
-    "wof:lastmodified":1473750945,
+    "wof:lastmodified":1510943908,
     "wof:name":"Segafredo Zanetti Sa",
     "wof:parent_id":85800193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075650475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

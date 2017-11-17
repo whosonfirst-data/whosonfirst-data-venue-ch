@@ -7,13 +7,16 @@
     "addr:postcode":"8500 frauenfeld. postfach 2164;8502",
     "addr:street":"Schoenenhofstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.870874,47.55299,8.870874,47.55299",
     "geom:latitude":47.55299,
     "geom:longitude":8.870874,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sch\u00f6nenhofstrasse 19 8500 Frauenfeld. Postfach 2164",
     "sg:city":"Frauenfeld",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_3Rlu6gnSbPtOmec7snj3c1_47.552990_8.870874@1306268674"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4d3007c73bc72973cb0a5dbc87f68a9c",
+    "wof:geomhash":"a131fd6f2c23f924c4804a576d0e6b17",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":169688287,
-    "wof:lastmodified":1473798133,
+    "wof:lastmodified":1510943082,
     "wof:name":"Telcoma Angehrn + Wyss Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186565407
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

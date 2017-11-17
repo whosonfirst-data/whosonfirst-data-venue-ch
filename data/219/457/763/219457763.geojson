@@ -7,13 +7,16 @@
     "addr:postcode":"2560",
     "addr:street":"Mittelstr.;Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.238158,47.12521,7.238158,47.12521",
     "geom:latitude":47.12521,
     "geom:longitude":7.238158,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mittelstr. 24",
     "sg:city":"Nidau",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_69tmEW1u4Wg2c7iqUqBbeG_47.125210_7.238158@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"60d1cc5231a4be764c063edad2eb99fc",
+    "wof:geomhash":"72579b4401c672b7286b9efcfef333a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +61,18 @@
         }
     ],
     "wof:id":219457763,
-    "wof:lastmodified":1473798313,
+    "wof:lastmodified":1510943204,
     "wof:name":"Comco Holding Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075130071,
+        1075514735
+    ],
+    "wof:supersedes":[
+        169739859
+    ],
     "wof:tags":[
         "banking",
         "insurance",

@@ -7,13 +7,16 @@
     "addr:postcode":"2001",
     "addr:street":"Place Pury",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.928793,46.98988,6.928793,46.98988",
     "geom:latitude":46.98988,
     "geom:longitude":6.928793,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Pury 4",
     "sg:city":"Neuch\u00e2tel",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7RWcbkcV5zOb8TDidtqDge_46.989880_6.928793@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4e174f2ec99b7fbfd6e672d0953e5708",
+    "wof:geomhash":"f91d2ecd153d9954361d2e83e16be04b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":169628177,
-    "wof:lastmodified":1473798072,
+    "wof:lastmodified":1510941824,
     "wof:name":"Banque Cantonale, Neuchateloise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169595299
+    ],
+    "wof:supersedes":[
+        169595299
+    ],
     "wof:tags":[]
 },
   "bbox": [

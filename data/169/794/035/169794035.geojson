@@ -7,13 +7,16 @@
     "addr:postcode":"4002",
     "addr:street":"St. Jakobs-Strasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.607103,47.543877,7.607103,47.543877",
     "geom:latitude":47.543877,
     "geom:longitude":7.607103,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"St. Jakobs-strasse 200",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_1svZV64uWVBCBN2GYzT84e_47.543877_7.607103@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fce2cf5abfe759b1819453c38f7c4673",
+    "wof:geomhash":"1bc1f4b16a4dc7176906346c4b69b7b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169794035,
-    "wof:lastmodified":1473798326,
+    "wof:lastmodified":1510943816,
     "wof:name":"Fm Verzollungs Ag",
     "wof:parent_id":85799987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075535259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

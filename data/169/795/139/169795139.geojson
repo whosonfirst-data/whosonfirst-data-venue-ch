@@ -7,13 +7,16 @@
     "addr:postcode":"8902",
     "addr:street":"Steinackerstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.420175,47.394066,8.420175,47.394066",
     "geom:latitude":47.394066,
     "geom:longitude":8.420175,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinackerstr. 10",
     "sg:city":"Urdorf",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_2hKflrv2mry0IUYKeeuEJ1_47.394066_8.420175@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3398ae9c3637b6c43f4dce476a5637d9",
+    "wof:geomhash":"1a3df94d0dc50388678541acaa538eec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169795139,
-    "wof:lastmodified":1473798312,
+    "wof:lastmodified":1510942361,
     "wof:name":"Gebr. Tobler Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074904661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

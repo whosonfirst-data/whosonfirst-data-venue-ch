@@ -7,13 +7,16 @@
     "addr:postcode":"8032",
     "addr:street":"Othmarstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.549349,47.364605,8.549349,47.364605",
     "geom:latitude":47.364605,
     "geom:longitude":8.549349,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Othmarstrasse 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6byeCFZJNWultyrda5JJhh_47.364605_8.549349@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fbe87090b5207f6e3206bd638713887d",
+    "wof:geomhash":"0453e64743323769250aa0eb809bf4f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,16 @@
         }
     ],
     "wof:id":169738387,
-    "wof:lastmodified":1473798309,
+    "wof:lastmodified":1510942822,
     "wof:name":"Atlantic Forfaitierungs Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074892921,
+        219456629,
+        169757735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

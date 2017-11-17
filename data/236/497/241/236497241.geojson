@@ -7,13 +7,16 @@
     "addr:postcode":"8604",
     "addr:street":"Industriestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.679226,47.379795,8.679226,47.379795",
     "geom:latitude":47.379795,
     "geom:longitude":8.679226,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 24",
     "sg:city":"Volketswil",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_0bHGLOBlTiqXcyR7BHv2Tx_47.379795_8.679226@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"ffef5354c3d296097e4d46f86bf0f355",
+    "wof:geomhash":"08edfc545c56537463fd952033977a9a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236497241,
-    "wof:lastmodified":1473798397,
+    "wof:lastmodified":1510941284,
     "wof:name":"Ganahl Ag",
     "wof:parent_id":85859527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075271147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

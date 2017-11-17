@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.587843895,47.411907196,8.587843895,47.411907196",
     "geom:latitude":47.411907,
     "geom:longitude":8.587844,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 33",
     "sg:city":"Wallisellen",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750731,
-    "wof:geomhash":"c3efe80f900635ec6ce0018e50303d55",
+    "wof:geomhash":"bb980eb8752ca1b5cd186ad8c35bd24b",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075319395,
-    "wof:lastmodified":1473750731,
+    "wof:lastmodified":1510941359,
     "wof:name":"Pnc Group Gmbh",
     "wof:parent_id":85862357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075645309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8006",
     "addr:street":"Hadlaubstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.552099,47.385452,8.552099,47.385452",
     "geom:latitude":47.385452,
     "geom:longitude":8.552099,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hadlaubstrasse 66",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3DnJX8aPeD2AnPFSy8VPbF_47.385452_8.552099@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"bdeb9fac71730ebb4e93681864a106e8",
+    "wof:geomhash":"d7cc2a50e1634c8ebb53db3bc6d8c2af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":185631877,
-    "wof:lastmodified":1473798045,
+    "wof:lastmodified":1510942716,
     "wof:name":"Rowak Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075374367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sealant",

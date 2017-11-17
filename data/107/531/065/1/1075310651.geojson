@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5346384048,47.369354248,8.5346384048,47.369354248",
     "geom:latitude":47.369354,
     "geom:longitude":8.534638,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schanzeneggstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750257,
-    "wof:geomhash":"c4aae92ca753f8bd54e34a60b59d74e0",
+    "wof:geomhash":"99bf6b823aeedbb33d05745720c48f42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075310651,
-    "wof:lastmodified":1473750257,
+    "wof:lastmodified":1510942022,
     "wof:name":"Lago Immobilien Z\u00fcrich Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075636797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

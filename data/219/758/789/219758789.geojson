@@ -7,13 +7,16 @@
     "addr:postcode":"8472",
     "addr:street":"Birchstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.736117,47.536427,8.736117,47.536427",
     "geom:latitude":47.536427,
     "geom:longitude":8.736117,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Birchstr. 4",
     "sg:city":"Seuzach",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7MFvge4DoT8SDhGh2GkguJ_47.536427_8.736117@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"3ce7e10cf3182af378a755b9b3cceef0",
+    "wof:geomhash":"93a07766a923542e86d20e80a5806e92",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219758789,
-    "wof:lastmodified":1473798402,
+    "wof:lastmodified":1510943850,
     "wof:name":"Z\u00fcrcher Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075203041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

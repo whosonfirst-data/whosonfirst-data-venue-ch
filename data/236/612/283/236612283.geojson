@@ -7,13 +7,16 @@
     "addr:postcode":"8953",
     "addr:street":"Riedstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.39543,47.420441,8.39543,47.420441",
     "geom:latitude":47.420441,
     "geom:longitude":8.39543,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Riedstrasse 14",
     "sg:city":"Dietikon",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_4JCoLi34ut8rFXsWCEpu2s_47.420441_8.395430@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"35b1d6e200e33da9a168d0ffadae8ea7",
+    "wof:geomhash":"8dd532a0d97144c53563881b98052082",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":236612283,
-    "wof:lastmodified":1473798426,
+    "wof:lastmodified":1510942047,
     "wof:name":"Rotring Data Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075507741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5412349701,46.9045791626,7.5412349701,46.9045791626",
     "geom:latitude":46.904579,
     "geom:longitude":7.541235,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schwarzbachstr. 26",
     "sg:city":"Rubigen",
     "sg:classifiers":[
@@ -40,15 +43,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473732273,
-    "wof:geomhash":"8f2aa77f46a39e43beb621ebff5d9736",
+    "wof:geomhash":"29a3a5b2c32c9ba86787aaa2bd1a2f4e",
     "wof:hierarchy":[],
     "wof:id":1074938075,
-    "wof:lastmodified":1473732273,
+    "wof:lastmodified":1510942412,
     "wof:name":"Frei F\u00d6rdertechnik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075060931
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "handling",

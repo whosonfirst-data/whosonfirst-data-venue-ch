@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.629638195,46.7614479065,7.629638195,46.7614479065",
     "geom:latitude":46.761448,
     "geom:longitude":7.629638,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Burgstrasse 18",
     "sg:city":"Thun",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750013,
-    "wof:geomhash":"fa54602cfc80e074d56602d9ba5d1e16",
+    "wof:geomhash":"49a8cf5dc8e1eb2727167a74af49fb01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075306863,
-    "wof:lastmodified":1473750013,
+    "wof:lastmodified":1510943471,
     "wof:name":"Impuls Holding Ag",
     "wof:parent_id":85800489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075632953
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

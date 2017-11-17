@@ -7,13 +7,16 @@
     "addr:postcode":"3063",
     "addr:street":"Pulverstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.469139,46.977245,7.469139,46.977245",
     "geom:latitude":46.977245,
     "geom:longitude":7.469139,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pulverstrasse 8",
     "sg:city":"Ittigen",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_41w1fmVnr5TGOAuhYfY4EZ_46.977245_7.469139@1306268619"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b51e9d9e7af68961cd4a1be355981727",
+    "wof:geomhash":"853888e9ea54e0339a6f07bc869bb773",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":202901921,
-    "wof:lastmodified":1473798346,
+    "wof:lastmodified":1510942935,
     "wof:name":"Micatel-kommunikations Ag",
     "wof:parent_id":85800083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075607367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

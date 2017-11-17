@@ -7,13 +7,16 @@
     "addr:postcode":"4500",
     "addr:street":"Loretostrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.528953,47.211048,7.528953,47.211048",
     "geom:latitude":47.211048,
     "geom:longitude":7.528953,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Loretostrasse 33",
     "sg:city":"Solothurn",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2QK1na3SwUYAgw7VQbKWNl_47.211048_7.528953@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"118bf1006a1c285343ae10a9b5bf7f1e",
+    "wof:geomhash":"59a08ca47d3c42cc09f4655103d5dab3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":185659057,
-    "wof:lastmodified":1473798069,
+    "wof:lastmodified":1510944170,
     "wof:name":"Chrono Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075379367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"

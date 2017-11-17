@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6992602348,47.1936988831,7.6992602348,47.1936988831",
     "geom:latitude":47.193699,
     "geom:longitude":7.69926,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hofmattstr. 24",
     "sg:city":"Herzogenbuchsee",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730673,
-    "wof:geomhash":"e8ae32c99541e4d5d0da974245781417",
+    "wof:geomhash":"ecbd7efa725b1176bf3cded31972bca8",
     "wof:hierarchy":[],
     "wof:id":1074903991,
-    "wof:lastmodified":1473730673,
+    "wof:lastmodified":1510942015,
     "wof:name":"Schwarz Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075117535
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

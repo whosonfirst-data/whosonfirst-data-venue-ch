@@ -7,13 +7,16 @@
     "addr:postcode":"8027",
     "addr:street":"Genferstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.534905,47.364388,8.534905,47.364388",
     "geom:latitude":47.364388,
     "geom:longitude":8.534905,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Genferstr. 8",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_4cj3dCeR5Bcf8ezwDPWfjR_47.364388_8.534905@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6d7c20d4efff3014720e9d93cc865426",
+    "wof:geomhash":"47dc8cc77234fe12b3fddb319e7e45aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":219457857,
-    "wof:lastmodified":1473798327,
+    "wof:lastmodified":1510942930,
     "wof:name":"Hsbc Guyerzeller Bank Ag",
     "wof:parent_id":85799955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        185859681
+    ],
+    "wof:supersedes":[
+        169740553
+    ],
     "wof:tags":[
         "banking",
         "insurance",

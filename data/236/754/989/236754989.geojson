@@ -7,13 +7,16 @@
     "addr:postcode":"2543",
     "addr:street":"Bielstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.361556,47.180305,7.361556,47.180305",
     "geom:latitude":47.180305,
     "geom:longitude":7.361556,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bielstrasse 45",
     "sg:city":"Lengnau",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1YT8yjuDTc4xp87iYeNQwK_47.180305_7.361556@1306268637"
     },
     "wof:country":"CH",
-    "wof:geomhash":"165bd318a13e09652d8e9cd8147ecf97",
+    "wof:geomhash":"9a83029ca513fd3b40543d482f981ea3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236754989,
-    "wof:lastmodified":1473798451,
+    "wof:lastmodified":1510942656,
     "wof:name":"Rado Uhren Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075379573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "component",

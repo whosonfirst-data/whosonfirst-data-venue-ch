@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1215481758,46.2094192505,6.1215481758,46.2094192505",
     "geom:latitude":46.209419,
     "geom:longitude":6.121548,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Lyon 114",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749782,
-    "wof:geomhash":"ca8422d4eefadb8edce200968bd7de26",
+    "wof:geomhash":"aacf5d3e8bbecd661b03b7ce9961acf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075300997,
-    "wof:lastmodified":1473749782,
+    "wof:lastmodified":1510942571,
     "wof:name":"Francisco Rodrigues Peinture Atelier De L'arve",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075627123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

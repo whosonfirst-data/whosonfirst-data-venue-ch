@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8395881653,46.9406738281,6.8395881653,46.9406738281",
     "geom:latitude":46.940674,
     "geom:longitude":6.839588,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"En Segrin 1",
     "sg:city":"Cortaillod",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730766,
-    "wof:geomhash":"f27f4cb94b4f47fe6868242e0df1c4b4",
+    "wof:geomhash":"73e5961347a95d8c3ca40e79773fd0c5",
     "wof:hierarchy":[],
     "wof:id":1074905597,
-    "wof:lastmodified":1473730766,
+    "wof:lastmodified":1510941780,
     "wof:name":"Qualidess Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075092815
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4108400345,47.421295166,8.4108400345,47.421295166",
     "geom:latitude":47.421295,
     "geom:longitude":8.41084,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Huebwiesenstrasse 21 8954 Geroldswil. Postfach 173",
     "sg:city":"Geroldswil",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473732704,
-    "wof:geomhash":"3405fbd05bea5ba2e911978f47bae6ac",
+    "wof:geomhash":"360b7d6d9af0b5845f270572b71f3d0c",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1074946647,
-    "wof:lastmodified":1473732704,
+    "wof:lastmodified":1510943158,
     "wof:name":"Waris Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075152093
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

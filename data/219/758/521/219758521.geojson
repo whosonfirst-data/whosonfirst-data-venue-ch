@@ -7,13 +7,16 @@
     "addr:postcode":"8712",
     "addr:street":"Bahnhofstr.;Zuerich",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.71986,47.240452,8.71986,47.240452",
     "geom:latitude":47.240452,
     "geom:longitude":8.71986,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 12",
     "sg:city":"St\u00e4fa",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5GTLCsDWhKGv0GO2IJXVal_47.240452_8.719860@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"16303ebdd13ca0fb029e88858fc5ad44",
+    "wof:geomhash":"630223d5cef60e0686db3c5acb440c90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219758521,
-    "wof:lastmodified":1473798396,
+    "wof:lastmodified":1510942920,
     "wof:name":"Z\u00fcrcher Kantonalbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075203019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

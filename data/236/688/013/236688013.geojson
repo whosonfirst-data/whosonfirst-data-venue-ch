@@ -7,13 +7,16 @@
     "addr:postcode":"8573",
     "addr:street":"Bahnhofstrasse;Thurgau",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.7875,46.938042,7.7875,46.938042",
     "geom:latitude":46.938042,
     "geom:longitude":7.7875,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstrasse 1",
     "sg:city":"Siegershausen",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1EL3kQxcN9kAaiE2d8EiZJ_46.938042_7.787500@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a899871ed4cd7f34f7384e1296990fbe",
+    "wof:geomhash":"738acf11b1b63feadaff99575ae8cf56",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236688013,
-    "wof:lastmodified":1473798427,
+    "wof:lastmodified":1510942114,
     "wof:name":"Tiger K\u00e4se Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236853529
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

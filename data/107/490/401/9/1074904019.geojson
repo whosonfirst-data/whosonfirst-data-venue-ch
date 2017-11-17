@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.1749687195,47.4044837952,8.1749687195,47.4044837952",
     "geom:latitude":47.404484,
     "geom:longitude":8.174969,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wildeggerstr. 1",
     "sg:city":"Niederlenz",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730674,
-    "wof:geomhash":"dc4abd03e8a90028eca7b46421093d00",
+    "wof:geomhash":"3b40cdfdcd791f12231bc7e1b832ad66",
     "wof:hierarchy":[],
     "wof:id":1074904019,
-    "wof:lastmodified":1473730674,
+    "wof:lastmodified":1510944021,
     "wof:name":"Stawo Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074957287
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

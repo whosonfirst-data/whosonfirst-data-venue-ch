@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4509477615,47.4006156921,8.4509477615,47.4006156921",
     "geom:latitude":47.400616,
     "geom:longitude":8.450948,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R\u00fctistrasse 16",
     "sg:city":"Schlieren",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726894,
-    "wof:geomhash":"dff7c278d9163cb9323dbe36c15cac83",
+    "wof:geomhash":"9e29300366632640de25d7aa5e8c15d2",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":1074830141,
-    "wof:lastmodified":1473726894,
+    "wof:lastmodified":1510942042,
     "wof:name":"Elrec Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075058041
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "component",

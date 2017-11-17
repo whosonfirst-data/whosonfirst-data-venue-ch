@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,6 +12,7 @@
     "geom:longitude":6.157082,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ador Quai Gustave- 18 1207 Gen\u00e8ve. Postfach",
     "sg:city":"Gen\u00e8ve",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751140,
-    "wof:geomhash":"5ff6f459a172dad52652ba20e333ddf8",
+    "wof:geomhash":"7ac91d8d8daa63f6cf331545e3ad5273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":1075329473,
-    "wof:lastmodified":1491885303,
+    "wof:lastmodified":1510941614,
     "wof:name":"Soci\u00e9t\u00e9 Immobili\u00e8re Corsier-paradis",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075655191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

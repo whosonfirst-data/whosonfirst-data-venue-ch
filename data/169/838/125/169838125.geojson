@@ -7,13 +7,16 @@
     "addr:postcode":"8450",
     "addr:street":"Industriestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.69173,47.592747,8.69173,47.592747",
     "geom:latitude":47.592747,
     "geom:longitude":8.69173,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 10",
     "sg:city":"Andelfingen",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2Q9D24qS7xnsUqLyDFrbDG_47.592747_8.691730@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"91400fe799bb3f8edd49d868df8697bc",
+    "wof:geomhash":"b25cfd83dc8ac263a037a323a06ab735",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":169838125,
-    "wof:lastmodified":1473798332,
+    "wof:lastmodified":1510942437,
     "wof:name":"Meister Abrasives Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074903929
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "abrasive"

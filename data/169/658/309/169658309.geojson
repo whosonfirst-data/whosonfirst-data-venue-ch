@@ -7,13 +7,16 @@
     "addr:postcode":"6102",
     "addr:street":"Werkstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.179111,47.041588,8.179111,47.041588",
     "geom:latitude":47.041588,
     "geom:longitude":8.179111,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werkstrasse 6",
     "sg:city":"Malters",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3R5xVkIEN8QX6sPbcF60ph_47.041588_8.179111@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"004027e7e08cb7b9ef20316a466196a8",
+    "wof:geomhash":"fbc751e67dd7a6afb0a3634ba4bc3b18",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":169658309,
-    "wof:lastmodified":1473798095,
+    "wof:lastmodified":1510944057,
     "wof:name":"Josef Koch Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074905777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "making",

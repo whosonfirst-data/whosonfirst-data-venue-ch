@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6357841492,47.4229431152,9.6357841492,47.4229431152",
     "geom:latitude":47.422943,
     "geom:longitude":9.635784,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 143",
     "sg:city":"Au",
     "sg:classifiers":[
@@ -34,15 +37,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473746943,
-    "wof:geomhash":"a3d437d57ed2562789f9379c43f0d64d",
+    "wof:geomhash":"a380729658e6960e067f4946bfe070d8",
     "wof:hierarchy":[],
     "wof:id":1075235183,
-    "wof:lastmodified":1473746943,
+    "wof:lastmodified":1510941995,
     "wof:name":"Sowa Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075235243
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"

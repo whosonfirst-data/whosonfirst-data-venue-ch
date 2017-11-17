@@ -7,13 +7,16 @@
     "addr:postcode":"8753",
     "addr:street":"Oberruetelistrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.069602,47.091358,9.069602,47.091358",
     "geom:latitude":47.091358,
     "geom:longitude":9.069602,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberr\u00fctelistrasse 13",
     "sg:city":"Mollis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_2fbM3RngiPC9TE97fbbQ9c_47.091358_9.069602@1306268623"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c3179f3371ec7729d1dbd2f212a0b331",
+    "wof:geomhash":"525cc09cccd267c937a0d6bd8f096f66",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":219202799,
-    "wof:lastmodified":1473798058,
+    "wof:lastmodified":1510942709,
     "wof:name":"Chs Elektronik Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075054551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assembly",

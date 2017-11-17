@@ -7,13 +7,16 @@
     "addr:postcode":"7000;postfach;7000",
     "addr:street":"Masanserstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.534526,46.861984,9.534526,46.861984",
     "geom:latitude":46.861984,
     "geom:longitude":9.534526,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Masanserstrasse 136 7000 Chur. Postfach",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_49ElvueCuXc8P8ZDujAX0Z_46.861984_9.534526@1306268649"
     },
     "wof:country":"CH",
-    "wof:geomhash":"ff589f4c1dfa32c02496ced578200221",
+    "wof:geomhash":"f5e2a2d81d9d086f4b834f89e9b43c4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169670125,
-    "wof:lastmodified":1473798100,
+    "wof:lastmodified":1510941980,
     "wof:name":"M\u00f6bel Stocker Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075148435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5089907646,47.5411567688,7.5089907646,47.5411567688",
     "geom:latitude":47.541157,
     "geom:longitude":7.508991,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Baselstrasse 61",
     "sg:city":"Sch\u00f6nenbuch",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473735239,
-    "wof:geomhash":"c4d1942729621c1c8e2d7428b3ddedac",
+    "wof:geomhash":"7a06843d895b9234df61a07de70d1e39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1074990391,
-    "wof:lastmodified":1473735239,
+    "wof:lastmodified":1510941344,
     "wof:name":"Plastic Omnium Ag",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075346339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

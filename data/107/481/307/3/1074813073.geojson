@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.1000518799,47.1765289307,8.1000518799,47.1765289307",
     "geom:latitude":47.176529,
     "geom:longitude":8.100052,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zeughausstrasse 21",
     "sg:city":"Sursee",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726033,
-    "wof:geomhash":"82682e4c5c209d042d45ff91d02c077f",
+    "wof:geomhash":"5642538da7dfa75436374bf17bb57ae3",
     "wof:hierarchy":[],
     "wof:id":1074813073,
-    "wof:lastmodified":1473726033,
+    "wof:lastmodified":1510941484,
     "wof:name":"Wega Nova Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "water",

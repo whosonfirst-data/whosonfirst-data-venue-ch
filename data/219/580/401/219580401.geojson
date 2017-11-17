@@ -7,13 +7,16 @@
     "addr:postcode":"5262",
     "addr:street":"Hauptstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.021213,47.507355,8.021213,47.507355",
     "geom:latitude":47.507355,
     "geom:longitude":8.021213,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 53",
     "sg:city":"Frick",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1ZGvn1UUJ82aVxQAsqMx0E_47.507355_8.021213@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b3f43707ca81e05ddc8096f4388a368d",
+    "wof:geomhash":"a327b45d540e40f254ca89dadbfe470d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":219580401,
-    "wof:lastmodified":1473798366,
+    "wof:lastmodified":1510943492,
     "wof:name":"Neue Aargauer, Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075398729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

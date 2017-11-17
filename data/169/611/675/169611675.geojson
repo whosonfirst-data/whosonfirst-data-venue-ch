@@ -7,13 +7,16 @@
     "addr:postcode":"5430 wettingen.;5430",
     "addr:street":"Hardstrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.338192,47.456219,8.338192,47.456219",
     "geom:latitude":47.456219,
     "geom:longitude":8.338192,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hardstrasse 73 5430 Wettingen. Postfach 280",
     "sg:city":"Wettingen",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_61RrH4LUFdI4GFrx1IXEtx_47.456219_8.338192@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"83df70ff27a0d1dc839505ab301927a8",
+    "wof:geomhash":"6e09d75eaa71729cc32c897397e3c21c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169611675,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1510943949,
     "wof:name":"Nagra, Nationale Genossenschaft F\u00fcr Die Lagerung Radioaktiver Abf\u00e4lle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169716729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

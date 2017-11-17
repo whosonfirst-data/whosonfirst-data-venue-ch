@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.066986084,47.0410118103,9.066986084,47.0410118103",
     "geom:latitude":47.041012,
     "geom:longitude":9.066986,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstrasse 49",
     "sg:city":"Glarus",
     "sg:classifiers":[
@@ -34,15 +37,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473730077,
-    "wof:geomhash":"4f019c7c22b42b937cff9f1be956fc51",
+    "wof:geomhash":"d4baa0a48132e7ea23b0204cd4536993",
     "wof:hierarchy":[],
     "wof:id":1074892155,
-    "wof:lastmodified":1473730077,
+    "wof:lastmodified":1510941352,
     "wof:name":"Konserval-pharmacon Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074949241
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industry"

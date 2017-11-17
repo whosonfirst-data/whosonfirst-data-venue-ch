@@ -7,13 +7,16 @@
     "addr:postcode":"4410",
     "addr:street":"Grammetstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.748125,47.478436,7.748125,47.478436",
     "geom:latitude":47.478436,
     "geom:longitude":7.748125,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grammetstrasse 14",
     "sg:city":"Liestal",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4SB1pH3tRhU2dxRXifHb8P_47.478436_7.748125@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"8ef6a52193aef1d17d75064ef3808914",
+    "wof:geomhash":"eb560fd4876250aaac0c1156ecca327c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236610089,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1510942917,
     "wof:name":"Geocad Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075129115
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "application",

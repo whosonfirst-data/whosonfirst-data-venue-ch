@@ -7,13 +7,16 @@
     "addr:postcode":"2024",
     "addr:street":"Rue De La Couronne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.775278,46.895462,6.775278,46.895462",
     "geom:latitude":46.895462,
     "geom:longitude":6.775278,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Couronne 3",
     "sg:city":"St. Aubin",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7Hp7F6I9BM4KXOMd4UNp0u_46.895462_6.775278@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"f419561e28256aa2d958f7a168cfacbf",
+    "wof:geomhash":"feddd3209ac862f5d6c2115ce36c7f05",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219494045,
-    "wof:lastmodified":1473798312,
+    "wof:lastmodified":1510943089,
     "wof:name":"Banque Cantonale, Neuch\u00e2teloise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

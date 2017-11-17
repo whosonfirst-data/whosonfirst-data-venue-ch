@@ -7,13 +7,16 @@
     "addr:postcode":"3072",
     "addr:street":"Grubenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.488626,46.960117,7.488626,46.960117",
     "geom:latitude":46.960117,
     "geom:longitude":7.488626,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grubenstrasse 26",
     "sg:city":"Ostermundigen",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_47w8tNXRyhQno57HvEhTZA_46.960117_7.488626@1306268751"
     },
     "wof:country":"CH",
-    "wof:geomhash":"09a517f119cd3ef1be6810ef4ea22ca1",
+    "wof:geomhash":"c84ef2c593623faf8b44a8f42e88929a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169722163,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1510943745,
     "wof:name":"Ibf Institut F\u00fcr Betriebsinformatik",
     "wof:parent_id":85800381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074852129
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industry",

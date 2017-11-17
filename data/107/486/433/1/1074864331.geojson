@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5973110199,46.9319915771,7.5973110199,46.9319915771",
     "geom:latitude":46.931992,
     "geom:longitude":7.597311,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Biglenstr. 505",
     "sg:city":"Enggistein",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473728584,
-    "wof:geomhash":"1d9bab78c04b1e9c0690615f24ec1c9d",
+    "wof:geomhash":"eb97586035a14648b1b1176f60bfeaf2",
     "wof:hierarchy":[],
     "wof:id":1074864331,
-    "wof:lastmodified":1473728584,
+    "wof:lastmodified":1510942030,
     "wof:name":"Fissco Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075119657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "textile",

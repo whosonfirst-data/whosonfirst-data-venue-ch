@@ -7,13 +7,16 @@
     "addr:postcode":"1450",
     "addr:street":"Rue Des Rasses",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.507556,46.823429,6.507556,46.823429",
     "geom:latitude":46.823429,
     "geom:longitude":6.507556,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Rasses 26",
     "sg:city":"Ste-croix",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0SjM3ziYg9IGKcN3oPfwar_46.823429_6.507556@1306268720"
     },
     "wof:country":"CH",
-    "wof:geomhash":"285ba16e35ee57503071b33558b6e5c9",
+    "wof:geomhash":"5d0efcdd51e05c0b807d4e934e5e6970",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":169700915,
-    "wof:lastmodified":1473798286,
+    "wof:lastmodified":1510942850,
     "wof:name":"Reuge S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075269275
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "box"

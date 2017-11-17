@@ -7,13 +7,16 @@
     "addr:postcode":"8268",
     "addr:street":"Fruthwiler Strasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.061084,47.667957,9.061084,47.667957",
     "geom:latitude":47.667957,
     "geom:longitude":9.061084,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fruthwiler Strasse 11",
     "sg:city":"Salenstein",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_2VuCKGuytqionH75z8RrjZ_47.667957_9.061084@1306268629"
     },
     "wof:country":"CH",
-    "wof:geomhash":"a2d502c82da24327042802b35ce4baca",
+    "wof:geomhash":"d44bc5541446b76631b98bc15fc1ffe9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":219937577,
-    "wof:lastmodified":1473798420,
+    "wof:lastmodified":1510941455,
     "wof:name":"Ilg Strassenbau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075306481
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

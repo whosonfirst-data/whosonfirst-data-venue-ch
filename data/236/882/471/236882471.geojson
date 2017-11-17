@@ -7,13 +7,16 @@
     "addr:postcode":"8105",
     "addr:street":"Pumpwerkstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.459474,47.444405,8.459474,47.444405",
     "geom:latitude":47.444405,
     "geom:longitude":8.459474,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pumpwerkstrasse 23",
     "sg:city":"Regensdorf",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_7m1W31eiYibxeBpPxiFRA6_47.444405_8.459474@1306268638"
     },
     "wof:country":"CH",
-    "wof:geomhash":"72782e2ff219c1f85ec193917aa9a5a9",
+    "wof:geomhash":"167bff8576ae9487128ffceb3fca2e53",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236882471,
-    "wof:lastmodified":1473798453,
+    "wof:lastmodified":1510942145,
     "wof:name":"Definitiv Organisation Ag",
     "wof:parent_id":85862293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074947143
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "protection",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5163793564,47.3899230957,8.5163793564,47.3899230957",
     "geom:latitude":47.389923,
     "geom:longitude":8.516379,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Technoparkstrasse 1",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473725948,
-    "wof:geomhash":"fcbecfba1e4b6c239de7633d7cd1cd64",
+    "wof:geomhash":"554fb1864730b410005a0d72c4972a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1074811295,
-    "wof:lastmodified":1473725948,
+    "wof:lastmodified":1510941659,
     "wof:name":"Micronas Semiconductor Holding Ag",
     "wof:parent_id":85862359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075389001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

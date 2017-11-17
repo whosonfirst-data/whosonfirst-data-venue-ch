@@ -7,13 +7,16 @@
     "addr:postcode":"5616",
     "addr:street":"Lindenmattstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.231664,47.296558,8.231664,47.296558",
     "geom:latitude":47.296558,
     "geom:longitude":8.231664,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lindenmattstr. 16",
     "sg:city":"Meisterschwanden",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2HpLdVMc8Clte27rtE0ypt_47.296558_8.231664@1306268718"
     },
     "wof:country":"CH",
-    "wof:geomhash":"582cb194a66ce70ccec85e8b737e2e3b",
+    "wof:geomhash":"ca06bb73911e63b7783bc909cede3013",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":169693507,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1510943135,
     "wof:name":"Retech Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075059013
+    ],
+    "wof:supersedes":[
+        169687529
+    ],
     "wof:tags":[
         "equipment",
         "measurement",

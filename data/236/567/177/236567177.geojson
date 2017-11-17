@@ -7,13 +7,16 @@
     "addr:postcode":"6343",
     "addr:street":"Grundstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.430782,47.146004,8.430782,47.146004",
     "geom:latitude":47.146004,
     "geom:longitude":8.430782,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grundstrasse 16",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4yAh0wjO5RTveT74PR3A4P_47.146004_8.430782@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"597a56c89a968a52a65bbc5d173bb49a",
+    "wof:geomhash":"716a9e3072e423359c0f8e9a09b24565",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236567177,
-    "wof:lastmodified":1473798423,
+    "wof:lastmodified":1510941960,
     "wof:name":"Ceotronics Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074959539
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast",

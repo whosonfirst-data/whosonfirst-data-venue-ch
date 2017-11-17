@@ -7,13 +7,16 @@
     "addr:postcode":"1004",
     "addr:street":"Av. De Morges",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.619486,46.52496,6.619486,46.52496",
     "geom:latitude":46.52496,
     "geom:longitude":6.619486,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av. De Morges 24",
     "sg:city":"Lausanne",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5VJ8z1OoQXAsVx1Y8jfxVY_46.524960_6.619486@1306268790"
     },
     "wof:country":"CH",
-    "wof:geomhash":"9c2a74c70fbde405012fc4675593f2d4",
+    "wof:geomhash":"63f2d32be7d48aa05ee07f3a28971d2d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":169736981,
-    "wof:lastmodified":1473798326,
+    "wof:lastmodified":1510943008,
     "wof:name":"Albertsol S\u00c0rl",
     "wof:parent_id":85862325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075347337
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"

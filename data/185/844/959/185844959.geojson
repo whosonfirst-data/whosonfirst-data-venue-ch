@@ -7,13 +7,16 @@
     "addr:postcode":"4663",
     "addr:street":"Dorfbachstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.899079,47.32019,7.899079,47.32019",
     "geom:latitude":47.32019,
     "geom:longitude":7.899079,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorfbachstrasse 2",
     "sg:city":"Aarburg",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_4rr1zcQ9BEu1wBQf5Fe1FD_47.320190_7.899079@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"73be25bf3d8f9811a669c523e6e33260",
+    "wof:geomhash":"0fa2c078416eea080c8ff53e0ff7203d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":185844959,
-    "wof:lastmodified":1473798225,
+    "wof:lastmodified":1510942333,
     "wof:name":"Franke Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075111495
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jet",

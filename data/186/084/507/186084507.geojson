@@ -7,13 +7,16 @@
     "addr:postcode":"5401;5401",
     "addr:street":"Bruggerstrasse;Postfach",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.304784,47.476402,8.304784,47.476402",
     "geom:latitude":47.476402,
     "geom:longitude":8.304784,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bruggerstrasse 37 5401 Baden. Postfach 59",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_0mPLYd669GtJo1yWY9f8WQ_47.476402_8.304784@1306268613"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5f3b11dd41549ecb15618f6cf58a3763",
+    "wof:geomhash":"dc599a326841c79df66f196515860200",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":186084507,
-    "wof:lastmodified":1473798075,
+    "wof:lastmodified":1510941969,
     "wof:name":"Gfeller Ag Bauunternehmung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186426049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8645",
     "addr:street":"Buechstr.;Jona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.865875,47.225475,8.865875,47.225475",
     "geom:latitude":47.225475,
     "geom:longitude":8.865875,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B\u00fcchstr. 11",
     "sg:city":"Jona",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3BKUU85pDGiMQVPnJAm9dG_47.225475_8.865875@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"36208460c703accef8e7964b1a80072a",
+    "wof:geomhash":"1d35c5f6ddf38d05b7a0d3c917cd3faf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236690085,
-    "wof:lastmodified":1473798430,
+    "wof:lastmodified":1510943404,
     "wof:name":"A Mueller Ag Druckfarbenfabrik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074905251
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical",

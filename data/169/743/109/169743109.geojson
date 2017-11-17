@@ -7,13 +7,16 @@
     "addr:postcode":"3011",
     "addr:street":"Marktgass-Passage",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.44629,46.947479,7.44629,46.947479",
     "geom:latitude":46.947479,
     "geom:longitude":7.44629,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Marktgass-passage 3",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_75gNdhftNiC9GI47i3WQJY_46.947479_7.446290@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"c0fce01df7c26feb9ff3accdecebfe90",
+    "wof:geomhash":"5c8d7d1148c7c86b2aa653f0a2045d0c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169743109,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1510941493,
     "wof:name":"Von Graffenried Ag",
     "wof:parent_id":85800203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074901949
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

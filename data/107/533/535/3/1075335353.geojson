@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3204393387,47.0553283691,8.3204393387,47.0553283691",
     "geom:latitude":47.055328,
     "geom:longitude":8.320439,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Haldenstrasse 12",
     "sg:city":"Luzern",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751373,
-    "wof:geomhash":"cec16c8963c044f8d336d0356fcf43cb",
+    "wof:geomhash":"dd958ff25cce22e0cbd28bb546f4722f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075335353,
-    "wof:lastmodified":1473751373,
+    "wof:lastmodified":1510941343,
     "wof:name":"Unitubes Holding Ag",
     "wof:parent_id":85862461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075660971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

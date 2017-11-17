@@ -7,13 +7,16 @@
     "addr:postcode":"7000",
     "addr:street":"Comercialstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.508854,46.846725,9.508854,46.846725",
     "geom:latitude":46.846725,
     "geom:longitude":9.508854,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Comercialstrasse 24",
     "sg:city":"Chur",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_0AskzeD81jLjRuPfPsHUAj_46.846725_9.508854@1306268614"
     },
     "wof:country":"CH",
-    "wof:geomhash":"606a3861c63b2613c25bd074148a91a4",
+    "wof:geomhash":"d6b8b040fe9e75d522f4afd55c2ebb78",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":186252625,
-    "wof:lastmodified":1473798195,
+    "wof:lastmodified":1510942002,
     "wof:name":"Wolf Bau Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186462561
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

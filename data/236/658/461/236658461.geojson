@@ -7,13 +7,16 @@
     "addr:postcode":"5400",
     "addr:street":"Bruggerstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.304784,47.476402,8.304784,47.476402",
     "geom:latitude":47.476402,
     "geom:longitude":8.304784,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bruggerstrasse 37",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3BABd7NuZVoSe9184OFZ11_47.476402_8.304784@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"5f3b11dd41549ecb15618f6cf58a3763",
+    "wof:geomhash":"dc599a326841c79df66f196515860200",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236658461,
-    "wof:lastmodified":1473798432,
+    "wof:lastmodified":1510943932,
     "wof:name":"Wanner Visuelle Kommunikation Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075761031
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "catalogue"

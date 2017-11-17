@@ -7,13 +7,16 @@
     "addr:postcode":"9436",
     "addr:street":"Hauptstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.608963,47.40704,9.608963,47.40704",
     "geom:latitude":47.40704,
     "geom:longitude":9.608963,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstrasse 33",
     "sg:city":"Balgach",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_48RFLg0lXijCCkyryCqOm3_47.407040_9.608963@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"78a2fa42f7054a3501c63b8f7b6c042a",
+    "wof:geomhash":"eea0d5ba86d5b38b3b734994cb934581",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236658127,
-    "wof:lastmodified":1473798443,
+    "wof:lastmodified":1510942129,
     "wof:name":"Metzler & Co Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236762139
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "casual",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6492700577,46.5065956116,6.6492700577,46.5065956116",
     "geom:latitude":46.506596,
     "geom:longitude":6.64927,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"G\u00e9n\u00e9ral-guisan Avenue 44 1009 Pully. Postfach",
     "sg:city":"Pully",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751040,
-    "wof:geomhash":"2421aae33c844c0c0ad318822bdeda9c",
+    "wof:geomhash":"ef84f07e01d85e35b1a84236a21d2716",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":1075327215,
-    "wof:lastmodified":1473751040,
+    "wof:lastmodified":1510942721,
     "wof:name":"Si Parc Des Lilas Sa",
     "wof:parent_id":85799869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075652951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"6300",
     "addr:street":"Grienbachstrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.523443,47.183281,8.523443,47.183281",
     "geom:latitude":47.183281,
     "geom:longitude":8.523443,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grienbachstrasse 17",
     "sg:city":"Zug",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4zJz9E0LHB72XmoIVkrGcT_47.183281_8.523443@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6509d9cb2b11485d8450fe3ec9b1f941",
+    "wof:geomhash":"1395b1463ec3c9175848e5c729d5db50",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236489861,
-    "wof:lastmodified":1473798404,
+    "wof:lastmodified":1510942322,
     "wof:name":"Bolisse Sorgenta Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074947843
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "biochemicals"

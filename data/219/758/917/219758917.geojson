@@ -7,13 +7,16 @@
     "addr:postcode":"8404",
     "addr:street":"Frauenfelderstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.758912,47.507164,8.758912,47.507164",
     "geom:latitude":47.507164,
     "geom:longitude":8.758912,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Frauenfelderstr. 30",
     "sg:city":"Winterthur",
     "sg:classifiers":[
@@ -36,10 +39,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":113580619,
         "sg:id":"SG_6zsZzeXSbqrQNn7g1AlRGq_47.507164_8.758912@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"93702c9de600a601fd728e6111396e40",
+    "wof:geomhash":"2c5bfeca3253b9f27a7795195abd38a1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":219758917,
-    "wof:lastmodified":1473798404,
+    "wof:lastmodified":1510943245,
     "wof:name":"Z\u00fcrcher Kantonalbank",
     "wof:parent_id":85800039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075203057
+    ],
+    "wof:supersedes":[
+        1075203057
+    ],
     "wof:tags":[]
 },
   "bbox": [

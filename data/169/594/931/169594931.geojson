@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Hardstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.606698,47.549545,7.606698,47.549545",
     "geom:latitude":47.549545,
     "geom:longitude":7.606698,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hardstrasse 95",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_7cc1D2IbbjNq5GMHEClFkG_47.549545_7.606698@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"23acb290868944b062845fa0999dc799",
+    "wof:geomhash":"916e8ae16bc45ca87fd9874be58da6c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":169594931,
-    "wof:lastmodified":1473798021,
+    "wof:lastmodified":1510942734,
     "wof:name":"B\u00dcrkert-contromatic Ag",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219457121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

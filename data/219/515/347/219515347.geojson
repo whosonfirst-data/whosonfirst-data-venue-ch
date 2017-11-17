@@ -7,13 +7,16 @@
     "addr:postcode":"4133",
     "addr:street":"Bahnhofstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.691586,47.520519,7.691586,47.520519",
     "geom:latitude":47.520519,
     "geom:longitude":7.691586,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bahnhofstr. 16",
     "sg:city":"Pratteln",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6T3SjSp8iRD3MSB2IDTxxQ_47.520519_7.691586@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"04e2c2a64d1c760587315fcaf35c383f",
+    "wof:geomhash":"0dcb8016de467f56b33b68428fc7b2fd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219515347,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1510943408,
     "wof:name":"Basellandschaftliche, Kantonalbank",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075202355
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

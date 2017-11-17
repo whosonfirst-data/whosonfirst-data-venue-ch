@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6532559395,47.5302696228,7.6532559395,47.5302696228",
     "geom:latitude":47.53027,
     "geom:longitude":7.653256,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Frohburgerstr. 25",
     "sg:city":"Muttenz",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473748041,
-    "wof:geomhash":"e708797e851131287e2694f45bf54869",
+    "wof:geomhash":"cb63dc3a87cd07bae93bf76a6295e1c9",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1075262173,
-    "wof:lastmodified":1473748041,
+    "wof:lastmodified":1510942891,
     "wof:name":"Krieger Ag",
     "wof:parent_id":85800251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1075130367
+    ],
     "wof:tags":[
         "machine",
         "-",

@@ -7,13 +7,16 @@
     "addr:postcode":"4702",
     "addr:street":"Hauptstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.719499,47.290085,7.719499,47.290085",
     "geom:latitude":47.290085,
     "geom:longitude":7.719499,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hauptstr. 40",
     "sg:city":"Oensingen",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0Usp3DK4Yt73JeAmaaGKG1_47.290085_7.719499@1306268626"
     },
     "wof:country":"CH",
-    "wof:geomhash":"fb84d9930b714839f8ced9623d9507ea",
+    "wof:geomhash":"db66f9db7494f21174ec38cf5863171e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219536187,
-    "wof:lastmodified":1473798333,
+    "wof:lastmodified":1510942136,
     "wof:name":"Credit Suisse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074939749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

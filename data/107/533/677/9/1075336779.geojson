@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3894209862,46.9346656799,7.3894209862,46.9346656799",
     "geom:latitude":46.934666,
     "geom:longitude":7.389421,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Morgenstrasse 129",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473751427,
-    "wof:geomhash":"83722125f9ef40bf5b3d22a3e7ae1c0c",
+    "wof:geomhash":"79b776eb3b9659141587900dba1e4a97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1075336779,
-    "wof:lastmodified":1473751427,
+    "wof:lastmodified":1510941586,
     "wof:name":"Walter Systems Holding Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075662391
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

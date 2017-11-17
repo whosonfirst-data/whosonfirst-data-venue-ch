@@ -7,13 +7,16 @@
     "addr:postcode":"8953",
     "addr:street":"Silbernstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.394901,47.417294,8.394901,47.417294",
     "geom:latitude":47.417294,
     "geom:longitude":8.394901,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Silbernstrasse 14",
     "sg:city":"Dietikon",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1IPz2yZzMYnUfUMISzmuCq_47.417294_8.394901@1306268610"
     },
     "wof:country":"CH",
-    "wof:geomhash":"de4537f21002e6d7e407c3b6a627ce9f",
+    "wof:geomhash":"e06446762bc78095aa3189aa7a91565d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":185632873,
-    "wof:lastmodified":1473798052,
+    "wof:lastmodified":1510943563,
     "wof:name":"Orgapack Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262333
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "adhesive",

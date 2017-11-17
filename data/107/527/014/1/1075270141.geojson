@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.4305238724,46.9355545044,7.4305238724,46.9355545044",
     "geom:latitude":46.935555,
     "geom:longitude":7.430524,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"S\u00fcdbahnhofstrasse 14d",
     "sg:city":"Bern",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473748369,
-    "wof:geomhash":"4180eee06c649f9da7abaa52625702a1",
+    "wof:geomhash":"21748e7e7255911a029db57ee1029a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":1075270141,
-    "wof:lastmodified":1473748369,
+    "wof:lastmodified":1510943950,
     "wof:name":"Novartis Pharma (schweiz) Ag",
     "wof:parent_id":85800613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075272467
+    ],
+    "wof:supersedes":[
+        1074976997
+    ],
     "wof:tags":[
         "medicine",
         "infection",

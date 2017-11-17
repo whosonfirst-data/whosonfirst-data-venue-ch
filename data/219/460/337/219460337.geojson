@@ -7,13 +7,16 @@
     "addr:postcode":"4003",
     "addr:street":"Steinengraben",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.585699,47.554314,7.585699,47.554314",
     "geom:latitude":47.554314,
     "geom:longitude":7.585699,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steinengraben 41",
     "sg:city":"Basel",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2RetQrYWHaE3cOS490bKJI_47.554314_7.585699@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4fdddd61f86df3ad5805ab908df22d39",
+    "wof:geomhash":"61e8ca5725d2e9736b89059d3a4d468c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +61,18 @@
         }
     ],
     "wof:id":219460337,
-    "wof:lastmodified":1473798309,
+    "wof:lastmodified":1510944093,
     "wof:name":"Schweizerische National- Versicherungs-gesellschaft",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075235321,
+        1075557333
+    ],
+    "wof:supersedes":[
+        169742275
+    ],
     "wof:tags":[
         "banking",
         "finance",

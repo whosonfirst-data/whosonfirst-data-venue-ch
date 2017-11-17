@@ -7,13 +7,16 @@
     "addr:postcode":"8954",
     "addr:street":"Grindlenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.415192,47.41674,8.415192,47.41674",
     "geom:latitude":47.41674,
     "geom:longitude":8.415192,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grindlenstrasse 5",
     "sg:city":"Geroldswil",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6HztbhJEKX13tQDDJV1jEz_47.416740_8.415192@1306268609"
     },
     "wof:country":"CH",
-    "wof:geomhash":"6b3479fa2bc47ba2fffb4f719d07dffc",
+    "wof:geomhash":"f14e3cd1f0d857233900732a6c2f49ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,15 @@
         }
     ],
     "wof:id":169742323,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1510943625,
     "wof:name":"Sipro Stahl Holding Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219458589,
+        1075515017
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

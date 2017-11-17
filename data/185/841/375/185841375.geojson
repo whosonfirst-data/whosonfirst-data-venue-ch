@@ -7,13 +7,16 @@
     "addr:postcode":"4622",
     "addr:street":"Industriestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.792497,47.315414,7.792497,47.315414",
     "geom:latitude":47.315414,
     "geom:longitude":7.792497,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 16",
     "sg:city":"Egerkingen",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_08KdBd6soDVyanG7i0Xo61_47.315414_7.792497@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"1597723962b5d33c71feec03541f1846",
+    "wof:geomhash":"90c57b24022ec51391d865734772b100",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":185841375,
-    "wof:lastmodified":1473798229,
+    "wof:lastmodified":1510942320,
     "wof:name":"Friosol Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075262003
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air-conditioning",

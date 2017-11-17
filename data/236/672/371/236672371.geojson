@@ -7,13 +7,16 @@
     "addr:postcode":"8610",
     "addr:street":"Wilstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.708664,47.346767,8.708664,47.346767",
     "geom:latitude":47.346767,
     "geom:longitude":8.708664,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wilstrasse 11",
     "sg:city":"Uster",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_0CljUM7NtZ2dj5Q1olNa2Z_47.346767_8.708664@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e630ec061d3d32a5ce24d02b4daf5c72",
+    "wof:geomhash":"7a66258a7fa35e1514c1fe4a05f99cac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":236672371,
-    "wof:lastmodified":1473798437,
+    "wof:lastmodified":1510942989,
     "wof:name":"Swiss Pac Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075122527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "folder",

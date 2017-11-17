@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3078680038,47.1371803284,7.3078680038,47.1371803284",
     "geom:latitude":47.13718,
     "geom:longitude":7.307868,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Byfangstrasse 17",
     "sg:city":"Orpund",
     "sg:classifiers":[
@@ -37,15 +40,17 @@
     },
     "wof:country":"CH",
     "wof:created":1473726012,
-    "wof:geomhash":"63b65f43c29d4551409a8b140b3e369a",
+    "wof:geomhash":"7efc1a82b294356926bb1c3a3ed8ab09",
     "wof:hierarchy":[],
     "wof:id":1074812685,
-    "wof:lastmodified":1473726012,
+    "wof:lastmodified":1510941965,
     "wof:name":"Tubafin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074844963
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel",

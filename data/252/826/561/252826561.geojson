@@ -7,6 +7,7 @@
     "addr:postcode":"8001 zuerich. postfach;8001",
     "addr:street":"Talstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.538337,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Talstrasse 20 8001 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_2sHZPRwvdsQvLf8AFGy52n_47.368904_8.538337@1306268640"
     },
     "wof:country":"CH",
-    "wof:geomhash":"e2f281c28f8daf5c2999aca10965f44b",
+    "wof:geomhash":"f2a180c489450958fe65f074658513f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":252826561,
-    "wof:lastmodified":1491899211,
+    "wof:lastmodified":1510943727,
     "wof:name":"Emeco Ag",
     "wof:parent_id":85799725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074941125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

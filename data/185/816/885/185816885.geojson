@@ -7,13 +7,16 @@
     "addr:postcode":"3414",
     "addr:street":"Zimmerbergstr.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.62605,47.039005,7.62605,47.039005",
     "geom:latitude":47.039005,
     "geom:longitude":7.62605,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zimmerbergstr. 64",
     "sg:city":"Oberburg",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_0ZzuxJT59FpnNlDNXZxwAH_47.039005_7.626050@1306268611"
     },
     "wof:country":"CH",
-    "wof:geomhash":"890b042bd536253052ef237810c8f385",
+    "wof:geomhash":"32e5dc5187e60b8f6d85dc744b72bdf7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":185816885,
-    "wof:lastmodified":1473798207,
+    "wof:lastmodified":1510943448,
     "wof:name":"Jakob Bolzli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074809731
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advice",

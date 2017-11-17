@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6051921844,47.5213851929,7.6051921844,47.5213851929",
     "geom:latitude":47.521385,
     "geom:longitude":7.605192,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grabenackerstrasse 15",
     "sg:city":"M\u00fcnchenstein",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749706,
-    "wof:geomhash":"38ad5e7dc7500ba607f28a3a887dcae5",
+    "wof:geomhash":"fc1ea044bb49d419567fb6c5d1fd5fde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":1075299161,
-    "wof:lastmodified":1473749706,
+    "wof:lastmodified":1510942552,
     "wof:name":"Express Logistique Gmbh",
     "wof:parent_id":85800233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075625273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

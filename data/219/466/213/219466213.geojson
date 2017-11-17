@@ -7,13 +7,16 @@
     "addr:postcode":"8008",
     "addr:street":"Falkenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.548681,47.3657,8.548681,47.3657",
     "geom:latitude":47.3657,
     "geom:longitude":8.548681,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Falkenstrasse 28",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7Dp2jXFWTsyAEP2fxZHpOK_47.365700_8.548681@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0ebad193e872ac4a5525e57461d129d3",
+    "wof:geomhash":"773b754e2b7121dc445f02b25a42268e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219466213,
-    "wof:lastmodified":1473798301,
+    "wof:lastmodified":1510942501,
     "wof:name":"Anlage-und Kreditbank Akb",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219466217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

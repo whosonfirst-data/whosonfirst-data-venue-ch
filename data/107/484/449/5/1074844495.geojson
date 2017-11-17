@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,6 +12,7 @@
     "geom:longitude":8.55925,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"S\u00e4gereistrasse 24",
     "sg:city":"Glattbrugg",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473727614,
-    "wof:geomhash":"b5fae05a019f8b8a68160b2ff25b21b7",
+    "wof:geomhash":"b9cbde828db9c3f5bf873a8c4159c42e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":1074844495,
-    "wof:lastmodified":1491916057,
+    "wof:lastmodified":1510942422,
     "wof:name":"Kurz Pr\u00e4gefolien Ag",
     "wof:parent_id":85800527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074986907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "press",

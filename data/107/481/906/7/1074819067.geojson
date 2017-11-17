@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5325126648,47.3359069824,8.5325126648,47.3359069824",
     "geom:latitude":47.335907,
     "geom:longitude":8.532513,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nidelbadstrasse 2 8038 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473726355,
-    "wof:geomhash":"cc4595541c082c5c1aaf7b7c22adc5fc",
+    "wof:geomhash":"9df0dc0e2c6b307b2f985515c197f9c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1074819067,
-    "wof:lastmodified":1473726355,
+    "wof:lastmodified":1510943323,
     "wof:name":"Spefa Druck Ag",
     "wof:parent_id":85800667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075387821
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

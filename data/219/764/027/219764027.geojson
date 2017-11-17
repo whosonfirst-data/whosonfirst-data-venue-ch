@@ -7,13 +7,16 @@
     "addr:postcode":"1219",
     "addr:street":"Chemin De-Maisonneuve",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.112252,46.21225,6.112252,46.21225",
     "geom:latitude":46.21225,
     "geom:longitude":6.112252,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chemin De-maisonneuve 9",
     "sg:city":"Ch\u00e2telaine",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_4jZkoXrrGjAA4uZIc61pys_46.212250_6.112252@1306268628"
     },
     "wof:country":"CH",
-    "wof:geomhash":"0bb15a29c29cb8ed12c5be6b0e27ace6",
+    "wof:geomhash":"02d00e153149fba659b7e067bbfe932f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":219764027,
-    "wof:lastmodified":1473798395,
+    "wof:lastmodified":1510943559,
     "wof:name":"Auporta S.a.",
     "wof:parent_id":85800133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075591349
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

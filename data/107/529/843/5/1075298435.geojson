@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.54271698,47.3808631897,8.54271698,47.3808631897",
     "geom:latitude":47.380863,
     "geom:longitude":8.542717,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stampfenbachstrasse 52 8006 Z\u00fcrich. Postfach",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749675,
-    "wof:geomhash":"45aff83cb5ea75cc26c7d6d7e4aea14e",
+    "wof:geomhash":"8ae563c55764bf44599465d7502026f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075298435,
-    "wof:lastmodified":1473749675,
+    "wof:lastmodified":1510942577,
     "wof:name":"Eqt Northern Europe Ltd Beteiligungen",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075624547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

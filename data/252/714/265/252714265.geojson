@@ -7,13 +7,16 @@
     "addr:postcode":"3018",
     "addr:street":"Morgenstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.389421,46.934666,7.389421,46.934666",
     "geom:latitude":46.934666,
     "geom:longitude":7.389421,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Morgenstrasse 129",
     "sg:city":"Bern",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2VpLFJeamUON4DhvThv4x0_46.934666_7.389421@1306268639"
     },
     "wof:country":"CH",
-    "wof:geomhash":"35e11b9d36fb3d73799a6878723f177c",
+    "wof:geomhash":"268c9720055de825294d3a3d7152eb38",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":252714265,
-    "wof:lastmodified":1473798025,
+    "wof:lastmodified":1510943078,
     "wof:name":"Mathys & Scheitlin Ag",
     "wof:parent_id":85799863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074808695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

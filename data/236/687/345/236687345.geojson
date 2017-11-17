@@ -7,13 +7,16 @@
     "addr:postcode":"8008",
     "addr:street":"Bellerivestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.557875,47.353203,8.557875,47.353203",
     "geom:latitude":47.353203,
     "geom:longitude":8.557875,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bellerivestrasse 203",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6on6HA3JnVUrG3BgzRASEU_47.353203_8.557875@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"2fccc26375ee9ef509c3d756f3a9e3b9",
+    "wof:geomhash":"173c43864e7adfcb6c6001c1dfcdfb27",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236687345,
-    "wof:lastmodified":1473798444,
+    "wof:lastmodified":1510941845,
     "wof:name":"Kraft Foods (schweiz) Ag",
     "wof:parent_id":85800457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075062453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

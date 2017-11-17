@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1057100296,46.2289466858,6.1057100296,46.2289466858",
     "geom:latitude":46.228947,
     "geom:longitude":6.10571,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De Pr\u00e9-bois 29",
     "sg:city":"Meyrin",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473750739,
-    "wof:geomhash":"3a0c65e941b97a9914c3a4bd69fb8d57",
+    "wof:geomhash":"4e27597cee9e67b43fde99a943ca9486",
     "wof:hierarchy":[
         {
             "campus_id":102553901,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1075319601,
-    "wof:lastmodified":1473750739,
+    "wof:lastmodified":1510943031,
     "wof:name":"Posttchi Sa",
     "wof:parent_id":102553901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075645483
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

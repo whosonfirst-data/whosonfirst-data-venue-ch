@@ -7,13 +7,16 @@
     "addr:postcode":"6343",
     "addr:street":"Industriestrasse;Zug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.431049,47.151421,8.431049,47.151421",
     "geom:latitude":47.151421,
     "geom:longitude":8.431049,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 11",
     "sg:city":"Rotkreuz",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3ydbsSOfoNY6mReuAZsQ9x_47.151421_8.431049@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d76ae7d7d3a4d69e048e34a6f5ad5158",
+    "wof:geomhash":"f44842154964d283cfa815fa02e5ef79",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":236636785,
-    "wof:lastmodified":1473798444,
+    "wof:lastmodified":1510942312,
     "wof:name":"Bito Lagertechnik Bittmann Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075087083,
+        1075031695
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shelf",

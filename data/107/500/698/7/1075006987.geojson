@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.55437994,47.5055961609,7.55437994,47.5055961609",
     "geom:latitude":47.505596,
     "geom:longitude":7.55438,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oberwilerstrasse 48",
     "sg:city":"Therwil",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473736147,
-    "wof:geomhash":"51ec22ba34cf881fdd97878d47ef5e86",
+    "wof:geomhash":"f2bfd8ef050f03a5596bb47b29bea0d0",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1075006987,
-    "wof:lastmodified":1473736147,
+    "wof:lastmodified":1510941840,
     "wof:name":"Gutzwiller Transporte Ag",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075610505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

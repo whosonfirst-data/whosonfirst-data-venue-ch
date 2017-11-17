@@ -7,13 +7,16 @@
     "addr:postcode":"4922;4922",
     "addr:street":"Zuerichstrasse;Postfach Buetzberg Bern",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.757778,47.217499,7.757778,47.217499",
     "geom:latitude":47.217499,
     "geom:longitude":7.757778,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Z\u00fcrichstrasse 37 4922 B\u00fctzberg. Postfach",
     "sg:city":"B\u00fctzberg",
     "sg:classifiers":[],
@@ -29,10 +32,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":202691296,
         "sg:id":"SG_6BRUu8TGqodMN4P4DQKPCJ_47.217499_7.757778@1306268624"
     },
     "wof:country":"CH",
-    "wof:geomhash":"eb72c1b414bdfe8ccdf1ea8dc10ed606",
+    "wof:geomhash":"638525dfff52cd6e44994115b23fcf6a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +48,17 @@
         }
     ],
     "wof:id":219313235,
-    "wof:lastmodified":1473798182,
+    "wof:lastmodified":1510943084,
     "wof:name":"Schneeberger Ag Automobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075021999
+    ],
+    "wof:supersedes":[
+        1075021999
+    ],
     "wof:tags":[]
 },
   "bbox": [

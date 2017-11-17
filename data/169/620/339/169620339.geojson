@@ -7,13 +7,16 @@
     "addr:postcode":"1033;1033",
     "addr:street":"Rue De La Me\u0300Bre;Case Postale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.607357,46.582264,6.607357,46.582264",
     "geom:latitude":46.582264,
     "geom:longitude":6.607357,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La M\u00e8bre 7 1033 Cheseaux-lausanne Case Postale 126",
     "sg:city":"Cheseaux-lausanne",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_4AoP9aKiZQKUxKYArtD8ul_46.582264_6.607357@1306268617"
     },
     "wof:country":"CH",
-    "wof:geomhash":"b1624e70271adfe2c4209486ed3d57e8",
+    "wof:geomhash":"64c3eec5eab7a2cc2bc33ec4ab3797a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169620339,
-    "wof:lastmodified":1473798066,
+    "wof:lastmodified":1510943711,
     "wof:name":"Geotest Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074929399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

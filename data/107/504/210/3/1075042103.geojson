@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.5506191254,47.364780426,8.5506191254,47.364780426",
     "geom:latitude":47.36478,
     "geom:longitude":8.550619,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"M\u00fchlebachstrasse 25",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473737825,
-    "wof:geomhash":"700e06adaa7dba0fa9f72b35deef6ccb",
+    "wof:geomhash":"03c00b2ecdabad08405c72f69a96156c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":1075042103,
-    "wof:lastmodified":1473737825,
+    "wof:lastmodified":1510943031,
     "wof:name":"Bio-strath Ag",
     "wof:parent_id":85800077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236697641
+    ],
     "wof:tags":[
         "herbal",
         "pharmaceutical"

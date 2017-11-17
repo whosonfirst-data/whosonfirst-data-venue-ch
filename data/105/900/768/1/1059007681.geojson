@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4392547607,47.4024276733,8.4392547607,47.4024276733",
     "geom:latitude":47.402428,
     "geom:longitude":8.439255,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bernstrasse 60 8952 Schlieren. Postfach 362",
     "sg:city":"Schlieren",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473722329,
-    "wof:geomhash":"be97ffc4af8f5d66714e62fbcf15677b",
+    "wof:geomhash":"3bf5f691d33babde02193b1cc810a91e",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -42,12 +45,14 @@
         }
     ],
     "wof:id":1059007681,
-    "wof:lastmodified":1473722329,
+    "wof:lastmodified":1510943073,
     "wof:name":"Sibir Haushalttechnik Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074829505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

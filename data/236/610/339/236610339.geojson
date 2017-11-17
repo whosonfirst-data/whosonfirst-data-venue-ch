@@ -7,13 +7,16 @@
     "addr:postcode":"6370",
     "addr:street":"Hansmatt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.351744,46.967766,8.351744,46.967766",
     "geom:latitude":46.967766,
     "geom:longitude":8.351744,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hansmatt 30",
     "sg:city":"Stans",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_79GezDP43dJvfvAAledsXt_46.967766_8.351744@1306268636"
     },
     "wof:country":"CH",
-    "wof:geomhash":"4b7589408299245e084a8499d893e816",
+    "wof:geomhash":"56d072bba8ad60f4663a13f775a3bcfa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236610339,
-    "wof:lastmodified":1473798428,
+    "wof:lastmodified":1510941913,
     "wof:name":"Agil Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1075102683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "construction",

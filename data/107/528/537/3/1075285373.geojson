@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.5867228508,47.5490264893,7.5867228508,47.5490264893",
     "geom:latitude":47.549026,
     "geom:longitude":7.586723,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Viaduktstrasse 12",
     "sg:city":"Basel",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"CH",
     "wof:created":1473749044,
-    "wof:geomhash":"8d53a812ab597b7f3d2316579f272903",
+    "wof:geomhash":"1a24923a4049137f21d9e3bf8fa8af00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +51,17 @@
         }
     ],
     "wof:id":1075285373,
-    "wof:lastmodified":1473749044,
+    "wof:lastmodified":1510942456,
     "wof:name":"Ag F\u00fcr Fruchthandel",
     "wof:parent_id":85799681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075611881
+    ],
+    "wof:supersedes":[
+        185817093
+    ],
     "wof:tags":[]
 },
   "bbox": [

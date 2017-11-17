@@ -7,13 +7,16 @@
     "addr:postcode":"8902",
     "addr:street":"In Der Luberzen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.418407,47.393238,8.418407,47.393238",
     "geom:latitude":47.393238,
     "geom:longitude":8.418407,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"In Der Luberzen 1",
     "sg:city":"Urdorf",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
         "sg:id":"SG_40VQ70udzz29pr1BmHNRcf_47.393238_8.418407@1306268625"
     },
     "wof:country":"CH",
-    "wof:geomhash":"ac0b368a1e8ca23a02200869297c8f4f",
+    "wof:geomhash":"7cb265443fc6e1a7025b364608da97eb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,13 +65,17 @@
         }
     ],
     "wof:id":219458909,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1510943539,
     "wof:name":"Dun & Bradstreet (schweiz) Ag",
     "wof:parent_id":85799941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1075519891
+    ],
+    "wof:supersedes":[
+        169739609
+    ],
     "wof:tags":[
         "medium",
         "finance",

@@ -7,13 +7,16 @@
     "addr:postcode":"8006",
     "addr:street":"Stampfenbachstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.541657,47.38179,8.541657,47.38179",
     "geom:latitude":47.38179,
     "geom:longitude":8.541657,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stampfenbachstrasse 73",
     "sg:city":"Z\u00fcrich",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_18uontrGfekvFwYLZbWPS0_47.381790_8.541657@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"d24668c05fd7e5181c06726c879e3a54",
+    "wof:geomhash":"4bb8201485f322794ed6c020880cfbf1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,15 @@
         }
     ],
     "wof:id":236543889,
-    "wof:lastmodified":1473798428,
+    "wof:lastmodified":1510943889,
     "wof:name":"Pricewaterhouse Coopers Ag",
     "wof:parent_id":85800361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236956773,
+        1075780181
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"

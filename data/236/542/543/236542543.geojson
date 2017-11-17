@@ -7,13 +7,16 @@
     "addr:postcode":"4106",
     "addr:street":"Ringstrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.552866,47.505009,7.552866,47.505009",
     "geom:latitude":47.505009,
     "geom:longitude":7.552866,
     "iso:country":"CH",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ringstrasse 39",
     "sg:city":"Therwil",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_769wHhvHIappvXjmoD72el_47.505009_7.552866@1306268635"
     },
     "wof:country":"CH",
-    "wof:geomhash":"eebd9b48d9ed04528a87406858e08b40",
+    "wof:geomhash":"d6d10e542ac707a1be9f3c2ac099befc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236542543,
-    "wof:lastmodified":1473798418,
+    "wof:lastmodified":1510942614,
     "wof:name":"D-concept Gmbh",
     "wof:parent_id":85800367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1074949995
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "book-keeping"
